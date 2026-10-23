@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,26 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/547-2003-1156950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:40:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8cf96a373a1711835c0794a379789409a67624d5d8c352053a81497b850eaee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 748d333bd0a89daaa59b0eec5fcb306fc55cb5d34cd99ad577cf5ce4ab6006a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:40:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Financiamento
+- Formação Profissional
+- FSE
+- Programa AGRO
+- QCA III
+- Regulamento
+- Regulamento de Aplicação da Medida Nº 7-formação Profissional
 relationships:
+- type: amended_by
+  target: pt:dre:927748:por
+  label: "Anulada pela DECL.211/2003(2ªSÉRIE).2003.06.05.SG-MSST DR.IIS [144] de 25/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/211-2003-927748
+  date: '2003-06-05'
 - type: cites
   target: celex:32001R0068
   label: null
@@ -74,16 +86,64 @@ relationships:
   target: celex:32001R0069
   label: null
   source: null
+- type: cites
+  target: pt:dre:220121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626984:por
+  label: null
+  source: null
 article_structure:
   article_count: 65
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:40:23Z'
   warnings: []
   errors: []
 ---
@@ -388,11 +448,11 @@ b) Nos pedidos de financiamento titulados por entidades com fins lucrativos na q
 
 i) Quando o montante da ajuda a atribuir no pedido de financiamento e outros apoios concedidos à mesma entidade titular desse pedido não excederem, durante o período de três anos anteriores à data da decisão, Euro 100 000, a título do n.º 14 das Orientações Comunitárias para os Auxílios Estatais para o Sector Agrícola, publicadas no JO, C-28, de 1 de Fevereiro de 2000, o financiamento público é de 75% ou 85%, consoante a dimensão da empresa, sendo determinado pela diferença entre o custo total elegível aprovado, as receitas e a contribuição privada, em conformidade com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf))](https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf)
 
 ii) Quando o montante das ajudas a atribuir for superior a Euro 100 000, ou que, pela decisão, aquele limite seja ultrapassado, o financiamento público é o constante do quadro seguinte, nos termos do regime de auxílios à formação previsto no artigo 4.º do Regulamento (CE) n.º 68/2001, da Comissão, de 12 de Janeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf))](https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/05/111000000/0724107252.pdf)
 
 iii) Tratando-se de acções realizadas durante o período normal de trabalho, são elegíveis os encargos com as remunerações dos activos em formação, até ao montante total da soma dos encargos das rubricas 2 a 7;
 

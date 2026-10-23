@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-2003-1695374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd7f0b1c19dd7437dbc85a93282622cce50c2bc550d20d88bc7db621261fbd93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5da86634a031daba5d9cfb504c52c95095bac8e1b31f370a4cd05215f0772fdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Militar
+- Bratislava
+- Bucareste
+- Budapeste
+- Embaixada
+- Forças Armadas
+- Hungria
+- KIEV
+- Missão Diplomática
+- Missão Militar
+- Nomeação
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:1402100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1402100:por
+  label: "Substituido pela PORT.221/2006(2ªSérie).27.12.2005.MNE, DR.IIS [11] de 16.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-2006-1402100
+  date: '2005-12-27'
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:38:46Z'
   warnings: []
   errors: []
 ---

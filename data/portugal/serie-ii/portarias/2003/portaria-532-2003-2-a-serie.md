@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/532-2003-822595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:40:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6374f990db4affebfa238b34209e91fa9fbe156596c94439d56022d8625964c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6a878bdcacae2e2a8a8d523b3ee88ddbcdb8c07733b7eec95496d55207efd01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:40:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Marinha
+- Militar
+- Missão Militar
+- Missão no Estrangeiro
+- NATO
+- Terrorismo
 relationships:
 - type: amended_by
   target: pt:dre:3117671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1244002:por
+  label: "Dada nova redacção ao nº 5 pela PORT.1406/2003(2ªSérie).30.10.2003.MDN, DR.IIS [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1406-2003-1244002
+  date: '2003-10-30'
+- type: amended_by
+  target: pt:dre:1754770:por
+  label: "Dada nova redacção ao n.º 5, com as alterações introduzidas pela Port 1406/2003(2ªSérie) de 30/Out do MDN DR.IIS\
+    \ [262] de 12/Nov/2003, pela PORT.248/2004(2ªSérie).09.02.2004.MDN, DR.IIS [46] de 24.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-2004-1754770
+  date: '2004-02-09'
+- type: amended_by
+  target: pt:dre:3117671:por
+  label: "Dada nova redacção ao n.º 5, pela PORT.813/2005(2ªSérie).05.08.2005.MDN, DR.IIS [163] de 25.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-2005-3117671
+  date: '2005-08-05'
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:40:18Z'
   warnings: []
   errors: []
 ---

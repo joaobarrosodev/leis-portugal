@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2776779:por
-title: Portaria n.º 1171/2003(2.ªsérie)
+title: Portaria n.º 1171/2003 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1171-2003-2776779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b50ea0c7b4041668fceaa25a6b3ca17a842f53dec3d7b97cdb912868bd421f40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43424ae7f0d397d14c084ab0bc4713f7e484ecc4a5896cb0bf734bb45a15c57d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Equipamento Informático
+- Ministério da Administração Interna
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:36:16Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1171/2003(2.ªsérie)
+# Portaria n.º 1171/2003 (2.ª série)
 
 Portaria n.º 1171/2003 (2.ª série). - Considerando que a Polícia de Segurança Pública tem necessidade de proceder à actualização do equipamento de processamento de dados central, com vista à modernização do seu sistema de informação, dotando-o de um computador da geração actual, de capacidade acrecida e dotado de processador tecnologicamente potente, rápido, evolutivo e capaz de acolher em paralelo o sistema operativo VSE actualmente instalado;
 

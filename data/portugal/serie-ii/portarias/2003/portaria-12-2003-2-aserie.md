@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:790621:por
-title: Portaria n.º 12/2003(2.ªsérie)
+title: Portaria n.º 12/2003 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-2003-790621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T16:36:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18b77dd03512fdbb6b9f829b77d554057d6d26b42112d8fc01e165bf0f80c0b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01df362d396c45775ee6b87134d9c3888b0cf18208b6ef1f09ad74eb76334351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:36:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Instituto Geológico e Mineiro
+- Matosinhos
+- são Mamede de Infesta
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:36:26Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 12/2003(2.ªsérie)
+# Portaria n.º 12/2003 (2.ª série)
 
 Portaria n.º 12/2003 (2.ª série). - Por portaria do Secretário de Estado da Habitação e Urbanismo publicada no Diário da República, 2.ª série, n.º 116, de 21 de Maio de 1985, ao abrigo do [Decreto-Lei n.º 34993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34993-1945-468233), de 11 de Outubro de 1945, foi fixada a zona de protecção das instalações do Serviço de Fomento Mineiro, actualmente pertencentes ao Instituto Geológico Mineiro, em São Mamede de Infesta, no município de Matosinhos, e dentro dela uma zona non aedificandi.
 
@@ -96,4 +105,4 @@ Manda o Governo, pelo Secretário de Estado Adjunto e do Ordenamento do Territó
 
 30 de Setembro de 2002. - O Secretário de Estado Adjunto e do Ordenamento do Território, José Mário Ferreira de Almeida.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/01/007000000/0029400294.pdf))](https://files.diariodarepublica.pt/2s/2003/01/007000000/0029400294.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/01/007000000/0029400294.pdf)

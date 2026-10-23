@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1291782:por
-title: Portaria n.º 1110/2004(2.ªsérie)
+title: Portaria n.º 1110/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1110-2004-1291782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:43:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df517a753d4927921e27a46dd01d12725194c719b5c3172ff3f812c8558e5e83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8095e7a1b3fa0dc1276c59c16edcc349a0b1ab7dc63398ffe7fc3703565f35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:43:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Combustível
+- Forças Armadas
+- Ministério da Defesa Nacional
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:43:33Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1110/2004(2.ªsérie)
+# Portaria n.º 1110/2004 (2.ª série)
 
 Portaria n.º 1110/2004 (2.ª série). - O Ministério da Defesa Nacional pretende celebrar um contrato de fornecimento de combustíveis e lubrificantes de operação, a utilizar em bens militares de natureza operacional dos ramos das Forças Armadas Portuguesas. Por razões que se prendem com a segurança nacional e com a invulnerabilidade das suas estruturas, o Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar, através do despacho n.º 97/MEDN/2004, de 22 de Junho, proferido ao abrigo do disposto no artigo 77.º, n.º 2, do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, reconheceu a situação de excepção prevista na alínea i) do n.º 1 do mesmo preceito, que admite a não aplicação do regime dos capítulos III e seguintes daquele diploma ao procedimento contratual em causa.
 
@@ -110,8 +118,8 @@ Assim e em conformidade com o artigo 22.º, n.º 1, do [Decreto-Lei n.º 197/99]
 
 ## ANEXO A QUE SE REFERE O N.º 1.º — Combustíveis de operação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/10/247000000/1533315334.pdf))](https://files.diariodarepublica.pt/2s/2004/10/247000000/1533315334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/10/247000000/1533315334.pdf)
 
 Lubrificantes de operação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/10/247000000/1533315334.pdf))](https://files.diariodarepublica.pt/2s/2004/10/247000000/1533315334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/10/247000000/1533315334.pdf)

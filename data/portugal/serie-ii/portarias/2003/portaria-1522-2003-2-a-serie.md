@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/12/291000000/1851118512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1522-2003-2276292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:38:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 941eb376c289f1f69307fcbcf0e60b485aaf489c9c7772571cee7ae39770e9ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43def1ece748cead3762614758d653e42f97e40caebb5937c553e157f6be0104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:38:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Medicamentosa
+- Comparticipação do Estado
+- Doença
+- Doença Infecciosa
+- Infarmed
+- Receita Médica
+- Saúde Pública
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:1293459:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:223070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580872:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1293459:por
+  label: "Revogada pela PORT.194/2012.10.05.2012.SES-MS, DR.IIS [91] de 10.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-2012-1293459
+  date: '2012-05-10'
+- type: republished_by
+  target: pt:dre:3653696:por
+  label: "Republicada a lista dos medicamentos pela PORT.274/2004(2ªSérie).02.02.2004.SES-MS, DR.IIS [56] de 06.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2004-3653696
+  date: '2004-02-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:38:08Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +174,4 @@ b) Estes doentes se encontrem notificados à entidade competente através da dec
 
 13 de Novembro de 2003. - O Secretário de Estado da Saúde, Carlos José das Neves Martins.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/291000000/1851118512.pdf))](https://files.diariodarepublica.pt/2s/2003/12/291000000/1851118512.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/291000000/1851118512.pdf)

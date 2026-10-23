@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2025333:por
-title: Portaria n.º 993/2003(2.ªsérie)
+title: Portaria n.º 993/2003 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/174000000/1142411425.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/993-2003-2025333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a14a9bf5e44e46abb70a988b873645af7d6ca9fac069cfe8dee1155535fbd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55cc5f1c27b0c73a3817b09c393bbcf3764d9f4087350133f68884b66030c819
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Águas Residuais
+- Autarquia Local
+- Instituto Regulador de Águas e Resíduos
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:611943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:143079:por
+  label: "Aditado um nº 3 ao art. 4º, alterado o nº 2 do art. 8º e aditado um nº 3 ao art. 12º, todos do presente diploma,\
+    \ pela PORT.813/2005.12.09.2005.MAOTDR, DR.IS-B [175] de 12.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-2005-143079
+  date: '2005-09-12'
+- type: cites
+  target: pt:dre:158586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611943:por
+  label: "Revogado o presente diploma, alterado pela Port 813/2005, de 12-Set, pela PORT.160/2010.15.03.2010.MAOT, DR.IS [51]\
+    \ de 15.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-2010-611943
+  date: '2010-03-15'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:42:57Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 993/2003(2.ªsérie)
+# Portaria n.º 993/2003 (2.ª série)
 
 Portaria n.º 993/2003 (2.ª série). - O [Decreto-Lei n.º 362/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1998-229307), de 18 de Novembro, na redacção do [Decreto-Lei n.º 151/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2002-158586), de 23 de Maio, que alterou o Estatuto do Instituto Regulador de Águas e Resíduos (IRAR), remeteu expressamente, no n.º 1 do seu artigo 23.º, para portaria do Ministro das Cidades, Ordenamento do Território e Ambiente a definição dos critérios para cálculo das taxas a serem pagas ao IRAR pelas entidades gestoras concessionárias de sistemas multimunicipais e municipais de água para consumo público, de águas residuais urbanas e de resíduos sólidos urbanos, a que ficam sujeitas no âmbito da sua actividade.
 

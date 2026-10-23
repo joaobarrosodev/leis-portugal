@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2758388:por
-title: Portaria n.º 1145/2004(2.ªsérie)
+title: Portaria n.º 1145/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2004/10/256000000/1596115963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1145-2004-2758388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f20c7533bdfcbe4969b3d7ba46fa96e01401730da10d514925e24e1fbc7725
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f150dd671812d580955929637e71b6e550b888d7a7d02a3c6296014940579972
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:43:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Fiscal
+- Contribuições e Impostos
+- Documento Eletrónico
+- Impresso
+- Internet
+- IRC
+- IRS
 relationships:
 - type: amended_by
   target: pt:dre:262317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262317:por
+  label: "Revogada pela PORT.11/2007.04.01.2007.MFAP, DR.IS [3] de 04.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-2007-262317
+  date: '2007-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:43:43Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1145/2004(2.ªsérie)
+# Portaria n.º 1145/2004 (2.ª série)
 
 Portaria n.º 1145/2004 (2.ª série). - A fim de conferir maior celeridade e eficácia ao controlo cruzado da informação respeitante aos rendimentos declarados pelos sujeitos passivos de IRS com a comunicação de rendimentos devidos e retenções na fonte efectuadas pelas entidades pagadoras, procedeu-se, através da [Portaria n.º 51/2004](https://diariodarepublica.pt/dr/detalhe/portaria/51-2004-603925), de 16 de Janeiro, à autonomização do anexo J da declaração anual contabilística e fiscal, destinado a dar cumprimento à obrigação declarativa a que se referem os artigos 119.º, n.º 1, alínea c), do Código do IRS e 120.º do Código do IRC.
 
@@ -128,4 +148,4 @@ b) Efectuar o envio de acordo com os seguintes procedimentos:
 
 28 de Setembro de 2004. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/10/256000000/1596115963.pdf))](https://files.diariodarepublica.pt/2s/2004/10/256000000/1596115963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/10/256000000/1596115963.pdf)

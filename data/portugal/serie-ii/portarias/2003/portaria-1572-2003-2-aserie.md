@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2254401:por
-title: Portaria n.º 1572/2003(2.ªsérie)
+title: Portaria n.º 1572/2003 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1572-2003-2254401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13402a62549580e7e7c2f565e512a4355129603a05e22827133ce8c8cd7fbed5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c264a34124c656a57196ad93820561fae3aac44f5f22bc812b8951a2d0873589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:38:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Controlo Sanitário
+- Doença Vegetal
+- Pinheiro
+- Proteção do Ambiente
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:551843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantida em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
+- type: cites
+  target: pt:dre:197359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667118:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551843:por
+  label: "Revogada pela PORT.103/2006.06.02.2006.MADRP, DR.IS-B [26] de 06.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-2006-551843
+  date: '2006-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:38:24Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1572/2003(2.ªsérie)
+# Portaria n.º 1572/2003 (2.ª série)
 
 Portaria n.º 1572/2003 (2.ª série). - No ano de 1999 foi detectado em Portugal o nemátodo da madeira do pinheiro, Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al., sendo este organismo um dos mais prejudiciais para a madeira de coníferas.
 
@@ -350,19 +410,19 @@ Vila Franca de Xira ... Apenas a parte da freguesia de Vila Franca de Xira a sul
 
 Medidas aplicáveis ao material de coníferas hospedeiras com sintomas de nemátodos da madeira de pinheiro na zona de restrição a que se refere a alínea a) do n.º 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf))](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
 
 ## ANEXO IV — Quando único
 
 Medidas aplicáveis ao material de coníferas hospedeiras sem sintomas na zona de restrição a que se refere a alínea a), do n.º 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf))](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
 
 ## ANEXO V — Quadro único
 
 Medidas aplicáveis ao material de coníferas hospedeiras armazenado e proveniente da zona isenta a que se refere a alínea b) do n.º 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf))](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
 
 ## ANEXO VI — Medidas aplicáveis à transformação industrial de material de coníferas hospedeiras, a que se refere a alínea c), do n.º 4.º
 
@@ -372,14 +432,14 @@ Medidas aplicáveis aos produtos de coníferas hospedeiras com origem na Zona de
 
 A) Envio para zona isenta
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf))](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
 
 B) Circulação na ZR
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf))](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
 
 QUADRO N.º 2
 
 Medidas aplicáveis aos produtos de coníferas hospedeiras com origem na zona isenta
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf))](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/12/298000000/1884618853.pdf)

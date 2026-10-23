@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1817050:por
-title: Portaria n.º 346/2003(2.ªsérie)
+title: Portaria n.º 346/2003 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-2003-1817050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T16:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ddd5b7a98986df47d45b9e52fa9c7b659722c6cca7da54e2fceaa755be1aa2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0809516fb9b31cc7a5d37391a8a9cf5615c9e534879e457c020c975a13e2033e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:39:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Direção Geral da Saúde
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666560:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:39:28Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 346/2003(2.ªsérie)
+# Portaria n.º 346/2003 (2.ª série)
 
 Portaria n.º 346/2003 (2.ª série). - Considerando que o licenciado José Augusto Aleixo Dias cessou em 28 de Fevereiro de 1998 o exercício de funções dirigentes, à data no cargo de chefe de Divisão de Epidemiologia da Direcção-Geral da Saúde;
 
