@@ -225,10 +225,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:539393:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:540393:por
   label: null
   source: null
@@ -321,6 +317,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:334973:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:539393:por
   label: null
   source: null
 article_structure:

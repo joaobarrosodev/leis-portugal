@@ -90,6 +90,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/13600cfa-c6ea-457d-a494-68bbb9476182
   date: '2016-06-09'
+- type: cited_by
+  target: pt:dre:1184326799:por
+  label: null
+  source: null
 - type: cites
   target: celex:12016E154
   label: null

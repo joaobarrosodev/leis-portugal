@@ -121,6 +121,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/329793ac-f1f6-11e3-8cd4-01aa75ed71a1
   date: '2014-06-12'
+- type: transposed_by
+  target: pt:dre:3299848:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 4

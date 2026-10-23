@@ -141,7 +141,7 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b86a5126-9bcd-4a14-982a-e82c9d09bf0e
   date: '1992-08-31'
 - type: cited_by
-  target: pt:dre:167823:por
+  target: pt:dre:1184326800:por
   label: null
   source: null
 - type: cited_by
@@ -203,6 +203,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/088da2c9-5337-11ed-92ed-01aa75ed71a1
   date: '2022-10-24'
+- type: transposed_by
+  target: pt:dre:167823:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:300828:por
   label: null

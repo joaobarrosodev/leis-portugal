@@ -414,6 +414,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/1a74ccc4-f553-45cb-9796-b5e4f6cc1602
   date: '1991-06-28'
 - type: transposed_by
+  target: pt:dre:1009517:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3382387:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:58585556:por
   label: null
   source: null

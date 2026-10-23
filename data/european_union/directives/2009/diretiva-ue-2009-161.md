@@ -130,6 +130,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/dd498d0c-1837-4935-805c-1dee7de714c8
 - type: transposed_by
+  target: pt:dre:1184326799:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:67332417:por
   label: null
   source: null

@@ -134,10 +134,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:901661917:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:909466295:por
   label: null
   source: null
@@ -189,6 +185,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/5bb3766d-79ea-11ee-99ba-01aa75ed71a1
   date: '2023-11-03'
+- type: transposed_by
+  target: pt:dre:901661917:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 23

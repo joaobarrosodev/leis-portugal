@@ -120,6 +120,46 @@ relationships:
   target: pt:dre:1161839915:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:117821873:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:138638754:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:175744218:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:183079162:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:212379454:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70237675:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70237676:por
+  label: null
+  source: null
 - type: cites
   target: celex:12016E290
   label: null

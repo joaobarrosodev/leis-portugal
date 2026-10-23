@@ -290,6 +290,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/cc3a8ccb-5a30-4b6e-8da8-b13348caeb0c
   date: '1986-12-18'
 - type: transposed_by
+  target: pt:dre:1103934892:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:117663336:por
   label: null
   source: null

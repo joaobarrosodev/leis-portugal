@@ -174,6 +174,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:1128002423:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:187481298:por
   label: null
   source: null
@@ -183,6 +187,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:225283594:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261161:por
   label: null
   source: null
 - type: cited_by

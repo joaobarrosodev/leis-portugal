@@ -1,6 +1,6 @@
 # Progresso do projeto
 
-Relatório gerado em 2026-10-22.
+Relatório gerado em 2026-10-23.
 
 ## Estado real
 
@@ -9,20 +9,20 @@ Relatório gerado em 2026-10-22.
 | Estrutura do pacote Python | Implementado | `src/leis_portugal/` |
 | Registo de fontes | Implementado | `config/sources.yml` validado por esquema |
 | Esquemas de metadados | Implementado | `schemas/` |
-| Conector EUR-Lex/CELLAR (por data, por CELEX e atos referidos) | Operacional | 7790 ato(s) da UE no acervo |
-| Conector DRE (1.ª Série, por data e consolidados) | Operacional | 172100 documento(s) do DRE |
-| Recolha direta (vs. importação inicial) | Em curso | 13468 recolhidos diretamente; 166422 ainda com o texto da importação inicial |
+| Conector EUR-Lex/CELLAR (por data, por CELEX e atos referidos) | Operacional | 7798 ato(s) da UE no acervo |
+| Conector DRE (1.ª Série, por data e consolidados) | Operacional | 241510 documento(s) do DRE |
+| Recolha direta (vs. importação inicial) | Em curso | 170648 recolhidos diretamente; 78660 ainda com o texto da importação inicial |
 | Relações entre diplomas | Parcial | DRE e CELLAR (alterações, revogações, retificações); citações e transposições de atos da UE detetadas no texto; ligações inversas nos atos da UE |
 | Relatórios derivados dos dados | Implementado | `reports/` |
 | Atualização diária automática | Implementado | `.github/workflows/atualizacao-diaria.yml` (DRE + EUR-Lex do dia anterior) |
-| Histórico de versões consolidadas | Implementado | 5663 registo(s) com `<registo>.versoes.json` (DRE: `collect dre-consolidated`; UE: `collect eurlex-consolidated`) |
+| Histórico de versões consolidadas | Implementado | 8049 registo(s) com `<registo>.versoes.json` (DRE: `collect dre-consolidated`; UE: `collect eurlex-consolidated`) |
 
 ## Estado das fontes
 
 | Fonte | Estado | Última verificação | Documentos |
 |---|---|---|---:|
-| eurlex-cellar | operational | 2026-10-22 | 7790 |
-| dre | operational | 2026-10-22 | 172100 |
+| eurlex-cellar | operational | 2026-10-22 | 7798 |
+| dre | operational | 2026-10-22 | 241510 |
 | parlamento | planned | — | 0 |
 | cnpd | planned | — | 0 |
 

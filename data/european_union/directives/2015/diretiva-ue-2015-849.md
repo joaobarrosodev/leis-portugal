@@ -506,7 +506,23 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:116506257:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:141382321:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:162022046:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:184434622:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:206463782:por
   label: null
   source: null
 - type: transposed_by

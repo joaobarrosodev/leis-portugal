@@ -88,6 +88,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/ed2b0bf3-c83f-4ac2-85c6-3a1727950729
   date: '2008-10-22'
 - type: cited_by
+  target: pt:dre:1070724089:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:497866:por
   label: null
   source: null

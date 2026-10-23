@@ -222,11 +222,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:116506257:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:119622094:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:120038537:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:130325827:por
   label: null
   source: null
 - type: cited_by

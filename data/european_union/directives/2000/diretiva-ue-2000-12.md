@@ -190,11 +190,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2628631:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2901906:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:313582:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3277916:por
   label: null
   source: null
 - type: cited_by
@@ -384,6 +396,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/ad5bb5fd-2ca2-44af-852a-22b4f16e5540
   date: '1998-07-29'
+- type: transposed_by
+  target: pt:dre:2901911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

@@ -240,7 +240,31 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/eaf28748-3a30-46a9-b820-9c9cfa3d8285
   date: '1977-01-31'
 - type: transposed_by
+  target: pt:dre:114467576:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:114467577:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:116212334:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:117543983:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:117543984:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:175744218:por
   label: null
   source: null
 - type: transposed_by

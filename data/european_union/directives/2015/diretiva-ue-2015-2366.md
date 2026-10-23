@@ -171,6 +171,18 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:208585587:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:378268125:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75450112:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:989749707:por
   label: null
   source: null
@@ -388,6 +400,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:116936932:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:161014566:por
   label: null
   source: null
 - type: transposed_by

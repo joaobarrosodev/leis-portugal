@@ -455,6 +455,14 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/5a65a4ea-077f-4961-8f5e-bef4353e941a
   date: '1989-05-05'
+- type: transposed_by
+  target: pt:dre:1465502:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:821750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

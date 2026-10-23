@@ -89,10 +89,6 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a7c572b0-ad13-4fd5-8d49-c4b69cd1e32d
   date: '2012-11-23'
 - type: cited_by
-  target: pt:dre:117279933:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:122852138:por
   label: null
   source: null
@@ -213,6 +209,10 @@ relationships:
   date: '2008-10-22'
 - type: transposed_by
   target: pt:dre:117184157:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:117279933:por
   label: null
   source: null
 article_structure:

@@ -534,6 +534,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/33214808-2cf0-4970-9dec-8f8843c3468d
   date: '2002-12-05'
 - type: transposed_by
+  target: pt:dre:1084345987:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:611962:por
   label: null
   source: null

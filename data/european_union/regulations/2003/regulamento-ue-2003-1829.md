@@ -288,6 +288,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:505211:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:517436:por
   label: null
   source: null

@@ -136,6 +136,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:378268125:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:483411:por
   label: null
   source: null
@@ -196,6 +200,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/c94e8eae-48ed-468b-beb8-21d8a3e2ed19
   date: '2000-11-02'
+- type: transposed_by
+  target: pt:dre:55021439:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 9

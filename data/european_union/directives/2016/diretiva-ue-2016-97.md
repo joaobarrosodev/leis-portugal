@@ -157,10 +157,6 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e42c4987-e312-4d71-a34e-dc40b2fffe4b
   date: '2012-11-23'
 - type: cited_by
-  target: pt:dre:117821873:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:70237675:por
   label: null
   source: null
@@ -251,6 +247,10 @@ relationships:
   date: '2003-01-16'
 - type: transposed_by
   target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:117821873:por
   label: null
   source: null
 - type: transposed_by

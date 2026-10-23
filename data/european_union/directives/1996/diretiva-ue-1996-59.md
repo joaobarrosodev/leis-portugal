@@ -165,6 +165,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/c33f0cd3-240a-495d-af52-f4af44f4c445
   date: '1976-04-26'
+- type: transposed_by
+  target: pt:dre:1070724089:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 1

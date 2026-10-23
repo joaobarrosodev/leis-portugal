@@ -313,6 +313,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/1851f1b6-d2a2-4ea7-a28e-a31537a7e30b
   date: '1999-06-09'
 - type: transposed_by
+  target: pt:dre:1184326799:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:137703603:por
   label: null
   source: null

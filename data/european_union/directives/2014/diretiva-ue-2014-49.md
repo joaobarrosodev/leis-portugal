@@ -148,6 +148,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:58217064:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:58217065:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:69727377:por
   label: null
   source: null

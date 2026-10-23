@@ -103,6 +103,14 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/76aafc94-f1f7-11e3-8cd4-01aa75ed71a1
   date: '2014-06-12'
+- type: transposed_by
+  target: pt:dre:2931318:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3160589:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

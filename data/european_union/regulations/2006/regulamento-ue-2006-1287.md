@@ -94,7 +94,35 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/08909c77-587d-43ec-b894-22c0a250ed89
   date: '2004-04-21'
 - type: cited_by
+  target: pt:dre:1692641:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1883420:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1929159:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1960656:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1960657:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1960658:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3464265:por
   label: null
   source: null
 - type: cited_by

@@ -117,6 +117,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/171e521a-3ffe-46ac-90eb-ed97dbb7dcd2
   date: '2007-01-31'
 - type: cited_by
+  target: pt:dre:2586685:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:332702:por
   label: null
   source: null
@@ -138,6 +142,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/056587cf-f1f8-11e3-8cd4-01aa75ed71a1
   date: '2014-06-12'
+- type: transposed_by
+  target: pt:dre:3464264:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0

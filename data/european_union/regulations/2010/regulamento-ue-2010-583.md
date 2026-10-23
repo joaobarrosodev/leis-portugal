@@ -102,7 +102,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:118540906:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124917020:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:130546261:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2019136:por
   label: null
   source: null
 - type: cited_by
@@ -115,6 +127,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:69828456:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:835896543:por
   label: null
   source: null
 - type: cites

@@ -96,10 +96,6 @@ relationships:
   target: pt:dre:492753:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:636752:por
-  label: null
-  source: null
 - type: cites
   target: celex:12002E005
   label: null
@@ -131,6 +127,10 @@ relationships:
   date: '2009-11-30'
 - type: transposed_by
   target: pt:dre:1128002422:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:636752:por
   label: null
   source: null
 article_structure:

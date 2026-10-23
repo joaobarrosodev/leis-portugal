@@ -567,6 +567,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949
   date: '2009-05-05'
 - type: transposed_by
+  target: pt:dre:1086140524:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:140431166:por
   label: null
   source: null

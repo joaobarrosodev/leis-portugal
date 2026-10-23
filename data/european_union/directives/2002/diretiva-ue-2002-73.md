@@ -101,10 +101,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:553929:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:632906:por
   label: null
   source: null
@@ -198,6 +194,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/bed4fa3f-d7f2-480b-b244-75d98e4efe14
   date: '2006-07-27'
+- type: transposed_by
+  target: pt:dre:553929:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0

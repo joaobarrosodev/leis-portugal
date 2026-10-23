@@ -235,6 +235,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/beaed281-4ea3-11f1-b3e2-01aa75ed71a1
   date: '2026-05-13'
+- type: transposed_by
+  target: pt:dre:821750:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 1

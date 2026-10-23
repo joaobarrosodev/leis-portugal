@@ -373,11 +373,23 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/aa9dd2d0-11e0-40df-8e04-b38cb2200e9c
   date: '1957-03-25'
 - type: cited_by
+  target: pt:dre:1121077:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:122476954:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1366261:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:141377978:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1538011:por
   label: null
   source: null
 - type: cited_by
@@ -405,7 +417,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2389614:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:239795:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2774137:por
   label: null
   source: null
 - type: cited_by

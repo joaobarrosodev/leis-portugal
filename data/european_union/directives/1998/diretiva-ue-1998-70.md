@@ -364,10 +364,6 @@ relationships:
   target: pt:dre:637232:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:898705893:por
-  label: null
-  source: null
 - type: cites
   target: celex:11992E003B
   label: null
@@ -478,6 +474,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:70409927:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:898705893:por
   label: null
   source: null
 article_structure:

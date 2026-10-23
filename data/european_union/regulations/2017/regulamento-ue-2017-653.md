@@ -190,6 +190,10 @@ relationships:
   target: pt:dre:117470858:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:835896543:por
+  label: null
+  source: null
 - type: cites
   target: celex:32009L0065
   label: null

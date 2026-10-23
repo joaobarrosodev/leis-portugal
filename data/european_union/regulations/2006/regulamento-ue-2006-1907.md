@@ -1607,6 +1607,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1184326799:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124346827:por
   label: null
   source: null
@@ -1712,6 +1716,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:499546:por
   label: null
   source: null
 - type: cited_by

@@ -250,6 +250,10 @@ relationships:
   target: pt:dre:935004232:por
   label: null
   source: null
+- type: transposed_by
+  target: pt:dre:960390702:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 18

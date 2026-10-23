@@ -303,6 +303,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2484942:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:258114:por
   label: null
   source: null
@@ -392,6 +396,14 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:1161839915:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1463266:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:682983:por
   label: null
   source: null
 - type: transposed_by

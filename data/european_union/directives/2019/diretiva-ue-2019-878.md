@@ -101,6 +101,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/e620b485-b565-46e8-a8f2-8226492a581d
   date: '2016-06-09'
+- type: cited_by
+  target: pt:dre:378268125:por
+  label: null
+  source: null
 - type: cites
   target: celex:12016E157
   label: null

@@ -1,14 +1,14 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-10-22 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-10-23 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
 
 ## Totais verificados
 
-- Documentos recolhidos: 179890
-- Documentos validados: 179890
+- Documentos recolhidos: 249308
+- Documentos validados: 249308
 - Fontes registadas: 4
 - Fontes operacionais: 2
 
@@ -16,8 +16,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Fonte | Estado operacional | Reutilização | Documentos no repositório | Âmbito verificado |
 |---|---|---|---|---|
-| eurlex-cellar | operational | permitted_with_conditions | 7790 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos atos referidos pela legislação portuguesa; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
-| dre | operational | permitted | 172100 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores) e legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). Verificado em 2026-10-22. |
+| eurlex-cellar | operational | permitted_with_conditions | 7798 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos atos referidos pela legislação portuguesa; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
+| dre | operational | permitted | 241510 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores) e legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). Verificado em 2026-10-22. |
 | parlamento | planned | unresolved | 0 | — |
 | cnpd | planned | unresolved | 0 | — |
 
@@ -25,58 +25,60 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Jurisdição | Documentos |
 |---|---:|
-| european_union | 7790 |
-| portugal | 164506 |
-| regional | 7594 |
+| european_union | 7798 |
+| portugal | 233783 |
+| regional | 7727 |
 
 ## Por região
 
 | Região | Documentos |
 |---|---:|
-| acores | 4130 |
-| madeira | 3464 |
-| nacional | 172296 |
+| acores | 4225 |
+| madeira | 3502 |
+| nacional | 241581 |
 
 ## Por tipo de diploma
 
 | Tipo | Documentos |
 |---|---:|
-| portaria | 84037 |
-| decreto-lei | 23559 |
-| declaracao-retificacao | 16225 |
-| decreto | 8835 |
-| despacho-normativo | 6578 |
+| portaria | 103495 |
+| decreto | 46870 |
+| decreto-lei | 31647 |
+| declaracao-retificacao | 16424 |
+| lei | 6702 |
+| despacho-normativo | 6579 |
 | decreto-presidente-republica | 5934 |
-| resolucao-assembleia-republica | 4787 |
-| lei | 4199 |
-| resolucao-conselho-ministros | 3958 |
-| resolucao | 3603 |
+| resolucao-assembleia-republica | 4788 |
+| resolucao-conselho-ministros | 3967 |
+| resolucao | 3615 |
 | directive | 3188 |
-| regulation | 3181 |
+| regulation | 3187 |
 | decreto-regulamentar-regional | 2583 |
-| decreto-legislativo-regional | 2419 |
+| decreto-legislativo-regional | 2421 |
 | decreto-regulamentar | 1933 |
-| resolucao-assembleia-legislativa-regional | 1727 |
-| decision | 1421 |
+| resolucao-assembleia-legislativa-regional | 1851 |
+| decision | 1423 |
 | decreto-governo | 293 |
 | decreto-regional | 280 |
+| aviso-banco-portugal | 243 |
 | acordao-supremo-tribunal-justica | 207 |
-| assento | 189 |
-| acordao-tribunal-constitucional | 164 |
+| regulamento-cmvm | 197 |
+| assento | 190 |
+| acordao-doutrinario | 183 |
+| acordao-tribunal-constitucional | 166 |
+| aviso | 164 |
+| mapa-oficial | 156 |
+| acordao-supremo-tribunal-administrativo | 122 |
 | lei-organica | 94 |
-| aviso | 80 |
+| resolucao-assembleia-nacional | 91 |
 | decreto-representante-republica | 69 |
-| acordao-doutrinario | 60 |
 | decreto-ministro-republica | 49 |
-| resolucao-assembleia-nacional | 35 |
+| declaracao | 32 |
 | portaria-extrato | 21 |
 | despacho-extrato | 20 |
 | aviso-extrato | 13 |
-| declaracao | 13 |
 | despacho | 13 |
-| regulamento-cmvm | 13 |
 | edital | 12 |
-| mapa-oficial | 11 |
 | resolucao-extrato | 11 |
 | despacho-normativo-extrato | 10 |
 | declaracao-retificacao-extrato | 8 |
@@ -87,10 +89,9 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | regimento-assembleia-republica | 6 |
 | regulamento | 6 |
 | deliberacao | 5 |
-| aviso-banco-portugal | 4 |
+| acordao-tribunal-contas | 4 |
 | louvor | 2 |
 | regimento-conselho-estado | 2 |
-| acordao-tribunal-contas | 1 |
 | acordo-coletivo-trabalho | 1 |
 | decreto-aprovacao-constituicao | 1 |
 | deliberacao-extrato | 1 |
@@ -100,56 +101,99 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Versão | Documentos |
 |---|---:|
-| consolidated | 7648 |
-| original | 172242 |
+| consolidated | 7657 |
+| original | 241651 |
 
 ## Origem do texto
 
 | Origem | Documentos |
 |---|---:|
-| importacao_inicial | 166422 |
-| recolha_direta | 13468 |
+| importacao_inicial | 78660 |
+| recolha_direta | 170648 |
 
 ## Por estado de vigência
 
 | Estado | Documentos |
 |---|---:|
-| in_force | 150658 |
-| not_in_force | 1104 |
-| partially_in_force | 617 |
-| repealed | 27470 |
-| unknown | 41 |
+| in_force | 157519 |
+| not_in_force | 20306 |
+| partially_in_force | 655 |
+| repealed | 10430 |
+| unknown | 60398 |
 
 ## Relações registadas
 
 | Relação | Relações |
 |---|---:|
-| amended_by | 75032 |
-| amends | 6538 |
-| based_on | 11364 |
-| cited_by | 23991 |
-| cites | 242075 |
-| corrected_by | 7964 |
-| corrects | 1 |
+| amended_by | 120984 |
+| amends | 7801 |
+| based_on | 11373 |
+| cited_by | 24454 |
+| cites | 447941 |
+| corrected_by | 12458 |
+| corrects | 635 |
 | implicitly_repeals | 2976 |
 | interpreted_by | 8637 |
-| repealed_by | 3607 |
-| repeals | 3529 |
-| transposed_by | 1730 |
-| transposes | 1778 |
+| repealed_by | 25636 |
+| repeals | 3899 |
+| republished_by | 11 |
+| transposed_by | 1873 |
+| transposes | 1883 |
 
 ## Por ano de publicação
 
 | Ano | Documentos |
 |---|---:|
-| 1926 | 1 |
-| 1930 | 1 |
-| 1936 | 1 |
-| 1940 | 1 |
-| 1951 | 1 |
-| 1954 | 2 |
-| 1956 | 1 |
-| 1959 | 1 |
+| 1910 | 420 |
+| 1911 | 1927 |
+| 1912 | 1883 |
+| 1913 | 1773 |
+| 1914 | 1376 |
+| 1915 | 1416 |
+| 1916 | 1332 |
+| 1917 | 1395 |
+| 1918 | 1815 |
+| 1919 | 1917 |
+| 1920 | 1584 |
+| 1921 | 1338 |
+| 1922 | 1149 |
+| 1923 | 1345 |
+| 1924 | 1751 |
+| 1925 | 1302 |
+| 1926 | 1882 |
+| 1927 | 1868 |
+| 1928 | 2192 |
+| 1929 | 2262 |
+| 1930 | 1781 |
+| 1931 | 1777 |
+| 1932 | 1593 |
+| 1933 | 1631 |
+| 1934 | 1627 |
+| 1935 | 1763 |
+| 1936 | 1505 |
+| 1937 | 1283 |
+| 1938 | 1225 |
+| 1939 | 1155 |
+| 1940 | 1147 |
+| 1941 | 1018 |
+| 1942 | 1109 |
+| 1943 | 1138 |
+| 1944 | 1136 |
+| 1945 | 1504 |
+| 1946 | 1095 |
+| 1947 | 1202 |
+| 1948 | 1047 |
+| 1949 | 797 |
+| 1950 | 815 |
+| 1951 | 851 |
+| 1952 | 929 |
+| 1953 | 921 |
+| 1954 | 1036 |
+| 1955 | 972 |
+| 1956 | 931 |
+| 1957 | 958 |
+| 1958 | 1044 |
+| 1959 | 1256 |
 | 1960 | 1348 |
 | 1961 | 1447 |
 | 1962 | 1386 |
@@ -166,57 +210,77 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 1973 | 1743 |
 | 1974 | 1802 |
 | 1975 | 2048 |
-| 1976 | 2214 |
+| 1976 | 2216 |
 | 1977 | 2709 |
 | 1978 | 2495 |
-| 1979 | 2938 |
-| 1980 | 3294 |
-| 1981 | 2742 |
+| 1979 | 2940 |
+| 1980 | 3298 |
+| 1981 | 2743 |
 | 1982 | 3038 |
-| 1983 | 2509 |
-| 1984 | 2322 |
-| 1985 | 2356 |
-| 1986 | 2023 |
-| 1987 | 2055 |
-| 1988 | 2140 |
-| 1989 | 2391 |
-| 1990 | 2524 |
-| 1991 | 3151 |
+| 1983 | 2520 |
+| 1984 | 2336 |
+| 1985 | 2387 |
+| 1986 | 2040 |
+| 1987 | 2080 |
+| 1988 | 2158 |
+| 1989 | 2404 |
+| 1990 | 2525 |
+| 1991 | 3153 |
 | 1992 | 3070 |
-| 1993 | 3528 |
-| 1994 | 3341 |
-| 1995 | 2879 |
-| 1996 | 2209 |
-| 1997 | 2927 |
-| 1998 | 2580 |
-| 1999 | 3160 |
-| 2000 | 4805 |
-| 2001 | 5245 |
-| 2002 | 4772 |
-| 2003 | 4398 |
-| 2004 | 4469 |
-| 2005 | 3759 |
-| 2006 | 4638 |
-| 2007 | 4398 |
-| 2008 | 4021 |
-| 2009 | 7344 |
-| 2010 | 6148 |
-| 2011 | 4098 |
-| 2012 | 2659 |
-| 2013 | 2453 |
-| 2014 | 1425 |
-| 2015 | 1350 |
-| 2016 | 1073 |
-| 2017 | 1270 |
-| 2018 | 1174 |
-| 2019 | 1255 |
-| 2020 | 1085 |
-| 2021 | 1232 |
-| 2022 | 2623 |
-| 2023 | 3642 |
-| 2024 | 3723 |
-| 2025 | 3759 |
-| 2026 | 4611 |
+| 1993 | 3529 |
+| 1994 | 3345 |
+| 1995 | 2881 |
+| 1996 | 2214 |
+| 1997 | 2928 |
+| 1998 | 2589 |
+| 1999 | 3169 |
+| 2000 | 4853 |
+| 2001 | 5268 |
+| 2002 | 4797 |
+| 2003 | 4420 |
+| 2004 | 4496 |
+| 2005 | 3783 |
+| 2006 | 4658 |
+| 2007 | 4426 |
+| 2008 | 4044 |
+| 2009 | 7366 |
+| 2010 | 6174 |
+| 2011 | 4121 |
+| 2012 | 2688 |
+| 2013 | 2473 |
+| 2014 | 1453 |
+| 2015 | 1369 |
+| 2016 | 1092 |
+| 2017 | 1290 |
+| 2018 | 1197 |
+| 2019 | 1279 |
+| 2020 | 1108 |
+| 2021 | 1243 |
+| 2022 | 2642 |
+| 2023 | 3675 |
+| 2024 | 3749 |
+| 2025 | 3783 |
+| 2026 | 5064 |
+
+## Falhas de recolha registadas
+
+"A fonte não tem o texto" não é um erro: o documento existe mas o DRE ou o EUR-Lex não publicam o texto (em formato eletrónico ou em português). Nesses casos o próprio registo tem uma nota "Fonte sem texto".
+
+| Ficheiro | O que contém | Registos | Por motivo |
+|---|---|---:|---|
+| [dre_consolidated_failures.jsonl](dre_consolidated_failures.jsonl) | Diplomas sem texto consolidado no DRE (histórico de versões) | 159 | a fonte não tem o texto: 159 |
+| [dre_dates_failures.jsonl](dre_dates_failures.jsonl) | Diplomas da recolha do DRE por datas que não foi possível recolher | 0 | — |
+| [dre_missing_failures.jsonl](dre_missing_failures.jsonl) | Documentos listados nos sitemaps do DRE que não foi possível recolher | 3241 | erro de acesso à fonte: 7; a fonte não tem o texto: 3234 |
+| [eurlex_referenced_failures.jsonl](eurlex_referenced_failures.jsonl) | Atos da UE referidos pela legislação portuguesa sem versão portuguesa no CELLAR | 173 | sem_motivo: 173 |
+| [eurlex_consolidated_failures.jsonl](eurlex_consolidated_failures.jsonl) | Atos da UE com consolidações mas sem versão consolidada em português | 457 | a fonte não tem o texto: 457 |
+
+## Cobertura face aos sitemaps do DRE
+
+Verificado em 2026-10-23 com `leis-portugal collect dre --missing`: documentos que o DRE lista nos sitemaps públicos (111149), dos quais 83502 estão no acervo e 27647 faltam. Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda. Tipos marcados com * são sobretudo da 2.ª Série.
+
+| Tipo | No DRE | No acervo | Em falta |
+|---|---:|---:|---:|
+| Portaria | 111149 | 83502 | 27647 |
 
 ## Registos existentes
 
@@ -226,7 +290,8 @@ Com mais de 500 registos, a lista individual é omitida; consulte `data/`.
 
 - Parte dos diplomas ainda tem o texto da importação inicial (convertido a partir do DRE); a recolha direta substitui-o diploma a diploma.
 - O conector DRE usa endpoints internos da aplicação web (sem API pública documentada) e pode falhar após um deploy do DRE.
-- Diplomas anteriores a 1960 existem no DRE apenas como digitalização; o Jornal Oficial dos Açores está fora do âmbito.
+- Diplomas anteriores a 1960 existem no DRE apenas como digitalização.
+- O Jornal Oficial dos Açores entra pelo catálogo que o DRE guarda; muitas entradas têm só os metadados (sem texto nem PDF).
 - Atos da UE: recolhidos os referidos pela legislação portuguesa e os publicados no JO nos intervalos executados; não é o acervo completo do EUR-Lex.
 - As transposições de diretivas são detetadas no texto português ("transpõe…") e podem ter falsos negativos.
 - A jurisprudência, materiais parlamentares e orientações de reguladores estão fora da coleção até serem integrados como categorias próprias.

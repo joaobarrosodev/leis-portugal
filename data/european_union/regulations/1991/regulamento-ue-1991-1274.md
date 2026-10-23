@@ -152,6 +152,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/3448ede7-03ae-4a49-ac34-def05c07cb1d
   date: '2005-06-03'
 - type: cited_by
+  target: pt:dre:1167944789:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:145180:por
   label: null
   source: null

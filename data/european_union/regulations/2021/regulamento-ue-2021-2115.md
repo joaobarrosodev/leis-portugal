@@ -388,6 +388,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1124493238:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1128770882:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1133485783:por
   label: null
   source: null

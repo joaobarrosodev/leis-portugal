@@ -97,16 +97,16 @@ relationships:
   target: pt:dre:468635:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:901661917:por
-  label: null
-  source: null
 - type: cites
   target: celex:31993L0088
   label: null
   source: http://publications.europa.eu/resource/cellar/2a1fe5fd-1076-40aa-8e39-8138093f5b8f
 - type: transposed_by
   target: pt:dre:67011880:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:901661917:por
   label: null
   source: null
 article_structure:

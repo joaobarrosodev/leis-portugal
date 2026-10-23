@@ -186,6 +186,10 @@ relationships:
   target: pt:dre:655340:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:67164533:por
+  label: null
+  source: null
 - type: cites
   target: celex:11957E039
   label: null

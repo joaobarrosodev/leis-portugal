@@ -138,6 +138,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/76f23191-ed25-479c-80a7-f25b04a32cd3
   date: '2016-06-09'
 - type: cited_by
+  target: pt:dre:1169857637:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:210543862:por
   label: null
   source: null

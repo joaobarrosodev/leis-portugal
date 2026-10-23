@@ -339,11 +339,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1080481232:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1081202646:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:108269607:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1082907023:por
   label: null
   source: null
 - type: cited_by
@@ -428,6 +436,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:1167945131:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1169857637:por
   label: null
   source: null
 - type: cited_by

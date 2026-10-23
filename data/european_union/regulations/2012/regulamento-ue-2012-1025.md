@@ -300,6 +300,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1128002423:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:114457664:por
   label: null
   source: null
@@ -337,6 +341,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261161:por
   label: null
   source: null
 - type: cited_by

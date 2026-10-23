@@ -127,6 +127,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:629170:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:69736207:por
   label: null
   source: null

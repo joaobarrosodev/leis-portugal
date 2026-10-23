@@ -338,6 +338,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e420015c-d53e-4db9-b024-36d1bf596341
   date: '1988-07-09'
 - type: transposed_by
+  target: pt:dre:1184326799:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:153013704:por
   label: null
   source: null

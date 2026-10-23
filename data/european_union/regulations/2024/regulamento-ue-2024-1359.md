@@ -103,6 +103,10 @@ relationships:
   target: pt:dre:1168979170:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:635814:por
+  label: null
+  source: null
 - type: cites
   target: celex:12016M005
   label: null

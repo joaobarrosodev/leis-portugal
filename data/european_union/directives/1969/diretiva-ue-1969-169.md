@@ -252,6 +252,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/84ef27b4-c137-4386-ae28-c79d2bebdc12
   date: '2008-01-02'
+- type: transposed_by
+  target: pt:dre:210468801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

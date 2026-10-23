@@ -420,11 +420,43 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:114467576:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114467577:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114467578:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114640599:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:115740680:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:1161839915:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:118540907:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:120847155:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:121894223:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122754276:por
   label: null
   source: null
 - type: cited_by

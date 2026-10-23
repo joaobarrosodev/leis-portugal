@@ -322,6 +322,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/19b9c17b-1a3a-11e9-8d04-01aa75ed71a1
   date: '2019-01-17'
 - type: transposed_by
+  target: pt:dre:1637987:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:212246765:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3516249:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:989749707:por
   label: null
   source: null

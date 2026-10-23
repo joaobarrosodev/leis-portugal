@@ -266,6 +266,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6605ff4a-754d-4d10-bc74-9499a44ae68d
   date: '2003-02-11'
 - type: cited_by
+  target: pt:dre:1070724089:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:114337042:por
   label: null
   source: null

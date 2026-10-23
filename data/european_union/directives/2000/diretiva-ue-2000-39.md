@@ -181,6 +181,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e7492118-ca2f-4550-a5e2-08719c104dd1
   date: '1997-01-08'
 - type: transposed_by
+  target: pt:dre:1184326799:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:153013704:por
   label: null
   source: null

@@ -87,11 +87,11 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a7c572b0-ad13-4fd5-8d49-c4b69cd1e32d
   date: '2012-11-23'
 - type: cited_by
-  target: pt:dre:117184157:por
+  target: pt:dre:1130568134:por
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:117279933:por
+  target: pt:dre:117184157:por
   label: null
   source: null
 - type: cited_by
@@ -171,6 +171,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/7a86550a-75e3-11e8-ac6a-01aa75ed71a1
   date: '2018-06-22'
+- type: transposed_by
+  target: pt:dre:117279933:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:122852138:por
   label: null

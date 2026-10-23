@@ -96,10 +96,6 @@ relationships:
   target: pt:dre:261149:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:647296:por
-  label: null
-  source: null
 - type: cites
   target: celex:32002R1606
   label: null
@@ -113,6 +109,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/aef88894-e08d-11e2-9165-01aa75ed71a1
   date: '2013-06-29'
+- type: transposed_by
+  target: pt:dre:647296:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0

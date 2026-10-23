@@ -153,6 +153,10 @@ relationships:
   target: pt:dre:75150234:por
   label: null
   source: null
+- type: transposed_by
+  target: pt:dre:901661921:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

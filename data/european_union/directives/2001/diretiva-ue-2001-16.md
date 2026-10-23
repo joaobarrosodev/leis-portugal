@@ -160,10 +160,6 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/dd95f8ea-7936-47b7-a0aa-bbb5d797f5a3
   date: '1999-05-31'
 - type: cited_by
-  target: pt:dre:239589:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:452206:por
   label: null
   source: null
@@ -221,6 +217,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/5886daa2-e13f-4b72-a776-4f53f0d0bf14
   date: '2008-06-17'
+- type: transposed_by
+  target: pt:dre:239589:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

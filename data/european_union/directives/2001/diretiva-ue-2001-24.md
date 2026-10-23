@@ -119,10 +119,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:545785:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:55068738:por
   label: null
   source: null
@@ -195,7 +191,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/d9378d8d-6b65-11ef-a8ba-01aa75ed71a1
   date: '2024-09-05'
 - type: transposed_by
+  target: pt:dre:175744218:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:444391:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:545785:por
   label: null
   source: null
 - type: transposed_by

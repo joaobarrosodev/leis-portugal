@@ -83,6 +83,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/ec0a6777-382e-4614-900a-ea7011fb5c4f
   date: '1999-07-28'
 - type: cited_by
+  target: pt:dre:1070724089:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:150908012:por
   label: null
   source: null

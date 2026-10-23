@@ -86,10 +86,6 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/4f09b0fc-323d-4cff-8b2e-a444900f2bbf
   date: '1995-10-06'
-- type: cited_by
-  target: pt:dre:167823:por
-  label: null
-  source: null
 - type: cites
   target: celex:31994L0055
   label: null
@@ -128,6 +124,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/088da2c9-5337-11ed-92ed-01aa75ed71a1
   date: '2022-10-24'
+- type: transposed_by
+  target: pt:dre:167823:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:300828:por
   label: null

@@ -166,7 +166,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:898014580:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:898705893:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:912463987:por
   label: null
   source: null
 - type: cited_by

@@ -86,10 +86,6 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/703b427b-e991-4a82-b2ff-3ec6e46e1a89
   date: '1994-12-12'
 - type: cited_by
-  target: pt:dre:167823:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:416869:por
   label: null
   source: null
@@ -102,6 +98,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/6a560d9d-5bf7-428d-bc8b-5159e5bfc517
   date: '2006-11-07'
+- type: transposed_by
+  target: pt:dre:167823:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

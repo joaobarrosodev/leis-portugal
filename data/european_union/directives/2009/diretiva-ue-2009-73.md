@@ -177,6 +177,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1139191718:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:114394826:por
   label: null
   source: null
@@ -398,6 +402,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/67335803-4992-422e-988e-f2a882591e77
   date: '2003-07-15'
+- type: transposed_by
+  target: pt:dre:1102472596:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:141377978:por
   label: null

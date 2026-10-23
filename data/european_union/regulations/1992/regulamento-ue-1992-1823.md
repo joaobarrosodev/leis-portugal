@@ -85,6 +85,10 @@ relationships:
   target: pt:dre:332462:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:520665:por
+  label: null
+  source: null
 - type: repealed_by
   target: celex:31993R2454
   label: null

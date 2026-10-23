@@ -128,10 +128,6 @@ relationships:
   target: pt:dre:67283028:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:901661917:por
-  label: null
-  source: null
 - type: cites
   target: celex:31974D0325
   label: null
@@ -163,6 +159,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/60d41587-de3d-4dc0-b08c-f26504d9f924
   date: '1990-12-31'
+- type: transposed_by
+  target: pt:dre:901661917:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 13

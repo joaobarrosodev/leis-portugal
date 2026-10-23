@@ -92,6 +92,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/0c66bb3a-d211-434f-a2af-51ee81433d55
 - type: transposed_by
+  target: pt:dre:1164281329:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:58815310:por
   label: null
   source: null

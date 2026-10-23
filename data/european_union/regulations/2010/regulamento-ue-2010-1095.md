@@ -307,6 +307,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114467578:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:115660003:por
   label: null
   source: null
@@ -320,6 +324,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:141382321:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2019136:por
   label: null
   source: null
 - type: cited_by
@@ -344,6 +352,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:449407:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:539387:por
   label: null
   source: null
 - type: cited_by

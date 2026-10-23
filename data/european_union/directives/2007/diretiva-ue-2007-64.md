@@ -174,6 +174,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2628631:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:488792:por
   label: null
   source: null
@@ -335,7 +339,15 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:161014566:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:483411:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:909274:por
   label: null
   source: null
 article_structure:

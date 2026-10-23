@@ -91,14 +91,14 @@ relationships:
   target: pt:dre:261149:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:647296:por
-  label: null
-  source: null
 - type: cites
   target: celex:32003Q1231(01)
   label: null
   source: http://publications.europa.eu/resource/cellar/7b999342-40f9-4b00-9a7c-c5185db1f34c
+- type: transposed_by
+  target: pt:dre:647296:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

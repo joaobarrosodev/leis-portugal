@@ -119,6 +119,26 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/74f202d1-b0ef-4eec-9e01-631eacaa5e60
   date: '2007-01-31'
 - type: cited_by
+  target: pt:dre:2628631:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2628632:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2628633:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2628634:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3544315:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:617129:por
   label: null
   source: null

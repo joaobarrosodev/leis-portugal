@@ -92,11 +92,39 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114425218:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:117541768:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122393198:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:141382321:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:173690305:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:203474501:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:204552612:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:223145776:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:378268125:por
   label: null
   source: null
 - type: cited_by
@@ -105,6 +133,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:70179159:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:989544948:por
   label: null
   source: null
 - type: cites

@@ -216,10 +216,6 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b86a5126-9bcd-4a14-982a-e82c9d09bf0e
   date: '1992-08-31'
 - type: cited_by
-  target: pt:dre:167823:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:168800:por
   label: null
   source: null
@@ -344,6 +340,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/69938271-8feb-40c7-8f49-7692bafb1fbd
   date: '1989-12-30'
+- type: transposed_by
+  target: pt:dre:167823:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:300828:por
   label: null

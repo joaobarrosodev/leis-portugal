@@ -170,6 +170,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:835674276:por
   label: null
   source: null

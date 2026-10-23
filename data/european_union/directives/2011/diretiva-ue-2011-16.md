@@ -372,10 +372,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:632448:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:74803445:por
   label: null
   source: null
@@ -512,6 +508,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:73958532:por
   label: null
   source: null
@@ -525,6 +525,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:835896488:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:895990687:por
   label: null
   source: null
 article_structure:

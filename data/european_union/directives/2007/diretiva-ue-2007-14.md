@@ -186,6 +186,10 @@ relationships:
   target: celex:32004R0809
   label: null
   source: http://publications.europa.eu/resource/cellar/92b29dfd-b224-46b3-87d6-049271484e62
+- type: transposed_by
+  target: pt:dre:1463266:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 1

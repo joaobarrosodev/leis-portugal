@@ -140,6 +140,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1070724089:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:107495704:por
   label: null
   source: null
@@ -421,6 +425,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:896834906:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:898705893:por
   label: null
   source: null
 - type: cited_by

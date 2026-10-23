@@ -867,6 +867,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:330251:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:344228:por
   label: null
   source: null
@@ -928,6 +932,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:72934426:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:899202514:por
   label: null
   source: null
 - type: transposed_by

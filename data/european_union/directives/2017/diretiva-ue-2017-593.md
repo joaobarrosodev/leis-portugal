@@ -114,6 +114,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/056587cf-f1f8-11e3-8cd4-01aa75ed71a1
   date: '2014-06-12'
+- type: cited_by
+  target: pt:dre:175744218:por
+  label: null
+  source: null
 - type: cites
   target: celex:32003L0071
   label: null
@@ -165,6 +169,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:187351709:por
   label: null
   source: null
 - type: transposed_by

@@ -246,10 +246,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:351885:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:476926:por
   label: null
   source: null
@@ -293,6 +289,10 @@ relationships:
   date: '2008-09-24'
 - type: transposed_by
   target: pt:dre:300828:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:351885:por
   label: null
   source: null
 article_structure:

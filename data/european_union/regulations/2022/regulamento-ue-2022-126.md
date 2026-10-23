@@ -172,6 +172,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/4a220961-5636-11ec-91ac-01aa75ed71a1
   date: '2021-12-06'
 - type: cited_by
+  target: pt:dre:1124493238:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1168979174:por
   label: null
   source: null

@@ -485,6 +485,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:117541768:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:122747585:por
   label: null
   source: null
@@ -501,11 +505,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:175744218:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:204552612:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:214175757:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:25676934:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:378268125:por
   label: null
   source: null
 - type: cited_by
@@ -542,6 +558,22 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:70300349:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70322687:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73904878:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74425670:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:853529310:por
   label: null
   source: null
 - type: cited_by
@@ -828,7 +860,27 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/fb107207-a4ed-4386-99ed-483298ca033d
   date: '2006-07-03'
 - type: transposed_by
+  target: pt:dre:125883592:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:173690305:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:223145776:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3226921:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:58585556:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:65963448:por
   label: null
   source: null
 article_structure:

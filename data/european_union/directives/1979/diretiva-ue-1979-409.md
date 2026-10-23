@@ -555,10 +555,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:535379:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:536213:por
   label: null
   source: null
@@ -965,6 +961,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:1172217156:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:535379:por
   label: null
   source: null
 - type: transposed_by

@@ -115,6 +115,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2901907:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2901911:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:480702:por
   label: null
   source: null

@@ -99,6 +99,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1126594009:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:114425586:por
   label: null
   source: null
@@ -111,6 +115,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:117541768:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:122747583:por
   label: null
   source: null
@@ -120,6 +128,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:173690305:por
   label: null
   source: null
 - type: cited_by

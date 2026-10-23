@@ -100,10 +100,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:898705893:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:914597185:por
   label: null
   source: null
@@ -152,6 +148,10 @@ relationships:
   date: '2023-10-31'
 - type: transposed_by
   target: pt:dre:107773652:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:898705893:por
   label: null
   source: null
 article_structure:

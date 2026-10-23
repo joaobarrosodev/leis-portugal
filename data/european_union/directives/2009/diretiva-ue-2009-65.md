@@ -553,6 +553,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:118540906:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124256706:por
   label: null
   source: null
@@ -562,6 +566,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:138638754:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1510234:por
   label: null
   source: null
 - type: cited_by
@@ -750,6 +758,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:212379454:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:924155518:por
   label: null
   source: null
 article_structure:

@@ -97,6 +97,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/1364812d-2692-4cf9-9b03-3d79c9aeb7f1
   date: '2002-07-23'
+- type: cited_by
+  target: pt:dre:201509704:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:992879819:por
   label: null

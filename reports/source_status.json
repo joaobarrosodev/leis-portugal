@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "sources": [
     {
       "id": "eurlex-cellar",
@@ -9,7 +9,7 @@
       "last_verified_at": "2026-10-22",
       "verified_scope": "Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos atos referidos pela legislação portuguesa; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos.",
       "reuse_status": "permitted_with_conditions",
-      "documents_in_repository": 7790
+      "documents_in_repository": 7798
     },
     {
       "id": "dre",
@@ -19,7 +19,7 @@
       "last_verified_at": "2026-10-22",
       "verified_scope": "1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores) e legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). Verificado em 2026-10-22.",
       "reuse_status": "permitted",
-      "documents_in_repository": 172100
+      "documents_in_repository": 241510
     },
     {
       "id": "parlamento",

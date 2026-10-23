@@ -104,11 +104,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:116506257:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:141382321:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:184434622:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:75763560:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:867970910:por
   label: null
   source: null
 - type: cited_by

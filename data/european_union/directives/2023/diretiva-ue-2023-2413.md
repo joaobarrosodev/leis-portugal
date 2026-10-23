@@ -123,10 +123,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:898705893:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:914597185:por
   label: null
   source: null
@@ -400,6 +396,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:855593245:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:898705893:por
   label: null
   source: null
 - type: transposed_by

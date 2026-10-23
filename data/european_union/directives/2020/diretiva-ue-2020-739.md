@@ -98,10 +98,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:901661917:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:909466295:por
   label: null
   source: null
@@ -121,6 +117,10 @@ relationships:
   target: celex:52011XG1217(01)
   label: null
   source: http://publications.europa.eu/resource/cellar/92e91832-17f8-4a3b-9faf-0cdc791871ca
+- type: transposed_by
+  target: pt:dre:901661917:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
