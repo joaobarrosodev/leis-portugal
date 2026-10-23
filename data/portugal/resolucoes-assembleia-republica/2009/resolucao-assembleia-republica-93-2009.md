@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/93/2009/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/93-2009-491414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d35376459a13b8f492f3753f42a80b3a1ef23b62cf9da42ce08683b8ab4c8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e286b4902c329989767b51a05d92c5d957a307dc40fb68338418f29a4dae6a78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,54 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
+- Áustria
 - Bélgica
+- Bruxelas
 - Bulgária
 - CE Países
+- Chipre
+- Comércio
 - Comunidade Europeia
-- Convenção
-- Irlanda
-- Portugal
-- Dinamarca
 - Concorrência
+- Convenção
+- Cooperação Económica
+- Dinamarca
 - EEE
 - EFTA
+- Eslováquia
 - Eslovénia
-- União Europeia
 - Espanha
+- Estónia
 - Finlândia
+- França
 - Grã-Bretanha
-- Áustria
+- Grécia
 - Hungria
-- Noruega
-- Livre Prestação de Serviços
+- Irlanda
+- Irlanda do Norte
+- Islândia
+- Itália
+- Letónia
+- Liechtenstein
+- Lituânia
 - Livre Circulação de Capitais
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Cooperação Económica
-- Política Económica
-- Polónia
-- Irlanda do Norte
-- Islândia
-- República Checa
-- República Federal da Alemanha
-- Letónia
-- Roménia
-- Países Baixos
-- Suécia
-- Comércio
-- Bruxelas
-- Chipre
-- Eslováquia
-- Estónia
-- França
-- Grécia
-- Itália
+- Livre Prestação de Serviços
 - Luxemburgo
 - Malta
-- Liechtenstein
-- Lituânia
+- Noruega
+- Países Baixos
+- Política Económica
+- Polónia
+- Portugal
+- Reino Unido
+- República Checa
+- República Federal da Alemanha
+- Roménia
+- Suécia
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:491413:por
+  label: "Ratificado o presente Acordo, bem como os anexos A e B e a acta final, pelo DEC.95/2009.07.10.2009.PR, DR.IS [194]\
+    \ de 07.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/95-2009-491413
+  date: '2009-10-07'
 - type: cites
   target: celex:31968L0360
   label: null
@@ -162,16 +168,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: corrected_by
+  target: pt:dre:70042481:por
+  label: Tornada pública a Ata de Retificação do Acordo sobre a Participação da Bulgária e da Roménia no Espaço Económico
+    Europeu aprovado pela presente Resolução, pelo(a) Aviso n.º 54/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/54-2015-70042481
+  date: '2015-08-18'
 article_structure:
-  article_count: 34
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 32
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:00Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +196,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Janeiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO SOBRE A PARTICIPAÇÃO DA REPÚBLICA DA BULGÁRIA E DA ROMÉNIA NO ESPAÇO ECONÓMICO EUROPEU
 
@@ -260,13 +272,13 @@ aa) O texto seguinte deve ser inserido antes da versão espanhola do texto da de
 
 «Versão búlgara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
 
 bb) O texto seguinte deve ser inserido antes da versão eslovena do texto da declaração na factura:
 
 «Versão romena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
 
 iii) O apêndice iv-B (texto da declaração na factura EUR-MED) é alterado do seguinte modo:
 
@@ -274,13 +286,13 @@ aa) O texto seguinte deve ser inserido antes da versão espanhola do texto da de
 
 «Versão búlgara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
 
 bb) O texto seguinte deve ser inserido antes da versão eslovena do texto da declaração na factura EUR-MED:
 
 «Versão romena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf).»
 
 b) O Protocolo n.º 38-A é alterado do seguinte modo:
 
@@ -290,7 +302,7 @@ c) Ao Protocolo n.º 38-A é aditado o seguinte:
 
 «Adenda ao Protocolo n.º 38-A sobre o mecanismo financeiro do EEE para a República da Bulgária e a Roménia
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - O Protocolo n.º 38-A aplica-se mutatis mutandis à República da Bulgária e à Roménia.
 
@@ -300,7 +312,7 @@ c) Ao Protocolo n.º 38-A é aditado o seguinte:
 
 4 - Não obstante o disposto no n.º 1, as contribuições para organizações não governamentais e para os parceiros sociais pode ascender até 90 % do custo dos projectos.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os montantes adicionais das contribuições financeiras para a República da Bulgária e a Roménia são de 21,5 milhões de euros para a República da Bulgária e 50,5 milhões de euros para a Roménia durante o período de 1 de Janeiro de 2007 a 30 de Abril de 2009, inclusive. Estes montantes são disponibilizados a partir da data de entrada em vigor do Acordo sobre a Participação da República da Bulgária e da Roménia no Espaço Económico Europeu ou de um acordo relativo à aplicação do Acordo a título provisório e concedidos para autorização numa única parcela em 2007.»
 
@@ -368,11 +380,11 @@ d) Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e o Rein
 
 O presente Acordo, redigido num único exemplar em língua alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca, islandesa e norueguesa, fazendo igualmente fé todos os textos, será depositado junto do Secretariado-Geral do Conselho da União Europeia, que dele remeterá uma cópia autenticada a todos os governos das Partes Contratantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 ## ANEXO A — Lista referida no artigo 3.º do Acordo
 
-# PARTE I
+## PARTE I
 
 Actos referidos no Acordo EEE alterados pelo acto relativo às condições de adesão da República da Bulgária e da Roménia e às adaptações dos tratados em que se funda a União Europeia ou, consoante o caso, pelo Protocolo Relativo às Condições e Regras de Admissão da República da Bulgária e da Roménia à União Europeia.
 
@@ -394,7 +406,7 @@ No anexo xvii («Propriedade intelectual»):
 
 - Ponto 6a [Regulamento (CE) n.º [1610/96](https://data.europa.eu/eli/reg/1996/1610/oj?locale=pt), do Parlamento Europeu e do Conselho].
 
-# PARTE II — Outras alterações aos anexos do Acordo EEE
+## PARTE II — Outras alterações aos anexos do Acordo EEE
 
 Nos anexos do Acordo EEE devem ser introduzidas as seguintes alterações:
 
@@ -410,7 +422,7 @@ No anexo V («Livre circulação dos trabalhadores»):
 
 Os anexos do Acordo EEE são alterados do seguinte modo:
 
-## Anexo ii («Regulamentação técnica, normas, ensaios e certificação»):
+Anexo ii («Regulamentação técnica, normas, ensaios e certificação»):
 
 1 - No capítulo xv, no ponto 12a (Directiva n.º [91/414/CEE](https://data.europa.eu/eli/dir/1991/414/oj?locale=pt), do Conselho), é aditado o seguinte parágrafo a seguir ao parágrafo relativo às medidas transitórias:
 
@@ -428,7 +440,7 @@ Os anexos do Acordo EEE são alterados do seguinte modo:
 
 «São aplicáveis as medidas transitórias previstas nos anexos do acto de adesão de 25 de Abril de 2005 ou, consoante o caso, do protocolo de adesão de 25 de Abril de 2005 relativamente à Bulgária (anexo vi, capítulo 7).»
 
-## Anexo V («Livre circulação dos trabalhadores»):
+Anexo V («Livre circulação dos trabalhadores»):
 
 O segundo parágrafo da rubrica «Período de transição» passa a ter a seguinte redacção:
 
@@ -436,7 +448,7 @@ O segundo parágrafo da rubrica «Período de transição» passa a ter a seguin
 
 No que respeita aos mecanismos de salvaguarda previstos nas medidas transitórias referidas nos parágrafos anteriores, excepto as respeitantes a Malta, é aplicável o Protocolo n.º 44 Relativo aos Mecanismos de Salvaguarda na Sequência dos Alargamentos do Espaço Económico Europeu.»
 
-## Anexo VIII («Direito de estabelecimento»):
+Anexo VIII («Direito de estabelecimento»):
 
 O segundo parágrafo da rubrica «Período de transição» passa a ter a seguinte redacção:
 
@@ -444,19 +456,19 @@ O segundo parágrafo da rubrica «Período de transição» passa a ter a seguin
 
 No que respeita aos mecanismos de salvaguarda previstos nas medidas transitórias referidas nos parágrafos anteriores, excepto as respeitantes a Malta, é aplicável o Protocolo n.º 44 Relativo aos Mecanismos de Salvaguarda na Sequência dos Alargamentos do Espaço Económico Europeu.»
 
-## Anexo ix («Serviços financeiros»):
+Anexo ix («Serviços financeiros»):
 
 No ponto 30c (Directiva n.º [97/9/CE](https://data.europa.eu/eli/dir/1997/9/oj?locale=pt), do Parlamento Europeu e do Conselho), é aditado o seguinte parágrafo:
 
 «São aplicáveis as medidas transitórias previstas nos anexos do acto de adesão de 25 de Abril de 2005 ou, consoante o caso, do protocolo de adesão de 25 de Abril de 2005 relativamente à Bulgária (anexo vi, capítulo 2) e à Roménia (anexo vii, capítulo 2).»
 
-## Anexo xi («Serviços de telecomunicações»):
+Anexo xi («Serviços de telecomunicações»):
 
 No ponto 5cm (Directiva n.º [2002/22/CE](https://data.europa.eu/eli/dir/2002/22/oj?locale=pt), do Parlamento Europeu e do Conselho), antes da adaptação, é inserido o seguinte parágrafo:
 
 «São aplicáveis as medidas transitórias previstas nos anexos do acto de adesão de 25 de Abril de 2005 ou, consoante o caso, do protocolo de adesão de 25 de Abril de 2005 relativamente à Bulgária (anexo vi, capítulo 9).»
 
-## Anexo xii («Livre circulação de capitais»):
+Anexo xii («Livre circulação de capitais»):
 
 O seguinte parágrafo é inserido após a rubrica «Período de transição»:
 
@@ -494,13 +506,13 @@ No que respeita aos mecanismos de salvaguarda previstos nas medidas transitória
 
 São aplicáveis as medidas transitórias previstas nos anexos do acto de adesão de 25 de Abril de 2005 ou, consoante o caso, do protocolo de adesão de 25 de Abril de 2005 relativamente à Roménia (anexo vii, capítulo 4).»
 
-## Anexo xvii («Propriedade intelectual»):
+Anexo xvii («Propriedade intelectual»):
 
 Na rubrica «Adaptações sectoriais», é aditado o seguinte:
 
 «São aplicáveis entre as Partes Contratantes os mecanismos específicos previstos no capítulo 1 («Direito das sociedades») do anexo v do acto de adesão de 25 de Abril de 2005 ou, consoante o caso, do protocolo de adesão de 25 de Abril de 2005.»
 
-## Anexo xviii («Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos»):
+Anexo xviii («Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos»):
 
 No ponto 30 (Directiva n.º [96/71/CE](https://data.europa.eu/eli/dir/1996/71/oj?locale=pt), do Parlamento Europeu e do Conselho), o segundo parágrafo relativo às medidas transitórias passa a ter a seguinte redacção:
 
@@ -562,7 +574,7 @@ No que respeita aos mecanismos de salvaguarda previstos nas medidas transitória
 
 «São aplicáveis as medidas transitórias previstas nos anexos do acto de adesão de 25 de Abril de 2005 ou, consoante o caso, do protocolo de adesão de 25 de Abril de 2005 relativamente à Bulgária (anexo vi, capítulo 10, secção B, ponto 4) e à Roménia (anexo vii, capítulo 9, secção B, ponto 4).»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 Acta final
 
@@ -572,9 +584,9 @@ I - Acordo sobre a Participação da República da Bulgária e da Roménia no Es
 
 II - Os textos a seguir enumerados, que são anexados ao Acordo:
 
-## Anexo A: lista referida no artigo 3.º do Acordo;
+Anexo A: lista referida no artigo 3.º do Acordo;
 
-## Anexo B: lista referida no artigo 4.º do Acordo.
+Anexo B: lista referida no artigo 4.º do Acordo.
 
 Os plenipotenciários das presentes Partes Contratantes e os plenipotenciários das novas Partes Contratantes adoptaram as declarações comuns e outras declarações a seguir enumeradas e anexas à presente acta final:
 
@@ -612,7 +624,7 @@ Tomam igualmente nota do Protocolo Adicional ao Acordo entre a Comunidade Econó
 
 Sublinham que os Acordos e Protocolos acima referidos foram acordados na presunção de que a participação no Espaço Económico Europeu se mantém inalterada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 Declarações comuns e outras declarações das presentes partes contratantes e das novas partes contratantes no Acordo
 
@@ -726,7 +738,7 @@ Queira Vossa Excelência aceitar os protestos da minha mais elevada consideraç�
 
 25 de Julho de 2007.
 
-## ANEXO 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+## ANEXO 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 ## ANEXO
 
@@ -816,7 +828,7 @@ Queira Vossa Excelência aceitar os protestos da minha mais elevada consideraç�
 
 25 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 Acordo sob Forma de Troca de Cartas entre a Comunidade Europeia e o Reino da Noruega Relativo a Um Programa de Cooperação para o Crescimento Económico e o Desenvolvimento Sustentável na Roménia.
 
@@ -852,7 +864,7 @@ Queira Vossa Excelência aceitar os protestos da minha mais elevada consideraç�
 
 25 de Julho de 2007.
 
-## ANEXO 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+## ANEXO 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 ## ANEXO
 
@@ -942,7 +954,7 @@ Queira Vossa Excelência aceitar os protestos da minha mais elevada consideraç�
 
 25 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e a Islândia na Sequência da Adesão da República da Bulgária e da Roménia à União Europeia.
 
@@ -986,13 +998,13 @@ iv) Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e o Rei
 
 O presente Protocolo é redigido em duplo exemplar, em língua alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, islandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e norueguesa, fazendo fé qualquer dos textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 ## ANEXO — Disposições especiais referidas no artigo 2.º
 
 A Comunidade abrirá os seguintes contingentes pautais anuais isentos de direitos para os produtos originários da Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
 
 Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e o Reino da Noruega na Sequência da Adesão da República da Bulgária e da Roménia à União Europeia.
 
@@ -1070,4 +1082,4 @@ iv) Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e a Isl
 
 O presente Protocolo é redigido em duplo exemplar, em língua alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e norueguesa, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19400/0731207333.pdf)

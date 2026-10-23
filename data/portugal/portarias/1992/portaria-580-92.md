@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/580/1992/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-1992-302916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08569e2942cfd6fe657224473a73dcfc9fe94b3cff550dee64e996aa920a75a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2babe3fe9f8e02020de1c12dc1c6d6aaaa3d38856f6a630d09c9fc8d70f15f71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,83 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartaxo
 - CAÇA
+- Cartaxo
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:604602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650102:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela PORT.913/97.1997.09.11.MADRP, DR.IS-B [210]9\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/913-1997-650102
+  date: '1997-09-11'
+- type: amended_by
+  target: pt:dre:480316:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.354/98.1998.06.23.MADRP, DR.IS-B [142] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1998-480316
+  date: '1998-06-23'
+- type: amended_by
+  target: pt:dre:142080:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.552-D/2002.2002.06.01.MADRP, DR.IS-B [126]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-d-2002-142080
+  date: '2001-06-01'
+- type: amended_by
+  target: pt:dre:348683:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório pela PORT.659/2001.2001.06.28.MADRP, DR.IS-B\
+    \ [148]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/659-2001-348683
+  date: '2001-06-28'
+- type: amended_by
+  target: pt:dre:636738:por
+  label: "Renovada por nove anos a concessão da zona de caça atribuída no presente diploma, com a redacção conferida pelas\
+    \ Port 913/97 de 11-Set e 354/98 de 23-Jun e a renovação constante da Port 552-D/2002 de 01-Jun, pela PORT.801/2007.24.07.2007.MADRP,\
+    \ DR.IS [141] de 24.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/801-2007-636738
+  date: '2007-07-24'
+- type: amended_by
+  target: pt:dre:604602:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, alterada pela Port 913/97\
+    \ de 11-Set, pela Port 354/98 de 23-Jun, pela Port 552-D/2002, de 01-Jun e pela Port 801/2007, de 24-Jul, pela PORT.225/2009.26.02.2009.MADRP,\
+    \ DR.IS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-2009-604602
+  date: '2009-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:34Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/145b00/30403041.pdf))](https://files.diariodarepublica.pt/1s/1992/06/145b00/30403041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/145b00/30403041.pdf)

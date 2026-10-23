@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/36/2012/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-2012-553651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 191b4c4396d9f097a86308f5b81453ba269ea03bbae48d339c1e2d16ee9737ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12038c45053d34c91ecedea10065f74e7cb0183d5297a0cbf53b7f4657e649e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PERU
 - Convenção
-- Portugal
-- LIMA
 - Cooperação Judiciária
+- LIMA
+- PERU
+- Portugal
 - Transferência de Pessoas Condenadas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:553650:por
+  label: "Ratificado o Tratado sobre a Transferência de Pessoas Condenadas entre a República Portuguesa e a República do Peru,\
+    \ pela DEC.62/2012.22.03.2012.PR, DR.IS [59] de 22.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/62-2012-553650
+  date: '2012-03-22'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:28Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 10 de fevereiro de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 TRATADO SOBRE A TRANSFERÊNCIA DE PESSOAS CONDENADAS ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PERU
 
@@ -301,7 +307,7 @@ O presente Tratado entrará em vigor 30 dias após a data de recepção da últi
 
 A Parte em cujo território o presente Tratado for assinado, no mais breve prazo possível após a sua entrada em vigor, submetê-lo-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número atribuído ao registo.
 
-**Assinado em Lima no dia 7 de Abril de 2010, em dois exemplares, redigidos em língua portuguesa e em língua castelhana, fazendo ambos os textos igualmente fé.**
+Assinado em Lima no dia 7 de Abril de 2010, em dois exemplares, redigidos em língua portuguesa e em língua castelhana, fazendo ambos os textos igualmente fé.
 
 Pela República Portuguesa:
 

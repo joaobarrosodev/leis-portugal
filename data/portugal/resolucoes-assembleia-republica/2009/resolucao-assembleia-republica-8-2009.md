@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/8/2009/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-2009-604597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08814ecdb282e602334b02ae2ce17d9da3fff3c9e2d16c056d66050f96496e63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5287f987f34f4f26a6e3d9eeaad79f81212d12c5e82df321982dd4d063212a5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,23 @@ subjects:
 - Convenção
 - Portugal
 - Segurança Social
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:604606:por
+  label: "Ratificada a Convenção entre a República Portuguesa e a Roménia sobre Segurança Social, pelo DEC.14/2009.26.02.2009.PR,\
+    \ DR.IS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/14-2009-604606
+  date: '2009-02-26'
 article_structure:
   article_count: 43
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:40Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Janeiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A ROMÉNIA SOBRE SEGURANÇA SOCIAL
 
@@ -531,7 +537,7 @@ Pela Roménia:
 
 Gheorghe Barbu, Ministro do Trabalho, da Solidariedade Social e da Família.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0132301346.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0132301346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0132301346.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND ROMANIA ON SOCIAL SECURITY
 

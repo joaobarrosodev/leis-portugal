@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/708/1992/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/708-1992-288264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 551cca44b7c979e6d2a56767a735dbab79b58c4a8871596333430fa087071bf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddb8d660e16c708e3e5c50dc7910f45a28d353386b92f2c36e50cf2a551dc75f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300009:por
+  label: "Revogada pelo DEC LEI.147/93.1993.05.03.PCM, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1993-300009
+  date: '1993-05-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:37Z'
   warnings: []
   errors: []
 ---
@@ -112,14 +121,14 @@ Manda o Governo, pelo Primeiro-Ministro e pelo Ministro das Finanças, ao abrigo
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 19 de Junho de 1992.**
+Assinada em 19 de Junho de 1992.
 
 Pelo Primeiro-Ministro, Paulo Jorge de Assunção Rodrigues Teixeira Pinto, Secretário de Estado da Presidência do Conselho de Ministros. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 Quadro anexo I à Portaria n.º 708/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf))](https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf)
 
 Quadro anexo II à Portaria n.º 708/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf))](https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/158b00/32843284.pdf)

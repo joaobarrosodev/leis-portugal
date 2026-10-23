@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/04200/0058600592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/20/2010/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2010-611276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d324853eae18182c3b9eaec269ad04fb61bc02708378a7e751dcd730db361413
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affe4b0bcf46e57860b3a4984ca5eb0a35bf314b1ac3561ecc28b5c371643d12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Parlamentar
+- Assembleia da República
 - Assembleia Parlamentar da Comunidade dos Países de Língua Portuguesa
-- Política de Cooperação
+- Atividade Parlamentar
+- CPLP
 - Definição de Competências
 - Delegação
 - Estatuto
-- CPLP
 - Países de Língua Portuguesa
 - Palop
-- Assembleia da República
+- Política de Cooperação
 - Regimento
 relationships:
 - type: amended_by
   target: pt:dre:72909747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543686:por
+  label: "Alterado o art. 2º, pela RES.10/2012.03.02.2012.AR, DR.IS [25] de 03.02.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-2012-543686
+  date: '2012-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/30/2008/07/23/p/dre
   label: null
@@ -89,16 +94,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/5/2003/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/5/2003/01/22/p/dre
+- type: cites
+  target: pt:dre:172945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454367:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:72909747:por
+  label: Revogada, na redação da Res 10/2012 de 03-fev, da AR, pelo(a) Resolução da Assembleia da República n.º 142/2015 -
+    Diário da República n.º 246/2015, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/142-2015-72909747
+  date: '2015-12-17'
 article_structure:
   article_count: 57
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:24Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +170,7 @@ A Delegação nacional (grupo nacional) e os seus membros cumprem as normas apli
 
 Aprovada em 11 de Fevereiro de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ANEXOS
 
@@ -435,7 +454,7 @@ g) Organizar e conservar, em formato digital, os arquivos da Assembleia Parlamen
 
 Cidade de São Tomé, aos 28 de Abril de 2009.
 
-**O Presidente da Assembleia Nacional de Angola, Fernando da Piedade Dias dos Santos. - O 1.º Vice-Presidente da Câmara dos Deputados da República Federativa do Brasil, Marco Maia. - O Chefe da Delegação da Assembleia Nacional de Cabo Verde, Rui Mendes Semedo. - O Presidente da Assembleia Nacional Popular da Guiné-Bissau, Manuel Serifo Nhamajo. - A Chefe da Delegação da Assembleia da República de Moçambique, Margarida Talapa. - O Presidente da Assembleia da República de Portugal, Jaime Gama. - O Presidente da Assembleia Nacional de São Tomé e Príncipe, Francisco da Silva. - O Presidente do Parlamento Nacional de Timor-Leste, Fernando La Sama de Araújo.**
+O Presidente da Assembleia Nacional de Angola, Fernando da Piedade Dias dos Santos. - O 1.º Vice-Presidente da Câmara dos Deputados da República Federativa do Brasil, Marco Maia. - O Chefe da Delegação da Assembleia Nacional de Cabo Verde, Rui Mendes Semedo. - O Presidente da Assembleia Nacional Popular da Guiné-Bissau, Manuel Serifo Nhamajo. - A Chefe da Delegação da Assembleia da República de Moçambique, Margarida Talapa. - O Presidente da Assembleia da República de Portugal, Jaime Gama. - O Presidente da Assembleia Nacional de São Tomé e Príncipe, Francisco da Silva. - O Presidente do Parlamento Nacional de Timor-Leste, Fernando La Sama de Araújo.
 
 Deliberação n.º 02/09
 
@@ -631,4 +650,4 @@ A eleição dos membros das comissões e dos grupos de trabalho realizar-se-á a
 
 Cidade de São Tomé, aos 28 de Abril de 2009.
 
-**O Presidente da Assembleia Nacional de Angola, Fernando da Piedade Dias dos Santos. - O 1.º Vice-Presidente da Câmara dos Deputados da República Federativa do Brasil, Marco Maia. - O Chefe da Delegação da Assembleia Nacional de Cabo Verde, Rui Mendes Semedo. - O Presidente da Assembleia Nacional Popular da Guiné-Bissau, Manuel Serifo Nhamajo. - A Chefe da Delegação da Assembleia da República de Moçambique, Margarida Talapa. - O Presidente da Assembleia da República de Portugal, Jaime Gama. - O Presidente da Assembleia Nacional de São Tomé e Príncipe, Francisco da Silva. - O Presidente do Parlamento Nacional de Timor-Leste, Fernando La Sama de Araújo.**
+O Presidente da Assembleia Nacional de Angola, Fernando da Piedade Dias dos Santos. - O 1.º Vice-Presidente da Câmara dos Deputados da República Federativa do Brasil, Marco Maia. - O Chefe da Delegação da Assembleia Nacional de Cabo Verde, Rui Mendes Semedo. - O Presidente da Assembleia Nacional Popular da Guiné-Bissau, Manuel Serifo Nhamajo. - A Chefe da Delegação da Assembleia da República de Moçambique, Margarida Talapa. - O Presidente da Assembleia da República de Portugal, Jaime Gama. - O Presidente da Assembleia Nacional de São Tomé e Príncipe, Francisco da Silva. - O Presidente do Parlamento Nacional de Timor-Leste, Fernando La Sama de Araújo.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(82) a 3330-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/00820083.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-x3/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-x3-1992-617731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c58ec3e0555a1a8e03cda92e95d195e00a71738d800a52a5c0ca9aa493ff39d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c1ebc13a0920ed02f96039b01e08d859556d3cccfb0f87666be97ef451b86bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,51 @@ relationships:
   target: pt:dre:342140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193410:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela Port.737/97.1997.08.28.MADRP, DR.IS-B [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/737-1997-193410
+  date: '1997-08-25'
+- type: amended_by
+  target: pt:dre:342140:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 737/97, de\
+    \ 25-Ago, pela PORT.972/2010.24.09.2010.MADRP, DR.IS [187] de 24.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/972-2010-342140
+  date: '2010-09-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:33Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Julho de 1992.**
+Assinada em 7 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/00820083.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/00820083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00820083.pdf)

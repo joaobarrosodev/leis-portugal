@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/124/2012/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/124-2012-175523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cc7a3db7452181b73ef39f02a54126f6721657cf9ccbc9b586a394e68d40729
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ca1bef6d693d9d4914b0430dff5d0650f884c1fcf6a717e7cdf1cc20a99eaf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,51 @@ reuse:
 subjects:
 - Associação Internacional de Desenvolvimento
 - Banco Internacional para a Reconstrução e Desenvolvimento
-- Unesco
 - Convenção
-- Portugal
+- FAO
 - FIDA
 - FMI
-- ONU
 - OIT
-- Organização Mundial da Propriedade Intelectual
-- FAO
-- Organização Internacional da Aviação Civil
 - OMI
 - OMS
+- ONU
+- Onudi
+- Organização Internacional da Aviação Civil
+- Organização Mundial da Propriedade Intelectual
 - Organização Mundial do Turismo
 - Pessoal ONU
+- Portugal
 - Privilegios e Imunidades
 - Sociedade Financeira Internacional
+- Unesco
 - União Internacional das Telecomunicações
 - União Postal Universal
-- Onudi
 relationships:
+- type: amended_by
+  target: pt:dre:175524:por
+  label: "Ratificados os Anexos I, II, III, V, VI, VII, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII e XVIII à Convenção sobre\
+    \ os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações\
+    \ Unidas em 21 de novembro de 1947, pelo DEC.151/2012.25.09.2012.PR, DR.IS [186] de 25.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/151-2012-175524
+  date: '2012-09-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/3/2007/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/3/2007/02/01/p/dre
+- type: cites
+  target: pt:dre:518255:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:23Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +133,7 @@ Revogar o artigo 2.º da [Resolução da Assembleia da República n.º 3/2007](h
 
 Aprovada em 13 de julho de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ANNEX I (1)
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/42/2009/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/42-2009-494574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5608d48bd3c18591795a052aed2a5f7ca2fe12ebc82fd670a10d4986a3f16285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ab8ada3c21cfa88eade6e97b86b5583208199b103f338cfecc2f08152fb26a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reforma da Administração Pública
+- Agricultura
 - ARMA de Destruição Maciça
-- Conselho de Estabilização e de Associação
-- CE Países
-- Turismo
-- Investigação Científica e Tecnológica
-- Combate ao Terrorismo
-- Direitos do Homem
 - Bósnia-herzegovina
+- CE Países
+- Combate à Droga
+- Combate ao Terrorismo
 - Comunidades Europeias
+- Conselho de Estabilização e de Associação
 - Convenção
 - Cooperação Comercial
-- Cooperação Financeira
-- Educação
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Combate à Droga
-- Espaço de Aviação Comum Europeu
-- Euratom
-- Sociedade da Informação
-- Proteção do Ambiente
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
-- Energia
-- Agricultura
 - Desenvolvimento Local
+- Desenvolvimento Regional
 - Direito Internacional
+- Direitos do Homem
+- Educação
+- Energia
+- Espaço de Aviação Comum Europeu
+- Euratom
+- Investigação Científica e Tecnológica
 - Luxemburgo
+- Mudança Tecnológica
+- Proteção do Ambiente
+- Reforma da Administração Pública
+- Sociedade da Informação
 - Tribunal Penal Internacional
+- Turismo
 relationships:
+- type: amended_by
+  target: pt:dre:494777:por
+  label: "Ratificado o Acordo, incluindo os anexos i a vii, os Protocolos n.os 1 a 7 e a Acta Final com as declarações, pelo\
+    \ DEC.51/2009.18.06.2009.PR, DR.IS [116] de 18.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-2009-494777
+  date: '2009-06-18'
 - type: cites
   target: celex:31987R2658
   label: null
@@ -149,16 +155,23 @@ relationships:
   target: eli:http://data.europa.eu
   label: null
   source: http://data.europa.eu
+- type: corrected_by
+  target: pt:dre:122031279:por
+  label: Tornada pública a Segunda Ata de Retificação (incidente no Protocolo n.º 7, anexo ii, apêndice 1, parte B (na Bósnia
+    e Herzegovina), título (A) - Vinhos originários da Bósnia e Herzegovina, subtítulo «Região/Sub-região», primeira entrada)
+    do Acordo pelo(a) Aviso n.º 13/2019 - Diário da República n.º 68/2019, Série I de 2019-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13-2019-122031279
+  date: '2019-04-05'
 article_structure:
   article_count: 248
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:48Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +184,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Fevereiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE ESTABILIZAÇÃO E DE ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A BÓSNIA E HERZEGOVINA, POR OUTRO.
 
@@ -235,7 +248,7 @@ f) Promover o estabelecimento de relações económicas harmoniosas e proceder �
 
 g) Promover a cooperação regional em todos os sectores abrangidos pelo presente Acordo.
 
-## TÍTULO I
+TÍTULO I
 
 Princípios gerais
 
@@ -279,7 +292,7 @@ A análise acima referida não será aplicável à livre circulação de mercado
 
 O presente Acordo deverá ser plenamente compatível com as disposições pertinentes da OMC e aplicado em conformidade com as mesmas, nomeadamente com o artigo XXIV do Acordo Geral sobre Pautas Aduaneiras e Comércio de 1994 (GATT de 1994) e com o artigo V do Acordo Geral sobre o Comércio de Serviços (GATS).
 
-## TÍTULO II
+TÍTULO II
 
 Diálogo político
 
@@ -325,7 +338,7 @@ c) Quaisquer outros meios que contribuam de um modo útil para a consolidação,
 
 O diálogo político poderá ter lugar no âmbito de um enquadramento multilateral ou ser organizado como diálogo regional, abrangendo outros países da região, incluindo no quadro do Fórum UE-Balcãs Ocidentais.
 
-## TÍTULO III
+TÍTULO III
 
 Cooperação regional
 
@@ -367,7 +380,7 @@ A Bósnia e Herzegovina estabelecerá com os outros países abrangidos pelo Proc
 
 2 - A Bósnia e Herzegovina deverá celebrar antes do final dos períodos transitórios referidos no n.º 1 do artigo 18.º com a Turquia, que estabeleceu uma união aduaneira com a Comunidade, numa base reciprocamente vantajosa, um acordo que crie uma zona de comércio livre em conformidade com o artigo XXIV do GATT de 1994, bem como liberalizar o direito de estabelecimento e de prestação de serviços entre ambos os países, a um nível equivalente ao previsto no presente Acordo, em conformidade com o artigo V do GATS.
 
-## TÍTULO IV
+TÍTULO IV
 
 Livre circulação de mercadorias
 
@@ -645,7 +658,7 @@ Em caso de erro das autoridades competentes na gestão apropriada do sistema pre
 
 A aplicação do presente Acordo não prejudica a aplicação do direito comunitário às ilhas Canárias.
 
-## TÍTULO V
+TÍTULO V
 
 Circulação de trabalhadores, direito de estabelecimento, prestação de serviços e movimentos de capitais
 
@@ -899,7 +912,7 @@ O disposto no presente título será progressivamente adaptado, nomeadamente em 
 
 O disposto no presente Acordo não prejudica a aplicação pelas Partes de qualquer medida necessária para impedir que as suas medidas sobre o acesso de países terceiros ao seu mercado sejam contornadas através das disposições do presente Acordo.
 
-## TÍTULO VI
+TÍTULO VI
 
 Aproximação das legislações, aplicação da lei e regras da concorrência
 
@@ -1017,7 +1030,7 @@ d) A fiscalização das regras por autoridades competentes e o acesso à justiç
 
 A Bósnia e Herzegovina harmonizará progressivamente a sua legislação em matéria de condições de trabalho com a legislação comunitária, nomeadamente no que respeita à saúde e segurança no trabalho e à igualdade de oportunidades.
 
-## TÍTULO VII
+TÍTULO VII
 
 Justiça, liberdade e segurança
 
@@ -1113,7 +1126,7 @@ b) Através do intercâmbio de informações sobre grupos terroristas e respecti
 
 c) Através da troca de experiências no que se refere aos meios e métodos de luta contra o terrorismo e em domínios técnicos e da formação e através da troca de experiências no domínio da prevenção do terrorismo.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Políticas de cooperação
 
@@ -1271,7 +1284,7 @@ A cooperação neste domínio terá por objectivo prosseguir o desenvolvimento, 
 
 A cooperação neste domínio centrar-se-á essencialmente no reforço institucional, em conformidade com os requisitos da Parceria Europeia, incluindo o desenvolvimento e aplicação de procedimentos de recrutamento imparciais e transparentes, a gestão dos recursos humanos e o desenvolvimento das carreiras da função pública, a formação contínua e a adopção de princípios éticos no âmbito da Administração Pública e a consolidação do processo de concepção de políticas. As reformas terão na devida conta os objectivos de viabilidade das finanças públicas, incluindo aspectos relacionados com a sua estrutura. A cooperação abrangerá todos os níveis da Administração Pública da Bósnia e Herzegovina.
 
-## TÍTULO IX
+TÍTULO IX
 
 Cooperação financeira
 
@@ -1291,7 +1304,7 @@ A fim de optimizar a utilização dos recursos disponíveis, as Partes assegurar
 
 Para o efeito, as Partes procederão periodicamente a um intercâmbio de informações sobre a proveniência de todos os apoios concedidos.
 
-## TÍTULO X
+TÍTULO X
 
 Disposições institucionais, gerais e finais
 
@@ -1431,7 +1444,7 @@ O presente Acordo é aplicável, por um lado, nos territórios em que são aplic
 
 ###### Artigo 132.º
 
-**O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.
 
 ###### Artigo 133.º
 
@@ -1449,7 +1462,7 @@ O presente Acordo entrará em vigor no primeiro dia do segundo mês seguinte à 
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entrada em vigor do presente Acordo, as disposições de determinadas partes do Acordo, nomeadamente as respeitantes à livre circulação de mercadorias, assim como as disposições pertinentes em matéria de transportes, entrarem em vigor através da celebração de um Acordo Provisório entre a Comunidade e a Bósnia e Herzegovina, as Partes acordam em que, nessas circunstâncias, para efeitos do Título IV, dos artigos 71.º e 73.º do presente Acordo, dos seus Protocolos n.os 1, 2, 4, 5, 6 e 7, bem como das disposições pertinentes do Protocolo n.º 3, se entende pela expressão «data de entrada em vigor do presente Acordo» a data de entrada em vigor do Acordo Provisório no que respeita às obrigações previstas nas referidas disposições.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 (1) Regulamento (CEE) n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt) do Conselho (JO L 256 de 7.9.1987, p. 1), com a redacção que lhe foi dada .
 
@@ -1509,7 +1522,7 @@ Os direitos de importação serão reduzidos da seguinte forma:
 
 - em 1 de Janeiro do primeiro ano seguinte ao da entrada em vigor do Acordo, serão abolidos os direitos de importação remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO I (b) — Concessões pautais da Bósnia e Herzegovina para produtos industriais da comunidade
 
@@ -1525,7 +1538,7 @@ c) Em 1 de Janeiro do segundo ano seguinte à data de entrada em vigor do Acordo
 
 d) Em 1 de Janeiro do terceiro ano seguinte à data de entrada em vigor do Acordo, serão abolidos os direitos de importação remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO I (c) — Concessões pautais da Bósnia e Herzegovina para produtos industriais da comunidade
 
@@ -1545,7 +1558,7 @@ e) Em 1 de Janeiro do quarto ano seguinte à data de entrada em vigor do Acordo,
 
 f) Em 1 de Janeiro do quinto ano seguinte à data de entrada em vigor do Acordo, serão abolidos os direitos de importação remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO II
 
@@ -1555,7 +1568,7 @@ Definição dos produtos «baby beef»
 
 Sem prejuízo das normas para a interpretação da Nomenclatura Combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Nos casos em que são indicados códigos «ex» NC, o regime preferencial será determinado pela aplicação conjunta do código NC e do descritivo correspondente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO III — Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da Comunidade
 
@@ -1565,7 +1578,7 @@ Sem prejuízo das normas para a interpretação da Nomenclatura Combinada, consi
 
 Isenção de direitos, sem limites quantitativos, na data de entrada em vigor do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO III (b) — Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da comunidade
 
@@ -1577,7 +1590,7 @@ a) Na data de entrada em vigor do Acordo, todos os direitos serão reduzidos par
 
 b) Em 1 de Janeiro do primeiro ano seguinte ao da entrada em vigor do Acordo, serão abolidos os direitos de importação remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO III (c) — Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da Comunidade
 
@@ -1593,7 +1606,7 @@ c) Em 1 de Janeiro do segundo ano seguinte à data de entrada em vigor do Acordo
 
 d) Em 1 de Janeiro do terceiro ano seguinte ao da entrada em vigor do Acordo, serão abolidos os direitos de importacão remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO III (d) — Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da comunidade
 
@@ -1613,7 +1626,7 @@ e) Em 1 de Janeiro do quarto ano seguinte à data de entrada em vigor do Acordo,
 
 f) Em 1 de Janeiro do quinto ano seguinte ao da entrada em vigor do Acordo, serão abolidos os direitos remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO III (e) — Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da Comunidade
 
@@ -1621,23 +1634,23 @@ f) Em 1 de Janeiro do quinto ano seguinte ao da entrada em vigor do Acordo, ser�
 
 Na data de entrada em vigor do Acordo, os direitos de importação serão serão abolidos nos limites do contingente pautal. As importações que ultrapassem o contigente ficam sujeitas ao direito NMF.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO IV — Direitos aplicáveis à importação na Comunidade de produtos originários da Bósnia e Herzegovina
 
 As importações da Bósnia e Herzegovina para a Comunidade serão sujeitas às concessões seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Os direitos aplicáveis a todos os produtos da posição 1604 do SH, exceptuando as preparações ou conservas de sardinhas e de anchovas, serão reduzidos do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO V — Direitos aplicáveis à importação na Bósnia e Herzegovina de produtos originários da Comunidade
 
 Os direitos aplicáveis aos produtos da pesca originários da Comunidade serão desmantelados de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO VI — Direito de estabelecimento: serviços financeiros
 
@@ -1793,17 +1806,17 @@ A Comunidade e a Bósnia e Herzegovina informar-se-ão mutuamente sobre as dispo
 
 As importações na Comunidade dos produtos agrícolas transformados originários da Bósnia e Herzegovina a seguir enumerados estão sujeitas a direitos aduaneiros nulos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO II AO PROTOCOLO N.º 1 — Direitos aplicáveis à importação na Bósnia e Herzegovina de produtos originários da Comunidade
 
 (imediata ou progressivamente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 PROTOCOLO N.º 2 - RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA PARA EFEITOS DA APLICAÇÃO DAS DISPOSIÇÕES DO PRESENTE ACORDO ENTRE A COMUNIDADE E A BÓSNIA E HERZEGOVINA.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -1837,7 +1850,7 @@ l) «Remessa», os produtos enviados simultaneamente por um exportador para um d
 
 m) «Territórios», também as águas territoriais.
 
-## TÍTULO II
+TÍTULO II
 
 Definição da noção de «produtos originários»
 
@@ -2029,7 +2042,7 @@ c) Máquinas e ferramentas;
 
 d) Mercadorias que não entram nem se destinam a entrar na composição final do produto.
 
-## TÍTULO III
+TÍTULO III
 
 Requisitos territoriais
 
@@ -2109,7 +2122,7 @@ d) A partir do momento em que foram expedidos para a exposição, os produtos n�
 
 3 - O disposto no n.º 1 é aplicável a todas as exposições, feiras ou manifestações públicas análogas de carácter comercial, industrial, agrícola ou artesanal, que não sejam organizadas para fins privados em lojas e outros estabelecimentos comerciais para venda de produtos estrangeiros, durante as quais os produtos permaneçam sob controlo aduaneiro.
 
-## TÍTULO IV
+TÍTULO IV
 
 Draubaque ou isenção de direitos aduaneiros
 
@@ -2125,7 +2138,7 @@ Draubaque ou isenção de direitos aduaneiros
 
 5 - O disposto nos n.os 1 a 4 só se aplica às matérias semelhantes às abrangidas pelo presente Acordo. Além disso, não obsta à aplicação de um regime de restituições à exportação no respeitante aos produtos agrícolas, aplicável aquando da exportação em conformidade com as disposições do presente Acordo.
 
-## TÍTULO V
+TÍTULO V
 
 Prova de origem
 
@@ -2299,7 +2312,7 @@ e) Elementos de prova adequados das operações de complemento de fabrico ou de 
 
 5 - Os montantes expressos em euros serão revistos pelo Conselho de Estabilização e de Associação a pedido da Comunidade ou da Bósnia e Herzegovina. Ao proceder a essa revisão, o Comité de Estabilização e de Associação considerará a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, pode decidir alterar os montantes expressos em euros.
 
-## TÍTULO VI
+TÍTULO VI
 
 Métodos de cooperação administrativa
 
@@ -2339,7 +2352,7 @@ Serão aplicadas sanções a quem elaborar ou mandar elaborar um documento conte
 
 2 - Em derrogação do n.º 1, quando os produtos originários da Comunidade ou da Bósnia e Herzegovina, importados para uma zona franca ao abrigo de uma prova de origem, forem sujeitos a um tratamento ou a uma transformação, as autoridades competentes devem emitir um novo certificado de circulação EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente Protocolo.
 
-## TÍTULO VII
+TÍTULO VII
 
 Ceuta e Melilha
 
@@ -2385,7 +2398,7 @@ ii) Esses produtos sejam originários de Ceuta e Melilha ou da Comunidade, desde
 
 4 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente Protocolo em Ceuta e Melilha.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Disposições finais
 
@@ -2625,7 +2638,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Nem todos os produtos indicados na lista são abrangidos pelo presente Acordo. É, pois, necessário consultar as outras partes do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO III AO PROTOCOLO N.º 2 — Modelos de Certificado de Circulação Eur.1 e pedido de Certificado de Circulação Eur.1
 
@@ -2635,7 +2648,7 @@ Nem todos os produtos indicados na lista são abrangidos pelo presente Acordo. �
 
 2 - As autoridades competentes das Partes podem reservar-se o direito de proceder à impressão dos certificados ou confiá-la a tipografias por eles autorizadas. Neste último caso, cada certificado EUR.1 deve incluir uma referência a essa autorização. Além disso, o certificado EUR.1 deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Notas
 
@@ -2645,17 +2658,17 @@ Notas
 
 3 - As mercadorias serão designadas de acordo com os usos comerciais, com as especificações suficientes para permitir a sua identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO IV AO PROTOCOLO N.º 2 — Texto da declaração na factura
 
 A declaração na factura, cujo texto é a seguir apresentado, deve ser prestada de acordo com as notas de pé-de-página. Contudo, estas não têm que ser reproduzidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ## ANEXO V AO PROTOCOLO N.º 2 — Produtos excluídos da acumulação prevista nos artigos 3.º e 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Declaração conjunta relativa ao Principado de Andorra
 
@@ -2879,11 +2892,11 @@ Declaração conjunta
 
 Valores-limite medidos pelo teste do Ciclo Europeu de Estado Estacionário (ESC) e do Ensaio Europeu de Reacção a uma Carga (ELR):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Valores-limite medidos pelo teste do Ciclo Transiente Europeu (ETC):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - A Comunidade e a Bósnia e Herzegovina procurarão, no futuro, reduzir as emissões dos veículos a motor através da utilização da tecnologia de ponta de controlo das emissões dos veículos paralelamente a uma melhor qualidade do combustível para motores.
 
@@ -3303,13 +3316,13 @@ b) Originários da Bósnia e Herzegovina e produzidos em conformidade com a legi
 
 1 - As importações para a Comunidade dos seguintes vinhos referidos no artigo 2.º do presente Protocolo estão sujeitas às concessões a seguir estabelecidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - A Comunidade concede um direito preferencial de taxa zero no âmbito dos contingentes pautais determinados no ponto 1, desde que a Bósnia e Herzegovina não pague subvenções à exportação pelas exportações dessas quantidades.
 
 3 - As importações para a Bósnia e Herzegovina dos seguintes vinhos referidos no artigo 2.º do presente Protocolo estão sujeitas às concessões a seguir estabelecidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 4 - A Bósnia e Herzegovina concede um direito preferencial de taxa zero no âmbito dos contingentes pautais determinados no ponto 3, desde que a Comunidade não pague subsídios à exportação pelas exportações dessas quantidades.
 
@@ -3371,7 +3384,7 @@ l) «Acordo da OMC», o Acordo de Marraquexe que institui a Organização Mundia
 
 Salvo disposição em contrário no presente Acordo, a importação e a comercialização dos produtos referidos no artigo 2.º são efectuadas em conformidade com a legislação e a regulamentação em vigor no território da Parte em questão.
 
-## TÍTULO I
+TÍTULO I
 
 Protecção recíproca das denominações do vinho, bebidas espirituosas e vinhos aromatizados
 
@@ -3473,7 +3486,7 @@ b) A uma categoria de produtos que beneficie de uma protecção na Comunidade, c
 
 As Partes tomarão todas as medidas necessárias para assegurar que, sempre que os vinhos, as bebidas espirituosas e os vinhos aromatizados originários de uma Parte sejam exportados e comercializados fora do território dessa Parte, as indicações geográficas protegidas referidas na alínea a), subalínea ii), e na alínea b), subalínea ii), do artigo 4.º e, no caso dos vinhos, as menções tradicionais da Parte referida na alínea a), subalínea iii), do artigo 4.º, não sejam utilizadas para designar e apresentar esses produtos que têm origem no território da outra Parte.
 
-## TÍTULO II
+TÍTULO II
 
 Aplicação e assistência mútua entre as autoridades competentes e gestão do presente acordo
 
@@ -3539,7 +3552,7 @@ informará imediatamente do facto o representante da outra Parte.
 
 4 - Se, no seguimento das consultas previstas nos n.os 1 e 3, as Partes não chegarem a acordo, a Parte que solicitou as consultas ou que adoptou as medidas referidas no n.º 3 pode adoptar medidas adequadas em conformidade com o artigo 126.º do presente Acordo para permitir a aplicação adequada do presente Acordo.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições gerais
 
@@ -3577,13 +3590,13 @@ A derrogação referida no n.º 1 não pode ser cumulada com qualquer das derrog
 
 2 - Salvo disposição em contrário das Partes, os vinhos, as bebidas espirituosas ou os vinhos aromatizados que tenham sido produzidos, preparados, designados e apresentados em conformidade com o presente Acordo mas cuja produção, preparação, designação e apresentação deixem de estar com ele em conformidade, em resultado de uma alteração nele introduzida, poderão continuar a ser comercializados até ao esgotamento das existências.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Lista das denominações protegidas
 
 (referidas nos artigos 4.º e 6.º do Anexo II do Protocolo n.º 7)
 
-# Parte A: na comunidade
+Parte A: na comunidade
 
 A) Vinhos originários da comunidade
 
@@ -3675,31 +3688,31 @@ Bulgária
 
 Regiões determinadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Chipre
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 República Checa
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 França
 
@@ -4671,27 +4684,27 @@ Alemanha
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Grécia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Hungria
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Itália
 
@@ -5661,43 +5674,43 @@ Luxemburgo
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Malta
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Portugal
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Roménia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Eslováquia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Eslovénia
 
@@ -5705,17 +5718,17 @@ Eslovénia
 
 Regiões determinadas (seguidas ou não pelo nome de um concelho vitícola e ou pelo nome de uma propriedade vitícola):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Espanha
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v.q.p.r.d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
@@ -6021,7 +6034,7 @@ Aguardente do Alentejo
 
 Aguardente do Algarve
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Vinars Târnave
 
@@ -6041,7 +6054,7 @@ Brandy del Penedés
 
 Brandy italiano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Deutscher Weinbrand
 
@@ -6049,7 +6062,7 @@ Wachauer Weinbrand
 
 Weinbrand Dürnstein
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 6 - Aguardentes de bagaço de uva:
 
@@ -6121,11 +6134,11 @@ Grappa veneta/Grappa del Veneto
 
 Südtiroler Grappa/Grappa dell'Alto Adige
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Eau-de-vie de marc de marque nationale luxembourgeoise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Pálinka
 
@@ -6217,7 +6230,7 @@ Eau-de-vie de prunelles de marque nationale luxembourgeoise
 
 Wachauer Marillenbrand
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Szatmári Szilvapálinka
 
@@ -6231,7 +6244,7 @@ Slivovice
 
 Pálinka
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 8 - Aguardente de sidra e de perada:
 
@@ -6285,7 +6298,7 @@ Plymouth Gin
 
 Gin de Mahón
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 12 - Bebidas espirituosas com alcaravia:
 
@@ -6307,7 +6320,7 @@ Ojén
 
 Rute
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 14 - Licor:
 
@@ -6361,13 +6374,13 @@ Wachauer Marillenlikör
 
 Jägertee/Jagertee/Jagatee
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Demänovka Bylinnÿ Likér
 
 Polish Cherry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 15 - Bebidas espirituosas:
 
@@ -6391,17 +6404,17 @@ Polska Wódka/Polish Vodka
 
 Laugarício Vodka
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Latvijas Dzidrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 LB Vodka
 
 17 - Bebidas espirituosas amargas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Demänovka bylinná horká
 
@@ -6417,7 +6430,7 @@ Vermouth de Chambéry
 
 Vermouth di Torino
 
-# PARTE B: NA BÓSNIA E HERZEGOVINA — A) Vinhos originários da Bósnia e Herzegovina
+## PARTE B: NA BÓSNIA E HERZEGOVINA — A) Vinhos originários da Bósnia e Herzegovina
 
 Denominação da região especificada, em conformidade com a legislação da Bósnia e Herzegovina
 
@@ -6437,15 +6450,15 @@ Ukrina
 
 Majevica
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Lista das menções tradicionais e dos termos relativos à qualidade para o vinho na comunidade
 
 (tal como referido nos artigos 4.º e 7.º do Anexo II do Protocolo n.º 7)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Lista de contactos
 
@@ -6489,7 +6502,7 @@ Fax: +32 2 296 62 92
 
 Endereço electrónico: AGRI EC BiH winetrade@ec.europa.eu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 ACTA FINAL
 
@@ -6563,19 +6576,19 @@ reunidos em [...] em [...] para a assinatura do Acordo de Estabilização e de A
 
 o presente Acordo e seus Anexos I a VII, nomeadamente:
 
-## Anexo I (artigo 21.º) - Concessões pautais da Bósnia e Herzegovina para produtos industriais da Comunidade
+Anexo I (artigo 21.º) - Concessões pautais da Bósnia e Herzegovina para produtos industriais da Comunidade
 
-## Anexo II (n.º 2 do artigo 27.º) - Definição dos produtos «baby beef»
+Anexo II (n.º 2 do artigo 27.º) - Definição dos produtos «baby beef»
 
-## Anexo III (artigo 27.º) - Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da comunidade
+Anexo III (artigo 27.º) - Concessões pautais da Bósnia e Herzegovina para produtos agrícolas primários originários da comunidade
 
-## Anexo IV (artigo 28.º) - Direitos aplicáveis à importação na Comunidade de produtos originários da Bósnia e Herzegovina
+Anexo IV (artigo 28.º) - Direitos aplicáveis à importação na Comunidade de produtos originários da Bósnia e Herzegovina
 
-## Anexo V (artigo 28.º) - Direitos aplicáveis à importação na Bósnia e Herzegovina de produtos originários da Comunidade
+Anexo V (artigo 28.º) - Direitos aplicáveis à importação na Bósnia e Herzegovina de produtos originários da Comunidade
 
-## Anexo VI (artigo 50.º) - Direito de estabelecimento: serviços financeiros
+Anexo VI (artigo 50.º) - Direito de estabelecimento: serviços financeiros
 
-## Anexo VII (artigo 73.º) - Direitos de propriedade intelectual, industrial e comercial
+Anexo VII (artigo 73.º) - Direitos de propriedade intelectual, industrial e comercial
 
 e os Protocolos seguintes:
 
@@ -6603,7 +6616,7 @@ Os plenipotenciários da Bósnia e Herzegovina registaram a seguinte declaraçã
 
 Declaração da Comunidade relativa às medidas comerciais de carácter excepcional adoptadas pela Comunidade com base no Regulamento (CE) n.º [2007/2000](http://data.europa.eu/eli/reg/2000/2007/oj?locale=pt).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0378104058.pdf)
 
 Declarações comuns
 

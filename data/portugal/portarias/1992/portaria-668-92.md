@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/668/1992/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-1992-288015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e7e77bf2dbc4ff7d12bcc1b1025ff52336eb9b48ecb8e3c73d3d743b93bd30c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34a3a00afbe772afb2e1c1007d90139765987163fea7f883ab518d900a344f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,62 @@ relationships:
   target: pt:dre:423182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204055:por
+  label: "Alterado o nº 1 e aditado um nº 1º-A, (tendo sido o presente diploma anteriormente alterado pelas port 890/94 de\
+    \ 03-Out e pela Port 1460/95 de 14-Dez), pela PORT.604/97.1997.08.06.MADRP DR.IS-B [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/604-1997-204055
+  date: '1997-08-06'
+- type: amended_by
+  target: pt:dre:658070:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, na redacção dada pelas Ports\
+    \ 890/94 de 03-Out, 1460/95 de 14-dez e 604/97 de 06-Ago, pela PORT.683-F/97.1997.08.12.MADRP, DR.IS-B [185]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-f-1997-658070
+  date: '1997-08-12'
+- type: amended_by
+  target: pt:dre:566631:por
+  label: "Alterado o nº 1 e Aditado o nº 1º-A pela PORT.689/98.1998.09.01.MADRP DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/689-1998-566631
+  date: '1998-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423182:por
+  label: "Revogada a concessão atribuída pelo presente diploma pela PORT.655/99.1999.08.14.MADRP, DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/655-1999-423182
+  date: '1999-08-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:42Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +161,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Junho de 1992.**
+Assinada em 16 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/155b00/32333233.pdf))](https://files.diariodarepublica.pt/1s/1992/07/155b00/32333233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/155b00/32333233.pdf)

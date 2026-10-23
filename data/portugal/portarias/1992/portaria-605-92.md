@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/605/1992/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-1992-303157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfa303a6a4186e55507357da26a9bac55055f80dc7f1cf671e92ad6692ad97d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51f213cd98d9504ee8a6978a1cbd28e98b3d03dedde7ef9ceb3ce9ae987024b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:608724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155654:por
+  label: "Renovada por seis anos a concessão da zona de caça associativa pela Port 452/97.1997.07.10.MADRP, DR.IS-B [157]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-1997-155654
+  date: '1997-07-10'
+- type: amended_by
+  target: pt:dre:571875:por
+  label: "Renovada por seis anos a concessão da zona de caça associativa pela PORT.359/2003.2003.05.02.MADRP DR.IS-B [101]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-2003-571875
+  date: '2003-05-02'
+- type: amended_by
+  target: pt:dre:608724:por
+  label: "Renovada, por um período de seis anos, a zona de caça associativa da Herdade dos Varelas e anexas, concessionada\
+    \ pelo presente diploma, renovada pelas Ports 452/97 de 10-Jul e 359/2003 de 02-Mai, pela PORT.505/2009.13.05.2009.MADRP,\
+    \ DR.IS [92] de 13.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/505-2009-608724
+  date: '2009-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
@@ -83,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/595/1991/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/595/1991/07/01/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649124:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:09Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/147b00/30643064.pdf))](https://files.diariodarepublica.pt/1s/1992/06/147b00/30643064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/147b00/30643064.pdf)

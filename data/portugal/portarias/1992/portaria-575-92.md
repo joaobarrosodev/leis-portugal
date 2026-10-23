@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/575/1992/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/575-1992-302915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89be07360180cb9b759768a7a0b23133db77781cdb1ba2befb109de06ad161f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f4d40674c286f765dc5468d15b31642d3a16677d7c73241054a913068f95c57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,65 @@ relationships:
   target: pt:dre:334297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435207:por
+  label: "Suspensa pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, pela PORT.493/98.1998.08.07.MADRP,\
+    \ DR.IS-B [181] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-1998-435207
+  date: '1998-08-07'
+- type: amended_by
+  target: pt:dre:186573:por
+  label: "Renovada, por um período de 12 anos, a concessão de zona de caça associativa pela PORT.1046/98.1998.12.22.MADRP\
+    \ DR.IS-B [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1998-186573
+  date: '1998-12-22'
+- type: amended_by
+  target: pt:dre:533419:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Port 1046/98\
+    \ de 22-Dez, pela PORT.55/2006.16.01.2006.MADRP, DR.IS-B [11] de 16.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-2006-533419
+  date: '2006-01-16'
+- type: amended_by
+  target: pt:dre:334297:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa da Senhora da Alagoa, criada pelo presente\
+    \ diploma, renovada pela Port 1046/98, de 22-Dez e alterada pela Port 55/2006, de 16-Jan, bem como anexados vários prédios\
+    \ rústicos à presente zona de caça, pela PORT.521/2010.19.07.2010.MADRP, DR.IS [138] de 19.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/521-2010-334297
+  date: '2010-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:25Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +166,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Maio de 1992.**
+Assinada em 12 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/145b00/30373037.pdf))](https://files.diariodarepublica.pt/1s/1992/06/145b00/30373037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/145b00/30373037.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/167b00/34353435.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/740/1992/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-1992-292514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f04c23ac5eedb516b984f7116459810e20486abfdbc0596d90eb0da1d85540c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5537e988583430dd1a5acde48da2e7621e4a90ff808c0768c5e3a5fc9c4182f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Licenciamento
+- Pesca
 - Recursos do Mar
 relationships:
 - type: amended_by
@@ -82,16 +82,26 @@ relationships:
   target: celex:31992R0345
   label: null
   source: http://data.europa.eu/eli/reg/1992/345/oj
+- type: corrected_by
+  target: pt:dre:159147:por
+  label: "Rectificado o n.º 4.º pela DECL-RECT.144/92.31.08.1992.PCM, DR.IS-B [200]2ºSupl de 31.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/144-1992-159147
+  date: '1992-08-31'
+- type: repealed_by
+  target: pt:dre:237800:por
+  label: "Revogada pela PORT.1243/92.31.12.1992.MM, DR.IS-B [301]13ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1243-1992-237800
+  date: '1992-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:24Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +130,7 @@ Manda o Governo, pelo Ministro do Mar, o seguinte:
 
 (N.os 8.º e 9.º da Portaria n.º 815/90, de 11 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/167b00/34353435.pdf))](https://files.diariodarepublica.pt/1s/1992/07/167b00/34353435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34353435.pdf)
 
 3.º São aditados à Portaria n.º 815/90, de 11 de Setembro, os n.os 7.º-B e 7.º-C, com a seguinte redacção:
 
@@ -130,6 +140,6 @@ Manda o Governo, pelo Ministro do Mar, o seguinte:
 
 Ministério do Mar.
 
-**Assinada em 30 de Junho de 1992.**
+Assinada em 30 de Junho de 1992.
 
-**O Ministro do Mar, Eduardo Eugénio Castro Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro Azevedo Soares.

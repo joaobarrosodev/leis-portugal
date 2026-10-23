@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/759/1992/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/759-1992-283891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7e797a42d70c0a33dac80e17a7b20c05a1fafdbcfeb5995d06361096242ba20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71f8189c3acc6aebac82d0db66b938f3b431e734c155c8d3f80cc3ed0dc49b45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Contingentação
 - Direcção Geral do Comércio Externo
+- Estónia
 - Importação
 - Veículo
-- Estónia
 relationships:
 - type: cites
   target: celex:31983R3420
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:51Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +126,6 @@ c) A DGCE comunicará às entidades competentes das Regiões Autónomas as quota
 
 Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 17 de Julho de 1992.**
+Assinada em 17 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.

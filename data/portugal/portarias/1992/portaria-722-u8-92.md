@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(167) a 3330-(167)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/01670167.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-u8/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-u8-1992-617708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 123e79487f516e4691b49608b26863a9f54fed55444490da58c6bafdcc3a0cfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b3c5f7c3f555214ef9db7ff43aa7ad12f82b2ed3f439afd4e677d6fb7472232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,52 @@ relationships:
   target: pt:dre:481529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196933:por
+  label: "Suspenso pelo prazo máximo de nove meses o exercício da caça e actividades venatórias pela PORT.916/2002.2002.07.30.MADRP\
+    \ DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/916-2002-196933
+  date: '2002-07-30'
+- type: amended_by
+  target: pt:dre:481529:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça turística atribuída pelo presente diploma pela\
+    \ PORT.12/2003.2003.01.08.MECO,DR.IS-B [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/12-2003-481529
+  date: '2003-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:59Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Julho de 1992.**
+Assinada em 7 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/01670167.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/01670167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/01670167.pdf)

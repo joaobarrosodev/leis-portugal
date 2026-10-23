@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/5/2009/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/5-2009-604591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a96feb9af21c8baf2541a0231f26f7d26b279dbfa25092c7e1d9852a9be9086a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbac52b0e8931584016d9a3415c17166c83cea3e110afe6351ee2034d986911e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gabinete Europeu de Comunicações
 - Convenção
-- Portugal
-- Denominação de Instituição
 - Copenhaga
+- Denominação de Instituição
+- Gabinete Europeu de Comunicações
 - Gabinete Europeu de Radiocomunicações
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:604595:por
+  label: "Ratificadas as Emendas à Convenção para a Criação do Gabinete Europeu de Radiocomunicações, bem como o texto da\
+    \ Convenção para a Criação do Gabinete Europeu de Comunicações, aprovadas pelo presente diploma, pelo DEC.11/2009.26.02.2009.PR,\
+    \ DR.IS [40] de 26.02.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2009-604595
+  date: '2009-02-26'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:58Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Janeiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 INSTRUMENT AMENDING THE CONVENTION FOR THE ESTABLISHMENT OF THE EUROPEAN RADIOCOMMUNICATIONS OFFICE (ERO).
 
@@ -116,11 +123,11 @@ Done at Copenhagen this 17th of December 2002 in a single copy in the English, F
 
 For the Republic of Austria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Bulgaria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Croatia:
 
@@ -128,27 +135,27 @@ For the Republic of Cyprus:
 
 For the Kingdom of Denmark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Estonia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Finland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the French Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Federal Republic of Germany:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Hellenic Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Hungary:
 
@@ -156,69 +163,69 @@ For the Republic of Iceland:
 
 For Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Italian Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Principality of Liechtenstein:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Grand Duchy of Luxembourg:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Principality of Monaco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Kingdom of the Netherlands:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Kingdom of Norway:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Poland:
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For Romania:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Slovak Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Kingdom of Spain:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Kingdom of Sweden:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Swiss Confederation:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Republic of Turkey:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the United Kingdom of Great Britain and Northern Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 For the Vatican City State:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 CONVENTION FOR THE ESTABLISHMENT OF THE EUROPEAN COMMUNICATIONS OFFICE (ECO)
 
@@ -612,11 +619,11 @@ Feito em Copenhaga no dia 17 de Dezembro de 2002 num único original em inglês,
 
 Pela República da Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Croácia:
 
@@ -624,27 +631,27 @@ Pela República do Chipre:
 
 Pelo Reino da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República Federal Alemã:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República Helénica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Hungria:
 
@@ -652,69 +659,69 @@ Pela República da Islândia:
 
 Pela Irlanda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Principado do Listenstaina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Grão-Ducado do Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Principado do Mónaco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Reino da Holanda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Reino da Noruega:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Polónia:
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República Eslovaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Reino da Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela Confederação Suíça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pela República da Turquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Reino Unido da Grã-Bretanha e da Irlanda do Norte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 Pelo Estado da Cidade do Vaticano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0129501307.pdf)
 
 CONVENÇÃO PARA A CRIAÇÃO DO GABINETE EUROPEU DE COMUNICAÇÕES (ECO)
 

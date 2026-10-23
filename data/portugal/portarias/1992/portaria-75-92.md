@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/1992/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-1992-151076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e6cc77f441c3eda6fd5ce55370a0ba7eb079aa1d72232d187429c019087bf93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b577ea2cc7aa46aab4bfc89e16c4a31a38780a2da5f6fb8330591ccfb11340cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:378365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:38Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +110,7 @@ Manda o Governo, pelos Ministros das Finanças e do Ambiente e Recursos Naturais
 
 Ministérios das Finanças e do Ambiente e Recursos Naturais.
 
-**Assinada em 15 de Janeiro de 1992.**
+Assinada em 15 de Janeiro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
@@ -110,8 +118,8 @@ MAPA I
 
 Quadro do pessoal de informática do Instituto Nacional de Meteorologia e Geofísica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/030b00/07350736.pdf))](https://files.diariodarepublica.pt/1s/1992/02/030b00/07350736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/030b00/07350736.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/030b00/07350736.pdf))](https://files.diariodarepublica.pt/1s/1992/02/030b00/07350736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/030b00/07350736.pdf)

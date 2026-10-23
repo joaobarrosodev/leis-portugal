@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/663/1992/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/663-1992-288011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b0131de58f89905cb44063e3f25e633e95a339826387d480381aec0aa83d95f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8588eb77b7b1928146e862384639fabc606e7b381a77b026ff9bf055068ccd6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,52 @@ relationships:
   target: pt:dre:564224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500463:por
+  label: "Suspenso o exerc&#237;cio da ca&#231;a e de actividades de car&#225;cter venat&#243;rio na zona de ca&#231;a associativa\
+    \ concessionada pelo presente diploma, pela PORT.970/2004.30.07.2004.MADRP, DR.IS-B [178] de 30.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-2004-500463
+  date: '2004-07-30'
+- type: amended_by
+  target: pt:dre:564224:por
+  label: "Renovada a concessão da zona de caça atribuída pelo presente diploma, pela PORT.347/2005.01.04.2005.MAPF, DR.IS-B\
+    \ [64] de 01.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-2005-564224
+  date: '2005-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:36Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +152,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Junho de 1992.**
+Assinada em 16 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/155b00/32293230.pdf))](https://files.diariodarepublica.pt/1s/1992/07/155b00/32293230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/155b00/32293230.pdf)

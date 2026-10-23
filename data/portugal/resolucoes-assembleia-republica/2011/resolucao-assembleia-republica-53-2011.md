@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/53/2011/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2011-278758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f86a66189ad2577d709b5d283ca477c8f3b72d9f44252e8bbaaea8f2bab48d2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e4c9fee9987f59aebe9ecfa7ab769ce998fce43dd38c9104bab5aae2aa049d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administrador
-- Empresa
-- Fiscal Único
-- Moeda Eletrónica
-- Pessoal Dirigente
+- Avaliação das Instituições
+- CMVM
 - Conselho de Administração
 - Direção Geral do Tesouro e Finanças
+- Empresa
 - Empresa Pública
-- Setor Empresarial do Estado
+- Fiscal Único
 - Gestão de Empresas
 - Gestão Pública
 - Gestor Público
-- Remuneração Acessória
-- Avaliação das Instituições
-- Veículo
+- Moeda Eletrónica
+- Pessoal Dirigente
 - Recomendação
 - Remuneração
-- CMVM
+- Remuneração Acessória
+- Setor Empresarial do Estado
 - Subsídio de Refeição
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:42Z'
   warnings: []
   errors: []
 ---
@@ -187,4 +191,4 @@ Cabe ainda à supervisão operacional validar o cumprimento do contrato de gest�
 
 Aprovada em 18 de Fevereiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

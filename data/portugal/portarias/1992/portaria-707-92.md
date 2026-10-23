@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 156/1992, 1º Suplemento, Série I-B de 1992-07-09
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3266-(10) a 3266-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/707/1992/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/707-1992-616639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5c98f35e2c85b569449bb57036dff8aac61ab1a3aca700f659fc245a64013ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f5f23575369241d226b2333b7338ba5c97849b2b0807ab6c8502fc9805d7b97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento
 - Ensino Superior
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADO UM ARTIGO 38-A, PELA PORTARIA 911-A/92, PUBLICADA NO DR.IS-B, 218 SUPL, DE 920921.\0921.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:219373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219373:por
+  label: "Aditado o artigo 38.º-A ao Regulamento, pela PORT.911-A/92.21.09.1992.ME, DR.IS-B [218]Supl de 21.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-a-1992-219373
+  date: '1992-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:36Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +145,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 2 de Julho de 1992.**
+Assinada em 2 de Julho de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 Regulamento do Concurso Nacional de Acesso ao Ensino Superior para a matrícula e inscrição no ano lectivo de 1992-1993
 
@@ -758,7 +795,7 @@ A Direcção-Geral do Ensino Superior, a Direcção-Geral dos Ensinos Básico e 
 
 ## ANEXO I — Equivalência das disciplinas do ano propedêutico às disciplinas do 12.º ano de escolaridade (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf))](https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf)
 
 (nota a) Reprodução do mapa II à [Portaria n.º 684/81](https://diariodarepublica.pt/dr/detalhe/portaria/684-1981-576541), de 11 de Agosto.
 
@@ -920,4 +957,4 @@ Todos os encargos decorrentes do funcionamento da comissão de avaliação e do 
 
 ## ANEXO IV — Prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf))](https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/156b01/00100019.pdf)

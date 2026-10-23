@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/54/2009/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/54-2009-493186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73a23b96fde942f5bb3130a420058e9154b2f1f54de85bb8429a5c6be50ef9ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c041f2e2a3a3657b79939b5323cfe95378db480705b45a5e0470aae5f79f8e85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
 subjects:
 - Acesso à Informação
 - Acesso ao Direito
-- Cazaquistão
 - Almaty
-- Portugal
-- Direito de Participação
+- Cazaquistão
 - Direito à Justiça
+- Direito de Participação
+- Portugal
 - Proteção do Ambiente
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:493194:por
+  label: "Ratificada a Emenda à Convenção, pelo DEC.69/2009.30.07.2009.PR, DR.IS [146] de 30.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/69-2009-493194
+  date: '2009-07-30'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:05Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de Maio de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 AMENDMENT TO THE CONVENTION ON ACCESS TO INFORMATION, PUBLIC PARTICIPATION IN DECISION-MAKING AND ACCESS TO JUSTICE IN ENVIRONMENTAL MATTERS, ALMATY, 27 MAY 2005.
 
@@ -167,11 +172,11 @@ v) An indication of the public authority to which comments can be submitted and 
 
 EMENDA À CONVENÇÃO SOBRE O ACESSO À INFORMAÇÃO, PARTICIPAÇÃO DO PÚBLICO NO PROCESSO DE TOMADA DE DECISÃO E ACESSO À JUSTIÇA EM MATÉRIA DE AMBIENTE, ALMATY, 27 DE MAIO DE 2005.
 
-###### Artigo 6.º, n.º 11 - o texto existente é substituído pelo seguinte:
+Artigo 6.º, n.º 11 - o texto existente é substituído pelo seguinte:
 
 «11 - Sem prejuízo do disposto no n.º 5 do artigo 3.º, as disposições do presente artigo não se aplicam às decisões relativas à autorização da libertação deliberada no ambiente e da colocação no mercado de organismos geneticamente modificados.»
 
-###### Artigo 6.º-A - após o artigo 6.º, é inserido um novo artigo com a seguinte redacção:
+Artigo 6.º-A - após o artigo 6.º, é inserido um novo artigo com a seguinte redacção:
 
 «Artigo 6.º-A
 
@@ -181,7 +186,7 @@ Participação do público nas decisões relativas a libertação deliberada no 
 
 2 - Os requisitos estabelecidos pelas Partes nos termos do n.º 1 do presente artigo devem, de forma simultânea, complementar e servir de suporte às disposições do respectivo quadro nacional sobre biossegurança, de acordo com os objectivos do Protocolo de Cartagena sobre Biossegurança.»
 
-## Anexo I-A - a seguir ao anexo I, é inserido um novo anexo com a seguinte redacção:
+Anexo I-A - a seguir ao anexo I, é inserido um novo anexo com a seguinte redacção:
 
 «ANEXO I-A
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/635/1992/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1992-288189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83d8a897ed9fe96e82a4e48d6ca72e92efdb47078cd5d4f0d789f1895704bc4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e70bfdd4631b96668d761fb91257c01b4dce1df14a987c215a94387951f15cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,60 @@ relationships:
   target: pt:dre:245159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650315:por
+  label: "Alterados os nºs 1º e 6º e aditado o nº 1º-A pela PORT.935/97.1997.09.12.MADRP, DR.IS-B [211], que mantém em vigor\
+    \ o restante preceituado\0do\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1997-650315
+  date: '1997-09-12'
+- type: amended_by
+  target: pt:dre:515416:por
+  label: "Suspenso, pelo prazo máximo de nove meses, o exercício da caça e de actividades de carácter venatório na zona de\
+    \ caça associativa atribuída pelo presente diploma, na redacção da Port 935/97 de 12-Set, pela Port.1010/2004.09.08.2004.MADRP,\
+    \ DR.IS-B [186] de 09.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1010-2004-515416
+  date: '2004-08-09'
+- type: amended_by
+  target: pt:dre:245159:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela Port 935/97 de\
+    \ 12-Set e renovada essa concessão por um periodo de 12 anos com efeitos a partir de 04 de Julho de 2004, pela PORT.730/2005.25.08.2005.MADRP,\
+    \ DR.IS-B [163] de 25.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-2005-245159
+  date: '2005-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:55Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +161,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Junho de 1992.**
+Assinada em 3 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Álvaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/151b00/31773178.pdf))](https://files.diariodarepublica.pt/1s/1992/07/151b00/31773178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/151b00/31773178.pdf)

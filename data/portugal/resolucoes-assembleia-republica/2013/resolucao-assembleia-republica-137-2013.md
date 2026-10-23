@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/137/2013/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/137-2013-500031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e62a3c9d60cdf5887d50711ff95039ad270079d78290b3fd9eba03ccbb82fd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93b40dc98367a4463d299eeb1dc8a853604885de1e24c33e90da7f483120598d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CE Países
 - Convenção
-- União Europeia
-- Iraque
 - Cooperação Económica
 - Cooperação Política
-- Bruxelas
+- Iraque
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:500030:por
+  label: "Ratificado o Acordo de Parceria e Cooperação entre a União Europeia e os Seus Estados-Membros e a República do Iraque,\
+    \ pelo DEC.107/2013.13.09.2013.PR, DR.IS [177] de 13.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/107-2013-500030
+  date: '2013-09-13'
 - type: cites
   target: celex:32004L0017
   label: null
   source: http://data.europa.eu/eli/dir/2004/17/oj
 article_structure:
   article_count: 124
-  section_count: 77
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:56Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de julho de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE PARCERIA E COOPERAÇÃO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA DO IRAQUE, POR OUTRO
 
@@ -1664,11 +1670,11 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, c
 
 Os anexos, apêndices, protocolos e notas explicativas do presente acordo fazem dele parte integrante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
 
 ## ANEXO I — Contratos públicos
 
-## APÊNDICE I
+APÊNDICE I
 
 Contratos públicos abrangidos pelo Acordo
 
@@ -1778,21 +1784,21 @@ Para a União, por «organismo de direito público» entende-se um organismo:
 
 Lista indicativa de entidades adjudicantes que são autoridades do Governo Central, tal como definidas pela Directiva Comunitária sobre Contratos Públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
 
 3 - Lista dos fornecimentos e equipamento adquiridos pelos Ministérios da Defesa e agências de defesa ou de segurança da Bélgica, Bulgária, República Checa, Dinamarca, Alemanha, Estónia, Grécia, Espanha, França, Irlanda, Itália, Chipre, Letónia, Lituânia, Luxemburgo, Hungria, Malta, Países Baixos, Áustria, Polónia, Portugal, Roménia, Eslovénia, Eslováquia, Finlândia, Suécia e Reino Unido abrangidos pelo capítulo ii da secção v do título ii do presente Acordo:
 
-### Capítulo 25: Sal, enxofre, terras e pedras, gesso, cal e cimentos.
+Capítulo 25: Sal, enxofre, terras e pedras, gesso, cal e cimentos.
 
-### Capítulo 26: Minérios metalúrgicos, escórias e cinzas.
+Capítulo 26: Minérios metalúrgicos, escórias e cinzas.
 
-### Capítulo 27: Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas;
+Capítulo 27: Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas;
 
 excepto:
 
 ex 27.10: Carburantes especiais.
 
-### Capítulo 28: Produtos químicos inorgânicos, compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioactivos, de metais das terras raras e de isótopos;
+Capítulo 28: Produtos químicos inorgânicos, compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioactivos, de metais das terras raras e de isótopos;
 
 excepto:
 
@@ -1814,7 +1820,7 @@ ex 28.51: Produtos toxicológicos;
 
 ex 28.54: Explosivos.
 
-### Capítulo 29: Produtos químicos orgânicos;
+Capítulo 29: Produtos químicos orgânicos;
 
 excepto:
 
@@ -1848,89 +1854,89 @@ ex 29.27: Produtos toxicológicos;
 
 ex 29.29: Explosivos.
 
-### Capítulo 30: Produtos farmacêuticos.
+Capítulo 30: Produtos farmacêuticos.
 
-### Capítulo 31: Adubos (fertilizantes).
+Capítulo 31: Adubos (fertilizantes).
 
-### Capítulo 32: Extractos tanantes e tintórios; taninos e seus derivados; matérias corantes; cores, tintas e vernizes; mástiques; tintas de escrever.
+Capítulo 32: Extractos tanantes e tintórios; taninos e seus derivados; matérias corantes; cores, tintas e vernizes; mástiques; tintas de escrever.
 
-### Capítulo 33: Óleos essenciais e resinóides; produtos de perfumaria ou de toucador e cosméticos.
+Capítulo 33: Óleos essenciais e resinóides; produtos de perfumaria ou de toucador e cosméticos.
 
-### Capítulo 34: Sabões, produtos orgânicos tenso-activos, preparados para lixívias, preparados lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas de iluminação e artefactos semelhantes, pastas para modelar e «ceras para a arte dentária».
+Capítulo 34: Sabões, produtos orgânicos tenso-activos, preparados para lixívias, preparados lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas de iluminação e artefactos semelhantes, pastas para modelar e «ceras para a arte dentária».
 
-### Capítulo 35: Matérias albuminóides, colas e enzimas.
+Capítulo 35: Matérias albuminóides, colas e enzimas.
 
-### Capítulo 37: Artigos de fotografia e cinematografia.
+Capítulo 37: Artigos de fotografia e cinematografia.
 
-### Capítulo 38: Produtos químicos indiferenciados, n. e.,
+Capítulo 38: Produtos químicos indiferenciados, n. e.,
 
 excepto:
 
 ex 38.19: Produtos toxicológicos.
 
-### Capítulo 39: Matérias plásticas artificiais, ésteres e éteres da celulose, resinas artificiais e obras destas matérias;
+Capítulo 39: Matérias plásticas artificiais, ésteres e éteres da celulose, resinas artificiais e obras destas matérias;
 
 excepto:
 
 ex 39.03: Explosivos.
 
-### Capítulo 40: Borracha natural, sintética ou artificial e obras de borracha;
+Capítulo 40: Borracha natural, sintética ou artificial e obras de borracha;
 
 excepto:
 
 ex 40.11: Pneumáticos à prova de bala.
 
-### Capítulo 41: Peles, excepto as peles com pêlo, e couros.
+Capítulo 41: Peles, excepto as peles com pêlo, e couros.
 
-### Capítulo 42: Obras de couro; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa.
+Capítulo 42: Obras de couro; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa.
 
-### Capítulo 43: Peles com pêlo e suas obras; peles com pêlo, artificiais.
+Capítulo 43: Peles com pêlo e suas obras; peles com pêlo, artificiais.
 
-### Capítulo 44: Madeira, carvão vegetal e obras de madeira.
+Capítulo 44: Madeira, carvão vegetal e obras de madeira.
 
-### Capítulo 45: Cortiça e suas obras.
+Capítulo 45: Cortiça e suas obras.
 
-### Capítulo 46: Obras de esteireiro e de cesteiro.
+Capítulo 46: Obras de esteireiro e de cesteiro.
 
-### Capítulo 47: Matérias destinadas ao fabrico do papel.
+Capítulo 47: Matérias destinadas ao fabrico do papel.
 
-### Capítulo 48: Papel e cartão; obras de pasta de celulose (ouate), de papel e de cartão.
+Capítulo 48: Papel e cartão; obras de pasta de celulose (ouate), de papel e de cartão.
 
-### Capítulo 49: Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou dactilografados, planos e plantas.
+Capítulo 49: Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou dactilografados, planos e plantas.
 
-### Capítulo 65: Chapéus e artefactos semelhantes.
+Capítulo 65: Chapéus e artefactos semelhantes.
 
-### Capítulo 66: Guarda-chuvas, guarda-sóis, bengalas, chicotes, pingalins e respectivas partes.
+Capítulo 66: Guarda-chuvas, guarda-sóis, bengalas, chicotes, pingalins e respectivas partes.
 
-### Capítulo 67: Penas e penugem preparadas e respectivas obras; flores artificiais; obras de cabelo.
+Capítulo 67: Penas e penugem preparadas e respectivas obras; flores artificiais; obras de cabelo.
 
-### Capítulo 68: Obras de pedra, gesso, cimento, amianto, mica e matérias análogas.
+Capítulo 68: Obras de pedra, gesso, cimento, amianto, mica e matérias análogas.
 
-### Capítulo 69: Produtos cerâmicos.
+Capítulo 69: Produtos cerâmicos.
 
-### Capítulo 70: Vidro e suas obras.
+Capítulo 70: Vidro e suas obras.
 
-### Capítulo 71: Pérolas naturais, gemas e similares, metais preciosos, metais chapeados de metais preciosos e respectivas obras; bijutaria.
+Capítulo 71: Pérolas naturais, gemas e similares, metais preciosos, metais chapeados de metais preciosos e respectivas obras; bijutaria.
 
-### Capítulo 73: Ferro fundido, ferro macio, aço e suas obras.
+Capítulo 73: Ferro fundido, ferro macio, aço e suas obras.
 
-### Capítulo 74: Cobre e suas obras.
+Capítulo 74: Cobre e suas obras.
 
-### Capítulo 75: Níquel e suas obras.
+Capítulo 75: Níquel e suas obras.
 
-### Capítulo 76: Alumínio e suas obras.
+Capítulo 76: Alumínio e suas obras.
 
-### Capítulo 77: Magnésio, berílio e suas obras.
+Capítulo 77: Magnésio, berílio e suas obras.
 
-### Capítulo 78: Chumbo e suas obras.
+Capítulo 78: Chumbo e suas obras.
 
-### Capítulo 79: Zinco e suas obras.
+Capítulo 79: Zinco e suas obras.
 
-### Capítulo 80: Estanho e suas obras.
+Capítulo 80: Estanho e suas obras.
 
-### Capítulo 81: Outros metais comuns e suas obras.
+Capítulo 81: Outros metais comuns e suas obras.
 
-### Capítulo 82: Alfaias, ferramentas, cutelaria, colheres e garfos, de metais comuns, e suas Partes;
+Capítulo 82: Alfaias, ferramentas, cutelaria, colheres e garfos, de metais comuns, e suas Partes;
 
 excepto:
 
@@ -1938,9 +1944,9 @@ ex 82.05: Ferramentas;
 
 ex 82.07: Peças de ferramentas.
 
-### Capítulo 83: Artefactos diversos de metais comuns.
+Capítulo 83: Artefactos diversos de metais comuns.
 
-### Capítulo 84: Caldeiras, máquinas, aparelhos e instrumentos mecânicos;
+Capítulo 84: Caldeiras, máquinas, aparelhos e instrumentos mecânicos;
 
 excepto:
 
@@ -1956,7 +1962,7 @@ ex 84.55: Peças da posição 84.53;
 
 ex 84.59: Reactores nucleares.
 
-### Capítulo 85: Máquinas, aparelhos e material eléctrico, e suas partes;
+Capítulo 85: Máquinas, aparelhos e material eléctrico, e suas partes;
 
 excepto:
 
@@ -1964,7 +1970,7 @@ ex 85.13: Equipamentos de telecomunicações;
 
 ex 85.15: Aparelhos de transmissão.
 
-### Capítulo 86: Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos de sinalização não eléctricos para vias de comunicação;
+Capítulo 86: Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos de sinalização não eléctricos para vias de comunicação;
 
 excepto:
 
@@ -1978,7 +1984,7 @@ ex 86.06: Vagões-oficinas;
 
 ex 86.07: Vagões.
 
-### Capítulo 87: Veículos automóveis, tractores, ciclos e outros veículos terrestres, suas partes;
+Capítulo 87: Veículos automóveis, tractores, ciclos e outros veículos terrestres, suas partes;
 
 excepto:
 
@@ -1994,13 +2000,13 @@ ex 87.09: Motociclos;
 
 ex 87.14: Reboques.
 
-### Capítulo 89: Embarcações e estruturas flutuantes;
+Capítulo 89: Embarcações e estruturas flutuantes;
 
 excepto:
 
 ex 89.01 A: Navios de guerra.
 
-### Capítulo 90: Instrumentos e aparelhos de óptica, fotografia e cinematografia, medida, verificação e precisão; instrumentos e aparelhos médico-cirúrgicos,
+Capítulo 90: Instrumentos e aparelhos de óptica, fotografia e cinematografia, medida, verificação e precisão; instrumentos e aparelhos médico-cirúrgicos,
 
 excepto:
 
@@ -2022,21 +2028,21 @@ ex 90.19: Aparelhos de ortopedia;
 
 ex 90.20: Aparelhos de raios X.
 
-### Capítulo 91: Fabrico de caixas de relógios e de relógios.
+Capítulo 91: Fabrico de caixas de relógios e de relógios.
 
-### Capítulo 92: Instrumentos de música; aparelhos de registo ou de reprodução de som; aparelhos de registo ou de reprodução de imagens e de som, para televisão; partes e acessórios destes instrumentos e aparelhos.
+Capítulo 92: Instrumentos de música; aparelhos de registo ou de reprodução de som; aparelhos de registo ou de reprodução de imagens e de som, para televisão; partes e acessórios destes instrumentos e aparelhos.
 
-### Capítulo 94: Móveis; mobiliário médico-cirúrgico; artigos de colchoeiro e semelhantes,
+Capítulo 94: Móveis; mobiliário médico-cirúrgico; artigos de colchoeiro e semelhantes,
 
 excepto:
 
 ex 94.01A: Cadeiras ou bancos de aeronaves.
 
-### Capítulo 95: Matérias para talhe ou modelação, preparadas ou em obra.
+Capítulo 95: Matérias para talhe ou modelação, preparadas ou em obra.
 
-### Capítulo 96: Escovas, pincéis e artefactos semelhantes, vassouras, borlas, peneiras e crivos.
+Capítulo 96: Escovas, pincéis e artefactos semelhantes, vassouras, borlas, peneiras e crivos.
 
-### Capítulo 98: Artefactos diversos.
+Capítulo 98: Artefactos diversos.
 
 SUBANEXO 2
 
@@ -2084,11 +2090,11 @@ Serviços, com excepção de serviços de construção, abrangidos pelo capítul
 
 Compromissos do Iraque
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
 
 Compromissos da União
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
 
 SUBANEXO 4
 
@@ -2114,13 +2120,13 @@ Notas gerais e derrogações às disposições do capítulo II da secção V do 
 
 4 - As disposições do capítulo ii da secção v do título ii do presente Acordo não são aplicáveis às Ilhas finlandesas Åland.
 
-## APÊNDICE II
+APÊNDICE II
 
 Meios de comunicação para a publicação de informações relativas a contratos públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
 Meios de comunicação para a publicação dos anúncios
 
@@ -2138,7 +2144,7 @@ http://simap.europa.eu/index_en.html.
 
 Jornal Oficial da União Europeia.
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Anúncio de concurso previsto
 
@@ -2166,7 +2172,7 @@ Os anúncios de concursos previstos devem conter as seguintes informações:
 
 11) Quando, em conformidade com o artigo 47.º, uma entidade adjudicante tem a intenção de seleccionar um número limitado de fornecedores qualificados que convidará a apresentar propostas, os critérios que serão utilizados para esta selecção e, se aplicável, qualquer restrição ao número de fornecedores que serão autorizados a apresentar propostas.
 
-## APÊNDICE V
+APÊNDICE V
 
 Anúncio que convida os fornecedores interessados a solicitar a sua inclusão numa lista para utilizações múltiplas
 
@@ -2180,7 +2186,7 @@ Os anúncios que convidam os fornecedores interessados a solicitar a sua inclus�
 
 4) Prazo de validade da lista e meios utilizados para a respectiva renovação ou anulação ou, caso o prazo de validade não seja mencionado, uma indicação do método utilizado para comunicar que foi posto termo à utilização da lista.
 
-## APÊNDICE VI
+APÊNDICE VI
 
 Prazos
 
@@ -2224,7 +2230,7 @@ c) A entidade aceita propostas apresentadas por via electrónica.
 
 7 - Quando uma entidade adjudicante contemplada no Anexo ii tiver seleccionado a totalidade ou um número limitado de fornecedores qualificados, o prazo para apresentação de propostas pode ser fixado de comum acordo pela entidade adjudicante e pelos fornecedores seleccionados. Caso não cheguem a acordo, o prazo não poderá ser inferior a 10 dias.
 
-## APÊNDICE VII
+APÊNDICE VII
 
 Anúncios de adjudicação
 
@@ -2242,7 +2248,7 @@ e) Data de adjudicação;
 
 f) Método de adjudicação de contratos utilizado e, caso se tenha recorrido ao procedimento limitado, descrição das circunstâncias que justificam o recurso a esse procedimento.
 
-## APÊNDICE VIII
+APÊNDICE VIII
 
 Documentação do concurso
 
@@ -2302,7 +2308,7 @@ Direitos de propriedade intelectual, industrial e comercial referidos no artigo 
 
 ## ANEXO III — Pontos de informação
 
-# Parte UE — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+## Parte UE — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
 
 ## ANEXO IV — Notas explicativas e disposições complementares
 
@@ -2354,4 +2360,4 @@ Declaração unilateral da União Europeia relativa ao artigo 96.º (cooperaçã
 
 A União declara que os Estados-Membros se comprometem nos termos do artigo 96.º (Cooperação aduaneira e fiscal) apenas na medida em que tiverem subscrito estes princípios de boa governação no domínio fiscal a nível da União.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0575705820.pdf)

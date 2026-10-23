@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/43/2009/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-2009-494779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 805aa1c8bf6ceb7356b6d527bb31b729cee4b76db32348d2f84981bf28cccbdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb5a29d6e0df8b9317dce26b34b2b97e549f6c0ed8b0c614218edd56a9ec034b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Estatuto
 - Eurofor
-- Tratado sobre o Estatuto Jurídico da Eurofor
-- Lisboa
 - Forças Armadas
-- Política Europeia de Segurança e Defesa
-- Programa Comunitário Euroform
+- Lisboa
 - Militar
-relationships: []
+- Política Europeia de Segurança e Defesa
+- Portugal
+- Programa Comunitário Euroform
+- Tratado sobre o Estatuto Jurídico da Eurofor
+relationships:
+- type: amended_by
+  target: pt:dre:494572:por
+  label: "Ratificado o Protocolo Adicional ao Tratado sobre o Estatuto da EUROFOR, aprovado pelo presente diploma, bem como\
+    \ as declarações associadas, pelo DEC.50/2009.18.06.2009.PR, DR.IS [116] de 18.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2009-494572
+  date: '2009-06-18'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:49Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de Março de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOLO ADICIONAL AO TRATADO SOBRE O ESTATUTO DA EUROFOR
 
@@ -118,7 +124,7 @@ O presente Protocolo Adicional tem por objectivo definir o estatuto do pessoal a
 
 As seguintes disposições do Tratado sobre o Estatuto da EUROFOR, assinado em Roma, em 5 de Julho de 2000, aplicam-se, mutatis mutandis, ao pessoal referido no artigo 1.º:
 
-###### Artigo 3.º, n.os 3, 4, 5 e 6;
+Artigo 3.º, n.os 3, 4, 5 e 6;
 
 Artigos 12.º, 13.º, 14.º, 16.º, 17.º, 18.º e 19.º;
 
@@ -150,19 +156,19 @@ Feito em Lisboa, em 12 de Julho de 2005, em quatro originais, nas línguas portu
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pela República de Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Declarações associadas ao Protocolo Adicional ao Tratado sobre o Estatuto da EUROFOR
 
@@ -176,19 +182,19 @@ O Reino de Espanha, a República Francesa e a República de Itália tomam nota d
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pela República de Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 PROTOCOLE ADDITIONNEL AU TRAITE PORTANT STATUT DE L'EUROFOR
 
@@ -240,19 +246,19 @@ Fait à Lisbonne le 12 juillet 2005, en quatre originaux, chacun en langues fran
 
 Pour la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pour la République italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Déclarations associées au Protocole additionnel au traité portant statut de l'EUROFOR
 
@@ -266,19 +272,19 @@ La République française, le Royaume d'Espagne et la République d'Italie prenn
 
 Pour la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pour la République italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 PROTOCOLLO ADDIZIONALE AL TRATTATO SULLO STATUS DI EUROFOR
 
@@ -330,19 +336,19 @@ Redatto a Lisbona il 12 luglio 2005 in quattro esemplari, ciascuno dei quali in 
 
 Per la Repubblica Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Per il Regno di Spagna:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Per la Repubblica Francese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Per la Repubblica Portoghese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Dichiarazione annessa al Protocollo Addizionale al Trattato sullo Status di EUROFOR
 
@@ -356,19 +362,19 @@ La Repubblica Italiana, il Regno di Spagna e la Repubblica Francese prendono not
 
 Per la Repubblica Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Per il Regno di Spagna:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Per la Repubblica Francese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Per la Repubblica Portoghese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 PROTOCOLO ADICIONAL AL TRATADO SOBRE EL ESTATUTO DE EUROFOR
 
@@ -420,19 +426,19 @@ Hecho en Lisboa, el 12 de julio de 2005, en cuatro originales, en español, fran
 
 Por el Reino de España:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Por la República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Por la República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Declaraciones adjuntas al Protocolo Adicional al Tratado sobre el Estatuto de EUROFOR
 
@@ -446,16 +452,16 @@ El Reino de España, la República Francesa, la República Italiana toman nota d
 
 Por el Reino de España:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Por la República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Por la República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0405804063.pdf)

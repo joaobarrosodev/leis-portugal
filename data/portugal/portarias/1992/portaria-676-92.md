@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/676/1992/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/676-1992-288589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fba9b62bdd8fd2322cb858f79eeed1ee713a1db52892d91ad3e5c4efbc4dca81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e7185f3f05bb8921a3c71bdab0c6279bab727438769122236be4d58a46e687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,52 @@ relationships:
   target: pt:dre:286546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147418:por
+  label: "Alterado o nº 1, aditado um nº 1-A e mantendo integralmente os direitos e obrigações do presente diploma, pela PORT.502/97.1997.07.21.MADRP\
+    \ DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/502-1997-147418
+  date: '1997-07-21'
+- type: amended_by
+  target: pt:dre:286546:por
+  label: "Renovada por um período de 12 anos a concessão da zona de caça associativa concessionada pelo presente diploma,\
+    \ alterado pela Port 502/97 de 21-Jul, pela PORT.630/2004.12.06.2004.MADRP, DR.IS-B [137] de 12.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-2004-286546
+  date: '2004-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:54Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +152,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Junho de 1992.**
+Assinada em 16 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/156b00/32433244.pdf))](https://files.diariodarepublica.pt/1s/1992/07/156b00/32433244.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/156b00/32433244.pdf)

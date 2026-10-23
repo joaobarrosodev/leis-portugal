@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/128/2010/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/128-2010-308733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebe82be680dad585bd9452881c28c917d4b40dea89da9b7ee118d6cc854353ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fc7cb0fbb51a56f96383ee3c81f8885664485a835f6c33e7dbd621516656e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
+- Embalagem
+- Etiquetagem
+- Governo
 - Indústria Farmacêutica
 - Infarmed
-- Serviço Nacional de Saúde
-- Etiquetagem
 - Medicamento
-- Embalagem
 - Recomendação
-- Governo
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1471/2004/12/21/p/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/455-a/2010/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/455-a/2010/06/30/p/dre
+- type: cites
+  target: pt:dre:219566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292111:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:48Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +140,4 @@ m) O Governo acompanhará e fiscalizará a aplicação das presentes disposiçõ
 
 Aprovada em 13 de Outubro de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

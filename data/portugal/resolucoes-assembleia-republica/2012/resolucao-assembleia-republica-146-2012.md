@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/146/2012/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/146-2012-189939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 057602158da4c41358d9b4c7851ca89d546005a292c3d53e92fdb56f638eed67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcc3634090cdce6d0704553f5351fc01e50a5ae1ecf72f4a9f4966a172988c11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CE Países
-- Transporte Aéreo
-- Convenção
-- União Europeia
-- Geórgia
 - Aviação Civil
-- Segurança Aérea
 - Bruxelas
+- CE Países
+- Convenção
+- Geórgia
+- Segurança Aérea
+- Transporte Aéreo
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:189941:por
+  label: "Ratificado o Acordo sobre o Espaço de Aviação Comum entre a União Europeia e os Seus Estados Membros, por um lado,\
+    \ e a Geórgia, por outro, incluindo os anexos I a IV, pelo DEC.169/2012.18.12.2012.PR, DR.IS [244] de 18.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/169-2012-189941
+  date: '2012-12-18'
 - type: cites
   target: celex:31993R0095
   label: null
@@ -124,15 +130,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/re
 article_structure:
-  article_count: 29
+  article_count: 22
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:53Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +151,7 @@ A Assembleia de República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de outubro de 2012.
 
-**O Presidente da Assembleia da República, em exercício, António Filipe.**
+O Presidente da Assembleia da República, em exercício, António Filipe.
 
 ACORDO SOBRE O ESPAÇO DE AVIAÇÃO COMUM ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A GEÓRGIA, POR OUTRO
 
@@ -621,7 +627,9 @@ f) Estudando e preparando assistência técnica nos domínios abrangidos pelo Ac
 
 g) Estimulando a cooperação nos fóruns internacionais pertinentes.
 
-###### Artigo 23.º — Resolução de diferendos e arbitragem
+Artigo 23.º
+
+Resolução de diferendos e arbitragem
 
 1 - Em caso de litígio relativo à interpretação ou à aplicação do presente Acordo, as Partes devem esforçar-se, em primeiro lugar, por solucioná-lo mediante consultas formais no âmbito do Comité Misto, em conformidade com o n.º 5 do artigo 22.º («Comité Misto») do Acordo.
 
@@ -641,7 +649,9 @@ d) Sem prejuízo da decisão final do painel de arbitragem, as despesas iniciais
 
 5 - Se uma das Partes não acatar uma decisão tomada pelo painel de arbitragem ao abrigo do presente artigo no prazo de 30 dias a contar da sua notificação, a outra Parte pode, enquanto se mantiver o incumprimento, limitar, suspender ou revogar os direitos ou privilégios que tiver concedido à Parte em falta no âmbito do presente Acordo.
 
-###### Artigo 24.º — Medidas de salvaguarda
+Artigo 24.º
+
+Medidas de salvaguarda
 
 1 - As Partes adoptam todas as medidas gerais ou específicas necessárias ao cumprimento das obrigações que lhes incumbem por força do presente Acordo. As Partes garantem o cumprimento dos objectivos estabelecidos no presente Acordo.
 
@@ -657,7 +667,9 @@ d) Sem prejuízo da decisão final do painel de arbitragem, as despesas iniciais
 
 7 - As medidas tomadas nos termos do presente artigo são suspensas logo que a Parte em falta cumprir o disposto no presente Acordo.
 
-###### Artigo 25.º — Relação com outros acordos
+Artigo 25.º
+
+Relação com outros acordos
 
 1 - O disposto no presente Acordo prevalece sobre as correspondentes disposições dos acordos bilaterais vigentes entre a Geórgia e os Estados-Membros. Os actuais direitos de tráfego decorrentes desses acordos bilaterais, que não sejam abrangidos pelo presente Acordo, podem, todavia, continuar a ser exercidos, desde que não se verifique qualquer discriminação entre os Estados-Membros e os seus nacionais.
 
@@ -665,7 +677,9 @@ d) Sem prejuízo da decisão final do painel de arbitragem, as despesas iniciais
 
 3 - Se as Partes aderirem a um acordo multilateral ou aprovarem uma decisão adoptada pela ICAO ou outra organização internacional que trate de matérias reguladas pelo presente Acordo, consultam o Comité Misto para determinar se o presente Acordo deve ser revisto para ter em conta essa evolução.
 
-###### Artigo 26.º — Alterações
+Artigo 26.º
+
+Alterações
 
 1 - Se uma das Partes pretender alterar o disposto no presente Acordo, notifica o Comité Misto em conformidade, para que este tome uma decisão.
 
@@ -687,15 +701,21 @@ b) Adopta uma decisão determinando que a nova legislação ou a alteração em 
 
 c) Recomenda quaisquer outras medidas, a adoptar num prazo razoável, para salvaguardar o funcionamento adequado do presente Acordo.
 
-###### Artigo 27.º — Denúncia
+Artigo 27.º
+
+Denúncia
 
 Qualquer das partes pode, a qualquer momento, notificar por escrito a outra Parte, por via diplomática, da sua decisão de denunciar o presente Acordo. A notificação é enviada simultaneamente à ICAO e ao Secretariado da Organização das Nações Unidas. O presente Acordo cessa às 00.00 horas GMT do final da temporada de tráfego da Associação do Transporte Aéreo Internacional (IATA), em curso um ano a contar da data de notificação escrita da denúncia, salvo se essa notificação for retirada por acordo mútuo das Partes antes de terminado este prazo.
 
-###### Artigo 28.º — Registo na Organização da Aviação Civil Internacional e no Secretariado da Organização das Nações Unidas
+Artigo 28.º
+
+Registo na Organização da Aviação Civil Internacional e no Secretariado da Organização das Nações Unidas
 
 O presente Acordo e todas as suas eventuais alterações devem ser registados na ICAO e no Secretariado da Organização das Nações Unidas.
 
-###### Artigo 29.º — Aplicação provisória e entrada em vigor
+Artigo 29.º
+
+Aplicação provisória e entrada em vigor
 
 1 - O presente Acordo entra em vigor no prazo de um mês a contar da data da última nota diplomática trocada entre as Partes Contratantes confirmando a conclusão de todas as formalidades necessárias. Para efeitos deste intercâmbio de notas, a Geórgia entrega ao Secretariado-Geral do Conselho da União Europeia a sua nota diplomática dirigida à União Europeia e aos seus Estados-Membros e o Secretariado-Geral do Conselho da União Europeia entrega à Geórgia a nota diplomática da União Europeia e dos seus Estados-Membros. A nota diplomática da União Europeia e dos seus Estados-Membros deve incluir as comunicações de cada Estado-Membro confirmando a conclusão das formalidades necessárias à entrada em vigor do presente Acordo.
 
@@ -705,9 +725,11 @@ Em fé do que os abaixo assinados, com os devidos poderes para o efeito, apusera
 
 Feito em Bruxelas, em 2 de Dezembro de 2010, em duplo exemplar, nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e georgiana, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0710407124.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0710407124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0710407124.pdf)
 
-## ANEXO I — Serviços acordados e rotas especificadas
+ANEXO I
+
+Serviços acordados e rotas especificadas
 
 1 - O presente anexo é abrangido pelas disposições transitórias constantes do anexo ii do presente Acordo.
 
@@ -741,7 +763,9 @@ h) Combinar tráfego na mesma aeronave, independentemente da origem desse tráfe
 
 6 - As transportadoras aéreas de cada uma das Partes podem operar, nomeadamente no âmbito de acordos de partilha de código, entre quaisquer pontos situados num país terceiro não incluído nas rotas especificadas, desde que não exerçam direitos de quinta liberdade.
 
-## ANEXO II — Disposições transitórias
+ANEXO II
+
+Disposições transitórias
 
 1 - A execução e a aplicação, pela Geórgia, de todas as disposições da legislação da União Europeia relativa ao transporte aéreo indicadas no anexo iii do presente Acordo, com excepção da legislação relativa à segurança referida na parte D do mesmo anexo, devem ser objecto de uma avaliação sob a responsabilidade da União Europeia, validada por uma decisão do Comité Misto. Essa avaliação deve ser efectuada, o mais tardar, dois anos após a entrada em vigor do Acordo.
 
@@ -763,7 +787,9 @@ a) 1 de Janeiro de 2015 para certas aeronaves afectas a operações exclusivamen
 
 b) 31 de Dezembro de 2019 para certos helicópteros e aeronaves leves e ultraleves afectas a operações como busca e salvamento, trabalho aéreo, formação, emergência, voos agrícolas e humanitários em conformidade com os certificados de exploração das respectivas transportadoras, desde que as aeronaves cumpram as normas internacionais de segurança da aviação estabelecidas nos termos da Convenção. Essas aeronaves não podem beneficiar de quaisquer direitos adicionais concedidos ao abrigo do presente Acordo uma vez adoptada a decisão referida no n.º 1 do presente anexo.
 
-## ANEXO III — (sujeito a actualização periódica)
+ANEXO III
+
+(sujeito a actualização periódica)
 
 Regras aplicáveis à aviação civil
 
@@ -1177,7 +1203,9 @@ Regulamento (CE) n.º [80/2009](http://data.europa.eu/eli/reg/2009/80/oj?locale=
 
 Disposições aplicáveis: artigos 1.º a 18.º e anexos i e ii.
 
-## ANEXO IV — Lista dos outros Estados referidos nos artigos 3.º e 4.º e no anexo i
+ANEXO IV
+
+Lista dos outros Estados referidos nos artigos 3.º e 4.º e no anexo i
 
 1 - República da Islândia (ao abrigo do Acordo sobre o Espaço Económico Europeu).
 
@@ -1187,4 +1215,4 @@ Disposições aplicáveis: artigos 1.º a 18.º e anexos i e ii.
 
 4 - Confederação Suíça (ao abrigo do Acordo entre a Comunidade Europeia e a Confederação Suíça).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0710407124.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0710407124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0710407124.pdf)

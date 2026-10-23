@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/116/2010/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/116-2010-309043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 463b72ec3ea32991b9d415cc5bfb18f3959591a1034cb8f865809c3ddb84175e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6cfee1f2a04071981a339dc6ae4efd3c9aed7e0925f3f001f8ab6ea2c811c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,26 @@ reuse:
 subjects:
 - Belgrado
 - Convenção
-- Portugal
-- Política de Defesa
-- Sérvia
 - Cooperação Militar
-relationships: []
+- Política de Defesa
+- Portugal
+- Sérvia
+relationships:
+- type: amended_by
+  target: pt:dre:309038:por
+  label: "Ratificado o Acordo de Cooperação, pelo DEC.115/2010.09.11.2010.PR, DR.IS [217] de 09.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/115-2010-309038
+  date: '2010-11-09'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:31Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 1 de Outubro de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA SÉRVIA NO DOMÍNIO DA DEFESA
 
@@ -255,9 +260,9 @@ Nuno Severiano Teixeira, Ministro da Defesa.
 
 Pela República da Sérvia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf))](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf), Ministro da Defesa.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf), Ministro da Defesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf))](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf)
 
 AGREEMENT ON CO-OPERATION BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF SERBIA IN THE FIELD OF DEFENCE
 
@@ -449,4 +454,4 @@ Nuno Severiano Teixeira, Minister of National Defence.
 
 For the Republic of Serbia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf))](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf), Minister of Defence.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/21700/0503505039.pdf), Minister of Defence.

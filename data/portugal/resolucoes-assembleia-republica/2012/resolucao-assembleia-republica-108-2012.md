@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/108/2012/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/108-2012-175277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba15bd201294f7eb807cbef36799ad927ff856fa4aa7e16b3792f77a6c0d5a81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c6dd863e70b9a37ffba884017b330819218b56da4f69670db029c8961634acb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção da Maternidade
-- Mulher
 - Convenção
-- Portugal
-- Licença por Maternidade
-- Maternidade
-- OIT
-- Proteção Social
 - Duração do Trabalho
 - Genebra
+- Licença por Maternidade
+- Maternidade
+- Mulher
+- OIT
+- Portugal
+- Proteção Social
+- Protecção da Maternidade
 - Trabalhador por Conta de Outrem
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:175283:por
+  label: "Ratificada a Convenção n.º 183 (revista) sobre a Proteção da Maternidade, que será denominada Convenção sobre a\
+    \ Proteção da Maternidade, 2000 pelo DEC.137/2012.08.08.2012.PR, DR.IS [153] de 08.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/137-2012-175283
+  date: '2012-08-08'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:01Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 8 de junho de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 CONVENTION 183 - CONVENTION CONCERNING THE REVISION OF THE MATERNITY PROTECTION CONVENTION (REVISED), 1952
 
@@ -467,7 +473,7 @@ O texto precedente é o texto autêntico da Convenção adoptada pela Conferênc
 
 Em testemunho do que apuseram as suas assinaturas, no presente dia 16 de Junho de 2000.
 
-**O Presidente da Conferência:**
+O Presidente da Conferência:
 
 Mario Alberto Flamarique.
 

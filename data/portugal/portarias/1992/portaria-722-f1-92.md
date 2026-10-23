@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(36) a 3330-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/00360036.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-f1/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-f1-1992-617526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:28:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 899d1e1d87ee626847ca61a7e1fd463deaf7ffea3398e0d32b9c5fef5e3ae80b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eac230c8ec48c595e7f5abde80bdb27d945c4cbd095c2131a62e43a02c9da3b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:28:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,58 @@ relationships:
   target: pt:dre:306964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:525186:por
+  label: "Renovada, por um per&#237;odo de 12 anos, a concess&#227;o da zona de ca&#231;a associativa concessionada pela presente\
+    \ portaria pela PORT.852/2004.19.07.2004.MADRP, DR.IS-B [168] de 19.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/852-2004-525186
+  date: '2004-07-19'
+- type: amended_by
+  target: pt:dre:443965:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterada pela Port 852/2004,\
+    \ de 19-Jul, pela PORT.1525/2008.26.12.2008.MADRP, DR.IS [249] de 26.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1525-2008-443965
+  date: '2008-12-26'
+- type: amended_by
+  target: pt:dre:306964:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterada pela Port 852/2004,\
+    \ de 19-Jul e pela Port 1525/2008, de 26-Dez, pela PORT.1265/2010.15.12.2010.MADRP, DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1265-2010-306964
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:28:31Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +158,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Julho de 1992.**
+Assinada em 10 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/00360036.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/00360036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00360036.pdf)

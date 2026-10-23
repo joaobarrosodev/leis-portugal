@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/86/2010/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2010-333360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9043afe732f654ed72614aeec41cefabab0314b66c0b46f873c21b6c1d6214df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5636b983b44976900708c7d47b9631acfdef2befc597567c23803f1423a6d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
-- Lisboa
-- Instalação de Serviços
 - FAO
+- Instalação de Serviços
+- Lisboa
+- ONU
+- Portugal
 - Privilegios e Imunidades
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:333365:por
+  label: "Ratificado o Acordo, pelo DEC.81/2010.05.08.2010.PR, DR.IS [151] de 05.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/81-2010-333365
+  date: '2010-08-05'
 article_structure:
-  article_count: 7
+  article_count: 18
   section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:56Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de Junho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A ALIMENTAÇÃO E AGRICULTURA RELATIVO AO ESTABELECIMENTO DE UM ESCRITÓRIO DE INFORMAÇÃO DA ORGANIZAÇÃO EM LISBOA.
 
@@ -151,11 +156,11 @@ Feito em Lisboa, em 25 de Julho de 2008, nas línguas portuguesa e inglesa, send
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
 
 Pela Organização das Nações Unidas para a Alimentação e Agricultura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
 
 ## ANEXO — (referido no artigo 4.º)
 
@@ -167,9 +172,7 @@ Considerando que se realizaram consultas entre as Nações Unidas e as organiza�
 
 Em consequência, pela Resolução n.º 179 (II), adoptada em 21 de Novembro de 1947, a Assembleia Geral adoptou a Convenção que se segue, a qual é submetida para aceitação às organizações especializadas e para adesão a todos os membros das Nações Unidas, bem como a todos os outros Estados membros de uma ou várias organizações especializadas.
 
-Artigo I
-
-Definições e âmbito de aplicação
+###### Artigo I — Definições e âmbito de aplicação
 
 #### Secção 1
 
@@ -213,17 +216,13 @@ vii) O termo «director-geral» designa o funcionário principal da organizaçã
 
 Qualquer Estado que seja Parte na presente Convenção, no que respeita a qualquer organização especializada no âmbito da sua adesão e em relação à qual se tenha tornado aplicável a presente Convenção em virtude do disposto na secção 37, concederá àquela organização os privilégios e imunidades previstos pelas cláusulas padrão nas condições nelas especificadas, sob reserva de quaisquer modificações introduzidas nas referidas cláusulas pelas disposições do texto final (ou revisto) do anexo relativo a essa organização e transmitido em conformidade com o disposto nas secções 36 ou 38.
 
-Artigo II
-
-Personalidade jurídica
+###### Artigo II — Personalidade jurídica
 
 #### Secção 3
 
 As organizações especializadas possuem personalidade jurídica. Têm a capacidade: a) de contratar; b) de adquirir e alienar bens móveis e imóveis; c) judiciária.
 
-Artigo III
-
-Bens, fundos e património
+###### Artigo III — Bens, fundos e património
 
 #### Secção 4
 
@@ -263,9 +262,7 @@ c) Isentos de todos os direitos alfandegários e de todas as proibições e rest
 
 Embora as organizações especializadas não reivindiquem, como regra geral, a isenção dos impostos indirectos e das taxas sobre a venda que incorporam o preço dos bens móveis ou imóveis, quando, no entanto, efectuarem para seu uso oficial compras significativas em cujo preço estejam incluídos impostos e taxas desta natureza, os Estados que sejam Parte na presente Convenção tomarão, sempre que tal lhes seja possível, as medidas administrativas adequadas com vista ao desconto ou reembolso desses impostos e taxas.
 
-Artigo IV
-
-Facilidades de comunicação
+###### Artigo IV — Facilidades de comunicação
 
 #### Secção 11
 
@@ -279,9 +276,7 @@ As organizações especializadas terão o direito de utilizar códigos bem como 
 
 A presente secção não pode de maneira nenhuma ser interpretada como impeditiva da adopção de medidas de segurança apropriadas, a determinar mediante acordo entre o Estado que seja Parte na presente Convenção e uma organização especializada.
 
-Artigo V
-
-Representantes dos membros
+###### Artigo V — Representantes dos membros
 
 #### Secção 13
 
@@ -315,9 +310,7 @@ Os privilégios e imunidades são concedidos aos representantes dos membros não
 
 As disposições das secções 13, 14 e 15 não são aplicáveis às autoridades do Estado da nacionalidade da pessoa ou do qual ela é ou foi representante.
 
-Artigo VI
-
-Funcionários
+###### Artigo VI — Funcionários
 
 #### Secção 18
 
@@ -357,9 +350,7 @@ Os privilégios e imunidades são concedidos aos funcionários apenas no interes
 
 Cada organização especializada colaborará permanentemente com as autoridades competentes dos Estados membros com vista a facilitar a boa administração da justiça, a assegurar a observância dos regulamentos policiais e a evitar qualquer abuso que possa resultar dos privilégios, imunidades e facilidades enumerados no presente artigo.
 
-Artigo VII
-
-Abuso de privilégios
+###### Artigo VII — Abuso de privilégios
 
 #### Secção 24
 
@@ -373,9 +364,7 @@ Se um Estado que seja Parte na presente Convenção considerar que houve abuso d
 
 II) No caso de um funcionário a que não se aplique o disposto na secção 21, nenhuma decisão de expulsão será tomada sem a aprovação do Ministro dos Negócios Estrangeiros do país em questão, aprovação essa que só será dada após consulta com o director-geral da organização especializada envolvida; se for aberto um processo de expulsão contra um funcionário, o director-geral da organização especializada terá o direito de intervir nesse processo em defesa da pessoa contra a qual é intentado o processo.
 
-Artigo VIII
-
-Livre-trânsito
+###### Artigo VIII — Livre-trânsito
 
 #### Secção 26
 
@@ -397,9 +386,7 @@ Facilidades idênticas às que são mencionadas na secção 28 serão concedidas
 
 Os directores-gerais das organizações especializadas, directores-gerais-adjuntos, directores de departamento e outros funcionários de nível hierárquico pelo menos igual ao de director de departamento das organizações especializadas, que viajem por conta das organizações especializadas e munidos de um livre-trânsito das Nações Unidas gozarão das mesmas facilidades de viagem que os membros das missões diplomáticas de nível hierárquico comparável.
 
-Artigo IX
-
-Resolução de diferendos
+###### Artigo IX — Resolução de diferendos
 
 #### Secção 31
 
@@ -413,9 +400,7 @@ b) Diferendos nos quais esteja envolvido um funcionário de uma organização es
 
 Qualquer contestação suscitada pela interpretação ou aplicação da presente Convenção será levada perante o Tribunal Internacional de Justiça, excepto nos casos em que as partes acordem em recorrer a outro meio de resolução. Se surgir um diferendo entre uma das organizações especializadas, por um lado, e um Estado membro, por outro, será pedido parecer consultivo sobre qualquer questão de direito suscitada, em conformidade com o artigo 96.º da Carta e com o artigo 65.º do Estatuto do Tribunal e ainda com as disposições aplicáveis dos acordos celebrados entre as Nações Unidas e a organização especializada envolvida. O parecer do Tribunal será aceite pelas partes como decisivo.
 
-Artigo X
-
-Anexos e aplicação da convenção a cada organização especializada
+###### Artigo X — Anexos e aplicação da convenção a cada organização especializada
 
 #### Secção 33
 
@@ -449,9 +434,7 @@ As disposições da presente Convenção não comportarão qualquer limitação 
 
 Fica entendido que as cláusulas padrão modificadas pelo texto final de um anexo transmitido por uma organização especializada ao Secretário-Geral das Nações Unidas nos termos da secção 36 (ou de um anexo revisto transmitido nos termos da secção 38) deverão estar de acordo com as disposições do instrumento constitutivo da organização então em vigor e que, se para isso for necessário introduzir uma emenda nesse instrumento, tal emenda deverá ter entrado em vigor de acordo com o procedimento previsto no instrumento constitutivo da organização antes da transmissão do texto final (ou revisto) do anexo.
 
-Artigo XI
-
-Disposições finais
+###### Artigo XI — Disposições finais
 
 #### Secção 41
 
@@ -471,7 +454,7 @@ A presente Convenção entrará em vigor entre cada Estado que seja Parte na pre
 
 #### Secção 45
 
-**O Secretário-Geral das Nações Unidas informará todos os Estados membros das Nações Unidas, bem como todos os Estados membros das organizações especializadas e os directores-gerais das organizações especializadas, do depósito de cada instrumento de adesão recebido nos termos do disposto na secção 41 e de todas as notificações posteriores recebidas nos termos do disposto na secção 43. O director-geral de cada organização especializada informará o Secretário-Geral das Nações Unidas e os membros da organização envolvida do depósito de qualquer instrumento de adesão depositado junto dele nos termos do disposto na secção 42.**
+O Secretário-Geral das Nações Unidas informará todos os Estados membros das Nações Unidas, bem como todos os Estados membros das organizações especializadas e os directores-gerais das organizações especializadas, do depósito de cada instrumento de adesão recebido nos termos do disposto na secção 41 e de todas as notificações posteriores recebidas nos termos do disposto na secção 43. O director-geral de cada organização especializada informará o Secretário-Geral das Nações Unidas e os membros da organização envolvida do depósito de qualquer instrumento de adesão depositado junto dele nos termos do disposto na secção 42.
 
 #### Secção 46
 
@@ -493,7 +476,7 @@ A pedido de um terço dos Estados que sejam Parte na presente Convenção, o Sec
 
 #### Secção 49
 
-**O Secretário-Geral transmitirá cópia da presente Convenção a cada uma das organizações especializadas e ao governo de cada um dos membros das Nações Unidas.**
+O Secretário-Geral transmitirá cópia da presente Convenção a cada uma das organizações especializadas e ao governo de cada um dos membros das Nações Unidas.
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS CONCERNING THE ESTABLISHMENT OF AN INFORMATION OFFICE OF THE ORGANIZATION IN LISBON.
 
@@ -547,11 +530,11 @@ Done in Lisbon, on 25 July 2008, in Portuguese and English, both texts being equ
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
 
 For the Food and Agriculture Organization of the United Nations:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15100/0320903221.pdf)
 
 ANNEX
 

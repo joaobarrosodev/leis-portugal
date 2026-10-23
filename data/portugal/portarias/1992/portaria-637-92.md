@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/637/1992/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-1992-288200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55e345b289faa1d0f92e797aa17d5dc052f86f78532e58a397ae4ed0d8d8aa92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 485d8f000e406be001ec56bd3808a99ad5eefced9961dd8f5f907ac76e88aebe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,57 @@ relationships:
   target: pt:dre:437986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650103:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela PORT.914/97.1997.09.11.MADRP, DR.IS-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-1997-650103
+  date: '1997-09-11'
+- type: amended_by
+  target: pt:dre:142091:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório pela PORT.552-L/2002.2002.06.01.MADRP DR.IS-B\
+    \ [126]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-l-2002-142091
+  date: '2002-06-01'
+- type: amended_by
+  target: pt:dre:437986:por
+  label: "Renovada, por doze anos, a concessão da zona de caça assocativa pela PORT.1497/2002.2002.12.07.MADRP DR.IS-B [283]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1497-2002-437986
+  date: '2002-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:02Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +159,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Junho de 1992.**
+Assinada em 4 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/151b00/31793179.pdf))](https://files.diariodarepublica.pt/1s/1992/07/151b00/31793179.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/151b00/31793179.pdf)

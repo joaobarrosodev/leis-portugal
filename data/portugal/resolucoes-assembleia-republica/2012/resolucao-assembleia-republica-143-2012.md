@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/143/2012/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/143-2012-189961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e52bb266c19f92ae256b14ce966c2271ac197018750e2cd9df113a3a6839a3e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf33915e729ed85abedba330fef82c1b1e30791163868385e34286cc3a5e7a81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direitos do Homem
 - Convenção
-- Portugal
-- ONU
+- Direitos do Homem
 - Direitos do Indivíduo
 - Nova Iorque
+- ONU
+- Portugal
 - Tortura
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:189964:por
+  label: "Ratificado o Protocolo Facultativo relativo à Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos\
+    \ ou Degradantes, pelo DEC.167/2012.13.12.2012.PR, DR.IS [241] de 13.12.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/167-2012-189964
+  date: '2012-12-13'
 article_structure:
   article_count: 37
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:50Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de outubro de 2012.
 
-**O Presidente da Assembleia da República, em exercício, António Filipe.**
+O Presidente da Assembleia da República, em exercício, António Filipe.
 
 OPTIONAL PROTOCOL TO THE CONVENTION AGAINST TORTURE AND OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT
 
@@ -482,7 +488,7 @@ Convencidos de que a proteção das pessoas privadas de liberdade contra a tortu
 
 acordam no seguinte:
 
-# PARTE I — Princípios gerais
+## PARTE I — Princípios gerais
 
 ###### Artigo 1.º
 
@@ -508,7 +514,7 @@ Cada Estado Parte deverá criar, designar ou manter, a nível interno, um ou mai
 
 2 - Para efeitos do presente Protocolo, entende-se por privação de liberdade qualquer forma de detenção ou prisão ou a colocação de uma pessoa num local de detenção público ou privado do qual essa pessoa não possa sair por vontade própria, por ordem de qualquer autoridade judicial, administrativa ou outra.
 
-# PARTE II — Subcomité para a Prevenção
+## PARTE II — Subcomité para a Prevenção
 
 ###### Artigo 5.º
 
@@ -582,7 +588,7 @@ c) O Subcomité para a Prevenção deverá reunir-se à porta fechada.
 
 3 - O Secretário-Geral das Nações Unidas deverá convocar a primeira reunião do Subcomité para a Prevenção. Após a sua primeira reunião, o Subcomité para a Prevenção reúne-se nas ocasiões previstas no seu regulamento interno. As sessões do Subcomité para a Prevenção e do Comité contra a Tortura deverão decorrer em simultâneo pelo menos uma vez por ano.
 
-# PARTE III — Mandato do Subcomité para a Prevenção
+## PARTE III — Mandato do Subcomité para a Prevenção
 
 ###### Artigo 11.º
 
@@ -654,7 +660,7 @@ Nenhuma autoridade nem nenhum funcionário deverão ordenar, aplicar, permitir o
 
 4 - Caso o Estado Parte se recuse a cooperar com o Subcomité para a Prevenção em conformidade com os artigos 12.º e 14.º, ou a tomar medidas para melhorar a situação à luz das recomendações do Subcomité para a Prevenção, o Comité contra a Tortura pode, a pedido do Subcomité para a Prevenção, decidir, por maioria dos seus membros e após ter sido dada oportunidade ao Estado Parte de dar a conhecer a sua posição, fazer uma declaração pública sobre o assunto ou publicar o relatório do Subcomité para a Prevenção.
 
-# PARTE IV — Mecanismos nacionais de prevenção
+## PARTE IV — Mecanismos nacionais de prevenção
 
 ###### Artigo 17.º
 
@@ -710,7 +716,7 @@ As autoridades competentes do Estado Parte visado deverão examinar as recomenda
 
 Os Estados Partes no presente Protocolo comprometem-se a publicar e a divulgar os relatórios anuais dos mecanismos nacionais de prevenção.
 
-# PARTE V — Declaração
+## PARTE V — Declaração
 
 ###### Artigo 24.º
 
@@ -718,7 +724,7 @@ Os Estados Partes no presente Protocolo comprometem-se a publicar e a divulgar o
 
 2 - Este adiamento é válido por um período máximo de três anos. Depois de o Estado Parte ter dado a conhecer a sua posição e consultado o Subcomité para a Prevenção, o Comité contra a Tortura pode prorrogar esse prazo por mais dois anos.
 
-# PARTE VI — Disposições financeiras
+## PARTE VI — Disposições financeiras
 
 ###### Artigo 25.º
 
@@ -732,7 +738,7 @@ Os Estados Partes no presente Protocolo comprometem-se a publicar e a divulgar o
 
 2 - O Fundo Especial pode ser financiado através de contribuições voluntárias dos Governos, de organizações intergovernamentais e não-governamentais e outras entidades privadas ou públicas.
 
-# PARTE VII — Disposições finais
+## PARTE VII — Disposições finais
 
 ###### Artigo 27.º
 

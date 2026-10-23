@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/2010/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-2010-612627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60b6c4c434dab09a943ed59233c3c4207d0c4e945a41ab03d6bdc4122dc334bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11657eb20cb1a70c3e7eaed95d878f841e433b8432ebd00902b5f1e511e0ec11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Grupo Parlamentar
 - Assembleia da República
 - Cooperação Internacional
+- Grupo Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:613927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613927:por
+  label: "Alterados os arts. 1.º e 3.º pela RES.36/2010.05.05.2010.AR, DR.IS [87] de 05.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/36-2010-613927
+  date: '2010-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/6/2003/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/6/2003/01/24/p/dre
+- type: cites
+  target: pt:dre:166031:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:31Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +197,7 @@ São criados os seguintes GPA:
 
 1 - Ouvida a Conferência de Líderes e em resultado de acordo efectuado entre todos os grupos parlamentares, as presidências dos GPA são repartidas da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0098400985.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0098400985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0098400985.pdf)
 
 2 - As vice-presidências dos GPA são repartidas pelos grupos parlamentares, no âmbito de cada GPA, orientando-se a sua escolha segundo um princípio de alternância dos grupos parlamentares em relação à presidência do GPA, bem como às duas vice-presidências do mesmo GPA.
 
@@ -206,13 +215,17 @@ Os artigos 7.º, 9.º e 10.º da [Resolução da Assembleia da República n.º 6
 
 3 - Os despachos do Presidente da Assembleia da República sobre o elenco dos GPA são publicados no Diário da Assembleia da República, 2.ª série-E.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Cada GPA elabora um programa de actividades anual, que submete à aprovação do Presidente da Assembleia da República.
 
 2 - O Presidente da Assembleia da República pode solicitar parecer sobre o programa de actividades à comissão parlamentar competente em matéria de política externa.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Cada GPA elabora um relatório anual das suas actividades, que submete à aprovação do Presidente da Assembleia da República.
 
@@ -228,4 +241,4 @@ Compete ao Presidente da Assembleia da República, com recurso para o Plenário,
 
 Aprovada em 19 de Março de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/30/2012/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-2012-553609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eec2c3d1239662f99489074b728531575f41c06dd26d0410cef66cc46986a320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 978c8b1a57a3573783fd64f27e21b0b38e0a80780981eb4734fb0993d98930ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Lisboa
 - Argentina
+- Convenção
 - Cooperação Judiciária
+- Lisboa
+- Portugal
 - Transferência de Pessoas Condenadas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:553607:por
+  label: "Ratificado o Acordo entre a República Portuguesa e a República Argentina sobre a Transferência de Pessoas Condenadas,\
+    \ aprovado para ratificação pelo presente diploma, pelo DEC.51/2012.12.03.2012.PR, DR.IS [51] de 12.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-2012-553607
+  date: '2012-03-12'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:21Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 10 de fevereiro de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA SOBRE A TRANSFERÊNCIA DE PESSOAS CONDENADAS
 
@@ -499,8 +505,8 @@ Hecho en Lisboa, el día 6 de Octubre de 2008, en dos ejemplares redactados en i
 
 Por la República Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05100/0108201086.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05100/0108201086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05100/0108201086.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05100/0108201086.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05100/0108201086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05100/0108201086.pdf)

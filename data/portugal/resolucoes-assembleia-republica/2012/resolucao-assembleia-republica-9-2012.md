@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9/2012/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-2012-543676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d546d5498abf0eff89fd672e27a03895c121aad0ba83d7cd5cc26bb4d989a0e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1664f817f01aae461ae5b91385eb432f13c25d9ed73bbf14311ca2ff87c635ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - Convenção
 - EURO
-- União Europeia
 - Tratado da União Europeia
-- Bruxelas
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:543677:por
+  label: "Ratificada a Decisão do Conselho Europeu de 25 de março de 2011, que altera o artigo 136.º do Tratado sobre o Funcionamento\
+    \ da União Europeia no que respeita a um mecanismo de estabilidade para os Estados membros cuja moeda seja o euro, pelo\
+    \ DEC.25/2012.02.02.2012.PR, DR.IS [24] de 02.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-2012-543677
+  date: '2012-02-02'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:48Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +101,9 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Dezembro de 2011.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf))](https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf)
 
 DECISÃO DO CONSELHO EUROPEU DE 25 DE MARÇO DE 2011, QUE ALTERA O ARTIGO 136.º DO TRATADO SOBRE O FUNCIONAMENTO DA UNIÃO EUROPEIA NO QUE RESPEITA A UM MECANISMO DE ESTABILIDADE PARA OS ESTADOS MEMBROS CUJA MOEDA SEJA O EURO.
 
@@ -150,4 +157,4 @@ Pelo Conselho Europeu:
 
 H. Van Rompuy, Presidente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf))](https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/02400/0056800569.pdf)

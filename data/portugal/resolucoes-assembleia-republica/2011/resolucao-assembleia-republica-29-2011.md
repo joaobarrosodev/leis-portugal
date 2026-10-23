@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/2011/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-2011-278904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfe9d79dce18bea1370bb9d99a154e16c808a03f6a15466257038456d474d1e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad94f3fd3453864f3d346daa03996dc3957a3f3a8400534df5aec46bf6aa622d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Georgetown
 - Contribuições e Impostos
+- Convenção
+- Evasão Fiscal
+- Georgetown
+- Ilhas Caimão
 - Infracção Fiscal
 - Londres
-- Evasão Fiscal
+- Portugal
 - Regime Fiscal
-- Ilhas Caimão
 relationships:
+- type: amended_by
+  target: pt:dre:278898:por
+  label: "Ratificado o Acordo aprovado pela presente resolução, pelo DEC.18/2011.28.02.2011.PR, DR.IS [41] de 28.02.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-2011-278898
+  date: '2011-02-28'
 - type: cites
   target: celex:31995L0046
   label: null
@@ -84,13 +90,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:05Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de Janeiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DAS ILHAS CAIMÃO (CONFORME AUTORIZADO PELA CARTA DE OUTORGA DO GOVERNO DO REINO UNIDO DA GRÃ-BRETANHA E DA IRLANDA DO NORTE) SOBRE TROCA DE INFORMAÇÕES EM MATÉRIA FISCAL.
 
@@ -313,11 +319,11 @@ Feito em George Town, em 13 de Maio de 2010, em dois originais, nas línguas por
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf))](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
 
 Pelo Governo das Ilhas Caimão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf))](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE CAYMAN ISLANDS (AS AUTHORISED BY LETTER OF ENTRUSTMENT FROM THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND) CONCERNING EXCHANGE OF INFORMATION ON TAX MATTERS.
 
@@ -555,8 +561,8 @@ Done at George Town on the 13th May 2010, in duplicate in the portuguese and eng
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf))](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
 
 For the Government of the Cayman Islands:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf))](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/04100/0119701204.pdf)

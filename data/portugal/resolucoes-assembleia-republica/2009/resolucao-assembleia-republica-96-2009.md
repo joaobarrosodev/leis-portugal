@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/96/2009/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/96-2009-483424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a7149e0d935430038613b74dc59e29d11c181ce1fb75d871d35d01f7e58d948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b63f34f0edbb9a351b023572a82524e26c3259cc183c108cf45f5f07b583c93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - África do Sul
-- Reino Unido
+- Argentina
 - Austrália
 - Bélgica
+- Chile
 - EUA
-- Portugal
+- França
 - Japão
 - Noruega
 - Nova Zelândia
-- Argentina
-- Chile
-- França
+- Portugal
+- Reino Unido
 - URSS
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:483425:por
+  label: "Ratificado o presente Tratado, pelo DEC.107/2009.09.11.2009.PR, DR.IS [217] de 09.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/107-2009-483425
+  date: '2009-11-09'
 article_structure:
-  article_count: 0
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:03Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de Julho de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 THE ANTARCTIC TREATY
 
@@ -256,51 +261,51 @@ Done at Washington this first day of December, one thousand nine hundred and fif
 
 For Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For Australia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For Belgium:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For Chile:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For The French Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For Japan:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For New Zealand:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For Norway:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For The Union of South Africa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For The Union of Soviet Socialist Republics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For The United Kingdom of Great Britain and Northern Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 For The United States of America:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 O TRATADO PARA A ANTÁRTIDA
 
@@ -316,17 +321,17 @@ Convencidos também que um tratado que garanta a utilização da Antártida excl
 
 concordaram com o seguinte:
 
-Artigo I
+###### Artigo I
 
 1 - A Antártida será usada exclusivamente para fins pacíficos. Assim, serão proibidas, entre outras, todas as medidas de natureza militar, tais como o estabelecimento de bases e fortificações militares, a realização de manobras militares bem como ensaios de qualquer tipo de material de guerra.
 
 2 - O presente Tratado não impedirá a utilização de pessoal ou equipamento militar para pesquisa científica ou para quaisquer outros fins pacíficos.
 
-Artigo II
+###### Artigo II
 
 A liberdade de investigação científica na Antártida e de cooperação com esse fim, tal como praticadas durante o Ano Geofísico Internacional, continuarão sujeitas às disposições do presente Tratado.
 
-Artigo III
+###### Artigo III
 
 1 - No intuito de promover a cooperação internacional em matéria de investigação científica na Antártida, prevista no artigo 2.º do presente Tratado, as Partes Contratantes concordam em proceder, da forma mais ampla possível:
 
@@ -338,7 +343,7 @@ c) Ao intercâmbio dos dados de observações e dos resultados científicos sobr
 
 2 - Na aplicação do presente artigo, devem ser dados todos os incentivos ao estabelecimento de relações de trabalho e cooperação com as agências especializadas da Organização das Nações Unidas e com outras organizações internacionais que tenham interesse científico ou técnico na Antártida.
 
-Artigo IV
+###### Artigo IV
 
 1 - Nada do que está contido no presente Tratado será interpretado como:
 
@@ -350,17 +355,17 @@ c) Prejudicando a posição de qualquer Parte Contratante, no que diz respeito a
 
 2 - Nenhum acto ou actividade que ocorra durante a vigência do presente Tratado deve constituir fundamento para afirmar, apoiar ou contestar uma reivindicação de soberania territorial na Antártida nem para criar direitos de soberania na região. Nenhuma nova reclamação, ou reafirmação de reclamações de soberania territorial na Antártida anteriormente feitas, deve ser feita valer enquanto o presente Tratado está em vigor.
 
-Artigo V
+###### Artigo V
 
 1 - São proibidos na Antártida a realização de explosões nucleares ou a eliminação de resíduos de materiais radioactivos.
 
 2 - No caso da celebração de acordos internacionais relativos à utilização da energia nuclear, que incluam a realização de explosões nucleares e a eliminação de resíduos de material radioactivo, envolvendo as Partes Contratantes cujos representantes estejam habilitados a participar nas reuniões previstas ao abrigo do artigo 9.º, as normas estabelecidas no âmbito desses acordos aplicam-se na Antártida.
 
-Artigo VI
+###### Artigo VI
 
 As disposições do presente Tratado são aplicáveis à zona a sul do paralelo a 60º de latitude sul, incluindo todas as plataformas de gelo; mas em nada devem prejudicar ou de qualquer forma afectar os direitos, ou o exercício de direitos, de qualquer Estado, ao abrigo do direito internacional no que diz respeito ao alto mar, dentro desta área.
 
-Artigo VII
+###### Artigo VII
 
 1 - A fim de promover os objectivos e assegurar a observância das disposições do presente Tratado, cada Parte Contratante, cujos representantes estejam habilitados a participar nas reuniões referidas no artigo 9.º deste Tratado, terá o direito de designar observadores para levar a cabo qualquer inspecção prevista no presente artigo. Os observadores devem ser nacionais das Partes Contratantes que os designarem. Os nomes dos observadores serão comunicados a todas as outras Partes Contratantes com direito a designar observadores, sendo-lhes também comunicada a cessação da nomeação.
 
@@ -378,13 +383,13 @@ b) Todas as estações na Antártida ocupadas pelos seus nacionais; e
 
 c) Todo o pessoal ou equipamento militar destinados a ser introduzidos por ele na Antártida sujeitos às condições previstas no n.º 2 do artigo 1.º do presente Tratado.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - De forma a facilitar o exercício das suas funções nos termos do presente Tratado, e sem prejuízo das respectivas posições das Partes Contratantes, no que respeita à jurisdição sobre todas as outras pessoas na Antártida, os observadores designados nos termos do n.º 1 do artigo 7.º e o pessoal científico em mobilidade nos termos do n.º 1, alínea b), do artigo 3.º do Tratado, bem como o pessoal acompanhante dessas pessoas, ficam sujeitos apenas à jurisdição da Parte Contratante de que são nacionais, no que diz respeito a todas as acções ou omissões que ocorram durante o período em que se encontram na Antártida, a fim de exercer as suas funções.
 
 2 - Sem prejuízo do disposto no n.º 1 do presente artigo, e enquanto se aguarda a adopção de medidas nos termos do n.º 1, alínea e), do artigo 9.º, as Partes Contratantes envolvidas em qualquer caso de disputa no que diz respeito ao exercício da jurisdição na Antártida devem imediatamente promover consultas, com vista a alcançar uma solução mutuamente aceitável.
 
-Artigo IX
+###### Artigo IX
 
 1 - Os representantes das Partes Contratantes designados no preâmbulo do presente Tratado reunir-se-ão na cidade de Camberra dentro de dois meses após a data de entrada em vigor do Tratado, e, posteriormente, a intervalos e em locais apropriados, para efeitos de intercâmbio de informação, consulta mútua sobre assuntos de interesse comum relacionados com a Antártida, e de elaboração, análise e recomendação aos seus Governos, de medidas em prol dos princípios e dos objectivos do Tratado, incluindo medidas relativas a:
 
@@ -408,17 +413,17 @@ f) Preservação e conservação dos recursos vivos na Antártida.
 
 5 - A totalidade ou parte dos direitos consagrados no presente Tratado podem ser exercidos a partir da data de entrada em vigor do Tratado, tenham ou não sido propostas, consideradas ou aprovadas eventuais medidas que facilitem o exercício de tais direitos, em conformidade com este artigo.
 
-Artigo X
+###### Artigo X
 
 Cada uma das Partes Contratantes compromete-se a desenvolver os esforços adequados, coerentes com a Carta das Nações Unidas, de modo a garantir que ninguém se envolverá em qualquer actividade na Antártida que seja contrária aos princípios ou propósitos do actual Tratado.
 
-Artigo XI
+###### Artigo XI
 
 1 - Em caso de diferendo entre duas ou mais das Partes Contratantes relativo à interpretação ou aplicação do presente Tratado, as Partes Contratantes consultar-se-ão entre si com vista a resolver o litígio por negociação, inquérito, mediação, conciliação, arbitragem, resolução judicial ou outro meio pacífico à sua escolha.
 
 2 - Qualquer diferendo desta natureza que não seja resolvido, com o consentimento, em cada caso, de todas as Partes em litígio, deve ser submetido ao Tribunal Internacional de Justiça para resolução; mas a não obtenção de acordo no Tribunal Internacional não dispensa as Partes em disputa da responsabilidade de continuar a procurar resolvê-lo através de qualquer um dos vários meios pacíficos referidos no n.º 1 do presente artigo.
 
-Artigo XII
+###### Artigo XII
 
 1 - a) O presente Tratado pode ser modificado ou alterado a qualquer momento por acordo unânime das Partes Contratantes, cujos representantes estejam habilitados a participar nas reuniões previstas ao abrigo do artigo 9.º Qualquer alteração ou emenda entrará em vigor quando o Governo depositário tiver sido notificado pela totalidade das Partes que ratificaram a Convenção.
 
@@ -430,7 +435,7 @@ b) Qualquer modificação ou alteração ao presente Tratado, que seja aprovada 
 
 c) Sempre que uma qualquer modificação ou alteração não tenha entrado em vigor em conformidade com as disposições do n.º 1 do presente artigo no prazo de dois anos após a data da sua comunicação a todas as Partes Contratantes, então qualquer Parte Contratante pode, a qualquer momento após a expiração desse prazo, dar conhecimento ao Governo depositário da sua retirada do presente Tratado, e que tal rescisão terá efeito dois anos após a recepção do anúncio pelo Governo depositário.
 
-Artigo XIII
+###### Artigo XIII
 
 1 - O presente Tratado será sujeito a ratificação por parte dos Estados signatários. Estará aberto à adesão de qualquer Estado que seja membro da Organização das Nações Unidas, ou de qualquer outro Estado que possa ser convidado a aderir ao Tratado com o consentimento de todas as Partes Contratantes cujos representantes estejam habilitados a participar nas reuniões previstas no artigo 9.º do Tratado.
 
@@ -444,7 +449,7 @@ Artigo XIII
 
 6 - O presente Tratado será registado pelo Governo depositário, nos termos do artigo 102.º da Carta das Nações Unidas.
 
-Artigo XIV
+###### Artigo XIV
 
 O presente Tratado, redigido em inglês, francês, russo e espanhol, sendo cada versão igualmente autêntica, será depositado nos arquivos do Governo dos Estados Unidos da América, que enviará cópias devidamente autenticadas aos Governos dos signatários e aderentes.
 
@@ -454,48 +459,48 @@ Feito em Washington no 1.º dia do mês de Dezembro de 1959.
 
 Pela Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela Austrália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pelo Chile:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pelo Japão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela Nova Zelândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela Noruega:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela União da África do Sul:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pela União das Repúblicas Socialistas Soviéticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
 
 Pelos Estados Unidos da América:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21700/0838408391.pdf)

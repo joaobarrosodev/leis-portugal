@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/150/2011/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/150-2011-145575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:28:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc7ea01945cf5f1ce7e3b83cec6079ff5ddd8e82eeb5c1834a79db6a5c31b634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7541215b78edb952e68ed1533b6c2bc65a22ba3557d8f24e1437a544ba97cdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:28:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
-- Transporte Aéreo
 - Comunidade Europeia
 - Convenção
+- EUA
 - Luxemburgo
+- Transporte Aéreo
 relationships:
+- type: amended_by
+  target: pt:dre:145576:por
+  label: "Ratificado o Protocolo de Alteração do Acordo de Transporte Aéreo, pelo DEC.91/2011.13.12.2011.PR, DR.IS [237] de\
+    \ 13.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/91-2011-145576
+  date: '2011-12-13'
 - type: cites
   target: celex:32002L0030
   label: null
@@ -79,13 +85,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:28:27Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Novembro de 2011.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOLO DE ALTERAÇÃO DO ACORDO DE TRANSPORTE AÉREO ENTRE OS ESTADOS UNIDOS DA AMÉRICA E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, ASSINADO EM 25 E 30 DE ABRIL DE 2007.
 
@@ -298,7 +304,7 @@ Para efeitos dessa troca de notas diplomáticas, as notas diplomáticas dirigida
 
 Em fé do que os abaixo assinados, com os devidos poderes para o efeito, apuseram as suas assinaturas no presente Acordo.
 
-## APÊNDICE
+APÊNDICE
 
 ## ANEXO N.º 6 — Participação no capital e controlo de companhias aéreas de países terceiros
 
@@ -392,7 +398,7 @@ Pela delegação dos Estados Unidos da América:
 
 John Byerly.
 
-## APÊNDICE C
+APÊNDICE C
 
 Declaração comum sobre a cooperação ambiental
 
@@ -418,4 +424,4 @@ A promoção e aceleração, se for caso disso, do desenvolvimento e aplicação
 
 A cooperação com a comunidade científica através, por exemplo, do Impacts and Science Group do CAEP, para compreender e quantificar melhor os efeitos da aviação no ambiente, nomeadamente impactos na saúde e impactos climáticos não relacionados com o CO(índice 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/23700/0526405273.pdf))](https://files.diariodarepublica.pt/1s/2011/12/23700/0526405273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/23700/0526405273.pdf)

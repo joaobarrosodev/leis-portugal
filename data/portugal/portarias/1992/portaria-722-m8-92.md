@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(161) a 3330-(161)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/01610161.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-m8/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-m8-1992-617769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aec45d5110a10439ccf1753bd19c02a8266ec040a1bc4afa82c4dc25ffd18aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab6199f6becc2b37eccb4149a4ea84edc1d2f5596cffa8480a603f44bcfc68f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:30:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,66 @@ relationships:
   target: pt:dre:593554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506871:por
+  label: "Suspenso o exercíco da caça e actividades de carácter venatório na zona de caça atribuída pelo presente diploma,\
+    \ pela PORT.911/2004.26.07.2004.MADRP, DR.IS-B [174] de 26.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-2004-506871
+  date: '2004-07-26'
+- type: amended_by
+  target: pt:dre:577514:por
+  label: "Renovada, por um período de dez anos, a concessão da zona de caça turística atribuída pelo presente diploma, pela\
+    \ Port 1347/2004, de 21-Out, DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1347-2004-577514
+  date: '2004-10-21'
+- type: amended_by
+  target: pt:dre:593554:por
+  label: "Transferida para a casa Agrícola Herdade do Monte Velho, S.A., a zona de caça atribuída pelo presente diploma, renovado\
+    \ pela Port 1347/2004, de 21-Out, pela PORT.1069/2005.18.10.2005.MAOTDR, DR.IS-B [200] de 18.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1069-2005-593554
+  date: '2005-10-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275993:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 124/92, PUBLICADA NO DR.IS-B, 175, 4 SUPL, DE 920731.\0731.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/124-1992-275993
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:30:38Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +165,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Julho de 1992.**
+Assinada em 10 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/01610161.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/01610161.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/01610161.pdf)

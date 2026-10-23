@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/84/2012/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/84-2012-178518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62467daeedf0e5c61125d87da9485bcc0410b64ec82546245e4deceeb05fc84e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42d6b464afb36e5d511076767de4dab77a0d46912ab80b19fefd986808e0ab12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alemanha
+- Áustria
 - Bélgica
+- Bruxelas
 - Bulgária
 - Convenção
-- Irlanda
-- Portugal
 - Dinamarca
-- Espanha
-- Finlândia
-- Áustria
-- Hungria
-- Países Baixos
-- Alemanha
-- Bruxelas
 - Eslováquia
+- Espanha
 - Estónia
+- Finlândia
 - França
 - Grécia
+- Hungria
+- Irlanda
 - Itália
 - Luxemburgo
 - Malta
+- Países Baixos
+- Portugal
 - Tratado sobre Estabilidade Coordenação e Governação na União Económica e Monetaria
 relationships:
+- type: amended_by
+  target: pt:dre:178515:por
+  label: "Ratificado o Tratado sobre Estabilidade, Coordenação e Governação na União Económica e Monetária entre o Reino da\
+    \ Bélgica, a República da Bulgária, o Reino da Dinamarca, a República Federal da Alemanha, a República da Estónia, a Irlanda,\
+    \ a República Helénica, o Reino de Espanha, a República Francesa, a República Italiana, a República do Chipre, a República\
+    \ da Letónia, a República da Lituânia, o Grão-Ducado do Luxemburgo, a Hungria, Malta, o Reino dos Países Baixos, a República\
+    \ da Áustria, a República da Polónia, a República Portuguesa, a Roménia, a República da Eslovénia, a República Eslovaca,\
+    \ a República da Finlândia e o Reino da Suécia, pelo DEC.99/2012.03.07.2012.PR, DR.IS [127] de 03.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/99-2012-178515
+  date: '2012-07-03'
 - type: cites
   target: celex:31997R1466
   label: null
@@ -111,13 +121,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:43Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +140,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 13 de abril de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 TRATADO SOBRE ESTABILIDADE, COORDENAÇÃO E GOVERNAÇÃO NA UNIÃO ECONÓMICA E MONETÁRIA ENTRE O REINO DA BÉLGICA, A REPÚBLICA DA BULGÁRIA, O REINO DA DINAMARCA, A REPÚBLICA FEDERAL DA ALEMANHA, A REPÚBLICA DA ESTÓNIA, A IRLANDA, A REPÚBLICA HELÉNICA, O REINO DE ESPANHA, A REPÚBLICA FRANCESA, A REPÚBLICA ITALIANA, A REPÚBLICA DE CHIPRE, A REPÚBLICA DA LETÓNIA, A REPÚBLICA DA LITUÂNIA, O GRÃO-DUCADO DO LUXEMBURGO, A HUNGRIA, MALTA, O REINO DOS PAÍSES BAIXOS, A REPÚBLICA DA ÁUSTRIA, A REPÚBLICA DA POLÓNIA, A REPÚBLICA PORTUGUESA, A ROMÉNIA, A REPÚBLICA DA ESLOVÉNIA, A REPÚBLICA ESLOVACA, A REPÚBLICA DA FINLÂNDIA E O REINO DA SUÉCIA.
 
@@ -280,7 +290,7 @@ A fim de definirem um método de aferição das melhores práticas e atuarem no 
 
 1 - Os Chefes de Estado ou de Governo das Partes Contratantes cuja moeda seja o euro reúnem-se informalmente em cimeiras do euro, juntamente com o Presidente da Comissão Europeia. O Presidente do Banco Central Europeu é convidado a participar nessas reuniões.
 
-**O Presidente da Cimeira do Euro é nomeado pelos Chefes de Estado ou de Governo das Partes Contratantes cuja moeda seja o euro, por maioria simples, ao mesmo tempo que o Conselho Europeu elege o seu Presidente, e para um mandato de igual duração.**
+O Presidente da Cimeira do Euro é nomeado pelos Chefes de Estado ou de Governo das Partes Contratantes cuja moeda seja o euro, por maioria simples, ao mesmo tempo que o Conselho Europeu elege o seu Presidente, e para um mandato de igual duração.
 
 2 - As Cimeiras do Euro realizam-se quando necessário, e pelo menos duas vezes por ano, a fim de serem debatidas questões relacionadas com as responsabilidades específicas que as Partes Contratantes cuja moeda seja o euro partilham no tocante à moeda única, outras questões relativas à governação da área do euro e às regras que lhe são aplicáveis, e as orientações estratégicas para a condução das políticas económicas para uma maior convergência na área do euro.
 
@@ -324,4 +334,4 @@ Feito em Bruxelas, a 2 de março de 2012.
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, búlgara, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé todos os textos, é depositado nos arquivos do depositário, que dele remete uma cópia autenticada a cada uma das Partes Contratantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/12700/0337903386.pdf))](https://files.diariodarepublica.pt/1s/2012/07/12700/0337903386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/12700/0337903386.pdf)

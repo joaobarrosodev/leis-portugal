@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/30/2011/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-2011-278895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e35488f53794adff6ffa3886a4f4662ec493209b5d188822187d54a7e1985d73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d686d6872ccf1b1015dcb11f5307eedbed20be05f3a75b48f861ed5bca2513c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,31 @@ subjects:
 - África do Sul
 - CE Países
 - Convenção
+- Cooperação Científica
 - Cooperação Comercial
+- Cooperação Económica
 - Cooperação Técnica
+- Desenvolvimento Económico
+- Kleinmond
 - Portugal
 - União Europeia
-- Kleinmond
-- Desenvolvimento Económico
-- Cooperação Científica
-- Cooperação Económica
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:278896:por
+  label: "Ratificado o Acordo que altera o Acordo de Comércio, Desenvolvimento e Cooperação, pelo DEC.19/2011.01.03.2011.PR,\
+    \ DR.IS [42] de 01.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/19-2011-278896
+  date: '2011-03-01'
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:06Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de Janeiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA ÁFRICA DO SUL, POR OUTRO, QUE ALTERA O ACORDO DE COMÉRCIO, DESENVOLVIMENTO E COOPERAÇÃO.
 
@@ -401,7 +407,9 @@ b) Criando e ou mantendo um sistema eficaz de controlos nacionais das exportaç�
 
 3 - As Partes acordam em que os n.os 1 e 2 do presente artigo constituem um elemento essencial do presente Acordo. As Partes acordam em encetar um diálogo político regular que acompanhe e consolide a sua cooperação neste domínio, em conformidade com os princípios estabelecidos no preâmbulo.
 
-###### Artigo 91.º-B — Luta contra o terrorismo
+Artigo 91.º-B
+
+Luta contra o terrorismo
 
 1 - As Partes condenam firmemente todos os actos, métodos e práticas terroristas sob todas as suas formas e manifestações, considerando-os criminosos e injustificáveis, qualquer que seja o seu autor e o local onde foram cometidos.
 
@@ -417,29 +425,41 @@ b) Através do intercâmbio de informações sobre os grupos terroristas e as su
 
 c) Através do intercâmbio de opiniões sobre os meios e os métodos a utilizar para combater o terrorismo, designadamente nos domínios técnicos e da formação, bem como através do intercâmbio de experiências em matéria de prevenção do terrorismo.
 
-###### Artigo 91.º-C — Branqueamento de capitais e financiamento do terrorismo
+Artigo 91.º-C
+
+Branqueamento de capitais e financiamento do terrorismo
 
 1 - As Partes acordam na necessidade de envidar esforços e de cooperar para impedir a utilização dos seus sistemas financeiros para o branqueamento de capitais provenientes de actividades criminosas em geral e do tráfico de estupefacientes e de substâncias psicotrópicas em particular.
 
 2 - A cooperação neste domínio poderá incluir a prestação de assistência administrativa e técnica com o objectivo de melhorar a aplicação da regulamentação necessária e assegurar o funcionamento eficaz das normas e mecanismos adequados em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo, equivalentes às normas internacionais nesta matéria, nomeadamente as recomendações do Grupo de Acção Financeira Internacional (GAFI).
 
-###### Artigo 91.º-D — Combate à criminalidade organizada
+Artigo 91.º-D
+
+Combate à criminalidade organizada
 
 As Partes acordam em cooperar no combate à criminalidade organizada e financeira, incluindo a corrupção. Este tipo de cooperação visa especificamente aplicar e melhorar as normas e os instrumentos internacionais pertinentes, tais como a Convenção das Nações Unidas contra a Criminalidade Organizada Transnacional e respectivos protocolos adicionais e a Convenção das Nações Unidas contra a Corrupção.
 
-###### Artigo 91.º-E — Armas de pequeno calibre e armas ligeiras
+Artigo 91.º-E
+
+Armas de pequeno calibre e armas ligeiras
 
 As Partes reconhecem que o fabrico, o armazenamento, a posse e o comércio ilícitos de armas de pequeno calibre e de armas ligeiras e a sua acumulação excessiva e disseminação descontrolada continuam a ser um importante factor de instabilidade e uma ameaça para a segurança e o desenvolvimento sustentável. As Partes acordam, por conseguinte, em prosseguir e desenvolver uma colaboração estreita a fim de prevenir, combater e erradicar o comércio ilícito de armas de pequeno calibre e de armas ligeiras em todas as suas vertentes, tal como previsto no Programa de Acção das Nações Unidas, e em abordar o problema da acumulação excessiva de armas de pequeno calibre e de armas ligeiras. As Partes acordam em observar rigorosamente e aplicar na íntegra as obrigações que lhes incumbem em virtude do direito internacional e das convenções pertinentes, bem como os seus compromissos no âmbito dos instrumentos multilaterais pertinentes.
 
-###### Artigo 91.º-F — Actividades mercenárias
+Artigo 91.º-F
+
+Actividades mercenárias
 
 As Partes comprometem-se a estabelecer um diálogo político regular e a cooperar na prevenção das actividades mercenárias, em conformidade com as suas obrigações no âmbito das convenções e instrumentos internacionais e com as respectivas legislações e regulamentações de execução dessas obrigações.
 
-###### Artigo 91.º-G — Tribunal Penal Internacional
+Artigo 91.º-G
+
+Tribunal Penal Internacional
 
 As Partes, determinadas em pôr termo à impunidade e em promover a paz e a segurança internacionais e um respeito duradouro pela aplicação da justiça internacional, reiteram o seu apoio ao Tribunal Penal Internacional (TPI) e à sua acção. As Partes acordam ainda em cooperar para promover a universalidade e a integridade do Estatuto de Roma e instrumentos conexos e em aprofundar a sua colaboração com o TPI.
 
-###### Artigo 91.º-H — Cooperação em matéria de migração
+Artigo 91.º-H
+
+Cooperação em matéria de migração
 
 1 - A migração é objecto de um diálogo político aprofundado e reflecte a importância que as Partes conferem e esta questão.
 
@@ -509,4 +529,4 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, c
 
 O presente Acordo entra em vigor no 1.º dia do mês seguinte àquele em que as Partes procedam à notificação recíproca do cumprimento das formalidades necessárias para o efeito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04200/0122401233.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04200/0122401233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04200/0122401233.pdf)

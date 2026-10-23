@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/45/2012/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/45-2012-552553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eac986a20db021eae759a1a5cc96da1486719627f8232f4808f4ed6704eeb89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9f13af874fe20202f1aa1f77d3b3704f96649cebde7c871e9c7e9b013f21f37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
+- Bruxelas
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
-- Bruxelas
+- Imposto sobre o Rendimento
 - Luxemburgo
-relationships: []
+- Património
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:552557:por
+  label: "Ratificados o Protocolo e o Protocolo Adicional que alteram a Convenção entre a República Portuguesa e o Grão-Ducado\
+    \ do Luxemburgo para Evitar as Duplas Tributações e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento\
+    \ e o Património, e o respetivo Protocolo, pelo DEC.76/2012.12.04.2012.PR, DR.IS [73] de 12.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/76-2012-552557
+  date: '2012-04-12'
 article_structure:
-  article_count: 0
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:42Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +105,13 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de fevereiro de 2012.
 
-**O Presidente da Assembleia da República, em exercício, António Filipe.**
+O Presidente da Assembleia da República, em exercício, António Filipe.
 
 PROTOCOLO QUE ALTERA A CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E O GRÃO-DUCADO DO LUXEMBURGO PARA EVITAR AS DUPLAS TRIBUTAÇÕES E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E O PATRIMÓNIO, E O RESPECTIVO PROTOCOLO, ASSINADOS EM BRUXELAS EM 25 DE MAIO DE 1999.
 
 A República Portuguesa e o Grão-Ducado do Luxemburgo, desejando celebrar um Protocolo que altere a Convenção entre a República Portuguesa e o Grão-Ducado do Luxemburgo para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Património, e o Respectivo Protocolo, assinados em Bruxelas em 25 de Maio de 1999 (a seguir referida pela designação de «a Convenção»), acordaram nas disposições seguintes:
 
-Artigo I
+###### Artigo I
 
 O artigo 27.º («Troca de informações») da Convenção é suprimido e substituído pelo seguinte:
 
@@ -128,7 +135,7 @@ c) De transmitir informações reveladoras de segredos ou processos comerciais, 
 
 5 - O disposto no n.º 3 não pode em caso algum ser interpretado no sentido de permitir que um Estado Contratante se recuse a prestar informações unicamente porque estas são detidas por um banco, outra instituição financeira, um mandatário ou por uma pessoa agindo na qualidade de agente ou fiduciário, ou porque essas informações são conexas com os direitos de propriedade de uma pessoa.»
 
-Artigo II
+###### Artigo II
 
 1 - O presente Protocolo entrará em vigor na data de recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos do direito interno dos dois Estados Contratantes necessários para o efeito.
 

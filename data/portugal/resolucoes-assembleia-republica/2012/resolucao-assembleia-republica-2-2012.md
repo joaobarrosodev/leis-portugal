@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/2/2012/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/2-2012-477134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e68ca1104744167fd3fbf7dbbd7fdfac53d9c7f87a058e8e1a8354211985151b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d65779ed1b169d8c803e395bd0a7c0bfa290d2fc0f217db549417723024295b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Convenção
-- Canadá
 - Bruxelas
+- Canadá
+- Convenção
+- Transporte Aéreo
 relationships:
 - type: cites
   target: celex:32003L0096
@@ -77,14 +77,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2003/96/oj
 article_structure:
   article_count: 26
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:03Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +97,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Novembro de 2011.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE TRANSPORTE AÉREO ENTRE O CANADÁ E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS
 
@@ -541,7 +541,7 @@ Em fé do que os abaixo assinados, com os devidos poderes para o efeito conferid
 
 Feito em Bruxelas, em 17 de Dezembro de 2009, em duplicado, nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf))](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
 
 ## ANEXO 1 — Quadro de rotas
 
@@ -589,7 +589,9 @@ sem restrições de direcção ou de carácter geográfico, nem perda dos direit
 
 «No caso de uma companhia aérea do Canadá, uma parte substancial do capital e o controlo efectivo da companhia aérea pertencem a nacionais do Canadá, a companhia aérea é licenciada enquanto companhia aérea canadiana e tem o seu local de estabelecimento principal no Canadá; no caso de uma companhia aérea de um Estado Membro, uma parte substancial do capital e o controlo efectivo da companhia aérea pertencem a nacionais dos Estados Membros, da Islândia, do Liechtenstein, da Noruega ou da Suíça, a companhia aérea é licenciada enquanto companhia aérea comunitária e tem o seu local de estabelecimento principal num Estado Membro.»
 
-#### SECÇÃO 2 — Progressiva disponibilidade de direitos de tráfego
+SECÇÃO 2
+
+Progressiva disponibilidade de direitos de tráfego
 
 1 - No exercício dos direitos de tráfego estabelecidos no n.º 2 da presente secção, as companhias aéreas das Partes beneficiam da flexibilidade operacional prevista no n.º 2 do anexo 1.
 
@@ -619,9 +621,11 @@ i) Para os serviços de transporte combinado de passageiros, no caso das companh
 
 d) Se a legislação e regulamentação internas das Partes permitirem a propriedade plena e o controlo das suas companhias aéreas por nacionais da outra Parte e ambas as Partes permitirem a aplicação integral do disposto no anexo 1, nos termos do n.º 5, da alínea e) do n.º 6 e do n.º 9 do artigo 17.º («Comité Misto») do presente Acordo e no seguimento de uma confirmação pelas Partes, através dos respectivos procedimentos, deixam de ser aplicáveis as disposições do anexo 2 acima, passando a aplicar-se o disposto no anexo 1.
 
-## ANEXO 3 — Acordos bilaterais entre o Canadá e os Estados membros da Comunidade Europeia
+ANEXO 3
 
-#### SECÇÃO 1
+Acordos bilaterais entre o Canadá e os Estados membros da Comunidade Europeia
+
+SECÇÃO 1
 
 Conforme previsto no artigo 26.º do presente Acordo, os acordos bilaterais de transporte aéreo adiante mencionados celebrados entre o Canadá e os Estados membros ficarão suspensos ou serão substituídos pelo presente Acordo:
 
@@ -661,19 +665,19 @@ q) Reino da Suécia: Acordo de serviços aéreos entre o Canadá e a Suécia ent
 
 r) Reino Unido da Grã-Bretanha e Irlanda do Norte: Acordo de serviços aéreos entre o Governo do Canadá e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, assinado em 22 de Junho de 1988.
 
-#### SECÇÃO 2
+SECÇÃO 2
 
 Para efeitos da secção 2 do anexo 2, serão exercidos os seguintes direitos em conformidade com a subalínea iii) da alínea a) do n.º 2:
 
-# Parte 1. - No caso das transportadoras aéreas do Canadá - relativamente à exploração de serviços de transporte combinado de passageiros entre o Canadá e cada um dos Estados membros, e na exploração de serviços de cargueiros, as transportadoras aéreas do Canadá beneficiarão dos seguintes direitos:
+Parte 1. - No caso das transportadoras aéreas do Canadá - relativamente à exploração de serviços de transporte combinado de passageiros entre o Canadá e cada um dos Estados membros, e na exploração de serviços de cargueiros, as transportadoras aéreas do Canadá beneficiarão dos seguintes direitos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf))](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
 
-# Parte 2. - No caso das transportadoras aéreas da Comunidade Europeia - relativamente à exploração de serviços de transporte combinado de passageiros entre cada um dos Estados membros e o Canadá, e na exploração de serviços de transporte de carga, as transportadoras aéreas comunitárias beneficiarão dos seguintes direitos:
+Parte 2. - No caso das transportadoras aéreas da Comunidade Europeia - relativamente à exploração de serviços de transporte combinado de passageiros entre cada um dos Estados membros e o Canadá, e na exploração de serviços de transporte de carga, as transportadoras aéreas comunitárias beneficiarão dos seguintes direitos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf))](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
 
-#### SECÇÃO 3
+SECÇÃO 3
 
 Não obstante o disposto na secção 1 do presente anexo, no caso das zonas não abrangidas pela definição de «território» constante do artigo 1.º do presente Acordo, os acordos mencionados nas alíneas d) Reino da Dinamarca, f) República Francesa, l) Reino dos Países Baixos e r) Reino Unido da Grã-Bretanha e Irlanda do Norte continuam a ser aplicados nos termos em que foram celebrados.
 
@@ -687,4 +691,4 @@ Declaração da Comunidade Europeia e dos seus Estados membros sobre o Acordo de
 
 A Comunidade Europeia e os seus Estados membros esclarecem que o Acordo de Transporte Aéreo entre a Comunidade Europeia e os seus Estados membros, por um lado, e o Canadá, por outro, em especial o artigo 8.º, não prevê a isenção do imposto sobre o valor acrescentado (IVA), com excepção do imposto sobre o volume de negócios aplicável às importações, e não impede os Estados membros de tributarem o combustível utilizado nos voos domésticos ou intracomunitários de acordo com o disposto na Directiva n.º [2003/96/CE](http://data.europa.eu/eli/dir/2003/96/oj?locale=pt), do Conselho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf))](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/00900/0009100108.pdf)

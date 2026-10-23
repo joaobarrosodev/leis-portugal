@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/747/1992/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1992-275851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0549da5ca5962725b74e43b8be977fd1e83f43e00910c31278a46491dc577dc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2753684f00bbd362822bffbe02ef70d4b4658cc8414212425d6f8bad0a59800
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Azeite
+- Financiamento
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Lagar
 - Regulamento CE
@@ -77,6 +77,11 @@ relationships:
   target: pt:dre:222788:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222788:por
+  label: "Alterados os nºs 1º e 11º pela PORT.40/98.1998.01.26.MADRP, DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-1998-222788
+  date: '1998-01-26'
 - type: cites
   target: celex:31966R0136
   label: null
@@ -88,13 +93,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:33Z'
   warnings: []
   errors: []
 ---
@@ -175,6 +180,6 @@ d) Indicação de que pretende obter o reconhecimento do lagar para os efeitos d
 
 Ministério da Agricultura.
 
-**Assinada em 2 de Julho de 1992.**
+Assinada em 2 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

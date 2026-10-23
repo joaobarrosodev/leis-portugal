@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/75/2012/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/75-2012-177841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 586e5d811fcaf9537740e21d1a32c44377ee3edd5bc20d68933f600dda92f0f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7f1b2acbe61d2f9acc5cb51901c1fb7a3cc30503c773b2253cd241c7bcc5ea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criança
 - Convenção
-- Direitos da Criança
+- Criança
 - Crime Sexual
-- Lanzarote
+- Direitos da Criança
 - Ilhas Canárias
+- Lanzarote
 relationships:
+- type: amended_by
+  target: pt:dre:177842:por
+  label: "Ratificada a Convenção do Conselho da Europa para a Proteção das Crianças contra a Exploração Sexual e os Abusos\
+    \ Sexuais, pelo DEC.90/2012.28.05.2012.PR, DR.IS [103] de 28.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-2012-177842
+  date: '2012-05-28'
 - type: cites
   target: celex:32001D0220
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 50
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:23Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +113,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de março de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 COUNCIL OF EUROPE CONVENTION ON THE PROTECTION OF CHILDREN AGAINST SEXUAL EXPLOITATION AND SEXUAL ABUSE (LANZAROTE, 25.X.2007)
 
@@ -1409,7 +1415,7 @@ Nenhuma reserva pode ser formulada relativamente a qualquer disposição da pres
 
 ###### Artigo 50.º — Notificação
 
-**O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho da Europa, qualquer Estado signatário, qualquer Estado Parte, a Comunidade Europeia, qualquer Estado convidado a assinar a presente Convenção nos termos do artigo 45.º, bem como qualquer Estado convidado a aderir à presente Convenção nos termos do artigo 46.º:**
+O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho da Europa, qualquer Estado signatário, qualquer Estado Parte, a Comunidade Europeia, qualquer Estado convidado a assinar a presente Convenção nos termos do artigo 45.º, bem como qualquer Estado convidado a aderir à presente Convenção nos termos do artigo 46.º:
 
 a) De qualquer assinatura;
 

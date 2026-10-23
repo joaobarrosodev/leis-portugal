@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/750/1992/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1992-275236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3bd5ffe58886dafca03a71bb2b7dc7d878f28d5f3bef01f30ff7c49578a6342
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0d1f724bd901017563e3bd639dd92cc8b225e13b829583a75559b906b66f7dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,10 @@ subjects:
 - Transferência de Serviços
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 140/92, PUBLICADA NO DR.IS-B, 200, 2 SUPL, DE 920831.\0831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:300060:por
   label: Última alteração registada na importação inicial
   source: null
@@ -78,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/127/1992/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/1992/07/03/p/dre
+- type: cites
+  target: pt:dre:288074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535218:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:39Z'
   warnings: []
   errors: []
 ---
@@ -158,6 +170,6 @@ aa) As do Centro de Saúde Mental de Viseu, para o Hospital Distrital de Viseu.
 
 Ministério da Saúde.
 
-**Assinada em 16 de Julho de 1992.**
+Assinada em 16 de Julho de 1992.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho.

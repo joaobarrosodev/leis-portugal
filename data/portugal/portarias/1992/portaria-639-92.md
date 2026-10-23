@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/639/1992/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/639-1992-287850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ca3b10be97471d39e88900f36307bfb0ed4cb52a116ce14ad44625f5b56a8d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 918da271a9e78d0e36905781e671583739c656dadaff623161e6083df624bcd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,71 @@ relationships:
   target: pt:dre:306959:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566778:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, pela PORT.668/98.1998.08.31.MADRP,\
+    \ DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-1998-566778
+  date: '1998-08-31'
+- type: amended_by
+  target: pt:dre:542781:por
+  label: "Renovada a concessão atribuída pelo presente diploma, pela PORT.260/99.1999.04.10.MADRP DR.IS-B [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-1999-542781
+  date: '1999-04-10'
+- type: amended_by
+  target: pt:dre:481967:por
+  label: "Englobados vários prédios rústicos na zona de caça associativa de Aldeia da Ribeira criada pelo presente diploma,\
+    \ renovada pela Port 260/99, de 10-Abr, pela PORT.1423/2009.17.12.2009.MADRP, DR.IS [243] de 17.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1423-2009-481967
+  date: '2009-12-17'
+- type: amended_by
+  target: pt:dre:481933:por
+  label: "Englobados vários prédios rústicos na zona de caça criada pelo presente diploma, renovada a concessão pela Port\
+    \ 260/99, de 10-Abr, pela PORT.1433/2009.21.12.2009.MADRP, DR.IS [245] de 21.12.2009(A Decl-Rect 1/2010 de 04-Fev declara\
+    \ sem efeito a Portaria 1433/2009 de 21-Dez)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1433-2009-481933
+  date: '2009-12-21'
+- type: amended_by
+  target: pt:dre:306959:por
+  label: "Renovada a concessão da zona de caça associativa de Aldeia da Ribeira criada pelo presente diploma, renovada pela\
+    \ Port 260/99, de 10-Abr e alterada pela Port 1423/2009 de 17-Dez, pela PORT.1270/2010.15.12.2010.MADRP, DR.IS [241] de\
+    \ 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1270-2010-306959
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:00Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +172,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Junho de 1992.**
+Assinada em 3 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/154b00/32053205.pdf))](https://files.diariodarepublica.pt/1s/1992/07/154b00/32053205.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/154b00/32053205.pdf)

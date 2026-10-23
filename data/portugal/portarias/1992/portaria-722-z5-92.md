@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(117) a 3330-(118)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/01170118.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-z5/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-z5-1992-617971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1107250d54bc258c15a264e95fa1dbda3fd24eae3b49ab777fe11f917c2f29be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b17d634369bc388e83849dfb8435d5f9dcdae4239c3d3dacd6b9c0272013a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,86 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Castro Verde
 - CAÇA
+- Castro Verde
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:452905:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186880:por
+  label: "Anexados vários prédios rústicos pela PORT.149/98.1998.03.12.MECO, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-1998-186880
+  date: '1998-03-12'
+- type: amended_by
+  target: pt:dre:673794:por
+  label: "Alterado o prazo de validade da zona de caça concessionada pelo presente diploma, na redacção da Port 149/98, de\
+    \ 12-Mar, pela PORT.865/99.1999.10.08.MECO DR.IS-B [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1999-673794
+  date: '1999-10-08'
+- type: amended_by
+  target: pt:dre:423656:por
+  label: "Renovada por um período de seis anos a concessão da zona de caça atribuida pela PORT.1457/2002.2002.11.12.MECO,\
+    \ DR.IS-B [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1457-2002-423656
+  date: '2002-11-12'
+- type: amended_by
+  target: pt:dre:223228:por
+  label: "Transferida para a Sociedade de Salto - Criação e Gestão de Recursos Cinegéticos, Lda. a concessão de zona de caça\
+    \ turística de São Marcos atribuída pelo presente diploma e renovada pela Port 1457/2002 de 12-Nov, pela PORT.406/2004.22.04.2004.MECO,\
+    \ DR.IS-B [95] de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/406-2004-223228
+  date: '2004-04-22'
+- type: amended_by
+  target: pt:dre:676837:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, com as alterações constantes das\
+    \ Port 149/98, de 12-Mar, 865/99, de 08-Out, 1457/2002, de 12-Nov e 406/2004, de 22-Abr, pela PORT.138/2006.20.02.2006.MAOTDR,\
+    \ DR.IS-B [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-2006-676837
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:452905:por
+  label: "Extinta a zona de caça turística de São Marcos concessionada no presente diploma, com as alterações introduzidas\
+    \ pela Port 149/98 de 12-Mar, 865/99 de 08-Out, 1457/2002 de 12-Nov, 406/2004 de 22-Abr e 138/2006 de 20-Fev, pela PORT.1135/2008.09.10.2008.MAOTDR,\
+    \ DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1135-2008-452905
+  date: '2008-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:53Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +178,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Julho de 1992.**
+Assinada em 10 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/01170118.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/01170118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/01170118.pdf)

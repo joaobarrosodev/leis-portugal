@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/68/2010/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/68-2010-334356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06911b17eb770954cf4aacf2384ecd362db0b38b05d0c80c7ff37f51cce6738e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 206a3ea9c61d04c03c1603b810991a15ea371676a31741f3a161536947be727c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Combate ao Crime
-- Lisboa
+- Convenção
 - Cooperação Militar
+- Lisboa
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:344245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334355:por
+  label: "Ratificado o Acordo, pelo DEC.68/2010.13.07.2010.PR, DR.IS [134] de 13.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/68-2010-334355
+  date: '2010-07-13'
+- type: corrected_by
+  target: pt:dre:344245:por
+  label: "Rectificada pela DECL-RECT.27/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-2010-344245
+  date: '2010-09-07'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:30Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +108,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de Junho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UCRÂNIA RELATIVO À COOPERAÇÃO MILITAR
 
@@ -212,7 +222,7 @@ Pela Ucrânia:
 
 Yuriy Yekhanurov, Ministro da Defesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13400/0256302567.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13400/0256302567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13400/0256302567.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND UKRAINE CONCERNING MILITARY CO-OPERATION
 

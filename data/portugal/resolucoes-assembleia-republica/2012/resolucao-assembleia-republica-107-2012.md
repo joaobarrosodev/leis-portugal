@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/107/2012/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/107-2012-179002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58296e341f80d5999c5ee5b39409f57db269c33e544bef5ceca0ac368e132c7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe3ab57ad199eaeb614dc6d7f9af1a6a303653a2819a7b825c3f98e036e2a7f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Convenção
-- Portugal
-- Estatuto
 - Apátrida
+- Convenção
+- Estatuto
+- Nacionalidade
 - Nova Iorque
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:179000:por
+  label: "Ratificada a Convenção Convenção Relativa ao Estatuto dos Apátridas, aprovada, para adesão, pelo DEC.134/2012.07.08.2012.PR,\
+    \ DR.IS [152] de 07.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/134-2012-179000
+  date: '2012-08-07'
 article_structure:
   article_count: 44
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:00Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +111,7 @@ Nos termos do n.º 1 do artigo 38.º da Convenção, a República Portuguesa dec
 
 Aprovada em 8 de junho de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 CONVENTION RELATING TO THE STATUS OF STATELESS PERSONS
 
@@ -593,7 +599,7 @@ Model travel document
 
 It is recommended that the document be in booklet form (approximately 15 x 10 centimetres), that it be so printed that any erasure or alteration by chemical or other means can be readily detected, and that the words "Convention of 28 September 1954" be printed in continuous repetition on each page, in the language of the issuing country.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15200/0413204148.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15200/0413204148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15200/0413204148.pdf)
 
 CONVENÇÃO RELATIVA AO ESTATUTO DOS APÁTRIDAS
 
@@ -889,7 +895,7 @@ c) Um Estado federal parte na presente Convenção deverá, a pedido de qualquer
 
 ###### Artigo 42.º — Notificações efectuadas pelo Secretário-Geral das Nações Unidas
 
-**O Secretário-Geral das Nações Unidas deverá notificar todos os Estados membros das Nações Unidas, bem como os Estados não membros referidos no artigo 35.º:**
+O Secretário-Geral das Nações Unidas deverá notificar todos os Estados membros das Nações Unidas, bem como os Estados não membros referidos no artigo 35.º:
 
 a) Das assinaturas, ratificações e adesões previstas no artigo 35.º;
 
@@ -987,4 +993,4 @@ Modelo de documento de viagem
 
 Recomenda-se que o documento tenha a forma de um livrete (15 cm x 10 cm, aproximadamente) e que seja impresso de modo a que quaisquer rasuras ou alterações efectuadas por meios químicos ou outros possam facilmente detectadas e que as palavras "Convenção de 28 de Setembro de 1954" sejam repetida e continuadamente impressas em cada uma das páginas, na língua do país emissor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15200/0413204148.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15200/0413204148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15200/0413204148.pdf)

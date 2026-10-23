@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/767/1992/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-1992-283895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81de75b0598245e85e27cccf22e68458a692cb4a74610626556431b23ae1408a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91b3a46e763053b7e59752c9b1cf258e832a922055d42e036b99b6a5ee555820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,31 @@ subjects:
 - Agualva-cacém
 - Cartaxo
 - Cartório Notarial
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Criação de Serviços
 - Ponte de LIMA
 - Quadro de Pessoal
-- Conservatória do Registo Civil
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:03Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +112,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 4.º Os quadros de oficiais das repartições indicadas são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/181b00/37233723.pdf))](https://files.diariodarepublica.pt/1s/1992/08/181b00/37233723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/181b00/37233723.pdf)
 
 5.º É elevada à 2.ª classe a Conservatória dos Registos Predial e Comercial de Ponte de Lima.
 
@@ -114,6 +122,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 Ministério da Justiça.
 
-**Assinada em 15 de Julho de 1992.**
+Assinada em 15 de Julho de 1992.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

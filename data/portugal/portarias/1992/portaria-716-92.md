@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/716/1992/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/716-1992-288413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0496af3b1ab2c9b8d125f39a1090020a5e07ee1fe14205e0ac2234302e6c072e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3c1054cd752302a6e4f56bddbf2c2d0453576c54de1053c225251e1585e7270
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Aproximação das Legislações
 - CEE
 - Política Agrícola Comum
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
@@ -85,16 +85,22 @@ relationships:
   target: celex:31991L0010
   label: null
   source: http://data.europa.eu/eli/dir/1991/10/oj
+- type: corrected_by
+  target: pt:dre:275986:por
+  label: "Rectificado o preâmbulo, 3.º §, l. 2.ª pela DECL-RECT.116/92.31.07.1992.PCM, DR.IS-B [175]4ºSupl de 31.07.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/116-1992-275986
+  date: '1992-07-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:49Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +121,7 @@ Manda o Governo, pelo Ministro da Agricultura, que os anexos II, IV e V da Porta
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Junho de 1992.**
+Assinada em 16 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 

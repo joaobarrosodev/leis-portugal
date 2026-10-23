@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/107/2010/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/107-2010-341446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fc9552272941ab28301b4d905a7296a8876be260e8f3162cc3467b098da57c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e67d3729ae227ef77747a1fbd3c10a2633e7b53a4ed4104f36f01dcf18c70016
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
 subjects:
 - Carta de Condução
 - Circulação de GADO
-- Transporte Rodoviário
-- Convenção
-- Portugal
-- Veículo
-- Segurança Rodoviária
 - Condutor
-- Transporte de Mercadorias
+- Convenção
 - Equipamento de Veículo
+- Portugal
+- Segurança Rodoviária
 - Sinalização
 - Tráfego Rodoviário
 - Trânsito
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
+- Transporte Rodoviário
+- Veículo
 - Viena
 relationships:
 - type: amended_by
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 60
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:20Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +118,7 @@ Ao ratificar a Convenção sobre a Circulação Rodoviária, a República Portug
 
 Aprovada em 16 de Julho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENÇÃO SOBRE A CIRCULAÇÃO RODOVIÁRIA
 
@@ -220,19 +220,19 @@ aa) A obrigação de o condutor de um veículo «ceder passagem» a outros veíc
 
 Os anexos à presente Convenção, a saber:
 
-## Anexo n.º 1, «Excepções à obrigação de admitir em circulação internacional os veículos a motor e seus reboques»;
+Anexo n.º 1, «Excepções à obrigação de admitir em circulação internacional os veículos a motor e seus reboques»;
 
-## Anexo n.º 2, «Número de matrícula dos automóveis e dos reboques em circulação internacional»;
+Anexo n.º 2, «Número de matrícula dos automóveis e dos reboques em circulação internacional»;
 
-## Anexo n.º 3, «Sinal distintivo dos automóveis e dos reboques em circulação internacional»;
+Anexo n.º 3, «Sinal distintivo dos automóveis e dos reboques em circulação internacional»;
 
-## Anexo n.º 4, «Marcas de identificação dos automóveis e dos reboques em circulação internacional»;
+Anexo n.º 4, «Marcas de identificação dos automóveis e dos reboques em circulação internacional»;
 
-## Anexo n.º 5, «Condições técnicas relativas aos automóveis e aos reboques»;
+Anexo n.º 5, «Condições técnicas relativas aos automóveis e aos reboques»;
 
-## Anexo n.º 6, «Carta de condução nacional»;
+Anexo n.º 6, «Carta de condução nacional»;
 
-## Anexo n.º 7, «Licença de condução internacional»;
+Anexo n.º 7, «Licença de condução internacional»;
 
 constituem parte integrante da presente Convenção.
 
@@ -1500,7 +1500,7 @@ h) Autorizando a cor vermelha para os reflectores laterais e luzes laterais mais
 
 62-A - Os automóveis matriculados pela primeira vez e os reboques colocados em circulação no território de uma Parte Contratante antes da entrada em vigor da emenda a esta Convenção ou nos dois anos seguintes a essa entrada em vigor não ficarão sujeitos às disposições do presente anexo, desde que satisfaçam as disposições do anexo n.º 5 da Convenção de 1968 sobre a Circulação Rodoviária ou as outras disposições referidas no capítulo v do mesmo anexo.
 
-## APÊNDICE
+APÊNDICE
 
 Definição dos filtros coloridos para obtenção das cores previstas no presente anexo (coordenadas tricromáticas)
 
@@ -1630,22 +1630,22 @@ Modelo de página n.º 1
 
 (frente da primeira folha da capa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
 
 Modelo de página n.º 2
 
 (verso da primeira folha da capa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
 
 Modelo 3
 
 Página da esquerda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
 
 Modelo 3
 
 Página da direita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf)

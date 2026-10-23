@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/39/2011/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-2011-278209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 947e2dfa964255ea888c6d491d3f644fbf4843c220639bd869ac0c53a4cf0f7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e0dc1a79dd3c0d77a730dde6d17cd9a81e49add4bcee0544e351414c5f2b5ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política Fiscal
-- Convenção
-- Portugal
-- Fiscal
-- Contribuições e Impostos
-- Informação
 - Bermudas
+- Contribuições e Impostos
+- Convenção
+- Fiscal
+- Informação
+- Política Fiscal
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:278216:por
+  label: "Ratificado o Acordo entre a República Portuguesa e o Governo das Bermudas sobre Troca de Informações em Matéria\
+    \ Fiscal, pelo DEC.22/2011.16.03.2011.PR, DR.IS [53] de 16.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/22-2011-278216
+  date: '2011-03-16'
 - type: cites
   target: celex:31995L0046
   label: null
@@ -82,13 +88,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:20Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de Janeiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DAS BERMUDAS (CONFORME AUTORIZADO PELA CARTA DE OUTORGA DO GOVERNO DO REINO UNIDO DA GRÃ-BRETANHA E DA IRLANDA DO NORTE) SOBRE TROCA DE INFORMAÇÕES EM MATÉRIA FISCAL.
 
@@ -307,11 +313,11 @@ Feito em Paget Parish em 10 de Maio de 2010, em dois originais, nas línguas por
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 Pelo Governo das Bermudas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF BERMUDA (AS AUTHORISED BY LETTER OF ENTRUSTMENT FROM THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND) FOR THE EXCHANGE OF INFORMATION RELATING TO TAX MATTERS.
 
@@ -545,11 +551,11 @@ Done at Paget Parish on the 10-05-2010, in duplicate in the portuguese and engli
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 For the Government of Bermuda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 PROTOCOLO AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DAS BERMUDAS SOBRE TROCA DE INFORMAÇÕES EM MATÉRIA FISCAL
 
@@ -577,11 +583,11 @@ c) Com fundamento na inexistência de tributação ou de tributação nominal.
 
 Autoridade Competente para a República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 Autoridade Competente para o Governo das Bermudas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 PROTOCOL TO THE AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF BERMUDA FOR THE EXCHANGE OF INFORMATION RELATING TO TAX MATTERS
 
@@ -609,8 +615,8 @@ c) On the basis of no or nominal taxes.
 
 Competent Authority for the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
 
 Competent Authority for the Government of Bermuda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05300/0146701475.pdf)

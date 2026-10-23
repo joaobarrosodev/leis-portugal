@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(29) a 3330-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/00290029.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-u/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-u-1992-617696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 887b2b8fb7ecc2b896dbd162e666d58bf5f3c22c41791bd17344e77622403b12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed507b0d513b45bbb49fcac3ee47f20da6777726ec0094ae435cb2e041177c42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,86 @@ relationships:
   target: pt:dre:608725:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692451:por
+  label: "Alterado o nº 1 e substituida a planta anexa à presente portaria, pela PORT.1403/95.1995.11.23.MA DR.IS-B [271]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1403-1995-692451
+  date: '1995-11-23'
+- type: amended_by
+  target: pt:dre:650319:por
+  label: "Alterado o nº 1 e aditado o nº 1-A, na redacção dada pela Port 1403/95, de 23-Nov, pela PORT.947/97.1997.09.12.MADRP,\
+    \ DR.IS-B [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/947-1997-650319
+  date: '1997-09-12'
+- type: amended_by
+  target: pt:dre:172508:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pelo presente diploma na redacção da Port 1403/95,\
+    \ de 23-Nov e da Port 947/97, de 12-Set, pela PORT.1079/2002.2002.08.22.MADRP DR.IS-B [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1079-2002-172508
+  date: '2002-08-22'
+- type: amended_by
+  target: pt:dre:248255:por
+  label: "Anexados vários prédios rústicos à Zona de Caça concessionada pelo presente diploma, alterada pelas Ports. 1403/95\
+    \ de 23-Nov, 947/97 de 12-Set e renovada pela Port 1079/2002 de 22-Ago, pela PORT.757/2005.31.08.2005.MADRP, DR.IS-B [167]\
+    \ de 31.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-2005-248255
+  date: '2005-08-31'
+- type: amended_by
+  target: pt:dre:546184:por
+  label: "Anexados e desanexados vários prédios rústicos à zona de caça criada no presente diploma, com as alterações introduzidas\
+    \ pelas Port 1403/95 de 23-Nov, 947/97 de 12-set, 1079/2002 de 22-Ago e 757/2005 de 31-Ago, pela PORT.1170/2006.02.11.2006.MADRP,\
+    \ DR.IS [211] de 02.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1170-2006-546184
+  date: '2006-11-02'
+- type: amended_by
+  target: pt:dre:439155:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port 1403/95, de\
+    \ 23-Nov, pela Port 947/97, de 12-Set, pela Port 1079/2002, de 22-Ago, pela Port 757/2005, de 31-Ago e pela Port 1170/2006,\
+    \ de 02-Nov, pela PORT.1262/2008.05.11.2008.MADRP, DR.IS [215] de 05.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1262-2008-439155
+  date: '2008-11-05'
+- type: amended_by
+  target: pt:dre:608725:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela Port 1403/95,\
+    \ de 23-Nov, Port 947/97, de 12-Set, Port 1079/2002, de 22-Ago, Port 757/2005, de 31-Ago, Port 1170/2006, de 02-Nov, e\
+    \ Port 1262/2008, de 05-Nov, pela PORT.506/2009.13.05.2009.MADRP, DR.IS [92] de 13.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/506-2009-608725
+  date: '2009-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:44Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +187,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Julho de 1992.**
+Assinada em 10 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/00290029.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/00290029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00290029.pdf)

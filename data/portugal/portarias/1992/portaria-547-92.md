@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/547/1992/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/547-1992-303433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca7cb143c2b065df9a00d5c842be78ced4b7eb6bd2078813261e3b28fd1fdbf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8899fa9be57e7cd4c82a38e2c2bb4c497ca9760c1ef97187ddb6d717aefb6c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,37 @@ relationships:
   target: pt:dre:481966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:244926:por
+  label: "Corrigida a validade constante do nº 2 pela PORT.839/98.1998.10.01.MECO, DR.IS-B [227] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-1998-244926
+  date: '1998-10-01'
+- type: amended_by
+  target: pt:dre:388025:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética na zona de caça turística criada pelo presente\
+    \ diploma pela PORT.444/99.1999.06.18.MECO,DR.IS-B [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-1999-388025
+  date: '1999-06-18'
+- type: amended_by
+  target: pt:dre:692211:por
+  label: "Renovada, até 31 de Dezembro de 2005, a concessão da zona de caça turística prevista pelo presente diploma, pela\
+    \ PORT.945/99.1999.10.27.MECO, DR.IS-B [251]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/945-1999-692211
+  date: '1999-10-27'
+- type: amended_by
+  target: pt:dre:541789:por
+  label: "Renovada por seis anos a concessão de zona de caça atribuída pelo presente diploma, com a redacção conferida na\
+    \ Port 839/98 de 01-Out e a renovação efectuada pela Port 945/99 de 27-Out, pela PORT.1053/2006.22.09.2006.MAOTDR, DR.IS\
+    \ [184] de 22.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1053-2006-541789
+  date: '2006-09-22'
+- type: amended_by
+  target: pt:dre:481966:por
+  label: "Transferida para a FAIMGER - Fomento Agro-Industrial e Mercados, S. A., a zona de caça atribuída pelo presente diploma,\
+    \ alterada pela Port 839/98, de 01-Out, pela Port 945/99, de 27-Out e pela Port 1053/2006, de 22-Set, pela PORT.1422/2009.17.12.2009.MADRP,\
+    \ DR.IS [243] de 17.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1422-2009-481966
+  date: '2009-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
@@ -83,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/238/1991/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/238/1991/03/23/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:46Z'
   warnings: []
   errors: []
 ---
@@ -131,8 +186,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/142b00/29452946.pdf))](https://files.diariodarepublica.pt/1s/1992/06/142b00/29452946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/142b00/29452946.pdf)

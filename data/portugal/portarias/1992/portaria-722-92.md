@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722/1992/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1992-300260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b263bcec0d730a126be63b63e99f0b8e578150715818bf2f0f715d56eac031e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68d6a935d0bce86ba9bea163f7776db1d27607bde65597cc57afdda19f253187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
 - Controlo de Qualidade
-- Plano de Estudos
 - Curso de Técnico de Controlo de Qualidade
 - Curso de Técnico de Ensaios não Destrutivos
 - Curso de Técnico de Gestão da Qualidade
 - Curso de Técnico de Laboratório
 - Curso de Técnico de Metrologia
 - Curso de Técnico de Qualidade
+- Formação Profissional
+- Plano de Estudos
 - Política de Emprego
 - Regulamento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:56Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +116,7 @@ b) Cursos de especialização.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 7 de Abril de 1992.**
+Assinada em 7 de Abril de 1992.
 
 Pelo Ministro da Educação, Manuel Joaquim Pinho Moreira de Azevedo, Secretário de Estado dos Ensinos Básico e Secundário. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
 
@@ -392,12 +400,12 @@ XIII - Disposições finais e transitórias
 
 ## ANEXO I — Área profissional: qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf))](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf)
 
 ## ANEXO II — Curso de técnico da qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf))](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf)
 
 ## ANEXO III — Cursos de especialização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf))](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/160b00/33013313.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/100/2011/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/100-2011-287087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aabe38080fb62d2c4766075d08b4d3ff37755952f1790ace3da682eb95123b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c822e325139684f131478bb7cb02c3e2687db299f6cf3993d27fed616dd2e85d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
 subjects:
 - ACTO Ilícito
 - Convenção
-- Portugal
-- Plataforma Continental
 - Londres
-- Terrorismo
 - Navegação Marítima
-relationships: []
+- Plataforma Continental
+- Portugal
+- Terrorismo
+relationships:
+- type: amended_by
+  target: pt:dre:287086:por
+  label: "Ratificado o Protocolo de 2005 Relativo ao Protocolo para a Supressão de Actos Ilícitos contra a Segurança das Plataformas\
+    \ Fixas Localizadas na Plataforma Continental, pelo DEC.48/2011.04.05.2011.PR, DR.IS [86] de 04.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/48-2011-287086
+  date: '2011-05-04'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:27:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Março de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOL OF 2005 TO THE PROTOCOL FOR THE SUPPRESSION OF UNLAWFUL ACTS AGAINST THE SAFETY OF FIXED PLATFORMS LOCATED ON THE CONTINENTAL SHELF
 
@@ -286,7 +292,7 @@ Done at London this fourteenth day of October two thousand and five.
 
 In witness whereof the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08600/0252802533.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08600/0252802533.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08600/0252802533.pdf)
 
 PROTOCOLO DE 2005 RELATIVO AO PROTOCOLO PARA A SUPRESSÃO DE ACTOS ILÍCITOS CONTRA A SEGURANÇA DAS PLATAFORMAS FIXAS LOCALIZADAS NA PLATAFORMA CONTINENTAL.
 

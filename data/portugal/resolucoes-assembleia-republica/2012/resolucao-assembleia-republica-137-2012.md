@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/137/2012/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/137-2012-191115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49819a26b50c040e4f5407a9057b82475bca096273b7cc189d1a1b1f79fef9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f42d665ea4dbfacec4e399b12a36a5e20978827b34c2a47f59397c1d329a0128
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
+- Acto de Adesão
+- Áustria
 - Bélgica
+- Bruxelas
 - Bulgária
 - CECA
+- Chipre
 - Convenção
-- Irlanda
-- Portugal
+- Croácia
 - Dinamarca
-- Tratado de Adesão à União Europeia
+- Eslováquia
 - Eslovénia
 - Espanha
-- Finlândia
-- Acto de Adesão
-- RFA
+- Estónia
 - Euratom
-- Áustria
+- Finlândia
+- França
+- Grécia
 - Hungria
-- Polónia
-- República Checa
+- Irlanda
+- Itália
 - Letónia
+- Lituânia
+- Luxemburgo
+- Malta
 - Países Baixos
+- Polónia
+- Portugal
+- Reino Unido
+- República Checa
+- RFA
 - Suécia
 - Tratado CEE
 - Tratado da União Europeia
-- Bruxelas
-- Chipre
-- Eslováquia
-- Estónia
-- França
-- Grécia
-- Itália
-- Luxemburgo
-- Malta
-- Lituânia
-- Croácia
+- Tratado de Adesão à União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:191112:por
+  label: "Ratificado o Tratado entre os Estados membros da União Europeia e a República da Croácia Relativo à Adesão da República\
+    \ da Croácia à União Europeia, pelo DEC.162/2012.14.11.2012.PR, DR.IS [220] de 14.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/162-2012-191112
+  date: '2012-11-14'
 - type: cites
   target: celex:31968R0259
   label: null
@@ -159,15 +165,15 @@ relationships:
   label: null
   source: http://data.europa.eu/el
 article_structure:
-  article_count: 66
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 64
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:42Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +186,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de setembro de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 TRATADO ENTRE O REINO DA BÉLGICA, A REPÚBLICA DA BULGÁRIA, A REPÚBLICA CHECA, O REINO DA DINAMARCA, A REPÚBLICA FEDERAL DA ALEMANHA, A REPÚBLICA DA ESTÓNIA, A IRLANDA, A REPÚBLICA HELÉNICA, O REINO DE ESPANHA, A REPÚBLICA FRANCESA, A REPÚBLICA ITALIANA, A REPÚBLICA DE CHIPRE, A REPÚBLICA DA LETÓNIA, A REPÚBLICA DA LITUÂNIA, O GRÃO-DUCADO DO LUXEMBURGO, A REPÚBLICA DA HUNGRIA, A REPÚBLICA DE MALTA, O REINO DOS PAÍSES BAIXOS, A REPÚBLICA DA ÁUSTRIA, A REPÚBLICA DA POLÓNIA, A REPÚBLICA PORTUGUESA, A ROMÉNIA, A REPÚBLICA DA ESLOVÉNIA, A REPÚBLICA ESLOVACA, A REPÚBLICA DA FINLÂNDIA, O REINO DA SUÉCIA E O REINO UNIDO DA GRÃ-BRETANHA E DA IRLANDA DO NORTE (ESTADOS MEMBROS DA UNIÃO EUROPEIA) E A REPÚBLICA DA CROÁCIA RELATIVO À ADESÃO DA REPÚBLICA DA CROÁCIA À UNIÃO EUROPEIA.
 
@@ -200,59 +206,59 @@ acordaram nas condições da adesão e nas adaptações a introduzir no Tratado 
 
 Sua Majestade o Rei dos Belgas, Elio Di Rupo, Primeiro-Ministro;
 
-**O Presidente da República da Bulgária, Boyko Borissov, Primeiro-Ministro;**
+O Presidente da República da Bulgária, Boyko Borissov, Primeiro-Ministro;
 
-**O Presidente da República Checa, Petr Necas, Primeiro-Ministro;**
+O Presidente da República Checa, Petr Necas, Primeiro-Ministro;
 
 Sua Majestade a Rainha da Dinamarca, Helle Thorning-Schmidt, Primeiro-Ministro;
 
-**O Presidente da República Federal da Alemanha, Angela Merkel, Chanceler;**
+O Presidente da República Federal da Alemanha, Angela Merkel, Chanceler;
 
-**O Presidente da República da Estónia, Andrus Ansip, Primeiro-Ministro;**
+O Presidente da República da Estónia, Andrus Ansip, Primeiro-Ministro;
 
-**O Presidente da Irlanda, Enda Kenny, Primeiro-Ministro (Taoiseach);**
+O Presidente da Irlanda, Enda Kenny, Primeiro-Ministro (Taoiseach);
 
-**O Presidente da República Helénica, Lucas Papademos, Primeiro-Ministro;**
+O Presidente da República Helénica, Lucas Papademos, Primeiro-Ministro;
 
 Sua Majestade o Rei de Espanha, José Luis Rodríguez Zapatero, Presidente do Governo;
 
-**O Presidente da República Francesa, Jean Leonetti, Ministro dos Assuntos Europeus;**
+O Presidente da República Francesa, Jean Leonetti, Ministro dos Assuntos Europeus;
 
 A República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Presidente;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Presidente;
 
 Jadranka Kosor, Primeiro-Ministro;
 
-**O Presidente da República Italiana, Mario Monti, Presidente do Conselho de Ministros;**
+O Presidente da República Italiana, Mario Monti, Presidente do Conselho de Ministros;
 
-**O Presidente da República de Chipre, Demetris Christofias, Presidente;**
+O Presidente da República de Chipre, Demetris Christofias, Presidente;
 
-**O Presidente da República da Letónia, Valdis Dombrovskis, Primeiro-Ministro;**
+O Presidente da República da Letónia, Valdis Dombrovskis, Primeiro-Ministro;
 
-**A Presidente da República da Lituânia, [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Presidente;**
+A Presidente da República da Lituânia, [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Presidente;
 
 Sua Alteza Real o Grão-Duque do Luxemburgo, JeanClaude Juncker, Primeiro-Ministro, Ministro de Estado;
 
-**O Presidente da República da Hungria, Viktor Orbán, Primeiro-Ministro;**
+O Presidente da República da Hungria, Viktor Orbán, Primeiro-Ministro;
 
-**O Presidente de Malta, Lawrence Gonzi, Primeiro-Ministro;**
+O Presidente de Malta, Lawrence Gonzi, Primeiro-Ministro;
 
 Sua Majestade a Rainha dos Países Baixos, Mark Rutte, Primeiro-Ministro, Ministro dos Assuntos Gerais;
 
-**O Presidente Federal da República da Áustria, Werner Faymann, Chanceler Federal;**
+O Presidente Federal da República da Áustria, Werner Faymann, Chanceler Federal;
 
-**O Presidente da República da Polónia, Donald Tusk, Primeiro-Ministro;**
+O Presidente da República da Polónia, Donald Tusk, Primeiro-Ministro;
 
-**O Presidente da República Portuguesa, Pedro Passos Coelho, Primeiro-Ministro;**
+O Presidente da República Portuguesa, Pedro Passos Coelho, Primeiro-Ministro;
 
-**O Presidente da Roménia, [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Presidente;**
+O Presidente da Roménia, [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Presidente;
 
-**O Presidente da República da Eslovénia, Borut Pahor, Presidente do Governo;**
+O Presidente da República da Eslovénia, Borut Pahor, Presidente do Governo;
 
-**O Presidente da República Eslovaca, Iveta Radicova, Primeira-Ministra;**
+O Presidente da República Eslovaca, Iveta Radicova, Primeira-Ministra;
 
-**A Presidente da República da Finlândia, Jyrki Katainen, Primeiro-Ministro;**
+A Presidente da República da Finlândia, Jyrki Katainen, Primeiro-Ministro;
 
 O Governo do Reino da Suécia, Fredrik Reinfeldt, Primeiro-Ministro;
 
@@ -294,7 +300,7 @@ Em fé do que, os plenipotenciários abaixo assinados apuseram as suas assinatur
 
 ACTO RELATIVO ÀS CONDIÇÕES DE ADESÃO DA REPÚBLICA DA CROÁCIA E ÀS ADAPTAÇÕES DO TRATADO DA UNIÃO EUROPEIA, DO TRATADO SOBRE O FUNCIONAMENTO DA UNIÃO EUROPEIA E DO TRATADO QUE INSTITUI A COMUNIDADE EUROPEIA DA ENERGIA ATÓMICA.
 
-# PARTE I — Os princípios
+## PARTE I — Os princípios
 
 ###### Artigo 1.º
 
@@ -408,7 +414,7 @@ A Croácia deve tomar todas as medidas necessárias para garantir o cumprimento 
 
 A aplicação dos tratados originários e dos actos adoptados pelas Instituições fica sujeita, a título transitório, às disposições derrogatórias previstas no presente Acto.
 
-# PARTE II — Adaptações dos Tratados
+## PARTE II — Adaptações dos Tratados
 
 ## TÍTULO I — Disposições institucionais
 
@@ -498,7 +504,7 @@ O artigo 52.º, n.º 1, do TUE passa a ter a seguinte redacção:
 
 «Por força dos tratados de adesão, fazem igualmente fé as versões do presente Tratado nas línguas búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, grega, húngara, inglesa, irlandesa, letã, lituana, maltesa, polaca, portuguesa, romena e sueca.»
 
-# PARTE III — Disposições permanentes
+## PARTE III — Disposições permanentes
 
 ###### Artigo 15.º
 
@@ -512,7 +518,7 @@ As medidas enumeradas no anexo iv devem ser aplicadas nas condições previstas 
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu, pode proceder às adaptações das disposições constantes do presente Acto relativas à política agrícola comum que se revelem necessárias em consequência de alterações da regulamentação da União.
 
-# PARTE IV — Disposições temporárias
+## PARTE IV — Disposições temporárias
 
 ## TÍTULO I — Medidas transitórias
 
@@ -822,7 +828,7 @@ Se a decisão da Comissão de renunciar ao controlo ex ante não tiver sido adop
 
 2 - Para o período de 1 de Julho de 2013 a 31 de Dezembro de 2014, são disponibilizados os seguintes montantes (a preços correntes) à Croácia sob a forma de pagamentos de montante fixo ao abrigo do mecanismo temporário financeiro Schengen:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 3 - O montante anual para 2013 deve ser pago à Croácia em 1 de Julho de 2013 e o montante anual para 2014 é disponibilizado no primeiro dia útil depois de 1 de Janeiro de 2014.
 
@@ -836,7 +842,7 @@ Se a decisão da Comissão de renunciar ao controlo ex ante não tiver sido adop
 
 2 - Para o período de 1 de Julho de 2013 a 31 de Dezembro de 2014, são disponibilizados os seguintes montantes (a preços correntes) à Croácia sob a forma de pagamentos de montante fixo ao abrigo do mecanismo temporário de fluxos financeiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 3 - Cada montante anual é dividido em prestações mensais iguais, que devem ser pagas no primeiro dia útil de cada mês.
 
@@ -948,7 +954,7 @@ b) Se pode renunciar à exigência de declaração sumária de entrada relativam
 
 A Comissão pode tomar todas as medidas adequadas para assegurar que o pessoal estatutário necessário seja mantido na Croácia durante um período máximo de 18 meses a contar da adesão. Durante este período, os funcionários, os agentes temporários e os agentes contratuais colocados na Croácia antes da adesão e a quem seja solicitado que permaneçam em serviço nesse país após a data da adesão beneficiarão das mesmas condições financeiras e materiais aplicadas antes da adesão, nos termos do Estatuto dos Funcionários das Comunidades Europeias e do Regime aplicável aos outros agentes destas Comunidades, fixado no Regulamento (CEE, Euratom, CECA) n.º [259/68](http://data.europa.eu/eli/reg/1968/259/oj?locale=pt), do Conselho (JO, n.º L 56, de 4 de Março de 1968, p. 1). As despesas administrativas, incluindo os salários do restante pessoal necessário, serão cobertas pelo orçamento geral da União Europeia.
 
-# PARTE V — Disposições relativas à aplicação do presente Acto
+## PARTE V — Disposições relativas à aplicação do presente Acto
 
 ## TÍTULO I — Adaptações dos regulamentos internos das instituições e dos estatutos e regulamentos internos dos comités
 
@@ -1004,9 +1010,9 @@ Os textos dos tratados a que se refere o primeiro parágrafo, redigidos em líng
 
 ###### Artigo 55.º
 
-**O Secretário-Geral do Conselho remete ao Governo da República da Croácia uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho.**
+O Secretário-Geral do Conselho remete ao Governo da República da Croácia uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 ## ANEXO I — Lista de convenções e protocolos a que a República da Croácia adere no momento da adesão
 
@@ -1048,7 +1054,7 @@ Lista das disposições do acervo de Schengen integrado no âmbito da União Eur
 
 2 - As disposições seguintes da Convenção de Aplicação do Acordo de Schengen, de 14 de Junho de 1985, relativo à supressão gradual dos controlos nas fronteiras comuns, assinada em Schengen em 19 de Junho de 1990, a respectiva Acta Final e declarações comuns (JO, n.º L 239, de 22 de Setembro de 2000, p. 19), alteradas por alguns dos actos enumerados no ponto 8 do presente anexo:
 
-###### Artigo 1.º, na medida em que se refira às disposições do presente número, artigo 26.º, artigo 39.º, artigos 44.º a 49.º (com excepção do artigo 47.º, n.º 4) e do artigo 49.º, alínea a), artigo 51.º, artigos 54.º a 58.º, artigo 62.º, n.º 3, artigos 67.º a 69.º, artigos 71.º e 72.º, artigos 75.º e 76.º, artigo 82.º, artigo 91.º, artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número, e artigo 136.º; Declarações Comuns 1 e 3 da Acta Final.
+Artigo 1.º, na medida em que se refira às disposições do presente número, artigo 26.º, artigo 39.º, artigos 44.º a 49.º (com excepção do artigo 47.º, n.º 4) e do artigo 49.º, alínea a), artigo 51.º, artigos 54.º a 58.º, artigo 62.º, n.º 3, artigos 67.º a 69.º, artigos 71.º e 72.º, artigos 75.º e 76.º, artigo 82.º, artigo 91.º, artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número, e artigo 136.º; Declarações Comuns 1 e 3 da Acta Final.
 
 3 - As disposições seguintes dos Acordos de Adesão à Convenção de Aplicação do Acordo de Schengen, de 14 de Junho de 1985, relativo à supressão gradual dos controlos nas fronteiras comuns, assinada em Schengen em 19 de Junho de 1990, as respectivas actas finais e as declarações que as acompanham, alteradas por alguns dos actos enumerados no ponto 8 do presente anexo:
 
@@ -1060,7 +1066,7 @@ b) Acordo assinado em 19 de Dezembro de 1996 relativo à adesão da República d
 
 - Artigo 5.º;
 
-- Declaração do Governo da República da Finlândia sobre as Ilhas [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) na parte iii da Acta Final;
+- Declaração do Governo da República da Finlândia sobre as Ilhas [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) na parte iii da Acta Final;
 
 c) Acordo assinado em 19 de Dezembro de 1996 relativo à adesão do Reino da Suécia:
 
@@ -1234,7 +1240,7 @@ b) É inserido o seguinte artigo:
 
 «Artigo 43.º-B
 
-Os direitos adquiridos em relação aos títulos de parteira não são aplicáveis aos seguintes títulos obtidos na Croácia antes de 1 de Julho de 2013: [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira de nível superior especializada em ginecologia e obstetrícia), [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira especializada em ginecologia e obstetrícia), [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira de nível superior com diploma de parteira), [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira com diploma de parteira), [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (parteira com formação em ginecologia e obstetrícia) e [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (parteira).»
+Os direitos adquiridos em relação aos títulos de parteira não são aplicáveis aos seguintes títulos obtidos na Croácia antes de 1 de Julho de 2013: [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira de nível superior especializada em ginecologia e obstetrícia), [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira especializada em ginecologia e obstetrícia), [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira de nível superior com diploma de parteira), [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (enfermeira com diploma de parteira), [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (parteira com formação em ginecologia e obstetrícia) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (parteira).»
 
 2 - Direito de propriedade intelectual
 
@@ -1318,15 +1324,15 @@ d) O anexo vi é substituído pelo seguinte:
 
 (a partir da campanha de comercialização de 2010-2011)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 e) No anexo ix, ponto 1, após a entrada relativa à França, é inserido o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 f) No anexo ix, ponto 2, o quadro é substituído pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 g) No anexo x, após a entrada relativa à França, é inserido o seguinte:
 
@@ -1334,11 +1340,11 @@ g) No anexo x, após a entrada relativa à França, é inserido o seguinte:
 
 h) Ao anexo x-B é aditado o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 i) Ao n.º 2 do apêndice ao anexo xi-B é aditado o seguinte:
 
-«h) Na Croácia, as superfícies plantadas com vinha das seguintes sub-regiões: Moslavina, Prigorje-Bilogora, [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Pokuplje e [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf).»
+«h) Na Croácia, as superfícies plantadas com vinha das seguintes sub-regiões: Moslavina, Prigorje-Bilogora, [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf), Pokuplje e [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf).»
 
 j) Ao n.º 3 do apêndice ao anexo xi-B é aditado o seguinte:
 
@@ -1346,7 +1352,7 @@ j) Ao n.º 3 do apêndice ao anexo xi-B é aditado o seguinte:
 
 k) Ao n.º 4 do apêndice ao anexo xi-B é aditado o seguinte:
 
-«g) Na Croácia, as superfícies plantadas com vinha das seguintes sub-regiões: Hrvatska Istra, Hrvatsko primorje, Dalmatinska zagora, Sjeverna Dalmacija e [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf).»
+«g) Na Croácia, as superfícies plantadas com vinha das seguintes sub-regiões: Hrvatska Istra, Hrvatsko primorje, Dalmatinska zagora, Sjeverna Dalmacija e [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf).»
 
 3 - 32008 R 0110: Regulamento (CE) n.º [110/2008](http://data.europa.eu/eli/reg/2008/110/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de Janeiro, relativo à definição, designação, apresentação, rotulagem e protecção das indicações geográficas das bebidas espirituosas e que revoga o Regulamento (CEE) n.º [1576/89](http://data.europa.eu/eli/reg/1989/1576/oj?locale=pt), do Conselho (JO, n.º L 39, de 13 de Fevereiro de 2008, p. 16).
 
@@ -1356,19 +1362,19 @@ a) Ao artigo 20.º é aditado o seguinte número:
 
 b) No anexo iii, ponto 9, são aditadas as seguintes indicações geográficas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 c) No anexo iii, ponto 32, é aditada a seguinte indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 d) No anexo iii é inserido o seguinte ponto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 e) No anexo iii, na categoria «Outras bebidas espirituosas» é aditada a seguinte indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 4 - 32009 R 0073: Regulamento (CE) n.º [73/2009](http://data.europa.eu/eli/reg/2009/73/oj?locale=pt), do Conselho, de 19 de Janeiro, que estabelece regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio aos agricultores, que altera os Regulamentos (CE) n.º [1290/2005](http://data.europa.eu/eli/reg/2005/1290/oj?locale=pt), (CE) n.º [247/2006](http://data.europa.eu/eli/reg/2006/247/oj?locale=pt) e (CE) n.º [378/2007](http://data.europa.eu/eli/reg/2007/378/oj?locale=pt), e revoga o Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt) (JO, n.º L 30, de 31 de Janeiro de 2009, p. 16).
 
@@ -1434,7 +1440,7 @@ Reserva nacional especial para a desminagem na Croácia
 
 4 - O montante máximo atribuído à reserva nacional especial para a desminagem é de 9 600 000 EUR e está sujeito ao calendário de introdução dos pagamentos directos estabelecido no artigo 121.º Os montantes máximos anuais são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 5 - No primeiro ano de aplicação do regime de pagamento único, a Croácia atribui os direitos ao pagamento aos agricultores com base nos terrenos que tenham sido desminados e declarados pelos agricultores nos pedidos de ajudas apresentados no primeiro ano de aplicação do regime de pagamento único e convertidos em terrenos agrícolas entre 1 de Janeiro de 2005 e 31 de Dezembro de 2012.
 
@@ -1468,7 +1474,7 @@ r) O artigo 104.º, n.º 4, é substituído pelo seguinte:
 
 4 - São aplicáveis os limites máximos nacionais a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 s) No artigo 112.º, n.º 5, após a entrada relativa à França, é inserido o seguinte:
 
@@ -1544,7 +1550,7 @@ w) Ao anexo viii, é aditado o seguinte quadro:
 
 «QUADRO 3 (*)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 (*) Limites máximos tendo em conta o calendário de aumentos previsto no artigo 121.º»
 
@@ -1556,13 +1562,13 @@ Ao anexo i são aditados os seguintes pontos:
 
 «11 - Faixa costeira da Croácia (*):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 (*) O regime acima referido é aplicável a partir da plena execução da decisão arbitral decorrente da Convenção de Arbitragem entre o Governo da República da Eslovénia e o Governo da República da Croácia, assinada em Estocolmo a 4 de Novembro de 2009.
 
 12 - Faixa costeira da Eslovénia (*):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 (*) O regime acima referido é aplicável a partir da plena execução da decisão arbitral decorrente da Convenção de Arbitragem entre o Governo da República da Eslovénia e o Governo da República da Croácia, assinada em Estocolmo a 4 de Novembro de 2009.»
 
@@ -1586,7 +1592,7 @@ d) No artigo 53.º, n.º 9, o primeiro parágrafo passa a ter a seguinte redacç
 
 e) No anexo ii, alínea a), o quadro é substituído pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 f) No anexo ii, alínea a), o segundo parágrafo do subtítulo «Grupo 2» passa a ter a seguinte redacção:
 
@@ -1832,7 +1838,7 @@ z-B) O anexo i passa a ter a seguinte redacção:
 
 (a que se refere o artigo 18.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 z-C) O anexo ii é alterado do seguinte modo:
 
@@ -1856,7 +1862,7 @@ z-D) O anexo iii passa a ter a seguinte redacção:
 
 (referidos no artigo 53.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 2 - 32006 R 1084: Regulamento (CE) n.º [1084/2006](http://data.europa.eu/eli/reg/2006/1084/oj?locale=pt), do Conselho, de 11 de Julho, que institui o Fundo de Coesão e que revoga o Regulamento (CE) n.º [1164/94](http://data.europa.eu/eli/reg/1994/1164/oj?locale=pt) (JO, n.º L 210, de 31 de Julho de 2006, p. 79).
 
@@ -2114,13 +2120,13 @@ Outras disposições
 
 - O reembolso e a dispensa de pagamento dos direitos são efectuados nas condições previstas na legislação da União. Todavia, nos casos em que os direitos cujo reembolso ou dispensa de pagamento se solicita se refiram a uma dívida aduaneira constituída antes da data da adesão, o reembolso e a dispensa de pagamento dos direitos são efectuados pela Croácia, a suas expensas e nas condições nela em vigor antes da adesão.
 
-## APÊNDICE
+APÊNDICE
 
 Lista das medidas de auxílio existentes a que se refere o n.º 1, alínea b), do mecanismo de auxílio existente previsto na secção 2 («Política de concorrência»)
 
 Nota. - As medidas de auxílio enumeradas no presente apêndice apenas devem ser consideradas auxílios existentes para efeitos de aplicação do mecanismo de auxílio existente previsto na secção 2, na medida em que sejam efectivamente abrangidas pelo âmbito de aplicação do seu n.º 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 ## ANEXO V — Lista a que se refere o artigo 18.º do Acto de Adesão: Medidas transitórias
 
@@ -2192,11 +2198,11 @@ A lista dos sectores de serviços que podem estar abrangidos por esta derrogaç�
 
 - Na Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 - Na Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 Na medida em que a Alemanha ou a Áustria prevejam derrogações ao artigo 56.º, primeiro parágrafo, do TFUE, nos termos dos primeiro e segundo parágrafos do presente ponto, a Croácia pode, após notificação da Comissão, adoptar medidas equivalentes.
 
@@ -2226,7 +2232,7 @@ I - Medidas transitórias para a Croácia
 
 1 - 32001 L 0113: Directiva n.º [2001/113/CE](http://data.europa.eu/eli/dir/2001/113/oj?locale=pt), do Conselho, de 20 de Dezembro, relativa aos doces e geleias de frutos, citrinadas e creme de castanha destinados à alimentação humana (JO, n.º L 10, de 12 de Janeiro de 2002, p. 67).
 
-Em derrogação da obrigação estabelecida no artigo 8.º, a comercialização de produtos com a denominação «[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)» e «[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)» é autorizada no mercado croata até acabarem as existências disponíveis à data da adesão.
+Em derrogação da obrigação estabelecida no artigo 8.º, a comercialização de produtos com a denominação «[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)» e «[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)» é autorizada no mercado croata até acabarem as existências disponíveis à data da adesão.
 
 2 - 32006 R 0510: Regulamento (CE) n.º [510/2006](http://data.europa.eu/eli/reg/2006/510/oj?locale=pt), do Conselho, de 20 de Março, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios (JO, n.º L 93, de 31 de Março de 2006, p. 12, e JO, n.º L 335 M, de 13 de Dezembro de 2008, p. 213).
 
@@ -2260,7 +2266,9 @@ b) A seguir ao capítulo i, no título v do Regulamento (CE) n.º [73/2009](http
 
 Regime de pagamento único
 
-###### Artigo 121.º-A — Regime de pagamento único na Croácia
+Artigo 121.º-A
+
+Regime de pagamento único na Croácia
 
 No que se refere à Croácia, a aplicação dos artigos 4.º, 5.º, 23.º, 24.º e 25.º, na medida em que digam respeito aos requisitos legais de gestão, é facultativa até 31 de Dezembro de 2013. A partir de 1 de Janeiro de 2014, qualquer agricultor que beneficie de pagamentos ao abrigo do regime de pagamento único por superfície na Croácia deve respeitar os requisitos legais de gestão referidos no anexo ii, de acordo com o seguinte calendário:
 
@@ -2570,7 +2578,7 @@ Em derrogação dos artigos 3.º, 4.º, 5.º, 6.º e 7.º, os requisitos relativ
 
 a) Até 31 de Dezembro de 2018, deve ser alcançada a conformidade com a directiva nas aglomerações com um equivalente de população superior a 15 000, excepto nas seguintes aglomerações costeiras:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 b) Até 31 de Dezembro de 2020, deve ser alcançada a conformidade com a directiva nas aglomerações com um equivalente de população superior a 10 000 cujas águas residuais sejam lançadas em zonas sensíveis, bem como em relação às estações de tratamento de águas residuais urbanas que se encontrem situadas nas zonas relevantes de captação do Danúbio e de outras zonas sensíveis e contribuam para a poluição dessas zonas e nas 11 aglomerações costeiras enumeradas na alínea a).
 
@@ -2580,7 +2588,7 @@ c) Até 31 de Dezembro de 2023, deve ser alcançada a conformidade com a directi
 
 A título de derrogação, os parâmetros microbiológicos e os parâmetros indicadores estabelecidos, respectivamente, nas partes A e C do anexo i são aplicáveis na Croácia no que se refere às seguintes zonas de abastecimento de água a partir de 1 de Janeiro de 2019:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 V - Prevenção e controlo integrados da poluição (PCIP)
 
@@ -2590,25 +2598,25 @@ a) Em derrogação do artigo 5.º e dos anexos ii-A e ii-B, os valores-limite de
 
 i) A partir de 1 de Janeiro de 2014:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 ii) A partir de 1 de Janeiro de 2015:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 iii) A partir de 1 de Janeiro de 2016:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 b) Em derrogação do artigo 5.º, n.º 3, alínea b), a obrigação que cabe ao operador de comprovar a contento das autoridades competentes, que estão a ser utilizadas as melhores técnicas disponíveis é aplicável aos processos de revestimento na construção naval no tocante às seguintes instalações na Croácia a partir de 1 de Janeiro de 2016:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 2 - 32001 L 0080: Directiva n.º [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de Outubro, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão (JO, n.º L 309, de 27 de Novembro de 2001, p. 1).
 
 Em derrogação do artigo 4.º, n.os 1 e 3, os valores-limite de emissão para o dióxido de enxofre, os óxidos de azoto e as poeiras são aplicáveis na Croácia às seguintes instalações a partir de 1 de Janeiro de 2018:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 3 - 32008 L 0001: Directiva n.º [2008/1/CE](http://data.europa.eu/eli/dir/2008/1/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de Janeiro, relativa à prevenção e controlo integrados da poluição (texto codificado) (JO, n.º L 24, de 29 de Janeiro de 2008, p. 8).
 
@@ -2616,27 +2624,27 @@ Em derrogação do artigo 5.º, n.º 1, os requisitos em matéria de licenciamen
 
 a) A partir de 1 de Janeiro de 2014:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 b) A partir de 1 de Janeiro de 2015:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 c) A partir de 1 de Julho de 2015:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (matadouro: animais ungulados, corte e transformação de carne e fabrico de produtos transformados de aves de capoeira e animais ungulados e armazenamento de carne), actividade PCIP 6.4.a;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (matadouro: animais ungulados, corte e transformação de carne e fabrico de produtos transformados de aves de capoeira e animais ungulados e armazenamento de carne), actividade PCIP 6.4.a;
 
 d) A partir de 1 de Janeiro de 2016:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 e) A partir de 1 de Janeiro de 2017:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 f) A partir de 1 de Janeiro de 2018:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf)
 
 VI - Produtos químicos
 
@@ -2648,7 +2656,7 @@ b) Os artigos 6.º, 7.º, 9.º, 17.º, 18.º e 33.º não são aplicáveis na Cr
 
 c) Em derrogação das disposições transitórias especificadas para qualquer substância incluída no anexo xiv, se o prazo-limite terminar antes da data de adesão ou menos de seis meses após essa data, é concedido aos requerentes estabelecidos na Croácia um período de adaptação de seis meses a contar da data de adesão findo o qual os pedidos de autorização devem ter sido recebidos.
 
-## APÊNDICE
+APÊNDICE
 
 Lista (*), fornecida pela Croácia, de medicamentos em relação aos quais as autorizações de comercialização emitidas ao abrigo da legislação croata antes da data da adesão permanecem válidas até serem renovadas em conformidade com o acervo da União ou até 30 de Junho de 2017, consoante o que ocorrer em primeiro lugar.
 
@@ -2736,15 +2744,15 @@ Compromissos assumidos pela República da Croácia no domínio da reestruturaç�
 
 As empresas de construção naval que devem ser reestruturadas (a seguir designadas «empresas») são as seguintes:
 
-- [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «3. MAJ»);
+- [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «3. MAJ»);
 
-- [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «Brodotrogir»);
+- [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «Brodotrogir»);
 
-- [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «Brodosplit»);
+- [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «Brodosplit»);
 
-- [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «BSO»);
+- [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «BSO»);
 
-- [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «Kraljevica»).
+- [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22000/0656206615.pdf) (a seguir designada «Kraljevica»).
 
 A Croácia acordou em realizar a reestruturação destas empresas através da sua privatização, com base num processo de concurso público competitivo. Os planos de reestruturação destas empresas foram apresentados pelos proponentes e aceites pela Agência de Concorrência croata e pela Comissão. Os planos de reestruturação serão incorporados nos contratos de privatização respectivos a celebrar entre a Croácia e os compradores das empresas.
 
@@ -2826,7 +2834,7 @@ Salientando que qualquer transferência desse tipo terá de ser compensada pela 
 
 acordaram no seguinte:
 
-# PARTE I — Transferência
+## PARTE I — Transferência
 
 ###### Artigo 1.º
 
@@ -2848,7 +2856,7 @@ As unidades de quantidade atribuída a transferir são retiradas da quantidade d
 
 As transferências não devem exceder uma quantidade total de 7 000 000 de unidades de quantidade atribuída.
 
-# PARTE II — Compensação
+## PARTE II — Compensação
 
 ###### Artigo 4.º
 

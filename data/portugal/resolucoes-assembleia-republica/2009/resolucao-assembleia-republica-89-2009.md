@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/89/2009/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/89-2009-489715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e153d44fbc3c363db833de74e1ef9696b3b166c6d73c4dd47b2b4b65fbb436e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69e9e068f5b6960d205f4ff4a820ad1fd8c09f5fbd74b0d70a282df96e4617e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Meteorologia
-- Convenção
 - Centro Europeu de Previsão do Tempo a Médio Prazo
+- Convenção
+- Meteorologia
 - Reading
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:489705:por
+  label: "Ratificadas as Emendas à Convenção Relativa à Criação do Centro Europeu de Previsão do Tempo a Médio Prazo e a Emenda\
+    \ ao Protocolo sobre Privilégios e Imunidades do Centro Europeu de Previsão do Tempo a Médio Prazo, ( a Convenção foi\
+    \ aprovada para ratificação pelo Dec 423/75, de 11 de Agosto) pelo DEC.92/2009.15.09.2009.PR, DR.IS [179] de 15.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/92-2009-489705
+  date: '2009-09-15'
 article_structure:
-  article_count: 125
+  article_count: 40
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:51Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de Julho de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 AMENDED CONVENTION ESTABLISHING THE EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS
 
@@ -586,7 +594,7 @@ Provisional scale of contributions
 
 The scale given below is intended exclusively for the purposes of implementing article 22(2) of the Convention. It in no way prejudices any decisions to be taken by the Council pursuant to article 13(1) of the Convention, concerning future scales of contributions.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
 
 AMENDING PROTOCOL
 
@@ -1198,7 +1206,7 @@ This Protocol shall be interpreted in the light of its primary objective of enab
 
 Signatures of Convention and Protocol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
 
 ALTERAÇÃO DA CONVENÇÃO PARA A INSTITUIÇÃO DO CENTRO EUROPEU DE PREVISÃO DO TEMPO A MÉDIO PRAZO
 
@@ -1604,7 +1612,7 @@ Relativamente aos restantes Estados signatários, a presente Convenção entra e
 
 ###### Artigo 24.º — Notificação de assinaturas e questões afins
 
-**O Secretário-Geral do Conselho da União Europeia notifica os Estados signatários e aderentes sobre:**
+O Secretário-Geral do Conselho da União Europeia notifica os Estados signatários e aderentes sobre:
 
 a) Qualquer assinatura da presente Convenção;
 
@@ -1636,7 +1644,7 @@ A presente Convenção, com todas as alterações introduzidas, redigida num ún
 
 A escala seguinte visa exclusivamente a aplicação do artigo 22.º, n.º 2, da Convenção. Em nada condiciona decisões eventualmente tomadas pelo Conselho nos termos do artigo 13.º, n.º 1, da Convenção sobre futuras escalas de contribuições.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
 
 PROTOCOLO DE ALTERAÇÃO
 
@@ -1690,7 +1698,7 @@ Na versão holandesa, a expressão «Overeenkomst hebben Bereikt Omtrent de Volg
 
 O artigo 1.º recebe o título: «Fundação, Conselho, Estados membros, sede, línguas».
 
-###### Artigo 1.º, n.º 2: o termo «Director» é substituído por «Director-Geral». Na versão holandesa, a expressão «een Wetenschappelijk Raadgevend Comité» foi substituída por «een Wetenschappelijke Raadgevend Adviesekommissie» e a expressão «Financieel Comité» por «Financiële Commissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo» e a expressão «Comitato finanzario» por «Comitato Finanze».
+Artigo 1.º, n.º 2: o termo «Director» é substituído por «Director-Geral». Na versão holandesa, a expressão «een Wetenschappelijk Raadgevend Comité» foi substituída por «een Wetenschappelijke Raadgevend Adviesekommissie» e a expressão «Financieel Comité» por «Financiële Commissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo» e a expressão «Comitato finanzario» por «Comitato Finanze».
 
 Ao artigo 1.º, n.º 5, é acrescentada a frase «... salvo decisão em contrário tomada pelo Conselho nos termos do artigo 6.º, n.º 1, alínea g)».
 
@@ -1762,13 +1770,13 @@ O artigo 2.º, n.º 3, é reordenado como 2.º, n.º 4.
 
 O artigo 3.º recebe o título: «Cooperação com outras entidades».
 
-###### Artigo 3.º, n.º 1: na versão holandesa, o termo «doelinden» é substituído por «doelstellingen».
+Artigo 3.º, n.º 1: na versão holandesa, o termo «doelinden» é substituído por «doelstellingen».
 
-###### Artigo 3.º, n.º 2: a frase introdutória é alterada para «O Centro pode concluir acordos de cooperação para esse fim».
+Artigo 3.º, n.º 2: a frase introdutória é alterada para «O Centro pode concluir acordos de cooperação para esse fim».
 
-###### Artigo 3.º, n.º 2, alínea a): a referência ao artigo 6.º, n.º 2, alínea e), é substituída por «artigos 6.º, n.º 1, alínea e), ou 6.º, n.º 3, alínea j)».
+Artigo 3.º, n.º 2, alínea a): a referência ao artigo 6.º, n.º 2, alínea e), é substituída por «artigos 6.º, n.º 1, alínea e), ou 6.º, n.º 3, alínea j)».
 
-###### Artigo 3.º, n.º 2, alínea b): a referência ao artigo 6.º, n.º 3, alínea k), é substituída por «artigo 6.º, n.º 3, alínea j)». Na versão holandesa, o termo «organisaties» é substituído por «instanties».
+Artigo 3.º, n.º 2, alínea b): a referência ao artigo 6.º, n.º 3, alínea k), é substituída por «artigo 6.º, n.º 3, alínea j)». Na versão holandesa, o termo «organisaties» é substituído por «instanties».
 
 É inserida uma nova alínea no artigo 3.º, n.º 2, alínea c):
 
@@ -1778,23 +1786,23 @@ O artigo 3.º recebe o título: «Cooperação com outras entidades».
 
 O artigo 4.º recebe o título: «O Conselho».
 
-###### Artigo 4.º, n.º 2: na versão holandesa, a expressão «nationale weerkundige dienst» é substituída por «nationale meteorologische dienst» e a expressão «Meteorologische Wereldorganisatie» por «Wereld Meteorologische Organisatie». Na versão inglesa, o termo «Organisation» é substituído pelo termo «Organization».
+Artigo 4.º, n.º 2: na versão holandesa, a expressão «nationale weerkundige dienst» é substituída por «nationale meteorologische dienst» e a expressão «Meteorologische Wereldorganisatie» por «Wereld Meteorologische Organisatie». Na versão inglesa, o termo «Organisation» é substituído pelo termo «Organization».
 
-###### Artigo 4.º, n.º 5: a designação «Director» é substituída por «Director-Geral».
+Artigo 4.º, n.º 5: a designação «Director» é substituída por «Director-Geral».
 
-###### Artigo 4.º, n.º 6: na versão holandesa, a expressão «comités van raadgevende aard» é substituída por «adviescommissies».
+Artigo 4.º, n.º 6: na versão holandesa, a expressão «comités van raadgevende aard» é substituída por «adviescommissies».
 
 ###### Artigo 5.º:
 
 O artigo 5.º recebe o título: «Votação no Conselho».
 
-###### Artigo 5.º, n.º 2: a referência ao artigo 6.º, n.º 3, alínea m), é substituída por «artigo 6.º, n.º 3, alínea l)».
+Artigo 5.º, n.º 2: a referência ao artigo 6.º, n.º 3, alínea m), é substituída por «artigo 6.º, n.º 3, alínea l)».
 
 ###### Artigo 6.º:
 
 O artigo 6.º recebe o título: «Maiorias de voto».
 
-###### Artigo 6.º, n.º 1, alínea b): a expressão «admissão de novos Membros» é substituída por «adesão de Estados», sendo o termo «admissão» «substituído» pelo termo «adesão».
+Artigo 6.º, n.º 1, alínea b): a expressão «admissão de novos Membros» é substituída por «adesão de Estados», sendo o termo «admissão» «substituído» pelo termo «adesão».
 
 O artigo 6.º, n.º 1, alínea e), passa a ter a seguinte redacção:
 
@@ -1804,7 +1812,7 @@ O artigo 6.º, n.º 1, alínea e), passa a ter a seguinte redacção:
 
 «g) Delibera sobre qualquer mudança da sede do Centro nos termos do artigo 1.º, n.º 5;»
 
-###### Artigo 6.º, n.º 2, alínea b): a expressão «aprovar as estimativas gerais» é substituída por «ratifica as estimativas globais». A designação «Director» é substituída por «Director-Geral».
+Artigo 6.º, n.º 2, alínea b): a expressão «aprovar as estimativas gerais» é substituída por «ratifica as estimativas globais». A designação «Director» é substituída por «Director-Geral».
 
 É inserido um novo artigo 6.º, n.º 2, alínea c):
 
@@ -1812,7 +1820,7 @@ O artigo 6.º, n.º 1, alínea e), passa a ter a seguinte redacção:
 
 São reordenadas as alíneas subsequentes.
 
-###### Artigo 6.º, n.º 2, alínea d), reordenado: a designação «Director» é substituída por «Director-Geral».
+Artigo 6.º, n.º 2, alínea d), reordenado: a designação «Director» é substituída por «Director-Geral».
 
 É inserido um novo artigo 6.º, n.º 2, alíneas e), f), g) e h):
 
@@ -1830,23 +1838,23 @@ e são reordenados os subartigos subsequentes.
 
 «l) Determina, nos termos do artigo 1.º, n.º 6), em que caso são usadas respectivamente as línguas oficiais e de trabalho.»
 
-###### Artigo 6.º, n.º 3, alínea d): a designação «Director» é substituída por «Director-Geral».
+Artigo 6.º, n.º 3, alínea d): a designação «Director» é substituída por «Director-Geral».
 
-###### Artigo 6.º, n.º 3, alínea e): na versão holandesa, a expressão «financiële commissarisen» é substituída por «accountants».
+Artigo 6.º, n.º 3, alínea e): na versão holandesa, a expressão «financiële commissarisen» é substituída por «accountants».
 
-###### Artigo 6.º, n.º 3, alínea f): a designação «Director» é substituída por «Director-Geral».
+Artigo 6.º, n.º 3, alínea f): a designação «Director» é substituída por «Director-Geral».
 
-###### Artigo 6.º, n.º 3, alínea g): na versão holandesa, a expressão «het Wetenschappelijk Raadgevend Comité» é substituída por «de Wetenschappelijke Adviescommissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
+Artigo 6.º, n.º 3, alínea g): na versão holandesa, a expressão «het Wetenschappelijk Raadgevend Comité» é substituída por «de Wetenschappelijke Adviescommissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
 
 É suprimido o artigo 6.º, n.º 3, alínea i), original e reordenados os subartigos subsequentes.
 
-###### Artigo 6.º, n.º 3, alínea i), reordenado: a designação «Director» é substituída por «Director-Geral». Na versão holandesa, a expressão «verslag van de financiële commissarisen» é substituída por «accountsrapport».
+Artigo 6.º, n.º 3, alínea i), reordenado: a designação «Director» é substituída por «Director-Geral». Na versão holandesa, a expressão «verslag van de financiële commissarisen» é substituída por «accountsrapport».
 
 Redacção do artigo 6.º, n.º 3, alínea j), reordenado:
 
 «j) Autoriza o Director-Geral a negociar acordos de cooperação com os Estados membros, com as respectivas instituições científicas e técnicas nacionais e com organizações internacionais científicas e técnicas, governamentais ou não-governamentais, cujas actividades se relacionem com os objectivos do Centro; pode autorizar o Director-Geral a concluir tais acordos;»
 
-###### Artigo 6.º, n.º 3, alínea k): onde se lia «artigos 15.º, n.os 1 e 2» passa a ler-se «artigos 15.º, n.os 2 e 3».
+Artigo 6.º, n.º 3, alínea k): onde se lia «artigos 15.º, n.os 1 e 2» passa a ler-se «artigos 15.º, n.os 2 e 3».
 
 É inserido um novo artigo 6.º, n.º 3, alínea o):
 
@@ -1856,15 +1864,15 @@ Redacção do artigo 6.º, n.º 3, alínea j), reordenado:
 
 O artigo 7.º recebe o título: «O Comité Científico Consultivo».
 
-###### Artigo 7.º, n.º 1: a designação «Director» é substituída por «Director-Geral». Na versão holandesa, a expressão «het Wetenschappelijk Raadgevend Comité» é substituída por «de Wetenschappellijke Advieskommissie» e «het Comité» por «de Commissie» e a expressão «Meteorologische Wereldorganisatie» por «Wereld Meteorologische Organisatie». Na versão inglesa, o termo «Organisation» é substituído por «Organization». Na versão italiana, a expressão «comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
+Artigo 7.º, n.º 1: a designação «Director» é substituída por «Director-Geral». Na versão holandesa, a expressão «het Wetenschappelijk Raadgevend Comité» é substituída por «de Wetenschappellijke Advieskommissie» e «het Comité» por «de Commissie» e a expressão «Meteorologische Wereldorganisatie» por «Wereld Meteorologische Organisatie». Na versão inglesa, o termo «Organisation» é substituído por «Organization». Na versão italiana, a expressão «comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
 
-###### Artigo 7.º, n.º 2: a designação «Director» é substituída por «Director-Geral» em dois locais.
+Artigo 7.º, n.º 2: a designação «Director» é substituída por «Director-Geral» em dois locais.
 
 ###### Artigo 8.º:
 
 O artigo 8.º recebe o título: «O Comité Financeiro».
 
-###### Artigo 8.º, n.º 1: na versão holandesa, a expressão «het Financiële Comité» é substituída por «de Financiële Commissie» e «het Comité» por «de Commissie». Na versão italiana, a expressão «Comitato finanzario» é substituída por «Comitato Finanze».
+Artigo 8.º, n.º 1: na versão holandesa, a expressão «het Financiële Comité» é substituída por «de Financiële Commissie» e «het Comité» por «de Commissie». Na versão italiana, a expressão «Comitato finanzario» é substituída por «Comitato Finanze».
 
 O artigo 8.º, n.º 1, alínea b), passa a ter a seguinte redacção:
 
@@ -1874,27 +1882,27 @@ O artigo 8.º, n.º 1, alínea b), passa a ter a seguinte redacção:
 
 O artigo 9.º recebe o título: «O Director-Geral».
 
-###### Artigo 9.º, n.º 1: a designação «Director» é substituída por «Director-Geral» em dois locais.
+Artigo 9.º, n.º 1: a designação «Director» é substituída por «Director-Geral» em dois locais.
 
-###### Artigo 9.º, n.º 2: a designação «Director» é substituída por «Director-Geral».
+Artigo 9.º, n.º 2: a designação «Director» é substituída por «Director-Geral».
 
 No artigo 9.º, n.º 2, alínea c), é acrescentada a expressão «... e a Estratégia a Longo Prazo...». Na versão holandesa, a expressão «het Wetenschappelijk Raadgevend Comité» é substituída por «de Wetenschappelijke Adviescommissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
 
-###### Artigo 9.º, n.º 2, alínea g): a referência ao artigo 6.º, n.º 3, alínea k), é substituída por «artigo 6.º, n.º 3, alínea j)». Na versão holandesa, o termo «doeleinden» é substituído por «doelstellingen».
+Artigo 9.º, n.º 2, alínea g): a referência ao artigo 6.º, n.º 3, alínea k), é substituída por «artigo 6.º, n.º 3, alínea j)». Na versão holandesa, o termo «doeleinden» é substituído por «doelstellingen».
 
-###### Artigo 9.º, n.º 3: a designação «Director» é substituída por «Director-Geral».
+Artigo 9.º, n.º 3: a designação «Director» é substituída por «Director-Geral».
 
 ###### Artigo 10.º:
 
 O artigo 10.º recebe o título: «Pessoal».
 
-###### Artigo 10.º, n.º 3: na versão holandesa, o termo «organisaties» é substituído por «instanties».
+Artigo 10.º, n.º 3: na versão holandesa, o termo «organisaties» é substituído por «instanties».
 
-###### Artigo 10.º, n.º 4: na versão inglesa, o termo «Comptroller» é substituído por «Controller». Na versão holandesa o termo «financiële controleur» é substituído por «controleur».
+Artigo 10.º, n.º 4: na versão inglesa, o termo «Comptroller» é substituído por «Controller». Na versão holandesa o termo «financiële controleur» é substituído por «controleur».
 
-###### Artigo 10.º, n.º 6: a designação «Director» é substituída por «Director-Geral».
+Artigo 10.º, n.º 6: a designação «Director» é substituída por «Director-Geral».
 
-###### Artigo 10.º, n.º 7: a designação «Director» é substituída por «Director-Geral» em dois locais.
+Artigo 10.º, n.º 7: a designação «Director» é substituída por «Director-Geral» em dois locais.
 
 ###### Artigo 11.º:
 
@@ -1902,7 +1910,7 @@ O artigo 11.º recebe o título: «Programa de Actividades, Estratégia a Longo 
 
 Os parágrafos da versão inicial são agrupados como artigo 11.º, n.º 1.
 
-###### Artigo 11.º, n.º 1: «Director» é substituído por «Director-Geral». A referência ao artigo 6.º, n.º 3, alínea i), é substituída por «artigo 6.º, n.º 2, alínea c)» em dois locais.
+Artigo 11.º, n.º 1: «Director» é substituído por «Director-Geral». A referência ao artigo 6.º, n.º 3, alínea i), é substituída por «artigo 6.º, n.º 2, alínea c)» em dois locais.
 
 São inseridos novos artigos 11.º, n.os 2 e 3:
 
@@ -1920,19 +1928,19 @@ b) Cada um dos Planos Opcionais é aprovado pelo Conselho nos termos do artigo 6
 
 O artigo 12.º recebe o título: «Orçamento».
 
-###### Artigo 12.º, n.º 3: a expressão «aprovará a estimativa global» é substituída por «ratifica a estimativa global».
+Artigo 12.º, n.º 3: a expressão «aprovará a estimativa global» é substituída por «ratifica a estimativa global».
 
-###### Artigo 12.º, n.º 4, alínea b): «Director» é substituído por «Director-Geral».
+Artigo 12.º, n.º 4, alínea b): «Director» é substituído por «Director-Geral».
 
-###### Artigo 12.º, n.º 5: «Director» é substituído por «Director-Geral».
+Artigo 12.º, n.º 5: «Director» é substituído por «Director-Geral».
 
 ###### Artigo 13.º:
 
 O artigo 13.º recebe o título: «Contribuições dos Estados membros».
 
-###### Artigo 13.º, n.º 1: a expressão «produto nacional bruto» é substituída por «rendimento nacional bruto».
+Artigo 13.º, n.º 1: a expressão «produto nacional bruto» é substituída por «rendimento nacional bruto».
 
-###### Artigo 13.º, n.º 2: a expressão «produto nacional bruto» é substituída por «rendimento nacional bruto».
+Artigo 13.º, n.º 2: a expressão «produto nacional bruto» é substituída por «rendimento nacional bruto».
 
 ###### Artigo 14.º:
 
@@ -1940,11 +1948,11 @@ O artigo 14.º recebe o título: «Auditoria».
 
 Na versão holandesa, a expressão «financiële commissarissen» é substituída por «accountants» em quatro locais.
 
-###### Artigo 14.º, n.º 2: na versão holandesa, a expressão «het Financieel Comité» é substituída por «de Finnanciële Commissie». Na versão italiana, a expressão «Comitato finanzario«é substituída por «Comitato Finanze».
+Artigo 14.º, n.º 2: na versão holandesa, a expressão «het Financieel Comité» é substituída por «de Finnanciële Commissie». Na versão italiana, a expressão «Comitato finanzario«é substituída por «Comitato Finanze».
 
-###### Artigo 14.º, n.º 3: «Director» é substituído por «Director-Geral».
+Artigo 14.º, n.º 3: «Director» é substituído por «Director-Geral».
 
-###### Artigo 15.º:
+Artigo 15.º:
 
 O artigo 15.º recebe o título: «Direitos de propriedade e licenças».
 
@@ -1954,53 +1962,53 @@ O artigo 15.º recebe o título: «Direitos de propriedade e licenças».
 
 e são reordenados os restantes números.
 
-###### Artigo 15.º, n.º 3, reordenado: a referência ao subartigo 1) é substituída por subartigo 2).
+Artigo 15.º, n.º 3, reordenado: a referência ao subartigo 1) é substituída por subartigo 2).
 
-###### Artigo 15.º, n.º 4, reordenado: a referência ao subartigo 1) é substituída por subartigo 2) e a referência ao artigo 6.º, n.º 3, alínea l), é substituída por artigo 6.º, n.º 3, alínea k).
+Artigo 15.º, n.º 4, reordenado: a referência ao subartigo 1) é substituída por subartigo 2) e a referência ao artigo 6.º, n.º 3, alínea l), é substituída por artigo 6.º, n.º 3, alínea k).
 
-###### Artigo 16.º:
+Artigo 16.º:
 
 O artigo 16.º recebe o título: «Privilégios, imunidades e responsabilidades».
 
-###### Artigo 17.º:
+Artigo 17.º:
 
 O artigo 17.º recebe o título: «Diferendos».
 
-###### Artigo 18.º:
+Artigo 18.º:
 
 O artigo 18.º recebe o título: «Alterações à Convenção».
 
-###### Artigo 18.º, n.º 1: «Director» é substituído por «Director-Geral» em dois locais e a referência ao artigo 6.º, n.º 3, alínea n), é substituída por artigo 6.º, n.º 3, alínea m).
+Artigo 18.º, n.º 1: «Director» é substituído por «Director-Geral» em dois locais e a referência ao artigo 6.º, n.º 3, alínea n), é substituída por artigo 6.º, n.º 3, alínea m).
 
-###### Artigo 18.º, n.º 2: a expressão «Comunidades Europeias» é substituída por «União Europeia».
+Artigo 18.º, n.º 2: a expressão «Comunidades Europeias» é substituída por «União Europeia».
 
-###### Artigo 19.º:
+Artigo 19.º:
 
 O artigo 19.º recebe o título: «Denúncia da Convenção».
 
-###### Artigo 19.º, n.º 1: a expressão «Comunidades Europeias» é substituída por «União Europeia».
+Artigo 19.º, n.º 1: a expressão «Comunidades Europeias» é substituída por «União Europeia».
 
-###### Artigo 19.º, n.º 2: é inserida a expressão «produzir efeito» a seguir ao termo «denúncia».
+Artigo 19.º, n.º 2: é inserida a expressão «produzir efeito» a seguir ao termo «denúncia».
 
-###### Artigo 19.º, n.º 3: a referência ao artigo 6.º, n.º 2, alínea d), é substituída por artigo 6.º, n.º 2, alínea i).
+Artigo 19.º, n.º 3: a referência ao artigo 6.º, n.º 2, alínea d), é substituída por artigo 6.º, n.º 2, alínea i).
 
-###### Artigo 20.º:
+Artigo 20.º:
 
 O artigo 20.º recebe o título: «Incumprimento de obrigações».
 
-###### Artigo 21.º:
+Artigo 21.º:
 
 O artigo 21.º recebe o título: «Dissolução do Centro».
 
-###### Artigo 21.º, n.º 1: a referência ao artigo 6.º, n.º 2, alínea e), é substituída por artigo 6.º, n.º 2, alínea j).
+Artigo 21.º, n.º 1: a referência ao artigo 6.º, n.º 2, alínea e), é substituída por artigo 6.º, n.º 2, alínea j).
 
-###### Artigo 21.º, n.º 3: a referência ao artigo 6.º, n.º 2, alínea e), é substituída por artigo 6.º, n.º 2, alínea j).
+Artigo 21.º, n.º 3: a referência ao artigo 6.º, n.º 2, alínea e), é substituída por artigo 6.º, n.º 2, alínea j).
 
-###### Artigo 22.º:
+Artigo 22.º:
 
 O artigo 22.º recebe o título: «Entrada em vigor».
 
-###### Artigo 23.º:
+Artigo 23.º:
 
 O artigo 23.º recebe o título: «Adesão de Estados».
 
@@ -2012,7 +2020,7 @@ Os artigos 23.º, n.os 2 e 3, passam a ter a seguinte redacção:
 
 2 - Os instrumentos de adesão são depositados nos arquivos do Secretariado Geral do Conselho da União Europeia. Relativamente a cada um dos Estados aderentes, a Convenção entra em vigor no primeiro dia do segundo mês seguinte ao depósito do respectivo instrumento de adesão.»
 
-###### Artigo 24.º:
+Artigo 24.º:
 
 O artigo 24.º recebe o título: «Notificação de assinaturas e questões afins».
 
@@ -2026,13 +2034,13 @@ O último parágrafo do artigo 24.º passa a ter a seguinte redacção:
 
 «Imediatamente após a entrada em vigor da presente Convenção e de quaisquer alterações ao seu teor, o Secretário-Geral do Conselho da União Europeia fá-las registar junto do Secretariado Geral das Nações Unidas, de acordo com o disposto no artigo 102.º da Carta das Nações Unidas.»
 
-###### Artigo 25.º:
+Artigo 25.º:
 
 O artigo 25.º recebe o título: «O primeiro ano financeiro».
 
-###### Artigo 25.º, n.º 3: na versão holandesa, a expressão «Wetenschappelijk Raadgevend Comité» é substituída por «Wetenschappelijke Adviescommissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
+Artigo 25.º, n.º 3: na versão holandesa, a expressão «Wetenschappelijk Raadgevend Comité» é substituída por «Wetenschappelijke Adviescommissie». Na versão italiana, a expressão «Comitato consultivo scientifico» é substituída por «Comitato Scientifico Consultivo».
 
-###### Artigo 26.º:
+Artigo 26.º:
 
 O artigo 26.º recebe o título: «Depósito da Convenção».
 
@@ -2052,7 +2060,7 @@ Desejando definir os privilégios e imunidades necessários ao bom funcionamento
 
 acordam no seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - Sujeito ao disposto no presente Protocolo, as instalações do Centro são invioláveis.
 
@@ -2060,11 +2068,11 @@ acordam no seguinte:
 
 3 - O Centro impede que as suas instalações sejam usadas como refúgio de pessoas que tentem evitar detenção ou serviço de documentos jurídicos.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os arquivos do Centro são invioláveis.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - No quadro das suas actividades oficiais, o Centro tem imunidade de jurisdição e execução, excepto:
 
@@ -2080,7 +2088,7 @@ d) Em caso de retenção, na sequência de decisão das autoridades administrati
 
 3 - Sujeito ao disposto no n.º 1, as propriedades e bens do Centro, independentemente da sua localização, gozam de imunidade relativamente a qualquer forma de restrição, como requisição, confiscação, expropriação ou retenção, excepto nos casos em que tal seja temporariamente necessário para efeitos de prevenção e investigação de acidentes que envolvam veículos pertencentes ao Centro ou conduzidos ao seu serviço.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - No quadro das suas actividades oficiais, o Centro e respectivas propriedades e receitas gozam de isenção de todos os impostos directos.
 
@@ -2088,29 +2096,29 @@ d) Em caso de retenção, na sequência de decisão das autoridades administrati
 
 3 - Não é concedida isenção relativamente a direitos ou impostos que não constituam mais do que pagamento de serviços de utilidade pública.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Os bens importados ou exportados pelo Centro e estritamente necessários ao exercício das suas actividades oficiais estão isentos de todos os direitos, impostos e encargos aduaneiros, excepto aqueles que não constituam mais do que pagamento de serviços. Tais bens estão ainda isentos de todas as proibições e restrições de importação e exportação. Os Estados membros procedem com a maior brevidade, no âmbito das respectivas competências, ao desalfandegamento desses bens.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Não é concedida isenção, nos termos do artigo 4.º ou do artigo 5.º, relativamente aos bens adquiridos e importados para necessidades pessoais dos membros do pessoal do Centro ou dos peritos referidos no artigo 14.º
 
-###### Artigo 7.º
+Artigo 7.º
 
 Os bens adquiridos nas condições expressas no artigo 4.º ou importados nas condições expressas no artigo 5.º não podem ser vendidos, doados ou alugados, excepto nas condições estabelecidas pelas normas do Estado que concedeu a isenção.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - O Centro pode receber e conservar fundos ou divisas de qualquer espécie. Pode deles dispor livremente no exercício das suas actividades oficiais e manter em qualquer moeda as contas necessárias ao cumprimento das suas obrigações.
 
 2 - No quadro das suas actividades oficiais e sem prejuízo do estabelecido no número anterior, o Centro pode ainda receber, manter e dispor de garantias, sujeito às disposições sobre normas de câmbio aplicáveis a outras organizações intergovernamentais do Estado membro em causa.
 
-###### Artigo 9.º
+Artigo 9.º
 
 A circulação de publicações e outros materiais de informação enviados pelo Centro ou para ele no quadro das suas actividades oficiais não é objecto de qualquer restrição.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Relativamente à transmissão de dados no quadro das suas actividades oficiais o Centro goza, no território de cada Estado membro, de tratamento tão favorável como o concedido por esse Estado ao seu serviço meteorológico nacional, tendo em conta as obrigações nacionais desse Estado no que se refere a telecomunicações.
 
@@ -2118,9 +2126,11 @@ A circulação de publicações e outros materiais de informação enviados pelo
 
 3 - Não é exercida censura sobre as comunicações oficiais do Centro por quaisquer meios de comunicação.
 
-###### Artigo 11.º — Os Estados membros facilitam a entrada, a permanência e a saída dos representantes dos Estados membros, do pessoal do Centro e dos peritos referidos no artigo 14.º
+Artigo 11.º
 
-###### Artigo 12.º
+Os Estados membros facilitam a entrada, a permanência e a saída dos representantes dos Estados membros, do pessoal do Centro e dos peritos referidos no artigo 14.º
+
+Artigo 12.º
 
 Os representantes dos Estados membros que participem nos trabalhos dos órgãos e comités do Centro gozam, no desempenho das suas funções e durante as viagens de e para os locais de reunião, dos seguintes privilégios, imunidades e facilidades:
 
@@ -2134,7 +2144,7 @@ d) Isenção de todas as medidas restritivas da entrada de estrangeiros e de for
 
 e) As mesmas facilidades aduaneiras relativamente à bagagem pessoal e os mesmos privilégios relativamente às normas sobre moeda e câmbios concedidas aos representantes de governos estrangeiros em missões oficiais temporárias.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Os membros do pessoal do Centro gozam, nos limites estabelecidos neste Protocolo, dos seguintes privilégios, imunidades e facilidades:
 
@@ -2152,7 +2162,7 @@ f) Juntamente com os membros das suas famílias que constituam o agregado famili
 
 g) O direito de importar sem encargos aduaneiros mobiliário e objectos pessoais no momento da ocupação de lugar por um período de pelo menos um ano no Estado em causa e o direito, ao cessar funções nesse Estado, a exportar sem encargos aduaneiros o mobiliário e objectos pessoais, sujeito em ambos os casos às condições consideradas necessárias pelo governo do Estado em cujo território o direito é exercido e com excepção de bens adquiridos nesse Estado e nele sujeitos a proibição de exportação.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Os peritos que não são membros do pessoal e que desempenham funções no Centro ou que se encontram em missões por este atribuídas gozam, durante o desempenho das suas funções ou missões e durante as viagens feitas no respectivo âmbito, dos seguintes privilégios, imunidades e facilidades desde que estes sejam necessários ao desempenho das suas funções ou missões:
 
@@ -2162,25 +2172,25 @@ b) Inviolabilidade de todos os seus documentos oficiais;
 
 c) As mesmas facilidades aduaneiras relativamente à bagagem pessoal e os mesmos privilégios relativamente às normas sobre moeda e câmbios concedidas aos representantes de governos estrangeiros em missões oficiais temporárias.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Sujeito às condições e ao procedimento estabelecidos pelo Conselho agindo de acordo com o disposto no artigo 6.º, n.º 2, da Convenção, no período de um ano a contar da entrada em vigor da Convenção, os salários, honorários e emolumentos pagos pelo Centro aos membros do seu pessoal estão, dentro dos limites fixados neste Protocolo, sujeitos a um imposto em favor do Centro. A partir da data em que tal imposto for aplicado, os salários, honorários e emolumentos estão isentos de imposto sobre os rendimentos, reservando-se os Estados membros o direito de ter em conta esses salários, honorários e emolumentos para efeitos de cálculo do imposto a aplicar a rendimentos de outra proveniência.
 
 2 - O disposto no número anterior não se aplica a pensões e pagamentos similares efectuados pelo Centro.
 
-###### Artigo 16.º
+Artigo 16.º
 
 Nenhum Estado membro é obrigado a conceder os privilégios, imunidades e facilidades referidos no artigo 12.º, nos artigos 13.º, alínea b), e), f) e g), e no artigo 14.º, alínea c), aos seus representantes, cidadãos ou indivíduos que, ao assumir funções no Centro, sejam residentes permanentes nesse Estado.
 
-###### Artigo 17.º
+Artigo 17.º
 
 O Conselho, agindo de acordo com o procedimento estabelecido nos termos do artigo 6.º, n.º 3, alínea o), da Convenção, determina as categorias de pessoal a que se aplica total ou parcialmente o disposto nos artigos 13.º e 15.º e as categorias de peritos a que se aplica o disposto no artigo 14.º Os nomes, cargos e endereços dos indivíduos integrados nessas categorias são periodicamente comunicados aos Estados membros.
 
-###### Artigo 18.º
+Artigo 18.º
 
 Caso o Centro estabeleça o seu próprio sistema de segurança social ou partilhe o de outra organização internacional nas condições estabelecidas no Regulamento do Pessoal, o Centro e os membros do seu pessoal estão isentos de todas as contribuições obrigatórias para os sistemas nacionais de segurança social, sujeito a acordos a concluir com os Estados membros em causa, nas condições estabelecidas no artigo 22.º
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - Os privilégios, imunidades e garantias previstos neste Protocolo são concedidos unicamente no interesse do Centro e dos Estados membros e não para vantagem pessoal dos que deles usufruem.
 
@@ -2194,21 +2204,21 @@ O Conselho, no caso do Director-Geral;
 
 O Director-Geral, no caso dos outros membros do pessoal e peritos tal como definidos no artigo 14.º
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - O centro coopera sempre com as autoridades dos Estados membros no sentido de facilitar a boa administração da justiça, de assegurar a observância das normas políticas e das relativas à saúde pública e inspecção do trabalho, bem como de legislação similar, impedindo assim qualquer abuso de privilégios, imunidades e facilidades previstos neste Protocolo.
 
 2 - Os métodos de cooperação podem ser definidos nos acordos suplementares previstos no artigo 22.º
 
-###### Artigo 21.º
+Artigo 21.º
 
 O disposto neste Protocolo não prejudica o direito de cada Estado membro tomar todas as medidas preventivas necessárias no interesse da sua segurança.
 
-###### Artigo 22.º
+Artigo 22.º
 
 O Centro pode sob decisão do Conselho agindo por unanimidade, concluir acordos suplementares com qualquer Estado membro para aplicação deste Protocolo e tomar outras disposições no sentido de garantir o regular funcionamento do Centro e a salvaguarda dos seus interesses.
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - Em todos os contratos por escrito - diferentes dos concluídos de acordo com o Regulamento do Pessoal - em que seja parte e que se refiram a matérias em que goze de imunidade de jurisdição, o Centro é obrigado a incluir uma cláusula de arbitragem segundo a qual todo o litígio decorrente da interpretação ou execução do contrato é, a pedido de qualquer das partes, sujeito a arbitragem.
 
@@ -2218,7 +2228,7 @@ O Centro pode sob decisão do Conselho agindo por unanimidade, concluir acordos 
 
 4 - A aplicação da sentença de arbitragem rege-se pelas normas em vigor no Estado em que a sentença deva ser aplicada.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - Todo o Estado membro pode submeter ao tribunal arbitral previsto no artigo 17.º da Convenção qualquer litígio que:
 
@@ -2234,7 +2244,7 @@ Envolva um membro do pessoal ou um perito do Centro e no qual o indivíduo em ca
 
 4 - Não há lugar a recurso da sentença do tribunal arbitral, que é definitiva e vinculativa para as partes. Em caso de litígio sobre o sentido ou o âmbito da sentença, compete ao tribunal arbitral interpretá-la a pedido de qualquer das partes.
 
-###### Artigo 25.º
+Artigo 25.º
 
 Para efeitos do presente Protocolo:
 
@@ -2242,10 +2252,10 @@ a) A expressão «actividades oficiais do Centro» abrange a sua administração
 
 b) A expressão «membros do pessoal» abrange o Director-Geral do Centro.
 
-###### Artigo 26.º
+Artigo 26.º
 
 O presente Protocolo é interpretado à luz do seu objectivo primordial de habilitar o Centro a atingir total e eficazmente os seus objectivos e a exercer as funções a ele atribuídas pela Convenção.
 
 Assinaturas da Convenção e do Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17900/0637806407.pdf)

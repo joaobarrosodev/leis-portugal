@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/66/2011/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-2011-278055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4b6caab432603a437ecf93904d35f6a0732c9d8f6b30a353de11544f7c19599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eef5173047cd236cbc3d64e9096b40f731d204524f56fa9fd5ea39dee72d435f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Hidrografia
 - Mónaco
 - Organização Hidrográfica Internacional
+- Portugal
 - Segurança da Navegação
 - Segurança Marítima
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:278044:por
+  label: "Ratificado o Protocolo de Emendas, adoptado no Mónaco em 14.04.2005, à Convenção Relativa à Organização Hidrográfica\
+    \ Internacional (aprovada para ratificação pelo Dec Lei 48571 de 09-Set de 1968), aprovado, para ratificação, pelo presente\
+    \ diploma, pelo DEC.40/2011.04.04.2011.PR, DR.IS [66] de 04.04.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/40-2011-278044
+  date: '2011-04-04'
 article_structure:
-  article_count: 21
+  article_count: 43
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:30:01Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de Janeiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOLE VISANT A MODIFIER LA CONVENTION RELATIVE A L'ORGANISATION HYDROGRAPHIQUE INTERNATIONALE
 
@@ -662,7 +669,7 @@ ANNEXE A
 
 Certificat d'enregistrement de la Convention et Règlement General de l'OHI auprès du Secrétariat des N. U.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/06600/0195501969.pdf))](https://files.diariodarepublica.pt/1s/2011/04/06600/0195501969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/06600/0195501969.pdf)
 
 Article 102 (de la Charte des Nations Unies)
 
@@ -966,11 +973,11 @@ Desejosos de prosseguir, numa base intergovernamental, a sua colaboração em ma
 
 acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 É criada, pela presente Convenção, uma Organização Hidrográfica Internacional, doravante designada por Organização, com sede no Mónaco.
 
-Artigo II
+###### Artigo II
 
 A Organização tem um carácter consultivo e técnico. Tem por finalidade:
 
@@ -988,11 +995,11 @@ f) Facilitar a coordenação das actividades hidrográficas dos Estados membros;
 
 g) Reforçar a cooperação em matéria de actividades hidrográficas entre os Estados, numa base regional.
 
-Artigo III
+###### Artigo III
 
 São Estados membros da Organização os Estados Partes na presente Convenção.
 
-Artigo IV
+###### Artigo IV
 
 A Organização compreende:
 
@@ -1006,7 +1013,7 @@ d) O Secretariado; e
 
 e) Quaisquer órgãos subsidiários
 
-Artigo V
+###### Artigo V
 
 a) A Assembleia é o órgão máximo da Organização e tem plenas competências, salvo disposição em contrário da Convenção ou delegação de algumas das suas competências a outros órgãos.
 
@@ -1044,7 +1051,7 @@ xii) Deliberar sobre quaisquer outras matérias no âmbito da Organização; e
 
 xiii) Delegar competências ao Conselho nos casos em que se afigure necessário e justificado.
 
-Artigo VI
+###### Artigo VI
 
 a) Tem assento no Conselho um quarto dos Estados membros, mas nunca inferior a 30, dois terços dos quais têm assento numa base de representação regional e a terça parte restante na base dos interesses hidrográficos conforme for definido no Regulamento Geral.
 
@@ -1084,7 +1091,7 @@ viii) Propor à Assembleia a criação de órgãos subsidiá-rios; e
 
 ix) Examinar os projectos de acordos entre a Organização e outras organizações e submetê-los à aprovação da Assembleia.
 
-Artigo VII
+###### Artigo VII
 
 a) A Comissão de Finanças é composta por todos os Estados membros. Cada Estado membro dispõe de um voto.
 
@@ -1094,7 +1101,7 @@ c) À Comissão de Finanças compete examinar os relatórios de contas, as previ
 
 d) A Comissão de Finanças elege os seus Presidente e Vice-Presidente.
 
-Artigo VIII
+###### Artigo VIII
 
 a) O Secretariado compreende um Secretário-Geral e directores, bem como todo o pessoal de que a Organização possa necessitar.
 
@@ -1112,7 +1119,7 @@ e) O Secretário-Geral desempenha outras tarefas que lhe sejam atribuídas pela 
 
 f) No cumprimento dos seus deveres, o Secretário-Geral, os directores e o pessoal não solicitam nem aceitam instruções de qualquer Estado membro ou de qualquer autoridade exterior à Organização, abstendo-se de qualquer acto que possa ser incompatível com a sua condição de funcionários internacionais. Cada Estado membro compromete-se, por sua vez, a respeitar o carácter exclusivamente internacional das funções do Secretário-Geral, dos directores e do pessoal e a não procurar influenciá-los no desempenho das suas funções.
 
-Artigo IX
+###### Artigo IX
 
 Sempre que as decisões não possam ser tomadas por consenso, aplicam-se as seguintes disposições:
 
@@ -1128,23 +1135,23 @@ e) Em relação às alíneas c) e d) do presente artigo e à alínea b) do artig
 
 f) No caso de uma proposta submetida aos Estados membros em conformidade com o disposto no artigo vi, alínea g), subalínea viii), da presente Convenção, as decisões devem ser tomadas por uma maioria de Estados membros votantes, devendo o número mínimo de votos positivos representar, pelo menos, um terço de todos os Estados membros.
 
-Artigo X
+###### Artigo X
 
 No que diz respeito a questões da sua competência, a Organização pode cooperar com organizações internacionais cujos interesses e actividades estejam relacionados com os fins da Organização.
 
-Artigo XI
+###### Artigo XI
 
 O funcionamento da Organização é definido em pormenor no Regulamento Geral e no Regulamento Financeiro anexos à presente Convenção, embora não fazendo parte integrante da mesma. Em caso de divergência entre a presente Convenção e o Regulamento Geral e o Regulamento Financeiro, prevalece a presente Convenção.
 
-Artigo XII
+###### Artigo XII
 
 As línguas oficiais da Organização são o francês e o inglês.
 
-Artigo XIII
+###### Artigo XIII
 
 A Organização possui personalidade jurídica. Usufrui no território de cada um dos seus Estados membros, e sob reserva de acordo do Estado membro interessado, dos privilégios e imunidades necessários para o exercício das suas funções e para a prossecução dos seus objectivos.
 
-Artigo XIV
+###### Artigo XIV
 
 As despesas necessárias ao funcionamento da Organização são cobertas:
 
@@ -1152,11 +1159,11 @@ a) Por contribuições ordinárias anuais dos Estados membros, segundo um coefic
 
 b) Por dádivas, legados, subvenções e outros recursos, com a aprovação da Assembleia.
 
-Artigo XV
+###### Artigo XV
 
 Todos os Estados membros que registem atrasos de dois anos no pagamento das suas contribuições ficam privados dos direitos de voto, dos benefícios e das prerrogativas concedidas aos Estados membros pela Convenção e pelos Regulamentos, até ao pagamento das contribuições em atraso.
 
-Artigo XVI
+###### Artigo XVI
 
 a) O Governo de Sua Alteza Sereníssima o Príncipe do Mónaco é designado Depositário.
 
@@ -1176,11 +1183,11 @@ Do depósito de qualquer instrumento de denúncia da presente Convenção, bem c
 
 Qualquer alteração à presente Convenção é publicada pelo Depositário e registada junto do Secretariado da Organização das Nações Unidas, conforme o disposto no artigo 102.º da Carta das Nações Unidas, imediatamente após a sua entrada em vigor.
 
-Artigo XVII
+###### Artigo XVII
 
 Qualquer diferendo relativo à interpretação ou à aplicação da presente Convenção que não seja regulado por negociação ou pelos bons ofícios do Secretário-Geral da Organização será, a pedido de uma das partes no litígio, submetido a um árbitro designado pelo Presidente do Tribunal Internacional de Justiça.
 
-Artigo XVIII
+###### Artigo XVIII
 
 1 - A presente Convenção estará patente no Mónaco em 3 de Maio de 1967 e, subsequentemente, na Legação do Principado de Mónaco em Paris, de 1 de Junho a 31 de Dezembro de 1967, à assinatura por qualquer Governo que, à data de 3 de Maio de 1967, participe nos trabalhos do Bureau.
 
@@ -1194,19 +1201,19 @@ b) Assinando-a, sob reserva de ratificação ou aprovação e depositando seguid
 
 4 - O Governo do Principado de Mónaco informará os governos mencionados no n.º 1 do presente artigo, bem como ao Presidente do Comité de Direcção, de todas as assinaturas e de todos os depósitos de instrumentos de ratificação ou aprovação.
 
-Artigo XIX
+###### Artigo XIX
 
 1 - A presente Convenção entrará em vigor três meses após a data em que 28 governos se tenham tornado partes, em conformidade com o n.º 2 do artigo xviii.
 
 2 - O Governo do Principado de Mónaco comunicará esta data a todos os governos signatários e ao Presidente do Comité de Direcção.
 
-Artigo XX
+###### Artigo XX
 
 a) A presente Convenção está aberta à adesão de qualquer Estado que seja membro da Organização das Nações Unidas. A Convenção entra em vigor para tal Estado na data em que este tenha depositado o seu instrumento de adesão junto do Depositário, o qual informará o Secretário-Geral e todos os Estados membros.
 
 b) Um Estado que não seja membro da Organização das Nações Unidas só pode aderir à presente Convenção mediante pedido feito ao Depositário nesse sentido e se o seu pedido for aprovado por dois terços dos Estados membros. A Convenção entra em vigor para tal Estado na data em que tenha depositado o seu instrumento de adesão junto do Depositário, o qual informará o Secretário-Geral e todos os Estados membros.
 
-Artigo XXI
+###### Artigo XXI
 
 a) Qualquer Estado membro pode propor alterações à presente Convenção. As propostas de alteração são transmitidas ao Secretário-Geral pelo menos seis meses antes da sessão seguinte da Assembleia.
 
@@ -1214,11 +1221,11 @@ b) As propostas de alteração são examinadas pela Assembleia, que se pronuncia
 
 c) A alteração entra em vigor relativamente a todos os Estados membros três meses após a recepção, pelo Depositário, das notificações de aprovação de dois terços dos Estados membros.
 
-Artigo XXII
+###### Artigo XXII
 
 Decorridos cinco anos desde a data da sua entrada em vigor, a presente Convenção pode ser denunciada por qualquer uma das Partes Contratantes através de pré-aviso de, pelo menos, um ano, mediante notificação dirigida ao Depositário. A denúncia produz efeitos no primeiro dia do mês de Janeiro seguinte ao termo do prazo do pré-aviso e implica a renúncia do Estado interessado aos direitos e benefícios conferidos pela qualidade de membro da Organização.
 
-Artigo XXIII
+###### Artigo XXIII
 
 Após a sua entrada em vigor, a presente Convenção será registada pelo Governo do Principado de Mónaco junto do Secretariado da Organização das Nações Unidas, em conformidade com o artigo 102.º da Carta das Nações Unidas.
 
@@ -1234,9 +1241,9 @@ Certificado de registo da Convenção e Regulamento Geral da OHI junto do Secret
 
 Certificado de registo n.º 16427
 
-**O Secretário-Geral das Nações Unidas certifica, pelo presente, que o Governo do Principado de Mónaco registou junto do Secretariado, em conformidade com o disposto no artigo 102.º da Carta das Nações Unidas, a Convenção Relativa à Organização Hidrográfica Internacional (com o Regulamento Geral).**
+O Secretário-Geral das Nações Unidas certifica, pelo presente, que o Governo do Principado de Mónaco registou junto do Secretariado, em conformidade com o disposto no artigo 102.º da Carta das Nações Unidas, a Convenção Relativa à Organização Hidrográfica Internacional (com o Regulamento Geral).
 
-**Assinada no Mónaco em 3 de Maio de 1967.**
+Assinada no Mónaco em 3 de Maio de 1967.
 
 O registo foi efectuado em 22 de Setembro de 1970, sob o n.º 10764.
 
@@ -1246,7 +1253,7 @@ Ao Governo do Principado do Mónaco.
 
 Pelo Secretário-Geral, (Assinatura ilegível.)
 
-###### Artigo 102.º da Carta das Nações Unidas
+Artigo 102.º da Carta das Nações Unidas
 
 1 - Todos os tratados e todos os acordos internacionais concluídos por qualquer membro das Nações Unidas depois da entrada em vigor da presente Carta deverão, dentro do mais breve prazo possível, ser registados e publicados pelo Secretariado.
 

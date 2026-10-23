@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/030b00/07340734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/73/1992/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-1992-150974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0341595726f265237aff4f50f27e1df3e67817bc3cf863f746ffe3b001398ed8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed12d15ce5546e8fa7bf3f49e4ac328985c4131e12d89cabf0e8eb7ee2635d05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:370254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354930:por
+  label: "Revogada pelo DEC LEI.279/93.11.08.1993.PCM, DR.IS-A [187] de 11.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1993-354930
+  date: '1993-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:09Z'
   warnings: []
   errors: []
 ---
@@ -108,12 +129,12 @@ Manda o Governo, pelo Primeiro-Ministro e pelo Ministro das Finanças, o seguint
 
 1.º Ao quadro da Provedoria de Justiça, constante do anexo I ao [Decreto-Lei n.º 314/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1988-370254), de 8 de Setembro, é aditado o seguinte lugar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/030b00/07340734.pdf))](https://files.diariodarepublica.pt/1s/1992/02/030b00/07340734.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/030b00/07340734.pdf)
 
 2.º É extinto, no mesmo quadro, o actual lugar de pessoal técnico afecto à área de apoio e intervenção na área social.
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 16 de Janeiro de 1992.**
+Assinada em 16 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Dias, Secretária de Estado Adjunta e do Orçamento.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Dias, Secretária de Estado Adjunta e do Orçamento.

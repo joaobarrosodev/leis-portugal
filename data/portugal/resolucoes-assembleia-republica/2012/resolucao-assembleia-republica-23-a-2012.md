@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 34/2012, 1º Suplemento, Série I de 2012-02-16
   number: '34'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 794-(2) a 794-(661)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23-a/2012/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-a-2012-244923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:32:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a751414b60b5107fd5a7a51432ba8bf6dc39355ecc45eba46562a38d53a87c9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bf0f1cce034d7b26f1f156170ec5a9d422d019f6d10dda7496f1f4dc160ca9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:32:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
+- Comércio
 - Convenção
 - Coreia do SUL
 - União Europeia
-- Comércio
-- Bruxelas
 relationships:
+- type: amended_by
+  target: pt:dre:244922:por
+  label: "Ratificado o Acordo de Comércio Livre entre a União Europeia e os Seus Estados Membros, por Um Lado, e a República\
+    \ da Coreia, por Outro, pelo DEC.32-A/2012.16.02.2012.PR, DR.IS [34-Supl] de 16.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-a-2012-244922
+  date: '2012-02-16'
 - type: cites
   target: celex:31990R1014
   label: null
@@ -121,15 +127,15 @@ relationships:
   label: null
   source: http://data.europa.eu/el
 article_structure:
-  article_count: 391
-  section_count: 81
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 392
+  section_count: 90
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:32:11Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +148,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Novembro de 2011.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE COMÉRCIO LIVRE ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA COREIA, POR OUTRO
 
@@ -1330,7 +1336,9 @@ e) Serviços de formação para o pessoal dos clientes, relacionados com program
 
 4 - Os serviços de informática e os serviços conexos permitem a prestação de outros serviços, por exemplo, bancários, tanto por meios electrónicos como por outros meios. As Partes reconhecem, contudo, que há uma distinção importante entre os serviços de base, por exemplo, alojamento web ou alojamento de aplicações, e os serviços de conteúdo ou serviços fundamentais prestados electronicamente, por exemplo, serviços bancários, e que nestes casos os serviços de conteúdos ou serviços fundamentais não são abrangidos pela CPC 84.
 
-##### SUBSECÇÃO C — Artigo 7.26
+##### SUBSECÇÃO C
+
+###### Artigo 7.26
 
 Princípios regulamentares
 
@@ -3356,7 +3364,7 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, c
 
 (1) Conforme estabelecido no Protocolo Relativo à Cooperação no Domínio da Cultura, o Comité de Comércio não tem competência sobre o Protocolo, exercendo o Comité de Cooperação no Domínio da Cultura todas as funções do Comité de Comércio no que diz respeito ao Protocolo, na medida em que essas funções sejam pertinentes para a sua execução.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 PROTOCOLO RELATIVO À DEFINIÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA
 
@@ -3966,7 +3974,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Os produtos mencionados na lista podem não estar todos abrangidos pelo presente Acordo. É, pois, necessário consultar as outras partes do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO II (a)
 
@@ -3990,7 +3998,7 @@ Disposições comuns
 
 (1) Em caso de necessidade, o conceito de ingrediente primário é interpretado pelo Comité Aduaneiro nos termos do artigo 28.º do presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO III — Texto da declaração de origem
 
@@ -3998,7 +4006,7 @@ A declaração de origem, cujo texto é apresentado a seguir, deve ser prestada 
 
 Versão búlgara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão espanhola
 
@@ -4006,23 +4014,23 @@ El exportador de los productos incluidos en el presente documento [autorización
 
 Versão checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão dinamarquesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão alemã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão estónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão grega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão inglesa
 
@@ -4034,31 +4042,31 @@ L'exportateur des produits couverts par le présent document [autorisation douan
 
 Versão italiana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão letã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão lituana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão húngara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão maltesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão neerlandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão polaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão portuguesa
 
@@ -4066,27 +4074,27 @@ O abaixo assinado, exportador dos produtos abrangidos pelo presente documento [a
 
 Versão romena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão eslovena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão eslovaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão finlandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão sueca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Versão coreana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ... (3) (Local e data.)
 
@@ -4588,7 +4596,7 @@ As Partes confirmam o seu direito de introduzirem novas regulamentações relati
 
 O presente memorando de entendimento constitui parte integrante do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 1 — (Intencionalmente em branco.)
 
@@ -4706,7 +4714,7 @@ Notas gerais
 
 Pauta aduaneira da Coreia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Lista pautal da Parte UE
 
@@ -4718,9 +4726,9 @@ Notas gerais
 
 Pauta aduaneira da Parte UE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
-## APÊNDICE N.º 2-A-1
+APÊNDICE N.º 2-A-1
 
 Coreia
 
@@ -4774,7 +4782,7 @@ Peixes-chatos
 
 5 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 As quantidades são geridas segundo o princípio do «primeiro a chegar, primeiro a ser servido».
 
@@ -4786,7 +4794,7 @@ Leite ou natas em pó, de teor de matérias gordas inferior a 1,5 %, e leitelho,
 
 6 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Após o ano 16, as quantidades do contingente pautal continuam a ser as autorizadas para o ano 16. Estes contingentes pautais são administrados pela Korea Agro-Fisheries Trade Corporation, que atribui as quantidades dos contingentes através de leilões trimestrais (Dezembro, Março, Junho e Setembro).
 
@@ -4798,7 +4806,7 @@ Soro de leite para alimentação
 
 7 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Estes contingentes pautais são administrados pela Korea Dairy Industries Association, que atribui as quantidades dos contingentes aos operadores tradicionais e aos novos importadores por meio de um sistema de licenças.
 
@@ -4810,7 +4818,7 @@ Manteiga e outras matérias gordas provenientes do leite
 
 8 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Estes contingentes pautais são administrados pela Korea Agro-Fisheries Trade Corporation, que atribui as quantidades dos contingentes através de leilões, sendo as quantidades totais das mercadorias originárias disponibilizadas no primeiro leilão do ano, que se realiza no 1.º mês de cada ano. As quantidades que não forem atribuídas no primeiro leilão são disponibilizadas num leilão subsequente, que se realiza até ao 15.º dia do 3.º mês, e em leilões posteriores, efectuados no prazo de 45 dias a contar do leilão anterior.
 
@@ -4822,7 +4830,7 @@ Queijos frescos, requeijão, queijos ralados ou em pó, queijos fundidos e outro
 
 9 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Estes contingentes pautais são administrados pela Korea Dairy Industries Association, que atribui as quantidades dos contingentes aos operadores tradicionais e aos novos importadores por meio de um sistema de licenças.
 
@@ -4834,7 +4842,7 @@ Mel, natural
 
 10 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Após o ano 16, as quantidades do contingente pautal continuam a ser as autorizadas para o ano 16. Estes contingentes pautais são administrados pela Korea Agro-Fisheries Trade Corporation, que atribui as quantidades dos contingentes através de leilões trimestrais (Dezembro, Março, Junho e Setembro).
 
@@ -4846,7 +4854,7 @@ Laranjas
 
 11 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Após o ano 12, as quantidades do contingente pautal continuam a ser as autorizadas para o ano 12.
 
@@ -4860,7 +4868,7 @@ Malte e cevada destinada à indústria da cerveja
 
 12 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 As licenças relativas a estes contingentes são administradas pela Korea Agro-Fisheries Trade Corporation a partir do 1.º dia útil do 1.º mês de cada ano, segundo o princípio do «primeiro a chegar, primeiro a ser servido», em resposta aos pedidos que lhe forem apresentados por escrito. Entre o 1.º dia útil e o último dia do 1.º mês, se, no seu conjunto, as quantidades dos contingentes pautais solicitadas pelos requerentes ultrapassarem as quantidades totais dos contingentes para esse ano, a Corporation distribui as quantidades dos contingentes pautais pelos requerentes numa base proporcional.
 
@@ -4874,7 +4882,7 @@ Leite desidratado preparado e outros
 
 13 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Estes contingentes pautais são administrados pela Korea Dairy Industries Association, que atribui as quantidades dos contingentes aos operadores tradicionais e aos novos importadores por meio de um sistema de licenças.
 
@@ -4886,7 +4894,7 @@ Suplementos alimentares para animais
 
 14 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Estes contingentes pautais são administrados pela Korea Dairy Industries Association e pela Korea Feed Milk Replacer Association, que administram estes contingentes pautais e atribuem as quantidades dos contingentes por meio de um sistema de licenças. Estes contingentes são atribuídos com base no volume das mercadorias originárias a que se refere a alínea c) e importadas pelos requerentes no período de 24 meses imediatamente anterior ao ano para o qual a licença é emitida e na quantidade de mercadorias originárias solicitadas pelos requerentes para esse ano.
 
@@ -4898,7 +4906,7 @@ Dextrina
 
 15 - a) A quantidade agregada das mercadorias originárias da União Europeia a que se refere a alínea c) autorizadas a entrar com isenção de direitos aduaneiros num determinado ano é especificada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 As licenças relativas a estes contingentes são administradas pela Korea Agro-Fisheries Trade Corporation a partir do 1.º dia útil do 1.º mês de cada ano, segundo o princípio do «primeiro a chegar, primeiro a ser servido», em resposta aos pedidos que lhe forem apresentados por escrito. Entre o 1.º dia útil e o último dia do 1.º mês de cada ano, se, no seu conjunto, as quantidades dos contingentes pautais solicitadas pelos requerentes ultrapassarem as quantidades totais dos contingentes para esse ano, a Corporation distribui as quantidades dos contingentes pautais pelos requerentes numa base proporcional.
 
@@ -4910,7 +4918,7 @@ c) As alíneas a) e b) são aplicáveis às seguintes disposições da HSK: 3505
 
 (1) As condições do sistema de leilão devem incluir disposições relativas à devolução e à reatribuição atempadas de licenças não utilizadas, bem como às sanções aplicáveis à não utilização ou à devolução de licenças não utilizadas, entre as quais a revogação de garantias de boa execução em matéria de importação.
 
-## APÊNDICE N.º 2-A-2
+APÊNDICE N.º 2-A-2
 
 A Parte UE
 
@@ -4922,15 +4930,15 @@ A Parte UE
 
 a) São inteiramente eliminados aquando da entrada em vigor do presente Acordo relativamente às seguintes mercadorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 b) São eliminados relativamente às mercadorias a seguir especificadas de acordo com o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 c) São mantidos no que respeita às seguintes mercadorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 4 - O direito específico referido no n.º 3 não deve exceder o direito específico mais baixo da taxa aplicada nação mais favorecida (NMF) em vigor ou a taxa aplicada do direito NMF que vigorava no dia imediatamente anterior à data de entrada em vigor do presente Acordo.
 
@@ -5060,7 +5068,7 @@ c) A lacunas das próprias normas ou da regulamentação técnica.
 
 (6) A autorização de colocação de um produto no mercado em conformidade com o presente artigo abrange a aposição da marcação obrigatória exigida para colocar o referido produto no mercado.
 
-## APÊNDICE N.º 2-B-1
+APÊNDICE N.º 2-B-1
 
 1 - O anexo n.º 2-B abrange os produtos enumerados no n.º 2 do artigo 1.º do anexo n.º 2-B que:
 
@@ -5074,7 +5082,7 @@ b) No caso das obrigações da Coreia, são abrangidos, à data da assinatura do
 
 (2) Por exemplo, nos termos do artigo 6.º do anexo n.º 2-B ou em caso de introdução de instrumentos específicos, em conformidade com o n.º 4 do artigo 1.º de Directiva [2004/108/CE](http://data.europa.eu/eli/dir/2004/108/oj?locale=pt) relativa à compatibilidade electromagnética.
 
-## APÊNDICE N.º 2-B-2
+APÊNDICE N.º 2-B-2
 
 1 - A União Europeia aceita, para todos os produtos abrangidos, o procedimento previsto na subalínea i) da alínea b) do artigo 3.º do anexo n.º 2-B como garantia de conformidade com a sua própria regulamentação técnica.
 
@@ -5094,11 +5102,11 @@ ii) Após o período transitório, os procedimentos definidos nas subalíneas i)
 
 3 - No que diz respeito aos produtos que, à data da assinatura do presente Acordo, estiverem abrangidos pelo âmbito de aplicação de mais de uma das leis referidas no n.º 2 do presente apêndice, o fornecedor é livre de fornecer uma garantia de conformidade com a CEM de acordo com qualquer um dos procedimentos seleccionados pela Coreia nos termos das alíneas a) ou b) do n.º 2 do presente apêndice. A mesma regra é aplicável caso, no futuro, um produto estiver abrangido pelo âmbito de aplicação de mais de uma das leis referidas no n.º 2 do presente apêndice, quer se trate de CEM quer de segurança dos produtos abrangidos.
 
-## APÊNDICE N.º 2-B-3
+APÊNDICE N.º 2-B-3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
-## APÊNDICE N.º 2-B-4
+APÊNDICE N.º 2-B-4
 
 Para efeitos do anexo n.º 2-B, entende-se por (1):
 
@@ -5260,7 +5268,7 @@ e) É aditada a seguinte frase ao artigo 14.9 («Prazo razoável para o cumprime
 
 (2) As Partes entendem que a regulamentação abrangida pelas subalíneas iii) e iv) da alínea a), em vigor aquando da assinatura do presente Acordo, não deu azo a problemas graves de acesso ao mercado e, ao abrigo das disposições destas subalíneas, não implicará a deterioração das condições de acesso ao mercado em relação à situação existente na altura.
 
-## APÊNDICE N.º 2-C-1
+APÊNDICE N.º 2-C-1
 
 O anexo n.º 2-C não abrange:
 
@@ -5270,27 +5278,27 @@ b) Motos de neve e carros de golfe (SH: 8703.10); e
 
 c) Máquinas para construção (SH: 84134000, 84251100, 84251920, 84251980, 84253100, 84253930, 84253990, 84254100, 84254200, 84254900, 84261100, 84261200, 84261900, 84262000, 84263000, 84264100, 84264900, 84269110, 84269190, 84269900, 84272010, 84272090, 84281020, 84281080, 84282030, 84282091, 84282098, 84283100, 84283200, 84283300, 84283920, 84283990, 84284000, 84286000, 84289030, 84289071, 84289079, 84289091, 84289095, 84291100, 84291900, 84292000, 84293000, 84294010, 84294030, 84294090, 84295110, 84295191, 84295199, 84295210, 84295290, 84295900, 84301000, 84302000, 84303100, 84303900, 84304100, 84304900, 84305000, 84306100, 84306900, 84311000, 84313100, 84313910, 84313970, 84314100, 84314200, 84314300, 84314920, 84314980, 84741000, 84742010, 84742090, 84743100, 84743200, 84743910, 84743990, 84748010, 84748090, 84749010, 84749090, 84791000, 87013010, 87013090, 87041010, 87041090, 87051000, 87052000, 87054000 e 87059030).
 
-## APÊNDICE N.º 2-C-2
+APÊNDICE N.º 2-C-2
 
 QUADRO N.º 1
 
 Lista referida na subalínea i) da alínea a) do artigo 3.º do anexo n.º 2-C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 QUADRO N.º 2
 
 Lista referida na subalínea iii) da alínea a) do artigo 3.º do anexo 2-C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
-## APÊNDICE N.º 2-C-3
+APÊNDICE N.º 2-C-3
 
 QUADRO N.º 1
 
 Lista referida na subalínea ii) da alínea a) do artigo 3.º do anexo n.º 2-C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Sistemas de diagnóstico a bordo para veículos com motor a gasolina
 
@@ -5334,7 +5342,7 @@ QUADRO N.º 2
 
 Lista referida na subalínea iii) da alínea a) do artigo 3.º do anexo n.º 2-C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 2-D — Produtos farmacêuticos e dispositivos médicos
 
@@ -5508,19 +5516,19 @@ a) Carne de bovino:
 
 Cobertura: carnes de músculo bovino frescas, refrigeradas e congeladas - posições HSK 0201.10.0000, 0201.20.0000, 0201.30.0000, 0202.10.0000, 0202.20.0000 e 0202.30.0000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 b) Carne de suíno:
 
 Cobertura: posições HSK 0203.19.1000 e 0203.19.9000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 c) Maçãs:
 
 Cobertura: posição HSK 0808.10.0000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 O nível de desencadeamento refere-se à quantidade total de todas as variedades de maçãs importadas.
 
@@ -5530,7 +5538,7 @@ d ) Malte e cevada destinada à indústria da cerveja:
 
 Cobertura: posições HSK 1003.00.1000 e 1107.10.0000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Para as quantidades introduzidas a um nível igual ou inferior ao nível de desencadeamento, v. n.º 12 do apêndice n.º 2-A-1.
 
@@ -5538,31 +5546,31 @@ e) Fécula de batata:
 
 Cobertura: posição HSK 1108.13.0000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 f) Ginseng:
 
 Cobertura: posições HSK 1211.20.2210, 1211.20.2220, 1211.20.2290, 1302.19.1210, 1302.19.1220 e 1302.19.1290:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 g) Açúcar:
 
 Cobertura: posição HSK 1701.99.0000:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 h) Álcool:
 
 Cobertura: posição HSK 2207.10.9010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 i) Dextrina:
 
 Cobertura: posições HSK 3505.10.4010, 3505.10.4090, 3505.10.5010 e 3505.10.5090:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Para as quantidades introduzidas a um nível igual ou inferior ao nível de desencadeamento, v. n.º 15 do apêndice n.º 2-A-1.
 
@@ -5630,7 +5638,7 @@ y) «Ano 25» o período de 12 meses com início no 24.º aniversário da entrad
 
 ## ANEXO N.º 7-A — Listas de compromissos
 
-# Parte UE
+## Parte UE
 
 1 - Lista de compromissos em conformidade com o artigo 7.7 («Prestação transfronteiras»).
 
@@ -5646,7 +5654,9 @@ A) Lista de compromissos específicos nos sectores dos serviços;
 
 B) Lista de compromissos específicos em matéria de estabelecimento.
 
-## ANEXO N.º 7-A-1 — Parte UE
+## ANEXO N.º 7-A-1
+
+## Parte UE
 
 Lista de compromissos em conformidade com o artigo 7.7
 
@@ -5732,9 +5742,11 @@ SE - Suécia;
 
 UK - Reino Unido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
-## ANEXO N.º 7-A-2 — Parte EU
+## ANEXO N.º 7-A-2
+
+## Parte EU
 
 Lista de compromissos em conformidade com o artigo 7.13
 
@@ -5822,9 +5834,11 @@ SE - Suécia;
 
 UK - Reino Unido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
-## ANEXO N.º 7-A-3 — Parte EU
+## ANEXO N.º 7-A-3
+
+## Parte EU
 
 Lista de reservas em conformidade com os artigos 7.18 e 7.19
 
@@ -5918,7 +5932,7 @@ SE - Suécia;
 
 UK - Reino Unido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 7-A-4 — Coreia
 
@@ -5982,7 +5996,7 @@ Modos de prestação:
 
 4) Presença de pessoas singulares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO I — Serviços de ensino superior
 
@@ -6072,7 +6086,7 @@ Pessoal-chave, estagiários de nível pós-universitário e vendedores de servi�
 
 (3) Para efeitos do presente número, o tratamento previsto no artigo 7.12 não é menos favorável que o tratamento objecto de compromissos em acordos de comércio livre em que a Coreia é parte e que entrarão em vigor após a assinatura do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 7-B — Isenção do tratamento NMF
 
@@ -6094,11 +6108,11 @@ ii) A incorporação da legislação comum na ordem jurídica das partes no acor
 
 ## ANEXO N.º 7-C — Lista de isenções NMF
 
-# Parte UE — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+## Parte UE — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Coreia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 7-D — Compromisso adicional sobre serviços financeiros
 
@@ -6238,59 +6252,59 @@ O Jornal Oficial da União Europeia.
 
 ## ANEXO N.º 10-A — Indicações geográficas para produtos agrícolas e géneros alimentícios
 
-# Parte A — Produtos agrícolas e géneros alimentícios originários da União Europeia (1) (2)
+## Parte A — Produtos agrícolas e géneros alimentícios originários da União Europeia (1) (2)
 
 (referidos no n.º 4 do artigo 10.18.)
 
 Áustria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 França
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Alemanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Itália
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Espanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 (1) As designações em itálico não fazem parte das indicações geográficas.
 
 (2) Nos casos em que a indicação geográfica é apresentada da seguinte forma: «Szegedi téliszalámi / Szegedi szalámi», isso significa que ambas as designações podem ser usadas quer em conjunto quer individualmente.
 
-# Parte B — Produtos agrícolas e géneros alimentícios originários da Coreia
+## Parte B — Produtos agrícolas e géneros alimentícios originários da Coreia
 
 (referidos no n.º 3 do artigo 10.18)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 10-B — Indicações geográficas para vinhos, vinhos aromatizados e bebidas espirituosas
 
-# Parte A — Vinhos, vinhos aromatizados e bebidas espirituosas originários da União Europeia (1)
+## Parte A — Vinhos, vinhos aromatizados e bebidas espirituosas originários da União Europeia (1)
 
 (referidos no n.º 1 do artigo 10.19)
 
@@ -6298,97 +6312,97 @@ Espanha
 
 França
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Alemanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Itália
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Espanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 #### Secção 2 — Bebidas espirituosas originárias da União Europeia (1) (2)
 
 Áustria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Bélgica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Finlândia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 França
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Alemanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Irlanda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Itália
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 POLÓNIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Espanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Suécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 Reino Unido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 (1) As designações em itálico não fazem parte das indicações geográficas.
 
@@ -6398,13 +6412,13 @@ Reino Unido
 
 (4) Produto de Chipre ou da Grécia.
 
-# Parte B — Vinhos, vinhos aromatizados e bebidas espirituosas originários da Coreia
+## Parte B — Vinhos, vinhos aromatizados e bebidas espirituosas originários da Coreia
 
 (referidos no n.º 2 do artigo 10.19)
 
 Bebidas alcoólicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf)
 
 ## ANEXO N.º 11 — (Intencionalmente em branco.)
 

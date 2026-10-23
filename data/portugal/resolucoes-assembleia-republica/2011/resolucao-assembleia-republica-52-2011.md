@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52/2011/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2011-278757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f5a862bc20aa0adbedf031f2dd667c89a53d76cc8c98fd29b8f351232e0ac52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0881fd974d04c8d7f26c05744598b06ec145f5d526860d3d1765c7bc533b21a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,64 +67,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Administração Pública
+- Agricultura
+- Branqueamento de Capitais
 - CE Países
-- Turismo
-- Silvicultura
-- Desenvolvimento Rural
+- Combate à Droga
 - Combate ao Terrorismo
-- Direitos do Homem
+- Comércio
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Bilateral
-- Cooperação Comercial
-- Cooperação Interempresas
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Educação
-- Corrupção
-- Portugal
-- Saúde
-- Combate à Droga
-- Migração
-- União Europeia
-- Administração Pública
-- Pesca
-- Branqueamento de Capitais
-- Indonésia
-- Informação
-- Sociedade da Informação
-- Cooperação Tecnológica
-- Jacarta
-- Terrorismo
-- Proteção do Ambiente
-- Tecnologia
 - Cooperação Agrícola
+- Cooperação Bilateral
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
+- Cooperação Interempresas
 - Cooperação Internacional
 - Cooperação Judiciária
+- Cooperação Jurídica
+- Cooperação Técnica
+- Cooperação Tecnológica
+- Corrupção
 - Cultura
-- Proteção Fitossanitária
+- Desenvolvimento Rural
+- Direitos do Homem
+- Educação
 - Estatística
+- Indonésia
+- Informação
+- Jacarta
+- Migração
+- Modernização Administrativa
+- Pesca
+- Portugal
 - Propriedade Intelectual
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Recursos Naturais
-- Agricultura
-- Comércio
+- Saúde
+- Silvicultura
+- Sociedade da Informação
+- Tecnologia
+- Terrorismo
 - Transporte
-relationships: []
+- Turismo
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:278755:por
+  label: "Ratificado o Acordo Quadro Global de Parceria e Cooperação entre a Comunidade Europeia e os Seus Estados Membros,\
+    \ por um lado, e a República da Indonésia, por outro, incluindo a Acta Final com declarações, pelo DEC.30/2011.21.03.2011.PR,\
+    \ DR.IS [56] de 21.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/30-2011-278755
+  date: '2011-03-21'
 article_structure:
   article_count: 50
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:41Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +144,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de Janeiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO QUADRO GLOBAL DE PARCERIA E COOPERAÇÃO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA INDONÉSIA, POR OUTRO.
 
@@ -173,7 +180,7 @@ Em conformidade com a legislação e regulamentação respectivas;
 
 acordaram no seguinte:
 
-## TÍTULO I
+TÍTULO I
 
 Natureza e âmbito de aplicação
 
@@ -255,7 +262,7 @@ Cooperação em matéria de aplicação da legislação, reforço do quadro norm
 
 Cooperação em matéria de controlo e gestão das fronteiras, reforço das capacidades mediante a criação de redes, programas de formação e de educação, intercâmbios de altos funcionários, universitários, analistas e operadores no terreno e organização de seminários e de conferências.
 
-## TÍTULO II
+TÍTULO II
 
 Cooperação nas organizações regionais e internacionais
 
@@ -263,7 +270,7 @@ Cooperação nas organizações regionais e internacionais
 
 As Partes comprometem-se a trocar pontos de vista e a cooperar no âmbito de instâncias e organizações regionais e internacionais como as Nações Unidas, o diálogo ASEAN-UE, o Fórum Regional ASEAN (FRA), a Cimeira Ásia-Europa (ASEM), a Conferência das Nações Unidas sobre Comércio e Desenvolvimento (CNUCED) e a Organização Mundial do Comércio (OMC).
 
-## TÍTULO III
+TÍTULO III
 
 Cooperação bilateral e regional
 
@@ -273,7 +280,7 @@ Cooperação bilateral e regional
 
 2 - A Comunidade e a Indonésia podem, se adequado, decidir alargar o apoio financeiro a actividades de cooperação nos domínios abrangidos pelo Acordo ou com ele relacionados, em conformidade com os respectivos procedimentos e recursos financeiros. Esta cooperação pode incluir, em especial, a organização de programas de formação, grupos de trabalho e seminários, intercâmbios de peritos, estudos e outras acções decididas pelas Partes.
 
-## TÍTULO IV
+TÍTULO IV
 
 Cooperação em matéria de comércio e investimento
 
@@ -321,7 +328,7 @@ As Partes promovem a instauração e a aplicação efectiva de regras de concorr
 
 As Partes estabelecem um diálogo coerente com vista, nomeadamente, ao intercâmbio de informações sobre os respectivos enquadramentos regulamentares, à promoção do acesso aos respectivos mercados, à promoção do acesso às fontes de capital e tecnologia, à promoção do comércio no sector dos serviços entre ambas as regiões e nos mercados de países terceiros.
 
-## TÍTULO V
+TÍTULO V
 
 Cooperação noutros domínios
 
@@ -627,7 +634,7 @@ g) Melhoria dos mecanismos e dos serviços responsáveis pela aplicação da lei
 
 2 - As Partes incentivam o Banco Europeu de Investimento a prosseguir as suas operações na Indonésia, de acordo com os seus procedimentos e critérios de financiamento e com a legislação e a regulamentação da Indonésia.
 
-## TÍTULO VI
+TÍTULO VI
 
 Enquadramento institucional
 
@@ -651,7 +658,7 @@ d) Fazer recomendações às Partes signatárias do presente Acordo para promove
 
 5 - O Comité Misto aprova o seu regulamento interno para a aplicação do presente Acordo.
 
-## TÍTULO VII
+TÍTULO VII
 
 Disposições finais
 
@@ -713,7 +720,7 @@ A notificação é enviada ao Secretário-Geral do Conselho da União Europeia e
 
 O presente Acordo é redigido nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e indonésia, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf)
 
 Acta Final
 
@@ -723,4 +730,4 @@ Os plenipotenciários dos Estados membros e plenipotenciário da República da I
 
 As disposições do Acordo abrangidas pelo título vi da parte iii do Tratado que institui a Comunidade Europeia vinculam o Reino Unido e a Irlanda como Partes Contratantes separadas e não como membros da Comunidade Europeia até que o Reino Unido ou a Irlanda (consoante o caso) notifiquem a República Árabe da Indonésia de que passam a estar-lhes vinculadas como parte da Comunidade Europeia nos termos do Protocolo relativo à posição do Reino Unido e da Irlanda anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia. O mesmo se aplica à Dinamarca, nos termos do Protocolo relativo à posição da Dinamarca anexo aos mesmos Tratados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05600/0155901575.pdf)

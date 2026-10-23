@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/80/2012/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/80-2012-178828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60f0fcda156c0cf8756f4a2fce1900e7c3370e294ad870193823b87ca8400c1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7caf0e68717917170435c11ba11ec0ce3f4f9befac7f8f59d7a36273aae4a6f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Bélgica
-- Convenção
-- EURO
-- Irlanda
-- Portugal
-- União Europeia
-- Espanha
-- Finlândia
-- Tratado que Cria o Mecanismo Europeu de Estabilidade
-- Finanças Públicas
-- FMI
-- Áustria
-- Países Baixos
 - Alemanha
+- Áustria
+- Bélgica
 - Bruxelas
 - Chipre
+- Convenção
+- Espanha
 - Estónia
+- EURO
+- Finanças Públicas
+- Finlândia
+- FMI
 - França
 - Grécia
+- Irlanda
 - Luxemburgo
 - Malta
+- Países Baixos
+- Portugal
+- Tratado que Cria o Mecanismo Europeu de Estabilidade
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:178830:por
+  label: "Ratificado o Tratado que cria o Mecanismo Europeu de Estabilidade entre o Reino da Bélgica, a República Federal\
+    \ da Alemanha, a República da Estónia, a Irlanda, a República Helénica, o Reino de Espanha, a República Francesa, a República\
+    \ Italiana, a República de Chipre, o Grão-Ducado do Luxemburgo, Malta, o Reino dos Países Baixos, a República da Áustria,\
+    \ a República Portuguesa, a República da Eslovénia, a República Eslovaca e a República da Finlândia, pelo DEC.93/2012.19.06.2012.PR,\
+    \ DR.IS [117] de 19.06.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/93-2012-178830
+  date: '2012-06-19'
+- type: amended_by
+  target: pt:dre:67647964:por
+  label: O texto consolidado do tratado aprovado pela presente Resolução, com as adaptações nele introduzidas em consequência
+    direta da adesão das Repúblicas da Letónia e da Lituânia, foi publicado, em anexo, pelo(a) Aviso n.º 49/2015 - Diário
+    da República n.º 126/2015, Série I de 2015-07-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/49-2015-67647964
+  date: '2015-07-01'
+- type: amended_by
+  target: pt:dre:175865933:por
+  label: Aprovado o Acordo de alteração ao Tratado que cria um Mecanismo Europeu de Estabilidade, aprovado pelo presente diploma
+    e ratificado pelo Dec 93/2012 de 19-jun do PR, pelo(a) Resolução da Assembleia da República n.º 319/2021 - Diário da República
+    n.º 240/2021, Série I de 2021-12-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/319-2021-175865933
+  date: '2021-12-14'
+- type: amended_by
+  target: pt:dre:215647926:por
+  label: Publicado, em anexo, o texto consolidado do tratado, com as adaptações nele introduzidas em consequência direta da
+    adesão da República da Croacia, aprovado pela presente resolução, pelo(a) Aviso n.º 30/2023 - Diário da República n.º
+    136/2023, Série I de 2023-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/30-2023-215647926
+  date: '2023-07-14'
 - type: cites
   target: celex:32011D0199
   label: null
@@ -98,13 +128,13 @@ relationships:
 article_structure:
   article_count: 48
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:31Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +147,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 13 de abril de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 TRATADO QUE CRIA O MECANISMO EUROPEU DE ESTABILIDADE ENTRE O REINO DA BÉLGICA, A REPÚBLICA FEDERAL DA ALEMANHA, A REPÚBLICA DA ESTÓNIA, A IRLANDA, A REPÚBLICA HELÉNICA, O REINO DE ESPANHA, A REPÚBLICA FRANCESA, A REPÚBLICA ITALIANA, A REPÚBLICA DE CHIPRE, O GRÃO-DUCADO DO LUXEMBURGO, MALTA, O REINO DOS PAÍSES BAIXOS, A REPÚBLICA DA ÁUSTRIA, A REPÚBLICA PORTUGUESA, A REPÚBLICA DA ESLOVÉNIA, A REPÚBLICA ESLOVACA E A REPÚBLICA DA FINLÂNDIA.
 
@@ -715,12 +745,12 @@ O presente Tratado é depositado junto do Secretariado-Geral do Conselho da Uni�
 
 Feito em Bruxelas, a 2 de fevereiro de 2012, num único exemplar, cujos textos em alemão, eslovaco, esloveno, espanhol, estónio, finlandês, francês, grego, inglês, irlandês, italiano, maltês, neerlandês, português e sueco fazem igualmente fé, e são depositados nos arquivos do depositário, que deles transmitirá uma cópia devidamente autenticada a cada uma das Partes Contratantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf)
 
 ## ANEXO I — Chave de contribuição do MEE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf)
 
 ## ANEXO II — Subscrição do capital autorizado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11700/0302503038.pdf)

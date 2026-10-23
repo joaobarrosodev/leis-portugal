@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(207) a 3330-(208)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/02070208.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-e11/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-e11-1992-617514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:28:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 823be8bfa8bc2a18c7d5ed9b7467119f7daa266dc62c6a0dcb25c60942586e60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bb84accb2c08e3c76d8b1cb201f4ea63d6f5572b73b2887cd1cde9ac8ce134d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:28:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,82 @@ relationships:
   target: pt:dre:532432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659875:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética na concessão atribuída no presente diploma, pela\
+    \ PORT.1023/97.1997.09.24.MADRP DR.IS-B [221]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1023-1997-659875
+  date: '1997-09-24'
+- type: amended_by
+  target: pt:dre:677072:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela PORT.1082/97.1997.10.29.MADRP DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-1997-677072
+  date: '1997-10-29'
+- type: amended_by
+  target: pt:dre:251439:por
+  label: "Alterado o nº 1, na redacção da Port. 1082/97, de 29-Out pela PORT.190/2002.2002.03.04.MADRP, DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-2002-251439
+  date: '2002-03-04'
+- type: amended_by
+  target: pt:dre:572398:por
+  label: "Alterado o nº 1º pela PORT.369/2003.2003.05.05.MADRP, DR.IS-B [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2003-572398
+  date: '2003-05-05'
+- type: amended_by
+  target: pt:dre:515429:por
+  label: "Suspenso, pelo prazo máximo de nove meses, o exercício da caça e de actividades de carácter venatório na zona de\
+    \ caça associativa atribuída pelo presente diploma, na redacção das Port 1082/97 de 22-Out, 190/2002 de 04-Mar e 369/2003\
+    \ de 05-Mai, pela Port.1000/2004.09.08.2004.MADRP, DR.IS-B [186] de 09.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1000-2004-515429
+  date: '2004-08-09'
+- type: amended_by
+  target: pt:dre:284096:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, alterado pelas Ports 1082/97,\
+    \ de 22-Out, 190/2002, de 04-Mar e 369/2003, de 05-Mai, pela Port.1033-BP/2004.10.08.2004.MADRP, DR.IS-B [187-Supl] de\
+    \ 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-bp-2004-284096
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:532432:por
+  label: "Renovada, por doze anos, a concessão de zona de caça criada pelo presente diploma, alterado pelas Ports. 1082/92,\
+    \ de 22-Out, 190/2002, de 04-Mar, 369/2003, de 05-Mai e 1033-BP/2004, de 10-Ago, pela PORT.449/2005.29.04.2005.MAPF, DR.IS-B\
+    \ [83] de 29.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-2005-532432
+  date: '2005-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:28:16Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +184,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 24 de Junho de 1992.**
+Assinada em 24 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/02070208.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/02070208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/02070208.pdf)

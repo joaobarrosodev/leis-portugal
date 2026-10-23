@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/603/1992/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/603-1992-303164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d804e2a6cd04a2b1937f414c84d4d274c32437eb38d71bd008f22cfadf93cb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08f5a5968a4a4981df8b156ba56077a5edfd2381d80c550d510d495e7ef874cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,88 @@ relationships:
   target: pt:dre:333491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642904:por
+  label: "Alterado o nº 1º e aditado o nº 1º-A pela PORT.845/97.1997.09.06.MADRP DR.IS-B [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/845-1997-642904
+  date: '1997-09-06'
+- type: amended_by
+  target: pt:dre:138479:por
+  label: "Alterado o nº 1 pela PORT.214/99.1999.03.26.MADRP, DR.IS-B [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-1999-138479
+  date: '1999-03-26'
+- type: amended_by
+  target: pt:dre:610035:por
+  label: "Alterado o nº 1 do presente diploma, na redacção das Port 845/97 de 06-Set e 214/99 de 26-Mar pela PORT.1134/2001.2001.09.25.MADRP,\
+    \ DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1134-2001-610035
+  date: '2001-09-25'
+- type: amended_by
+  target: pt:dre:517617:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pelo presente diploma,\
+    \ alterado pelas Port 214/99 de 26-Mar e 1134/2001 de 25-Set, pela PORT.758/2004.30.06.2004.MADRP, DR.IS-B [152] de 30.06.2004\0\
+    04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-2004-517617
+  date: '2004-06-30'
+- type: amended_by
+  target: pt:dre:284349:por
+  label: "Renovada por doze anos a concessão de zona de caça associativa atribuída pelo presente diploma, com as alterações\
+    \ introduzidas pelas Port 845/97 de 06-Set, 214/99 de 26-Mar e 1134/2001 de 25-Set, pela PORT.1033-DZ/2004.10.08.2004.MAPF,\
+    \ DR.IS-B [187-2ºSupl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-dz-2004-284349
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:455437:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterada pela Port 845/97,\
+    \ de 06-Set, pela Port 214/99, de 26-Mar, pela Port 1134/2001, de 25-Set e pela Port 1033-DZ/2004, de 10-Ago, pela PORT.906/2008.18.08.2008.MADRP,\
+    \ DR.IS [158] de 18.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-2008-455437
+  date: '2008-08-18'
+- type: amended_by
+  target: pt:dre:333491:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port 845/97, de 06-Set,\
+    \ Port 214/99, de 26-Mar, Port 1134/201, de 25-Set, Port 1033-DZ/2004, de 10-Ago e pela Port 906/2008, de 18-Ago, pela\
+    \ PORT.646/2010.09.08.2010.MADRP, DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-2010-333491
+  date: '2010-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631999:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 158/92, PUBLICADA NO DR.IS-B, 226 5 SUPL, DE 920930.\0930.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/158-1992-631999
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:05Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +189,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/147b00/30623063.pdf))](https://files.diariodarepublica.pt/1s/1992/06/147b00/30623063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/147b00/30623063.pdf)

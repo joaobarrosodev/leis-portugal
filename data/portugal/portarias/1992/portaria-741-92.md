@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/741/1992/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/741-1992-292750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98220e7492c69b3d80e45e6e860093bea5b2c39c2b33c5709411cec1a7d1ae53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5fce88b9f2879fba2553a329e3e42d5ac09b0b52e0953cc3556687b02cea138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Pessoal Operário
+- Castelo Branco
 - Hospital Distrital
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
 - Pessoal de Informática
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal Operário
 - Pessoal Religioso
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
-- Castelo Branco
-- Pessoal Docente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:607076:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243876:por
+  label: "Alterado o quadro de pessoal do Hospital de Amato Lusitano (anterior Hospital Distrital de Castelo Branco) pela\
+    \ PORT.721/98.1998.09.09.PCM, DR.IS-B [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/721-1998-243876
+  date: '1998-09-09'
+- type: amended_by
+  target: pt:dre:607076:por
+  label: "Alterado no referente á carreira médica hospitalar o quadro de pessoal do Hospital Amato Lusitano, aprovado pela\
+    \ Port 422/92, de 22-Mai, alterada pelo presente diploma e pelas Port 69/93, de 19-Jan, 458/93, de 30-Abr, 269/95, de\
+    \ 04-Abr, 1029/95, de 22-Ago, 621/96, de 31-Out, 164/97, de 07-Mar, 31/98, de 19-Jan, 721/98, de 09-Set, 342/99, de 14-Mai\
+    \ e 315/2001, de 02-Abr, pela PORT.76/2004.21.01.2004.MF, DR.IS-B [17] de 21.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2004-607076
+  date: '2004-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/392/1991/05/09/p/dre
   label: null
@@ -92,16 +106,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:26Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +186,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 1 de Julho de 1992.**
+Assinada em 1 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Castelo Branco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/169b00/34573460.pdf))](https://files.diariodarepublica.pt/1s/1992/07/169b00/34573460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/169b00/34573460.pdf)

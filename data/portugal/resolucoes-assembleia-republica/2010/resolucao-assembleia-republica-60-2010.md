@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/12900/0246802468.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60/2010/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2010-335199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fd3cb719a74774017f6ed8e593044b560537e0377fc79b13b97130c924cd476
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7f8fba0740cfaeba487b2022f629773a49fb0cc880fa44e7b1952339a68bb6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Agência de Turismo
 - Ajudas de Custo
-- Parlamentar
+- Assembleia da República
 - Deslocação em Serviço
 - Despesas de Deslocação
-- Assembleia da República
+- Parlamentar
 - Presidente
 - Veículo do Estado
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:123407852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145191:por
+  label: "Dada nova redacção, a partir de 01.01.2012, ao nº 4 do art. 15º-B da Res 57/2004 de 06-Ago, aditado pelo presente\
+    \ diploma, pela RES.164/2011.29.12.2011.AR, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/164-2011-145191
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/101/2009/11/26/p/dre
   label: null
@@ -91,16 +97,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/57/2004/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/57/2004/08/06/p/dre
+- type: cites
+  target: pt:dre:482606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518578:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123407852:por
+  label: Revogada, no 1.º dia da XIV Legislatura (25.10.2019), a Res 57/2004 de 06-ago AR, na redação da presente Resolução,
+    pelo(a) Resolução da Assembleia da República n.º 113/2019 - Diário da República n.º 139/2019, Série I de 2019-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/113-2019-123407852
+  date: '2019-07-23'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:20Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +159,17 @@ Os artigos 1.º, 3.º e 15.º-A da [Resolução da Assembleia da República n.º
 
 8 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - Nas Regiões Autónomas, a distância para cálculo da média referida no número anterior, nas viagens por via área, é igual ao quociente da divisão do valor da tarifa área em classe económica pelo quantitativo fixado na lei geral para pagamento do quilómetro percorrido em automóvel próprio.
 
-###### Artigo 15.º-A — [...]
+Artigo 15.º-A
+
+[...]
 
 Os pontos ou milhas acumulados pelos deputados e funcionários nas deslocações oficiais ao estrangeiro revertem exclusivamente para a aquisição de viagens oficiais da Assembleia da República, nos termos a fixar em despacho do Presidente da Assembleia da República.»
 
@@ -163,7 +191,9 @@ Deslocações de deputados e delegações
 
 5 - No cálculo do limite de horas a que se referem os números anteriores é contabilizada a duração de todos os voos envolvidos, sendo excluídos os tempos de escala, se os houver.
 
-###### Artigo 15.º-C — Alterações de voos
+Artigo 15.º-C
+
+Alterações de voos
 
 Os deputados assumem total responsabilidade por todos os custos decorrentes de quaisquer alterações de voos após emissão do bilhete, incluindo os de alojamento, excepto se existir motivo de força maior ou forem convocados pelo seu grupo parlamentar por razões de ordem estritamente parlamentar, confirmados, em qualquer dos casos, pelo Presidente da Assembleia da República.»
 
@@ -173,4 +203,4 @@ O disposto no artigo 2.º da presente resolução não se aplica às delegaçõe
 
 Aprovada em 2 de Julho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

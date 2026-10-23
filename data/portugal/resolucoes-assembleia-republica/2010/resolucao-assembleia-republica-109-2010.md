@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/109/2010/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/109-2010-342136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18640abb236927e8dea881d3b4f6658e1b9da6ad46135a5843f3c153c8dc593b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da03778cc1a1d9488a23436d1fe77dabadec38c936922c23dcd7fabaaeadeb01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Liberdade Religiosa
 - Convenção
-- Portugal
 - Ensino Religioso
-- Lisboa
 - Grupo Religioso
 - Imamat Ismaili
+- Liberdade Religiosa
+- Lisboa
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:342138:por
+  label: "Ratificada pelo DEC.94/2010.24.09.2010.PR, DR.IS [187] de 24.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/94-2010-342138
+  date: '2010-09-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/16/2001/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2001/06/22/p/dre
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:21Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +124,7 @@ São formuladas as seguintes declarações relativamente ao Acordo entre a Repú
 
 Aprovada em 18 de Junho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O IMAMAT ISMAILI
 
@@ -203,7 +212,7 @@ A República Portuguesa e o Imamat Ismaili procederão à elaboração, revisão
 
 O presente Acordo entra em vigor 30 dias após o cumprimento da tramitação prevista pelo direito português com vista à validade e à eficácia de convenções internacionais.
 
-**Assinado em Lisboa, neste 8.º dia do mês de Maio de 2009, em duas cópias nas línguas portuguesa e inglesa, possuindo ambos os textos igual valor.**
+Assinado em Lisboa, neste 8.º dia do mês de Maio de 2009, em duas cópias nas línguas portuguesa e inglesa, possuindo ambos os textos igual valor.
 
 Pelo Governo da República Portuguesa:
 

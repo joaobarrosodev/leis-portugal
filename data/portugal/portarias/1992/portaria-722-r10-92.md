@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(199) a 3330-(200)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/01990200.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-r10/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-r10-1992-617929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea72ea3358a591be457bcb9aba4a00fc426d3d384c72f9b06a959477243d804a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d60bb878cc4674561147bfcf86e4b4afad76d2ccf7706414434f09eaca48caec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,72 @@ relationships:
   target: pt:dre:335471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566672:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, pela PORT.678/98.1998.08.31.MADRP,\
+    \ DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-1998-566672
+  date: '1998-08-31'
+- type: amended_by
+  target: pt:dre:186574:por
+  label: "Renovada, por um período de 12 anos, a concessão de zona de caça associativa pela PORT.1047/98.1998.12.22.MADRP\
+    \ DR.IS-B [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1047-1998-186574
+  date: '1998-12-22'
+- type: amended_by
+  target: pt:dre:507246:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa concessionada pelo presente diploma, renovada pela Port\
+    \ 1047/98, de 22-Dez, pela PORT.931/2004.27.07.2004.MADRP, DR.IS-B [175] de 27.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/931-2004-507246
+  date: '2004-07-27'
+- type: amended_by
+  target: pt:dre:248017:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída no presente diploma, renovada pela Port 1047/98 de 22-Dez\
+    \ e alterada pela Port 931/2004 de 27-Jul, pela PORT.150/2008.14.02.2008.MADRP, DR.IS [32] de 14.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-2008-248017
+  date: '2008-02-14'
+- type: amended_by
+  target: pt:dre:335471:por
+  label: "Renovada, por um período de doze anos, a concessão da zona de caça associativa do Alto da Seixa, atribuída pelo\
+    \ presente diploma, renovada pela Port 1047/98, de 22-Dez, alterada pela Port 931/2004, de 27-Jul e pela Port 150/2008,\
+    \ de 14-Fev, e anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Salto, pela PORT.347/2010.21.06.2010.MADRP,\
+    \ DR.IS [118] de 21.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-2010-335471
+  date: '2010-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:54Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +172,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 24 de Junho de 1992.**
+Assinada em 24 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/01990200.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/01990200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/01990200.pdf)

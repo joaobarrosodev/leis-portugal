@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/6/2009/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2009-604600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6289c1710b80fe42303fcbf3b3b6dbda6a9e2f08e15072460c8cff99a9e80b1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f617086e916bab79bd2992283fd4f0fb3635718c98024406f0e0b09964030a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Brasília
 - Convenção
-- Portugal
-- Brasil
-- Segurança Social
 - Funcionário Público
-relationships: []
+- Portugal
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:604593:por
+  label: "Ratificado o Acordo que altera o Acordo sobre Segurança Social ou Seguridade Social, pelo DEC.12/2009.26.02.2009.PR,\
+    \ DR.IS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-2009-604593
+  date: '2009-02-26'
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:11Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Janeiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO QUE ALTERA O ACORDO SOBRE SEGURANÇA SOCIAL OU SEGURIDADE SOCIAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL.
 
@@ -133,7 +139,7 @@ h) ...
 
 2 - ...
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - ...
 
@@ -179,13 +185,13 @@ iii) Ao sistema não contributivo abrangido pela Lei Orgânica de Assistência S
 
 3 - Aplicar-se-á, também, à legislação que estenda os regimes existentes a novas categorias profissionais, ou que estabeleça novos regimes de seguridade social ou segurança social, se o Estado Contratante interessado não se opuser a essa aplicação, no prazo de três meses contados da data do recebimento da comunicação da publicação oficial dessa legislação.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - O presente Acordo aplica-se aos nacionais de cada um dos Estados Contratantes e, sem prejuízo do disposto no artigo 12.º-A, a qualquer outra pessoa que esteja ou tenha estado sujeita à legislação referida no artigo 2.º, bem como aos seus familiares e sobreviventes.
 
 2 - ...
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -207,13 +213,13 @@ e) Os funcionários públicos e os trabalhadores ao serviço do Estado que sejam
 
 5 - As autoridades competentes dos Estados Contratantes poderão, de comum acordo, ampliar ou modificar, em casos particulares ou relativamente a determinadas categorias profissionais, as excepções enumeradas no parágrafo 2.º
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Uma pessoa que faça jus num Estado Contratante ao direito a uma prestação prevista na legislação referida no artigo 2.º conservá-lo-á, sem qualquer limitação, perante a entidade gestora desse Estado, quando se transferir para o território do outro Estado Contratante, com excepção das prestações previstas no artigo 12.º-A deste Acordo. Em caso de transferência para um terceiro Estado, a conservação do referido direito estará sujeita às condições determinadas pelo Estado que outorga a prestação aos seus nacionais residentes naquele terceiro Estado.
 
 2 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Uma pessoa vinculada à seguridade social ou segurança social de um Estado Contratante, incluindo o titular de uma pensão ou renda devida exclusivamente ao abrigo da legislação de um Estado Contratante, conservará o direito aos cuidados de saúde, quando se encontrar temporariamente no território do outro Estado. Terão o mesmo direito os seus dependentes.
 
@@ -225,7 +231,7 @@ e) Os funcionários públicos e os trabalhadores ao serviço do Estado que sejam
 
 5 - As despesas relativas aos cuidados de saúde de que trata este artigo ficarão por conta da entidade gestora a cujo regime esteja vinculado o interessado. A forma de indemnizar essas despesas e de determinar o seu custo será fixada de comum acordo entre as autoridades competentes conforme o estipulado em ajuste administrativo ao presente Acordo. As autoridades competentes poderão, igualmente, renunciar, no todo ou em parte, ao reembolso das referidas despesas.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Uma pessoa que haja cumprido períodos de seguro sob a égide das legislações de ambos os Estados Contratantes terá esses períodos totalizados para concessão das prestações decorrentes de invalidez, velhice e morte, excepto quando estiverem satisfeitas as condições estabelecidas por aquela legislação, sem que haja necessidade de recorrer à totalização.
 
@@ -233,11 +239,11 @@ e) Os funcionários públicos e os trabalhadores ao serviço do Estado que sejam
 
 3 - O tempo de contribuição do trabalhador para os regimes próprios de previdência dos servidores públicos da União, dos Estados, do distrito federal e dos municípios, existentes no Brasil, será assumido pela instituição competente, para todos os efeitos, e certificado à outra parte como tempo de contribuição do regime previdenciário de que trata este Acordo, sendo de responsabilidade do Brasil os ajustes normativos e compensatórios internos entre os diferentes regimes.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Para efeitos da concessão das prestações familiares previstas nas legislações portuguesa e brasileira, cada Estado Contratante terá em conta, na medida do necessário, os períodos de seguro cumpridos no outro Estado Contratante.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 

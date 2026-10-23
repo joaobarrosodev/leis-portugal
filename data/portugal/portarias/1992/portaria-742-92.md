@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/742/1992/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/742-1992-292747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8345344f0dcb3ceb87ecb3140e22bada212b32bd5abe26c8022f6896228a942d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5868a38f4006dc7833356b72a3ffa2dee30d062643d8d9233a45774ea257ac0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Consumo
 - Controlo de Qualidade
 - Etiquetagem
@@ -73,26 +74,46 @@ subjects:
 - Lacticínios
 - Leite Fermentado
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:527384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:657250:por
+  label: "Prorrogado, até 30.06.1993, o prazo estabelecido no n.º 17.º, pela PORT.220/93.23.02.1993.MA, DR.IS-B [45] de 23.02.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-1993-657250
+  date: '1993-02-23'
+- type: amended_by
+  target: pt:dre:527384:por
+  label: "Alterado o n.º 16.º e suprimidas as referências feitas nas alíneas c) e d) do n.º 1 à flora viva e abundante, bem\
+    \ como aos teores de flora específica dos leites fermentados fixados no anexo e as alíneas b), c) e d) do n.º 12.º, pela\
+    \ PORT.521/95.31.05.1995.MA, DR.IS-B [126] de 31.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/521-1995-527384
+  date: '1995-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/87/1991/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87/1991/02/23/p/dre
+- type: cites
+  target: pt:dre:421452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485451:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:28Z'
   warnings: []
   errors: []
 ---
@@ -323,8 +344,8 @@ Até 31 de Dezembro de 1992, poderão continuar a ser comercializados iogurtes c
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 30 de Junho de 1992.**
+Assinada em 30 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.
 
-## Anexo a que se refere o n.º 9.º — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/169b00/34623465.pdf))](https://files.diariodarepublica.pt/1s/1992/07/169b00/34623465.pdf)
+## Anexo a que se refere o n.º 9.º — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/169b00/34623465.pdf)

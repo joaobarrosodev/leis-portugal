@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/2011/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-2011-279839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5432349fddf5c9d4e88b5253a5e5a4d6576f3160ba77e9f4d79c556a52619d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a269b4e03a30af7e88cfa45118e0cb0b92a2c4981b5980beb8ea602abadfa592
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,60 +68,66 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agricultura
 - Alfândega
 - ARMA de Destruição Maciça
+- Banca
 - Bebida Alcoólica
-- Tráfico de Estupefacientes
-- Turismo
-- Formação Profissional
+- Branqueamento de Capitais
 - Certificado de Conformidade
 - Circulação de Capitais
-- Metrologia
-- Vinho
-- Direitos do Homem
-- Indicação Geográfica
-- Denominação de Origem
 - Comunidades Europeias
+- Confidencialidade
 - Convenção
 - Cooperação Financeira
-- Educação
-- Crime Organizado
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Direitos Aduaneiros
-- Empresa Pública
-- Saúde Pública
-- União Europeia
-- Segurança Pública
-- Branqueamento de Capitais
-- Sociedade da Informação
-- Banca
-- Propriedade Industrial
-- Marca Registada
-- Sérvia
-- Segurança Internacional
-- Terrorismo
-- Proteção do Ambiente
-- Peixe
 - Cooperação Industrial
+- Crime Organizado
+- Denominação de Origem
+- Desenvolvimento Local
+- Desenvolvimento Regional
+- Direito Internacional
+- Direitos Aduaneiros
+- Direitos do Homem
+- Educação
+- Empresa Pública
 - Energia
+- Formação Profissional
+- Indicação Geográfica
+- Luxemburgo
+- Marca Registada
+- Metrologia
+- Mudança Tecnológica
+- Normalização
+- Peixe
+- Pequenas e Médias Empresas
 - Prestação de Serviços
+- Produto Agrícola
 - Produto Industrial
 - Produtos de Pesca
+- Propriedade Industrial
 - Propriedade Intelectual
-- Confidencialidade
+- Proteção do Ambiente
 - Proteção do Consumidor
-- Pequenas e Médias Empresas
-- Agricultura
-- Desenvolvimento Local
+- Saúde Pública
+- Segurança Internacional
+- Segurança Pública
+- Sérvia
+- Sociedade da Informação
 - Subsídio
-- Produto Agrícola
+- Terrorismo
+- Tráfico de Estupefacientes
 - Transacção Comercial
-- Direito Internacional
-- Luxemburgo
 - Tributação
-- Normalização
+- Turismo
+- União Europeia
+- Vinho
 relationships:
+- type: amended_by
+  target: pt:dre:279841:por
+  label: "Ratificado o Acordo de Estabilização e de Associação entre as Comunidades Europeias e os Seus Estados Membros e\
+    \ a República da Sérvia, aprovado pelo presente diploma, pelo DEC.16/2011.24.02.2011.PR, DR.IS [39] de 24.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/16-2011-279841
+  date: '2011-02-24'
 - type: cites
   target: celex:31987R2658
   label: null
@@ -175,15 +181,15 @@ relationships:
   label: null
   source: http://data.europa
 article_structure:
-  article_count: 291
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 160
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:01Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +202,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 1 de Outubro de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE ESTABILIZAÇÃO E DE ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA SÉRVIA, POR OUTRO.
 
@@ -1500,7 +1506,7 @@ O presente Acordo não é aplicável no Kosovo, que se encontra actualmente sob 
 
 ###### Artigo 136.º
 
-**O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.
 
 ###### Artigo 137.º
 
@@ -1520,19 +1526,19 @@ Lista de anexos e protocolos
 
 Anexos
 
-## Anexo I (artigo 21.º) - Concessões pautais da Sérvia para produtos industriais comunitários.
+Anexo I (artigo 21.º) - Concessões pautais da Sérvia para produtos industriais comunitários.
 
-## Anexo II (artigo 26.º) - Definição dos produtos baby beef.
+Anexo II (artigo 26.º) - Definição dos produtos baby beef.
 
-## Anexo III (artigo 27.º) - Concessões pautais da Sérvia para produtos agrícolas comunitários.
+Anexo III (artigo 27.º) - Concessões pautais da Sérvia para produtos agrícolas comunitários.
 
-## Anexo IV (artigo 29.º) - Concessões pautais comunitárias para produtos da pesca da Sérvia.
+Anexo IV (artigo 29.º) - Concessões pautais comunitárias para produtos da pesca da Sérvia.
 
-## Anexo V (artigo 30.º) - Concessões pautais da Sérvia para produtos da pesca comunitários.
+Anexo V (artigo 30.º) - Concessões pautais da Sérvia para produtos da pesca comunitários.
 
-## Anexo VI (artigo 52.º) - Estabelecimento: serviços financeiros.
+Anexo VI (artigo 52.º) - Estabelecimento: serviços financeiros.
 
-## Anexo VII (artigo 75.º) - Direitos de propriedade intelectual, industrial e comercial.
+Anexo VII (artigo 75.º) - Direitos de propriedade intelectual, industrial e comercial.
 
 Protocolos
 
@@ -1550,9 +1556,11 @@ Protocolo n.º 6 (artigo 99.º) - Assistência administrativa mútua em matéria
 
 Protocolo n.º 7 (artigo 129.º) - Resolução de litígios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
-## ANEXO I — ANEXO I (a)
+## ANEXO I
+
+## ANEXO I (a)
 
 Concessões pautais da Sérvia para os produtos industriais comunitários
 
@@ -1566,7 +1574,7 @@ b) Em 1 de Janeiro do primeiro ano seguinte ao da entrada em vigor do presente A
 
 c) Em 1 de Janeiro do segundo ano seguinte à data de entrada em vigor do presente Acordo, serão abolidos os direitos de importação remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO I (b) — Concessões pautais sérvias para os produtos industriais da Comunidade
 
@@ -1584,7 +1592,7 @@ d) Em 1 de Janeiro do terceiro ano seguinte ao da entrada em vigor do presente A
 
 e) Em 1 de Janeiro do quarto ano seguinte à data de entrada em vigor do presente Acordo, serão abolidos os direitos remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO I (c) — Concessões pautais da Sérvia para os produtos industriais comunitários
 
@@ -1604,7 +1612,7 @@ e) Em 1 de Janeiro do quarto ano seguinte ao da entrada em vigor do presente Aco
 
 f) Em 1 de Janeiro do quinto ano seguinte à data de entrada em vigor do presente Acordo, serão abolidos os direitos remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO II
 
@@ -1614,13 +1622,13 @@ Definição dos produtos «baby beef»
 
 Sem prejuízo das normas para a interpretação da Nomenclatura Combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Nos casos em que são indicados códigos «ex» NC, o regime preferencial será determinado pela aplicação conjunta do código NC e do descritivo correspondente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO III (a) — Concessões pautais da Sérvia para os produtos agrícolas comunitários
 
 [referidos na alínea a) do n.º 2 do artigo 27.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Isenção de direitos, sem limites quantitativos, na data de entrada em vigor do presente Acordo.
 
@@ -1630,7 +1638,7 @@ Isenção de direitos, sem limites quantitativos, na data de entrada em vigor do
 
 Os direitos aduaneiros (direitos ad valorem e ou específicos) para os produtos constantes do presente anexo serão reduzidos e eliminados em conformidade com o calendário nele indicado para cada produto. Se, para além do direito ad valorem e ou do direito específico, for aplicado um direito sazonal, o direito sazonal (20 %) será eliminado na data de entrada em vigor do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO III (c) — Concessões pautais da Sérvia para produtos agrícolas comunitários
 
@@ -1638,7 +1646,7 @@ Os direitos aduaneiros (direitos ad valorem e ou específicos) para os produtos 
 
 Os direitos aduaneiros (direitos ad valorem e ou direitos específicos) para os produtos constantes do presente anexo serão reduzidos em conformidade com o calendário nele indicado para cada produto. O direito sazonal (20 %) continuará a aplicar-se durante e depois do período transitório.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO III (d) — Concessões pautais da Sérvia para produtos agrícolas comunitários
 
@@ -1646,7 +1654,7 @@ Os direitos aduaneiros (direitos ad valorem e ou direitos específicos) para os 
 
 Os direitos aduaneiros (direitos ad valorem e ou direitos específicos) para os produtos constantes do presente anexo serão reduzidos e eliminados em conformidade com o calendário nele indicado para cada produto. Se, para além do direito ad valorem e ou do direito específico, for aplicado um direito sazonal, o direito sazonal (20 %) será eliminado na data de entrada em vigor do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO IV — Concessões da Comunidade relativas a produtos da pesca sérvios
 
@@ -1654,11 +1662,11 @@ Os direitos aduaneiros (direitos ad valorem e ou direitos específicos) para os 
 
 Os produtos a seguir indicados, originários da Sérvia e importados para a Comunidade, são objecto das seguintes concessões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 A taxa do direito aplicável a todos os produtos da posição 1604 do SH será reduzida de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO V — Concessões da Sérvia para produtos da pesca comunitários
 
@@ -1666,7 +1674,7 @@ A taxa do direito aplicável a todos os produtos da posição 1604 do SH será r
 
 As importações para a Sérvia dos produtos a seguir indicados, originários da Comunidade, são objecto das seguintes concessões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO VI — Estabelecimento: Serviços financeiros
 
@@ -1828,7 +1836,7 @@ Direitos aplicáveis à importação para a Comunidade de mercadorias originári
 
 As importações para a Comunidade de produtos agrícolas transformados originários da Sérvia a seguir enumerados estão sujeitas a direitos aduaneiros nulos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ## ANEXO II — (do Protocolo n.º 1)
 
@@ -1836,7 +1844,7 @@ Direitos aplicáveis à importação para a Sérvia de mercadorias originárias 
 
 (imediata ou gradualmente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 PROTOCOLO N.º 2 RELATIVO ÀS CONCESSÕES PREFERENCIAIS RECÍPROCAS NO QUE RESPEITA A CERTOS VINHOS E AO RECONHECIMENTO, À PROTECÇÃO E AO CONTROLO RECÍPROCOS DAS DENOMINAÇÕES DOS VINHOS, DAS BEBIDAS ESPIRITUOSAS E DOS VINHOS AROMATIZADOS.
 
@@ -1886,13 +1894,13 @@ ACORDO ENTRE A COMUNIDADE E A SÉRVIA RELATIVO ÀS CONCESSÕES PREFERENCIAIS REC
 
 1 - As importações para a Comunidade dos vinhos que se seguem, referidos no artigo 2.º do presente Protocolo, serão objecto das concessões a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - A Comunidade concederá direitos preferenciais nulos no âmbito dos contingentes pautais estabelecidos no n.º 1, desde que não sejam pagas subvenções à exportação em relação à exportação pela Sérvia destas quantidades.
 
 3 - As importações para a Sérvia dos vinhos que se seguem, referidos no artigo 2.º do presente Protocolo, serão objecto das concessões a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 4 - A Sérvia concederá direitos preferenciais nulos no âmbito dos contingentes pautais estabelecidos no n.º 3, desde que não sejam pagas subvenções à exportação em relação à exportação pela Comunidade destas quantidades.
 
@@ -2156,13 +2164,13 @@ A derrogação referida no n.º 1 não pode ser cumulada com qualquer das derrog
 
 2 - Excepto caso sejam adoptadas pelas Partes disposições em contrário, os vinhos, bebidas espirituosas ou vinhos aromatizados produzidos, elaborados, designados e apresentados em conformidade com o Acordo no presente anexo, mas cuja produção, elaboração, designação e apresentação deixem de o cumprir devido a uma alteração, podem continuar a ser comercializados até ao esgotamento das existências.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Lista das denominações protegidas
 
 (referidas nos artigos 4.º e 6.º do anexo ii do Protocolo n.º 2)
 
-# Parte A - Na Comunidade
+Parte A - Na Comunidade
 
 A) Vinhos originários da Comunidade
 
@@ -2256,31 +2264,31 @@ Bulgária
 
 Regiões determinadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Chipre
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 República Checa
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 França
 
@@ -3258,27 +3266,27 @@ Alemanha
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Grécia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Hungria
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
@@ -4246,43 +4254,43 @@ Luxemburgo
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Malta
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Portugal
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Roménia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Eslováquia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Eslovénia
 
@@ -4290,7 +4298,7 @@ Eslovénia
 
 Regiões determinadas (seguidas ou não pelo nome de um município vitícola e ou pelo nome de uma propriedade vitícola):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
@@ -4304,7 +4312,7 @@ Espanha
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
@@ -4612,19 +4620,19 @@ Aguardente do Alentejo;
 
 Aguardente do Algarve;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 5 - Brandy:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 6 - Aguardentes de bagaço de uva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 7 - Aguardente de fruto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 8 - Aguardente de sidra e de perada:
 
@@ -4662,7 +4670,7 @@ Pacharán navarro.
 
 11 - Bebidas espirituosas zimbradas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 12 - Bebidas espirituosas com alcaravia:
 
@@ -4672,11 +4680,11 @@ Svensk Aquavit/Svensk Akvavit/Swedish Aquavit.
 
 13 - Bebidas espirituosas anisadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 14 - Licores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 15 - Bebidas espirituosas:
 
@@ -4690,7 +4698,7 @@ Svensk Punsch/Swedish Punch.
 
 16 - Vodca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 17 - Bebidas espirituosas amargas:
 
@@ -4708,53 +4716,53 @@ Thüringer Glühwein.
 
 Vermouth de Chambéry Vermouth di Torino.
 
-# Parte B - Na Sérvia
+Parte B - Na Sérvia
 
 A) Vinhos originários da Sérvia
 
 1 - Vinhos de qualidade produzidos numa região determinada (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 B) Bebidas espirituosas originárias da Sérvia
 
 1 - Aguardente de fruto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - Aguardente de vinho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 3 - Outras bebidas espirituosas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Lista de menções e termos de qualidade tradicionais relativos ao vinho da Comunidade
 
 (tal como referidos nos artigos 4.º e 7.º do anexo II do Protocolo n.º 2)
 
-# Parte A - Na Comunidade
+Parte A - Na Comunidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
-# Parte B: Na Sérvia
+Parte B: Na Sérvia
 
 Lista de menções tradicionais relativas ao vinho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Lista de menções tradicionais complementares relativas ao vinho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Lista de contactos
 
@@ -4772,111 +4780,111 @@ PROTOCOLO N.º 3 RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS»
 
 Índice
 
-## Título I, «Disposições gerais».
+Título I, «Disposições gerais».
 
-###### Artigo 1.º, «Definições».
+Artigo 1.º, «Definições».
 
-## Título II, «Definição da noção de «produtos originários».
+Título II, «Definição da noção de «produtos originários».
 
-###### Artigo 2.º, «Requisitos gerais».
+Artigo 2.º, «Requisitos gerais».
 
-###### Artigo 3.º, «Acumulação na Comunidade».
+Artigo 3.º, «Acumulação na Comunidade».
 
-###### Artigo 4.º, «Acumulação na Sérvia».
+Artigo 4.º, «Acumulação na Sérvia».
 
-###### Artigo 5.º, «Produtos inteiramente obtidos».
+Artigo 5.º, «Produtos inteiramente obtidos».
 
-###### Artigo 6.º, «Produtos objecto de operações de complemento de fabrico ou de transformação suficientes».
+Artigo 6.º, «Produtos objecto de operações de complemento de fabrico ou de transformação suficientes».
 
-###### Artigo 7.º, «Operações de complemento de fabrico ou de transformação insuficientes».
+Artigo 7.º, «Operações de complemento de fabrico ou de transformação insuficientes».
 
-###### Artigo 8.º, «Unidade de qualificação».
+Artigo 8.º, «Unidade de qualificação».
 
-###### Artigo 9.º, «Acessórios, peças sobressalentes e ferramentas».
+Artigo 9.º, «Acessórios, peças sobressalentes e ferramentas».
 
-###### Artigo 10.º, «Sortidos».
+Artigo 10.º, «Sortidos».
 
-###### Artigo 11.º, «Elementos neutros».
+Artigo 11.º, «Elementos neutros».
 
-## Título III, «Requisitos territoriais».
+Título III, «Requisitos territoriais».
 
-###### Artigo 12.º, «Princípio da territorialidade».
+Artigo 12.º, «Princípio da territorialidade».
 
-###### Artigo 13.º, «Transporte directo».
+Artigo 13.º, «Transporte directo».
 
-###### Artigo 14.º, «Exposições».
+Artigo 14.º, «Exposições».
 
-## Título IV, «Draubaque ou isenção de direitos aduaneiros».
+Título IV, «Draubaque ou isenção de direitos aduaneiros».
 
-###### Artigo 15.º, «Proibição de draubaque ou de isenção de direitos aduaneiros».
+Artigo 15.º, «Proibição de draubaque ou de isenção de direitos aduaneiros».
 
-## Título V, «Prova de origem».
+Título V, «Prova de origem».
 
-###### Artigo 16.º, «Requisitos gerais».
+Artigo 16.º, «Requisitos gerais».
 
-###### Artigo 17.º, «Procedimento para a emissão do certificado de circulação EUR.1».
+Artigo 17.º, «Procedimento para a emissão do certificado de circulação EUR.1».
 
-###### Artigo 18.º, «Emissão a posteriori do certificado de circulação EUR.1».
+Artigo 18.º, «Emissão a posteriori do certificado de circulação EUR.1».
 
-###### Artigo 19.º, «Emissão de uma segunda via do certificado de circulação EUR.1».
+Artigo 19.º, «Emissão de uma segunda via do certificado de circulação EUR.1».
 
-###### Artigo 20.º, «Emissão de certificados de circulação EUR.1 com base numa prova de origem anterior».
+Artigo 20.º, «Emissão de certificados de circulação EUR.1 com base numa prova de origem anterior».
 
-###### Artigo 21.º, «Separação de contas».
+Artigo 21.º, «Separação de contas».
 
-###### Artigo 22.º, «Condições para efectuar uma declaração na factura».
+Artigo 22.º, «Condições para efectuar uma declaração na factura».
 
-###### Artigo 23.º, «Exportador autorizado».
+Artigo 23.º, «Exportador autorizado».
 
-###### Artigo 24.º, «Prazo de validade da prova de origem».
+Artigo 24.º, «Prazo de validade da prova de origem».
 
-###### Artigo 25.º, «Apresentação da prova de origem».
+Artigo 25.º, «Apresentação da prova de origem».
 
-###### Artigo 26.º, «Importação em remessas escalonadas».
+Artigo 26.º, «Importação em remessas escalonadas».
 
-###### Artigo 27.º, «Isenções da prova de origem».
+Artigo 27.º, «Isenções da prova de origem».
 
-###### Artigo 28.º, «Documentos comprovativos».
+Artigo 28.º, «Documentos comprovativos».
 
-###### Artigo 29.º, «Conservação da prova de origem e dos documentos comprovativos».
+Artigo 29.º, «Conservação da prova de origem e dos documentos comprovativos».
 
-###### Artigo 30.º, «Discrepâncias e erros formais».
+Artigo 30.º, «Discrepâncias e erros formais».
 
-###### Artigo 31.º, «Montantes expressos em euros».
+Artigo 31.º, «Montantes expressos em euros».
 
-## Título VI, «Métodos de cooperação administrativa».
+Título VI, «Métodos de cooperação administrativa».
 
-###### Artigo 32.º, «Assistência mútua».
+Artigo 32.º, «Assistência mútua».
 
-###### Artigo 33.º, «Controlo da prova de origem».
+Artigo 33.º, «Controlo da prova de origem».
 
-###### Artigo 34.º, «Resolução de litígios».
+Artigo 34.º, «Resolução de litígios».
 
-###### Artigo 35.º, «Sanções».
+Artigo 35.º, «Sanções».
 
-###### Artigo 36.º, «Zonas francas».
+Artigo 36.º, «Zonas francas».
 
-## Título VII, «Ceuta e Melilha».
+Título VII, «Ceuta e Melilha».
 
-###### Artigo 37.º, «Aplicação do protocolo».
+Artigo 37.º, «Aplicação do protocolo».
 
-###### Artigo 38.º, «Condições especiais».
+Artigo 38.º, «Condições especiais».
 
-## Título VIII, «Disposições finais».
+Título VIII, «Disposições finais».
 
-###### Artigo 39.º, «Alterações ao protocolo».
+Artigo 39.º, «Alterações ao protocolo».
 
 Lista de anexos:
 
-## Anexo I, «Notas introdutórias à lista do anexo ii».
+Anexo I, «Notas introdutórias à lista do anexo ii».
 
-## Anexo II, «Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário».
+Anexo II, «Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário».
 
-## Anexo III, «Modelos de certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1».
+Anexo III, «Modelos de certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1».
 
-## Anexo IV, «Texto da declaração na factura».
+Anexo IV, «Texto da declaração na factura».
 
-## Anexo V, «Produtos excluídos da acumulação prevista no artigo 3.º e no artigo 4.º».
+Anexo V, «Produtos excluídos da acumulação prevista no artigo 3.º e no artigo 4.º».
 
 Declarações comuns:
 
@@ -4884,9 +4892,13 @@ Declaração comum relativa ao Principado de Andorra.
 
 Declaração comum relativa à República de São Marinho.
 
-## TÍTULO I — Disposições gerais
+TÍTULO I
 
-###### Artigo 1.º — Definições
+Disposições gerais
+
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente protocolo, entende-se por:
 
@@ -4916,11 +4928,13 @@ l) «Remessa», os produtos enviados simultaneamente por um exportador para um d
 
 m) «Territórios», um termo que inclui as águas territoriais.
 
-## TÍTULO II
+TÍTULO II
 
 Definição da noção de «produtos originários»
 
-###### Artigo 2.º — Requisitos gerais
+Artigo 2.º
+
+Requisitos gerais
 
 1 - Para efeitos de aplicação do presente acordo, são considerados originários da Comunidade os seguintes produtos:
 
@@ -4934,7 +4948,9 @@ a) Os produtos inteiramente obtidos na Sérvia, na acepção do artigo 5.º;
 
 b) Os produtos obtidos na Sérvia, em cuja fabricação sejam utilizadas matérias que aí não tenham sido inteiramente obtidas, desde que essas matérias tenham sido submetidas na Sérvia a operações de complemento de fabrico ou de transformação suficientes, na acepção do artigo 6.º
 
-###### Artigo 3.º — Acumulação na Comunidade
+Artigo 3.º
+
+Acumulação na Comunidade
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 2.º, são considerados originários da Comunidade os produtos que aí tiverem sido obtidos mediante a incorporação de matérias originárias da Sérvia, da Comunidade ou de qualquer país ou território que participe no Processo de Estabilização e de Associação da União Europeia (1), ou mediante a incorporação de matérias originárias da Turquia às quais se aplique a Decisão n.º 1/95, do Conselho de Associação CE-Turquia, de 22 de Dezembro de 1995 (2), desde que essas matérias tenham sido objecto, no interior da Comunidade, de operações que excedam as referidas no artigo 7.º, sem que seja necessário que essas matérias tenham sido submetidas a operações de complemento de fabrico ou de transformação suficientes.
 
@@ -4960,7 +4976,9 @@ A Comunidade comunicará à Sérvia, por intermédio da Comissão das Comunidade
 
 Os produtos constantes do anexo v são excluídos da acumulação prevista no presente artigo.
 
-###### Artigo 4.º — Acumulação na Sérvia
+Artigo 4.º
+
+Acumulação na Sérvia
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 2.º, são considerados originários da Sérvia os produtos que aí tiverem sido obtidos mediante a incorporação de matérias originárias da Comunidade, da Sérvia ou de qualquer país ou território que participe no Processo de Estabilização e de Associação da União Europeia (1), ou mediante a incorporação de matérias originárias da Turquia às quais se aplique a Decisão n.º 1/95 do Conselho de Associação CE-Turquia, de 22 de Dezembro de 1995 (2), desde que essas matérias tenham sido objecto, no interior da Sérvia, de operações que excedam as referidas no artigo 7.º, sem que seja necessário que essas matérias tenham sido submetidas a operações de complemento de fabrico ou de transformação suficientes.
 
@@ -4986,7 +5004,9 @@ A Sérvia comunicará à Comunidade, por intermédio da Comissão das Comunidade
 
 Os produtos constantes do anexo v são excluídos da acumulação prevista no presente artigo.
 
-###### Artigo 5.º — Produtos inteiramente obtidos
+Artigo 5.º
+
+Produtos inteiramente obtidos
 
 1 - Consideram-se inteiramente obtidos na Comunidade ou na Sérvia:
 
@@ -5024,7 +5044,9 @@ d) Cujo comandante e oficiais sejam nacionais de um Estado membro da Comunidade 
 
 e) Cuja tripulação seja composta, pelo menos, em 75 %, de nacionais dos Estados membros da Comunidade ou da Sérvia.
 
-###### Artigo 6.º — Produtos objecto de operações de complemento de fabrico ou de transformação suficientes
+Artigo 6.º
+
+Produtos objecto de operações de complemento de fabrico ou de transformação suficientes
 
 1 - Para efeitos do artigo 2.º, os produtos que não tenham sido inteiramente obtidos são considerados objecto de operações de complemento de fabrico ou de transformação suficientes, quando estiverem preenchidas as condições estabelecidas na lista do anexo ii.
 
@@ -5040,7 +5062,9 @@ O presente número não se aplica aos produtos classificados nos capítulos 50 a
 
 3 - Os n.os 1 e 2 aplicar-se-ão sob reserva do disposto no artigo 7.º
 
-###### Artigo 7.º — Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 7.º
+
+Operações de complemento de fabrico ou de transformação insuficientes
 
 1 - Sem prejuízo do n.º 2 do presente artigo, consideram-se insuficientes para conferir a qualidade de produto originário, independentemente de estarem ou não satisfeitas as condições do artigo 6.º, as seguintes operações de complemento de fabrico ou de transformação:
 
@@ -5078,7 +5102,9 @@ p) Abate de animais.
 
 2 - Todas as operações efectuadas na Comunidade ou na Sérvia em relação a um dado produto são consideradas em conjunto para determinar se a operação de complemento de fabrico ou de transformação a que o produto foi submetido deve ser considerada insuficiente na acepção do n.º 1.
 
-###### Artigo 8.º — Unidade de qualificação
+Artigo 8.º
+
+Unidade de qualificação
 
 1 - A unidade de qualificação para a aplicação das disposições do presente protocolo é o produto específico considerado como unidade básica para a determinação da classificação através da nomenclatura do Sistema Harmonizado.
 
@@ -5090,15 +5116,21 @@ b) Quando uma remessa for composta por um certo número de produtos idênticos c
 
 2 - Quando, em aplicação da regra geral 5 do Sistema Harmonizado, as embalagens forem consideradas na classificação do produto, devem ser igualmente consideradas para efeitos de determinação da origem.
 
-###### Artigo 9.º — Acessórios, peças sobressalentes e ferramentas
+Artigo 9.º
+
+Acessórios, peças sobressalentes e ferramentas
 
 Os acessórios, peças sobressalentes e ferramentas expedidos com uma parte de equipamento, uma máquina, um aparelho ou um veículo, que façam parte do equipamento normal e que estejam incluídos no respectivo preço ou não sejam facturados à parte, serão considerados como constituindo um todo com a parte de equipamento, a máquina, o aparelho ou o veículo em causa.
 
-###### Artigo 10.º — Sortidos
+Artigo 10.º
+
+Sortidos
 
 Os sortidos, definidos na regra geral 3 do Sistema Harmonizado, são considerados originários quando todos os produtos que o compõem forem produtos originários. No entanto, um sortido composto por produtos originários e produtos não originários será considerado originário no seu conjunto, desde que o valor dos produtos não originários não exceda 15 % do preço à saída da fábrica do sortido.
 
-###### Artigo 11.º — Elementos neutros
+Artigo 11.º
+
+Elementos neutros
 
 A fim de determinar se um produto é originário, não é necessário averiguar a origem dos seguintes elementos eventualmente utilizados na sua fabricação:
 
@@ -5110,9 +5142,13 @@ c) Máquinas e ferramentas;
 
 d) Mercadorias que não entram nem se destinam a entrar na composição final do produto.
 
-## TÍTULO III — Requisitos territoriais
+TÍTULO III
 
-###### Artigo 12.º — Princípio da territorialidade
+Requisitos territoriais
+
+Artigo 12.º
+
+Princípio da territorialidade
 
 1 - As condições estabelecidas no título ii relativas à aquisição da qualidade de produto originário devem ser preenchidas ininterruptamente na Comunidade ou na Sérvia, excepto nos casos previstos nos artigos 3.º e 4.º e no n.º 3 do presente artigo.
 
@@ -5142,7 +5178,9 @@ ii) O valor acrescentado total adquirido fora da Comunidade ou da Sérvia pela a
 
 8 - Quaisquer operações de complemento de fabrico ou de transformação fora da Comunidade ou da Sérvia abrangidas pelas disposições do presente artigo devem ser realizadas ao abrigo do regime de aperfeiçoamento passivo ou de um regime semelhante.
 
-###### Artigo 13.º — Transporte directo
+Artigo 13.º
+
+Transporte directo
 
 1 - O regime preferencial previsto no Acordo só se aplica aos produtos que, satisfazendo as condições do presente protocolo, sejam transportados directamente entre a Comunidade e a Sérvia ou através dos territórios dos outros países referidos nos artigos 3.º e 4.º Todavia, o transporte de produtos que constituem uma só remessa pode efectuar-se através de outros territórios com eventuais transbordos ou armazenagem temporária nesses territórios, desde que permaneçam sob fiscalização das autoridades aduaneiras do país de trânsito ou de armazenagem e não sejam objecto de outras operações para além das de descarga, de recarga ou de qualquer outra operação destinada a assegurar a sua conservação em estado inalterado.
 
@@ -5162,7 +5200,9 @@ iii) A certificação das condições em que os produtos permaneceram no país d
 
 c) Na sua falta, de quaisquer outros documentos probatórios.
 
-###### Artigo 14.º — Exposições
+Artigo 14.º
+
+Exposições
 
 1 - Os produtos originários expedidos para poderem figurar numa exposição num país ou território distinto dos referidos nos artigos 3.º e 4.º e vendidos, após a exposição, para importação para a Comunidade ou a Sérvia, beneficiam, na importação, do disposto no Acordo, desde que seja apresentada às autoridades aduaneiras prova suficiente de que:
 
@@ -5178,9 +5218,13 @@ d) A partir do momento em que foram expedidos para a exposição, os produtos n�
 
 3 - O n.º 1 aplica-se a todas as exposições, feiras ou manifestações públicas análogas de carácter comercial, industrial, agrícola ou artesanal, que não sejam organizadas para fins privados em lojas e outros estabelecimentos comerciais para venda de produtos estrangeiros, durante as quais os produtos permaneçam sob controlo aduaneiro.
 
-## TÍTULO IV — Draubaque ou isenção de direitos aduaneiros
+TÍTULO IV
 
-###### Artigo 15.º — Proibição de draubaque ou de isenção de direitos aduaneiros
+Draubaque ou isenção de direitos aduaneiros
+
+Artigo 15.º
+
+Proibição de draubaque ou de isenção de direitos aduaneiros
 
 1 - As matérias não originárias, utilizadas na fabricação de produtos originários da Comunidade, da Sérvia ou de um dos outros países referidos nos artigos 3.º e 4.º, para as quais é emitida uma prova de origem em conformidade com as disposições do título v, não serão objecto, na Comunidade nem na Sérvia, de draubaque nem de isenção de direitos aduaneiros.
 
@@ -5192,9 +5236,13 @@ d) A partir do momento em que foram expedidos para a exposição, os produtos n�
 
 5 - O disposto nos n.os 1, 2, 3 e 4 só se aplica às matérias semelhantes às que se aplica o Acordo. Além disso, não obsta à aplicação de um regime de restituições à exportação no respeitante aos produtos agrícolas, aplicável quando da exportação em conformidade com as disposições do Acordo.
 
-## TÍTULO V — Prova de origem
+TÍTULO V
 
-###### Artigo 16.º — Requisitos gerais
+Prova de origem
+
+Artigo 16.º
+
+Requisitos gerais
 
 1 - Os produtos originários da Comunidade, aquando da sua importação para a Sérvia, e os produtos originários da Sérvia, aquando da sua importação para a Comunidade, beneficiam das disposições do Acordo, mediante a apresentação:
 
@@ -5204,7 +5252,9 @@ b) Nos casos referidos no n.º 1 do artigo 22.º, de uma declaração, a seguir 
 
 2 - Não obstante o disposto no n.º 1 do presente artigo, os produtos originários na acepção do presente protocolo beneficiam, nos casos previstos no artigo 27.º, das disposições do Acordo, sem que seja necessário apresentar nenhum dos documentos acima referidos.
 
-###### Artigo 17.º — Procedimento para a emissão do certificado de circulação EUR.1
+Artigo 17.º
+
+Procedimento para a emissão do certificado de circulação EUR.1
 
 1 - O certificado de circulação EUR.1 é emitido pelas autoridades aduaneiras do país de exportação, mediante pedido escrito do exportador ou, sob a sua responsabilidade, do seu representante habilitado.
 
@@ -5220,7 +5270,9 @@ b) Nos casos referidos no n.º 1 do artigo 22.º, de uma declaração, a seguir 
 
 7 - O certificado de circulação EUR.1 é emitido pelas autoridades aduaneiras e fica à disposição do exportador logo que os produtos tenham sido efectivamente exportados ou assegurada a sua exportação.
 
-###### Artigo 18.º — Emissão a posteriori do certificado de circulação EUR.1
+Artigo 18.º
+
+Emissão a posteriori do certificado de circulação EUR.1
 
 1 - Não obstante o disposto no n.º 7 do artigo 17.º, o certificado de circulação EUR.1 pode excepcionalmente ser emitido após a exportação dos produtos a que se refere, se:
 
@@ -5236,7 +5288,9 @@ b) Se forem apresentadas às autoridades aduaneiras provas suficientes de que fo
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
-###### Artigo 19.º — Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 19.º
+
+Emissão de uma segunda via do certificado de circulação EUR.1
 
 1 - Em caso de furto, extravio ou inutilização de um certificado de circulação EUR.1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via, passada com base nos documentos de exportação em posse dessas autoridades.
 
@@ -5246,11 +5300,15 @@ b) Se forem apresentadas às autoridades aduaneiras provas suficientes de que fo
 
 4 - A segunda via, que deve conter a data de emissão do certificado de circulação EUR.1 original, produz efeitos a partir dessa data.
 
-###### Artigo 20.º — Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida anteriormente
+Artigo 20.º
+
+Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida anteriormente
 
 Quando os produtos originários estiverem sob o controlo de uma estância aduaneira na Comunidade ou na Sérvia, é sempre possível a substituição da prova de origem inicial por um ou mais certificados de circulação EUR.1 para a expedição de todos ou alguns desses produtos para outros locais situados na Comunidade ou na Sérvia. O ou os certificados de circulação EUR.1 de substituição serão emitidos pela estância aduaneira sob cujo controlo os produtos foram colocados.
 
-###### Artigo 21.º — Separação de contas
+Artigo 21.º
+
+Separação de contas
 
 1 - Quando se verifiquem custos ou dificuldades materiais consideráveis para manter existências separadas de matérias originárias e não originárias, idênticas e permutáveis, as autoridades aduaneiras podem, mediante pedido escrito dos interessados, autorizar a aplicação do método dito da «separação de contas» para a gestão dessas existências.
 
@@ -5264,7 +5322,9 @@ Quando os produtos originários estiverem sob o controlo de uma estância aduane
 
 6 - As autoridades aduaneiras controlarão o uso dado à autorização, podendo retirá-la em qualquer momento se o beneficiário dela fizer um uso incorrecto sob qualquer forma, ou não preencher uma das outras condições definidas no presente Protocolo.
 
-###### Artigo 22.º — Condições para efectuar uma declaração na factura
+Artigo 22.º
+
+Condições para efectuar uma declaração na factura
 
 1 - A declaração na factura referida na alínea b) do n.º 1 do artigo 16.º pode ser efectuada:
 
@@ -5282,7 +5342,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 6 - A declaração na factura pode ser efectuada pelo exportador quando da exportação dos produtos a que se refere, ou após a exportação, sob condição de ser apresentada no país de importação o mais tardar dois anos após a importação dos produtos a que se refere.
 
-###### Artigo 23.º — Exportador autorizado
+Artigo 23.º
+
+Exportador autorizado
 
 1 - As autoridades aduaneiras do país de exportação podem autorizar qualquer exportador, a seguir designado «exportador autorizado», que efectue frequentemente expedições de produtos ao abrigo do presente Acordo a efectuar declarações na factura, independentemente do valor dos produtos em causa. Os exportadores que pretendam obter essa autorização devem oferecer às autoridades aduaneiras todas as garantias necessárias para que se possa verificar a qualidade de originário dos produtos, bem como o cumprimento dos outros requisitos previstos no presente Protocolo.
 
@@ -5294,7 +5356,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 5 - As autoridades aduaneiras podem retirar a autorização em qualquer altura. Devem fazê-lo quando o exportador autorizado deixar de oferecer as garantias referidas no n.º 1, não preencher as condições referidas no n.º 2 ou fizer um uso incorrecto da autorização.
 
-###### Artigo 24.º — Prazo de validade da prova de origem
+Artigo 24.º
+
+Prazo de validade da prova de origem
 
 1 - A prova de origem é válida por quatro meses a contar da data de emissão no país de exportação, devendo ser apresentada dentro desse prazo às autoridades aduaneiras do país de importação.
 
@@ -5302,15 +5366,21 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 3 - Nos outros casos de apresentação fora de prazo, as autoridades aduaneiras do país de importação podem aceitar a prova de origem, se os produtos lhes tiverem sido apresentados dentro do referido prazo.
 
-###### Artigo 25.º — Apresentação da prova de origem
+Artigo 25.º
+
+Apresentação da prova de origem
 
 As provas de origem são apresentadas às autoridades aduaneiras do país de importação de acordo com os procedimentos aplicáveis nesse país. As referidas autoridades podem exigir a tradução da prova de origem e podem igualmente exigir que a declaração de importação se faça acompanhar de uma declaração do importador em como os produtos satisfazem as condições requeridas para a aplicação do Acordo.
 
-###### Artigo 26.º — Importação em remessas escalonadas
+Artigo 26.º
+
+Importação em remessas escalonadas
 
 Quando, a pedido do importador e nas condições estabelecidas pelas autoridades aduaneiras do país de importação, os produtos desmontados ou por montar na acepção da alínea a) da regra geral 2 do Sistema Harmonizado, das secções xvi e xvii ou das posições 7308 e 9406 do Sistema Harmonizado, forem importados em remessas escalonadas, deve ser apresentada às autoridades aduaneiras uma única prova de origem desses produtos aquando da importação da primeira remessa escalonada.
 
-###### Artigo 27.º — Isenções da prova de origem
+Artigo 27.º
+
+Isenções da prova de origem
 
 1 - Os produtos enviados em pequenas remessas por particulares a particulares, ou contidos na bagagem pessoal dos viajantes, são considerados produtos originários, sem que seja necessária a apresentação de uma prova de origem, desde que não sejam importados com fins comerciais e tenham sido declarados como satisfazendo os requisitos do presente Protocolo, quando não haja dúvidas quanto à veracidade dessa declaração. No caso dos produtos enviados por via postal, essa declaração pode ser feita na declaração aduaneira CN22/CN23 ou numa folha de papel apensa a esse documento.
 
@@ -5318,7 +5388,9 @@ Quando, a pedido do importador e nas condições estabelecidas pelas autoridades
 
 3 - Além disso, o valor total desses produtos não deve exceder EUR 500 no caso de pequenas remessas ou EUR 1200 no caso dos produtos contidos na bagagem pessoal dos viajantes.
 
-###### Artigo 28.º — Documentos comprovativos
+Artigo 28.º
+
+Documentos comprovativos
 
 Os documentos referidos no n.º 3 do artigo 17.º e no n.º 3 do artigo 22.º, utilizados como prova de que os produtos cobertos por um certificado de circulação EUR.1 ou por uma declaração na factura podem ser considerados produtos originários da Comunidade, da Sérvia ou de um dos outros países referidos nos artigos 3.º e 4.º e satisfazem os outros requisitos do presente Protocolo, podem consistir, designadamente, em:
 
@@ -5332,7 +5404,9 @@ d) Certificados de circulação EUR.1 ou declarações na factura, comprovativos
 
 e) Documentos relativos às operações de complemento de fabrico ou às transformações efectuadas fora da Comunidade ou da Sérvia por aplicação do artigo 12.º que comprovem que foram preenchidos os requisitos previstos nesse artigo.
 
-###### Artigo 29.º — Conservação da prova de origem e dos documentos comprovativos
+Artigo 29.º
+
+Conservação da prova de origem e dos documentos comprovativos
 
 1 - O exportador que apresenta o pedido de emissão de um certificado de circulação EUR.1 deve conservar durante pelo menos três anos os documentos referidos no n.º 3 do artigo 17.º
 
@@ -5342,13 +5416,17 @@ e) Documentos relativos às operações de complemento de fabrico ou às transfo
 
 4 - As autoridades aduaneiras do país de importação devem conservar durante pelo menos três anos os certificados de circulação EUR.1 e as declarações na factura que lhes forem apresentados.
 
-###### Artigo 30.º — Discrepâncias e erros formais
+Artigo 30.º
+
+Discrepâncias e erros formais
 
 1 - A detecção de ligeiras discrepâncias entre as declarações constantes da prova de origem e as dos documentos apresentados na estância aduaneira para cumprimento das formalidades de importação dos produtos não implica ipso facto que se considere a prova de origem nula e sem efeito, desde que seja devidamente comprovado que esse documento corresponde aos produtos apresentados.
 
 2 - Os erros formais óbvios, como os erros de dactilografia, detectados numa prova de origem não implicam a rejeição do documento se não suscitarem dúvidas quanto à exactidão das declarações nele prestadas.
 
-###### Artigo 31.º — Montantes expressos em euros
+Artigo 31.º
+
+Montantes expressos em euros
 
 1 - Para efeitos de aplicação do disposto na alínea b) do n.º 1 do artigo 22.º e no n.º 3 do artigo 27.º, quando os produtos não estiverem facturados em euros, os montantes expressos nas moedas nacionais dos Estados membros da Comunidade, da Sérvia e de outros países referidos nos artigos 3.º e 4.º equivalentes aos montantes expressos em euros serão fixados anualmente por cada um dos países em causa.
 
@@ -5360,15 +5438,21 @@ e) Documentos relativos às operações de complemento de fabrico ou às transfo
 
 5 - Os montantes expressos em euros serão revistos pelo Conselho de Estabilização e de Associação a pedido da Comunidade ou da Sérvia. Ao proceder a essa revisão, o Comité de Estabilização e de Associação considerará a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, pode decidir alterar os montantes expressos em euros.
 
-## TÍTULO VI — Métodos de cooperação administrativa
+TÍTULO VI
 
-###### Artigo 32.º — Assistência mútua
+Métodos de cooperação administrativa
+
+Artigo 32.º
+
+Assistência mútua
 
 1 - As autoridades aduaneiras dos Estados membros da Comunidade e da Sérvia comunicarão à outra Parte, através da Comissão Europeia, os espécimes dos cunhos dos carimbos utilizados nas respectivas estâncias aduaneiras para a emissão de certificados de circulação EUR.1 e os endereços das autoridades aduaneiras responsáveis pelo controlo desses certificados e das declarações na factura.
 
 2 - Com vista a assegurar a correcta aplicação do presente Protocolo, a Comunidade e a Sérvia assistir-se-ão, por intermédio das administrações aduaneiras competentes, no controlo da autenticidade dos certificados de circulação EUR.1, ou das declarações na factura, e da exactidão das menções inscritas nesses documentos.
 
-###### Artigo 33.º — Controlo da prova de origem
+Artigo 33.º
+
+Controlo da prova de origem
 
 1 - Os controlos a posteriori da prova de origem efectuar-se-ão por amostragem ou sempre que as autoridades aduaneiras do país de importação tenham dúvidas fundadas quanto à autenticidade do documento, à qualidade de originário dos produtos em causa ou ao cumprimento dos outros requisitos do presente Protocolo.
 
@@ -5382,25 +5466,35 @@ e) Documentos relativos às operações de complemento de fabrico ou às transfo
 
 6 - Se, nos casos de dúvida fundada, não for recebida resposta no prazo de 10 meses a contar da data do pedido de controlo, ou se a resposta não contiver informações suficientes para apurar a autenticidade do documento em causa ou a verdadeira origem dos produtos, as autoridades aduaneiras requerentes recusarão o benefício do regime preferencial, salvo se se tratar de circunstâncias excepcionais.
 
-###### Artigo 34.º — Resolução de litígios
+Artigo 34.º
+
+Resolução de litígios
 
 Em caso de litígio relativamente aos procedimentos de controlo previstos no artigo 33.º que não possa ser resolvido entre as autoridades aduaneiras que requerem o controlo e as autoridades aduaneiras responsáveis pela sua realização, ou em caso de dúvida quanto à interpretação do presente Protocolo, os mesmos serão submetidos ao Comité de Estabilização e de Associação.
 
 Em qualquer caso, a resolução de litígios entre o importador e as autoridades aduaneiras do país de importação fica sujeita à legislação desse país.
 
-###### Artigo 35.º — Sanções
+Artigo 35.º
+
+Sanções
 
 Serão aplicadas sanções a quem elaborar ou mandar elaborar um documento contendo informações inexactas com o objectivo de obter um tratamento preferencial para os produtos.
 
-###### Artigo 36.º — Zonas francas
+Artigo 36.º
+
+Zonas francas
 
 1 - A Comunidade e a Sérvia tomarão todas as medidas necessárias para impedir que os produtos comercializados ao abrigo de uma prova de origem, que, durante o seu transporte, permaneçam numa zona franca situada no seu território sejam substituídos por outros produtos ou sujeitos a manipulações diferentes das operações usuais destinadas à sua conservação em estado inalterado.
 
 2 - Em derrogação do n.º 1, quando os produtos originários da Comunidade ou da Sérvia, importados para uma zona franca ao abrigo de uma prova de origem, forem sujeitos a um tratamento ou a uma transformação, as autoridades competentes devem emitir um novo certificado de circulação EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente Protocolo.
 
-## TÍTULO VII — Ceuta e Melilha
+TÍTULO VII
 
-###### Artigo 37.º — Aplicação do presente Protocolo
+Ceuta e Melilha
+
+Artigo 37.º
+
+Aplicação do presente Protocolo
 
 1 - O termo «Comunidade» referido no artigo 2.º não abrange Ceuta e Melilha.
 
@@ -5408,7 +5502,9 @@ Serão aplicadas sanções a quem elaborar ou mandar elaborar um documento conte
 
 3 - Para efeitos de aplicação do n.º 2, o presente Protocolo aplica-se mutatis mutandis aos produtos originários de Ceuta e Melilha, sob reserva das condições especiais estabelecidas no artigo 38.º
 
-###### Artigo 38.º — Condições especiais
+Artigo 38.º
+
+Condições especiais
 
 1 - Sob reserva de terem sido objecto de transporte directo em conformidade com o artigo 13.º, consideram-se:
 
@@ -5438,13 +5534,19 @@ ii) Esses produtos sejam originários de Ceuta e Melilha ou da Comunidade, desde
 
 4 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente Protocolo em Ceuta e Melilha.
 
-## TÍTULO VIII — Disposições finais
+TÍTULO VIII
 
-###### Artigo 39.º — Alterações ao presente Protocolo
+Disposições finais
+
+Artigo 39.º
+
+Alterações ao presente Protocolo
 
 O Conselho de Estabilização e de Associação pode decidir alterar as disposições do presente Protocolo.
 
-## ANEXO I — (do Protocolo n.º 3)
+ANEXO I
+
+(do Protocolo n.º 3)
 
 Notas introdutórias à lista do anexo II
 
@@ -5664,15 +5766,19 @@ o) Apenas no que respeita aos produtos derivados do petróleo bruto da posição
 
 7.3 - Na acepção das posições ex 2707, 2713 a 2715, ex 2901, ex 2902 e ex 3403, as operações simples, tais como a limpeza, decantação, dessalinização, separação da água, filtragem, coloração, marcação de que se obtém um teor de enxofre através da mistura de produtos com teores de enxofre diferentes, bem como qualquer realização conjunta destas operações ou operações semelhantes, não conferem a origem.
 
-## ANEXO II — (do Protocolo n.º 3)
+ANEXO II
+
+(do Protocolo n.º 3)
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário.
 
 Nem todos os produtos indicados na presente lista são abrangidos pelo presente Acordo. É, pois, necessário consultar as outras partes do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
-## ANEXO III — (do Protocolo n.º 3)
+ANEXO III
+
+(do Protocolo n.º 3)
 
 Modelo do certificado de circulação EUR. 1 e respectivo pedido
 
@@ -5684,7 +5790,7 @@ Instruções para a impressão
 
 Certificado de circulação de mercadorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Notas
 
@@ -5696,13 +5802,15 @@ Notas
 
 Pedido de certificado de circulação de mercadorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Declaração do exportador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
-## ANEXO IV — (do Protocolo n.º 3)
+ANEXO IV
+
+(do Protocolo n.º 3)
 
 Texto da declaração na factura
 
@@ -5710,7 +5818,7 @@ A declaração na factura, cujo texto é a seguir apresentado, deve ser prestada
 
 Versão búlgara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão espanhola
 
@@ -5718,23 +5826,23 @@ El exportador de los productos incluidos en el presente documento [autorización
 
 Versão checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão dinamarquesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão alemã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão estónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão grega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão inglesa
 
@@ -5746,31 +5854,31 @@ L'exportateur des produits couverts par le présent document [autorisation douan
 
 Versão italiana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão letã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão lituana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão húngara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão maltesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão neerlandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão polaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão portuguesa
 
@@ -5778,31 +5886,31 @@ O abaixo assinado, exportador dos produtos abrangidos pelo presente documento [a
 
 Versão em língua romena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão eslovaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão eslovena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão finlandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versão sueca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Versões da Sérvia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ou
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 (1) Quando a declaração na factura é efectuada por um exportador autorizado, o número de autorização desse exportador autorizado deve ser indicado neste espaço. Quando a declaração na factura não é efectuada por um exportador autorizado, as palavras entre parênteses podem ser omitidas ou o espaço deixado em branco.
 
@@ -5812,11 +5920,13 @@ ou
 
 (4) Nos casos em que o exportador não é obrigado a assinar, a dispensa de assinatura implica igualmente a dispensa da indicação do nome do signatário.
 
-## ANEXO V — (do Protocolo n.º 3)
+ANEXO V
+
+(do Protocolo n.º 3)
 
 Produtos excluídos da acumulação prevista nos artigos 3.º e 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Declaração comum relativa ao Principado de Andorra
 
@@ -5832,11 +5942,15 @@ Declaração comum relativa à República de São Marinho
 
 PROTOCOLO N.º 4 RELATIVO AOS TRANSPORTES TERRESTRES
 
-###### Artigo 1.º — Objectivo
+Artigo 1.º
+
+Objectivo
 
 O presente protocolo tem por objectivo promover a cooperação entre as Partes no domínio dos transportes terrestres, em especial no que respeita ao tráfego de trânsito e assegurar, para o efeito, um desenvolvimento coordenado dos transportes entre os territórios das Partes e através dos mesmos mediante uma aplicação integral e conjugada de todas as suas disposições.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - A cooperação diz respeito aos transportes terrestres, e designadamente os transportes rodoviário e ferroviário e o transporte combinado, incluindo as respectivas infra-estruturas.
 
@@ -5852,7 +5966,9 @@ O presente protocolo tem por objectivo promover a cooperação entre as Partes n
 
 - Um intercâmbio periódico de informações sobre a evolução das políticas de transporte das Partes, em especial em matéria de infra-estruturas de transportes.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos da aplicação do presente Protocolo, entende-se por:
 
@@ -5868,15 +5984,21 @@ c) «Transporte combinado» o transporte de mercadorias em que o camião, o rebo
 
 Infra-estruturas
 
-###### Artigo 4.º — Disposições gerais
+Artigo 4.º
+
+Disposições gerais
 
 As Partes aceitam adoptar mutuamente medidas coordenadas para o desenvolvimento de uma rede multimodal de infra-estrutura de transportes como meio vital para resolver os problemas que afectam o transporte de mercadorias através da Sérvia, em particular os corredores pan-europeus vii e x e a ligação ferroviária de Belgrado a Vrbnica (fronteira com o Montenegro), que fazem parte da rede nuclear de transportes regionais.
 
-###### Artigo 5.º — Planeamento
+Artigo 5.º
+
+Planeamento
 
 O desenvolvimento de uma rede regional multimodal de transportes no território da Sérvia para servir a Sérvia e a região do Sudeste da Europa, que cubra os itinerários rodoviários e ferroviários, as vias navegáveis interiores, os portos interiores, os portos, aeroportos principais e outros modos relevantes da rede, interessa especialmente à Comunidade e à Sérvia. Esta rede foi definida no Memorando de Entendimento com vista ao desenvolvimento de uma rede nuclear de infra-estruturas de transportes para o Sudeste da Europa, que foi assinado pelos ministros da região e pela Comissão Europeia em Junho de 2004. O desenvolvimento da rede e a definição de prioridades estão a ser elaborados por um comité director composto por representantes de cada um dos signatários.
 
-###### Artigo 6.º — Aspectos financeiros
+Artigo 6.º
+
+Aspectos financeiros
 
 1 - A Comunidade poderá contribuir financeiramente, a título do artigo 116.º do presente Acordo, para obras tendo em vista o desenvolvimento das infra-estruturas necessárias referidas no artigo 5.º Esta contribuição financeira comunitária pode assumir a forma de créditos do Banco Europeu do Investimento, bem como qualquer outra forma de financiamento que proporcione recursos adicionais.
 
@@ -5884,15 +6006,21 @@ O desenvolvimento de uma rede regional multimodal de transportes no território 
 
 Transporte ferroviário e transporte combinado
 
-###### Artigo 7.º — Disposições gerais
+Artigo 7.º
+
+Disposições gerais
 
 As Partes adoptam mutuamente as medidas coordenadas necessárias para o desenvolvimento e promoção do transporte ferroviário e combinado como meio para garantir futuramente que uma parte importante dos seus transportes bilaterais e em trânsito através da Sérvia será executada em condições mais respeitadoras do ambiente.
 
-###### Artigo 8.º — Aspectos específicos em matéria de infra-estruturas
+Artigo 8.º
+
+Aspectos específicos em matéria de infra-estruturas
 
 No âmbito da modernização dos caminhos de ferro da Sérvia, serão adoptadas as medidas necessárias para adaptar o sistema ao transporte combinado, com especial ênfase no desenvolvimento ou construção de terminais e na dimensão e capacidade dos túneis, que requerem um investimento substancial.
 
-###### Artigo 9.º — Medidas de acompanhamento
+Artigo 9.º
+
+Medidas de acompanhamento
 
 As Partes tomarão todas as medidas necessárias para favorecer o desenvolvimento do transporte combinado.
 
@@ -5916,7 +6044,9 @@ Essas medidas terão por objectivo:
 
 - Tomar, de uma forma geral, quaisquer outras medidas adequadas.
 
-###### Artigo 10.º — Papel das administrações ferroviárias
+Artigo 10.º
+
+Papel das administrações ferroviárias
 
 No âmbito das competências respectivas dos Estados e dos caminhos de ferro, as Partes recomendarão às suas administrações ferroviárias que, no que respeita ao transporte de passageiros e ao transporte de mercadorias:
 
@@ -5928,7 +6058,9 @@ No âmbito das competências respectivas dos Estados e dos caminhos de ferro, as
 
 Transportes rodoviários
 
-###### Artigo 11.º — Disposições gerais
+Artigo 11.º
+
+Disposições gerais
 
 1 - No que respeita ao acesso mútuo aos mercados dos transportes, as Partes, sem prejuízo do n.º 2, concordam em manter inicialmente o regime resultante de acordos bilaterais ou outros instrumentos bilaterais internacionais existentes celebrados entre cada Estado membro da Comunidade e a Sérvia ou, caso não haja tais acordos ou instrumentos, decorrente da situação de facto em 1991.
 
@@ -5942,7 +6074,9 @@ Contudo, embora aguardando a celebração de acordos entre a Comunidade e a Sér
 
 5 - As Partes abster-se-ão de adoptar quaisquer medidas unilaterais susceptíveis de provocar uma discriminação entre os transportadores ou os veículos da Comunidade e os da Sérvia. As Partes Contratantes tomarão todas as medidas necessárias para facilitar o transporte rodoviário com destino ao território da outra Parte ou através desse território.
 
-###### Artigo 12.º — Acesso ao mercado
+Artigo 12.º
+
+Acesso ao mercado
 
 As Partes comprometem-se, a título prioritário, a procurar encontrar, em conjunto, e nos termos das respectivas regras internas:
 
@@ -5950,7 +6084,9 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 - Um regime definitivo que regule o futuro acesso ao mercado dos transportes rodoviários entre as Partes, numa base recíproca.
 
-###### Artigo 13.º — Impostos, portagens e outros encargos
+Artigo 13.º
+
+Impostos, portagens e outros encargos
 
 1 - As Partes reconhecem que os impostos, as portagens e outros encargos aplicados aos respectivos veículos rodoviários não devem ser discriminatórios.
 
@@ -5960,13 +6096,17 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 4 - Enquanto se aguarda a celebração dos acordos referidos no n.º 2 e no artigo 12.º, qualquer alteração em matéria de impostos, portagens ou outros encargos, incluindo os sistemas de cobrança aplicáveis ao tráfego comunitário em trânsito pela Sérvia, proposta após a entrada em vigor do presente Acordo, será sujeita a um procedimento de consultas prévias.
 
-###### Artigo 14.º — Pesos e dimensões
+Artigo 14.º
+
+Pesos e dimensões
 
 1 - A Sérvia aceita que os veículos rodoviários que satisfaçam as normas comunitárias em matéria de peso e de dimensões circulem livremente sem quaisquer restrições pelas rotas referidas no artigo 5.º Durante seis meses após a data de entrada em vigor do Acordo, os veículos rodoviários que não satisfaçam as normas existentes da Sérvia podem ser sujeitos a um encargo especial não discriminatório que cubra os prejuízos causados pela carga adicional por eixo.
 
 2 - A Sérvia procurará harmonizar a sua regulamentação e as suas normas actuais em matéria de construção de estradas com a legislação em vigor na Comunidade no fim do 5.º ano a contar da data de entrada em vigor do presente Acordo e envidará esforços para adaptar o estado das vias referidas no artigo 5.º às novas regulamentações e normas dentro do prazo previsto, de acordo com as suas possibilidades financeiras.
 
-###### Artigo 15.º — Ambiente
+Artigo 15.º
+
+Ambiente
 
 1 - A fim de proteger o ambiente, as Partes procurarão introduzir normas sobre as emissões de gás e de partículas e sobre os níveis de ruído dos veículos pesados de mercadorias, que assegurem um elevado nível de protecção.
 
@@ -5976,7 +6116,9 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 4 - Para efeitos da introdução de novas normas, as Partes deverão colaborar entre si, a fim de cumprir os objectivos acima referidos.
 
-###### Artigo 16.º — Aspectos sociais
+Artigo 16.º
+
+Aspectos sociais
 
 1 - A Sérvia harmonizará a sua legislação sobre a formação de pessoal dos transportes rodoviários, em especial a relativa ao transporte de mercadorias perigosas, com as normas comunitárias.
 
@@ -5986,7 +6128,9 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 4 - As Partes assegurarão a equivalência das respectivas disposições em matéria de acesso à profissão de transportador rodoviário tendo em vista o seu reconhecimento mútuo.
 
-###### Artigo 17.º — Disposições em matéria de tráfego
+Artigo 17.º
+
+Disposições em matéria de tráfego
 
 1 - As Partes partilharão as suas experiências e esforçar-se-ão por harmonizar as respectivas legislações de modo a assegurar uma maior fluidez do tráfego durante os períodos de tráfego intenso (fins-de-semana, feriados públicos, estações turísticas).
 
@@ -5996,7 +6140,9 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 4 - As Partes procurarão igualmente harmonizar a assistência técnica aos condutores, a difusão de informações essenciais sobre o tráfego e outras informações úteis para os turistas, bem como os serviços de socorro, incluindo os serviços de ambulâncias.
 
-###### Artigo 18.º — Segurança rodoviária
+Artigo 18.º
+
+Segurança rodoviária
 
 1 - A Sérvia harmonizará a sua legislação sobre a segurança rodoviária, particularmente no que se refere ao transporte de mercadorias perigosas, com a legislação da Comunidade até ao final do 3.º ano após a entrada em vigor do presente Acordo.
 
@@ -6006,7 +6152,9 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 Simplificação das formalidades
 
-###### Artigo 19.º — Simplificação das formalidades
+Artigo 19.º
+
+Simplificação das formalidades
 
 1 - As Partes acordam em simplificar o fluxo ferroviário e rodoviário de mercadorias, quer bilateral quer em trânsito.
 
@@ -6016,11 +6164,15 @@ Simplificação das formalidades
 
 Disposições finais
 
-###### Artigo 20.º — Alargamento do âmbito de aplicação
+Artigo 20.º
+
+Alargamento do âmbito de aplicação
 
 Se uma das Partes concluir, com base na experiência adquirida com a aplicação do presente Protocolo, que outras medidas não abrangidas pelo âmbito de aplicação do presente Protocolo são de interesse para uma política europeia coordenada de transportes podendo, designadamente, contribuir para resolver o problema do tráfego de trânsito, apresentará à outra Parte sugestões sobre essa matéria.
 
-###### Artigo 21.º — Execução
+Artigo 21.º
+
+Execução
 
 1 - A cooperação entre as Partes efectuar-se-á no âmbito de um subcomité especial que será instituído em conformidade com o artigo 123.º do presente Acordo.
 
@@ -6040,11 +6192,11 @@ Declaração comum
 
 Valores limite medidos pelo teste do Ciclo Europeu de Estado Estacionário (ESC) e do Ensaio Europeu de Reacção a uma Carga (ELR):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 Valores limite medidos pelo teste do Ciclo Transiente Europeu (ETC):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 2 - A Comunidade e a Sérvia procurarão, no futuro, reduzir as emissões dos veículos a motor através da utilização da tecnologia de ponta de controlo das emissões dos veículos paralelamente a uma melhor qualidade do combustível para motores.
 
@@ -6086,7 +6238,9 @@ Se o acompanhamento indicar que, após a data de assinatura do presente Acordo, 
 
 PROTOCOLO N.º 6 RELATIVO À ASSISTÊNCIA ADMINISTRATIVA MÚTUA EM MATÉRIA ADUANEIRA
 
-###### Artigo 1.º — Definições
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente Protocolo, entende-se por:
 
@@ -6100,7 +6254,9 @@ d) «Dados pessoais» todas as informações respeitantes a uma pessoa singular 
 
 e) «Operações contrárias à legislação aduaneira» todas as violações ou tentativas de violação da legislação aduaneira.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - As Partes prestar-se-ão assistência mútua, no âmbito das suas competências, segundo as modalidades e as condições previstas no presente Protocolo, tendo em vista assegurar a correcta aplicação da legislação aduaneira, nomeadamente através da prevenção, da investigação e da repressão de operações contrárias a essa legislação.
 
@@ -6108,7 +6264,9 @@ e) «Operações contrárias à legislação aduaneira» todas as violações ou
 
 3 - A assistência em matéria de cobrança de direitos e imposições ou sanções pecuniárias não está abrangida pelo presente Protocolo.
 
-###### Artigo 3.º — Assistência mediante pedido
+Artigo 3.º
+
+Assistência mediante pedido
 
 1 - A pedido da autoridade requerente, a autoridade requerida prestar-lhe-á todas as informações úteis que permitam assegurar a correcta aplicação da legislação aduaneira, designadamente as informações relativas a actividades conhecidas ou previstas que constituam ou possam constituir uma operação contrária a essa legislação.
 
@@ -6128,7 +6286,9 @@ c) Mercadorias que são ou podem ser transportadas em condições tais que haja 
 
 d) Meios de transporte que são ou podem ser utilizados em condições tais que haja motivos razoáveis para supor que se destinam a ser utilizados em operações contrárias à legislação aduaneira.
 
-###### Artigo 4.º — Assistência espontânea
+Artigo 4.º
+
+Assistência espontânea
 
 As Partes prestar-se-ão assistência mútua, por sua própria iniciativa e em conformidade com as respectivas disposições legislativas ou regulamentares, se considerarem que tal é necessário para a correcta aplicação da legislação aduaneira, designadamente fornecendo as informações obtidas relativamente a:
 
@@ -6142,7 +6302,9 @@ d) As pessoas singulares ou colectivas relativamente às quais haja motivos razo
 
 e) Meios de transporte em relação aos quais haja motivos razoáveis para supor que foram, são ou podem ser utilizados para efectuar operações contrárias à legislação aduaneira.
 
-###### Artigo 5.º — Entrega e notificação
+Artigo 5.º
+
+Entrega e notificação
 
 A pedido da autoridade requerente, a autoridade requerida tomará, em conformidade com as suas disposições legislativas e regulamentares, todas as medidas necessárias para:
 
@@ -6154,7 +6316,9 @@ emanantes da autoridade requerente e abrangidos pelo âmbito do presente Protoco
 
 Os pedidos de entrega de documentos ou de notificação de decisões devem ser feitos por escrito numa língua oficial da autoridade requerida ou numa língua aceite por essa autoridade.
 
-###### Artigo 6.º — Forma e conteúdo dos pedidos de assistência
+Artigo 6.º
+
+Forma e conteúdo dos pedidos de assistência
 
 1 - Os pedidos apresentados nos termos do presente Protocolo devem ser feitos por escrito. Devem ser apensos aos pedidos todos os documentos necessários para a respectiva execução. Sempre que o carácter urgente da situação o exija, podem ser aceites pedidos orais, que devem, no entanto, ser imediatamente confirmados por escrito.
 
@@ -6176,7 +6340,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - No caso de um pedido não satisfazer os requisitos formais acima estabelecidos, pode solicitar-se que seja corrigido ou completado, podendo, entretanto, ser tomadas medidas cautelares.
 
-###### Artigo 7.º — Execução dos pedidos
+Artigo 7.º
+
+Execução dos pedidos
 
 1 - A fim de dar seguimento a um pedido de assistência, a autoridade requerida agirá, no âmbito das suas competências e em função dos recursos disponíveis, como se o fizesse por sua própria iniciativa ou a pedido de outras autoridades dessa Parte, prestando as informações de que disponha e efectuando ou mandando efectuar os inquéritos adequados. O disposto no presente número aplica-se igualmente a qualquer outra autoridade à qual a autoridade requerida tenha dirigido o pedido, quando esta última não pode agir por si só.
 
@@ -6186,7 +6352,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - Os funcionários devidamente autorizados de uma Parte podem, com o acordo da outra Parte em causa e nas condições por ela previstas, estar presentes quando da realização de inquéritos no território desta última.
 
-###### Artigo 8.º — Forma de comunicação das informações
+Artigo 8.º
+
+Forma de comunicação das informações
 
 1 - A autoridade requerida comunicará por escrito os resultados dos inquéritos à autoridade requerente, juntamente com os documentos, as cópias autenticadas ou outros instrumentos pertinentes.
 
@@ -6194,7 +6362,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 3 - Os originais dos documentos só serão transmitidos mediante pedido expresso nos casos em que as cópias autenticadas não sejam suficientes. Os originais devem ser devolvidos com a maior brevidade possível.
 
-###### Artigo 9.º — Excepções à obrigação de prestar assistência
+Artigo 9.º
+
+Excepções à obrigação de prestar assistência
 
 1 - A assistência pode ser recusada ou sujeita ao cumprimento de determinadas condições ou requisitos nos casos em que, no âmbito do presente Protocolo, uma das Partes considerar que a assistência:
 
@@ -6210,7 +6380,9 @@ c) Viole um segredo industrial, comercial ou profissional.
 
 4 - Nos casos referidos nos n.os 1 e 2, a decisão da autoridade requerida e as razões que a justificam devem ser comunicadas sem demora à autoridade requerente.
 
-###### Artigo 10.º — Intercâmbio de informações e confidencialidade
+Artigo 10.º
+
+Intercâmbio de informações e confidencialidade
 
 1 - As informações comunicadas, sob qualquer forma, nos termos do presente Protocolo têm carácter confidencial ou reservado, de acordo com as regras aplicadas pelas Partes. As informações estão sujeitas à obrigação do segredo oficial e beneficiam da protecção prevista na legislação aplicável na matéria na Parte que as recebeu, bem como nas disposições correspondentes aplicáveis às autoridades comunitárias.
 
@@ -6220,21 +6392,29 @@ c) Viole um segredo industrial, comercial ou profissional.
 
 4 - As informações obtidas serão utilizadas exclusivamente para fins do presente Protocolo. Se uma das Partes pretender utilizar essas informações para outros fins, deve obter a autorização prévia, por escrito, da autoridade que as forneceu. Nesse caso, as informações ficarão sujeitas às restrições impostas por essa autoridade.
 
-###### Artigo 11.º — Peritos e testemunhas
+Artigo 11.º
+
+Peritos e testemunhas
 
 Um funcionário da autoridade requerida pode ser autorizado a comparecer, nos limites estabelecidos na autorização que lhe foi concedida, como perito ou testemunha em acções judiciais ou administrativas relativas a questões abrangidas pelo presente Protocolo, perante os tribunais da outra parte, e a apresentar os objectos, documentos ou respectivas cópias autenticadas eventualmente necessários para esse efeito. O pedido de comparência deve indicar especificamente a autoridade judicial ou administrativa perante a qual esse funcionário deve comparecer e sobre que assunto, a que título ou em que qualidade será interrogado.
 
-###### Artigo 12.º — Despesas de assistência
+Artigo 12.º
+
+Despesas de assistência
 
 As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do presente protocolo, excepto no que se refere às despesas com peritos e testemunhas, se for caso disso, bem como com intérpretes e tradutores que não sejam funcionários da administração pública.
 
-###### Artigo 13.º — Execução
+Artigo 13.º
+
+Execução
 
 1 - A aplicação do presente Protocolo será confiada, por um lado, às autoridades aduaneiras da Sérvia e, por outro, aos serviços competentes da Comissão Europeia e, se for caso disso, às autoridades aduaneiras dos Estados membros. Estas autoridades decidirão de todas as medidas e disposições práticas necessárias para a sua aplicação, tendo em conta as normas em vigor, designadamente em matéria de protecção de dados. Podem recomendar às instâncias competentes as alterações do presente protocolo que considerem necessárias.
 
 2 - As Partes consultar-se-ão e manter-se-ão mutuamente informadas sobre as normas de execução adoptadas em conformidade com as disposições do presente Protocolo.
 
-###### Artigo 14.º — Outros acordos
+Artigo 14.º
+
+Outros acordos
 
 1 - Tendo em conta as competências respectivas da Comunidade Europeia e dos Estados membros, as disposições do presente Protocolo:
 
@@ -6250,13 +6430,19 @@ c) Não afectarão as disposições comunitárias relativas à comunicação, en
 
 PROTOCOLO N.º 7 - RESOLUÇÃO DE LITÍGIOS
 
-### CAPÍTULO I — Objectivo e âmbito
+CAPÍTULO I
 
-###### Artigo 1.º — Objectivo
+Objectivo e âmbito
+
+Artigo 1.º
+
+Objectivo
 
 O objectivo do presente Protocolo consiste em prevenir e resolver os litígios entre as Partes a fim de alcançar, sempre que possível, soluções mutuamente aceitáveis.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 As disposições do presente Protocolo aplicam-se apenas a divergências em relação à interpretação e aplicação das disposições que se seguem, mesmo que uma Parte considere que uma medida adoptada pela outra Parte, ou a falta de resposta da outra Parte, constituem uma infracção das suas obrigações referentes a tais disposições:
 
@@ -6276,17 +6462,25 @@ c) Título VI («Aproximação das legislações, aplicação da lei e regras da
 
 - N.º 2 do artigo 75.º («Propriedade intelectual, industrial e comercial») e n.º 1, primeiro parágrafo do n.º 2 e n.os 3 a 6 do artigo 76.º («Concursos públicos»).
 
-### CAPÍTULO II — Processo de resolução de litígios
+CAPÍTULO II
 
-#### SECÇÃO I — Procedimento arbitral
+Processo de resolução de litígios
 
-###### Artigo 3.º — Desencadeamento do procedimento de arbitragem
+SECÇÃO I
+
+Procedimento arbitral
+
+Artigo 3.º
+
+Desencadeamento do procedimento de arbitragem
 
 1 - Se as Partes não tiverem resolvido o litígio, a Parte requerente pode, nas condições previstas no artigo 130.º do presente Acordo, apresentar um pedido escrito de instituição de um painel de arbitragem à Parte requerida assim como ao Comité de Estabilização e de Associação.
 
 2 - A Parte requerente deve indicar no seu pedido o objecto do litígio e, se for caso disso, as medidas adoptadas pela outra Parte, ou a sua falta de resposta, que considera uma infracção ao disposto no artigo 2.º
 
-###### Artigo 4.º — Composição do painel de arbitragem
+Artigo 4.º
+
+Composição do painel de arbitragem
 
 1 - O painel de arbitragem é composto por três árbitros.
 
@@ -6306,7 +6500,9 @@ Se uma Parte considera que o presidente do painel de arbitragem não obedece ao 
 
 7 - Se um árbitro não puder participar no procedimento, se retirar dele ou for substituído em conformidade com o disposto no n.º 6, será seleccionado um substituto no prazo de cinco dias, em conformidade com os procedimentos de selecção adoptados para seleccionar o árbitro original. As actas do painel serão suspensas durante o período em que decorrer este procedimento.
 
-###### Artigo 5.º — Decisão do painel de arbitragem
+Artigo 5.º
+
+Decisão do painel de arbitragem
 
 1 - No prazo de 90 dias a contar da data de criação do painel de arbitragem, o painel de arbitragem notificará a sua decisão às Partes e ao Comité de Estabilização e de Associação. Se considerar que este prazo não pode ser cumprido, o presidente do painel deve notificar por escrito as Partes e o Comité de Estabilização e de Associação, expondo as razões de tal atraso. A decisão do painel não pode em caso algum ser proferida mais de 120 dias após a data da sua constituição.
 
@@ -6318,13 +6514,19 @@ Se uma Parte considera que o presidente do painel de arbitragem não obedece ao 
 
 5 - O painel de arbitragem pode, a pedido das duas Partes, suspender os seus trabalhos a qualquer momento por um período não superior a 12 meses. Uma vez terminado o período de 12 meses, o poder para a constituição do painel caducará, sem prejuízo do direito de posteriormente a Parte requerente poder solicitar a constituição de um novo painel de arbitragem para analisar a mesma questão.
 
-#### SECÇÃO II — Cumprimento
+SECÇÃO II
 
-###### Artigo 6.º — Cumprimento da decisão do painel de arbitragem
+Cumprimento
+
+Artigo 6.º
+
+Cumprimento da decisão do painel de arbitragem
 
 As Partes adoptarão as medidas necessárias para darem cumprimento à decisão do painel de arbitragem e esforçar-se-ão por chegar a acordo quanto ao prazo necessário para o fazer.
 
-###### Artigo 7.º — Prazo razoável para o cumprimento
+Artigo 7.º
+
+Prazo razoável para o cumprimento
 
 1 - O mais tardar 30 dias após a comunicação da decisão às Partes pelo painel de arbitragem, a Parte requerida notificará a Parte requerente do prazo (a seguir designado «prazo razoável») de que necessitará para o cumprimento da decisão. As duas Partes deverão procurar chegar a acordo quanto ao prazo razoável.
 
@@ -6332,7 +6534,9 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 3 - Caso não seja possível reunir o painel de arbitragem inicial, ou alguns dos seus membros, serão aplicáveis os procedimentos previstos no artigo 4.º O prazo para a comunicação da decisão continua a ser de 20 dias a contar da data da constituição do painel.
 
-###### Artigo 8.º — Análise das medidas adoptadas para dar cumprimento à decisão do painel de arbitragem
+Artigo 8.º
+
+Análise das medidas adoptadas para dar cumprimento à decisão do painel de arbitragem
 
 1 - Antes do final do prazo razoável, a Parte requerida notificará à outra Parte e ao Comité de Estabilização e de Associação as medidas que adoptou para cumprir a decisão do painel de arbitragem.
 
@@ -6340,7 +6544,9 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 3 - Caso não seja possível reunir o painel de arbitragem inicial, ou alguns dos seus membros, serão aplicáveis os procedimentos previstos no artigo 4.º O prazo para a comunicação da decisão continua a ser de 45 dias a contar da data da constituição do painel.
 
-###### Artigo 9.º — Medidas correctivas temporárias em caso de não cumprimento
+Artigo 9.º
+
+Medidas correctivas temporárias em caso de não cumprimento
 
 1 - Se a Parte requerida não notificar quaisquer medidas adoptadas para dar cumprimento à decisão do painel de arbitragem antes do final do prazo razoável, ou se o painel de arbitragem decidir que a medida notificada nos termos do n.º 1 do artigo 8.º não está em conformidade com as obrigações dessa Parte nos termos do presente Acordo, a Parte requerida, caso tal seja solicitado pela Parte requerente, deve apresentar uma proposta de medida correctiva temporária.
 
@@ -6350,7 +6556,9 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 4 - A suspensão de vantagens será temporária e aplicada apenas até que as medidas que se considere que violam o acordo sejam retiradas ou alteradas para que estejam em conformidade com o acordo, ou até que as partes acordem no encerramento do litígio.
 
-###### Artigo 10.º — Análise das medidas adoptadas para assegurar o cumprimento após a suspensão das vantagens
+Artigo 10.º
+
+Análise das medidas adoptadas para assegurar o cumprimento após a suspensão das vantagens
 
 1 - A Parte requerida notificará à outra Parte e ao Comité de Estabilização e de Associação as medidas que tomou para dar cumprimento à decisão do painel de arbitragem e o seu pedido de fim da suspensão das vantagens concedidas pela Parte requerente.
 
@@ -6358,35 +6566,51 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 3 - Caso não seja possível reunir o painel de arbitragem inicial, ou alguns dos seus membros, serão aplicáveis os procedimentos previstos no artigo 4.º Neste caso, o prazo de comunicação da decisão continua a ser de 45 dias a contar da data da constituição do painel.
 
-#### SECÇÃO III — Disposições comuns
+SECÇÃO III
 
-###### Artigo 11.º — Audições públicas
+Disposições comuns
+
+Artigo 11.º
+
+Audições públicas
 
 As reuniões do painel de arbitragem estarão abertas ao público nas condições estabelecidas no regulamento interno referido no artigo 18.º, a menos que o painel de arbitragem decida de outra forma por iniciativa própria ou a pedido das Partes.
 
-###### Artigo 12.º — Informações e assessoria técnica
+Artigo 12.º
+
+Informações e assessoria técnica
 
 A pedido de uma Parte ou por sua própria iniciativa, o painel pode obter informações de qualquer fonte que considere adequada para os seus trabalhos. O painel pode igualmente solicitar o parecer de peritos se o considerar necessário. Quaisquer informações assim obtidas devem ser divulgadas a ambas as Partes e ser sujeitas a comentários. As partes interessadas são autorizadas a fazer exposições amicus curiae ao painel de arbitragem nas condições estabelecidas no regulamento interno referido no artigo 18.º
 
-###### Artigo 13.º — Princípios de interpretação
+Artigo 13.º
+
+Princípios de interpretação
 
 O painel de arbitragem interpretará as disposições do presente Acordo em conformidade com as regras habituais em matéria de interpretação do direito internacional público, incluindo a Convenção de Viena sobre o Direito dos Tratados. Não deverá interpretar o acervo comunitário. O facto de uma disposição ser substancialmente idêntica a uma disposição do Tratado que institui as Comunidades Europeias não é decisivo na interpretação dessa disposição.
 
-###### Artigo 14.º — Decisões formais e informais do painel de arbitragem
+Artigo 14.º
+
+Decisões formais e informais do painel de arbitragem
 
 1 - Todas as decisões do painel de arbitragem, nomeadamente a aprovação das decisões formais, devem ser adoptadas por maioria de votos.
 
 2 - Todas as decisões formais do painel de arbitragem são vinculativas para as Partes. Devem igualmente ser notificadas às Partes e ao Comité de Estabilização e de Associação, que as disponibilizarão publicamente, a menos que o painel decida por consenso em sentido contrário.
 
-### CAPÍTULO III — Disposições gerais
+CAPÍTULO III
 
-###### Artigo 15.º — Lista de árbitros
+Disposições gerais
+
+Artigo 15.º
+
+Lista de árbitros
 
 1 - O mais tardar seis meses a contar da data de entrada em vigor do presente Protocolo, o Comité de Estabilização e de Associação elaborará uma lista de 15 pessoas dispostas e aptas a desempenhar a função de árbitros. Cada Parte pode seleccionar cinco pessoas para exercer as funções de árbitro. As Partes chegarão igualmente a acordo sobre cinco pessoas que desempenharão as funções de presidentes dos painéis de arbitragem. O Comité de Estabilização e de Associação assegurará que a lista se mantenha permanentemente a este nível.
 
 2 - Os árbitros devem dispor de conhecimentos especializados e de experiência nos domínios do direito, do direito internacional, do direito comunitário e ou do comércio internacional. Devem ser independentes, agir a título pessoal, não estar ligados nem aceitar instruções de nenhuma organização ou governo e respeitar o código de conduta referido no artigo 18.º
 
-###### Artigo 16.º — Relação com obrigações no âmbito da OMC
+Artigo 16.º
+
+Relação com obrigações no âmbito da OMC
 
 Aquando da eventual adesão da Sérvia à Organização Mundial do Comércio (OMC), aplicar-se-á o seguinte:
 
@@ -6396,7 +6620,9 @@ b) O direito de qualquer das Partes recorrer às disposições de resolução de
 
 c) O disposto no presente Protocolo não impede de forma alguma que uma Parte aplique a suspensão de obrigações autorizada pelo Órgão de resolução de litígios da OMC.
 
-###### Artigo 17.º — Prazos
+Artigo 17.º
+
+Prazos
 
 1 - Os prazos estabelecidos no presente Protocolo correspondem ao número de dias de calendário a contar da data do acto ou facto a que se referem.
 
@@ -6404,7 +6630,9 @@ c) O disposto no presente Protocolo não impede de forma alguma que uma Parte ap
 
 3 - Qualquer prazo referido no presente Protocolo pode igualmente ser alargado pelo presidente do painel de arbitragem, mediante pedido fundamentado de qualquer das Partes ou por sua própria iniciativa.
 
-###### Artigo 18.º — Regulamento interno, código de conduta e alteração do protocolo
+Artigo 18.º
+
+Regulamento interno, código de conduta e alteração do protocolo
 
 1 - O mais tardar seis meses após a entrada em vigor do presente Protocolo, o Conselho de Estabilização e de Associação deve estabelecer o regulamento interno relativo à condução dos trabalhos do painel de arbitragem.
 
@@ -6412,7 +6640,7 @@ c) O disposto no presente Protocolo não impede de forma alguma que uma Parte ap
 
 3 - O Conselho de Estabilização e de Associação pode decidir alterar o presente Protocolo, excepto o seu artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
 
 ACTA FINAL
 
@@ -6420,19 +6648,19 @@ Os plenipotenciários do Reino da Bélgica, República da Bulgária, República 
 
 O presente Acordo, bem como os respectivos anexos i a vii, nomeadamente:
 
-## Anexo I (artigo 21.º) - Concessões pautais da Sérvia para produtos industriais comunitários;
+Anexo I (artigo 21.º) - Concessões pautais da Sérvia para produtos industriais comunitários;
 
-## Anexo II (artigo 26.º) - Definição dos produtos baby beef;
+Anexo II (artigo 26.º) - Definição dos produtos baby beef;
 
-## Anexo III (artigo 27.º) - Concessões pautais da Sérvia para produtos agrícolas comunitários;
+Anexo III (artigo 27.º) - Concessões pautais da Sérvia para produtos agrícolas comunitários;
 
-## Anexo IV (artigo 29.º) - Concessões pautais comunitárias para produtos da pesca da Sérvia;
+Anexo IV (artigo 29.º) - Concessões pautais comunitárias para produtos da pesca da Sérvia;
 
-## Anexo V (artigo 30.º) - Concessões pautais da Sérvia para produtos da pesca comunitários;
+Anexo V (artigo 30.º) - Concessões pautais da Sérvia para produtos da pesca comunitários;
 
-## Anexo VI (artigo 52.º) - Estabelecimento: serviços financeiros;
+Anexo VI (artigo 52.º) - Estabelecimento: serviços financeiros;
 
-## Anexo VII (artigo 75.º) - Direitos de propriedade intelectual, industrial e comercial;
+Anexo VII (artigo 75.º) - Direitos de propriedade intelectual, industrial e comercial;
 
 e os seguintes Protocolos:
 
@@ -6500,4 +6728,4 @@ Tendo em conta que a Comunidade adoptou medidas comerciais de carácter excepcio
 
 (2) JO, n.º L 240, de 23 de Setembro de 2000, a p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º [530/2007](http://data.europa.eu/eli/reg/2007/530/oj?locale=pt), do Conselho (JO, n.º L 125, de 15 de Maio de 2007, a p. 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0090601152.pdf)

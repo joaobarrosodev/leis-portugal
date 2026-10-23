@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(244) a 3330-(245)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/02440245.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-h13/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-h13-1992-617558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2f09cb771e34691be89e316e111bcf7055dc9c0a6a57e83154a30099aa3995e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebf36a57530d62715742efb47d701d4d9682e37107647ecc2d0a20ebd476f673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,63 @@ relationships:
   target: pt:dre:481922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157463:por
+  label: "Renovada a concessão da Zona de caça constituída pela presente portaria, pela Port.254-N/96.1996.07.15.MADRP DR.IS-B\
+    \ [162]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-n-1996-157463
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:582232:por
+  label: "Renovada por seis anos a concessão de zona de caça atribuída pelo presente diploma, posteriormente renovada pela\
+    \ Port 254-N/96 de 15-Jul, pela PORT.129/2004.06.02.2004.MADRP, DR.IS-B [31] de 06.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/129-2004-582232
+  date: '2004-02-06'
+- type: amended_by
+  target: pt:dre:481922:por
+  label: "Renovada, por um período de seis anos, a zona de caça associativa da Silveira atribuída pelo presente diploma, renovada\
+    \ pela Port 254-N/96, de 15-Jul e pela Port 129/2004, de 06-Fev, pela PORT.1440/2009.22.12.2009.MADRP, DR.IS [246] de\
+    \ 22.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1440-2009-481922
+  date: '2009-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:29:20Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +171,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Julho de 1992.**
+Assinada em 10 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/02440245.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/02440245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/02440245.pdf)

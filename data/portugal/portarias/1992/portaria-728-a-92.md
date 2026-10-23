@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 165/1992, 2º Suplemento, Série I-B de 1992-07-20
   number: '165'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3378-(6) a 3378-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/165b02/00060014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/728-a/1992/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/728-a-1992-355486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ebed4a64681d837cd1581a79478c37b38dbff1a870a7992a5d9d18e2a4d5815
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b72836a23e815187b8dccf33ddef3d2a1efc4fccb9d66c75eb0976542408f271
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,29 @@ relationships:
   target: pt:dre:382603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221101:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382603:por
+  label: "Revogada pela Port 297/97.1997.05.06.MQE, DR.IS-B [104] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1997-382603
+  date: '1997-05-06'
 article_structure:
   article_count: 35
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:08Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +138,9 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 16 de Julho de 1992.**
+Assinada em 16 de Julho de 1992.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Estrutura orgânica dos serviços centrais do Instituto do Emprego e Formação Profissional
 

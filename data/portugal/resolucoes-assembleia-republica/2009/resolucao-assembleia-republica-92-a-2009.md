@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 188/2009, 1º Suplemento, Série I de 2009-09-28
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6984-(2) a 6984-(96)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/92-a/2009/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/92-a-2009-551987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1042549d9375bdb24d09112c9c96f3a509a095eba799548885e6c56414eaa63e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 656eef0d7a79ab6ea33d254f63fed017e460dee556b90f56cb1658c4771142fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Passagem de Nível
 - Portugal
 - Simbolo de Identificação
-- Veículo
-- Passagem de Nível
 - Sinalização
 - Tráfego Rodoviário
 - Trânsito
+- Veículo
 - Viena
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:551988:por
+  label: "Ratificada a Convenção sobre a Sinalização Rodoviária, pelo DEC.94-A/2009.28.09.2009.PR, DR.IS [188-Supl] de 28.09.2009\0\
+    09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/94-a-2009-551988
+  date: '2009-09-28'
 article_structure:
   article_count: 50
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:58Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de Julho de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENTION SUR LA SIGNALISATION ROUTIÈRE
 
@@ -1673,7 +1679,7 @@ ii) Conditions d'emploi des lignes continues
 
 24 - Le choix de la distance de visibilité à adopter pour la détermination des sections où une ligue continue est ou non désirable, ainsi que le choix de la longueur à donner à cette ligne, résultent nécessairement d'un compromis. Le tableau suivant donne la valeur recommandée pour M correspondant à diverses vitesses d'approche (****):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
 
 25 - Pour les vitesses non mentionnées sur ce tableau qui précède, la valeur M correspondante doit être calculée par interpolation ou extrapolation.
 
@@ -1771,7 +1777,7 @@ ii) Marques sur obstacles
 
 Diagrammes de l'annexe 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
 
 CONVENÇÃO SOBRE A SINALIZAÇÃO RODOVIÁRIA
 
@@ -1843,27 +1849,27 @@ u) A obrigação para o condutor de um veículo de «ceder passagem» a outros v
 
 Os anexos à presente Convenção, a saber:
 
-## Anexo 1: sinais verticais:
+Anexo 1: sinais verticais:
 
-#### Secção A: sinais de perigo;
+Secção A: sinais de perigo;
 
-#### Secção B: sinais de prioridade;
+Secção B: sinais de prioridade;
 
-#### Secção C: sinais de proibição ou de restrição;
+Secção C: sinais de proibição ou de restrição;
 
-#### Secção D: sinais de obrigação;
+Secção D: sinais de obrigação;
 
-#### Secção E: sinais de prescrição específica;
+Secção E: sinais de prescrição específica;
 
-#### Secção F: sinais de informação, de instalação ou de serviço;
+Secção F: sinais de informação, de instalação ou de serviço;
 
-#### Secção G: sinais de direcção, de orientação ou de indicação;
+Secção G: sinais de direcção, de orientação ou de indicação;
 
-#### Secção H: painéis adicionais;
+Secção H: painéis adicionais;
 
-## Anexo 2: marcas rodoviárias;
+Anexo 2: marcas rodoviárias;
 
-## Anexo 3: reprodução a cores dos sinais, símbolos e painéis referidos no anexo 1;
+Anexo 3: reprodução a cores dos sinais, símbolos e painéis referidos no anexo 1;
 
 constituem parte integrante da presente Convenção.
 
@@ -3273,7 +3279,7 @@ ii) Condições de utilização das linhas contínuas
 
 24 - A escolha da distância de visibilidade a adoptar para determinar os troços em que seja ou não recomendável uma linha contínua, bem como a escolha da extensão dessa linha, resultam necessariamente de um compromisso. O quadro seguinte apresenta o valor recomendado para M de acordo com as diferentes velocidades de aproximação (3):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
 
 25 - Para as velocidades não referidas no quadro que antecede, o valor M correspondente deve ser calculado por interpolação ou extrapolação.
 
@@ -3365,4 +3371,4 @@ ii) Marcas em obstáculos
 
 Diagramas do anexo 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18801/0000200096.pdf)

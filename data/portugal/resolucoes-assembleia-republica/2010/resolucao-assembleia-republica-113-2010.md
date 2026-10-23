@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/113/2010/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/113-2010-307639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beae942ca2fcc0f6bfc906cab95c9e29913ca4e1e0129e936e5b9a44334c5285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dbbbd8e2bf8f6ec309056dd1594e6cce74a45783ae15ff23c5419193b1488cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Energia Nuclear
 - Central Nuclear
+- Convenção
+- Energia Nuclear
+- Portugal
 - Viena
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:307643:por
+  label: "Ratificadas as Emendas à Convenção sobre a Protecção Física dos Materiais Nucleares, aprovadas pelo presente diploma,\
+    \ pelo DEC.106/2010.26.10.2010.PR, DR.IS [208] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/106-2010-307643
+  date: '2010-10-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:24:28Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 16 de Julho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 AMENDMENT TO THE CONVENTION ON THE PHYSICAL PROTECTION OF NUCLEAR MATERIAL
 
@@ -580,7 +586,7 @@ ii) Ser feito com o conhecimento da intenção do grupo de cometer uma das infra
 
 Nenhuma das infracções referidas no artigo 7.º será considerada, para efeitos de extradição ou assistência jurídica mútua, infracção política ou a ela conexa nem infracção baseada em motivos políticos. Em consequência, um pedido de extradição ou de assistência jurídica mútua não pode ser recusado unicamente por consistir numa infracção política ou a ela conexa ou numa infracção baseada em motivos políticos.
 
-###### Artigo 11.º-B
+Artigo 11.º-B
 
 Nenhuma das disposições da presente convenção deverá ser interpretada como sendo uma imposição da obrigação de extraditar ou de proporcionar assistência jurídica mútua se o Estado Parte a quem foi requerido tiver motivos substanciais para considerar que o pedido de extradição pelas infracções enunciadas no artigo 7.º ou de assistência jurídica mútua com respeito a tais delitos se tenha formulado com o objectivo de processar ou sancionar uma pessoa por motivos relacionados com a sua raça, religião, nacionalidade, origem étnica ou orientação política, ou que o cumprimento do pedido prejudicaria a posição dessa pessoa por qualquer destas razões.»
 

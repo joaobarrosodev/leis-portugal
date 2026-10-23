@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/142b00/29462947.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/548/1992/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1992-303415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e3c7fc38c78acb78f7c2f307789bbbb2e1782eec746977c42104886e6733e31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c59fd30f01b9a9cac757b6e01537ce1d4155368ed35fd4ac560ecc3395edae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Aluguer
 - Direcção Geral dos Recursos Naturais
 - Equipamento
-- Santiago do Cacém
 - Preço
-- Abastecimento de Água
+- Santiago do Cacém
 relationships:
 - type: amended_by
   target: pt:dre:660305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:555803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615242:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628838:por
+  label: "Revogada e substituída, na parte relativa à água industrial e à não tratada, pela PORT.263/93.1993.03.08.MIE, DR.IS-B\
+    \ [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1993-628838
+  date: '1993-03-08'
+- type: repealed_by
+  target: pt:dre:660305:por
+  label: "Revogada e substituída, pela PORT.861/93.1993.09.14.MIE, DR.S-B [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/861-1993-660305
+  date: '1993-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:48Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +140,9 @@ b) Na venda de água aos municípios, no mês seguinte à entrada em vigor desta
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 2 de Junho de 1992.**
+Assinada em 2 de Junho de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 ## ANEXO
 
@@ -209,4 +232,4 @@ MAPA II
 
 Preços de aluguer de contadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/142b00/29462947.pdf))](https://files.diariodarepublica.pt/1s/1992/06/142b00/29462947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/142b00/29462947.pdf)

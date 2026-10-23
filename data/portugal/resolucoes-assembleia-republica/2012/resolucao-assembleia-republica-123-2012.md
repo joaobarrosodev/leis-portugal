@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/123/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/123-2012-174820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 733c4f12045a2976cb7091d5a7042f744411f557916fbbb2b7dd03c16675a050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb630420f1fb8003e83241795bce6070a551362398b49d2a87f93cabbd9ca14c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Financiamento
 - CE Países
-- Convenção
-- Política de Cooperação
-- Cotonu
-- Portugal
-- Desenvolvimento Industrial
-- Desenvolvimento Social
-- União Europeia
-- Política Externa
 - Comissão CE
-- Gestão Orçamental
-- Desenvolvimento Económico
+- Convenção
 - Cooperação Económica
 - Cooperação Internacional
-relationships: []
+- Cotonu
+- Desenvolvimento Económico
+- Desenvolvimento Industrial
+- Desenvolvimento Social
+- Financiamento
+- Gestão Orçamental
+- Política de Cooperação
+- Política Externa
+- Portugal
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:174823:por
+  label: "Ratificado o Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade Europeia e\
+    \ os seus Estados Membros (2ª alteração), aprovado, para ratificação, pelo presente diploma, pelo DEC.147/2012.31.08.2012.PR,\
+    \ DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/147-2012-174823
+  date: '2012-08-31'
+- type: cites
+  target: pt:dre:2934614:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:22Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +117,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 8 de junho de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO QUE ALTERA PELA SEGUNDA VEZ O ACORDO DE PARCERIA ENTRE OS ESTADOS DE ÁFRICA, DAS CARAÍBAS E DO PACÍFICO E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, ASSINADO EM COTONU, EM 23 DE JUNHO DE 2000, E ALTERADO PELA PRIMEIRA VEZ NO LUXEMBURGO EM 25 DE JUNHO DE 2005.
 
@@ -700,7 +711,9 @@ b) Os países e territórios ultramarinos (PTU) e as regiões ultraperiféricas;
 
 c) Países em desenvolvimento não ACP.
 
-###### Artigo 29.º — Cooperação ACP-UE em apoio à cooperação e integração regionais
+Artigo 29.º
+
+Cooperação ACP-UE em apoio à cooperação e integração regionais
 
 1 - Nos domínios da estabilidade, da paz e da prevenção de conflitos, a cooperação deve apoiar:
 
@@ -734,7 +747,9 @@ d) Investigação e desenvolvimento tecnológico; e
 
 e) Iniciativas regionais em matéria de prevenção de catástrofes e atenuação dos seus efeitos, bem como reconstrução na sequência de catástrofes.
 
-###### Artigo 30.º — Desenvolvimento das capacidades para apoiar a cooperação e a integração regionais ACP
+Artigo 30.º
+
+Desenvolvimento das capacidades para apoiar a cooperação e a integração regionais ACP
 
 Para tornar as políticas regionais eficazes e eficientes, a cooperação deve desenvolver e reforçar as capacidades:
 
@@ -834,7 +849,9 @@ Modalidades
 
 3 - As Partes acordam em que estes novos regimes comerciais devem ser introduzidos progressivamente.
 
-###### Artigo 37.º — Processo
+Artigo 37.º
+
+Processo
 
 1 - Durante as negociações dos acordos de parceria económica, deve ser promovido um desenvolvimento das capacidades dos sectores público e privado dos países ACP, em conformidade com as disposições do título i e do artigo 35.º, nomeadamente adoptando medidas destinadas a melhorar a competitividade, a reforçar as organizações regionais e a apoiar as iniciativas de integração comercial regional, se necessário através do apoio ao ajustamento orçamental, à reforma das finanças públicas, à modernização e ao desenvolvimento das infra-estruturas e à promoção dos investimentos.
 
@@ -1278,7 +1295,9 @@ c) A preparação e adopção de um programa indicativo para assegurar a aplica�
 
 d) Um processo de reexame que abranja o documento de estratégia, o programa indicativo e o volume de recursos atribuídos a este último.
 
-###### Artigo 2.º — Documento de estratégia relativo ao país
+Artigo 2.º
+
+Documento de estratégia relativo ao país
 
 O documento de estratégia relativo ao país (DEP) é elaborado pelo Estado ACP em questão e pela UE. Tem por base o resultado de consultas previamente realizadas com uma vasta gama de intervenientes, incluindo intervenientes não estatais, autoridades locais e, se for caso disso, Parlamentos dos Estados ACP, e deve inspirar-se na experiência e nas melhores práticas. Cada DEP deve estar adaptado às necessidades e corresponder às circunstâncias específicas de cada Estado ACP. O DEP é um instrumento destinado a definir as prioridades das actividades e a criar uma apropriação local dos programas de cooperação. Qualquer divergência entre a análise efectuada pelo próprio país e a análise da Comunidade deve ser assinalada. O DEP deve normalmente incluir os seguintes elementos:
 
@@ -1292,7 +1311,9 @@ d) Estratégias de resposta, com indicação detalhada da contribuição especí
 
 e) Uma indicação dos mecanismos de apoio e de execução mais adequados a aplicar na execução das estratégias acima descritas.
 
-###### Artigo 3.º — Afectação de recursos
+Artigo 3.º
+
+Afectação de recursos
 
 1 - A afectação indicativa de recursos entre os países ACP deve basear-se em critérios de avaliação das necessidades e de desempenho normalizados, objectivos e transparentes. Neste contexto:
 
@@ -1400,7 +1421,9 @@ Programas regionais
 
 Os Estados ACP em questão pronunciam-se sobre a definição das regiões geográficas. Na medida do possível, os programas de integração regional devem corresponder a programas de organizações regionais existentes. Em princípio, e no caso de haver uma sobreposição entre as várias organizações regionais competentes, o programa de integração regional deve associar as várias organizações.
 
-###### Artigo 8.º — Programação regional
+Artigo 8.º
+
+Programação regional
 
 1 - A programação deve efectuar-se ao nível de cada região, devendo resultar de um intercâmbio de pontos de vista entre a Comissão e a ou as organizações regionais devidamente mandatadas ou, na falta desse mandato, os gestores orçamentais nacionais dos países dessa região. Sempre que adequado, a programação pode incluir uma consulta com os intervenientes não estatais representados a nível regional e, se for caso disso, com os Parlamentos regionais.
 
@@ -1420,7 +1443,9 @@ e) Uma síntese da contribuição específica da UE para a concretização dos o
 
 f) Uma indicação dos mecanismos de apoio e de execução mais adequados a aplicar na execução das estratégias acima descritas.
 
-###### Artigo 9.º — Afectação de recursos
+Artigo 9.º
+
+Afectação de recursos
 
 1 - A afectação indicativa de recursos entre as regiões ACP deve basear-se em estimativas normalizadas, objectivas e transparentes das necessidades, bem como nos progressos realizados e nas perspectivas a nível do processo de cooperação e integração regionais.
 
@@ -1482,7 +1507,9 @@ d) Uma síntese das actividades pertinentes de outros parceiros externos em mat�
 
 e) Uma indicação da contribuição da UE para a realização dos objectivos da cooperação intra-ACP e da sua complementaridade com as operações financiadas a nível nacional e regional, bem como por outros parceiros externos, em especial os Estados membros da UE.
 
-###### Artigo 12.º-B — Pedidos de financiamento
+Artigo 12.º-B
+
+Pedidos de financiamento
 
 Os pedidos de financiamento de programas intra-ACP devem ser apresentados:
 
@@ -1496,7 +1523,9 @@ ii) Por organizações internacionais, como a União Africana, cujas operações
 
 iii) Pelas regiões das Caraíbas ou do Pacífico, em virtude da sua situação geográfica especial, mediante aprovação prévia do Conselho de Ministros ACP ou do Comité de Embaixadores ACP.
 
-###### Artigo 12.º-C — Afectação de recursos
+Artigo 12.º-C
+
+Afectação de recursos
 
 A afectação indicativa de recursos deve basear-se nas estimativas das necessidades, bem como nos progressos e perspectivas do processo de cooperação intra-ACP. Inclui uma reserva de fundos não programáveis.»
 
@@ -1518,7 +1547,9 @@ c) Os programas e projectos necessários para alcançar os objectivos fixados, d
 
 3 - Sem prejuízo do disposto na subalínea iii) da alínea b) do artigo 12.º-B, o Comité de Embaixadores ACP apresenta anualmente uma lista consolidada de pedidos de financiamento das acções prioritárias previstas no programa indicativo intra-ACP. A Comissão identifica e prepara as acções correspondentes com o Secretariado ACP, bem como um programa de acção anual. Na medida do possível e tendo em conta os recursos afectados, os pedidos de financiamento de acções não previstas no programa indicativo intra-ACP são incluídos no programa de acção anual. Em casos excepcionais, estes pedidos são adoptados através de uma decisão de financiamento especial da Comissão.
 
-###### Artigo 14.º — Processo de revisão
+Artigo 14.º
+
+Processo de revisão
 
 1 - A cooperação intra-ACP deve ser suficientemente flexível e reactiva para assegurar a coerência das suas acções com os objectivos do presente Acordo e para ter em conta eventuais alterações a nível das prioridades e objectivos do Grupo dos Estados ACP.
 
@@ -1598,7 +1629,9 @@ Adjudicação de contratos, concessão de subvenções e execução de contratos
 
 Este grupo de peritos deve igualmente apresentar periodicamente um relatório ao Comité ACP-CE de Cooperação para o Financiamento do Desenvolvimento, a fim de o assistir na sua missão de analisar os problemas relacionados com a execução das actividades de cooperação para o desenvolvimento e propor as medidas adequadas.
 
-###### Artigo 20.º — Elegibilidade
+Artigo 20.º
+
+Elegibilidade
 
 Salvo em caso de derrogação concedida nos termos do artigo 22.º e sem prejuízo do artigo 26.º:
 
@@ -1670,7 +1703,9 @@ a) Fornecer avaliações regulares e independentes das operações e das activid
 
 b) Permitir, deste modo, que os Estados ACP ou a organização ou organismo competente a nível regional ou intra-ACP, a Comissão e as instituições comuns integrem os resultados da experiência adquirida na concepção e na execução das futuras políticas e operações.
 
-###### Artigo 34.º — Comissão
+Artigo 34.º
+
+Comissão
 
 1 - A Comissão assegura a execução financeira das operações efectuadas a partir dos recursos do quadro financeiro plurianual de cooperação a título do presente Acordo, à excepção da facilidade de investimento e das bonificações de juros, segundo as principais modalidades de gestão a seguir indicadas:
 
@@ -1752,4 +1787,4 @@ b) Ao artigo 4.º é aditado o seguinte número:
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no final do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16900/0494404978.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16900/0494404978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16900/0494404978.pdf)

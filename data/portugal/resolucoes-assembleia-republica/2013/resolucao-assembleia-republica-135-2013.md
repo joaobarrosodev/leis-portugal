@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/135/2013/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/135-2013-500033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ff3561c60069ec50d4cccb06a5fea602897f15ec384d193d975cf593ede44c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ab4d74ed90b98d1f8fcfb78e7bf5a1800a8ac8bcce64a591b023fdf48ce0ee2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arbitragem
+- Aviação Civil
+- Bruxelas
 - CE Países
 - Comité Misto
+- Contribuições e Impostos
 - Convenção
 - Cooperação Comercial
 - Direitos Aduaneiros
 - Espaço Aéreo
-- União Europeia
-- Contribuições e Impostos
 - Investimento Estrangeiro
 - Locação Financeira
-- Proteção do Ambiente
-- Transporte de Mercadorias
-- Proteção do Consumidor
-- Aviação Civil
 - Moldova
+- Proteção do Ambiente
+- Proteção do Consumidor
 - Segurança Aérea
 - Taxa
 - Taxa Aeroportuária
 - Tráfego Aéreo
+- Transporte de Mercadorias
 - Transporte de Passageiros
-- Bruxelas
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:500032:por
+  label: "Ratificado o Acordo, aprovado para ratificação pelo presente diploma, pelo DEC.105/2013.13.09.2013.PR, DR.IS [177]\
+    \ de 13.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/105-2013-500032
+  date: '2013-09-13'
 - type: cites
   target: celex:31993R0095
   label: null
@@ -140,13 +146,13 @@ relationships:
 article_structure:
   article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:53Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +165,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de julho de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO SOBRE O ESPAÇO DE AVIAÇÃO COMUM ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS E A REPÚBLICA DA MOLDOVA
 
@@ -745,7 +751,7 @@ Em fé do que os abaixo assinados, com os devidos poderes para o efeito, apusera
 
 Feito em Bruxelas, em 26 de junho de 2012, em duplo exemplar, nas línguas oficiais das Partes, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf)
 
 ## ANEXO I — Serviços acordados e rotas especificadas
 
@@ -1293,4 +1299,4 @@ Disposições aplicáveis: artigos 1.º a 18.º e anexos i e ii.
 
 4 - Confederação Suíça (no âmbito do Acordo entre a Comunidade Europeia e a Confederação Suíça relativo aos transportes aéreos).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf))](https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/17700/0572905752.pdf)

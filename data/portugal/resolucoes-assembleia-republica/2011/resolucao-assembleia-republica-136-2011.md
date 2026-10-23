@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/136/2011/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/136-2011-146927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78812c2a3b2ce058e15615919f3e5377cfcb548a5d0ba7e4a971f0a346f5d0df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34b3762d09a2f492e7e1b3763f6b31b6b300067096c2a089f997296477b3f065
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
 - Centro de Estudos Judiciários
 - Conselho Geral
+- Eleição
 relationships:
+- type: amended_by
+  target: pt:dre:178486:por
+  label: "Declarado que Ricardo Manuel de Amaral Rodrigues, renunciou ao mandato para o qual foi designado, pela DECL.6/2012.06.07.2012.AR,\
+    \ DR.IS [130] de 06.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/6-2012-178486
+  date: '2012-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2008/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2008/01/14/p/dre
+- type: cites
+  target: pt:dre:386626:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:28:07Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +117,4 @@ Pedro Filipe Mota Delgado Simões Alves.
 
 Aprovada em 14 de Outubro de 2011.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

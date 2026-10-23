@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/83/2010/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2010-334083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12590addff99cb3ed3f5cf12a2a4f5f805686864edc6b3a01ed742f53e8c6ebf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f266953069c9a65e2e5293f70dc5964fcb99f39789f121fb0e6b4edcad2711
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Livro de Reclamações
-- Modernização Administrativa
-- Multa
+- Agência para a Modernização Administrativa
+- Conselho Diretivo
 - Contra-ordenação
 - Fiscalização
-- Conselho Diretivo
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Inspecção de Veículos
-- Licenciamento
-- Veículo
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Instituto Português de Acreditação
-- Segurança Rodoviária
+- Licenciamento
+- Livro de Reclamações
+- Modernização Administrativa
 - Modernização Tecnológica
+- Multa
 - Pessoal de Inspecção
 - Preço
 - Proteção do Consumidor
-- Agência para a Modernização Administrativa
 - Requisição Civil
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:179503:por
@@ -103,16 +103,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1165/2000/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1165/2000/12/09/p/dre
+- type: cites
+  target: pt:dre:584229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655940:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179503:por
+  label: "Revogada a Port 1165/2000, de 09-dez, DR.IS-B [283], na redação do presente diploma, pela PORT.221/2012.20.07.2012.MEE,\
+    \ DR.IS [140] de 20.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-2012-179503
+  date: '2012-07-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:26:52Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +143,4 @@ A Assembleia da República resolve, nos termos dos n.os 5 do artigo 166.º e 1 e
 
 Aprovada em 16 de Julho de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

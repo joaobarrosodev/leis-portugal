@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 117/2012, 1º Suplemento, Série I de 2012-06-19
   number: '117'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3050-(2) a 3050-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11701/0000200003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/80-a/2012/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/80-a-2012-423414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae0b978e6ac3c7b42b8ca65695085a7764e95ee70c9ae4b2e373c96ab72ec130
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68ae806af22ca07de0c77aa159cd020b51659c943766b918da01a41da336159f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
-- Circunscrição Administrativa
-- Definição de Competências
-- Assembleia da República
 - Administração Local
-- Remuneração
+- Assembleia da República
 - Autarquia Local
+- Circunscrição Administrativa
 - Comissão Executiva
+- Definição de Competências
+- Organização Territorial
+- Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2010/12/28/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1553-d/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1553-d/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:177812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:33:36Z'
   warnings: []
   errors: []
 ---
@@ -192,4 +204,4 @@ O mandato dos membros da Unidade Técnica inicia-se com o ato de posse e termina
 
 Aprovada em 15 de junho de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

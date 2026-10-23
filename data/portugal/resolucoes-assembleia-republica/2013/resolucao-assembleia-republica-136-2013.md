@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/136/2013/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/136-2013-500037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f9c80e98361e7b881661f48987f33174cff9da9782cf114ed5975340e62498a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 310748582de6b18235e49a8103dd923f074282304f2fd036526234d6ef156182
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
+- Contribuições e Impostos
 - Convenção
 - Corporação Andina de Fomento
-- Portugal
 - Direitos Aduaneiros
-- Lisboa
-- Contribuições e Impostos
 - Investimento Estrangeiro
 - Isenção Fiscal
-- Admissão de Estrangeiros
-relationships: []
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:500038:por
+  label: "Ratificado o Acordo, aprovado para ratificação pelo presente diploma, pelo DEC.106/2013.13.09.2013.PR, DR.IS [177]\
+    \ de 13.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/106-2013-500038
+  date: '2013-09-13'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:53Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de julho de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A CORPORAÇÃO ANDINA DE FOMENTO SOBRE PRIVILÉGIOS E IMUNIDADES
 
@@ -254,7 +260,7 @@ Qualquer controvérsia relativa à interpretação ou aplicação do presente Ac
 
 O presente Acordo entrará em vigor na data de recebimento pelas Partes da última notificação escrita que ateste o cumprimento dos requisitos internos necessários para que este produza efeito legal.
 
-**Assinado na cidade de Lisboa, aos 30 dias do mês de Novembro de 2009, em dois (2) exemplares originais em língua portuguesa e dois (2) exemplares originais em língua espanhola, do mesmo teor.**
+Assinado na cidade de Lisboa, aos 30 dias do mês de Novembro de 2009, em dois (2) exemplares originais em língua portuguesa e dois (2) exemplares originais em língua espanhola, do mesmo teor.
 
 Pela República Portuguesa:
 

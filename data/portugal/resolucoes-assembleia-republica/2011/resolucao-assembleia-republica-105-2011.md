@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/105/2011/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/105-2011-286755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 865c17441645c1ac36de807035914fbfcc9ceb27cdf2a03ac2ecdcf662d6fbc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31a0980e6db16f2cd6938dd26aad99ca113b94f13ac345d722279f092cdfabbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
+- Alemanha
 - BONA
 - Convenção
-- Portugal
 - Definição de Competências
+- Energia
 - Energia Hidroelétrica
+- Energia não Poluente
 - Energia Renovável
 - Energia Solar
 - Estatuto
 - Irena
+- Portugal
 - Proteção do Ambiente
-- Energia
-- Alemanha
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:286757:por
+  label: "Ratificado o Estatuto pelo DEC.50/2011.09.05.2011.PR, DR.IS [89] de 09.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2011-286757
+  date: '2011-05-09'
 article_structure:
-  article_count: 0
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:27:24Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de Fevereiro de 2011.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 STATUTE OF THE INTERNATIONAL RENEWABLE ENERGY AGENCY (IRENA)
 
@@ -514,17 +519,13 @@ Afirmando o seu desejo de estabelecerem uma organização internacional para a e
 
 acordaram o seguinte:
 
-Artigo I
-
-Estabelecimento da Agência
+###### Artigo I — Estabelecimento da Agência
 
 A) As Partes deste Estatuto estabelecem por este meio a Agência Internacional para as Energias Renováveis (referida daqui em diante como «a Agência») de acordo com os termos e condições seguintes.
 
 B) A Agência baseia-se no princípio da igualdade de todos os seus membros e deve respeitar, no desempenho das suas actividades, os direitos soberanos e competências dos seus membros.
 
-Artigo II
-
-Objectivos
+###### Artigo II — Objectivos
 
 A Agência promoverá amplamente a crescente adopção da utilização sustentada de todas as formas de energia renovável a nível mundial, tendo em conta:
 
@@ -532,9 +533,7 @@ a) As prioridades e os benefícios nacionais e internos resultantes de uma abord
 
 b) A contribuição da energia renovável para a preservação ambiental, através da limitação da pressão sobre os recursos naturais e a redução da desflorestação, em particular da desflorestação tropical, da desertificação e da perda da biodiversidade; para a protecção do clima; para o crescimento económico e a coesão social, incluindo a mitigação da pobreza e o desenvolvimento sustentável; para o acesso e segurança do abastecimento de energia; para o desenvolvimento regional e para a responsabilidade intergeracional.
 
-Artigo III
-
-Definição
+###### Artigo III — Definição
 
 Neste Estatuto o termo «energia renovável» aplica-se a todas as formas de energia obtidas a partir de fontes renováveis e de modo sustentável, que incluem, inter alia:
 
@@ -550,9 +549,7 @@ Neste Estatuto o termo «energia renovável» aplica-se a todas as formas de ene
 
 6) Energia eólica.
 
-Artigo IV
-
-Actividades
+###### Artigo IV — Actividades
 
 A) Na qualidade de centro de excelência para a tecnologia da energia renovável e actuando como facilitador e catalisador, proporcionando experiência para as aplicações práticas e as políticas, oferecendo apoio em todos os assuntos relacionados com a energia renovável e ajudando os países a beneficiarem do desenvolvimento e transferência eficientes de conhecimentos e tecnologia, a Agência realiza as seguintes actividades:
 
@@ -592,17 +589,13 @@ C) A Agência deverá:
 
 3) Informar os membros sobre as consultas e a cooperação tidas com organizações internacionais a trabalhar nesta área, e sobre o trabalho por estas realizado.
 
-Artigo V
-
-Programa de trabalho e projectos
+###### Artigo V — Programa de trabalho e projectos
 
 A) A Agência desenvolverá a sua actividade com base num programa de trabalho anual, preparado pelo Secretariado, analisado pelo Conselho e aprovado pela Assembleia.
 
 B) A Agência pode, em complemento ao seu programa de trabalho, depois de consultar os seus membros e, em caso de desacordo, depois de aprovação pela Assembleia, levar a cabo projectos iniciados e financiados pelos membros, sujeito à disponibilidade de recursos não financeiros da Agência.
 
-Artigo VI
-
-Qualidade de membro
+###### Artigo VI — Qualidade de membro
 
 A) A qualidade de membro é acessível aos Estados, membros das Nações Unidas e às organizações regionais intergovernamentais de integração económica que desejem e tenham capacidade de actuar de acordo com os objectivos e actividades formuladas neste Estatuto. Para ser elegível como membro da Agência, uma organização regional intergovernamental de integração económica deve ser constituída por Estados soberanos, pelo menos um dos quais seja membro das Agência e à qual o respectivo Estado membro tenha conferido competência em, pelo menos, um dos assuntos dentro do campo de acção da Agência.
 
@@ -614,9 +607,7 @@ B) Esses Estados e organizações regionais intergovernamentais de integração 
 
 C) No caso de uma organização regional intergovernamental de integração económica, a organização e os seus Estados membros devem decidir das respectivas responsabilidades para a realização das suas obrigações sob este Estatuto. A organização e os seus Estados membros não poderão exercer simultaneamente direitos, incluindo direito de voto, nos termos do Estatuto. Nos seus instrumentos de ratificação ou adesão, as organizações acima referidas devem declarar o âmbito da sua competência relativamente aos assuntos regidos por este Estatuto. Essas organizações também devem informar o Governo Depositário de qualquer modificação relevante no âmbito da sua competência. No caso da votação de assuntos no âmbito da sua competência, as organizações intergovernamentais regionais de integração económica votarão com o número de votos igual ao número de votos total atribuível aos seus Estados membros que forem também membros desta Agência.
 
-Artigo VII
-
-Observadores
+###### Artigo VII — Observadores
 
 A) O estatuto de observador pode ser concedido pela Assembleia a:
 
@@ -628,9 +619,7 @@ A) O estatuto de observador pode ser concedido pela Assembleia a:
 
 B) Os observadores podem participar, sem direito de voto, nas sessões públicas da Assembleia e dos seus órgãos subsidiários.
 
-Artigo VIII
-
-Órgãos
+###### Artigo VIII — Órgãos
 
 A) São estabelecidos como principais órgãos da Agência:
 
@@ -642,9 +631,7 @@ A) São estabelecidos como principais órgãos da Agência:
 
 B) A Assembleia e o Conselho, sujeito a aprovação pela Assembleia, podem criar os órgãos subsidiários que julguem necessários para o exercício das suas funções de acordo com o Estatuto.
 
-Artigo IX
-
-A Assembleia
+###### Artigo IX — A Assembleia
 
 A):
 
@@ -700,9 +687,7 @@ I) A Assembleia deve designar a sede da Agência e o director-geral do Secretari
 
 J) A Assembleia deve considerar e aprovar, como adequado, na sua primeira sessão, quaisquer decisões, projectos de acordos, disposições e directrizes propostas pela comissão preparatória em conformidade com os procedimentos de votação para a respectivo matéria, como estabelecido nos parágrafos F) e I) do artigo ix.
 
-Artigo X
-
-O Conselho
+###### Artigo X — O Conselho
 
 A) O Conselho deve ser constituído pelo menos por 11, mas não mais de 21, representantes dos membros da Agência, eleitos pela Assembleia. O número concreto de representantes, entre 11 e 21, deve corresponder ao equivalente arredondado de um terço dos membros da Agência, que deve ser calculado com base no número de membros da Agência no início da respectiva eleição para membros do Conselho. Os membros do Conselho devem ser eleitos numa base rotativa como estipulado nas regras de procedimento da Assembleia, com vista a assegurar a participação efectiva dos países desenvolvidos e em desenvolvimento e a obter distribuição geográfica razoável e equitativa e eficácia no trabalho do Conselho. Os membros do Conselho serão eleitos por um período de dois anos.
 
@@ -734,9 +719,7 @@ F) O Conselho deve:
 
 9) Estabelecer órgãos subsidiários, quando necessário, de acordo com o artigo viii, parágrafo B), e decidir sobre os seus termos de referência e duração.
 
-Artigo XI
-
-O Secretariado
+###### Artigo XI — O Secretariado
 
 A) O Secretariado deve auxiliar a Assembleia, o Conselho e os seus órgãos subsidiários na realização das suas funções. Deve desempenhar as outras funções que lhe são conferidas ao abrigo deste Estatuto, bem como as funções que lhe sejam delegadas pela Assembleia e pelo Conselho.
 
@@ -762,9 +745,7 @@ E) O Secretariado deve:
 
 F) Na realização dos seus deveres, o director-geral e os outros membros do pessoal não devem solicitar ou receber instruções de qualquer governo ou de qualquer outra fonte externa à Agência. Eles devem abster-se de qualquer acção que se possa reflectir nas suas posições como funcionários internacionais responsáveis apenas perante a Assembleia e o Conselho. Cada membro deve respeitar o carácter exclusivamente internacional das responsabilidades do director-geral e dos outros membros do pessoal e não deve procurar influenciá-los no desempenho das suas responsabilidades.
 
-Artigo XII
-
-O orçamento
+###### Artigo XII — O orçamento
 
 A) O orçamento da Agência será financiado por:
 
@@ -780,23 +761,17 @@ B) A proposta de orçamento da Agência deve ser preparada pelo Secretariado e s
 
 C) A Assembleia deve nomear um auditor externo que exercerá o cargo por um período de quatro anos e que pode ser reeleito. O primeiro auditor deve exercer o cargo por um período de dois anos. O auditor deve examinar as contas da Agência e deve fazer as observações e recomendações que considere necessárias relativamente à eficiência da administração dos controlos financeiros internos.
 
-Artigo XIII
-
-Personalidade legal, privilégios e imunidades
+###### Artigo XIII — Personalidade legal, privilégios e imunidades
 
 A) A Agência terá personalidade legal internacional. No território de cada membro e sujeita a legislação nacional, deve gozar da capacidade legal a nível nacional que seja necessária para exercer as suas funções e realizar os seus objectivos.
 
 B) Os membros devem decidir sobre um acordo separado referente a privilégios e imunidades.
 
-Artigo XIV
-
-Relações com outras organizações
+###### Artigo XIV — Relações com outras organizações
 
 Sujeito à aprovação da Assembleia, o Conselho será autorizado a concluir acordos em nome da Agência estabelecendo relações apropriadas com as Nações Unidas e quaisquer outras organizações cujo trabalho esteja relacionado com o da Agência. As disposições deste Estatuto não afectarão os direitos e obrigações de qualquer membro derivadas de qualquer tratado internacional existente.
 
-Artigo XV
-
-Alterações e renúncia, revisão
+###### Artigo XV — Alterações e renúncia, revisão
 
 A) Qualquer membro pode propor alterações a este Estatuto. Cópias certificadas do texto de qualquer proposta de alteração devem ser preparadas pelo director-geral e comunicadas por ele a todos os membros pelo menos 90 dias antes de ser posta à consideração da Assembleia.
 
@@ -810,31 +785,23 @@ C) Em qualquer altura cinco anos após a data de entrada em vigor deste Estatuto
 
 D) Essa demissão terá efeito no final do ano em que for expressa. A demissão de um membro da Agência não afectará as suas obrigações contratuais incorridas de acordo com o artigo v, parágrafo B), ou as suas obrigações financeiras para o ano em que se demite.
 
-Artigo XVI
-
-Resolução de conflitos
+###### Artigo XVI — Resolução de conflitos
 
 A) Os membros devem resolver qualquer questão entre eles relativamente à interpretação e aplicação do Estatuto de modo pacífico de acordo com o artigo 2, parágrafo 3, da Carta das Nações Unidas e, para esse fim, devem procurar a solução pelos meios indicados no artigo 33, parágrafo 1, da Carta das Nações Unidas.
 
 B) O Conselho pode contribuir para a resolução de um conflito pelos meios que julgar apropriados, incluindo a oferta dos seus bons ofícios, o apelo aos membros em disputa para iniciarem o processo de resolução por eles escolhido e a recomendação de um prazo limite para qualquer procedimento acordado.
 
-Artigo XVII
-
-Suspensão temporária de direitos
+###### Artigo XVII — Suspensão temporária de direitos
 
 A) Qualquer membro da Agência que não esteja em dia com as suas contribuições financeiras para com a Agência não deve exercer o seu direito de voto se as suas dívidas ascenderem ou excederem a quantia das suas contribuições dos dois últimos anos. Contudo a Assembleia pode permitir que este membro vote se estiver convencida que o não pagamento se deve a circunstâncias para além do controlo desse membro.
 
 B) Um membro que tenha persistentemente violado as disposições deste Estatuto ou de qualquer acordo assumido nos termos deste Estatuto pode ser suspenso do exercício dos privilégios e direitos conferidos aos membros, por decisão da Assembleia, por maioria de dois terços dos membros presentes e votantes, após recomendação do Conselho.
 
-Artigo XVIII
-
-Sede da Agência
+###### Artigo XVIII — Sede da Agência
 
 A sede da Agência deve ser definida pela Assembleia na sua primeira sessão.
 
-Artigo XIX
-
-Assinatura, ratificação, entrada em vigor e acesso
+###### Artigo XIX — Assinatura, ratificação, entrada em vigor e acesso
 
 A) Este Estatuto deve estar aberto para a assinatura na Conferência Fundadora por todos os membros das Nações Unidas e pelas organizações regionais intergovernamentais de integração económica conforme estabelecido no artigo vi, parágrafo A). Deve ficar aberto à assinatura até à data em que este Estatuto entre em vigor.
 
@@ -848,9 +815,7 @@ E) Para os Estados ou as organizações regionais intergovernamentais de integra
 
 F) Não podem ser expressas reservas relativamente a qualquer das disposições contidas no Estatuto.
 
-Artigo XX
-
-Depositário, registo, texto autêntico
+###### Artigo XX — Depositário, registo, texto autêntico
 
 A) O Governo da República Federal da Alemanha é aqui estabelecido como Depositário deste Estatuto e de qualquer instrumento de ratificação ou acesso.
 

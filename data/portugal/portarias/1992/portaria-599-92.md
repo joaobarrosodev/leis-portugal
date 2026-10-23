@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/599/1992/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/599-1992-303088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad64f1338bf9f0f8a3a1c8af65a201ebed4cb0dc6f9dbd80b7dd52c8d343c30b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e01055bcf1bacfacf883d33aef88d1ba2d703e2d3f7b82a4248111a68045622
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,76 @@ relationships:
   target: pt:dre:494519:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245564:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atríbuida pelo presente diploma, pela PORT.826/98.1998.09.26.MECO\
+    \ DR.IS-B [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1998-245564
+  date: '1998-09-26'
+- type: amended_by
+  target: pt:dre:221350:por
+  label: "Renovada, a partir de 28 de Junho de 1998 e por seis anos, a concessão atribuída pelo presente diploma pela PORT.1023/98.1998.12.11.MECO,\
+    \ DR.IS-B [285])\085])\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1023-1998-221350
+  date: '1998-12-11'
+- type: amended_by
+  target: pt:dre:271244:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pelo presente diploma,\
+    \ com a redacção dada pela Port 445/99 de 18-Jun, pela PORT.715/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-2004-271244
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:616050:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de 12 anos, a concessão da zona de caça turística concessionada\
+    \ pelo presente diploma, renovada pela Port 1023/98, de 11-Dez, alterada pela Port 445/99, de 18-Jun, pela PORT.1264-DF/2004.29.09.2004.MAPF,\
+    \ DR.IS-B [230-Supl] de 29.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-df-2004-616050
+  date: '2004-09-29'
+- type: amended_by
+  target: pt:dre:494519:por
+  label: "Desanexado um prédio rústico da zona de caça atribuída pelo presente diploma, com as alterações constantes da Port\
+    \ 1023/98 de 11-Dez e a renovação efectuada pela Port 1264-DF/2004 de 29-Set, pela PORT.648/2009.09.06.2009.MADRP, DR.IS\
+    \ [111] de 09.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/648-2009-494519
+  date: '2009-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:58Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +182,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/146b00/30573057.pdf))](https://files.diariodarepublica.pt/1s/1992/06/146b00/30573057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/146b00/30573057.pdf)

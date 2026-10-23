@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/725/1992/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/725-1992-292124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c5805c7c6d22da6bd91dafbd5da9dbc526d04313df170056c221656b83efebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b40b17584f36b60a8df622999027261d9dab50cf5408f1ff040ec96963d65763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,35 @@ relationships:
   target: pt:dre:515393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515393:por
+  label: "Alterado o quadro de pessoal do Laboratório Nacional de Engenharia Civil, aprovado pela Portaria n.º 137/88, de\
+    \ 1 de Março, na parte que consta do anexo I ao presente diploma, pela PORT.162/97.07.03.1997.PCM, DR.IS-B [56] de 07.03.1997\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1997-515393
+  date: '1997-03-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:287457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:03Z'
   warnings: []
   errors: []
 ---
@@ -104,8 +119,8 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 17 de Junho de 1992.**
+Assinada em 17 de Junho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.
 
-## Anexo I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/164b00/33653365.pdf))](https://files.diariodarepublica.pt/1s/1992/07/164b00/33653365.pdf)
+## Anexo I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/164b00/33653365.pdf)

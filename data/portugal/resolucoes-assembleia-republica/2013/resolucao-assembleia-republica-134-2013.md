@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/134/2013/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/134-2013-499246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0854341c38c58ed42f6d405dbed335e7f15886ce5f3fca7434ca70e33861903f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 673e4e24c4bca7e0d3f6ef657dad640fa82d9f8128df95bdde2de314ce3386cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
-- Criança
 - Convenção
-- Portugal
+- Criança
 - Direitos da Criança
+- EUA
 - Nova Iorque
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:499249:por
+  label: "Ratificado o Protocolo aprovado pelo presente diploma, pelo DEC.100/2013.09.09.2013.PR, DR.IS [173] de 09.09.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/100-2013-499249
+  date: '2013-09-09'
 article_structure:
   article_count: 26
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:34:52Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +109,7 @@ A República Portuguesa declara reconhecer as competências do Comité dos Direi
 
 Aprovada em 24 de julho de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 OPTIONAL PROTOCOL TO THE CONVENTION ON THE RIGHTS OF THE CHILD ON A COMMUNICATIONS PROCEDURE
 
@@ -419,7 +425,7 @@ Considerando que a fim de reforçar e complementar esses mecanismos nacionais e 
 
 acordam no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Competência do Comité dos Direitos da Criança
 
@@ -445,7 +451,7 @@ No exercício das funções que lhe são conferidas pelo presente Protocolo, o C
 
 2 - A identidade de qualquer indivíduo ou grupo de indivíduos em causa não será publicamente revelada sem o seu consentimento expresso.
 
-# PARTE II — Procedimento de comunicação
+## PARTE II — Procedimento de comunicação
 
 ###### Artigo 5.º — Comunicações individuais
 
@@ -531,7 +537,7 @@ c) O Protocolo Facultativo à Convenção Relativo à Participação de Criança
 
 4 - Os Estados Partes depositarão uma declaração feita nos termos do n.º 1 do presente artigo junto do Secretário-Geral das Nações Unidas, o qual transmitirá cópia da mesma aos outros Estados Partes. Uma declaração pode ser retirada a qualquer momento mediante notificação dirigida ao Secretário-Geral. Tal retirada não prejudica a análise de qualquer questão que seja objeto de uma comunicação já transmitida ao abrigo do presente artigo; nenhuma outra comunicação de um Estado Parte será recebida ao abrigo do presente artigo após a receção da notificação de retirada da declaração pelo Secretário-Geral, a menos que o Estado Parte em causa tenha feito uma nova declaração.
 
-# PARTE III — Procedimento de inquérito
+## PARTE III — Procedimento de inquérito
 
 ###### Artigo 13.º — Procedimento de inquérito para violações graves ou sistemáticas
 
@@ -557,7 +563,7 @@ c) O Protocolo Facultativo à Convenção Relativo à Participação de Criança
 
 2 - O Comité pode convidar o Estado Parte a apresentar mais informação sobre quaisquer medidas que tenha adotado em resposta a um inquérito realizado nos termos do artigo 13.º, incluindo se o Comité o considerar adequado, nos relatórios subsequentes do Estado Parte ao abrigo do artigo 44.º da Convenção, do artigo 12.º do Protocolo Facultativo à Convenção Relativo à Venda de Crianças, Prostituição Infantil e Pornografia Infantil ou do artigo 8.º do Protocolo Facultativo à Convenção Relativo à Participação de Crianças em Conflitos Armados, consoante o caso.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 15.º — Assistência e cooperação internacionais
 

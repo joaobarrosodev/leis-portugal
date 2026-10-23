@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/66/1992/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-1992-149829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cd8a50a2f6da2b486cd267ed7016ee8decfe80c07f165f4738093bdad0c8f4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7220be4d02129bd75a068e67af2a58e17c69bc3fb8dcd13f459fe53bdc6b32f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Serviço Nacional de Parques Reservas e Conservação da Natureza
 - Uso e porte de arma
 - Vigilante da Natureza
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:555425:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:25:31Z'
   warnings: []
   errors: []
 ---
@@ -100,27 +104,27 @@ Manda o Governo, pelos Ministros da Administração Interna e do Ambiente e Recu
 
 Ministérios da Administração Interna e do Ambiente e Recursos Naturais.
 
-**Assinada em 7 de Janeiro de 1992.**
+Assinada em 7 de Janeiro de 1992.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 Regulamento do Uso e Porte de Arma do Corpo de Guardas e Vigilantes da Natureza do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Artigo 1.º É permitido aos guardas da Natureza e vigilantes da Natureza, integrados no quadro do SNPRCN e no exercício efectivo de funções de fiscalização e vigilância do ambiente de acordo com a legislação em vigor, o uso de armas de fogo, nos termos e condições estabelecidos no presente Regulamento.
+Artigo 1.º É permitido aos guardas da Natureza e vigilantes da Natureza, integrados no quadro do SNPRCN e no exercício efectivo de funções de fiscalização e vigilância do ambiente de acordo com a legislação em vigor, o uso de armas de fogo, nos termos e condições estabelecidos no presente Regulamento.
 
-###### Art. 2.º Compete ao SNPRCN fornecer ao guarda da Natureza e vigilante da Natureza, quando em serviço efectivo de fiscalização e vigilância do ambiente, o armamento e equipamento acessório que for considerado obrigatório ou conveniente ao exercício das respectivas funções, que é o seguinte:
+Art. 2.º Compete ao SNPRCN fornecer ao guarda da Natureza e vigilante da Natureza, quando em serviço efectivo de fiscalização e vigilância do ambiente, o armamento e equipamento acessório que for considerado obrigatório ou conveniente ao exercício das respectivas funções, que é o seguinte:
 
 a) Pistolas de calibre 7,65 mm ou revólveres de calibre 32 e respectivos coldres, fiadores e bolsas de cartuchos;
 
 b) Espingardas de tipo carabina com munição blindada, ou tipo caçadeira com munição de zagalote, a distribuir quando se reconheça conveniente, nomeadamente em acções de fiscalização do cumprimento da Lei da Caça.
 
-###### Art. 3.º - 1 - É obrigatória para todos os guardas e vigilantes da Natureza a realização de testes físicos e psicotécnicos, bem como um curso de formação em manejo e uso de armamento de defesa pessoal e técnicas de abordagem e intercepção de eventuais infractores.
+Art. 3.º - 1 - É obrigatória para todos os guardas e vigilantes da Natureza a realização de testes físicos e psicotécnicos, bem como um curso de formação em manejo e uso de armamento de defesa pessoal e técnicas de abordagem e intercepção de eventuais infractores.
 
 2 - A atribuição de arma depende da frequência com aproveitamento nos cursos mencionados no n.º 1.
 
-###### Art. 4.º O pessoal a quem estiver distribuído armamento deverá efectuar periodicamente exercícios de adestramento.
+Art. 4.º O pessoal a quem estiver distribuído armamento deverá efectuar periodicamente exercícios de adestramento.
 
-###### Art. 5.º - 1 - O recurso de armas de fogo pelos guardas e vigilantes da Natureza em serviço só é permitido como medida de extrema necessidade, desde que proporcional às circunstâncias, nomeadamente nas seguintes emergências:
+Art. 5.º - 1 - O recurso de armas de fogo pelos guardas e vigilantes da Natureza em serviço só é permitido como medida de extrema necessidade, desde que proporcional às circunstâncias, nomeadamente nas seguintes emergências:
 
 a) Para suspender agressão iminente ou em execução, dirigida a si ou a terceiros;
 
@@ -132,27 +136,27 @@ b) Para vencer a resistência que lhe for oposta à execução do serviço no ex
 
 4 - O pessoal mencionado no número anterior que tenha usado armas de fogo é obrigado a relatar tal facto, por escrito, ao seu superior hierárquico no prazo de quarenta e oito horas, mesmo que dessa utilização não tenha resultado qualquer dano.
 
-###### Art. 6.º - 1 - O uso de arma de fogo deve ser precedido de advertência claramente perceptível sempre que a natureza do serviço e as circunstâncias o permitam.
+Art. 6.º - 1 - O uso de arma de fogo deve ser precedido de advertência claramente perceptível sempre que a natureza do serviço e as circunstâncias o permitam.
 
 2 - A advertência pode consistir em disparo para o ar, desde que seja de supor que ninguém venha a ser atingido e que a intimidação ou advertência prévia não possa ser clara e imediatamente perceptível.
 
-###### Art. 7.º Os guardas e vigilantes da Natureza que tenham feito uso de arma de fogo são obrigados a tomar medidas imediatas de socorro aos feridos.
+Art. 7.º Os guardas e vigilantes da Natureza que tenham feito uso de arma de fogo são obrigados a tomar medidas imediatas de socorro aos feridos.
 
-###### Art. 8.º - 1 - Compete à Repartição do Património do SNPRCN a organização e actualização permanente do cadastro do armamento e das munições existentes no Serviço, bem como de todo aquele que tenha sido distribuído por seu intermédio.
+Art. 8.º - 1 - Compete à Repartição do Património do SNPRCN a organização e actualização permanente do cadastro do armamento e das munições existentes no Serviço, bem como de todo aquele que tenha sido distribuído por seu intermédio.
 
 2 - Para cada arma haverá uma ficha, donde constará a identidade do seu detentor ou a área protegida a que está atribuída.
 
-###### Art. 9.º - 1 - As pistolas ou revólveres são sempre atribuídos pessoalmente por despacho do presidente do SNPRCN.
+Art. 9.º - 1 - As pistolas ou revólveres são sempre atribuídos pessoalmente por despacho do presidente do SNPRCN.
 
 2 - As espingardas são distribuídas pelas áreas protegidas que o presidente do SNPRCN determinar.
 
 3 - Em cada área protegida a que for afecto armamento existirá um armeiro, nomeado por despacho do membro do Governo competente na área do ambiente, sob proposta do presidente do SNPRCN, ao qual incumbe a sua guarda em depósito e o registo com identificação do funcionário a quem está atribuída arma.
 
-###### Art. 10.º - 1 - Compete ao director da área protegida a atribuição, permanente ou eventual, das espingardas aos respectivos guardas e vigilantes da Natureza, conforme reconhecer conveniente e de acordo com as instruções emanadas pelo presidente do SNPRCN.
+Art. 10.º - 1 - Compete ao director da área protegida a atribuição, permanente ou eventual, das espingardas aos respectivos guardas e vigilantes da Natureza, conforme reconhecer conveniente e de acordo com as instruções emanadas pelo presidente do SNPRCN.
 
 2 - Os directores das áreas protegidas comunicam à Repartição do Património do SNPRCN a atribuição das espingardas com carácter permanente, para efeitos do respectivo registo.
 
-###### Art. 11.º - 1 - Logo que qualquer guarda da Natureza ou vigilante da Natureza cesse o exercício das suas funções, deve, imediatamente, depositar na área protegida onde pertence as armas que lhe estavam atribuídas, com o equipamento acessório.
+Art. 11.º - 1 - Logo que qualquer guarda da Natureza ou vigilante da Natureza cesse o exercício das suas funções, deve, imediatamente, depositar na área protegida onde pertence as armas que lhe estavam atribuídas, com o equipamento acessório.
 
 2 - O armeiro que receber do guarda ou vigilante pistolas ou revólveres responsabiliza-se pela sua entrega imediata na Repartição do Património do SNPRCN.
 

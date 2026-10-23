@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9/2009/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-2009-604598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44f80566de51b8a3f1cad5464f59c2d5666ce3c2b6df559e85b3f6f36e81ed2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 421511f2bc5fc1210479bd1d3a81d385eca41e275256c7f49358542832ca1c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Marrocos
-- Transporte de Mercadorias
+- Portugal
 - Rabat
 - Regime Fiscal
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:604601:por
+  label: "Ratificada a Emenda do Protocolo, pelo DEC.15/2009.26.02.2009.PR, DR.IS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/15-2009-604601
+  date: '2009-02-26'
+- type: cites
+  target: pt:dre:161130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:53Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +111,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Janeiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 EMENDA DO PROTOCOLO CONCLUÍDO EM VIRTUDE DO ARTIGO 23.º DO ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS RELATIVO AOS TRANSPORTES RODOVIÁRIOS INTERNACIONAIS DE PASSAGEIROS E DE MERCADORIAS.
 
@@ -146,7 +159,7 @@ Pelo Reino de Marrocos:
 
 Karim Ghellab, Ministro do Equipamento e dos Transportes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04000/0134601348.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04000/0134601348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04000/0134601348.pdf)
 
 AMENDEMENT DU PROTOCOLE ETABLI EN VERTU DE L'ARTICLE 23 DE L'ACCORD ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DU ROYAUME DU MAROC CONCERNANT LES TRANSPORTS ROUTIERS INTERNATIONAUX DE VOYAGEURS ET DE MARCHANDISES.
 

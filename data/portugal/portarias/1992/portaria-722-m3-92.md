@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3330-(75) a 3330-(75)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/00750075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722-m3/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-m3-1992-617764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e765e358735fa1fb2374b25a6ed3eebb179396cee2d8fe68d2e27a1ccc482e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acf8300f6f56f4bd6adcc856e821ca33d666f4316343e3a7661b0fdfa7635cbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:30:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,63 @@ relationships:
   target: pt:dre:642036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469243:por
+  label: "Alterado o nº 1, pela Port.693-D/96.1996.11.27.MADRP DR.IS-B [275]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-d-1996-469243
+  date: '1996-11-27'
+- type: amended_by
+  target: pt:dre:204446:por
+  label: "Alterado o nº 1 e aditado nº 1-A ao presente diploma, pela PORT.606/97.1997.08.07.MADRP DR.IS-B [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1997-204446
+  date: '1997-08-07'
+- type: amended_by
+  target: pt:dre:174095:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, na redacção das Port 693-D/96\
+    \ de 27-Nov, 606/97 de 07-Ago, e 565/98 de 20-Ago, pela PORT.1177/2002.2002.08.29.MADRP, DR.IS-B [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-2002-174095
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:642036:por
+  label: "Extinta a zona de caça associativa de Entre-os-Rios, concessionada pelo presente diploma,(revogado a partir de 30.09.2007),\
+    \ alterada pelas Ports 963-D/96 de 27-Nov, 606/97 de 07-Ago, 565/98 de 20-Ago e 1177/2002 de 27-Nov e concessionada a\
+    \ zona de caça associativa de Cafede, pela PORT.1246/2007.25.09.2007.MADRP, DR.IS [185] de 25.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1246-2007-642036
+  date: '2007-09-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:30:32Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +165,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Julho de 1992.**
+Assinada em 7 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b02/00750075.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b02/00750075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00750075.pdf)

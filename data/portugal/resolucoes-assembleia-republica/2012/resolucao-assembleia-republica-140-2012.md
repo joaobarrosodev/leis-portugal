@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/140/2012/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/140-2012-190628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f36c88db5935d6b2ad88c927aefafd4cc97e9aea9d3bde97e6f10e32ea716d4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7de7beca8af845b1de7b7fa3046c2106998f56b9995dbbc61a291e4ddbd52208
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Nacional de Procriação Medicamente Assistida
 - Eleição
 - Procriação Medicamente Assistida
-- Conselho Nacional de Procriação Medicamente Assistida
 relationships:
+- type: amended_by
+  target: pt:dre:71105817:por
+  label: Declarado que Salvador Manuel Correia Massano Cardoso renunciou, com efeitos a 01.11.2015, ao cargo para que havia
+    sido designado pela presente Resolução pelo(a) Declaração n.º 9/2015 - Diário da República n.º 232/2015, Série I de 2015-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/9-2015-71105817
+  date: '2015-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:31:46Z'
   warnings: []
   errors: []
 ---
@@ -105,4 +115,4 @@ Sérgio Manuel Madeira Jorge Castedo.
 
 Aprovada em 23 de novembro de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

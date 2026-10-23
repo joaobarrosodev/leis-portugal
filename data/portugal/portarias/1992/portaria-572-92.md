@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/572/1992/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/572-1992-302908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cca60cc8681b9520af1472b5760485138167a90ef449269bac36d54b2553383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0de0e2c8397a6beae63bc9fbc19127a6bf157c524f55f1b173b21f2d1ed8dee5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,63 @@ relationships:
   target: pt:dre:402538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245280:por
+  label: "Suspenso, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma pela Port.993-E/97.1997.09.22.MADRP,\
+    \ DR.IS-B [219]-Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/993-e-1997-245280
+  date: '1997-09-22'
+- type: amended_by
+  target: pt:dre:435198:por
+  label: "Alterada a redacção do nº 1 e aditado um nº 1-A pela PORT.486/98.1998.08.07.MADRP, DR.IS-B [181]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-1998-435198
+  date: '1998-08-07'
+- type: amended_by
+  target: pt:dre:557197:por
+  label: "Suspensa, por um prazo de 60 dias, a actividade cinegética da zona de caça associativa criada pelo presente diploma\
+    \ pela PORT.815/99.1999.09.24.MADRP,DR.IS-B [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/815-1999-557197
+  date: '1999-09-24'
+- type: amended_by
+  target: pt:dre:402538:por
+  label: "Extinta a concessão do regime cinegético especial atribuída pelo presente diploma pela PORT.56/2000.2000.02.11.MADRP,DR.IS-B\
+    \ [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2000-402538
+  date: '2000-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:23:21Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +163,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/145b00/30343035.pdf))](https://files.diariodarepublica.pt/1s/1992/06/145b00/30343035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/145b00/30343035.pdf)
