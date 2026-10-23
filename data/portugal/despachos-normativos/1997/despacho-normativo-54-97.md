@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/54/1997/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/54-1997-197285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caf9c232d5a524feb1c3c1ede8986151088bd7ff7a13736d402c55f22629457a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da14ded6bde1adcac23cee5368e2db3d1e83434c20738064139635f38ba1c5e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
 subjects:
 - Acção de Formação
 - Bolsa de Formação Profissional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Desemprego
 - Desemprego de Longa Duração
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Jovem Trabalhador
 - Primeiro Emprego
-- Desemprego
 - Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:486498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486498:por
+  label: "Prorrogada, até 31 de Dezembro de 1998, a vigência do DN 52/93, de 10-Mar, com as alterações introduzidas pelo presente\
+    \ diploma, pelo DN.47/98.1998.06.05.MTS, DR.IS-B [154] de 07/Jul/1998H\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/47-1998-486498
+  date: '1998-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/23/1996/06/04/p/dre
   label: null
@@ -100,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1324/1993/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1324/1993/12/31/p/dre
+- type: cites
+  target: pt:dre:168454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688409:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:14Z'
   warnings: []
   errors: []
 ---

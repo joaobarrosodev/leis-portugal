@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/031b00/06410642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/1997/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-1997-558267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09c799b5b83ebb0f1f8e069a28501f3f3d0cb990c6cc0c68597854654f68caa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d57b1726f3345a473878fc8648764bfa9ad365052a10112f459c7e1ecb9cf7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Árvore
-- Gado Caprino
 - Cereal
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Gado Caprino
 - Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Política Agrícola Comum
 - Regulamento CE
 - Sistema Integrado de Gestão e Controlo
@@ -82,6 +82,17 @@ relationships:
   target: pt:dre:223993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382195:por
+  label: "Alteradas as datas constantes das al) a), b), c) e d) do num 3 e os prazos fixados no num 8 pelo DN.20/97.1997.05.02.MADRP\
+    \ DR.IS-B [101] DE 02/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-1997-382195
+  date: '1997-05-02'
+- type: amended_by
+  target: pt:dre:144785:por
+  label: "Alteradas as alíneas e) e f) do num 3 pelo DN.38/97.1997.07.07.MADRP, DR.IS-B [174] de 1997.07.30\07.30\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/38-1997-144785
+  date: '1997-07-07'
 - type: cites
   target: celex:31968R0805
   label: null
@@ -130,16 +141,21 @@ relationships:
   target: eli:http://data.europa
   label: null
   source: http://data.europa
+- type: repealed_by
+  target: pt:dre:223993:por
+  label: "Revogado pelo DN.9/98.1998.01.16.MADRP DR.IS-B [29] de 04/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-1998-223993
+  date: '1998-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:06Z'
   warnings: []
   errors: []
 ---

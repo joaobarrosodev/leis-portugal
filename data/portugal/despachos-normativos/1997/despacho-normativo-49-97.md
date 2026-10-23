@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/190b00/42824284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/49/1997/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1997-195213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c41ec8e8e7ad760d7ae2b2697d4bdc1e878c1bb07a11616996ed44ed527ae676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 736436c5159e214d925ca17b8483fa86fdc127290d862a9c145e16c91a472440
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Artística
-- Financiamento
 - Companhia Teatral
 - Concurso Público
-- Ministério da Cultura
+- Financiamento
 - Iniciativa Privada
 - Instituto Português das Artes do Espectáculo
 - JURI
+- Ministério da Cultura
+- Profissão Artística
 - Projeto
 - Regulamento
 - Subsídio
@@ -94,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/47/1996/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/47/1996/11/08/p/dre
+- type: cites
+  target: pt:dre:177384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566632:por
+  label: "Revogado pelo DN.63/98.1998.08.05.MC DR.IS-B [201] DE 01/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/63-1998-566632
+  date: '1998-08-05'
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:04Z'
   warnings: []
   errors: []
 ---
@@ -134,11 +151,11 @@ Assim, nos termos da alínea c) do artigo 202.º da Constituição e ao abrigo d
 
 As companhias ou as estruturas de produção a apoiar regularmente, mas não abrangidas pelo disposto no capítulo II deste Regulamento, serão seleccionadas mediante concurso.
 
-###### Artigo 12.º
+Artigo 12.º
 
 As candidaturas apresentadas serão apreciadas por um júri constituído nos termos do capítulo VI do presente Regulamento, o qual seleccionará, de entre elas, as companhias ou as estruturas de produção a apoiar mediante protocolo válido por dois anos, bem como as que serão apoiadas pelo período de um ano.
 
-###### Artigo 13.º
+Artigo 13.º
 
 As candidaturas deverão conter:
 
@@ -160,15 +177,15 @@ h) [Anterior alínea g).]
 
 i) [Anterior alínea h).]
 
-###### Artigo 16.
+Artigo 16.
 
 Os responsáveis pelas candidaturas a apoios anuais ou pelo período de dois anos que não venham a ser apoiadas poderão ser convidados pelo júri a apresentar uma ou mais produções do seu projecto original ao concurso para apoio a projectos pontuais de criação, a abrir de 1 a 30 de Novembro, e a que se refere o artigo 20.º do presente Regulamento.
 
-###### Artigo 19.º
+Artigo 19.º
 
 O prazo de apresentação das candidaturas decorrerá entre 1 de Setembro e 15 de Outubro, devendo o júri pronunciar-se até 30 de Novembro.
 
-###### Artigo 22.º
+Artigo 22.º
 
 As candidaturas deverão conter:
 
@@ -186,7 +203,7 @@ f) ...
 
 g) ...
 
-###### Artigo 25.º
+Artigo 25.º
 
 As deliberações do júri deverão ser tomadas até 31 de Dezembro e 30 de Junho, respectivamente.»
 

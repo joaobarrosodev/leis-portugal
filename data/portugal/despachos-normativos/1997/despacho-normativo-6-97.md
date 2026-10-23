@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/6/1997/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1997-559029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 490cfea8e41a55a8755d4d716d3a10aa3cd97091df40f514a6da659e375da02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f73b14c6585e7f30b8e35d46cad191f0b06fdc5cf2b600b8be175a93a9f67ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
 - Desenvolvimento Industrial
-- Política Industrial
-- Projeto de Investimento
+- Empresa
+- Financiamento
 - Indústria
 - Instituto Português da Qualidade
 - Modernização Industrial
+- Pedip II
+- Política Industrial
+- Projeto de Investimento
 - Regime de Apoio
 - Regime de Apoio à Promoção da Qualidade Industrial
-- Pedip II
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -83,20 +83,35 @@ relationships:
   target: pt:dre:208999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:208999:por
+  label: "Alterada a redacção dos arts. 5º, 6º 10 e 12º, alterados pelo presente diploma, pelo DN.25/98.1998.03.12.MECO, DR.IS-B\
+    \ [79] de 03/Abr/1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/25-1998-208999
+  date: '1998-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/550/1994/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/550/1994/07/29/p/dre
+- type: cites
+  target: pt:dre:231877:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:583790:por
+  label: "Rectificado pela DECL-RECT.10-B/97.1997.05.26.PCM DR.IS-B [125]2.ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-b-1997-583790
+  date: '1997-05-26'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:20Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +166,9 @@ e) No caso de projectos que se candidatem à acção B, prevista na alínea b) d
 
 2 - ...
 
-###### Artigo 6.º — Condições de acesso do projecto
+Artigo 6.º
+
+Condições de acesso do projecto
 
 1 - ...
 
@@ -171,7 +188,9 @@ c) ...
 
 6 - O diagnóstico a que se refere a alínea a) do n.º 4 deve ser elaborado por entidades externas à empresa, que deverão fazer a comprovação da sua competência para a(s) área(s) em causa através da apresentação da experiência curricular que detêm.
 
-###### Artigo 7.º — Critérios de selecção
+Artigo 7.º
+
+Critérios de selecção
 
 1 - ...
 
@@ -179,7 +198,9 @@ a) ...
 
 b) Critério C(índice 2) - impacte na eficiência global da empresa, pelo qual se avaliará a progressão esperada da empresa, expressa nos termos dos critérios do Prémio de Excelência - Sistema Português da Qualidade (PEX-SPQ) ou do Prémio de Excelência Pequenas e Médias Empresas (PEX-PME), quando aplicável.
 
-###### Artigo 10.º — Apresentação de candidaturas
+Artigo 10.º
+
+Apresentação de candidaturas
 
 1 - ...
 
@@ -189,7 +210,9 @@ b) Critério C(índice 2) - impacte na eficiência global da empresa, pelo qual 
 
 4 - As candidaturas referidas no n.º 2 devem ser acompanhadas por entidades externas certificadas de acordo com a norma NP EN ISO 9001 ou que tenham já requerido tal certificação no âmbito do SPQ.
 
-###### Artigo 12.º — Condições para a realização do pagamento
+Artigo 12.º
+
+Condições para a realização do pagamento
 
 O último pagamento do incentivo fica condicionado ao cumprimento dos seguintes requisitos:
 

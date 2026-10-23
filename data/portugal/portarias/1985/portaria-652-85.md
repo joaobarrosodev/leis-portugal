@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-1985-179352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 929f697730071cf007b6e25517887b924d7da91896e1d7e1a857d07f2fcf6346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f858e1a3771e44de526139891a387e402911e3b868d125e5401ec0c5da30a2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inspecção de Veículos
+- Regulamento
+- Regulamento de Inspecções Periódicas Obrigatorias de Veículos
+relationships:
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601315:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:04Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +122,6 @@ b) Os automóveis e motociclos antigos, em termos a definir por despacho do Mini
 
 Ministério do Equipamento Social.
 
-**Assinada em 9 de Agosto de 1985.**
+Assinada em 9 de Agosto de 1985.
 
-**O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro do Equipamento Social, Carlos Montez Melancia.

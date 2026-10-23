@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-1985-179281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52e8768df5cd0fd7cf37878984db407a69fe45eab74241a3b8c25f30bb20e103
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30d89ee9f8bc18f01c4a2f00ffca473b42351406a518ea703405f0a40f300b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão para o Estudo do Aproveitamento do Leito do MAR
+- Regulamento Interno
+relationships:
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:25Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +98,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, apro
 
 Ministério da Defesa Nacional.
 
-**Assinada em 23 de Agosto de 1985.**
+Assinada em 23 de Agosto de 1985.
 
-**O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.
 
 Regulamento da Comissão para o Estudo do Aproveitamento do Leito do Mar
 

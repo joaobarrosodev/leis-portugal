@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/7/1997/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-1997-559026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a3383560460062a3e5309b617f385f190bbc2170fb07116bec010b5ab873558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: effab2112c09b87108fcc932e232ec54b78f664b158dbe7c9c316738e3a5457e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Ensino Básico
 - Habilitações Literárias
 - Pessoal Docente
+- Plano de Estudos
 - Qualificação Profissional
-- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:587421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527666:por
+  label: "Alterado o nº 3 e aditados os nºs 4, 5 e 6 (que é o anterior nº 4 do presente diploma) pelo DN.15/97.1997.03.10.ME,\
+    \ DR.IS-B [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-1997-527666
+  date: '1997-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/1-a/1995/01/06/p/dre
   label: null
@@ -83,16 +89,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/52/1996/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/52/1996/12/09/p/dre
+- type: cites
+  target: pt:dre:186759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660513:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:587421:por
+  label: "Revogado, com a redacção dada pelo DN 15/97 de 31-Mar, pelo DN.3-A/2000.2000.01.10.ME DR.IS-B [14]Supl de 18/Jan/2000\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-a-2000-587421
+  date: '2000-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:34Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +189,12 @@ c) Preencha os requisitos da coluna «Condições especiais».
 
 5.º e 6.º anos de escolaridade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf))](https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf)
 
 Nota. - Nas habilitações próprias dos 1.º, 2.º e 3.º escalões do grupo 05 consideram-se abrangidos todos os cursos criados nos termos da lei que tenham a designação constante do [Despacho Normativo n.º 32/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1984-660513), de 9 de Fevereiro, e respectivos aditamentos.
 
 7.º a 12.º anos de escolaridade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf))](https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/032b00/06560657.pdf)
 
 Nota. - Nas habilitações próprias dos 1.º, 2.º e 3.º escalões do grupo 17 consideram-se abrangidos todos os cursos criados nos termos da lei que tenham a designação constante do [Despacho Normativo n.º 32/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1984-660513), de 9 de Fevereiro, e respectivos aditamentos.

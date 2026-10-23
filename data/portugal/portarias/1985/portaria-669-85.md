@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-1985-179053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2a020f00872ff4874967a264d2e405ed0f3b7866d67902081da64cdc1561cc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c848de374ea6359c8a7b5fab1c7e51061a8612718858fcd4fce434584a8ca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Mansão de Santa Maria de Marvila
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:26Z'
   warnings: []
   errors: []
 ---
@@ -98,8 +113,8 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social.
 
-**Assinada em 9 de Junho de 1985.**
+Assinada em 9 de Junho de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/20700/29132913.pdf))](https://files.diariodarepublica.pt/1s/1985/09/20700/29132913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/20700/29132913.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/61/1997/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-1997-658697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 128cb2a0c6b12f80651384d3b3cab1f720773dc1101b972a4fc416e8114820b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ead69a7956f87361bea1643d3d6cde1b6f1398ec635c99fa0869a7e666f83fec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
+- Caixa Geral de Aposentações
 - Cidadão Estrangeiro
 - Contribuições da Segurança Social
 - Ensino Cooperativo
 - Ensino Particular
 - Estatuto da Aposentação
-- Caixa Geral de Aposentações
 - Pessoal Docente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
+- type: cites
+  target: pt:dre:355488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:24Z'
   warnings: []
   errors: []
 ---
