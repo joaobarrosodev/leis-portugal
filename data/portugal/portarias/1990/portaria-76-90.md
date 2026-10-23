@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/02700/04420444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-1990-335270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:29:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1e2ea0fd59a2e3bab75e3ef1d1aea7f4c27a1638f76f13b0f05e8a66ed8fea8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 443f7dcb47f2f71064729e0cc1a4a679d66043567413a9eaa8242c7db61777b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:29:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embalagem
+- Etiquetagem
+- Leite
+- Qualidade do Produto
 relationships:
 - type: amended_by
   target: pt:dre:165186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165186:por
+  label: "Revogada pela PORT.440/2001.2001.04.28.MADRP, DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/440-2001-165186
+  date: '2001-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:29:49Z'
   warnings: []
   errors: []
 ---
@@ -251,12 +292,12 @@ A presente portaria entra em vigor 60 dias após a sua publicação.
 
 Ministérios do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 4 de Janeiro de 1990.**
+Assinada em 4 de Janeiro de 1990.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.
 
-## Anexo a que se refere o n.º 3 do n.º 4.º
+Anexo a que se refere o n.º 3 do n.º 4.º
 
 Características dos leites gelificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/02700/04420444.pdf))](https://files.diariodarepublica.pt/1s/1990/02/02700/04420444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/02700/04420444.pdf)

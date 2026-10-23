@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1197/1991/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1197-1991-371270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90e859f00aecbf8f6ffef465b50abf834937ce8ac50fb25c062f4aba3256cb4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7501ca019b71830909ef680165ac8de86bff9700b5d14ff04992478f2e4103fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:346078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:188891:por
+  label: "Alterado o anexo II à Portaria n.º 1103/89, de 27 de Dezembro, na redacção do presente diploma, pela PORT.251/92.26.03.1992.MA,\
+    \ DR.IS-B [72] de 26.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/251-1992-188891
+  date: '1992-03-26'
 - type: cites
   target: celex:31991L0336
   label: null
@@ -81,16 +87,27 @@ relationships:
   target: celex:31991L0508
   label: null
   source: http://data.europa.eu/eli/dir/1991/508/oj
+- type: corrected_by
+  target: pt:dre:581247:por
+  label: "Rectificado o título da 6.ª coluna do quadro incluído na alínea f2) do n.º 1 do anexo ao presente diploma, pela\
+    \ DECL-RECT.18/92.29.02.1992.PCM, DR.IS-B [51]2ºSupl de 29.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/18-1992-581247
+  date: '1992-02-29'
+- type: repealed_by
+  target: pt:dre:346078:por
+  label: "Revogada pelo DEC LEI.289/99.1999.07.29.MADRP DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1999-346078
+  date: '1999-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:26Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +132,7 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 2.º do Decre
 
 Ministério da Agricultura.
 
-**Assinada em 22 de Novembro de 1991.**
+Assinada em 22 de Novembro de 1991.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -133,11 +150,11 @@ Este alimento contém um aditivo do grupo dos ionóforos, a sua administração 
 
 a(índice 2)) É incluído o aditivo «Salinomicina de sódio» nas seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf))](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
 
 b) No grupo C «Aromatizantes e apetentes», no n.º 2) «Substâncias artificiais», é incluído o aditivo «Neoespiridina-di-hidrocalcona», nas seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf))](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
 
 c) Na grupo D «Coccidiostáticos e outras substâncias de efeitos específicos»:
 
@@ -175,11 +192,11 @@ f(índice 1)) No aditivo E670 «Vitamina D(índice 2)», na coluna «Espécie an
 
 f(índice 2)) No aditivo E671 «Vitamina D(índice 3)» é inserida a seguinte utilização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf))](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
 
 g) No grupo I «Oligoelementos», relativamente ao elemento E(índice 1) «Ferro (Fe)», é incluído o aditivo «Quelato ferroso de ácidos aminados, hidratado» nas seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf))](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
 
 2 - No anexo II:
 
@@ -205,4 +222,4 @@ Este alimento contém um aditivo do grupo dos ionóforos, a sua administração 
 
 a(índice 4)) É incluído o aditivo «Diclazuril» nas seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf))](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/291b00/66796681.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/658-1990-573521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:27:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a1914ee46eed2ba71cddc88cdb3d63860e127b838e889cc1ef113ffdfeb97d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac9e1688e98270eaea80df8bb30608d8a36c790c542fd40def6383885c819bca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Crédito Bonificado
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:234304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667904:por
+  label: Substituída e anulada a tabela III (pela tabela publicada em anexo à Port 610/91 de 05-jul, que passa a constituir
+    a tabela I) revogadas as tabelas I e II, e renumerada a tabela IV (que passa a constituir a tabela II) pelo(a) Portaria
+    n.º 610/91 - Diário da República n.º 152/1991, Série I-B de 1991-07-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/610-1991-667904
+  date: '1991-07-05'
+- type: amended_by
+  target: pt:dre:260585:por
+  label: Alterada a al. b) do n.º 3.º pelo(a) Portaria n.º 828/92 - Diário da República n.º 195/1992, Série I-B de 1992-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/828-1992-260585
+  date: '1992-08-25'
+- type: cites
+  target: pt:dre:148780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619728:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234304:por
+  label: "Revogada pela PORT.963/98.1998.11.11.MF DR.IS-B [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-1998-234304
+  date: '1998-11-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:27:18Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +161,7 @@ c) Os índices de localização e de correcção são definidos, respectivamente
 
 3.º - a) O regime de amortização em prestações progressivas com capitalização parcial de juros e respectivos modelos de cálculo, nos termos do n.º 3 do artigo 10.º, é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
 
 b) A percentagem z é fixada em 60%, à excepção do último ano do contrato, em que será igual a 100%.
 
@@ -143,7 +179,7 @@ B = bonificação a suportar pelo Estado.
 
 b) O valor da bonificação a suportar pelo Estado, desde o momento da opção por parte do mutuário, será constante até ao termo da vida do empréstimo, salvo no caso de alterações nas variáveis determinantes, e poderá ser obtido por aplicação da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
 
 5.º O regime de bonificação e respectivas condições para os empréstimos a conceder para a aquisição de habitação própria permanente, em qualquer dos regimes a que se refere o n.º 4 do artigo 10.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), é definido de acordo com a tabela III anexa, que faz parte integrante desta portaria.
 
@@ -173,9 +209,9 @@ b) Os mutuários que, no decurso da vida do empréstimo, em regime de prestaçõ
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 26 de Julho de 1990.**
+Assinada em 26 de Julho de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 TABELA I
 
@@ -203,19 +239,19 @@ TABELA II
 
 Índices de correcção em função da dimensão do agregado familiar, a que se refere a alínea a) do n.º 1.º da Portaria n.º 658/90.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
 
 TABELA III
 
 Regime de bonificação e condições de acesso a que se referem os n.os 4.º e 8.º da Portaria n.º 658/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
 
 TABELA IV
 
 Rendimentos anuais brutos corrigidos dos agregados familiares consoante a sua dimensão, a que se refere o n.º 7.º da Portaria n.º 658/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18400/33083311.pdf)
 
 Elementos que fazem parte do agregado familiar que não sejam descendentes menores
 

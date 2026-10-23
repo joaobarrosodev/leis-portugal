@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/697-1990-574081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb8eec13bf317fff2efea9f38fec772dc72acb7f21767086b0e4ea7d8ef019c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c698135bfda0b44ec1f3ff62af6fcdfe75d5216d9a78c0e018387bb749f75334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Curso de Auditoria
+- Instituto Superior de Contabilidade e Administração
+- Numerus Clausus
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:691268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494871:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A PORTARIA 686/86, DE 14 DE NOVEMBRO (COM A REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA), PELA PORTARIA 1157/94,\
+    \ DE 30 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 301, TENDO TAL REVOGAÇÃO EFEITO A PARTIR DA ENTRADA EM FUNCIONAMENTO DOS PLANOS\
+    \ DE ESTUDOS CONSTANTES DOS ANEXOS A PORTARIA 1157/94, DE 30 DE DEZEMBRO, E SEM PREJUÍZO DO PERIODO DE TRANSIÇÃO ESTABELECIDO\
+    \ NOS TERMOS DO NUMERO 23 DAQUELE DIPLOMA.\0RO 23 DAQUELE DIPLOMA."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:18Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +156,6 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1990-1991, 
 
 Ministério da Educação.
 
-**Assinada em 20 de Julho de 1990.**
+Assinada em 20 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

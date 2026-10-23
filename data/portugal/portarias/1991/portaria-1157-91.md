@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1157/1991/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1157-1991-331413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df95fc83f9fe9ca05e20ff8ea329fd021591b78863ed0c0dca97394435393c1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8bf2f6c1dbf8de7350862beaa81d34593947a8adeed28acee8097b75b58016f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,41 @@ relationships:
   target: pt:dre:564660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL, PELA PORTARIA 1109/94, DE 12 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 285.\0, 285."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:31Z'
   warnings: []
   errors: []
 ---
@@ -104,10 +125,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 11 de Outubro de 1991.**
+Assinada em 11 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
 
 Quadro de pessoal do Hospital de São Francisco Xavier
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/259b00/57625763.pdf))](https://files.diariodarepublica.pt/1s/1991/11/259b00/57625763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/259b00/57625763.pdf)

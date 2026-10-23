@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/001b00/00180019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/1991/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1991-662773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 477939810379fa73e96b32ca0e9a0f41599d32128bd68ec25549ad693d307261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61743a4828af4095b9aafec1204c376d4d8c32df0277e8be0a044fea3d809c54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Publicidade
-- Publicidade
 - Comunicação Social
 - Direcção Geral da Comunicação Social
+- Publicidade
 - Publicidade do Estado
 relationships:
 - type: amended_by
   target: pt:dre:436639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:436639:por
+  label: "Revogada pela PORT.209/96.12.06.1996.PCM, DR.IS-B [135] de 12.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-1996-436639
+  date: '1996-06-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:35:45Z'
   warnings: []
   errors: []
 ---
@@ -139,6 +148,6 @@ d) Apresentarem elementos curriculares indiciadores da solidez e capacidade prof
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 11 de Dezembro de 1990.**
+Assinada em 11 de Dezembro de 1990.
 
-**O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares.**
+O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares.

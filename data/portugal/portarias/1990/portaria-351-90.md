@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10500/21332136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-1990-571234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38e1d0af5620bd18329e2caa64d370650d837a20706039b0de92462e7d400cb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e349a3959deebb7bc387d2992208a047e679412d7c322d0519b9de7fefdeede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior Politécnico
+- Escola Superior de Gestão
+- Instituto Politécnico
+- Plano de Estudos
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:284476:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:511248:por
+  label: "Alterado o plano de estudos do curso de estudos superiores especializados em Marketing e Consumo, pela PORT.51/94.19.01.1994.ME,\
+    \ DR.IS-B [15] de 19.01.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-1994-511248
+  date: '1994-01-19'
+- type: amended_by
+  target: pt:dre:3027758:por
+  label: "Aditados os num 19-A e 19-B, alterada pela Port 51/94 de 19-Jan, pela Port 105/97.1997.02.14.ME, DR.IS-B [38] \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/105-1997-3027758
+  date: '1997-02-14'
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643918:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, pela PORT.1051/99.1999.11.27.ME,DR.IS-B [277] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-1999-643918
+  date: '1999-11-27'
+- type: repealed_by
+  target: pt:dre:284476:por
+  label: "Revogada nos termos do art. 4.º, pela PORT.144/2002.2002.02.14.ME DR.IS-B [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-2002-284476
+  date: '2002-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:56Z'
   warnings: []
   errors: []
 ---
@@ -333,11 +377,11 @@ Entrada em funcionamento
 
 Ministério da Educação.
 
-**Assinada em 5 de Abril de 1990.**
+Assinada em 5 de Abril de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10500/21332136.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10500/21332136.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10500/21332136.pdf)
 
 ## ANEXO II — Diploma
 
@@ -347,13 +391,13 @@ R (ver nota a) P
 
 Instituto Politécnico de Santarém, ... (ver nota h)
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém, ...**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém, ...
 
 O Administrador, ...
 
-**O Presidente da Comissão Instaladora da Escola Superior de Gestão, ...**
+O Presidente da Comissão Instaladora da Escola Superior de Gestão, ...
 
-**O Secretário da Escola Superior de Gestão, ...**
+O Secretário da Escola Superior de Gestão, ...
 
 (nota a) Símbolo do Instituto Politécnico de Santarém.
 

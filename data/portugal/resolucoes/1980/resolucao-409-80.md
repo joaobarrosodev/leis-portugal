@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/409-1980-459623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5bac043b4a74c706aaefc1e4594d066452de55b98ca7a35cd41cb9ec8444fc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19d1acce273f617e2a75af99943afd1e6749f68956feedc83b1dc0855f32ebdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Viticultura da Região dos Vinhos Verdes
+- Federação dos Vinicultores da Região do Douro
+- Federação dos Vinicultores do DÃO
+- Financiamento
+- Junta Nacional dos Vinhos
+- Preço
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:40Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +122,7 @@ Presidência do Conselho de Ministros, 25 de Novembro de 1980. - O Primeiro-Mini
 
 Tabela para intervenção por compra de vinhos - Área da Junta Nacional do Vinho (colheita de 1980)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
 
 NOTAS
 
@@ -134,7 +140,7 @@ Categoria B(índice 1) - 7,5% e 1,2 g/l;
 
 Tabela para intervebção por compra de vinhos - Área da Federação dos Vinicultores do Dão (colheita de 1990)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
 
 NOTAS
 
@@ -146,11 +152,11 @@ NOTAS
 
 Tabela para intervenção por compra de vinho da colheita de 1980 - Área da Comissão de Viticultura da Região dos Vinhos Verdes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
 
 Tabela para intervenção por compra de vinhos - Área da Federação dos Vinicultores da Região do Douro (colheita de 1980)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
 
 NOTAS
 
@@ -160,8 +166,8 @@ NOTAS
 
 Tabela para intervenção por compra de vinhos de qualidade - Área da Federação dos Vinicultores do Dão (colheita de 1980)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
 
 Área da Comissão de Viticultura da Região dos Vinhos Verdes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41864189.pdf)

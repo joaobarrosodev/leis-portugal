@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/897-1990-554843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cda0f9b40852ad4876731cef7edc6732b989ec825176f8b43ac4bdb661eb560f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8a88320bfda318f62b536f1c5867e6306081f0ae266d8ab1f91b2321d6870cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso Superior de Ciências Administrativas
+- Curso Superior de Comércio
+- Curso Superior de Gestão das PMES
+- Curso Superior de Jornalismo
+- Curso Superior de Marketing
+- Curso Superior de Publicidade
+- Curso Superior de Relações Públicas
+- Curso Superior de Secretariado
+- Curso Superior de Transportes e Gestão Aduaneira
+- Fundação FREI Pedro
+- Instituto Superior de Administração Comunicação e Empresa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:598700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:598700:por
+  label: "Determina findo, o processo de transição fixado nos termos do art 31º do Regulamento, a caducidade da autorização\
+    \ de funcionamento do curso de bacharelato em Jornalismo, cujo funcionamento foi autorizado pela PORT.1150/2000.2000.12.04.ME,\
+    \ DR.IS-B [279] de 04/Dez/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1150-2000-598700
+  date: '2000-12-04'
+- type: amended_by
+  target: pt:dre:932589:por
+  label: "Determinado o encerramento compulsivo do estabelecimento Instituto Superior de Administração, Comunicação e Empresa,\
+    \ reconhecido pelo presente diploma, pelo DESP.4476/2009.05.02.2009.MCTES, DR.IIS [25] de 05.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4476-2009-932589
+  date: '2009-02-05'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:33:13Z'
   warnings: []
   errors: []
 ---
@@ -126,10 +156,10 @@ Curso superior de Secretariado.
 
 Ministério da Educação.
 
-**Assinada em 31 de Julho de 1990.**
+Assinada em 31 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Instituto Superior de Administração, Comunicação e Empresa - ISACE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/22200/39723975.pdf))](https://files.diariodarepublica.pt/1s/1990/09/22200/39723975.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/22200/39723975.pdf)

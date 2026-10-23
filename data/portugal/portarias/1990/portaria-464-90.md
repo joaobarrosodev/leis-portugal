@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/464-1990-575277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8157e8edfa33ab9370199346846c5dfb33379e3b8aa28d726128a9ec5542141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64be92924411a7afa15065f4d89bbf34282b12b125e19421262588ff86f604ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Medicamentosa
+- Consulta Médica
+- Meios Complementares de Diagnóstico
+- Preço
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:557576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557576:por
+  label: "Alterada pela PORT.878/90.20.09.1990.MS, DR.IS [218] de 20.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-1990-557576
+  date: '1990-09-20'
+- type: cites
+  target: pt:dre:196885:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:39Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +115,7 @@ Manda o Governo, pelo Ministro da Saúde, que sejam aprovadas as tabelas de pre�
 
 Ministério da Saúde.
 
-**Assinada em 16 de Maio de 1990.**
+Assinada em 16 de Maio de 1990.
 
 Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 

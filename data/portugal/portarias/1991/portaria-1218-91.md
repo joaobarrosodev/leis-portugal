@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1218/1991/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1218-1991-376197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9165a8590c45df73b834b341241e419508f382f696671084f752a2b12840d9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8972ee98339c944023a14c8dc502cff31b2f9d36e5cc3091c00312568fb95aee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Justiça
 - Gabinete de Direito Europeu
+- Ministério da Justiça
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:2074852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233942:por
+  label: "Altera o quadro de pessoal pela PORT.965/98.1998.11.12.PCM, DR.IS-B [262]2\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/965-1998-233942
+  date: '1998-11-12'
+- type: amended_by
+  target: pt:dre:2074852:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.457/2000(2ªSÉRIE).2000.02.25.MJ, DR.IIS [70]\
+    \ de 23/Mar/2000-\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-2000-2074852
+  date: '2000-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:421042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:57Z'
   warnings: []
   errors: []
 ---
@@ -99,10 +122,10 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, em conformidade co
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 5 de Dezembro de 1991.**
+Assinada em 5 de Dezembro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
 Mapa anexo à Portaria n.º 1218/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/297b00/67406741.pdf))](https://files.diariodarepublica.pt/1s/1991/12/297b00/67406741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/297b00/67406741.pdf)

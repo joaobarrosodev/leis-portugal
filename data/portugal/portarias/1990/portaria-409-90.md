@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/409-1990-574902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fa5f86f55efbb2b19f4fc7a9d19bfabd37972335afa21399b0d88e9847d2f72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4821113285cdb41ddffb2df969faf83dc58274dbff5b626d4b37d188c47911a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cirurgia
+- Consulta Médica
+- Internamento Hospitalar
+- Serviço Nacional de Saúde
+- Serviços Complementares de Diagnóstico
+- Subsistemas de Saúde
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:555061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555061:por
+  label: "Dada nova redacção ao nº 4º pela PORT.916/90.28.09.1990.MS, DR.IS [225] de 28.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/916-1990-555061
+  date: '1990-09-28'
+- type: cites
+  target: pt:dre:196885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611758:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:644104:por
+  label: "Rectificada pela DECL.DD3200.1990.07.20.PCM DR.IS [175]Supl de 31.07.1990\00"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-644104
+  date: '1990-07-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:20:21Z'
   warnings: []
   errors: []
 ---
@@ -182,11 +207,11 @@ Hospitais distritais - 2900$00.
 
 11.º Meios complementares de diagnóstico e terapêutica e outros actos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
 
 12.º Actos especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
 
 13.º Nos hospitais psiquiátricos e serviços de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlio de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 11.º e 12.º para hospitais centrais.
 
@@ -194,7 +219,7 @@ Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde
 
 14.º Diárias de internamento em quarto particular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
 
 15.º Os preços referidos no número anterior serão globais, incluindo todos os serviços prestados no internamento, à excepção dos honorários médicos e dos discriminados no n.º 12.º, a facturar segundo a tabela aí fixada.
 
@@ -204,7 +229,7 @@ Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde
 
 2) Ao preço aplicado nos termos da alínea anterior acrescem os seguintes valores por dia de internamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
 
 3) Aos preços estipulados nos n.os 1) e 2) acrescem ainda os honorários clínicos.
 
@@ -216,12 +241,12 @@ Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde
 
 Ministério da Saúde.
 
-**Assinada em 10 de Maio de 1990.**
+Assinada em 10 de Maio de 1990.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho.
 
 TABELA NACIONAL DE PREÇOS POR GDH - SUBSISTEMAS
 
 ANO: 1990
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)

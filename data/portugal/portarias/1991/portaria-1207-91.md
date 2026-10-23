@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/292b00/66946695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1207/1991/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1207-1991-372029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b29450479fe4ea129b6259d5e75d829c6791088edfe4b04e64bc755da27dca4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7213f0e984a98ecbe6be851e757744b6fa79b66d4017dfef043ba70feb4a4f69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,21 @@ relationships:
   target: pt:dre:344944:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:344944:por
+  label: "Revogada pela PORT.586/99.1999.08.02.MF DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/586-1999-344944
+  date: '1999-08-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:41Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +130,6 @@ i) Renovações quinquenais ... 75000$00
 
 Ministério da Agricultura.
 
-**Assinada em 22 de Novembro de 1991.**
+Assinada em 22 de Novembro de 1991.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

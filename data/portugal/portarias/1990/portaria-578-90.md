@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-1990-572658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c655afd5d8334928c074b3f210ac11e3a3d3922d1992b20580fde358000df2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b147088e6f5824475e7abf1900d3c0bf0edf54634adf897e7fa5c498b9ce70e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Inspecção Geral de Jogos
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:631251:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:24:12Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +128,7 @@ Manda o Governo, pelos Ministros das Finanças e do Comércio e Turismo, o segui
 
 Ministérios das Finanças e do Comércio e Turismo.
 
-**Assinada em 5 de Junho de 1990.**
+Assinada em 5 de Junho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro do Comércio e Turismo, Alfredo César Torres, Secretário de Estado do Turismo.
 
@@ -116,4 +136,4 @@ MAPA I
 
 Pessoal de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16700/30523052.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16700/30523052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16700/30523052.pdf)

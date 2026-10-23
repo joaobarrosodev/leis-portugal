@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1187/1991/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1187-1991-315683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bae92a30670f8fdbee6528b4a452d252b29e63ac44927c781ea58c561836d917
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa58487856414381da809cc6a0e8b50b445274a87d6b830f93753a9f98b0e860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Informática
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Pessoal de Informática
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:656163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656163:por
+  label: "Alterado o quadro de pessoal a que se refere o Dec Lei 202/88 de 01-Jun, alterado pelo presente diploma, pela PORT.1179/2000.2000.12.18.PCM,\
+    \ DR.IS-B [290]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1179-2000-656163
+  date: '2000-12-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:374191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:11Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +119,10 @@ Manda o Governo, pelos Ministros das Finanças e dos Negócios Estrangeiros, que
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 30 de Outubro de 1991.**
+Assinada em 30 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, Duarte Ivo Cruz, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
 
 Mapa anexo à Portaria n.º 1187/91, de 30 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/279b00/63746374.pdf))](https://files.diariodarepublica.pt/1s/1991/12/279b00/63746374.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/279b00/63746374.pdf)

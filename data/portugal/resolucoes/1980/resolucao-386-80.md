@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/386-1980-458186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ca201a1eab72f0be1c50847bf17d1d9953b4154c20cb1e5aa0a30578a92d46d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8463201fe0c21950b658f7d2d5b696ecb633d0bde8cd060f51393f4e12662d73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Fixação de Preços
+- Instituto do Azeite e Produtos Oleaginosos
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:05Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +109,7 @@ O Conselho de Ministros, reunido em 11 de Novembro de 1980, resolveu:
 
 2 - Definir os seguintes preços de intervenção a pagar à produção por quilo de azeite colocado em armazém do Instituto do Azeite e Produtos Oleaginosos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27000/39413942.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27000/39413942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27000/39413942.pdf)
 
 Os preços constantes da tabela anterior terão um acréscimo de 1$00 por quilo e por mês, durante o período de Fevereiro a Junho de 1981.
 

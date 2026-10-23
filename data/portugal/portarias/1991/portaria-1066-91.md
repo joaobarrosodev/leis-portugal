@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/243b00/54645466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1066/1991/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1066-1991-344423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 313b97b96819c6180e3148c6815e0a994ea5013b2911f389b4466a7a64ae4751
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 205420d032786fce6d94493a3f4c73f0b259dbbe902cefa0c12a437ecdec4a20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
 - Controlo de Qualidade
 - Gado Bovino
-- Regulamento
+- Leite
 - Pecuária
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:200907657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200907657:por
+  label: Revogado, a partir de 01.01.2023, o presente diploma, pelo(a) Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022,
+    Série I de 2022-09-13 e nos termos do seu art. 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2022-200907657
+  date: '2022-09-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:37:16Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +125,7 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, nos termo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Setembro de 1991.**
+Assinada em 27 de Setembro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -121,29 +135,29 @@ I
 
 Definições e objectivos
 
-###### Artigo 1.º O contraste leiteiro recorre a métodos e meios aprovados, a nível nacional, pela Direcção-Geral da Pecuária (DGP), do Ministério da Agricultura, Pescas e Alimentação, e, a nível internacional, pelo Comité Internacional para o Controlo da Produtividade Leiteira (CICPL).
+Artigo 1.º O contraste leiteiro recorre a métodos e meios aprovados, a nível nacional, pela Direcção-Geral da Pecuária (DGP), do Ministério da Agricultura, Pescas e Alimentação, e, a nível internacional, pelo Comité Internacional para o Controlo da Produtividade Leiteira (CICPL).
 
-###### Art. 2.º O contraste leiteiro consiste na avaliação da quantidade e qualidade do leite produzido por cada uma das fêmeas de uma exploração no decurso das sucessivas lactações.
+Art. 2.º O contraste leiteiro consiste na avaliação da quantidade e qualidade do leite produzido por cada uma das fêmeas de uma exploração no decurso das sucessivas lactações.
 
-###### Art. 3.º Os resultados oficiais das produções individuais derivam, única e exclusivamente, do contraste realizado segundo as regras deste Regulamento.
+Art. 3.º Os resultados oficiais das produções individuais derivam, única e exclusivamente, do contraste realizado segundo as regras deste Regulamento.
 
-###### Art. 4.º Estes resultados visam, nomeadamente, o suporte da gestão técnico-económica das explorações e, no âmbito do melhoramento animal, a avaliação de reprodutores.
+Art. 4.º Estes resultados visam, nomeadamente, o suporte da gestão técnico-económica das explorações e, no âmbito do melhoramento animal, a avaliação de reprodutores.
 
 II
 
 Organização
 
-###### Art. 5.º O contraste leiteiro é efectuado pelos serviços oficiais ou pelas organizações da lavoura com delegação da DGP, depois de ouvidas as DRA.
+Art. 5.º O contraste leiteiro é efectuado pelos serviços oficiais ou pelas organizações da lavoura com delegação da DGP, depois de ouvidas as DRA.
 
-###### Art. 6.º A entrada de uma nova unidade de ordenha em contraste pressupõe a autorização da DGP, ouvida a DRA respectiva.
+Art. 6.º A entrada de uma nova unidade de ordenha em contraste pressupõe a autorização da DGP, ouvida a DRA respectiva.
 
-###### Art. 7.º Para a realização do contraste, terão prioridade os efectivos que ofereçam mais garantias, nomeadamente no que respeita à manutenção das vacas na exploração, às circunstâncias em que decorrem a reprodução e a recria, à identificação dos animais, à adesão aos livros genealógicos e às condições de sanidade, higiene e alimentação.
+Art. 7.º Para a realização do contraste, terão prioridade os efectivos que ofereçam mais garantias, nomeadamente no que respeita à manutenção das vacas na exploração, às circunstâncias em que decorrem a reprodução e a recria, à identificação dos animais, à adesão aos livros genealógicos e às condições de sanidade, higiene e alimentação.
 
 III
 
 Métodos
 
-###### Art. 8.º - 1 - Os métodos oficialmente reconhecidos para a realização do contraste leiteiro em todo o território nacional são:
+Art. 8.º - 1 - Os métodos oficialmente reconhecidos para a realização do contraste leiteiro em todo o território nacional são:
 
 a) O método principal ou A4;
 
@@ -157,29 +171,29 @@ b) O método alternado ou AT4.
 
 5 - É permitida a mudança de método; contudo, a avaliação das lactações em curso será sempre feita pelo método alternado.
 
-###### Art. 9.º O contraste incide sobre a quantidade total de leite produzido por cada uma das fêmeas que constituem o efectivo da unidade de ordenha em causa e comporta igualmente a determinação sistemática das matérias gorda e proteica.
+Art. 9.º O contraste incide sobre a quantidade total de leite produzido por cada uma das fêmeas que constituem o efectivo da unidade de ordenha em causa e comporta igualmente a determinação sistemática das matérias gorda e proteica.
 
 IV
 
 Visitas do contrastador
 
-###### Art. 10.º - 1 - O programa de trabalho dos contrastadores será por estes elaborado com a devida antecedência e fornecido aos supervisores.
+Art. 10.º - 1 - O programa de trabalho dos contrastadores será por estes elaborado com a devida antecedência e fornecido aos supervisores.
 
 2 - A ordem pela qual se realizam as visitas dos contrastadores deverá ser alterada todos os meses, por forma que as visitas variem de modo aleatório, mas respeitando os limites definidos neste Regulamento.
 
 3 - O contraste num estábulo é feito sem conhecimento prévio do criador, tolerando-se, contudo, um aviso, desde que não seja feito antes do fim da ordenha que precede o contraste.
 
-###### Art. 11.º - 1 - O criador deverá aceitar a chegada inesperada do contrastador, facultando os meios necessários para a realização do contraste.
+Art. 11.º - 1 - O criador deverá aceitar a chegada inesperada do contrastador, facultando os meios necessários para a realização do contraste.
 
 2 - A recusa, sem motivo aparente, de receber o contrastador suprime o contraste do mês e poderá levar à exclusão do aderente ao contraste.
 
-###### Art. 12.º É interdito ao contrastador intervir nos estábulos em que tenha parentesco quer com o proprietário quer com os seus trabalhadores.
+Art. 12.º É interdito ao contrastador intervir nos estábulos em que tenha parentesco quer com o proprietário quer com os seus trabalhadores.
 
 V
 
 Identificação dos animais
 
-###### Art. 13.º - 1 - A verificação da identificação dos animais será sempre efectuada antes do início das operações do contraste.
+Art. 13.º - 1 - A verificação da identificação dos animais será sempre efectuada antes do início das operações do contraste.
 
 2 - Serão aplicadas na identificação animal as normas definidas no Regulamento de Identificação Animal (SIA).
 
@@ -189,13 +203,13 @@ VI
 
 As ordenhas e o contraste
 
-###### Art. 14.º - 1 - No contraste, o horário das ordenhas será o mesmo que o praticado habitualmente.
+Art. 14.º - 1 - No contraste, o horário das ordenhas será o mesmo que o praticado habitualmente.
 
 2 - O contraste em dois estábulos vizinhos, que se queira efectuar no mesmo dia pelo mesmo contrastador, só será permitido se em qualquer deles não houver alteração do horário em que habitualmente se processam as ordenhas.
 
 3 - As condições habituais de produção não devem sofrer modificações durante a execução do contraste, o que exige atenção cuidada para evitar a estimulação da produção, através de manipulações mecânicas ou medicamentosas.
 
-###### Art. 15.º - 1 - Num rebanho em que sejam feitas três ordenhas por dia, todos os animais serão submetidos a três ordenhas durante toda a lactação.
+Art. 15.º - 1 - Num rebanho em que sejam feitas três ordenhas por dia, todos os animais serão submetidos a três ordenhas durante toda a lactação.
 
 2 - Nesta situação, o contraste terá início na ordenha do meio da jornada.
 
@@ -205,13 +219,13 @@ VII
 
 Animais submetidos ao contraste
 
-###### Art. 16.º - 1 - Serão contrastados todos os animais da mesma raça habitualmente presentes e ordenhados no estábulo.
+Art. 16.º - 1 - Serão contrastados todos os animais da mesma raça habitualmente presentes e ordenhados no estábulo.
 
 2 - Não é permitido ao criador, por insuficiente produção, excluir do contraste leiteiro parte do seu efectivo que esteja ainda em lactação aquando da visita do contrastador.
 
 3 - Quando existirem numa exploração animais de raças diferentes, a recolha da informação para efeitos de contraste deverá ser feita em impressos distintos.
 
-###### Art. 17.º - 1 - Os animais serão sujeitos ao contraste durante toda a sua lactação.
+Art. 17.º - 1 - Os animais serão sujeitos ao contraste durante toda a sua lactação.
 
 2 - O primeiro contraste não se efectuará antes do 5.º dia após o parto.
 
@@ -221,13 +235,13 @@ Animais submetidos ao contraste
 
 5 - Se uma vaca, no decorrer da sua lactação, tiver três ou mais contrastes em falta, o apuramento de resultados não se efectuará.
 
-###### Art. 18.º Não compete ao contrastador suprimir por sua iniciativa qualquer animal do contraste leiteiro. A designação de «não contrastada» é da responsabilidade da entidade que executa o contraste.
+Art. 18.º Não compete ao contrastador suprimir por sua iniciativa qualquer animal do contraste leiteiro. A designação de «não contrastada» é da responsabilidade da entidade que executa o contraste.
 
 VIII
 
 Registo das produções
 
-###### Art. 19.º - 1 - O contrastrador assistirá, obrigatoriamente, à ordenha dos animais em contraste.
+Art. 19.º - 1 - O contrastrador assistirá, obrigatoriamente, à ordenha dos animais em contraste.
 
 2 - Os impressos de registo das produções ficarão na posse do contrastador durante todas as operações de contraste.
 
@@ -237,23 +251,23 @@ IX
 
 Colheita e conservação das amostras
 
-###### Art. 20.º - 1 - A amostra individual de leite, colhida e destinada à determinação dos teores butiroso e proteico, deverá ser representativa da produção em vinte e quatro horas, sendo constituída por tantas colheitas quantas as ordenhas praticadas.
+Art. 20.º - 1 - A amostra individual de leite, colhida e destinada à determinação dos teores butiroso e proteico, deverá ser representativa da produção em vinte e quatro horas, sendo constituída por tantas colheitas quantas as ordenhas praticadas.
 
 2 - As colheitas deverão ser de volumes proporcionais às quantidades de leite das ordenhas correspondentes, admitindo-se, no entanto, que sejam iguais desde que o intervalo que separa as ordenhas esteja compreendido entre dez e quatorze horas, no caso de se praticarem duas ordenhas, e entre sete e nove horas, no caso de três ordenhas.
 
-###### Art. 21.º As amostras, em frascos devidamente marcados, deverão corresponder aos animais a que respeitem.
+Art. 21.º As amostras, em frascos devidamente marcados, deverão corresponder aos animais a que respeitem.
 
-###### Art. 22.º - 1 - As normas relativas ao volume das amostras, aos conservantes a utilizar e a outras especificidades de carácter técnico que dependam dos métodos e meios utilizados pelos laboratórios serão da responsabilidade destes, desde que mereçam a concordância da DGP.
+Art. 22.º - 1 - As normas relativas ao volume das amostras, aos conservantes a utilizar e a outras especificidades de carácter técnico que dependam dos métodos e meios utilizados pelos laboratórios serão da responsabilidade destes, desde que mereçam a concordância da DGP.
 
 2 - O produto conservante, sempre que possível, deverá ser previamente posto nos frascos pelo centro de análises.
 
 3 - Os centros apenas devem analisar as amostras que se apresentem em perfeitas condições físico-químicas.
 
-###### Art. 23.º - 1 - Os frascos vazios ou que já contenham leite devem permanecer sempre fechados, abrindo-se apenas o tempo suficiente para a recolha de colheitas.
+Art. 23.º - 1 - Os frascos vazios ou que já contenham leite devem permanecer sempre fechados, abrindo-se apenas o tempo suficiente para a recolha de colheitas.
 
 2 - A embalagem com as amostras permanecerá no estábulo entre as ordenhas, em local fresco, garantindo o contrastador a sua inviolabilidade.
 
-###### Art. 24.º - 1 - Se, por uma razão acidental, devidamente justificada, os resultados da análise das amostras não puderem ser apurados, eles serão igualados aos valores do contraste anterior, sempre que possível, ou à média do estábulo, quando se trate do primeiro contraste de cada vaca.
+Art. 24.º - 1 - Se, por uma razão acidental, devidamente justificada, os resultados da análise das amostras não puderem ser apurados, eles serão igualados aos valores do contraste anterior, sempre que possível, ou à média do estábulo, quando se trate do primeiro contraste de cada vaca.
 
 2 - Quando se trate do primeiro contraste de um estábulo, serão aplicados os valores médios nacionais, indicados periodicamente pela DGP.
 
@@ -261,7 +275,7 @@ X
 
 Intervalo entre contrastes
 
-###### Art. 25.º - 1 - O intervalo entre dois contrastes sucessivos não poderá ser inferior a 26 dias nem superior a 33, sendo desejável que a média anual entre contrastes seja de 30 dias.
+Art. 25.º - 1 - O intervalo entre dois contrastes sucessivos não poderá ser inferior a 26 dias nem superior a 33, sendo desejável que a média anual entre contrastes seja de 30 dias.
 
 2 - Será permitido, contudo, um intervalo de 52 a 66 dias, desde que tenha havido uma interrupção por motivo de força maior, devidamente justificado.
 
@@ -273,17 +287,17 @@ XI
 
 Expressão e apresentação dos resultados
 
-###### Art. 26.º A produção de uma vaca é avaliada por lactação, calculando-se a produção de leite, a matéria gorda e a matéria proteica segundo o método de Fleischmann.
+Art. 26.º A produção de uma vaca é avaliada por lactação, calculando-se a produção de leite, a matéria gorda e a matéria proteica segundo o método de Fleischmann.
 
-###### Art. 27.º Em caso de aborto, admite-se como uma nova lactação a produção obtida depois do acidente, desde que este ocorra a partir de 210 dias de gestação ou, quando a data de beneficiação não for conhecida, depois de 240 dias de lactação.
+Art. 27.º Em caso de aborto, admite-se como uma nova lactação a produção obtida depois do acidente, desde que este ocorra a partir de 210 dias de gestação ou, quando a data de beneficiação não for conhecida, depois de 240 dias de lactação.
 
-###### Art. 28.º - 1 - Para efeitos de cálculo da produção, a lactação considera-se terminada 14 dias depois da data do último contraste efectuado.
+Art. 28.º - 1 - Para efeitos de cálculo da produção, a lactação considera-se terminada 14 dias depois da data do último contraste efectuado.
 
 2 - Este prazo poderá ser de 28 dias quando a situação de «seca» for constatada depois de um intervalo de 52 a 66 dias após o último contraste.
 
 3 - Os 28 dias só serão aplicados às vacas que aos 210 ou 230 dias de lactação produzem mais de 8 kg ou 6 kg de leite, respectivamente.
 
-###### Art. 29.º - 1 - Os critérios que caracterizam uma lactação são os seguintes:
+Art. 29.º - 1 - Os critérios que caracterizam uma lactação são os seguintes:
 
 a) A duração, expressa em dias;
 
@@ -303,13 +317,13 @@ XII
 
 Contrastadores
 
-###### Art. 30.º O contraste será executado por agentes devidamente credenciados, com preparação adequada para o desempenho das tarefas que lhes são cometidas, para o que terão de possuir os conhecimentos técnicos, teóricos e práticos que lhes serão ministrados em cursos da responsabilidade da DGP.
+Art. 30.º O contraste será executado por agentes devidamente credenciados, com preparação adequada para o desempenho das tarefas que lhes são cometidas, para o que terão de possuir os conhecimentos técnicos, teóricos e práticos que lhes serão ministrados em cursos da responsabilidade da DGP.
 
 XIII
 
 Supervisão do contraste
 
-###### Art. 31.º - 1 - A supervisão de todas as operações do contraste tem em vista garantir a credibilidade dos resultados obtidos e compete aos serviços oficiais.
+Art. 31.º - 1 - A supervisão de todas as operações do contraste tem em vista garantir a credibilidade dos resultados obtidos e compete aos serviços oficiais.
 
 2 - As operações de supervisão far-se-ão a dois níveis:
 
@@ -317,7 +331,7 @@ a) A nível regional, através de agentes designados «controladores», que actu
 
 b) A nível nacional, por agentes chamados «supervisores», pertencentes à DGP, que actuarão em todo o território nacional.
 
-###### Art. 32.º Para dar cumprimento ao presente Regulamento, os agentes de supervisão estarão habilitados a intervir em todo o processo do contraste leiteiro, desde a recolha da amostra até ao tratamento dos dados, nomeadamente:
+Art. 32.º Para dar cumprimento ao presente Regulamento, os agentes de supervisão estarão habilitados a intervir em todo o processo do contraste leiteiro, desde a recolha da amostra até ao tratamento dos dados, nomeadamente:
 
 a) Desenvolvendo acções de apoio e controlo das operações a cargo do contrastador;
 
@@ -329,10 +343,10 @@ d) Verificando a fiabilidade da metodologia e do material utilizados nos centros
 
 e) Controlando as diferentes fases de todo o processamento informático.
 
-###### Art. 33.º Tendo em vista o normal e bom funcionamento do contraste leiteiro, todos os agentes e entidades envolvidos, contrastadores, produtores e responsáveis dos centros de análise de leite e de informática deverão prestar aos supervisores a colaboração que lhes for solicitada.
+Art. 33.º Tendo em vista o normal e bom funcionamento do contraste leiteiro, todos os agentes e entidades envolvidos, contrastadores, produtores e responsáveis dos centros de análise de leite e de informática deverão prestar aos supervisores a colaboração que lhes for solicitada.
 
 XIV
 
 Penalidades
 
-###### Art. 34.º As infracções ao preceituado neste Regulamento são consideradas como contra-ordenações, puníveis nos termos dos artigos 13.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.
+Art. 34.º As infracções ao preceituado neste Regulamento são consideradas como contra-ordenações, puníveis nos termos dos artigos 13.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.

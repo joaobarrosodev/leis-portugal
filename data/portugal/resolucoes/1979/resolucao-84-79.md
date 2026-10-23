@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/84-1979-383584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f11e16eb9452d69b5cc1ed897daf1313fe299ccee3a06329fa18650c7912be02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d728adb6f7c4437df6f621cb19f2d73b9cc441eb14f193c12930b80802704ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Dotação Orçamental
+- Duodécimo
+- Gabinete de Gestão do Fundo de Desemprego
+- Orçamento
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:240849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:18Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +117,7 @@ O Conselho de Ministros, reunido em 14 de Março de 1979, resolveu:
 
 Autorizar, nos termos do n.º 4 do artigo 4.º do [Decreto-Lei n.º 75-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1978-332190), de 26 de Abril, conjugado com o n.º 1 do artigo 7.º do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, a antecipação de três duodécimos das seguintes dotações orçamentais:
 
-###### Artigo 7.º, n.º 2, alínea a), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro:
+Artigo 7.º, n.º 2, alínea a), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro:
 
 Despesas correntes:
 
@@ -100,7 +129,7 @@ Despesas correntes:
 
 30.00 - Aquisição de serviços - Transportes e comunicações.
 
-###### Artigo 7.º, n.º 2, alínea e), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, com nova redacção dada pelo [Decreto-Lei n.º 353-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-d-1977-240849), de 29 de Agosto:
+Artigo 7.º, n.º 2, alínea e), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, com nova redacção dada pelo [Decreto-Lei n.º 353-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-d-1977-240849), de 29 de Agosto:
 
 Despesas correntes:
 
@@ -108,7 +137,7 @@ Despesas correntes:
 
 09 - Diversos.
 
-###### Artigo 7.º, n.º 2, alínea f), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, com nova redacção dada pelo [Decreto-Lei n.º 423/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1977-279211), de 7 de Outubro:
+Artigo 7.º, n.º 2, alínea f), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, com nova redacção dada pelo [Decreto-Lei n.º 423/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1977-279211), de 7 de Outubro:
 
 Despesas de capital:
 

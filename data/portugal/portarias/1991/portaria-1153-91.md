@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1153/1991/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1153-1991-331471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40c1cf92098478316fe27ca15d02e64c37364ce892848de05367fd92532f83f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b91714a0bd476f2b83b76ba5d7f1fbdcbc22ca75596cfcef8e6ba8a48c399a73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ subjects:
 - Comissão de Viticultura da Região dos Vinhos Verdes
 - Taxa
 - Vinho Verde
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179995:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:26Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +109,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 24 de Outubro de 1991.**
+Assinada em 24 de Outubro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

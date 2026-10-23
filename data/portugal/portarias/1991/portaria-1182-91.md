@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1182/1991/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1182-1991-309014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fb4ea5a8c42e3afcb09fb9209e1f9991b7f74c4364a672ef80a20bb7e66d3ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 170c180385b108d775189f72d8d7f03f3eb61b953df8dbb31c5b6eca7aacce13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,36 @@ relationships:
   target: pt:dre:325774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:02Z'
   warnings: []
   errors: []
 ---
@@ -101,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que o quadro de 
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 30 de Outubro de 1991.**
+Assinada em 30 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 Mapa anexo à Portaria n.º 1182/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/274b00/62326232.pdf))](https://files.diariodarepublica.pt/1s/1991/11/274b00/62326232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/274b00/62326232.pdf)

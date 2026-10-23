@@ -47,36 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/820-1990-557859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e69805fc89aef511bb57c9cda829adf20c3e7305336f2eda0d9945e3982ff2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c42b172cd1d482fea34887aa835a2b1e4deaebcc0bc106e65711d74c4bbc767
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Beja
+- Diploma
+- Ensino Superior Politécnico
+- Escola Superior de Educação
+- Formação Complementar
+- Formação de Professores
+- Formação Profissional
+- Instituto Politécnico
+- Licenciatura
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609778:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:19Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +147,7 @@ O modelo de carta de curso do grau de licenciado em Ensino conferido pelo Instit
 
 Ministério da Educação.
 
-**Assinada em 9 de Agosto de 1990.**
+Assinada em 9 de Agosto de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -119,13 +161,13 @@ R. (ver nota a) P.
 
 Instituto Politécnico de Beja, em (ver nota h) ...
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico, (ver nota i) ...**
+O Presidente da Comissão Instaladora do Instituto Politécnico, (ver nota i) ...
 
-**O Presidente da Comissão Instaladora da Escola Superior de Educação, (ver nota j)...**
+O Presidente da Comissão Instaladora da Escola Superior de Educação, (ver nota j)...
 
 O Administrador do Instituto Politécnico, (ver nota l) ...
 
-**O Secretário da Escola Superior de Educação, (ver nota m) ...**
+O Secretário da Escola Superior de Educação, (ver nota m) ...
 
 (nota a) Símbolo do Instituto Politécnico de Beja.
 

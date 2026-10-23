@@ -48,36 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-1990-571575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff56b28a5890c81185b68e73a23681d55f90c5bdf87d4e012e3c32c961b4acfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e177accdeb23157cb6fa9c1d2555dce0bcf72e966e2aa0392d3e72d0f971686e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Castelo Branco
+- Ensino Superior Politécnico
+- Escola Superior de Educação
+- Instituto Politécnico
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:46Z'
   warnings: []
   errors: []
 ---
@@ -346,11 +367,11 @@ O início de funcionamento de cada um dos cursos ficará dependente de autoriza�
 
 Ministério da Educação.
 
-**Assinada em 26 de Abril de 1990.**
+Assinada em 26 de Abril de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11700/23122316.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11700/23122316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11700/23122316.pdf)
 
 ## ANEXO III — Diploma
 
@@ -360,13 +381,13 @@ R (ver nota a) P
 
 Instituto Politécnico de Castelo Branco, ... (ver nota i).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico, ...**
+O Presidente da Comissão Instaladora do Instituto Politécnico, ...
 
-**O Presidente da Comissão Instaladora da Escola Superior de Educação, ...**
+O Presidente da Comissão Instaladora da Escola Superior de Educação, ...
 
 O Administrador, ...
 
-**O Secretário da Escola Superior de Educação, ...**
+O Secretário da Escola Superior de Educação, ...
 
 (nota a) Símbolo do Instituto Politécnico de Castelo Branco.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 230/1979, 1º Suplemento, Série I de 1979-10-04
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2590-(1) a 2590-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/23001/00010001.pdf
 entry_into_force_dates: []
@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/292-a-1979-153083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c31585e1b92a47a95de43506ac0137d2dd590801aa8960228ffcd8c641fb066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2becf276c709c67584a0ce09e3fb2cbc900931e93f76d5d03dde2963b475a8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deslocação ao Estrangeiro
+- Presidente da República
+- Viagem Oficial
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:20Z'
   warnings: []
   errors: []
 ---
@@ -86,4 +89,4 @@ O Conselho da Revolução resolveu, nos termos dos artigos 132.º, n.º 1, e 145
 
 Aprovada em Conselho da Revolução em 3 de Outubro de 1979.
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes.

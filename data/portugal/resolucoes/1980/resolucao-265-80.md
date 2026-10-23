@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/265-1980-472508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef4c8bd282eab18d0f274e085151c54a9817584c0cf013d3426ec13cadcb6d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d6144cd61490d6d829ce9aad820910f4e3d65fd6c9d4d71d187fb1a8980fd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Borges e Irmão
+- Banco Espírito Santo e Comercial de Lisboa
+- Banco Fonsecas e Burnay
+- Banco Nacional Ultramarino
+- Banco Pinto de Magalhães
+- Banco Pinto e Sotto Mayor
+- Banco Português do Atlântico
+- Conselho de Gestão
+- Cosec
+- Crédito Predial Português
+- Exoneração
+- Nomeação
+- Presidente
+- União de Bancos Portugueses
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:396523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578147:por
+  label: "Exonerado o Dr. Mário Jorge Mendes Chiti Parente, nomeado pelo presente diploma, pela Res.145/81.03.07.1981.PCM,\
+    \ DR.IS [150] de 03.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/145-1981-578147
+  date: '1981-07-03'
+- type: amended_by
+  target: pt:dre:396523:por
+  label: "Exonerados Mário Aires Gomes Martins, Dr. José de Oliveira Costa, Dr. Mário Martins Adegas e o Dr. Fernando Ginja\
+    \ Mendes, todos nomeados pelo presente diploma, pela RES.153/82.19.08.1982.PCM, DR.IS [196] de 25.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/153-1982-396523
+  date: '1982-08-19'
+- type: corrected_by
+  target: pt:dre:460661:por
+  label: Rectificada pela DECL.DD6908.19.09.1980.PCM, DR.IS [217] de 19.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460661
+  date: '1980-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:04Z'
   warnings: []
   errors: []
 ---

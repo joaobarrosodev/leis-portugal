@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1083/1991/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1083-1991-344887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ddccafd0eef0a46fef51c7f8c2a38c46b799a8168b7180628878fe5387ea61d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29beb499165ac053d6a66ff32ed85f3221ce9741a6585f48ec87713f654e5c46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gado Bovino
-- Regulamento
 - Pecuária
-relationships: []
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550579:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:37:46Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +122,7 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Setembro de 1991.**
+Assinada em 27 de Setembro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -116,9 +132,9 @@ I
 
 Objectivos
 
-###### Artigo 1.º O Livro Genealógico tem por fim assegurar a pureza da raça, concorrer para o seu progresso zootécnico e favorecer a criação e difusão de bons reprodutores.
+Artigo 1.º O Livro Genealógico tem por fim assegurar a pureza da raça, concorrer para o seu progresso zootécnico e favorecer a criação e difusão de bons reprodutores.
 
-###### Art. 2.º Para atingir a sua finalidade, o Livro promove:
+Art. 2.º Para atingir a sua finalidade, o Livro promove:
 
 1) A inscrição de animais, mencionando para cada um deles:
 
@@ -140,25 +156,25 @@ II
 
 Organização e funcionamento
 
-###### Art. 3.º A direcção do Livro Genealógico, adiante desingado LG, será da responsabilidade da Associação Portuguesa de Criadores da Raça Frísia, ficando a sua gestão técnica a cargo de um secretário técnico, perito na raça e reconhecido como tal pela Direcção-Geral da Pecuária.
+Art. 3.º A direcção do Livro Genealógico, adiante desingado LG, será da responsabilidade da Associação Portuguesa de Criadores da Raça Frísia, ficando a sua gestão técnica a cargo de um secretário técnico, perito na raça e reconhecido como tal pela Direcção-Geral da Pecuária.
 
-###### Art. 4.º - 1 - O LG terá a sua sede na sede da Associação Portuguesa de Criadores da Raça Frísia, que lhe dará todo o apoio logístico.
+Art. 4.º - 1 - O LG terá a sua sede na sede da Associação Portuguesa de Criadores da Raça Frísia, que lhe dará todo o apoio logístico.
 
 2 - O LG poderá criar delegações, com áreas e atribuições a definir para cada caso, nas regiões onde o efectivo leiteiro o aconselhe.
 
-###### Art. 5.º - 1 - O LG é reservado aos animais cujos pais e avôs nele se encontrem inscritos.
+Art. 5.º - 1 - O LG é reservado aos animais cujos pais e avôs nele se encontrem inscritos.
 
 2 - Enquanto for considerado conveniente pela Direcção-Geral da Pecuária e pela Associação Portuguesa de Criadores da Raça Frísia, manter-se-á em funcionamento um registo auxiliar, cujos critérios de admissão estão definidos no presente Regulamento.
 
-###### Art. 6.º A marca do LG terá a configuração do Escudo Nacional, ladeado pelas letras F e P.
+Art. 6.º A marca do LG terá a configuração do Escudo Nacional, ladeado pelas letras F e P.
 
-###### Art. 7.º A actividade do LG fica sujeita à fiscalização periódica da Direcção-Geral da Pecuária.
+Art. 7.º A actividade do LG fica sujeita à fiscalização periódica da Direcção-Geral da Pecuária.
 
 III
 
 Adesão dos criadores e pedido de inscrição dos seus animais
 
-###### Art. 8.º - 1 - Os criadores de bovinos da raça frísia, que desejem aderir ao LG deverão apresentar o respectivo pedido à direcção do mesmo.
+Art. 8.º - 1 - Os criadores de bovinos da raça frísia, que desejem aderir ao LG deverão apresentar o respectivo pedido à direcção do mesmo.
 
 2 - Este pedido deverá ser feito em impresso próprio, fornecido pela secretaria do Livro e nesta entregue depois de correctamente preenchido.
 
@@ -166,15 +182,15 @@ Adesão dos criadores e pedido de inscrição dos seus animais
 
 4 - Todas as inscrições no LG carecem de pedido expresso.
 
-###### Art. 9.º A Associação Portuguesa de Criadores da Raça Frísia deverá dispor de um regulamento interno, adaptado aos respectivos estatutos e que preveja, nomeadamente, a ausência de discriminação entre os seus aderentes, de acordo com a [Portaria n.º 1055/89](https://diariodarepublica.pt/dr/detalhe/portaria/1055-1989-550579), de 6 de Dezembro.
+Art. 9.º A Associação Portuguesa de Criadores da Raça Frísia deverá dispor de um regulamento interno, adaptado aos respectivos estatutos e que preveja, nomeadamente, a ausência de discriminação entre os seus aderentes, de acordo com a [Portaria n.º 1055/89](https://diariodarepublica.pt/dr/detalhe/portaria/1055-1989-550579), de 6 de Dezembro.
 
 IV
 
 Identificação dos animais
 
-###### Art. 10.º A inscrição de animais no LG ou no registo auxiliar implica a sua identificação de acordo com o presente Regulamento e demais legislação em vigor.
+Art. 10.º A inscrição de animais no LG ou no registo auxiliar implica a sua identificação de acordo com o presente Regulamento e demais legislação em vigor.
 
-###### Art. 11.º - 1 - A identificação dos recém-nascidos, será feita:
+Art. 11.º - 1 - A identificação dos recém-nascidos, será feita:
 
 a) Provisoriamente, nas primeiras quarenta e oito horas de vida, pelos seus proprietários, em modelo próprio, que servirá, também, de declaração de nascimento;
 
@@ -182,15 +198,15 @@ b) Definitivamente, nos 30 dias subsequentes, por agentes do LG, que lhes atribu
 
 2 - Excepcionalmente, em caso de férias do agente identificador, admitir-se-á a identificação nos primeiros 60 dias de vida.
 
-###### Art. 12.º Qualquer remarcação que venha a ser necessária só poderá ser feita pelos agentes referidos no artigo anterior.
+Art. 12.º Qualquer remarcação que venha a ser necessária só poderá ser feita pelos agentes referidos no artigo anterior.
 
-###### Art. 13.º A direcção da Associação Portuguesa de Criadores da Raça Frísia poderá estabelecer protocolos com as organizações responsáveis pela execução do contraste, visando a utilização dos seus contrastadores como agentes do LG para a identificação dos animais nascidos nas explorações a que assistem.
+Art. 13.º A direcção da Associação Portuguesa de Criadores da Raça Frísia poderá estabelecer protocolos com as organizações responsáveis pela execução do contraste, visando a utilização dos seus contrastadores como agentes do LG para a identificação dos animais nascidos nas explorações a que assistem.
 
 V
 
 Inscrição dos animais
 
-###### Art. 14.º - 1 - No LG só poderão ser inscritos os animais que satisfaçam as condições seguintes:
+Art. 14.º - 1 - No LG só poderão ser inscritos os animais que satisfaçam as condições seguintes:
 
 a) Sejam descendentes de pais e avós inscritos no LG;
 
@@ -202,7 +218,7 @@ c) Sejam filhos de touros pertencentes às classes 2 ou 3 do LG ou de similar es
 
 3 - Os animais importados inscritos em LG reconhecido pela Associação Portuguesa de Criadores da Raça Frísia podem ingressar no LG Português da Raça Frísia.
 
-###### Art. 15.º O LG comporta três classes, de acordo com o valor dos animais:
+Art. 15.º O LG comporta três classes, de acordo com o valor dos animais:
 
 A) Classe 1 - constituída por todos os animais que satisfaçam as condições do artigo 14.º;
 
@@ -242,7 +258,7 @@ b) Tenham obtido a pontuação mínima de 85 pontos;
 
 c) Não exibam taras ou defeitos, cuja transmissibilidade seja de recear.
 
-###### Art. 16.º A inscrição no registo auxiliar é reservada às fêmeas que obedeçam às seguintes condições:
+Art. 16.º A inscrição no registo auxiliar é reservada às fêmeas que obedeçam às seguintes condições:
 
 1) Vitelas:
 
@@ -256,19 +272,19 @@ b) Que tenham obtido a pontuação mínima de 70 pontos em exame efectuado por c
 
 c) Que tenham produzido, em 305 dias, o mínimo de 5000 kg de leite e 175 kg de MG na 1.ª lactação, ou 6000 kg de leite e 210 kg de MG, em qualquer das lactações seguintes.
 
-###### Art. 17.º A inscrição dos animais no LG ou registo auxiliar será solicitada pelos criadores e efectuada pela secretaria técnica do Livro após inteiro cumprimento do disposto no artigo 10.º e face às declarações de nascimento apresentadas.
+Art. 17.º A inscrição dos animais no LG ou registo auxiliar será solicitada pelos criadores e efectuada pela secretaria técnica do Livro após inteiro cumprimento do disposto no artigo 10.º e face às declarações de nascimento apresentadas.
 
-###### Art. 18.º A inscrição no LG e no registo auxiliar recairá, exclusivamente, em animais pertencentes a efectivos saneados.
+Art. 18.º A inscrição no LG e no registo auxiliar recairá, exclusivamente, em animais pertencentes a efectivos saneados.
 
-###### Art. 19.º As taxas a pagar pela inscrição de animais no LG serão fixadas, oportunamente, pela Associação Portuguesa de Criadores da Raça Frísia, com seis meses de antecedência sobre a data de início da sua cobrança.
+Art. 19.º As taxas a pagar pela inscrição de animais no LG serão fixadas, oportunamente, pela Associação Portuguesa de Criadores da Raça Frísia, com seis meses de antecedência sobre a data de início da sua cobrança.
 
 VI
 
 Exame dos animais
 
-###### Art. 20.º O exame dos animais para efeitos de pontuação será efectuado por classificadores devidamente credenciados pela direcção do LG.
+Art. 20.º O exame dos animais para efeitos de pontuação será efectuado por classificadores devidamente credenciados pela direcção do LG.
 
-###### Art. 21.º - 1 - A pontuação para efeitos de classificação dos animais far-se-á segundo as tabelas aprovadas oficialmente.
+Art. 21.º - 1 - A pontuação para efeitos de classificação dos animais far-se-á segundo as tabelas aprovadas oficialmente.
 
 2 - Antes do exame, o classificador deverá verificar a identificação dos animais.
 
@@ -278,9 +294,9 @@ VII
 
 Passagem de certificados e exportação de animais
 
-###### Art. 22.º O LG passará certificados relativos à inscrição de animais e a elementos de ordem funcional e prémios obtidos, mediante o pagamento de taxas, que serão fixadas pela direcção do Livro.
+Art. 22.º O LG passará certificados relativos à inscrição de animais e a elementos de ordem funcional e prémios obtidos, mediante o pagamento de taxas, que serão fixadas pela direcção do Livro.
 
-###### Art. 23.º - 1 - Não é permitida a exportação de animais designados como pertencentes à raça frísia sem que se encontrem inscritos no respectivo LG e munidos de certificado emitido em modelo harmonizado aprovado pela Federação Europeia das Associações dos Criadores da Raça Frísia.
+Art. 23.º - 1 - Não é permitida a exportação de animais designados como pertencentes à raça frísia sem que se encontrem inscritos no respectivo LG e munidos de certificado emitido em modelo harmonizado aprovado pela Federação Europeia das Associações dos Criadores da Raça Frísia.
 
 2 - Do certificado genealógico devem sempre constar os dados referidos na [Portaria n.º 1055/89](https://diariodarepublica.pt/dr/detalhe/portaria/1055-1989-550579), de 6 de Dezembro.
 
@@ -288,7 +304,7 @@ VIII
 
 Obrigações e regalias dos criadores
 
-###### Art. 24.º Os criadores aderentes obrigam-se a:
+Art. 24.º Os criadores aderentes obrigam-se a:
 
 a) Apresentar os seus animais, para efeitos de exame, nos locais, dias e horas indicados pela secretaria do LG;
 
@@ -308,11 +324,11 @@ f) Remeter à secretaria do LG:
 
 g) Não manter na sua exploração machos com idade superior a 15 meses sem ter sido solicitada a sua inclusão na classe de mérito, nem os reprovados no exame de admissão a esta classe, nos termos do presente Regulamento.
 
-###### Art. 25.º - 1 - Os criadores deverão concertar com a direcção do LG o método de reprodução a adoptar: cobrição ou inseminação artificial. Os sementais utilizados na cobrição natural terão de estar inscritos naquele livro, nas classes 2 e 3, ou em similar estrangeiro.
+Art. 25.º - 1 - Os criadores deverão concertar com a direcção do LG o método de reprodução a adoptar: cobrição ou inseminação artificial. Os sementais utilizados na cobrição natural terão de estar inscritos naquele livro, nas classes 2 e 3, ou em similar estrangeiro.
 
 2 - Em casos excepcionais e a pedido fundamentado dos interessados, a direcção do Livro poderá autorizar a utilização simultânea dos dois métodos, mas sempre a título temporário e mediante os condicionalismos que entenda estabelecer.
 
-###### Art. 26.º Além das regalias que as outras disposições legais lhes confiram, os criadores que aderirem ao LG beneficiarão das seguintes vantagens:
+Art. 26.º Além das regalias que as outras disposições legais lhes confiram, os criadores que aderirem ao LG beneficiarão das seguintes vantagens:
 
 a) De acordos estabelecidos pelo LG no sentido de valorizar e facilitar a comercialização dos animais nele inscritos;
 
@@ -322,7 +338,7 @@ IX
 
 Penalidades
 
-###### Art. 27.º As infracções ao preceituado neste Regulamento são consideradas como contra-ordenações, puníveis nos termos dos artigos 13.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.
+Art. 27.º As infracções ao preceituado neste Regulamento são consideradas como contra-ordenações, puníveis nos termos dos artigos 13.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.
 
 ## ANEXO I
 

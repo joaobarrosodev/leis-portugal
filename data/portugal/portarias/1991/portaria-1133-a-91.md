@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 251/1991, 2º Suplemento, Série I-B de 1991-10-31
   number: '251'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5618-(2) a 5618-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251b02/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1133-a/1991/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1133-a-1991-406879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa568865ecdf337f2bd2768a749bdbe5bf0e281190cd19d05089a34b628f4fd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f2d3dc899142ff10d6d156f79b823754b3834a051e96609b27043c0195fcc1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Coeficiente de Actualização
 - Renda Condicionada
 - Renda Livre
-- Arrendamento Urbano para Habitação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:56Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +97,6 @@ Manda o Governo, pelos Ministros das Finanças, da Indústria e Energia, das Obr
 
 Ministérios das Finanças, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 29 de Outubro de 1991.**
+Assinada em 29 de Outubro de 1991.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09600/20102010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1990-332219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49d98582b13dd53b0338b60bf8687c71286bf496a7f4e417c07e916b3bd76339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5662f1e0fcc8744418eae213390fd3ba242bdfa26d59864ca43c8840e618ac5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Judiciários
+- Ministério da Justiça
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:173286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:173286:por
+  label: "Revogada pela PORT.236/95.28.03.1995.MF, DR.IS-B [74] de 28.03.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-1995-173286
+  date: '1995-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:01Z'
   warnings: []
   errors: []
 ---
@@ -102,10 +119,10 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 3 de Março de 1990.**
+Assinada em 3 de Março de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Justiça, Joaquim Fernando Nogueira.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09600/20102010.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09600/20102010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09600/20102010.pdf)

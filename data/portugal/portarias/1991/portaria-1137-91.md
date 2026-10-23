@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/254b00/56395650.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1137/1991/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-1991-331872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb295eacdd076b5b723b99a8228d0cb357dbbf989909a3ae13a6e0fef066f228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fc6600601d72784d8499fae643ffa752decd1cc321978d64529634447955dae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
 - Certificado de Qualidade
+- Comércio
+- Controlo de Qualidade
 - Materiais de Viveiro
 - Plantula
 - Produção Vegetal
 - Regulamento
-- Comércio
 - Vinha
 relationships:
 - type: amended_by
   target: pt:dre:541592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476960:por
+  label: "Alterados os arts. 2.º, 3.º, 4.º, 9.º, 10.º, 11.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 26.º, 27.º, 28.º, 31.º, 33.º\
+    \ e 39.º (este último na redacção da Port 68/2003, de 18-Jan) e aditados os arts. 17.º-A, 31.º-A e 38.º-A, todos do Regulamento\
+    \ aprovado pelo presente diploma, pelo DEC LEI.266/2003.25.10.2003.MADRP, DR.IS-A [248] de 25.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-2003-476960
+  date: '1991-11-11'
+- type: amended_by
+  target: pt:dre:226428:por
+  label: "Alterado o anexo nº 2 do regulamento aprovado pelo presente diploma, pela PORT.607/96.1996.10.25.MADRP, DR.IS-B\
+    \ [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/607-1996-226428
+  date: '1996-10-25'
 - type: cites
   target: celex:31968L0193
   label: null
@@ -86,16 +99,28 @@ relationships:
   target: celex:31987R0822
   label: null
   source: http://data.europa.eu/eli/reg/1987/822/oj
+- type: repealed_by
+  target: pt:dre:234683:por
+  label: "Revogado o nº 4 da presente Portaria pela PORT.68/2002.2002.01.18.MADRP, DR.IS-B [15] bem como o art. 39º do Regulamento\
+    \ anexo à mesma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2002-234683
+  date: '2002-01-18'
+- type: repealed_by
+  target: pt:dre:541592:por
+  label: "Revogado o presente diploma, alterado pela Port 607/96 de 25-Out, pelo DEC LEI.194/2006.27.09.2006.MADRP, DR.IS\
+    \ [187] de 27.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2006-541592
+  date: '2006-09-27'
 article_structure:
   article_count: 39
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:02Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +161,11 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Outubro de 1991.**
+Assinada em 2 de Outubro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 1137/91, de 5 de Novembro
+Anexo a que se refere o n.º 1.º da Portaria n.º 1137/91, de 5 de Novembro
 
 Regulamento da Produção, Certificação e Comercialização de Materiais de Viveiro Vitícolas
 
@@ -1228,6 +1253,6 @@ As plantas cultivadas em contentores (vasos, cartonagens ou outros) devem aprese
 
 Composição das embalagens ou molhos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/254b00/56395650.pdf))](https://files.diariodarepublica.pt/1s/1991/11/254b00/56395650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/254b00/56395650.pdf)
 
 É autorizado o agrupamento de 10 molhos ou embalagens de 25 bacelos enxertados ou de 5 molhos ou embalagens de 50 bacelos, desde que que os materiais em causa tenham as mesmas características, sejam atados em conjunto, marcados com uma única etiqueta e esta protegida por um selo de modo que a separação dos molhos ou embalagens apenas seja possível à custa da deterioração irreversível do respectivo sistema de fecho (selo).

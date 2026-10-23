@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20600/36133614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/799-1990-556594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d314ec83d6daafee7761085639d78fc2434892481ddf4553174c2d72a8c4cd27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5998ea97c9d21a5ef207429da84e53381fd0a814561fa1a3febbb3d29dc1be80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabeleireiro
+- Calista
+- Carteira Profissional
+- Esteticista
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Manicuro
+- Pedicuro
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada, com produção de efeitos a 30.10.2011, pelo DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:49Z'
   warnings: []
   errors: []
 ---
@@ -139,6 +157,6 @@ b) Das deliberações tomadas nestas matérias será dado conhecimento à entida
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 10 de Agosto de 1990.**
+Assinada em 10 de Agosto de 1990.
 
 Pelo Ministro do Emprego e da Segurança Social, António José de Castro Bagão Félix, Secretário de Estado do Emprego e Formação Profissional.

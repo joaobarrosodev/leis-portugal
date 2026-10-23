@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 180/1980, 1º Suplemento, Série I de 1980-08-06
   number: '180'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2068-(1) a 2068-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18001/00010001.pdf
 entry_into_force_dates: []
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/275-a-1980-626575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2fb6371acf0cf7c6d122def87be86d6a882f1d521d980eab9078beb89db6d94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a741c8af4c2c85b2d1fb72714421c3748804c4d2d4143ebcaf4f7e1451d06f5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
+- Conselho de Administração
+- Exoneração
+- Nomeação
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:378114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378114:por
+  label: "Exonerado Mário Manuel Gomes da Costa Oliveira pela Resolução RES.192/82.12.10.1982.PCM, DR.IS [250] de 28.10.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/192-1982-378114
+  date: '1982-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:24Z'
   warnings: []
   errors: []
 ---

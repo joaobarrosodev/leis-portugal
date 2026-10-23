@@ -4,8 +4,8 @@ id: pt:dre:575744:por
 title: Portaria n.º 548/90
 short_title: null
 summary: Autoriza a Escola Náutica Infante D. Henrique a conferir o grau de bacharel em Pilotagem, em Engenharia de Máquinas
-  Marítimas e em Engenharia de Sistemas Marítimos de Electrónica e Telecomunicações e regulamenta os respectivos cursos 2958
-  Ministério da Saúde
+  Marítimas e em Engenharia de Sistemas Marítimos de Electrónica e Telecomunicações e regulamenta os respectivos cursos                                                                         2958  Ministério
+  da Saúde
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1990-575744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:23:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efec7d69ef199f7f7d979a42cd04ba4ad0f2c47ac207f563a65e6ea75bbd7274
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 180372dd50ea950abb7a689884874752455db71a410a3e45bf7421801f834c2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Engenharia de Sistemas Marítimos de Electrónica e Telecomunicações
+- Curso de Estudos Superiores Especializados em Engenharia de Máquinas Marítimas
+- Curso de Pilotagem
+- Ensino Superior
+- Escola Náutica Infante Dom Henrique
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:429627:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429626:por
+  label: "Derrogada na parte respeitante ao Curso de Pilotagem pela PORT.413-S/98.1998.07.17.MEPAT DR.IS-B [163]5ºSupl de\
+    \ 17.07.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-s-1998-429626
+  date: '1998-07-17'
+- type: amended_by
+  target: pt:dre:429627:por
+  label: "Derrogada na parte respeitante ao Curso de Engenharia de Máquinas pela PORT.413-T/98.1998.07.17.MEPAT DR.IS-B [163]5ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-t-1998-429627
+  date: '1998-07-17'
+- type: cites
+  target: pt:dre:243730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:23:45Z'
   warnings: []
   errors: []
 ---
@@ -170,8 +205,8 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministérios da Educação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 9 de Julho de 1990.**
+Assinada em 9 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16100/29582960.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16100/29582960.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16100/29582960.pdf)

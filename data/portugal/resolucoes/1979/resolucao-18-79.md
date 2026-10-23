@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/18-1979-392053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18ecefa8348cd46f01ec0f85349a8935f6cdf8a9e1a486ddd51b5088f84b93a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6cea6d523fd3f0c51e1c98d23519e0a1cc3bff2b46384a66386d012d0555aa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Comissão Administrativa
+- Empresa
+- Empresa Intervencionada
+- Intervenção do Estado
+- Nomeação
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:382035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382035:por
+  label: "Determinada a cessação da intervenção do Estado na Sointal-Sociedade de Iniciativas Turísticas do Algarve, S.A.R.L.,\
+    \ estabelecida no presente diploma, pela RES.127/79.27.04.1979.PCM, DR.IS [97] de 27.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/127-1979-382035
+  date: '1979-04-27'
+- type: corrected_by
+  target: pt:dre:165033:por
+  label: Rectificada pela DECL.DD7169.13.02.1979.PCM, DR.IS [37]Supl de 13.02.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-165033
+  date: '1979-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:30Z'
   warnings: []
   errors: []
 ---

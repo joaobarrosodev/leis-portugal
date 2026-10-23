@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1990-333570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a1651cc91855e313464f51355f44f56dac6f8bf3fc576e88d5d171afff1c79e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fac3f263885bf4406cc097b968241b259ecae469b3a1289356d6088205da167
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+- Crime
+- Fiscalização Rodoviária
+- Multa
+relationships:
+- type: cites
+  target: pt:dre:620350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625603:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:23:47Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +119,6 @@ c) Em caso de contra-ordenação, as percentagens enunciadas nas alíneas a) e b
 
 Ministérios da Administração Interna e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 28 de Dezembro de 1989.**
+Assinada em 28 de Dezembro de 1989.
 
-**O Ministro da Administração Interna, José António da Silveira Godinho. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro da Administração Interna, José António da Silveira Godinho. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

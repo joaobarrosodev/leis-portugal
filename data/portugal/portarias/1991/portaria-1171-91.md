@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 263/1991, 1º Suplemento, Série I-B de 1991-11-15
   number: '263'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5894-(2) a 5894-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/263b01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1171/1991/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1171-1991-395573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6a789b018721d791cc6f7545e57e04f1540e9b01b3ba4acfd2932e764667a83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2834c11d476205878543487a12c9c4d845b40118dfc7653befc30879adb4b2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prova Geral de Acesso
 - Ensino Superior
+- Prova Geral de Acesso
 relationships:
 - type: amended_by
   target: pt:dre:200018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200018:por
+  label: "Alterados os artigos 3.º e 31.º e o anexo II do Regulamento aprovado no presente diploma, pela PORT.341/92.13.04.1992.ME,\
+    \ DR.IS-B [87] de 13.04.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-1992-200018
+  date: '1992-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:51Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +144,9 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 11 de Novembro de 1991.**
+Assinada em 11 de Novembro de 1991.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão.
 
 Regulamento da Prova Geral de Acesso ao Ensino Superior de 1992
 
@@ -296,7 +322,9 @@ Os órgãos de gestão de cada estabelecimento de ensino onde se realizem provas
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 16.º — Parte aberta e parte fechada
+###### Artigo 16.º
+
+## Parte aberta e parte fechada
 
 A prova é constituída por uma parte fechada, integrada por questões de escolha múltipla, e por uma parte aberta.
 
@@ -410,7 +438,9 @@ As delegações regionais funcionarão em instalações do Gabinete Coordenador 
 
 ### CAPÍTULO III — Reapreciação
 
-#### SECÇÃO I — Artigo 29.º
+#### SECÇÃO I
+
+###### Artigo 29.º
 
 Objecto
 

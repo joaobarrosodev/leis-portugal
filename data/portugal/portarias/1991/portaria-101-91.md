@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/101/1991/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/101-1991-479607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 442f1fd44037cb9d7bea305b98985f82cc819dc3ebf50b19bc3af07cd821973a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e22da9ce1d48751fa6312de956d94a52e8cad0809c36e3e261d342710ee76485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
 subjects:
 - PSP
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:00Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Manda o Governo, pelos Ministros das Finanças e da Administração Interna, o s
 
 1.º É aumentado ao quadro geral de efectivos constante do anexo à [Portaria n.º 761/89](https://diariodarepublica.pt/dr/detalhe/portaria/761-1989-546987), de 2 de Setembro, o seguinte pessoal policial:
 
-##### Divisão Especial do Aeroporto de Lisboa/CD Lisboa:
+Divisão Especial do Aeroporto de Lisboa/CD Lisboa:
 
 Comissário ... 1
 
@@ -116,7 +128,7 @@ Guardas principais ... 25
 
 Guardas (1.ª ou 2.ª classe) ... 26
 
-##### Divisão, tipo A, do Aeroporto de Faro/CD Faro:
+Divisão, tipo A, do Aeroporto de Faro/CD Faro:
 
 Subintendente ... 1
 
@@ -132,7 +144,7 @@ Guardas principais ... 17
 
 Guardas (1.ª ou 2.ª classe) ... 79
 
-#### Secção, tipo A, do Aeroporto do Porto/CD Porto:
+Secção, tipo A, do Aeroporto do Porto/CD Porto:
 
 Comissário ... 1
 
@@ -146,7 +158,7 @@ Guardas principais ... 8
 
 Guardas (1.ª ou 2.ª classe) ... 23
 
-#### Secção, tipo A, do Aeroporto de Santa Catarina/CMD Funchal:
+Secção, tipo A, do Aeroporto de Santa Catarina/CMD Funchal:
 
 Comissário ... 1
 
@@ -216,7 +228,7 @@ Posto tipo B - Aeroportos de Porto Santo e das Lajes;
 
 e aditadas, passando a dispor do efectivo global indicado, as seguintes:
 
-##### Divisão especial - Aeroporto de Lisboa:
+Divisão especial - Aeroporto de Lisboa:
 
 Subintendente ... 1
 
@@ -232,7 +244,7 @@ Guardas principais ... 25
 
 Guardas (1.ª ou 2.ª classe) ... 206
 
-##### Divisão tipo A - Aeroporto de Faro:
+Divisão tipo A - Aeroporto de Faro:
 
 Subintendente ... 1
 
@@ -248,7 +260,7 @@ Guardas principais ... 17
 
 Guardas (1.ª ou 2.ª classe) ... 134
 
-#### Secção tipo A - Aeroporto do Porto:
+Secção tipo A - Aeroporto do Porto:
 
 Comissário ... 1
 
@@ -262,7 +274,7 @@ Guardas principais ... 8
 
 Guardas (1.ª ou 2.ª classe) ... 63
 
-#### Secção tipo A - Aeroporto de Santa Catarina:
+Secção tipo A - Aeroporto de Santa Catarina:
 
 Comissário ... 1
 
@@ -328,6 +340,6 @@ Guardas (1.ª ou 2.ª classe) ... 29
 
 Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 24 de Janeiro de 1991.**
+Assinada em 24 de Janeiro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Manuel Pereira.

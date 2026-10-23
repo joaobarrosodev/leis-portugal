@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251b00/56165617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1133/1991/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1133-1991-321924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fa9259de8af468052d5451148ce3bda425c2bcbbcbe42efe660312e7674df81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62640f0be675155c7bfa506db9176d57f6e582848a9347db7781a84b2ee40cbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Educação Especial
 - Jovem
 - Mensalidade
-- Proteção à Infância
 - Prestações Familiares
+- Proteção à Infância
 - Segurança Social
 - Subsídio de Educação Especial
 relationships:
@@ -79,16 +79,48 @@ relationships:
   target: pt:dre:217574:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868932:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:402557:por
+  label: "Rectificada a al. c) do n.º 4.º e o n.º 1 do n.º 5.º pela DECL-RECT.268/91.31.12.1991.PCM, DR.IS-B [301]5ºSupl de\
+    \ 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/268-1991-402557
+  date: '1991-12-26'
+- type: repealed_by
+  target: pt:dre:217573:por
+  label: "Revogada pela PORT.1022/92.31.10.1992.ME, DR.IS-B [252] de 31.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1022-1992-217573
+  date: '1992-10-31'
+- type: repealed_by
+  target: pt:dre:217574:por
+  label: "Revogada pela PORT.1023/92.31.10.1992.ME, DR.IS-B [252] de 31.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1023-1992-217574
+  date: '1992-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:56Z'
   warnings: []
   errors: []
 ---
@@ -193,6 +225,6 @@ Revogação
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 11 de Outubro de 1991.**
+Assinada em 11 de Outubro de 1991.
 
-**O Secretário de Estado da Reforma Educativa, Pedro José d'Orey da Cunha e Menezes. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Reforma Educativa, Pedro José d'Orey da Cunha e Menezes. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

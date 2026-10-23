@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1052/1991/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 256a43dbb7e35ac830f98483635e815d89b00dd26493a05733c81667d66e9e9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81fc0518b1fe1b75aa43e059603076691cbd062e02897c2a6b84416e428cd7f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
+- Diploma
+- Estágio de Formação
+- Exame
 - Formação Profissional
+- Inscrição Marítima
 - Marinha Mercante
 - Pessoal do MAR
 - Plano de Estudos
-- Diploma
-- Exame
-- Carreira Profissional
-- Inscrição Marítima
-- Estágio de Formação
 - Regulamento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:56Z'
   warnings: []
   errors: []
 ---
@@ -449,6 +469,6 @@ b) ...
 
 Ministérios da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 30 de Setembro de 1991.**
+Assinada em 30 de Setembro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, João Casimiro Marçal Alves, Secretário de Estado das Pescas. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

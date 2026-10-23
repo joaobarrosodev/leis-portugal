@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 176/1979, 3º Suplemento, Série I de 1979-08-01
   number: '176'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1770-(40) a 1770-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17603/00400041.pdf
 entry_into_force_dates: []
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/229-b-1979-396774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f9c3ca85bcfff52d06e64f8aa3c21b0d39de522cbbb781be8d983be995fa29d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fd97b594b8004c2bae192d9f85f63c64077b8649a615e34c532fa8d31b397c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Intervencionada
+- Gestão de Empresas
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:458983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678651:por
+  label: "Prorrogado o prazo fixado no n.º 4 do presente diploma, pela RES.75/80.21.02.1980.PCM, DR.IS [53] de 04.03.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/75-1980-678651
+  date: '1980-02-21'
+- type: amended_by
+  target: pt:dre:458983:por
+  label: "Prorrogado, até 31.12.1980, o prazo fixado no n.º 4 do presente diploma, pela RES.400/80.09.12.1980.PCM, DR.IS [283]\
+    \ de 09.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/400-1980-458983
+  date: '1980-12-09'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:48Z'
   warnings: []
   errors: []
 ---

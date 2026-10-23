@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/24-1980-692991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43d3dc74fee5e2cbad362e4cf9dd48bffbc4b8ed32882a7754c7073c22109c3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed2969ca2385990301d5959aa48e9de9bdf7b4ef51e55dde9410fdcd89789502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Admissão de Pessoal
+- BENS Abandonados a Favor do Estado
+- Comitiva Oficial
+- Contenção de Despesas
+- Deslocação ao Estrangeiro
+- Membros do Governo
+- Primeiro-ministro
+- Veículo Apreendido
+- Veículo do Estado
+- Viagem Oficial
+relationships:
+- type: amended_by
+  target: pt:dre:559027:por
+  label: "Alterados os procedimentos relativos à autorização do Primeiro-Ministro nas deslocações oficiais ao estrangeiro,\
+    \ pela RES.17/97.16.01.1997.PCM, DR.IS-B [32] de 07.02.1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/17-1997-559027
+  date: '1997-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:29Z'
   warnings: []
   errors: []
 ---

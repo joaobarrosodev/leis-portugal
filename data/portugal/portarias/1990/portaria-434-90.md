@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13500/25372537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/434-1990-574970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a525928b1917483791cdf16387a12566382cb55b83ee6e8b9ca363046ed5ede0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b65f82f4948191fbda7add57ef87a4806bf78dedfa299aad5d85ccca86fde72d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Lamego
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:583391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:373390:por
+  label: "Alterados os nºs 2º, 3º, 4º e 6º e revogado o nº 7º pela PORT.483/99.1999.07.03.MADRP,DR.IS-B [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-1999-373390
+  date: '1999-07-03'
+- type: amended_by
+  target: pt:dre:583389:por
+  label: "Extinta a concessão de caça social das Antas criada pelo presente diploma, na redacção dada pela Port 483/99, de\
+    \ 03-Jul DR.IS-B [153], pela PORT.1237/2001.2001.10.26.MADRP DR.IS-B [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1237-2001-583389
+  date: '2001-10-26'
+- type: amended_by
+  target: pt:dre:583391:por
+  label: "Extinta a concessão de caça social das Antas criada pelo presente diploma, na redacção dada pela Port 483/99, de\
+    \ 03-Jul, pela PORT.1239/2001.2001.10.26.MADRP DR.IS-B [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1239-2001-583391
+  date: '2001-10-26'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:20:57Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +146,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 22 de Maio de 1990.**
+Assinada em 22 de Maio de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13500/25372537.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13500/25372537.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13500/25372537.pdf)

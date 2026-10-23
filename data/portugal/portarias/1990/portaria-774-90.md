@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/774-1990-556807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2aee824f4675cc6f8822f49bebe2fbdb4549ee7c4db4cf840b4054fa5bdb7d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31dce5ba0fa383728fa243eb3ad98910af0ed1d7d0de2898c2f8974d9903f622
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alcácer do SAL
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:449929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145823:por
+  label: "Suspenso o exercíco da caça, pela PORT.615/2002.2002.06.07.MADRP, DR.IS-B [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/615-2002-145823
+  date: '2002-06-07'
+- type: amended_by
+  target: pt:dre:196929:por
+  label: "Renovada por seis anos a concessão da zona de caça pela PORT.912/2002.2002.07.30.MADRP DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-2002-196929
+  date: '2002-07-30'
+- type: amended_by
+  target: pt:dre:449929:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pelo presente diploma, renovada pela Port 912/2002\
+    \ de 30-Jul, pela PORT.488/2008.23.06.2008.MADRP, DR.IS [119] de 23.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/488-2008-449929
+  date: '2008-06-23'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:14Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +148,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 9 de Agosto de 1990.**
+Assinada em 9 de Agosto de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/20100/35373538.pdf))](https://files.diariodarepublica.pt/1s/1990/08/20100/35373538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/20100/35373538.pdf)

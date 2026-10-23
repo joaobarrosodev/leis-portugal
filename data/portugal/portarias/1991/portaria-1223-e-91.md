@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1991, 3º Suplemento, Série I-B de 1991-12-30
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6772-(12) a 6772-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/300b03/00120013.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1223-e/1991/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-e-1991-525872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8a90da1f0f3b43f8c440f91070c8b7350aad3fefab58e540e7658bd88348a0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49788f1f508e0f2745617f50815d683086baa4b854f371916158e4d6239f443c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,128 @@ relationships:
   target: pt:dre:2493673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 64/92, PUBLICADO NO DR.IS-B, 109, DE 920512.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECÇÃO GERAL DO TESOURO, PELO DESPACHO NORMATIVO 223/92,
+    PUBLICADO NO DR.IS-B, 280, DE 921204, NA PARTE REFERENTE AO PESSOAL TÉCNICO SUPERIOR.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-12-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 57/93, PUBLICADO NO DR.IS-B, 99, DE 930428.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 69/93, PUBLICADO NO DR.IS-B, 104, DE 930505.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECÇÃO GERAL DO TESOURO PELO DESPACHO NORMATIVO 242/93, DE
+    2 DE AGOSTO, PUBLICADO NO DR.IS-B, 209, DE 930906.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 300/93, DE 8 DE SETEMBRO, PUBLICADO NO DR.IS-B, 233, DE 931004.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 371/93, DE 26 DE OUTUBRO, PUBLICADO NO DR.IS-B, 278, DE 931127.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-11-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECÇÃO GERAL DO TESOURO PELO DESPACHO NORMATIVO 376/93, DE
+    26 DE OUTUBRO, PUBLICADO NO DR.IS-B, 280, DE 931130.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECÇÃO GERAL DO TESOURO PELO DESPACHO NORMATIVO 455/93, DE
+    2 DE DEZEMBRO, PUBLICADO NO DR.IS-B, 296, DE 931221.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECÇÃO GERAL DO TESOURO PELO DESPACHO NORMATIVO 191/94, DE
+    8 DE MARCO, PUBLICADO NO DR.IS-B, 71, DE 940325.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 199/94, DE 3 DE MARCO, PUBLICADO NO DR.IS-B, 76, DE 940331.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECÇÃO GERAL DO TESOURO PELO DESPACHO NORMATIVO 352/94, DE
+    12 DE ABRIL, PUBLICADO NO DR.IS-B, 115, DE 940518.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DO TESOURO PELO DESPACHO NORMATIVO 450/94, DE 11 DE MAIO, PUBLICADO
+    NO DR.IS-B, 140, DE 940620.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DOS SERVIÇOS CENTRAIS DA DIRECCAO-GERAL DO TESOURO, PELO DESPACHO NORMATIVO 708/94,
+    DE 21 DE SETEMBRO, PUBLICADO NO DR.IS-B, 234, DE 941010.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-10'
+- type: amended_by
+  target: pt:dre:267028:por
+  label: "Criado um lugar no quadro de pessoal aprovado pelo presente diploma, pela PORT.935-A/99.1999.10.20.PCM, DR.IS-B\
+    \ [245]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-a-1999-267028
+  date: '1999-10-20'
+- type: amended_by
+  target: pt:dre:3169190:por
+  label: "Alterado o quadro de pessoal da DGT por PORT.223/2001(2ªSÉRIE).2001.01.26.MF, DR.IIS [37] de 13/Fev/2001.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2001-3169190
+  date: '2001-02-13'
+- type: amended_by
+  target: pt:dre:2869316:por
+  label: "Aletada por PORT.984/2002(2ªSÉRIE).2002.06.12.SETF-MF, DR.IIS [149] de 1/Jul/2002.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-2002-2869316
+  date: '2002-07-01'
+- type: amended_by
+  target: pt:dre:2493673:por
+  label: "Alterado o quadro de pessoal pela PORT.1800/2002(2ªSÉRIE).2002.11.12.SETF-MF e SEAP-MF, DR.IIS [282] de 6/Dez/2002.\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1800-2002-2493673
+  date: '2002-12-06'
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:07Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +212,10 @@ Manda o Governo, pela Secretária de Estado Adjunta e do Orçamento e pelo Secre
 
 Ministério das Finanças.
 
-**Assinada em 30 de Dezembro de 1991.**
+Assinada em 30 de Dezembro de 1991.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.
 
 Quadro de pessoal da Direcção-Geral do Tesouro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/300b03/00120013.pdf))](https://files.diariodarepublica.pt/1s/1991/12/300b03/00120013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/300b03/00120013.pdf)

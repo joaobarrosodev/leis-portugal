@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/753-1990-574282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 887f90ff480c9d5177ae6c93b232d1f853bdcbe7a57630260712b4cc52e0bb97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 889f72351a78ed693a53c7a967e48337861f6ea1fa7afc81d0acefe520dc632f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benavente
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:604796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563976:por
+  label: "Renovada por um período de 12 anos a concessão feita pelo presente diploma, pela Port.91/97.1997.02.05.MADRP DR.IS-B\
+    \ [30]H\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/91-1997-563976
+  date: '1997-02-05'
+- type: amended_by
+  target: pt:dre:604796:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa, concessionada pelo presente diploma,\
+    \ renovada pela Port 91/97 de 05-Fev, pela PORT.236/2009.05.03.2009.MAOTDR, DR.IS [45] de 05.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2009-604796
+  date: '2009-03-05'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:29:39Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +144,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Agosto de 1990.**
+Assinada em 1 de Agosto de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19800/34893490.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19800/34893490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19800/34893490.pdf)

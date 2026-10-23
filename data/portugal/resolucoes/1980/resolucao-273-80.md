@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/273-1980-470244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30077649b51ee53b6328b99138fe00acf7e8c741078fb359e8a270b23e7ca2aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8984bc8beda4679bee39317198b9d9a14a0554fee79eb02fe9e002ee7c4eecf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Caixa Geral de Depósitos
+- Financiamento
+- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:394551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394551:por
+  label: "Prorrogado até 31.05.1981, ou até à data de celebração do contrato de viabilização os prazos previstos nas alíneas\
+    \ b) e e) do n.º 3 e nº. 5 pela RES.81/81.09.04.1981.PCM, DR.IS [92] de 21.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/81-1981-394551
+  date: '1981-04-09'
+- type: cites
+  target: pt:dre:366650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:19Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +120,7 @@ O Conselho de Ministros, reunido em 23 de Julho de 1980, resolveu:
 
 1 - Conceder o aval do Estado às operações de financiamento a outorgar pela Caixa Geral de Depósitos às empresas adiante mencionadas e até aos montantes indicados para conclusão dos projectos que seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17600/19471948.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17600/19471948.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17600/19471948.pdf)
 
 2 - No caso de no decurso do prazo dos financiamentos concedidos pela Caixa Geral de Depósitos os respectivos beneficiários celebrarem contrato de viabilização, tais financiamentos deverão ser contemplados nos referidos contratos, devendo o aval do Estado ser substituído, total ou parcialmente, por garantias reais havidas por suficientes. De igual modo, e na eventualidade de alguma das referidas empresas não celebrar contrato de viabilização, o aval do Estado caducará ou será reduzido logo que sejam constituídas, a favor da Caixa Geral de Depósitos, garantias reais ou outras consideradas suficientes.
 

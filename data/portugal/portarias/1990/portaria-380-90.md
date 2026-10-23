@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11400/22662272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-1990-571442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5512be569e534178e22f4ca9d55b45fba394e4c18bfbf71be379c4c89779480a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f483b87fb015ba1ea2af41c4cc23b4fbc3812574b440db4f1af383da4064deef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne
+- Carne de Caprino
+- Carne de Cavalo
+- Carne de Ovino
+- Carne de Suíno
+- Carne de Vaca
+- Certificado de Origem
+- Certificado de Qualidade
+- Circulação de Mercadorias
+- Controlo Sanitário
+- Doença Animal
+- Doença de Declaração Obrigatória
+- Gado Bovino
+- Gado Caprino
+- Gado Equino
+- Gado Ovino
+- Gado Suíno
+- Importação
+- Países Terceiros
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:144012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:144012:por
+  label: "Revogada, a partir de 27.01.1992, pelo DEC LEI.6/92.22.01.1992.MA, DR.IS-A [18] de 22.01.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1992-144012
+  date: '1992-01-22'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:41Z'
   warnings: []
   errors: []
 ---
@@ -415,9 +440,9 @@ c) A legislação nacional do país terceiro, relativamente à administração a
 
 Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 23 de Abril de 1990.**
+Assinada em 23 de Abril de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.
 
 ## ANEXO A — Certificado de salubridade
 
@@ -523,7 +548,7 @@ O Veterinário Oficial,
 
 Lista dos países terceiros a partir dos quais é autorizada a importação, para o território da República Portuguesa, de animais e de carnes frescas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11400/22662272.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11400/22662272.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11400/22662272.pdf)
 
 ## ANEXO D — Lista das doenças de declaração obrigatória
 

@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/862-1990-557605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 275ec61fdd18617bddb151e7b30461df53e27e9f842ebad36eb026e9d0454dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3f9fed5eb252e66184ecdc80fbfa7d089f0b99b409f5446d5fe267a92d8c3c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bragança
+- Curso de Informática de Gestão
+- Ensino Superior Politécnico
+- Escola Superior Agrária
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:621159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:575743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621159:por
+  label: "Revogados os quadros anexos pela PORT.972/94.29.10.1994.ME, DR.IS-B [251] de 29.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/972-1994-621159
+  date: '1994-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:32:20Z'
   warnings: []
   errors: []
 ---
@@ -123,8 +138,8 @@ Classificação final
 
 Ministério da Educação.
 
-**Assinada em 31 de Julho de 1990.**
+Assinada em 31 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21700/38603861.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21700/38603861.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21700/38603861.pdf)

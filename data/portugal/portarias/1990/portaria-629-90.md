@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18100/32143215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/629-1990-573554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef45f116933f8672f631451fa152eeaa17f7aed59e83097d3112b241cb1da2f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ed57aee99e19b14de2fff89629c2ccc5e9fea5ee36329742e33521f2571d1cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:402541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402541:por
+  label: "Alterado o nº 2º pela PORT.57/2000.2000.02.11.MADRP,DR.IS-B [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2000-402541
+  date: '2000-02-11'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224404:por
+  label: "Revogada pela PORT.327/95.1995.04.18.MA DR.IS-B [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-1995-224404
+  date: '1995-04-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:38Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 17 de Julho de 1990.**
+Assinada em 17 de Julho de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18100/32143215.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18100/32143215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18100/32143215.pdf)

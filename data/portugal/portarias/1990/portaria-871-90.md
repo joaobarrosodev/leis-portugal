@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/871-1990-557471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:32:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67bc36a95a0deec37abaed04e930b671672e732fac4184bbebca281f4eb04924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b85aed1a544addf11eb4ad27cf992cc1c4f672d676f3ec064a8e2fcd1b4fb749
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:32:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Golegã
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:626824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157265:por
+  label: "Renovada, por seis anos, a concessão da zona de caça associativa, mantendo integralmente os direitos e obrigações\
+    \ decorrentes da lei e constantes do presente diploma, com excepção do disposto no n.º 8.º, pela PORT.254-CR/96.1996.07.15.MADRP\
+    \ DR.IS-B [162]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-cr-1996-157265
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:145813:por
+  label: "Suspenso o exercício da caça e de outra actividade venatória pela PORT.612/2002.2002.06.07.MADRP DR.IS-B [131]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-2002-145813
+  date: '2002-06-07'
+- type: amended_by
+  target: pt:dre:626824:por
+  label: "Renovada, por um período de nove anos, a concessão da zona de caça associativa atribuida pelo presente diploma,\
+    \ renovada pela Port 245-CR/96, de 15-Jul, pela PORT.1230/2002.2002.09.04.MADRP DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1230-2002-626824
+  date: '2002-09-04'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:32:34Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Agosto de 1990.**
+Assinada em 27 de Agosto de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21800/38783879.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21800/38783879.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21800/38783879.pdf)

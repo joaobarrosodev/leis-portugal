@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/963-1990-555639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0521e43a2b5e9f8516a8e9f426969dc50af92b5f28f97ed829e837affa756d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebf413e1f23b335cfeee621f4f277a37812aa4bc39a7f9550ae5883a57d5bee8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aparelho de Medição
+- Equipamento de Veículo
+- Especificação Técnica
+- Metrologia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:224203161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:224203161:por
+  label: Revogado, a partir de 15.11.2023, o presente diploma, pelo(a) Portaria n.º 358/2023 - Diário da República n.º 220/2023,
+    Série I de 2023-11-14 nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2023-224203161
+  date: '2023-11-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:55Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +109,13 @@ Ao abrigo do disposto no artigo 15.º do Decreto-Lei n.º 291/90, de 20 de Setem
 
 Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Controlo Metrológico de Manómetros para Pneumáticos de Veículos Automóveis, anexo à presente portaria e que dela faz parte integrante.
+Artigo único. É aprovado o Regulamento do Controlo Metrológico de Manómetros para Pneumáticos de Veículos Automóveis, anexo à presente portaria e que dela faz parte integrante.
 
 Ministério da Indústria e Energia.
 
-**Assinada em 24 de Setembro de 1990.**
+Assinada em 24 de Setembro de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 Regulamento do Controlo Metrológico de Manómetros para Pneumáticos de Veículos Automóveis
 
@@ -142,7 +153,7 @@ Verificação extraordinária.
 
 Quadro I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf)
 
 6.4 - No ano em que se realizar, a primeira verificação dispensa de verificação periódica.
 
@@ -156,7 +167,7 @@ Quadro I
 
 Quadro II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23300/41854186.pdf)
 
 7.3 - Os erros serão determinados, pelo menos, em três pontos uniformemente distribuídos na escala do manómetro.
 

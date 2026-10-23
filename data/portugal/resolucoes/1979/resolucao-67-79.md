@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/67-1979-383798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a00e933186b9f2ed511b5aa7d6873348830d817534d98d39d4ea11c681a03f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eae1a4e6a1f9f593af791b5f05fe440ca4a9a09ae04c6f48dd9d70260da393b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Grupo Praínha
+- Infraestrutura Turística
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:391593:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369987:por
+  label: "Prorrogado o prazo previsto no nº 4 pela RES.276/79.1979.08.22.PCM, DR.IS [213] de 14/Set/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/276-1979-369987
+  date: '1979-08-22'
+- type: amended_by
+  target: pt:dre:366652:por
+  label: "Prorrogado o prazo referido no nº 4 pela RES.339/79.1979.11.09.PCM;, DR.IS [281] de 06/Dez/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/339-1979-366652
+  date: '1979-11-09'
+- type: amended_by
+  target: pt:dre:678673:por
+  label: "Prorrogado o prazo referido no n.º 4 do presente diploma, pela RES.78/80.21.02.1980.PCM, DR.IS [54] de 05.03.1980\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/78-1980-678673
+  date: '1980-02-21'
+- type: amended_by
+  target: pt:dre:473908:por
+  label: "Prorrogados os prazos previstos nos n.os 8 e 12 pela RES.167/80.02.05.1980.PCM, DR.IS [111] de 14.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/167-1980-473908
+  date: '1980-05-02'
+- type: amended_by
+  target: pt:dre:471730:por
+  label: "Prorrogados os prazos previstos nos n.ºs 8 e 12 da pela RES.231/80.05.07.1980.PCM, DR.IS [153] de 05.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/231-1980-471730
+  date: '1980-07-05'
+- type: amended_by
+  target: pt:dre:391593:por
+  label: "Prorrogados os prazos previstos nos n.os 8 e 12 pela RES.16/81.27.01.1981.PCM, DR.IS [30] de 05.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/16-1981-391593
+  date: '1981-01-27'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:25:53Z'
   warnings: []
   errors: []
 ---

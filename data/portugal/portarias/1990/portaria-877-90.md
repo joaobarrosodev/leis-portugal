@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-1990-557575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb221e16d4005c0b2ef65f16507b31d45ebdf2921d365cbc9ac2c4c3f6bfa407
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 320183eaf47772bfbf78d5f2a1f7ab3ca06f1aab981a4b7c840d929e3279e7c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bacharelato
+- Curso de Enfermagem
+- Escola Superior de Enfermagem
+- Faro
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:331987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:32:40Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +113,8 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, que o quadro n.º 4 
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 31 de Julho de 1990.**
+Assinada em 31 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21800/38863886.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21800/38863886.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21800/38863886.pdf)

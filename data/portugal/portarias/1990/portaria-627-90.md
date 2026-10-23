@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/627-1990-573553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e5bd9a8d78ab2a60537ac259bc0563c9f5885e052c25015dcdc0d781611a311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14a110be3c9a1e32f42af790a979e0167e641f81e437de8750db621c16ca4f3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Distrital
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Portimão
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:233295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:33Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +154,10 @@ O quadro de pessoal do Hospital Distrital de Portimão, aprovado pela [Portaria 
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 22 de Junho de 1990.**
+Assinada em 22 de Junho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Portimão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18100/32123213.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18100/32123213.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18100/32123213.pdf)

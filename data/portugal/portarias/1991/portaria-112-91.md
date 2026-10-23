@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/112/1991/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-1991-479581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 119e34e78d4caa89bf4104d24fc441a7a3f2302771ba7d73acaebd9780c9e233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff513e104ad183f80609d7b8d2f1badc4e0d8cc5c06f8bcd5defc2694af644b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
 subjects:
 - Emolumento
 - Registo Nacional de Pessoas Coletivas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:36Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +102,13 @@ Manda o Governo, pelo Ministro da Justiça, nos termos do n.º 1 do artigo 73.º
 
 1.º São alterados pela forma seguinte os artigos 1.º, 2.º e 5.º da Tabela de Emolumentos do Registo Nacional de Pessoas Colectivas:
 
-###### Artigo 1.º Por cada reserva de firma ou denominação: 2500$00.
+Artigo 1.º Por cada reserva de firma ou denominação: 2500$00.
 
-###### Art. 2.º - 1 - Por emissão, renovação ou 2.ª via de certificado de admissibilidade de firma ou denominação: 5000$00.
+Art. 2.º - 1 - Por emissão, renovação ou 2.ª via de certificado de admissibilidade de firma ou denominação: 5000$00.
 
 2 - ...
 
-###### Art. 5.º Por cada cartão provisório e por cada actualização, correcção ou 2.ª via de cartão, provisório ou definitivo: 1500$00.
+Art. 5.º Por cada cartão provisório e por cada actualização, correcção ou 2.ª via de cartão, provisório ou definitivo: 1500$00.
 
 ...
 
@@ -104,6 +116,6 @@ Manda o Governo, pelo Ministro da Justiça, nos termos do n.º 1 do artigo 73.º
 
 Ministério da Justiça.
 
-**Assinada em 11 de Janeiro de 1991.**
+Assinada em 11 de Janeiro de 1991.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

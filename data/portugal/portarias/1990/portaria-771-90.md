@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-1990-556804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbe57b7ae5adbbd6de5bc7d1da1a5c3f9d786a9232579d3eeeff9f5bec28c19c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f011eedfe2ece2beacc8c485ccba67c4a42a48aaed257f980635f44691a98187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Hospitalar do Vale do Sousa
+- Estabelecimento Hospitalar
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- VALE do Sousa
 relationships:
 - type: amended_by
   target: pt:dre:618570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DO VALE DO SOUSA (COM NOVA DESIGNAÇÃO HOSPITAL DE PADRE AMERICO),\
+    \ PELA PORTARIA 918/94, DE 14 DE OUTUBRO, PUBLICADA NO DR.IS-B, 238.\0R.IS-B, 238."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-14'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:09Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +119,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 25 de Julho de 1990.**
+Assinada em 25 de Julho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Centro Hospitalar do Vale do Sousa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/20100/35353535.pdf))](https://files.diariodarepublica.pt/1s/1990/08/20100/35353535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/20100/35353535.pdf)

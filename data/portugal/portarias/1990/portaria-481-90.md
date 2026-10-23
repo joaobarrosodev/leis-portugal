@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14700/27292731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/481-1990-575372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 775f435a0cd56e58f45cd9f50cc80ec8b16cc55d88f00da59cae3a00399b2f75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaf8aac7290df97a0b037f686509932118adf43b30808591436d75715f8dc6ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Fiscalização
+- Licenciamento
+- Operador Portuário
+- Portos
+- Qualificação Profissional
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:356105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616256:por
+  label: Prorrogado por um ano o prazo previsto no n.º 20.º pelo(a) Portaria n.º 328/91 - Diário da República n.º 83/1991,
+    Série I-B de 1991-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-1991-616256
+  date: '1991-04-10'
+- type: cites
+  target: pt:dre:571408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:356105:por
+  label: Revogada, a partir de 01.11.1993, pelo(a) Decreto-Lei n.º 280/93 - Diário da República n.º 189/1993, Série I-A de
+    1993-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1993-356105
+  date: '1993-08-13'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:06Z'
   warnings: []
   errors: []
 ---
@@ -232,6 +255,6 @@ b) A necessidade de garantir, directa ou indirectamente, a existência de balne�
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 12 de Junho de 1990.**
+Assinada em 12 de Junho de 1990.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.

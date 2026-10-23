@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/999-1990-556036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 838c41b1f7d67c0bf2be0e179a77a69db4d0c57a93a74b12798f4ef82b391015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75ce0f9b24a2ede1497c03d8dd56747f7cec5a6eb7260ec2335acf1001ea816b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benavente
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:167073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542256:por
+  label: "Anexado um prédio rústico pela PORT.254/99.1999.04.09.MADRP, DR.IS-B [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-1999-542256
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:152118:por
+  label: "Suspensa a actividade cinegética na zona de caça associativa pela PORT.566/2002.2002.06.04.MADRP, DR.IS-B [128]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/566-2002-152118
+  date: '2002-06-04'
+- type: amended_by
+  target: pt:dre:167073:por
+  label: "Renovada por um período de 6 anos a concessão da zona de caça atribuída pelo presente diploma, e alterada pela Port\
+    \ 254/99, de 09-Abr, pela PORT.113/2003.2003.01.29.MADRP DR.IS-B [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2003-167073
+  date: '2003-01-29'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:35:45Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +149,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23500/42234224.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23500/42234224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23500/42234224.pdf)

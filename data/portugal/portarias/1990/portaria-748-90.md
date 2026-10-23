@@ -48,40 +48,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/748-1990-574288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c62705eb20f368d7f5775cfe894339a9d53399e11ce96f39a8f35ac5a227574f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 086bcf4272d397ff361cbe9e706cdf4a3a48b37daf4586e88851b1bf91bcbca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Castelo de VIDE
+- Portalegre
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:262359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288177:por
+  label: "Suspensa a actividade cinegética da zona de caça associativa (concedida pelo presente diploma), pela PORT.338/2000.2000.06.12.MADRP,\
+    \ DR.IS-B [135]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/338-2000-288177
+  date: '2000-06-12'
+- type: amended_by
+  target: pt:dre:553412:por
+  label: "Renovada, por um período de 12 anos, a concessão da presente zona de caça pela PORT.915/2000.2000.09.30.MADRP,DR.IS-B\
+    \ [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/915-2000-553412
+  date: '2000-09-30'
+- type: amended_by
+  target: pt:dre:626833:por
+  label: "Anexados vários prédios rústicos pela PORT.1222/2002.2002.09.04.MADRP DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1222-2002-626833
+  date: '2002-09-04'
+- type: amended_by
+  target: pt:dre:262359:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída no presente diploma, renovada pela Port 915/2000 de 30-Set\
+    \ e alterada pela Port 1222/2002 de 04-Set, pela PORT.84/2007.12.01.2007.MAOTDR, DR.IS [9] de 12.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-2007-262359
+  date: '2007-01-12'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:29:34Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +157,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Agosto de 1990.**
+Assinada em 1 de Agosto de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19800/34863486.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19800/34863486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19800/34863486.pdf)

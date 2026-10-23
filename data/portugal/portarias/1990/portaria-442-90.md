@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-1990-575082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4da76df1eb895b0ec32669cf10e6c228d73f8c40e6d415491c35151859e5229c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85e05b1f2691c679a7e4a279b054260d86adb1a7ab295a114d29c0b8fd81c2d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral de Geologia e Minas
+- Licenciamento
+- Pedreiras
+- Recursos Naturais
+- Terras e Pedras
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:09Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +104,7 @@ Em conformidade, manda o Governo, pelo Ministro da Indústria e Energia, nos ter
 
 1.º Que seja, ressalvados os direitos adquiridos, declarada cativa para efeitos de exploração de margas e calcários margosos a área inscrita na poligonal definida pelos vértices 1 a 32, cujas coordenadas no sistema Hayford-Gauss referidas ao ponto central constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13600/25452546.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13600/25452546.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13600/25452546.pdf)
 
 Fica desde já estabelecido que, logo que seja aprovado o traçado definitivo da Circular Regional Externa de Lisboa (CREL), entre Loures e o nó de Alverca do Ribatejo da Auto-Estrada A-1, a poligonal compreendida entre os pontos 11 a 14 será substituída por aquele traçado, salvaguardando as distâncias de protecção àquela Circular.
 
@@ -110,6 +120,6 @@ d) Os trabalhos de exploração deverão ser dirigidos por técnico diplomado, e
 
 Ministério da Indústria e Energia.
 
-**Assinada em 25 de Maio de 1990.**
+Assinada em 25 de Maio de 1990.
 
 Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia.

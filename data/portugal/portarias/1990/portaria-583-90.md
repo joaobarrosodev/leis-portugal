@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17000/30743078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-1990-573119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cb1749bb7f8828a959064cf865deffa06a338ef610d3275a4a5a015825591b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60c9160167f8ce6ad02cdd95ce2addd27cb41908433f673f3bcc35d97e62467e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ordenamento do Território
+- Parque Natural da Serra da Estrela
+- Política de Solos
+- Proteção do Ambiente
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:489984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:694208:por
+  label: "Mantida em vigor pelo DR.50/97.1997.11.20.MAM, DR.IS-B [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-1997-694208
+  date: '1997-11-20'
+- type: cites
+  target: pt:dre:377905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546231:por
+  label: Retificados o n.º 3 do art. 6.º e o n.º 3 do art. 24.º pelo(a) Declaração - Diário da República n.º 201/1990, 3º
+    Suplemento, Série I de 1990-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-546231
+  date: '1990-08-31'
+- type: repealed_by
+  target: pt:dre:489984:por
+  label: "Revogado o presente diploma, com a entrada em vigor do POPNSE, nos termos do n.º 6 do art. 23.º do Dec Lei 142/2008,\
+    \ de 24-Jul, rectificado pela Decl DD3230, de 31-Ago 1990 e mantido em vigor pelo DR 50/97, de 20-Nov, pela RES.83/2009.09.09.2009.PCM,\
+    \ DR.IS [175] de 09.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/83-2009-489984
+  date: '2009-09-09'
 article_structure:
   article_count: 39
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:24:22Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +151,7 @@ Manda o Governo, pelos Ministros das Finanças e do Ambiente e Recursos Naturais
 
 Ministérios das Finanças e do Ambiente e Recursos Naturais.
 
-**Assinada em 11 de Julho de 1990.**
+Assinada em 11 de Julho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
@@ -552,4 +599,4 @@ O presente Regulamento pode ser complementado por regulamentos específicos quan
 
 Com a aprovação do presente Regulamento e plano de ordenamento fica revogada a [Portaria n.º 409/79](https://diariodarepublica.pt/dr/detalhe/portaria/409-1979-377905), de 8 de Agosto, e o plano de ordenamento preliminar correspondente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/17000/30743078.pdf))](https://files.diariodarepublica.pt/1s/1990/07/17000/30743078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/17000/30743078.pdf)

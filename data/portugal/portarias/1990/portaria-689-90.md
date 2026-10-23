@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-1990-574120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecb324cf11804e18814918f0442de2d98683b370f6e294a0095487e3dde093e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1945bce555b6219d8f0755c93e95c383b2f74074727718c7c5d30082f986d626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Técnico de Cerâmica
+- Curso Técnico de Gestão
+- Curso Técnico de Informática Fundamental
+- Ensino Profissional
+- Escola Tecnológica Artística e Profissional
+- Formação Profissional
+- Plano de Estudos
+- Portalegre
 relationships:
 - type: amended_by
   target: pt:dre:147658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192598:por
+  label: "Alterado o plano de estudos do curso de técnico de cerâmica/olaria, pela PORT.301/92.03.04.1992.ME, DR.IS-B [79]de\
+    \ 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/301-1992-192598
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:147658:por
+  label: "Extinto o curso profissional de Técnico de Gestão, criado pelo presente diploma e revogado parcialmente na parte\
+    \ referente ao citado curso, pela PORT.899/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no\
+    \ n.º 9.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2005-147658
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147660:por
+  label: "Extinto o curso profissional de Técnico de Informática/Fundamental, criado pelo presente diploma e revogado parcialmente\
+    \ na parte referente ao citado curso, pela PORT.897/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/897-2005-147660
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:04Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +142,8 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 6 de Agosto de 1990.**
+Assinada em 6 de Agosto de 1990.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19000/33653366.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19000/33653366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19000/33653366.pdf)

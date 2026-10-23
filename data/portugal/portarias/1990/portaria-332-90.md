@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10000/20882091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-1990-571212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35b475d3c8db5b8cea68979533bd8376678233f3d3d0835767fa9ace23784ebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2929aeb60d319681f58bf724e9ead6ffc57a4c54902fd2e41c58094e7755ff25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeronave com Motor
+- Aeronave de Voo Livre
+- Aviação Civil
+- Desporto
+- Formação Profissional
+- Licença de Pilotagem
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:509611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332403:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528577:por
+  label: Rectificada pela DECL.DD3433.1990.06.15.PCM, DR.IS [149]Supl de 30.06.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528577
+  date: '1990-06-15'
+- type: repealed_by
+  target: pt:dre:509611:por
+  label: "Revogada pela PORT.45/94.14.01.1994.MOPTC, DR.IS-B [[11]] de 14.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1994-509611
+  date: '1994-01-14'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:29Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +123,13 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes Comunicações, 
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 11 de Abril de 1990.**
+Assinada em 11 de Abril de 1990.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 REGULAMENTO DAS AERONAVES ULTRALEVES DE DESPORTO E RECREIO
 
-# PARTE I — Tipos e requisitos técnicos das aeronaves
+## PARTE I — Tipos e requisitos técnicos das aeronaves
 
 Versões autorizadas
 
@@ -208,7 +229,7 @@ e) A montagem e desmontagem da estrutura e seus componentes deverão obedecer a 
 
 f) A construção deverá assegurar os meios e condições apropriados para fácil inspecção da estrutura primária de resistência e dos seus sistemas bem como para cuidada observação, reparação e substituição de qualquer componente que exija manutenção, ajustamento, correcção, lubrificação e limpeza periódicos.
 
-# PARTE II — Certificado de voo
+## PARTE II — Certificado de voo
 
 Natureza e emissão do certificado
 
@@ -240,7 +261,7 @@ d) Declaração do proprietário antecedente, nos casos de aeronave já usada, a
 
 13.º Na falta ou em caso de não aceitação, total ou parcial, da documentação referida nas alíneas c) e d) do número anterior, deverá ser feita a demonstração experimental prevista na alínea a) do n.º 10.º, nos termos do disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 71/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1990-332403), de 2 de Março.
 
-# PARTE III — Licença de pilotagem
+## PARTE III — Licença de pilotagem
 
 Emissão da licença
 
@@ -296,7 +317,7 @@ Exames e verificações de voo
 
 23.º Os exames e verificações de pilotos de ultraleves são da competência da DGAC, a qual poderá delegar essa competência em instrutores de ultraleves, que, tendo demonstrado proficiência e idoneidade, expressamente designará e credenciará.
 
-# PARTE IV — Normas operacionais
+## PARTE IV — Normas operacionais
 
 Condição geral de utilização
 

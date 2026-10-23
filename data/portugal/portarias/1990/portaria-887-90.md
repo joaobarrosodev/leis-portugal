@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/887-1990-557444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:32:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41a83923780926848eac963bf9eed94b4ffb7132c3c0b4e001e694154a0885f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 998a81bafd784371073438d85750fdf0dcf19cd5cd2b33ff047f310786c8c90f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:32:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Portalegre
+- Proteção do Ambiente
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:444254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376260:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:444254:por
+  label: "Publicado o mapa pela DECL-RECT.17/91.31.01.1991.PCM, DR.IS-B [26]Supl de 31.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-1991-444254
+  date: '1991-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:32:55Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +126,6 @@ A sul, sudoeste e oeste, estrada que vai de Porto Espada a São Salvador de Aram
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 7 de Setembro de 1990.**
+Assinada em 7 de Setembro de 1990.
 
-**O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.

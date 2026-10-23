@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1149/1991/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1149-1991-331576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 694d416f69afdbfe02ba7e6eb2b050932eb6c496e9208a2aac8cd877d725bfc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4912bfc2d478477e4b971527e6f8b20efa73c6229077a7813ea25e33dc6becca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:287457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:21Z'
   warnings: []
   errors: []
 ---
@@ -100,8 +108,8 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Outubro de 1991.**
+Assinada em 14 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/256b00/57045704.pdf))](https://files.diariodarepublica.pt/1s/1991/11/256b00/57045704.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/256b00/57045704.pdf)

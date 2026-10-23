@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/309-1979-364108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3439b1b84d9cd5f3b86c01957741a590dbfe1fb751177dcbbc3614c8d786d3c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8c5cbc20c58e85784296a8d8a8128cc5aa145926cb5df11da787cf8e69aa3cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Contrato de Viabilização
+- Empresa Privada
+- Estatuto
+- Exoneração
+- Gestor Público
+- Intervenção do Estado
+- Nomeação
+- Representante do Estado
 relationships:
 - type: amended_by
   target: pt:dre:471295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:471295:por
+  label: "Exonerado o Dr. José António Garcia Braga da Cruz nomeado pelo n.º 7 do presente diploma, pela RES.249/80.14.07.1980.PCM,\
+    \ DR.IS [160] de 14.07.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/249-1980-471295
+  date: '1980-07-14'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:45Z'
   warnings: []
   errors: []
 ---

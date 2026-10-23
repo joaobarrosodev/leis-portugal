@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-1990-575170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b1918e1b9d37ccfe5ad9b49d9bea1b5e906fdb96a0d7d5b8993f1364d29c81a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 046c17c9aac1abfb6f3697025529a17bf5c581033fc36b198adcf4cadce61589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Estudante
+- Jovem
+- Madeira.região Autónoma
+- Preço
+- SATA
+- TAP
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:402696:por
+  label: Rectificada pela DECL.00.20.06.1990.PCM, DR.IS [140-Supl] de 20.06.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-402696
+  date: '1990-06-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:27Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +122,15 @@ Não se inclui na presente portaria a tarifa de 1.ª classe, de acordo com o pre
 
 Lisboa-Açores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
 
 Porto ou Faro-Açores - Para estas ligações o valor das tarifas aplicáveis é obtido adicionando aos valores das tarifas especificadas de e para Lisboa o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
 
 Açores-Madeira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
 
 2.º As tarifas de passageiros entre o continente ou Madeira, por um lado, e pontos nos Açores não servidos por voos directos, pelo outro, são rateadas de forma que ao transportador que efectua o transporte entre ilhas dos Açores seja atribuída uma receita correspondente a 74% da tarifa local aplicável à data da entrada em vigor da presente portaria, cabendo o remanescente ao transportador que efectua o transporte entre o continente ou a Madeira e o ponto de entrada ou saída nos Açores.
 
@@ -185,7 +212,7 @@ Excepto nos casos considerados nestes números, aplicam-se as regras de rateio i
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 23 de Abril de 1990.**
+Assinada em 23 de Abril de 1990.
 
 Pelo Ministro das Finanças, José Oliveira Costa, Secretário de Estado dos Assuntos Fiscais. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.
 
@@ -297,7 +324,7 @@ Os membros do Governo Regional e os cidadãos requisitados por esse Governo para
 
 Elementos das forças armadas, da Guarda Fiscal e da Polícia de Segurança Pública, quando deslocados em comissão de serviço na Região são igualmente elegíveis, mediante apresentação de documento, devidamente autenticado pelo comando da unidade a que pertençam, comprovando residência há mais de seis meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14000/25872591.pdf)
 
 ## ANEXO V — Condições de aplicação das tarifas PEX
 

@@ -48,40 +48,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/451-1990-575111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fe7c50e32224ad748d8afce0a5c829c340ef3fc16078d0935345deb9b27bd72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 066ad9128d8e05d246c551cc015181d1829685cedd5e57ea8aba086f4c20207d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Montemor-o-Novo
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:455588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219936:por
+  label: "Suspensa, por 180 dias, a exploração da zona de caça turística pela PORT.484/96.1996.09.10.MADRP DR.S-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-1996-219936
+  date: '1996-09-10'
+- type: amended_by
+  target: pt:dre:391443:por
+  label: "Renovada, por seis anos, a concessão da zona de caça, pela PORT.544-D/96.1996.10.04.MECO DR.IS-B [231]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-d-1996-391443
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:174076:por
+  label: "Renovada a concessão atribuida pelo presente diploma, na redacção dada pelo Port 544-D/96 de 04-Out, pela PORT.1167/2002.2002.08.29.MECO,\
+    \ DR.IS-B [199] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1167-2002-174076
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:481737:por
+  label: "Alterado o nº 2 da Port 1167/2002, de 29-Ago, que renovou a concessão da zona de caça concessionada pelo presente\
+    \ diploma, pela PORT.18/2003.2003.01.09.MECO, DR.IS-B [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-2003-481737
+  date: '2003-01-09'
+- type: amended_by
+  target: pt:dre:455588:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça atribuída pelo presente diploma, na redacção\
+    \ das Portarias 544-D/96, de 04 de Outubro, 1167/2002, de 29 de Agosto e 18/2003, de 09 de Janeiro, pela PORT.873/2008.13.08.2008.MADRP,\
+    \ DR.IS [156] de 13.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/873-2008-455588
+  date: '2008-08-13'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:21Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +162,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 28 de Maio de 1990.**
+Assinada em 28 de Maio de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13800/25572558.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13800/25572558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13800/25572558.pdf)

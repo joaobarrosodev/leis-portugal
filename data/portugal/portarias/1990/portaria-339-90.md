@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1990-571219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f456e675e3839ae31baa4c45f1ff762f8036c5bc6ae8f9d5a422dce0d333291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2017e631d79d386191dfcce797951a669b1ff04e181a188fee544d8ca1eab5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Desemprego
+- Financiamento
+- Investimento
+- Projeto de Investimento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:35Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +120,7 @@ Critério B
 
 1 - O prazo de recuperação em divisas (critério B), referido na alínea b) do n.º 2 ao artigo 1.º do Decreto-Lei n.º 161/87, de 6 de Abril, é dado pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
 
 Ano cruzeiro é o primeiro exercício económico, que coincidirá com o ano civil, em que se possa considerar normal a utilização da capacidade instalada pelo investimento.
 
@@ -125,7 +130,7 @@ Ano cruzeiro é o primeiro exercício económico, que coincidirá com o ano civi
 
 4 - Se o projecto respeitar a investimento directo estrangeiro cuja componente externa do financiamento por capitais próprios não acorreria ao País na ausência do projecto, IM e CM deverão ser ajustadas para ter em conta aquele financiamento e a repatriação de lucros e dividendos ou o pagamento de royalties ou outras formas de remuneração da tecnologia envolvida. A tabela do n.º 1 passa a contemplar a hipótese adicional de IM ser negativa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
 
 5 - A substituição de importações, em princípio, não conta para fins do prazo de recuperação em divisas (B), mas, em casos de notória redução de importações provenientes de países não membros da CEE, poderá VX integrar o valor correspondente, desde que:
 
@@ -221,9 +226,9 @@ Se em qualquer momento até ao fim do segundo ano cruzeiro houver razões para c
 
 Ministério das Finanças.
 
-**Assinada em 11 de Abril de 1990.**
+Assinada em 11 de Abril de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.
 
 Ficha n.º 1
 
@@ -289,20 +294,20 @@ Ficha n.º 2
 
 Investimento do projecto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
 
 Ficha n.º 3
 
 Vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
 
 Ficha n.º 4
 
 Custos de produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
 
 Ficha n.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10300/21062110.pdf)

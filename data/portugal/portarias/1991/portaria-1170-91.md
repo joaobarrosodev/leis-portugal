@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1170/1991/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1170-1991-316932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c3da00d433236c2c5fcea35344d559a95a5d4833ed5dca94dd80842b14bab89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c91a0a599c81583d95bf7ed81e61d521ec86d2a9a1a62895b921a315100618
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,99 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Pessoal Operário
+- Capelão
 - Hospital de Pulido Valente
 - Pessoal Administrativo
 - Pessoal Auxiliar
-- Capelão
 - Pessoal de Enfermagem
 - Pessoal de Informática
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
-- Pessoal Docente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:668134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE PULIDO VALENTE PELA PORT 1277/95 DE 27-OUT DR.IS-B [249]\0B [249]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:285904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662326:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:47Z'
   warnings: []
   errors: []
 ---
@@ -119,34 +180,34 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Repartição de Pessoal, constituída por:
 
-#### Secção de Admissão de Pessoal;
+Secção de Admissão de Pessoal;
 
 #### Secção de Vencimentos;
 
 Repartição de Serviços Financeiros, constituída por:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Patrimonial;
+Secção de Contabilidade Patrimonial;
 
 Repartição de Aprovisionamento, constituída por:
 
 #### Secção de Aquisições;
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
 Repartição de Admissão de Doentes, constituída por:
 
-#### Secção de Secretaria Clínica e Arquivo;
+Secção de Secretaria Clínica e Arquivo;
 
-#### Secção de Urgência/Consultas Externas.
+Secção de Urgência/Consultas Externas.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 17 de Outubro de 1991.**
+Assinada em 17 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
 
 Quadro de pessoal do Hospital de Pulido Valente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/263b00/58825885.pdf))](https://files.diariodarepublica.pt/1s/1991/11/263b00/58825885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/263b00/58825885.pdf)

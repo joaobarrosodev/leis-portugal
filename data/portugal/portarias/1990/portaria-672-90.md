@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-1990-573705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f982940eeb9a4a14cda2e7ce64a59461f67f1744843259f841d8423371589ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e20fda80b261466ce77545b55de6137d0031be61de4f558ffe8838fc6b529aa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior de Design
+- Escola Superior de Marketing e Publicidade
+- IADE
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:174821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177784:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Marketing e Publicidade aprovado pelo presente diploma,\
+    \ na redacção das Port 384/91 de 03-Mai e 886/93 de 14-Set, pela PORT.640/96.1996.11.07.ME, DR.IS-B [258]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-1996-177784
+  date: '1996-11-07'
+- type: amended_by
+  target: pt:dre:560426:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Marketing e Publicidade pela PORT.876/2000.2000.09.26.ME,DR.IS-B\
+    \ [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/876-2000-560426
+  date: '2000-09-26'
+- type: amended_by
+  target: pt:dre:189763:por
+  label: "Determinado que o plano de estudos do curso de Marketing e Publicidade ministrado pela Escola Superior de Marketing\
+    \ e Publicidade passe a ser o do anexo à PORT.182/2003.2003.02.20.MCES, DR.IS-B [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-2003-189763
+  date: '2003-02-20'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174821:por
+  label: "Revogado, no atinente ao reconhecimento da Escola Superior de Design e da Escola Superior de Marketing e Publicidade,\
+    \ o nº 1º do presente diploma, pelo DEC LEI.206/2012.31.08.2012.MECI, DR.IS [169] de 31.08.2012, que reconheceu o IADE-U,\
+    \ o qual sucede às referidas escolas, e determinou a transição para aquele estabelecimento de ensino das autorizações\
+    \ de funcionamento de ciclos de estudos conducentes ao grau de licenciado e de mestre concedidas àquelas.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2012-174821
+  date: '2012-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:27:38Z'
   warnings: []
   errors: []
 ---
@@ -117,14 +152,14 @@ de acordo com o plano de estudos anexo (I) à presente portaria.
 
 Ministério da Educação.
 
-**Assinada em 18 de Julho de 1990.**
+Assinada em 18 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — CURSO DE DESIGN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)
 
 ## ANEXO II — CURSO DE MARKETING E PUBLICIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)

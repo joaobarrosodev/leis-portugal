@@ -48,40 +48,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/960-1990-555647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c619085ed7361f078c0bce4b04d0b99cca6509606ae16bc379078e7511318a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1780d39227250c41ff69bedcc218d36e4f67593bab984ce00457be9e34177f21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Ponte de Sor
 relationships:
 - type: amended_by
   target: pt:dre:456186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157435:por
+  label: "Renovada a concessão da zona de caça associativa pela Port.254-BG/96.1996.07.15.MADRP, DR.IS-B [162]-Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-bg-1996-157435
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:235488:por
+  label: "Anexados vários prédios rústicos à concessão atribuída pelo presente diploma, pela PORT.865/98.1998.10.09.MADRP,\
+    \ DR.IS-B [233]\08.10.09.MADRP, DR.IS-B [233]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1998-235488
+  date: '1998-10-09'
+- type: amended_by
+  target: pt:dre:173544:por
+  label: "Renovada pelo período de seis anos, a concessão da zona de caça associativa pela PORT.1129/2002.2002.08.27.MADRP\
+    \ DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1129-2002-173544
+  date: '2002-08-27'
+- type: amended_by
+  target: pt:dre:456186:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 254-BG/96,\
+    \ de 15-Jul, Port 865/98, de 09-Out e pela Port 1129/2002, de 27-Ago, pela PORT.500/2008.24.06.2008.MAOTDR, DR.IS [120]\
+    \ de 24.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-2008-456186
+  date: '2008-06-24'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:50Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +156,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Setembro de 1990.**
+Assinada em 27 de Setembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23300/41804181.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23300/41804181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23300/41804181.pdf)

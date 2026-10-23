@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/749-1990-574289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3669f46ca8a3d031b68108e0ef11fab86aad96cdb15eadac28f9e06f9f44436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 075c27aa2b5700c063145f5b2a584b8fdba4d8981ab91c0c774d7f7f76f8569d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Reguengos de Monsaraz
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:248039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553614:por
+  label: "Renovada por um periodo de seis anos, a concessão da zona de caça concessionada pelo presente diploma, pela PORT.120/2006.09.02.2006.MADRP,\
+    \ DR.IS-B [29] de 09.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-2006-553614
+  date: '2006-02-09'
+- type: amended_by
+  target: pt:dre:248039:por
+  label: "Transferida para a MIRALQUEVA - Turismo Cinegético, Lda., a concessão da zona de caça turística da Herdade das Alcarias,\
+    \ concessionada pelo presente diploma, renovada pela Port 120/2006 de 09-Fev, pela PORT.144/2008.14.02.2008.MADRP, DR.IS\
+    \ [32] de 14.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-2008-248039
+  date: '2008-02-14'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:29:34Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +145,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Agosto de 1990.**
+Assinada em 1 de Agosto de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19800/34863487.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19800/34863487.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19800/34863487.pdf)

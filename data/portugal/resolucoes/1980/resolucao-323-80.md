@@ -47,44 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/323-1980-460791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e7b9af58c2573bee5531fd76cc550d91ac04bef34d1977c0101ea3f5aab1bb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c1887b06efbefad3c191b2984e5005395b63db30fb62ca82b8c3f0bbb1b5a39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Eliminação de Resíduos
+- Gestão de Resíduos
+- Grupo de Trabalho
+- Pecuária
+- Política do Ambiente
+- Proteção do Ambiente
+- Secretaria de Estado do Ordenamento e Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:387851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387851:por
+  label: "RES.54/81.05.03.1981.PCM, DR.IS [69] de 24.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/54-1981-387851
+  date: '1981-03-05'
 - type: cites
   target: celex:31975L0442
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
   label: null
   source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:32:30Z'
   warnings: []
   errors: []
 ---

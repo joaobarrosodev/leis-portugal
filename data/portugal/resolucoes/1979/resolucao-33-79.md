@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-1979-392650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ff8b2855824613da5149b00fa874d93184fa1bfbc77d16722955bc80e58dd50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb429ba2b721e6313713d9c5ef84e9655209004d40ad7f43cc85ed0997e88215
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicação Social
+- Empresa Intervencionada
+- Empresa Privada
+- Falência
+- Intervenção do Estado
+relationships:
+- type: cites
+  target: pt:dre:312382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:13Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +106,7 @@ validation:
 
 3 - Às referidas comissões interministeriais não foi possível obter números contabilísticos definitivos relativos aos exercícios posteriores ao de 1976. Contudo, as mesmas comissões debruçaram-se sobre a situação das empresas por forma a poderem apreciar e concluir acerca das respectivas realidades económico-financeiras e das possibilidades de relançamento das actividades de cada uma delas, ambas paralisadas desde meados de 1977. Deparando com uma situação de falência técnica, aliás evidenciada nos balanços referentes a 31 de Dezembro de 1976 (ver quadro junto), verificaram as comissões que, desde essa data, nomeadamente após a paralisação das empresas, os passivos sofreram contínuos aumentos, sobretudo em função dos juros e dos salários em atraso, sem que nos activos se verificasse qualquer alteração positiva e sem que se antevisse possibilidade de inflexão desta tendência. Deste modo, os estudos concluíram ser a falência a única solução do ponto de vista económico-financeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02600/01500150.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02600/01500150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02600/01500150.pdf)
 
 Era esta a solução que realisticamente se poderia prever desde o início da intervenção do Estado, já que nunca foi perspectivada outra alternativa com um mínimo de viabilidade. Protelá-la apenas contribuiria para o agravamento da situação, em prejuízo dos trabalhadores e credores da empresa. Lamenta-se que projectos impraticáveis tenham deixado a situação arrastar-se até ao presente.
 

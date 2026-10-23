@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1013/1991/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1013-1991-293753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab7a308060a8e4eb149e6dbcda325624e7568a4b0e02994e7edb05a1d1d94e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ad5ba1db87ae1e0e204143d2a773a8813846cc948ec8fccdb4694b02fe193c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Complexo Social das Forças Armadas
-- Pessoal Operário
 - Forças Armadas
+- Médico
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
+- Pessoal Docente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Adjunto
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
-- Pessoal Docente
 - Quadro de Pessoal
 - Serviços Sociais
 relationships:
@@ -85,20 +85,87 @@ relationships:
   target: pt:dre:543959:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292121:por
+  label: "Alterado o quadro do pessoal, na parte respeitante à carreira técnica superior de serviço social, pela PORT.723/92.18.07.1992.MDN,\
+    \ DR.IS-A [164] de 18.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/723-1992-292121
+  date: '1992-07-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/24/1991/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/24/1991/04/27/p/dre
+- type: cites
+  target: pt:dre:151879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619285:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543959:por
+  label: "Revogada pela PORT.269/99.1999.04.13.PCM DR.IS-B [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1999-543959
+  date: '1999-04-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:05Z'
   warnings: []
   errors: []
 ---
@@ -123,23 +190,23 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, nos termos 
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 23 de Setembro de 1991.**
+Assinada em 23 de Setembro de 1991.
 
 Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
 
-## Anexo I à Portaria n.º 1013/91
+Anexo I à Portaria n.º 1013/91
 
 Quadro do pessoal civil dos Serviços das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf))](https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf)
 
-## Anexo II à Portaria n.º 1013/91
+Anexo II à Portaria n.º 1013/91
 
 Carreiras e categorias a extinguir à medida que vagarem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf))](https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/228b00/51495152.pdf)
 
-## Anexo III à Portaria n.º 1013/91
+Anexo III à Portaria n.º 1013/91
 
 Conteúdo funcional da carreira a que se refere o n.º 2.º da Portaria n.º 1013/91
 

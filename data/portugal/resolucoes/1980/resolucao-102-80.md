@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/102-1980-678266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 315b10c801d68e5fb0ad9e5358c08cd57fde47c9cd602cbd0a78d00782881ac6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12feb906192c284d9427a735540f36eba34d79ade1649553a6e34fc606f6b3c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Banco de Fomento Nacional
+- Financiamento
+- Garantia
+- Ministro das Finanças e Plano
+- Setenave
 relationships:
 - type: amended_by
   target: pt:dre:457596:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457596:por
+  label: "Declarada de interesse nacional a operação de financiamento externo a que foi concedido aval pelo presente diploma,\
+    \ pela RES.376/80.06.11.1980.PCM, DR.IS [257] de 06.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/376-1980-457596
+  date: '1980-11-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:48Z'
   warnings: []
   errors: []
 ---

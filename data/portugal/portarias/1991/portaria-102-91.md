@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/102/1991/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-1991-479606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ebb829b26f6ca39c492306dccc7ff8a92736698280cb01a8d8e2a1920b2bb68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bef715882abc4af98cac8f0974c7b14f551f1896f0d1f43cdd76c930e48ca51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,96 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração do Porto de Lisboa
 - Administração de Portos
+- Administração do Porto de Lisboa
 - Lisboa
+- Portos
 - Regulamento
 - Regulamento de Tarifas da Administração do Porto de Lisboa
-- Portos
 - Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168208:por
+  label: "Alterados os valores dos parâmetros T1, T2 e T3 referidos no artigo 2.º e constantes do anexo II do Regulamento,\
+    \ pela PORT.146/92.06.03.1992.MM, DR.IS-B [55] de 06.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1992-168208
+  date: '1992-03-06'
+- type: amended_by
+  target: pt:dre:485589:por
+  label: "Alterados os valores dos parâmetros T1, T2 e T3 referidos no artigo 2.º e constantes do anexo II do Regulamento,\
+    \ na redacção da Portaria 146/92, de 6 de Março, pela PORT.242/93.27.02.1993.MM, DR.IS-B [49]Supl de 27.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1993-485589
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os valores dos parâmetros T1, T2 e T3 referidos no artigo 2.º e constantes no anexo II do Regulamento,\
+    \ pela PORT.69/94.01.02.1994.MM, DR.IS-B [26]Supl de 01.02.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
+- type: amended_by
+  target: pt:dre:244931:por
+  label: "Alterados os valores dos parâmetros T6 e T7 referidos no artigo 2.º e as taxas referidas no n.º 1 do artigo 18.º\
+    \ e no artigo 50.º do Regulamento, pela PORT.1159/94.31.12.1994.MM, DR.IS-B [302]Supl de 31.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1159-1994-244931
+  date: '1994-12-31'
+- type: cites
+  target: pt:dre:218766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167190:por
+  label: "Revogado o nº 11 do art. 21º do Regulamento aprovado pelo presente diploma, e aditado o art. 21º-A do mesmo Regulamento\
+    \ pela PORT.234/98.1998.04.14.MEPAT, DR.IS-B [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-1998-167190
+  date: '1998-04-14'
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada, pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
   article_count: 71
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:16Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +187,9 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 2 de Janeiro de 1991.**
+Assinada em 2 de Janeiro de 1991.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 ## ANEXO I — Regulamento de Tarifas da Administração do Porto de Lisboa
 
@@ -357,7 +425,7 @@ b) Os armadores, transportadores marítimos ou seus representantes, pelas mercad
 
 1 - A taxa de porto, aplicada de acordo com o grupo a que pertence a mercadoria, tem, para cada uma das operações de desembarque ou embarque e por tonelada indivisível, os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf))](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
 
 2 - A relação das mercadorias a incluir nos grupos referidos no número anterior é a constante na [Portaria n.º 964/87](https://diariodarepublica.pt/dr/detalhe/portaria/964-1987-499776), de 29 de Dezembro.
 
@@ -371,7 +439,7 @@ b) Os armadores, transportadores marítimos ou seus representantes, pelas mercad
 
 7 - A taxa de porto devida pelos veículos, por cada operação de desembarque ou embarque, é de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf))](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
 
 8 - A taxa de porto devida pelas mercadorias de tráfego fluvial, incluindo as areias e brita aplicada por uma só vez, é, por tonelada, de 0,20 T3.
 
@@ -497,11 +565,11 @@ Por cada mês adicional, completo ou incompleto, para além de 12 meses, a taxa 
 
 1 - Pela armazenagem de contentores em terraplenos são devidas, por contentor e por período de oito dias indivisíveis, as taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf))](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
 
 2 - Pela armazenagem de contentores nos depósitos gerais francos são devidas, por contentor e por dia, as taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf))](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
 
 3 - Pela armazenagem de contentores no Terminal de Contentores de Santa Apolónia são devidas as taxas constantes do artigo 48.º
 
@@ -765,7 +833,7 @@ Com mais de 20 pés ... 1,5 T6
 
 1 - Pela armazenagem de contentores são devidas, por contentor e por dia, as taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf))](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/030b00/05470557.pdf)
 
 2 - Para efeitos de aplicação das taxas constantes do número anterior, a contagem de tempo começa a partir do momento em que o contentor é colocado no parque.
 

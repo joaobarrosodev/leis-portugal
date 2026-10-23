@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 148/1990, 1º Suplemento, Série I de 1990-06-29
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2756-(2) a 2756-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf
 entry_into_force_dates: []
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/489-1990-243730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db152dabaaf5adbb502a2b1d2c9d40fe708b221daa3914df07c4853b98a2b0ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31a296eb820dbb139e9fd40dad9093e6f5f3ad2c6d2288d60b8a656a3a8e03da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Numerus Clausus
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:245943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:587395:por
+  label: "Alterada pela PORT.678-A/90.17.08.1990.ME, DR.IS [189]Supl de 17.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-a-1990-587395
+  date: '1990-08-17'
+- type: amended_by
+  target: pt:dre:557601:por
+  label: "Alterada pela PORT.858/90.19.09.1990.ME, DR.IS [217] de 19.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1990-557601
+  date: '1990-09-19'
+- type: amended_by
+  target: pt:dre:245943:por
+  label: "Alterado o número de vagas para o curso fixado no anexo I do Regulamento, pela PORT.879-A/90.20.09.1990.ME, DR.IS\
+    \ [218]Supl de 20.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/879-a-1990-245943
+  date: '1990-09-20'
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575746:por
+  label: Rectificados o quadro 1.1 [na parte referente ao curso Planeamento Regional e Urbano ministrado pela Universidade
+    de Aveiro, ao curso Geologia ministrado pela Faculdade de Ciências e Tecnologia da Universidade de Coimbra, aos cursos
+    Biologia, Física, Geologia e Química ministrados pela Faculdade de Ciências da Universidade de Lisboa, aos cursos ministrados
+    pelo Instituto de Ciências Biomédicas de Abel Salazar – aditando o curso Medicina] e o quadro 1.2 [na parte referente
+    ao curso Design/Projecção Gráfica ministrado pelo Instituto Superior de Artes Plásticas da Madeira], ambos os quadros
+    integrados no anexo I, pela DECL.DD12602.14.07.1990.PCM, DR.IS [161] de 14.07.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575746
+  date: '1990-07-14'
 article_structure:
   article_count: 50
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:16Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +153,7 @@ Manda o Governo, pelo da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 25 de Junho de 1990.**
+Assinada em 25 de Junho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correio Ralha, Secretário de Estado do Ensino Superior.
 
@@ -762,9 +815,9 @@ a) Pela classificação da habilitação de ensino secundário estrangeiro a que
 
 b) Pela classificação do 12.º ano de escolaridade português obtido nos termos da alínea b.2) do n.º 1 do artigo 10.º
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf)
 
 ## ANEXO III — Modelo de requerimento de permuta
 
@@ -784,4 +837,4 @@ b) ... (assinatura do segundo requerente).
 
 A elaborar em duplicado e com as assinaturas reconhecidas notarialmente ou mediante apresentação do bilhete de identidade.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14801/00020016.pdf)

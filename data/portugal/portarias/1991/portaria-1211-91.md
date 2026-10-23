@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/293b00/67016702.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1211/1991/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1991-379112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a652371257799d8fbfd5e788c5cf2fff68808dabdb3465fa88528c1021d0569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 190265d2c1c99820bbb1be9195053d5553e64201624796c29a973df26a81daf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alimento Industrial
-- Qualidade do Produto
 - Alimento para Animais
-- Regulamento
 - Comércio
+- Qualidade do Produto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:222176:por
@@ -80,16 +80,27 @@ relationships:
   target: celex:31991L0357
   label: null
   source: http://data.europa.eu/eli/dir/1991/357/oj
+- type: corrected_by
+  target: pt:dre:581253:por
+  label: "Rectificado o sumário e a coluna da categoria 8 do anexo pela DECL-RECT.15/92.29.02.1992.PCM, DR.IS-B [51]2ºSupl\
+    \ de 29.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-1992-581253
+  date: '1992-02-29'
+- type: repealed_by
+  target: pt:dre:222176:por
+  label: "Revogada pelo DEC LEI.390/98.1998.12.04.MADRP DR.IS-A [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1998-222176
+  date: '1998-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:46Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +123,7 @@ Manda o Governo, Pelo Ministro da Agricultura, ao abrigo do disposto na alínea 
 
 Ministério da Agricultura.
 
-**Assinada em 22 de Novembro de 1991.**
+Assinada em 22 de Novembro de 1991.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -120,4 +131,4 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 Categorias de ingredientes que podem substituir a indicação individual dos ingredientes na rotulagem dos alimentos compostos para animais, à excepção dos animais de companhia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/293b00/67016702.pdf))](https://files.diariodarepublica.pt/1s/1991/12/293b00/67016702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/293b00/67016702.pdf)

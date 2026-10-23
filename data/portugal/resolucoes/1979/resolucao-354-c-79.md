@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 291/1979, 1º Suplemento, Série I de 1979-12-19
   number: '291'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3270-(1) a 3270-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29101/00010003.pdf
 entry_into_force_dates: []
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/354-c-1979-210863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77c6f32cb2b01126b475230d27f1cf72230bd17fd7710c788e978aaf1672298d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 209f0b8bbaa54a11e29a07eda9deca7b19d21c57ac7bce1470f1407ccdcd5710
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Intervencionada
+- Intervenção do Estado
+- Metalúrgica Duarte Ferreira
+- Saneamento Económico e Financeiro
+- Situação Económica Dificil
 relationships:
 - type: amended_by
   target: pt:dre:568101:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:464260:por
+  label: "Alterado, para Dezembro de 1980, o previsto no n.º 13, pela RES.320/80.13.08.1980.PCM, DR.IS [205] de 05.09.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/320-1980-464260
+  date: '1980-08-13'
+- type: amended_by
+  target: pt:dre:568101:por
+  label: "Prorrogada a vigência das medidas previstas nos n.os 15 e 16 e mantida em vigor as orientações constantes dos n.os\
+    \ 8, 9, 10, 11, 12 e 14 do presente diploma, pela RES.414-A/80.26.12.1980.PCM, DR.IS [4216(44)] de 26.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/414-a-1980-568101
+  date: '1980-12-26'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430443:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:53Z'
   warnings: []
   errors: []
 ---

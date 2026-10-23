@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1990-574107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 122e1987818c974140c3b1775179926e3e6be89a7dcd80c877f9b7b7e883c838
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68ca5ae2ed1e4016caa10efb65e697a3f54e03a45bcbd66489f50543dad48165
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Técnico de Contabilidade
+- Curso Técnico de Gestão
+- Curso Técnico de Informática-gestão
+- Ensino Profissional
+- Escola Profissional de RUIZ Costa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:189356:por
+  label: "ALTERADO PELA PORTARIA 283/92, PUBLICADA NO DR.IS-B, 78, DE 920402.\0402.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1992-189356
+- type: amended_by
+  target: pt:dre:147641:por
+  label: "Extinto o curso profissional de Técnico de Contabilidade, criado pelo presente diploma e revogado parcialmente na\
+    \ parte referente ao citado curso, pela PORT.914/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-2005-147641
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:38Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +131,8 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 2 de Agosto de 1990.**
+Assinada em 2 de Agosto de 1990.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19200/34043405.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19200/34043405.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19200/34043405.pdf)

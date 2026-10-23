@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-1990-575491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d6ec035cc4f2621e303343c1a013ced49b7d96fd73011522d4c482be1914ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bab3d4ce5e85aee91527fd03f28c7094789679970bd79de4c3ccebde62aacc3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Preço
+- Preço de Campanha
 relationships:
 - type: amended_by
   target: pt:dre:628018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628018:por
+  label: "Alterada a alínea a) do n.º 4.º pela PORT.1177-A/90.03.12.1990.MF, DR.IS [278]Supl de 03.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-a-1990-628018
+  date: '1990-12-03'
+- type: cites
+  target: pt:dre:274265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:42Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +108,7 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Aliment
 
 1.º Os preços de referência à produção para os trigos, centeio, cevada, milho, sorgo, aveia e triticale a vigorar, em regime transitório, para a campanha de 1990-1991, até 31 de Dezembro de 1990, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf)
 
 2.º Os preços de referência à produção são reportados à qualidade tipo fixada no n.º 6.º do presente diploma, são susceptíveis de aplicação de bonificações e depreciações, como consta do n.º 7.º, e referem-se apenas a cereal que respeita o disposto no n.º 9.º em termos de qualidade mínima.
 
@@ -132,7 +148,7 @@ f) Para a aveia - 32000$00/t.
 
 6.º As qualidades tipo correspondentes aos preços de referência à produção aplicam-se a cereais isentos de cheiros estranhos e de depredadores vivos, com coloração própria e as características estabelecidas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf)
 
 7.º São aplicáveis as seguintes bonificações e depreciações aos preços de referência à produção de cereais, cuja qualidade tipo é referida no número anterior:
 
@@ -160,7 +176,7 @@ e) Quando a percentagem de outras impurezas, ou seja, as não constituídas por 
 
 9.º As características definidas para a qualidade mínima são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15200/28262828.pdf)
 
 10.º - 1 - Para aplicação do disposto no presente diploma, entende-se por:
 
@@ -206,6 +222,6 @@ d) Grãos germinados - grãos em que se vê nitidamente a olho nu a radícula ou
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 22 de Junho de 1990.**
+Assinada em 22 de Junho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

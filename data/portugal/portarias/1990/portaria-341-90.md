@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1990-571246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc68bee663b132e1b1829a5cc0ba396f2c5de8017e591a9cdc33b6edd55900c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5eb7e7e08c8745bb74603d6d0bfd4b5f2b0ce78fed92a320fe10fc5095d0513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando Operacional
+- Definição de Competências
+- Direcção Geral das Florestas
+- Exploração Florestal
+- Fiscalização
+- Incêndio
+- Prevenção de Incêndios
+- Proteção do Ambiente
+- Regulamento
+- Serviço Nacional de Bombeiros
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+relationships:
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:41Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +114,9 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território, da Administração Interna, da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais.
 
-**Assinada em 31 de Janeiro de 1990.**
+Assinada em 31 de Janeiro de 1990.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
 NORMAS REGULAMENTARES SOBRE PREVENÇÃO, DETECÇÃO E COMBATE DOS FOGOS FLORESTAIS
 

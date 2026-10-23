@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-1990-333543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb8aeade816e6fd4086a0db91ceb699d1c5fb69f72526b75a8feaac3f0d8cab2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb281cd2b987ec6f974003ed5517757609e874147e5ed3ef200d6689b19e1c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Gabinete da Área de Sines
+- Santiago do Cacém
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:610004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:20:51Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +106,9 @@ Manda o Governo, pelo Ministro do Planeamento e da Administração do Territóri
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 29 de Dezembro de 1989.**
+Assinada em 29 de Dezembro de 1989.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 PROTOCOLO N.º 2
 
@@ -118,7 +130,7 @@ Gabinete da Área de Sines e Câmara Municipal de Santiago do Cacém, 24 de Julh
 
 ## ANEXO I — Relação dos prédios do Gabinete da Área de Sines a transferir para a Câmara Municipal de Santiago do Cacém
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
 
 PROTOCOLO N.º 3
 
@@ -144,7 +156,7 @@ Gabinete da Área de Sines e Câmara Municipal de Santiago do Cacém, 24 de Julh
 
 Empresas instaladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
 
 PROTOCOLO N.º 4
 
@@ -196,4 +208,4 @@ O MSC promoverá a inscrição a seu favor na conservatória do registo predial 
 
 Gabinete da Área de Sines e Câmara Municipal de Santiago do Cacém, 24 de Julho de 1989. - O Presidente do Conselho de Gestão do Gabinete da Área de Sines, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Santiago do Cacém, Sérgio Brígido Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)

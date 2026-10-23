@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-1990-573532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 636ca7cb591a27a7f900f4807cc1806ab9bee9848ee3e2939763be6c749e775c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31dff318a709287aea6bc5c9b75383905fd91ad048485069034f0124f084d08c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Fruto
+- Legume de Fruto
+- Tomate
+relationships:
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:33Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +104,12 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Aliment
 
 1.º Para a campanha de comercialização de 1990-1991, os preços de referência para o tomate, cereja, ameixa, uva de mesa, damasco, pêssego e limão são, por quilograma, para os produtos da categoria de qualidade I, de qualquer calibre, apresentados em embalagem, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18000/32023202.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18000/32023202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18000/32023202.pdf)
 
 2.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 17 de Julho de 1990.**
+Assinada em 17 de Julho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

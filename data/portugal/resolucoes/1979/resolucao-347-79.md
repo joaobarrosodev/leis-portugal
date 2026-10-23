@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/347-1979-366579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e345f50de95a8f2fd13e26114f3c88eaf142fa81948e7df3070faf0a72169920
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f3c650aecb0b2e15bb4000771fc9ede96973c27d89710c952539c07937b195a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Infraestrutura Turística
+- Intervenção do Estado
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:402742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402742:por
+  label: "Prorrogado o prazo previsto no n.º 8 da Resolução 196/78 de 02 de Novembro, com a redacção conferida no presente\
+    \ diploma, pela RES.206/81.20.08.1981.PCM, DR.IS [200-Supl] de 01.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/206-1981-402742
+  date: '1981-08-20'
+- type: cites
+  target: pt:dre:172913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:41Z'
   warnings: []
   errors: []
 ---

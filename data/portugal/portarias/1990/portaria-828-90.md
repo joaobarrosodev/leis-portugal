@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21100/37273728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-1990-557824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 968e80b5b529d624bc876dcbd9affff1b5092d037be3fbcfc0f25bd94b96b91b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd3c8c65998ad0ee53cdefd59665fe2db2c20377ec493beaff399c5b328ddeaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Coimbra
+- Curso de Engenharia Civil
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Informática e de Sistemas
+- Curso de Engenharia Mecânica
+- Curso de Engenharia Química
+- Ensino Superior Politécnico
+- Instituto Politécnico
+- Instituto Superior de Engenharia
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:644681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619332:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321562:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ a Port 639/89 de 09-Ago, na redacção dada pelo presente diploma, pela PORT.377/99.1999.05.21.ME,DR.IS-B [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1999-321562
+  date: '1999-05-21'
+- type: repealed_by
+  target: pt:dre:321564:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ a Port 639/89 de 09-Ago, na redacção dada pelo presente diploma pela PORT.378/99.1999.05.21.ME,DR.IS-B [118]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1999-321564
+  date: '1999-05-21'
+- type: repealed_by
+  target: pt:dre:321570:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ a Port 639/89 de 09-Ago, na redacção dada pelo presente diploma, pela PORT.382/99.1999.05.21.ME,DR.IS-B 8118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1999-321570
+  date: '1999-05-21'
+- type: repealed_by
+  target: pt:dre:644681:por
+  label: "Revogada, na parte em que autorizou o Instituto Politécnico de Coimbra, através do seu Instituto Superior de Engenharia,\
+    \ a conferir o grau de bacharel em Engenharia de Informática e de Sistemas, e findo o processo de transição fixado no\
+    \ art. 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado\
+    \ pela Port 413-A/98, de 17 de Julho, alterada pela Port 533-A/99, de 22 de Julho, a Port 639/89, de 09-Ago, DR.IS [182],\
+    \ na redacção do presente diploma e da Port 896/92, de 16-Set, pela PORT.1043/99.1999.11.26.ME DR.IS-B [276] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1043-1999-644681
+  date: '1999-11-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:29Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +183,8 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1990-1991, 
 
 Ministério da Educação.
 
-**Assinada em 8 de Agosto de 1990.**
+Assinada em 8 de Agosto de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21100/37273728.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21100/37273728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21100/37273728.pdf)

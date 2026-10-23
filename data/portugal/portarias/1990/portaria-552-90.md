@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1990-575761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c831e66e0b62af46dfe3ebc2c83f92641ae2eac1a84c8ffd60e5995b4cd8a07d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41b5d4f173a419d8563697356b145d7cd32ffc3208c978c0ce2274177af22bab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Equipamento
+- Direcção Geral do Património do Estado
+- Equipamento de Escritório
+- Património do Estado
+relationships:
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:23:52Z'
   warnings: []
   errors: []
 ---
@@ -110,21 +130,21 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, ao abrigo do d
 
 Ministério das Finanças.
 
-**Assinada em 26 de Junho de 1990.**
+Assinada em 26 de Junho de 1990.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.
 
 ## ANEXO I — Fotocopiadoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf)
 
 ## ANEXO II — Duplicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf)
 
 ## ANEXO III — Gravadores de matrizes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16300/29762981.pdf)
 
 ## ANEXO IV — Contrato tipo de assistência pós-venda (fotocopiadoras)
 

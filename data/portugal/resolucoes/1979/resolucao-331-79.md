@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/331-1979-367599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ac14094fc5b7a9b34aaf4c614f2cd661915095d94cfeee5125906c357ff8d39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5a8a2a5a9e0940ea53b8bf7976b98d3fd297e76a70ffb52fc6bf77346b0769e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Autarquia Local
+- Catástrofe
+- Financiamento
+- Gestão Orçamental
+- Orçamento
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:592973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684413:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:16Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +113,6 @@ Com base no n.º 2 do artigo 5.º do [Decreto-Lei n.º 93/73](https://diariodare
 
 O Conselho de Ministros, reunido em 31 de Outubro de 1379, resolveu autorizar as seguintes alterações nos orçamentos dos Ministérios abaixo designados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26900/29812983.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26900/29812983.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26900/29812983.pdf)
 
 Presidência do Conselho de Ministros, 31 de Outubro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

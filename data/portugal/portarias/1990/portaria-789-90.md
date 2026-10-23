@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1990-556820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86a6961369c68b7b622164e4fe1760f67e44bbbd4fdd46394e67e58401965669
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d146ea205116215bb4e288eb15dc9408926a3e5dd4a65dcb716d9253828f322e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Combustível
+- Instalação de GÁS
+- Normas de Construção
+- Segurança dos Edifícios
+relationships:
+- type: cites
+  target: pt:dre:366449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619287:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247185:por
+  label: Rectificada pela DECL.DD3064.1990.12.12.PCM, DR.IS [204] de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247185
+  date: '1990-12-12'
 article_structure:
   article_count: 51
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:34Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +132,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 2 de Agosto de 1990.**
+Assinada em 2 de Agosto de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I
 
@@ -239,7 +272,7 @@ Não é permitida a utilização de tubagem de ferro galvanizado nas instalaçõ
 
 1 - Sempre que uma tubagem enterrada penetre num edifício através das suas paredes ou fundações no subsolo, o espaço anelar entre a tubagem e a parede deve ser obturado de modo estanque, conforme se ilustra na fig. 1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
 
 2 - As tubagens em polietileno emergentes do solo devem ser protegidas, antes da sua penetração no edifício, por uma manga ou bainha obedecendo aos seguintes requisitos:
 
@@ -251,7 +284,7 @@ c) Acompanhar a tubagem de gás até uma altura de 0,6 m acima do solo, a menos 
 
 d) Satisfazer o disposto nos n.os 12 e 13 do artigo 12.º, conforme se ilustra na fig. 2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
 
 3 - A extremidade superior do espaço anelar entre a tubagem e a manga ou bainha deve ser obturada com um material inerte.
 
@@ -261,7 +294,7 @@ d) Satisfazer o disposto nos n.os 12 e 13 do artigo 12.º, conforme se ilustra n
 
 6 - A protecção deve ficar complanar com o tecto na sua extremidade inferior e ultrapassar o pavimento em, pelo menos, 0,05 m, conforme se ilustra na fig. 3:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
 
 7 - O espaço anelar entre a tubagem e a protecção deve ser preenchido com uma matéria isolante e não higroscópica.
 
@@ -495,7 +528,7 @@ c) No ponto de entrada da tubagem em cada fogo, caso o contador se encontre dist
 
 7 - Deve existir, do lado de dentro da porta referida no número anterior, junto ao pavimento, um murete com altura igual ou superior a 0,2 m, conforme se ilustra na fig. 4:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35703577.pdf)
 
 8 - A iluminação dos compartimentos dos contadores e das colunas montantes deve ser adequada aos locais e situada no exterior dos compartimentos reservados referidos no n.º 4.
 
@@ -799,4 +832,4 @@ NP-1813 - Características e ensaios de aprovação de modelo;
 
 NP-1814 - Primeira verificação. Verificação periódica ou extraordinária.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

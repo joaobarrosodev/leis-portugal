@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1990-574115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e37dae30ccc06ffac623bebd5d3b2890c3a009c7b9d280481e8d0f0022684e02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3598d8b2803324eabad3f17cc1abcb4aa171071bd722eac5d78117cd6a5e4b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Cozinha Pastelaria
+- Curso de Técnico de Serviços Comerciais
+- Curso Técnico de Contabilidade
+- Curso Técnico de Hotelaria Recepção Atendimento
+- Ensino Profissional
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:189351:por
+  label: "ALTERADO PELA PORTARIA 287/92, PUBLICADA NO DR.IS-B, 78, DE 920402.\0402.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/287-1992-189351
 - type: amended_by
   target: pt:dre:545038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545038:por
+  label: "Extinto o curso profissional de técnico de hotelaria/recepção e atendimento criado pela presente portaria, pela\
+    \ PORT.1316/2006.23.11.2006.ME, DR.IS [226] de 23.11.2006, revogando-a em conformidade com a al. b) do n.º 7, e permanecendo\
+    \ em vigor o respectivo plano de estudos nos termos do n.º 6\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1316-2006-545038
+  date: '2006-11-23'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:27:53Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +137,8 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 2 de Agosto de 1990.**
+Assinada em 2 de Agosto de 1990.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19000/33593361.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19000/33593361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19000/33593361.pdf)

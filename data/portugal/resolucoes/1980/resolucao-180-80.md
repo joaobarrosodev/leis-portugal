@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/180-1980-474904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa921c9d54078c26d975d9f961f5629a611159e0169d32cdb517f46034450c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4128889bc1b23a3d0509f6ff8550b133370ddc48447e0f7b61c97cd3aaa30543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ACTO Administrativo
+- Administração Pública
+- Funcionário Público
+- Legalidade Administrativa
+- Mobilidade de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:370068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676849:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:49Z'
   warnings: []
   errors: []
 ---
@@ -87,4 +104,4 @@ A Assembleia da República resolveu, nos termos da alínea c) do artigo 165.º d
 
 Aprovada em 20 de Maio de 1980.
 
-**O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.

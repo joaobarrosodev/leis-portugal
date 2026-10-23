@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-1990-573166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b81ee20c07aaf3130ed8eee148b8262814485864f231e8c46d321808be382b68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b98f986185b877db329e9b5780d40f2c1a8128bf847fb4d64a66339d58714202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto da Vinha e do Vinho
+- Vinha
+- Vinho
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:03Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +112,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, nos termo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 10 de Julho de 1990.**
+Assinada em 10 de Julho de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.

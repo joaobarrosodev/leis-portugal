@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-1990-575312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e086966835184327856c285306dc334b97720e78509c49600ed999030d17263f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee31b5c85bdd46f63a4fb4881ce9982c8eefb8511b7c104b27f37924cae6c63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Controlo Sanitário
+- Definição de Competências
+- Direcção Geral da Pecuária
+- Doença Animal
+- Exportação
+- Fiscalização
+- Gado Bovino
+- Gado Suíno
+- Impresso
+- Madeira.região Autónoma
+- Produção Animal
+- Proteção dos Animais
+- Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:471951:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485909:por
+  label: "Alterado o n.º 2 e eliminada a nota final 6 do anexo B, pela PORT.160/91.25.02.1991.SEAG-MAPA, DR.IS-B [46] de 25.02.1991\0\
+    1\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-1991-485909
+  date: '1991-02-25'
+- type: amended_by
+  target: pt:dre:662304:por
+  label: "Aditado o ponto 4 à alínea h) e a alínea u) ao n.º 2.º, e o ponto 3 ao anexo G, pela PORT.720/91.23.07.1991.SEAG-MAPA,\
+    \ DR.IS-B [167] de 23.07.1991 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1991-662304
+  date: '1991-07-23'
+- type: amended_by
+  target: pt:dre:289810:por
+  label: "Dada nova redacção aos n.ºs 2 (alterado pela Port 160/91 de 25-Fev), 3, 4 e 12 e ao anexo B (alterado pela Port\
+    \ 160/91 de 25-Fev), e aditado um n.º 35 pela PORT.463/94.30.06.1994.MA, DR.IS-B [149] de 30.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/463-1994-289810
+  date: '1994-06-30'
+- type: amended_by
+  target: pt:dre:663282:por
+  label: "Alterado o n.º 1 e aditado o n.º 11-A, pela PORT.1226/95.10.10.1995.MA, DR.IS-B [234] de 10.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1226-1995-663282
+  date: '1995-10-10'
+- type: amended_by
+  target: pt:dre:571967:por
+  label: "Alterado o n.º 6, pela PORT.119/96.16.04.1996.ME, DR.IS-B [90] de 16.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1996-571967
+  date: '1996-04-16'
+- type: amended_by
+  target: pt:dre:144619:por
+  label: "Dada nova redacção aos nºs 2º (alterado pelas Port 160/91 de 25-Fev e 463/94 de 30-Jun) 4º (alterado pela Port 463/94\
+    \ de 30-Jun), 5º, 13º, 15º e 16º, e aditado o nº 18º-A pela PORT.559/97.1997.07.25.MADRP, DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-1997-144619
+  date: '1997-07-25'
+- type: repealed_by
+  target: pt:dre:471951:por
+  label: "Revogada pelo DEC LEI.157/98.1998.06.09.MADRP, DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1998-471951
+  date: '1998-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:45Z'
   warnings: []
   errors: []
 ---
@@ -455,9 +508,9 @@ c) Não servirem, após limpeza e desinfecção, senão para animais de reprodu�
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 24 de Maio de 1990.**
+Assinada em 24 de Maio de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
 ## ANEXO A — Modelo I
 
@@ -479,7 +532,7 @@ I - Número de animais: ...
 
 II - Identificação dos animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 III - Origem dos animais:
 
@@ -643,7 +696,7 @@ I - Número de animais: ...
 
 II - Identificação dos animais: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 III - Proveniência dos animais:
 
@@ -765,7 +818,7 @@ I - Número de animais: ...
 
 II - Identificação dos animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 III - Proveniência dos animais:
 
@@ -909,7 +962,7 @@ I - Número de animais: ...
 
 II - identificação dos animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 III - Proveniência dos animais:
 
@@ -1497,7 +1550,7 @@ Distância entre os orifícios centrais e periféricos: 3 mm.
 
 1.6 - O orifício central deve ser cheio de antigénio padrão. Os orifícios periféricos 1 e 4 (v. esquema abaixo) são cheios com o soro positivo conhecido, os orifícios 2, 3, 5 e 6 com os soros a testar. Os orifícios devem ser cheios até ao desaparecimento do menisco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 1.7 - As quantidades depositadas são as seguintes:
 
@@ -1557,7 +1610,7 @@ Recomeçar as operações anteriormente descritas com o soro da leucose bovina d
 
 Quando a gelose estiver solidificada, os orifícios são praticados da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 Adição dos antigénios
 
@@ -1593,7 +1646,7 @@ Instruções complementares:
 
 2.5 - Anotar os diâmetros medidos. A diluição de trabalho é aquela em que se regista o mesmo diâmetro para o antigénio atestar e para o antigénio de referência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14200/26182632.pdf)
 
 ## ANEXO H — Leite
 

@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-1990-571266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 579444264504132f986a8e71cc056dbfba4080144f01de0f11061b3848e41efa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f62dc8ec92c9d44a9514ec6b43819e82934248a3a2ca0b439a5cdb09f17495d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Documentação Administrativa
+- Emolumento do Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:580644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:334648:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:293345:por
+  label: Rectificada pela DECL.DD3246.1990.05.31.PCM, DR.IS [125]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293345
+  date: '1990-05-31'
+- type: repealed_by
+  target: pt:dre:580644:por
+  label: "Revogada pela PORT.709/2000.2000.09.04.MJ DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/709-2000-580644
+  date: '2000-09-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:21Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +128,6 @@ b) Por cada folha a mais, nos casos previstos no número anterior, acrescem, res
 
 Ministério da Justiça.
 
-**Assinada em 2 de Maio de 1990.**
+Assinada em 2 de Maio de 1990.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

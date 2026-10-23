@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1990-571450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f245d71c9e546e8efcc75c8956c263e7eef10f9ab814b34a9cf062d3ab1cd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2282242e48d5ad90b4dd891fbc376a4df574017beefc0c08279b62e67b178201
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Contingentação
+- Definição de Competências
+- Direcção Geral da Indústria
+- Direitos Aduaneiros
+- Importação
+- Mercadoria
+- Política Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:262098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401898:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528458:por
+  label: Rectificado o anexo I pela DECL.DD3584.30.06.1990.PCM, DR.IS [149-Supl] de 30.06.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528458
+  date: '1990-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:56Z'
   warnings: []
   errors: []
 ---
@@ -119,14 +140,14 @@ c) Boletins técnicos relativos aos produtos importados; no caso das fibras subs
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 11 de Maio de 1990.**
+Assinada em 11 de Maio de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I — Lista a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11900/23452348.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11900/23452348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11900/23452348.pdf)
 
 ## ANEXO II — Quadro a que se refere a alínea a) do n.º 2 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11900/23452348.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11900/23452348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11900/23452348.pdf)

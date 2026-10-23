@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/360-1979-365893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:23:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51347759694a4e97f8ddcfc6c6f8453e11fc20323105bc1da0c2997fe700050e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbfcff0ce8b36b38082972b31c980659495b27827988bf23e8854586972c70ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Ministério da Comunicação Social
+- Ministério das Finanças e do Plano
+- Ministério dos Assuntos Sociais
+- Ministério dos Negócios Estrangeiros
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692376:por
+  label: Rectificada pela DECL.DD6617.04.01.1980.PCM, DR.IS [15] de 18.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692376
+  date: '1980-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:23:03Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +103,6 @@ Considerando que no actual orçamento do Ministério das Finanças se encontra i
 
 Com base no n.º 2 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Conselho de Ministros, reunido em 30 de Novembro, resolveu autorizar as seguintes alterações nos orçamentos dos Ministérios abaixo designados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29400/33043305.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29400/33043305.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29400/33043305.pdf)
 
 Presidência do Conselho de Ministros, 5 de Dezembro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

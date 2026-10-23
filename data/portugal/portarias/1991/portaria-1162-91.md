@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1162/1991/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1162-1991-316488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0070040e1090a9a81d67e82045b0621347e050702572ef83b63de924429bfae7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e07fac2ffce1d00d653ad7a3a48ef5d29d481eab34ba81a221486b0c900e1b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Engenharia Electromecânica
 - Curso Superior de Engenharia da Produção Industrial
 - Curso Superior de Engenharia de Recursos
@@ -74,20 +73,33 @@ subjects:
 - Curso Superior de Frigotecnia
 - Curso Superior de Gestão Industrial
 - Ensino Particular
+- Ensino Superior
 - Instituto de Electromecânica e Energia
 - Licenciatura
-- Ensino Superior
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:36Z'
   warnings: []
   errors: []
 ---
@@ -134,14 +146,14 @@ Curso superior de Engenharia de Recursos Informáticos.
 
 Ministério da Educação.
 
-**Assinada em 4 de Outubro de 1991.**
+Assinada em 4 de Outubro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Instituto de Electromecânica e Energia - IEE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/260b00/58015805.pdf))](https://files.diariodarepublica.pt/1s/1991/11/260b00/58015805.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/260b00/58015805.pdf)
 
 ## ANEXO II — Curso de estudos superiores especializados em Engenharia Electromecânica - Especialidade de Frigotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/260b00/58015805.pdf))](https://files.diariodarepublica.pt/1s/1991/11/260b00/58015805.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/260b00/58015805.pdf)

@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-1980-692391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d7ae9c8245f30a300715e010b6a60d34e3a76b2bf1a65eb263d00ea3aacbf84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8c702e0cf4fadeacbaf039fa1bf52318b439692577740ba3854f962e83f3d19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Estágio de Formação
+- Inconstitucionalidade
+- Instituto Universitário
+- Licenciatura
+relationships:
+- type: cites
+  target: pt:dre:296866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327870:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:55Z'
   warnings: []
   errors: []
 ---
@@ -91,4 +104,4 @@ Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.�
 
 Aprovada em Conselho da Revolução, em 19 de Dezembro de 1979.
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes.

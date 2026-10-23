@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/833-1990-557671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5660d954dfc00f1fecad59e18c7c9781a0a8c3e30ee78f661108a3c625d4c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97a26fd0ede7ffc663593c1b7712e641f3b3dcc8479ddadeb77dea273285a02f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Macedo de Cavaleiros
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:455147:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157442:por
+  label: "Renovada a concessão da zona de caça associativa pela Port 254-BO/96.1996.07.15.MADRP, DR.IS-B [162]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-bo-1996-157442
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:455147:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de doze anos, a zona de caça concessionada pelo presente\
+    \ diploma, alterada pela Port 254-BO/96, de 15-Jul, pela PORT.805/2008.08.08.2008.MAOTDR, DR.IS [153] de 08.08.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-2008-455147
+  date: '2008-08-08'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:39Z'
   warnings: []
   errors: []
 ---
@@ -112,8 +143,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 17 de Agosto de 1990.**
+Assinada em 17 de Agosto de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21300/37813781.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21300/37813781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21300/37813781.pdf)

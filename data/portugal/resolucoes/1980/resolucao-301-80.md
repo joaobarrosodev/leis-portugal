@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/301-1980-469672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54add12e8a327a22ce7565e75981eba6d9380c2cd1dda6b41b31792d8f381d31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d203104850b32967e5b2280e1ef89608e94babe287c7d7d0a2ec4cb84b937e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Intervenção do Estado
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:457185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457185:por
+  label: "Prorrogado até 31.03.1981 e com efeitos a partir de 01.11.1980, o prazo fixado no presente diploma, pela RES.413/80.26.12.1980.PCM,\
+    \ DR.IS [297] de 26.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/413-1980-457185
+  date: '1980-12-26'
+- type: cites
+  target: pt:dre:286497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:59Z'
   warnings: []
   errors: []
 ---

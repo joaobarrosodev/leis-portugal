@@ -50,40 +50,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/994-1990-556044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c19e3db4d3d59ea03f5c90e611e9aa96d1c3783a201ee5ac78214fca0331f3a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b222df43b208fa4f128ad57b74806a91f56bd258dc1fe1ecd1579eacbc33887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:35:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alenquer
+- CAÇA
+- Cadaval
+- Lourinhã
+- Torres Vedras
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:343154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334311:por
+  label: "Renovada, com efeitos a partir de 01.06.2010, a concessão da zona de caça pela PORT.516/2010.19.07.2010.MADRP, DR.IS\
+    \ [138] de 19.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/516-2010-334311
+  date: '2010-07-19'
+- type: amended_by
+  target: pt:dre:343154:por
+  label: "Alterado o art. 1.º da Port 516/2010 de 19-Jul, que renovou a concessão da zona de caça associativa da Quinta de\
+    \ São Francisco e outras, concessionada pelo presente diploma, pela PORT.695/2010.16.08.2010.MADRP, DR.IS [158] de 16.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-2010-343154
+  date: '2010-08-16'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:35:36Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23500/42204220.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23500/42204220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23500/42204220.pdf)

@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1990-334596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5baf6de3cbbda8c53b2f3644887e43e91d323b4bbefb52e9ad2ca5573bc586fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67a5fa51c197996b316c52d2dd17ca47ad3533cc52bc8b3d42aa3fd11141b397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Regulamento de Amparos
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:552826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552826:por
+  label: Alterados os arts. 1.º, 2.º, 5.º, 7.º, 9.º, 10.º, 11.º, 13.º, 14.º e 15.º do Regulamento de Amparos, pelo(a) Portaria
+    n.º 1249/93 - Diário da República n.º 286/1993, Série I-B de 1993-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1249-1993-552826
+  date: '1993-12-09'
+- type: cites
+  target: pt:dre:325167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:20Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +129,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 29 de Janeiro de 1990.**
+Assinada em 29 de Janeiro de 1990.
 
-**O Ministro da Defesa Nacional, Carlos Eugénio Pereira de Brito.**
+O Ministro da Defesa Nacional, Carlos Eugénio Pereira de Brito.
 
 REGULAMENTO DE AMPAROS
 
@@ -374,4 +395,4 @@ b) Do ramo das forças armadas a que o militar pertencer, para o amparo já alis
 
 São gratuitos todos os documentos e reconhecimentos de assinatura relativos à instrução do processo de qualificação de amparo de família, nos termos do artigo 91.º do [Decreto-Lei n.º 463/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1988-356354), de 15 de Dezembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03300/05290534.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03300/05290534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03300/05290534.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1140/1991/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1140-1991-332199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b0c7d6145c76d7b76a05bac8dade04438dc3b68fc180c822a3cebb940f3f78e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c705d5a8ba89f84d773fb0c156e9bea1dc7e67fe53f4680e6baf7ef62cbc0e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,87 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
-- Plano de Estudos
 - Curso de Contabilidade
 - Curso de Design Industrial
 - Curso de Engenharia e Gestão Industrial
 - Curso de Engenharia Electrónica e Informática
 - Curso de Engenharia Têxtil e do Vestuário
 - Licenciatura
+- Plano de Estudos
+- Universidade Lusíada
 relationships:
 - type: amended_by
   target: pt:dre:220746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358972:por
+  label: "Alterado plano dec estudos pela PORT.377/97.1997.06.11.ME DR.IS-B [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1997-358972
+  date: '1997-06-11'
+- type: amended_by
+  target: pt:dre:235364:por
+  label: "Alterada a designação e o plano de estudos do curso de Engenharia Têxtil e do Vestuário pela PORT.876/98.1998.10.09.ME,\
+    \ DR.IS-B [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/876-1998-235364
+  date: '1998-10-09'
+- type: amended_by
+  target: pt:dre:223199:por
+  label: "Alterado o plano de estudos do curso de Engenharia e Gestão constante do mapa anexo III pela PORT.952/98.1998.11.06.ME\
+    \ DR.IS-B [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/952-1998-223199
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:223457:por
+  label: "Alterado o plano de estudos do curso de Engenharia Electrónica e Informática constante do anexo I pela PORT.956/98.1998.11.07.ME\
+    \ DR.IS-B [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/956-1998-223457
+  date: '1998-11-07'
+- type: amended_by
+  target: pt:dre:595075:por
+  label: "Altera o plano de estudos do curso de Engenharia Elctrónica e Informática constante do anexo I pela PORT.1104/2000.2000.11.23.ME,\
+    \ DR.IS-B [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1104-2000-595075
+  date: '2000-11-23'
+- type: amended_by
+  target: pt:dre:599698:por
+  label: "Alterado o plano de estudos do Curso de Contabilidade pela PORT.1138/2000.2000.11.29.ME DR.IS-B [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1138-2000-599698
+  date: '2000-11-29'
+- type: amended_by
+  target: pt:dre:582845:por
+  label: "Alterado o plano de estudos autorizado pelo presente diploma pela PORT.1167/2000.2000.12.12.ME,DR.IS-B [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1167-2000-582845
+  date: '2000-12-12'
+- type: amended_by
+  target: pt:dre:372985:por
+  label: "Alterado o plano de estudos do Curso de Design Industrial pela PORT.149/2001.2001.03.03.ME DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2001-372985
+  date: '2001-03-03'
+- type: amended_by
+  target: pt:dre:220746:por
+  label: "Alterado o plano de estudos do curso de Contabilidade, autorizado pelo presente diploma e fixado em anexo à Port\
+    \ 1138/2001 de 29-Nov, pela PORT.382/2004.14.04.2004.MCES, DR.IS-B [88] de 14.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-2004-220746
+  date: '2004-04-14'
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:07Z'
   warnings: []
   errors: []
 ---
@@ -114,26 +172,26 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 4 de Outubro de 1991.**
+Assinada em 4 de Outubro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Croreia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Curso de Engenharia Electrónica e Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf))](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
 
 ## ANEXO II — Curso de Engenharia Têxtil e do Vestuário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf))](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
 
 ## ANEXO III — Curso de Engenharia e Gestão Industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf))](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
 
 ## ANEXO IV — Curso de Contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf))](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
 
 ## ANEXO V — Curso de Design Industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf))](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/255b00/56695672.pdf)

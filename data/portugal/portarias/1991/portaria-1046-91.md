@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1046/1991/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1046-1991-288404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f5defc4010962b39b7b5abd177d966e7cc87278d8757bdcade92280793a4e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9a14c1a299d0f964fa415df5d80c7433465e7343b7faa14704f68a1ca189a36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,36 @@ subjects:
 - Código do Registo Civil
 - Código do Registo Comercial
 - Código do Registo Predial
-- Serviços de Registo e Notariado
-- Registo Automóvel
 - Emolumento do Notariado
+- Registo Automóvel
 - Registo Civil
-- Registo Predial
 - Registo Comercial
+- Registo Predial
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:238835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:238835:por
+  label: "Rectificada pela DECL-RECT.258/91.12.11.1991.PCM, DR.IS-B [276]3ºSupl de 30.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/258-1991-238835
+  date: '1991-11-12'
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:51Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +111,9 @@ Manda o Governo, pelo Ministro da Justiça, que, ao abrigo do disposto no artigo
 
 1.º - 1 - As verbas constantes dos artigos 11.º, n.º 6, 13.º, n.º 2, e 14.º, n.os 1 e 2 da tabela de emolumentos do registo civil, passam a ser:
 
-###### Artigo 11.º, n.º 6 - 200$00;
+Artigo 11.º, n.º 6 - 200$00;
 
-###### Artigo 13.º, n.º 2 - 100$00;
+Artigo 13.º, n.º 2 - 100$00;
 
 ###### Artigo 14.º:
 
@@ -114,7 +123,7 @@ N.º 2 - 1500$00.
 
 2 - O artigo 15.º e os n.os 1 e 4 do artigo 16.º da mesma tabela passam a ter a seguinte redacção:
 
-###### Art. 15.º Por cada auto de redução a escrito de requerimento verbal, salvo se respeitante a assento ou processo isento:
+Art. 15.º Por cada auto de redução a escrito de requerimento verbal, salvo se respeitante a assento ou processo isento:
 
 a) Para prática de acto de registo - 500$00;
 
@@ -122,7 +131,7 @@ b) Para fins de instauração de processo de casamento - 500$00;
 
 c) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil - 1500$00.
 
-###### Art. 16.º - 1 - Os emolumentos previstos nos artigos 11.º, n.º 6, 13.º, n.º 2, 14.º e 15.º tem a natureza de emolumentos pessoais.
+Art. 16.º - 1 - Os emolumentos previstos nos artigos 11.º, n.º 6, 13.º, n.º 2, 14.º e 15.º tem a natureza de emolumentos pessoais.
 
 2 - ...
 
@@ -132,7 +141,7 @@ c) Para fins de instauração de qualquer outro processo regulado no Código do 
 
 2.º O artigo 18.º da tabela de emolumentos do registo predial passa a ter a seguinte redacção:
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo 500$00;
 
@@ -160,7 +169,7 @@ Por requisição de três ou mais actos de registo - 5000$00.
 
 3.º O artigo 21.º da tabela de emolumentos do registo comercial passa a ter a seguinte redacção:
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo - 500$00;
 
@@ -188,7 +197,7 @@ Por requisição de três ou mais actos de registo - 5000$00.
 
 4.º À tabela de emolumentos do registo de automóveis é aditado o artigo seguinte:
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 a) Pelo requerimento ou preenchimento do impresso-requisição para realização de qualquer acto de registo sobre cada veículo - 500$00;
 
@@ -210,7 +219,7 @@ Por requisição de três ou mais actos de registo - 5000$00.
 
 5.º Os artigos 20.º, 23.º, 24.º e 30.º da tabela de emolumentos do notariado passam a ter a seguinte redacção:
 
-###### Art. 20.º - 1 - É devido o emolumento de 3000$00 pelo estudo e preparação das seguintes escrituras, salvo se se reproduzir minuta apresentada pelas partes:
+Art. 20.º - 1 - É devido o emolumento de 3000$00 pelo estudo e preparação das seguintes escrituras, salvo se se reproduzir minuta apresentada pelas partes:
 
 a) Justificação e reconhecimento de direitos;
 
@@ -246,7 +255,7 @@ o) Qualquer acto que envolva aplicação de normas jurídicas estrangeiras.
 
 4 - É devido o emolumento de 500$00 por cada requerimento directamente relacionado com actos notariais que deva ser apresentado noutras repartições.
 
-###### Art. 23.º - 1 - Pela celebração de qualquer acto dentro das horas regulamentares fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.
+Art. 23.º - 1 - Pela celebração de qualquer acto dentro das horas regulamentares fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.
 
 2 - Ao aumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.
 
@@ -260,13 +269,13 @@ o) Qualquer acto que envolva aplicação de normas jurídicas estrangeiras.
 
 7 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos dos n.os 1, 3, 4 e 6 deste artigo e do n.º 4 do artigo 20.º é fixado por despacho normativo do Ministro da Justiça.
 
-###### Art. 24.º - 1 - Pela celebração de qualquer acto fora das horas regulamentares, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 3000$00.
+Art. 24.º - 1 - Pela celebração de qualquer acto fora das horas regulamentares, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 3000$00.
 
 2 - Ao emolumento do número anterior é aplicável, conforme os casos, o disposto nos n.os 2, 3, 4 e 5 do artigo precedente.
 
 3 - O emolumento do n.º 1 é elevado para o dobro sempre que os actos forem celebrados, de harmonia com a requisição, antes das 8 ou depois das 21 horas, bem como em dia em que o cartório esteja encerrado.
 
-###### Art. 30.º - 1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 20.º, 23.º e 24.º
+Art. 30.º - 1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 20.º, 23.º e 24.º
 
 2 - Dos emolumentos do artigo 20.º pertencem dois terços ao notário e um terço aos funcionários do cartório na proporção dos seus vencimentos de categoria.
 
@@ -288,6 +297,6 @@ e) Nos actos presididos pelo ajudante que careçam de visto do notário, um ter�
 
 Ministério da Justiça.
 
-**Assinada em 23 de Setembro de 1991.**
+Assinada em 23 de Setembro de 1991.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

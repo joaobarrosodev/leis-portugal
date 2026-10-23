@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-1990-556420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d436a4e32551d5b7d4dbee89f4af51a3072c05f2d3746afa5d3a4f7110e8be7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b68439169de91e6e5936cb203ad762e813ee9a7d82ef0ce86d601ea3a9001864
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águas Residuais
+- Controlo Sanitário
+- Descarga de ÁGUA Residual
+- Matadouro
+- Poluição da água
+- Produção Animal
+- Proteção do Ambiente
+- Saúde Pública
+- Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:430457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430457:por
+  label: "Mantida em vigor pelo DEC LEI.236/98.1998.08.01.MAM DR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1998-430457
+  date: '1998-08-01'
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:04Z'
   warnings: []
   errors: []
 ---
@@ -134,13 +152,13 @@ QUADRO I
 
 Normas de descarga das águas residuais de matadouros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20900/36703671.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20900/36703671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20900/36703671.pdf)
 
 QUADRO II
 
 Normas de descarga das águas residuais do processamento de carnes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20900/36703671.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20900/36703671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20900/36703671.pdf)
 
 4.º
 
@@ -160,6 +178,6 @@ Nos termos do n.º 4 do artigo 45.º do [Decreto-Lei n.º 74/90](https://diariod
 
 Ministério da Agricultura, Pescas e Alimentação, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 20 de Agosto de 1990.**
+Assinada em 20 de Agosto de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.

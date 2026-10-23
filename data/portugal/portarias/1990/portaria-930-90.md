@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/930-1990-554584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c97cd2af01796e8a4a83867e04d52b5b9d79fc8d8f82acd2d66506e6cbbd4c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3b40ff62700e991ba855873627b2e991671438e15afe9ad415c94799d12f2e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Construção Civil
+- Curso de Engenharia Térmica
+- Curso de Equipamentos Térmicos
+- Curso de Gestão
+- Escola Superior de Tecnologia
+- Faro
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:234909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234909:por
+  label: "Alterado o n.º 1 do n.º 6.º, bem como o plano de estudos do curso de Engenharia Térmica, pela PORT.874/92.08.09.1992.ME,\
+    \ DR.IS-B [207] de 08.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/874-1992-234909
+  date: '1992-09-08'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:10Z'
   warnings: []
   errors: []
 ---
@@ -182,8 +205,8 @@ Sem prejuízo do período de transição, a que se refere o n.º 9.º, é derrog
 
 Ministério da Educação.
 
-**Assinada em 30 de Agosto de 1990.**
+Assinada em 30 de Agosto de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/22800/40824083.pdf))](https://files.diariodarepublica.pt/1s/1990/10/22800/40824083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22800/40824083.pdf)

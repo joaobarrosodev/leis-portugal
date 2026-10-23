@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/910-1990-555063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:33:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e055e51b076d8ae572aa2dac372279220b083820abdbfb1946ecdf7fe1d37cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beae86434db184997ea12ecd302fc5e2ea0b617f1995b22fe1588a3a52b55fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:33:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Fundo de Pensões
+- Fundo de Pensões dos Militares das Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:221483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:33:40Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +123,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, nos termos 
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 19 de Setembro de 1990.**
+Assinada em 19 de Setembro de 1990.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.
 
 ## ANEXO — Plano técnico, financeiro e actuarial do Fundo de Pensões dos Militares das Forças Armadas
 

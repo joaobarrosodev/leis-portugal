@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/695-1990-573974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 780bd372811160c0d9e71d8a10c7d6dfd5abb0de22fae3c9d28223cc44f01490
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fec39822d729d534846a4d91601709c653a8e19b194981af43a0f7e444c4552c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gasoduto
+- Normalização
+- Normas de Construção
+- Regulamento
+- Segurança dos Edifícios
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ARTIGOS 24 E 31 QUE CONSTITUI O ANEXO I A PORTARIA 981/91, PUBLICADA NO DR.IS-B, 221.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-25'
+- type: cites
+  target: pt:dre:366449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619284:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247183:por
+  label: Rectificada pela DECL.DD3062.1990.12.12.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247183
+  date: '1990-12-12'
 article_structure:
   article_count: 61
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:13Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +128,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 2 de Agosto de 1990.**
+Assinada em 2 de Agosto de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I — Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção de Gasodutos de Transporte de Gases Combustíveis
 
@@ -221,7 +252,7 @@ No seu fabrico, cada tubo está obrigatoriamente sujeito aos ensaios e controlos
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
 
 2 - Os valores de E, D, e e X que devem ser considerados para a determinação das pressões mínima e máxima de ensaio após fabrico são os indicados nos certificados de fornecimento dos tubos referidos no artigo 15.º
 
@@ -333,7 +364,7 @@ As tensões máximas de tracção perimetral ((sigma)) admissíveis para o metal
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
 
 ###### Artigo 30.º — Implantação de gasodutos nos locais de categoria 4
 
@@ -349,7 +380,7 @@ Só é permitida a implantação de gasodutos nos locais de categoria 4 desde qu
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
 
 4 - Quando for necessário adoptar os valores prescritos no quadro III, deve interpor-se um elemento de protecção de modo que as distâncias entre os extremos do elemento de protecção e os pontos mais próximos dos edifícios obedeçam ao estabelecido no mesmo quadro.
 
@@ -561,7 +592,7 @@ Todas as derivações ou ligações ao gasoduto de transporte devem incluir uma 
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
 
 2 - Salvo decisão em contrário do técnico responsável pela inspecção e certificação, as condições constantes do quadro IV relativas às categorias 3 e 4 não terão aplicação nos seguintes casos:
 
@@ -655,7 +686,7 @@ b) A que tem por objectivo a detecção de possíveis anomalias - tipo B - deve 
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19100/33743380.pdf)
 
 4 - Nos troços submersos e aéreos os intervalos entre inspecções e detecção de fugas ficam ao critério das concessionárias, não podendo, porém, exceder três anos.
 

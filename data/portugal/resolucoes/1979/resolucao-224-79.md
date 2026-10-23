@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17400/17521752.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/224-1979-381515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5283174744e9f7c4c8610b67f40ecdbf856f3ebd9365bce04fa958bdb4c87645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e897b033bf20b51b681a97fbaf311147e115267202b1d209e5beb5ee0be99f42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Funcionário Público
+- Guarda Fiscal
+- Missão no Estrangeiro
+- Missão Oficial
 relationships:
 - type: amended_by
   target: pt:dre:459649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:459649:por
+  label: "Revogada pela RES.403/80.10.12.1980.PCM, DR.IS [284] de 10.12.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/403-1980-459649
+  date: '1980-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:38Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +111,7 @@ O Conselho de Ministros, reunido em 20 de Junho de 1979, resolveu:
 
 1 - As ajudas de custo diárias a abonar aos funcionários e agentes do Estado e a entidades a eles equiparadas que se desloquem em missão oficial ao estrangeiro ou no estrangeiro passam a ser as fixadas na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17400/17521752.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17400/17521752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17400/17521752.pdf)
 
 2 - O disposto no número anterior não se aplica a entidades abrangidas por instrumentos colectivos de trabalho em que se definam outras tabelas de ajudas de custo.
 

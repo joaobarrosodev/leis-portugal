@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01600/02950298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-1990-333778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c6a28071b8a158dabe98ec61df63a1a8b57e49b7044a74140a9fde8b6e9ee2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c6b52ed0b945d6b24bc776b99d5b4cfb7f9a860e7080b767de4ea11d0e5b60a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Região de Turismo
+- Região de Turismo de Évora
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:556643:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556643:por
+  label: "Alterado o nº1 do art. 1º dos Estatutos da Região de Turismo de Évora, publicados em anexo ao presente diploma,\
+    \ pela PORT.807/90.08.09.1990.MCT, DR.IS [208] de 08.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-1990-556643
+  date: '1990-09-08'
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:16Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +124,11 @@ Manda o Governo, pelo Secretário de Estado do Turismo, o seguinte:
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 28 de Dezembro de 1989.**
+Assinada em 28 de Dezembro de 1989.
 
-**O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.**
+O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.
 
-## Anexo a que se refere a [Portaria n.º 48/90](https://diariodarepublica.pt/dr/detalhe/portaria/48-1990-333777), de 19 de Janeiro
+Anexo a que se refere a [Portaria n.º 48/90](https://diariodarepublica.pt/dr/detalhe/portaria/48-1990-333777), de 19 de Janeiro
 
 Estatutos da Região de Turismo de Évora
 

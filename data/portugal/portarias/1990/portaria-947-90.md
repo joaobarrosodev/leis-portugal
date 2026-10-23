@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/947-1990-555804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b83ef2bf8f9ba76bb1fab5dba8407c8fc294db95f5aa9cec880c026efe8ad19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cbad3d1d5c6137f4bbcafa7942c7952e47b3ca5e01af32dc2c52d33cb212e3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Profissional
+- Escola de Comércio de Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:374849:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374849:por
+  label: "Alterado o plano de estudos do curso, aprovado no presente diploma, pela PORT.615/93.29.06.1993.ME, DR.IS-B [150]\
+    \ de 29.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/615-1993-374849
+  date: '1993-06-29'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:30Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +116,9 @@ Manda o Governo, pelos Ministros da Educação, do Emprego e da Segurança Socia
 
 Ministérios da Educação, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 13 de Setembro de 1990.**
+Assinada em 13 de Setembro de 1990.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
 ## ANEXO — GETAP - Gabinete de Educação Tecnológica, Artística e Profissional
 
@@ -113,4 +126,4 @@ Plano curricular
 
 Curso de técnico de serviços comerciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23000/41374137.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23000/41374137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23000/41374137.pdf)

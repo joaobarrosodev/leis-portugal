@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/438-1990-575075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8a1d1b6598f53313c67b9ef409daa69e1d83b55ce8de6544482512a8f38ad2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee11b7840ad542ee527f82ea087f3b42249a1fab6020f3b38d2a75d171463787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Santarém
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:641167:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157471:por
+  label: "Renovada a concessão da zona de caça associativa, pela PORT.254-V/96.1996.07.15.MADRP, DR.IS-B [162]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-v-1996-157471
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:146725:por
+  label: "Suspenso o exercício da caça pela PORT.636/2002.2002.06.12.MADRP, DR.IS-B [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-2002-146725
+  date: '2002-06-12'
+- type: amended_by
+  target: pt:dre:196921:por
+  label: "Renovada por seis anos a concessão de zona de caça e renovada pela Port 254-V/96 de 15-Jul, pela PORT.907/2002.2002.07.30.MADRP,\
+    \ DR.IS-B [174]\0-B [174]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-2002-196921
+  date: '2002-07-30'
+- type: amended_by
+  target: pt:dre:641167:por
+  label: "Extinta a zona de caça atribuída pelo presente diploma, alterado pela Portaria 254-V/96, de 15 de Julho e pela Portaria\
+    \ 907/2002, de 30 de Julho ( revogada a partir de 08.09.2007), pela PORT.1066/2007.03.09.2007.MADRP, DR.IS [169] de 03.09.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1066-2007-641167
+  date: '2007-09-03'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:02Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +155,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 22 de Maio de 1990.**
+Assinada em 22 de Maio de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13600/25422542.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13600/25422542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13600/25422542.pdf)

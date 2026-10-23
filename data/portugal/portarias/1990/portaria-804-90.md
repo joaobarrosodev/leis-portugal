@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/804-1990-556640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4967e35250f69603e06fb7cab2fcaabc5a8541696ae7b69299dbbe3c3f6c5a54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd3d7eb9b37e3572fd9c332167611b72fd565f5ef62c787c62199802cad05279
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Naval
+- Marinha
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:570724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619329:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199396:por
+  label: Rectificada pela DECL.DD3157.1990.09.14.PCM DR.IS [226]Supl de 29.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-199396
+  date: '1990-09-14'
+- type: repealed_by
+  target: pt:dre:1873429:por
+  label: "Revogada a al. b) do n.º 1 da parte 1 do anexo D do Regulamento aprovado pela Port 471/86, de 28-Ago, na redacção\
+    \ do presente diploma, pela PORT.970/2005(2ªSérie).13.09.2005.MDN, DR.IIS [185] de 26.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-2005-1873429
+  date: '2005-09-13'
+- type: repealed_by
+  target: pt:dre:570724:por
+  label: "Revogada a Port 471/86, de 28-ago, na redacção da presente Portaria, pela PORT.21/2014.31.01.2014.MDN, DR.IS [22]\
+    \ de 31.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-2014-570724
+  date: '2014-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:59Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +136,13 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 2.º Os artigos 1.º, 8.º, 36.º, 41.º, 42.º, 43.º, 94.º, 95.º, 96.º, 124.º, 126.º, 127.º, 131.º, 136.º, 155.º, 156.º, 180.º, 181.º, 182.º, 187.º, 194.º, 195.º, 197.º, 198.º, 201.º, 213.º, 228.º, 235.º e 247.º, assim como o quadro II do anexo A, o anexo B, o anexo C e o anexo D do Regulamento da Escola Naval, aprovado pela [Portaria n.º 471/86](https://diariodarepublica.pt/dr/detalhe/portaria/471-1986-219141), de 28 de Agosto, com a rectificação publicada no Diário da República, 1.ª série, n.º 252, de 31 de Outubro de 1986, com a redacção dada pelas Portarias n.os [739/87](https://diariodarepublica.pt/dr/detalhe/portaria/739-1987-418043), de 28 de Agosto, e [641/89](https://diariodarepublica.pt/dr/detalhe/portaria/641-1989-619329), de 10 de Agosto, passam a ter a seguinte redacção:
 
-###### Artigo 1.º A Escola Naval é um estabelecimento militar de ensino superior que tem por missão formar os alunos que a frequentam para o exercício das funções de oficiais da Armada com vista ao seu ingresso nas classes referidas no § 1.º do artigo 243.º do Estatuto dos Militares das Forças Armadas.
+Artigo 1.º A Escola Naval é um estabelecimento militar de ensino superior que tem por missão formar os alunos que a frequentam para o exercício das funções de oficiais da Armada com vista ao seu ingresso nas classes referidas no § 1.º do artigo 243.º do Estatuto dos Militares das Forças Armadas.
 
-###### Art. 8.º - 1 - O comandante da Escola Naval é um vice-almirante.
+Art. 8.º - 1 - O comandante da Escola Naval é um vice-almirante.
 
 2 - ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) ...
 
@@ -120,7 +156,7 @@ e) Elaborar a análise estatística do aproveitamento escolar e dos resultados f
 
 f) ...
 
-###### Art. 39.º - 1 - ...
+Art. 39.º - 1 - ...
 
 2 - Os departamentos de formação são os seguintes:
 
@@ -136,21 +172,21 @@ e) Departamento de Formação de Engenheiros Navais - ramo de Mecânica (DFEN-M)
 
 f) Departamento de Formação de Engenheiros Navais - ramo de Armas e Electrónica (DFEN-AE).
 
-###### Art. 41.º Aos Departamentos de Formação de Marinha, de Administração Naval, de Fuzileiros, de Engenheiros Navais - ramo de Mecânica - e de Engenheiros Navais - ramo de Armas e Electrónica - compete, especialmente, a coordenação e a orientação do ensino das matérias próprias das respectivas classes e ainda as de formação geral de qualquer oficial da armada.
+Art. 41.º Aos Departamentos de Formação de Marinha, de Administração Naval, de Fuzileiros, de Engenheiros Navais - ramo de Mecânica - e de Engenheiros Navais - ramo de Armas e Electrónica - compete, especialmente, a coordenação e a orientação do ensino das matérias próprias das respectivas classes e ainda as de formação geral de qualquer oficial da armada.
 
-###### Art. 42.º - 1 - A coordenação e orientação do ensino das matérias relacionadas com a formação e educação militar-naval e física dos alunos, por forma a habilitá-los ao exercício das funções de comando e chefia, no culto das virtudes militares, da história e tradições navais, compete ao corpo de alunos.
+Art. 42.º - 1 - A coordenação e orientação do ensino das matérias relacionadas com a formação e educação militar-naval e física dos alunos, por forma a habilitá-los ao exercício das funções de comando e chefia, no culto das virtudes militares, da história e tradições navais, compete ao corpo de alunos.
 
 2 - A actividade do ensino mencionado na alínea anterior é exercida através dos órgãos próprios do corpo de alunos, que, para o efeito, depende funcionalmente do director de instrução.
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 a) ...
 
 b) Os restantes departamentos, pelos oficiais mais antigos ou graduados que deles façam parte, salvo os recrutados nas condições do n.º 5 do artigo 63.º
 
-###### Art. 94.º - 1 - As companhias de alunos são comandadas por primeiros-tenentes, nomeados pelo comandante de entre os oficiais que prestam serviço na Escola Naval.
+Art. 94.º - 1 - As companhias de alunos são comandadas por primeiros-tenentes, nomeados pelo comandante de entre os oficiais que prestam serviço na Escola Naval.
 
-###### Art. 95.º - 1 - ...
+Art. 95.º - 1 - ...
 
 a) ...
 
@@ -178,11 +214,11 @@ m) ...
 
 2 - ...
 
-###### Art. 96.º - 1 - Os gabinetes de aplicação são órgãos de apoio do comandante do corpo de alunos para o cumprimento da sua missão e para a prática dos ensinamentos colhidos pelos alunos no âmbito da sua formação militar-naval.
+Art. 96.º - 1 - Os gabinetes de aplicação são órgãos de apoio do comandante do corpo de alunos para o cumprimento da sua missão e para a prática dos ensinamentos colhidos pelos alunos no âmbito da sua formação militar-naval.
 
 2 - ...
 
-###### Art. 124.º Para os fins indicados no artigo 1.º do seu Estatuto, a Escola Naval confere o grau de licenciado em:
+Art. 124.º Para os fins indicados no artigo 1.º do seu Estatuto, a Escola Naval confere o grau de licenciado em:
 
 a) Ciências Militares Navais - marinha;
 
@@ -194,23 +230,23 @@ d) Ciências Militares Navais - fuzileiros;
 
 ministrando, em consequência, os respectivos cursos.
 
-###### Art. 126.º - 1 - Para além dos cursos previstos no artigo 24.º do seu Regulamento, poderá a Escola Naval ser encarregada, por despacho do Chefe do Estado-Maior da Armada, de ministrar outros cursos para oficiais, com vista ao ingresso nas outras classes previstas no artigo 243.º do Estatuto dos Militares das Forças Armadas.
+Art. 126.º - 1 - Para além dos cursos previstos no artigo 24.º do seu Regulamento, poderá a Escola Naval ser encarregada, por despacho do Chefe do Estado-Maior da Armada, de ministrar outros cursos para oficiais, com vista ao ingresso nas outras classes previstas no artigo 243.º do Estatuto dos Militares das Forças Armadas.
 
 2 - Os alunos dos cursos a que se refere o número anterior ficam sujeitos às disposições deste Regulamento em tudo o que lhes for aplicável.
 
 3 - No caso dos cursos a que se refere o n.º 1 deste artigo, e quando o comandante o julgue necessário, poderão ser reforçados o corpo docente e a lotação da Escola por forma a garantir a adequada eficiência do ensino e o apropriado apoio dos serviços da unidade, nos termos previstos no artigo 75.º deste Regulamento.
 
-###### Art. 127.º A organização, duração e estrutura curricular dos cursos serão aprovadas por portaria conjunta dos Ministros da Defesa Nacional e da Educação, sob proposta do Chefe do Estado-Maior da Armada.
+Art. 127.º A organização, duração e estrutura curricular dos cursos serão aprovadas por portaria conjunta dos Ministros da Defesa Nacional e da Educação, sob proposta do Chefe do Estado-Maior da Armada.
 
-###### Art. 131.º - 1 - Os planos de estudo são aprovados pelo Chefe do Estado-Maior da Armada, mediante proposta do comandante da Escola Naval, ouvido o conselho científico.
+Art. 131.º - 1 - Os planos de estudo são aprovados pelo Chefe do Estado-Maior da Armada, mediante proposta do comandante da Escola Naval, ouvido o conselho científico.
 
 2 - Os planos detalhados dos cursos e as normas pedagógicas para o seu funcionamento serão aprovados pelo comandante da Escola Naval.
 
-###### Art. 136.º - 1 - No último ano dos cursos referidos no artigo 124.º deste Regulamento os alunos frequentarão os estágios e tirocínios que integram cada um desses cursos, em navios, noutras unidades da Armada, ou em instituições adequadas, com a finalidade principal de os adaptar gradualmente para o desempenho das funções e às responsabilidades que cabem aos oficiais subalternos das respectivas classes.
+Art. 136.º - 1 - No último ano dos cursos referidos no artigo 124.º deste Regulamento os alunos frequentarão os estágios e tirocínios que integram cada um desses cursos, em navios, noutras unidades da Armada, ou em instituições adequadas, com a finalidade principal de os adaptar gradualmente para o desempenho das funções e às responsabilidades que cabem aos oficiais subalternos das respectivas classes.
 
 2 - ...
 
-###### Art. 155.º - 1 - ...
+Art. 155.º - 1 - ...
 
 2 - ...
 
@@ -220,39 +256,39 @@ ministrando, em consequência, os respectivos cursos.
 
 5 - Os exames finais a que se refere o n.º 3 deste artigo poderão ser efectuados por antecipação ao período normal de exames da segunda época, previsto no plano de actividades escolares, sempre que o aluno o requeira e logre parecer favorável do conselho pedagógico.
 
-###### Art. 156.º - 1 - Os alunos dispensados do exame final de quaisquer disciplinas têm direito a efectuar exames nessas disciplinas, com vista à melhoria de classificação, desde que o declarem por escrito.
+Art. 156.º - 1 - Os alunos dispensados do exame final de quaisquer disciplinas têm direito a efectuar exames nessas disciplinas, com vista à melhoria de classificação, desde que o declarem por escrito.
 
 2 - Os exames previstos no número anterior deverão, obrigatoriamente, incluir prova oral, podendo ser dispensada a prova escrita.
 
-###### Art. 168.º - 1 - ...
+Art. 168.º - 1 - ...
 
 2 - Os alunos que se encontrem nas condições do n.º 3 do artigo 155.º poderão beneficiar do disposto no número anterior desde que não ultrapassem o número máximo de três exames na 2.ª época.
 
-###### Art. 180.º O concurso de admissão poderá englobar a prestação de provas de aptidão física e psicotécnica, provas específicas, inspecções médicas e ainda a participação em actividades de natureza militar-naval sujeitas a avaliação.
+Art. 180.º O concurso de admissão poderá englobar a prestação de provas de aptidão física e psicotécnica, provas específicas, inspecções médicas e ainda a participação em actividades de natureza militar-naval sujeitas a avaliação.
 
-###### Art. 181.º - 1 - O número de candidatos a admitir em cada curso será fixado por despacho do Ministro da Defesa Nacional, mediante proposta do Chefe do Estado-Maior da Armada.
+Art. 181.º - 1 - O número de candidatos a admitir em cada curso será fixado por despacho do Ministro da Defesa Nacional, mediante proposta do Chefe do Estado-Maior da Armada.
 
 2 - O número de candidatos a admitir num concurso com destino a uma classe poderá ser alterado posteriormente à realização do concurso, por despacho do Chefe do Estado-Maior da Armada, mediante proposta do comandante da Escola Naval, dentro do número total inicialmente fixado.
 
-###### Art. 182.º - 1 - ...
+Art. 182.º - 1 - ...
 
 2 - As normas gerais para a realização dos concursos referidos no número anterior são as que constam do anexo D a este Regulamento, sendo estabelecidos por despacho do Chefe do Estado-Maior da Armada a natureza e faseamento das propostas e actividades que integram o concurso.
 
-###### Art. 187.º - 1 - ...
+Art. 187.º - 1 - ...
 
 2 - Se entre os cadetes-candidatos aprovados no concurso referido no número anterior houver filhos de militares falecidos em serviço ou por motivo do mesmo, pode o Ministro da Defesa Nacional determinar a sua admissão para além do número de vacaturas para que foi aberto concurso.
 
-###### Art. 194.º - 1 - No final do 4.º ano lectivo os alunos efectuam o juramento de bandeira, nos termos previstos no artigo 8.º do Estatuto dos Militares das Forças Armadas.
+Art. 194.º - 1 - No final do 4.º ano lectivo os alunos efectuam o juramento de bandeira, nos termos previstos no artigo 8.º do Estatuto dos Militares das Forças Armadas.
 
 2 - Nesta cerimónia pública, revestida de solenidade adequada, serão também entregues as espadas.
 
-###### Art. 195.º - 1 - Os alunos dos cursos referidos no artigo 124.º deste Regulamento têm a designação de cadetes nos primeiros quatro anos dos respectivos cursos, sendo promovidos a aspirantes a oficial com referência à data de início do 5.º ano.
+Art. 195.º - 1 - Os alunos dos cursos referidos no artigo 124.º deste Regulamento têm a designação de cadetes nos primeiros quatro anos dos respectivos cursos, sendo promovidos a aspirantes a oficial com referência à data de início do 5.º ano.
 
 2 - ...
 
 3 - ...
 
-###### Art. 197.º - 1 - ...
+Art. 197.º - 1 - ...
 
 a) ...
 
@@ -260,7 +296,7 @@ b) Entre alunos do mesmo curso, pela respectiva cota de mérito, aprovada nos te
 
 2 - ...
 
-###### Art. 198.º - 1 - Os militares da Armada admitidos à frequência dos cursos referidos no artigo 124.º deste Regulamento mantêm os seus postos e classes e, sem prejuízo dos direitos adquiridos, passam a designar-se, no caso de sargentos e praças, por cadetes, sendo graduados em aspirantes a oficial em igualdade de circunstâncias com os restantes alunos do mesmo curso.
+Art. 198.º - 1 - Os militares da Armada admitidos à frequência dos cursos referidos no artigo 124.º deste Regulamento mantêm os seus postos e classes e, sem prejuízo dos direitos adquiridos, passam a designar-se, no caso de sargentos e praças, por cadetes, sendo graduados em aspirantes a oficial em igualdade de circunstâncias com os restantes alunos do mesmo curso.
 
 A situação dos oficiais da Reserva Naval admitidos à frequência destes cursos rege-se por legislação própria.
 
@@ -268,11 +304,11 @@ A situação dos oficiais da Reserva Naval admitidos à frequência destes curso
 
 3 - ...
 
-###### Art. 201.º O alistamento definitivo implica para o aluno que logre aproveitamento obrigação de servir na Marinha, nos termos previstos no Estatuto dos Militares das Forças Armadas.
+Art. 201.º O alistamento definitivo implica para o aluno que logre aproveitamento obrigação de servir na Marinha, nos termos previstos no Estatuto dos Militares das Forças Armadas.
 
-###### Art. 213.º Os alunos da Escola Naval são obrigatoriamente inscritos como subscritores da Caixa Geral de Aposentações e gozam de todas as regalias a que têm direito os subscritores militares.
+Art. 213.º Os alunos da Escola Naval são obrigatoriamente inscritos como subscritores da Caixa Geral de Aposentações e gozam de todas as regalias a que têm direito os subscritores militares.
 
-###### Art. 228.º - 1 - ...
+Art. 228.º - 1 - ...
 
 2 - ...
 
@@ -288,7 +324,7 @@ d) Prisão escolar (PE);
 
 e) Expulsão.
 
-###### Art. 235.º A competência disciplinar escolar para aplicação das penas referidas no n.º 3 do artigo 228.º é a seguinte:
+Art. 235.º A competência disciplinar escolar para aplicação das penas referidas no n.º 3 do artigo 228.º é a seguinte:
 
 a) ...
 
@@ -298,9 +334,9 @@ c) ...
 
 d) ...
 
-###### Art. 247.º Aos alunos abatidos ao efectivo do corpo de alunos para ingressarem nos quadros do activo dos oficiais da Armada serão entregues, em cerimónia pública, os diplomas de licenciatura.
+Art. 247.º Aos alunos abatidos ao efectivo do corpo de alunos para ingressarem nos quadros do activo dos oficiais da Armada serão entregues, em cerimónia pública, os diplomas de licenciatura.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20800/36603663.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20800/36603663.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20800/36603663.pdf)
 
 ## ANEXO B — Corpo docente
 
@@ -492,6 +528,6 @@ V - Alistamento
 
 Ministério da Defesa Nacional.
 
-**Assinada em 14 de Agosto de 1990.**
+Assinada em 14 de Agosto de 1990.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

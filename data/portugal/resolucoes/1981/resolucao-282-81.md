@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1981, 6º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3414-(120) a 3414-(127)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/282-1981-144415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac1dadf8352343dd2ed990182cbc03cca6b760787719d1b921a7b8c7c336c410
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6605729e08f3cd906871416c08fdbf93103d7555c218e90c95cb503b2441a84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia da República
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:02Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +92,7 @@ A Assembleia da República resolveu, nos termos do n.º 4 do artigo 169.º da Co
 
 Aprovada em 19 de Dezembro de 1981.
 
-**O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.**
+O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.
 
 Orçamento ordinário da Assembleia da República para o ano económico de 1982
 
@@ -110,11 +116,11 @@ Total ... 850000000$00
 
 Desenvolvimento do orçamento da receita para o ano económico de 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf)
 
 Desenvolvimento do orçamento da despesa para o ano económico de 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf)
 
 Verbas não sujeitas em 1982 às regras do regime duodecimal
 
@@ -146,6 +152,6 @@ Verbas não sujeitas em 1982 às regras do regime duodecimal
 
 52.00 - Investimentos - Maquinaria e equipamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01200127.pdf)
 
-**O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.**
+O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/15000/27742774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/494-1990-575503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b44cd87f9c8b1b493fe6a7f443fa57ebbfaf7362fb27ee20ac3d801f53b988a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b244a7ff6d5eaa5ac8ee21bbaa71c603b27a8172711eef89f9651e9cf43332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Azeite
+- CEE
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Organização Comum de Mercado
+- Política Agrícola Comum
+- Regulamento CE
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:624271:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:624271:por
+  label: "Revogado pela PORT.1193/92.22.12.1992.MA, DR.IS-B [294] de 22.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1193-1992-624271
+  date: '1992-12-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:22Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +136,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Junho de 1990.**
+Assinada em 14 de Junho de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

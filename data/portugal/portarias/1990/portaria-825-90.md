@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21100/37223723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/825-1990-557835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a97f5ac77dc74942118c6456f07fd0dd12205075d2e55be571f73bc45206fca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99254f6346d8ef1cb410c45b69f155696f15e84886ecd820506b0e15ac63a41a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Técnicas de Comercialização
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia e Gestão
+- Instituto Politécnico
+- Plano de Estudos
+- Portalegre
 relationships:
 - type: amended_by
   target: pt:dre:544133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:675266:por
+  label: "Alterada a designação do curso de bacharelato em Técnicas de Comercialização, para curso de bacharelato em Gestão\
+    \ Comercial e Marketing, pela PORT.815/91.12.08.1991.ME, DR.IS-B [184] de 12.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/815-1991-675266
+  date: '1991-08-12'
+- type: amended_by
+  target: pt:dre:145776:por
+  label: "Alterado o plano de estudos do curso de bacharelato em Gestão Comercial e Marketing constante do quadro 3 do anexo\
+    \ I, pela PORT.54/95.23.01.1995.ME, DR.IS-B [19] de 23.01.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-1995-145776
+  date: '1995-01-23'
+- type: amended_by
+  target: pt:dre:685665:por
+  label: "Substituído o plano de estudos anexo ao presente diploma, com a redacção dada pelas Port 815/91 de 12-Ago e 54/95\
+    \ de 23-Jan, pela PORT.1179/97.1997.11.18.ME DR.IS-B [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1179-1997-685665
+  date: '1997-11-18'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544133:por
+  label: "Revogada, findo o prazo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98 de\
+    \ 17-Jul, na parte em que autorizou a Escola Superior de Tecnologia e Gestão de Portalegre, a conferir o grau de bacharel\
+    \ em Gestão Comercial e Marketing pela PORT.968/2000.2000.10.10.ME,DR.IS-B [234] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/968-2000-544133
+  date: '2000-10-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:29Z'
   warnings: []
   errors: []
 ---
@@ -149,8 +185,8 @@ O curso entrará em funcionamento progressivamente ano curricular a ano curricul
 
 Ministério da Educação.
 
-**Assinada em 31 de Julho de 1990.**
+Assinada em 31 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21100/37223723.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21100/37223723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21100/37223723.pdf)

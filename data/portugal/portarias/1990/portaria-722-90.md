@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1990-574109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97b8d0b920df0be3399c0c01825e7fea0931f97e70aba717f4080abda1ed4d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 451e072949d64d73d6cde04a6fda7bd77885463760ca599d9707098966da5b6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Artesão Têxtil
+- Curso de Técnico de Higiene e Segurança do Trabalho e Ambiente
+- Curso Técnico de Informática-gestão
+- Escola Profissional
+- Escola Profissional do Instituto Sindical de Estudos Formação e Cooperação
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147640:por
+  label: "Extinto o curso profissional de Técnico de Informática-Gestão, criado pelo presente diploma que é revogado parcialmente\
+    \ no que àquele curso se refere, pela PORT.913/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ nos n.ºs 7.º e 8.º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/913-2005-147640
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147658:por
+  label: "Extinto o curso profissional de Técnico de Gestão de Pequenas e Médias Empresas, criado pelo presente diploma e\
+    \ revogado parcialmente na parte referente ao citado curso, pela PORT.899/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no n.º 9.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2005-147658
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:254184:por
+  label: "Revogado o Plano de Estudos do curso técnico de Higiene e Segurança do Trabalho e Ambiente, aprovado pelo presente\
+    \ diploma, pela PORT.183/2002.2002.03.01.ME DR.IS-B [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2002-254184
+  date: '2002-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:56Z'
   warnings: []
   errors: []
 ---
@@ -112,8 +142,8 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 2 de Agosto de 1990.**
+Assinada em 2 de Agosto de 1990.
 
 Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19200/34133414.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19200/34133414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19200/34133414.pdf)

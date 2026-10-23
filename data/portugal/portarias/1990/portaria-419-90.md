@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1990-575142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c95e55e1886bc96aa3318f90e8fe6e40d36283ca0f40850b05e9a82ee56e0b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cddd0af9cfbc1b02051af5e15a8652fe44cb31f0e14613a48e7bf70c09c7f7db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Extinção de Serviços
+- Gabinete da Área de Sines
+- Sines
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:169068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:615247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:644092:por
+  label: Rectificada pela DECL.DD3203.1990.07.25.PCM DR.IS [175] DE 31/JUL/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-644092
+  date: '1990-07-25'
+- type: repealed_by
+  target: pt:dre:169068:por
+  label: "Revogada e substituída pela PORT.133/92.02.03.1992.MF, DR.IS-B [52] de 02.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-1992-169068
+  date: '1992-03-02'
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:20:36Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +122,9 @@ Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administra�
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 17 de Maio de 1990.**
+Assinada em 17 de Maio de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 Protocolo n.º 1
 
@@ -125,19 +148,19 @@ O presente protocolo é feito em triplicado, ficando o original em poder da CMS,
 
 Santo André, aos 17 dias do mês de Maio de 1989.
 
-**O Presidente do Conselho de Gestão do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Sines, Francisco Maria Pereira do Ó Pacheco.**
+O Presidente do Conselho de Gestão do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Sines, Francisco Maria Pereira do Ó Pacheco.
 
 ## ANEXO I — Quadro de valores das propriedades a afectar à Câmara Municipal de Sines
 
 Prédios rústicos e ou mistos sitos na zona do perímetro urbano e área envolvente
 
-#### Secção J — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf)
+#### Secção J — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf)
 
 ## ANEXO II — ZIL-2 de Sines
 
 Empresas instaladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf)
 
 Protocolo n.º 2
 
@@ -169,8 +192,8 @@ Este protocolo é feito em triplicado, ficando o original em poder da CMS, o dup
 
 Santo André, aos 17 dias do mês de Maio de 1989.
 
-**O Presidente do Conselho de Gestão do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Sines, Francisco Maria Pereira do Ó Pacheco.**
+O Presidente do Conselho de Gestão do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Sines, Francisco Maria Pereira do Ó Pacheco.
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/24852492.pdf)

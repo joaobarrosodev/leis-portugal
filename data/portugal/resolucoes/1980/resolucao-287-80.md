@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56b9027356e73ad1558c9bdcfec0a198f73c2d673a9be04a2f1293faee26e0e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa2e249fcfea26f611a2d0420566dab6a204a57d4e96dd98e9fff93c247b3c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- AVAL do Estado
+- Caminhos de Ferro Portugueses
+- Financiamento
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:353741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381527:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460976:por
+  label: Rectificada pela DECL.DD6907.16.09.1980.PCM, DR.IS [214] de 16.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460976
+  date: '1980-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:39Z'
   warnings: []
   errors: []
 ---

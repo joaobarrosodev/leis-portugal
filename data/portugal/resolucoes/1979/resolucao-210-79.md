@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/210-1979-382176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d566c27b356ad6eba1c2156d2d69a73fac22b2de64b6a13ee786af74b6ba2194
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cab07386db6096afccb0a7cc5e916ef203e8dcc1df480856754c399a3c190dc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Gestor Público
+relationships:
+- type: cites
+  target: pt:dre:383377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA RES 7/85 DA PCM DE 06-FEV DR.IS [31].\0[31]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-02-06'
+- type: repealed_by
+  target: pt:dre:327826:por
+  label: Revogada, a partir de 11.02.1985, pelo(a) Resolução do Conselho de Ministros n.º 7/85 - Diário da República n.º 31/1985,
+    Série I de 1985-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/7-1985-327826
+  date: '1985-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:15Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +111,7 @@ O Conselho de Ministros, reunido em 20 de Junho de 1979, resolveu:
 
 1 - O quadro I do anexo I do [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro, passa, com referência a 1 de Janeiro de 1979, a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf)
 
 2 - Os indicadores referidos no número anterior não determinam a redução dos níveis já atribuídos às empresas públicas.
 
@@ -98,7 +119,7 @@ O Conselho de Ministros, reunido em 20 de Junho de 1979, resolveu:
 
 4 - Em condições a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Tutela, poderão os gestores das empresas públicas receber, em casos especiais devidamente fundamentados, a título de despesas de representação, montantes mensais fixos que não poderão, no entanto, exceder as seguintes percentagens do salário máximo nacional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16400/15661567.pdf)
 
 5 - a) O gestor público que, nos termos do artigo 20.º, n.º 2, do [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro, com a redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 51/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1979-383377), de 22 de Março (Estatuto do Gestor Público), seja obrigado a mudar a sua residência para outra localidade terá direito a um subsídio de deslocação que integrará uma importância de montante igual a dois meses de retribuição base e a um subsídio mensal de habitação que não poderá exceder 7000$00.
 

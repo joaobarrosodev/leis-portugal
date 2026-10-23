@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1080/1991/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1080-1991-344881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:37:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3196913485ebc3c78b1f996127f23d1d11078558ee34ce72c865b7d7ce714cde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adb064d9c99b7698f901cb01ec207cd6d2adf4350f3317b6f31a45498474b48c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:37:41Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +161,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Setembro de 1991.**
+Assinada em 30 de Setembro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
 
 Quadro de pessoal de enfermagem dos Hospitais Civis de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/245b00/54935493.pdf))](https://files.diariodarepublica.pt/1s/1991/10/245b00/54935493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/245b00/54935493.pdf)

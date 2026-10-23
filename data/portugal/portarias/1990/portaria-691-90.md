@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/691-1990-574112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2043f128842dffa323b79f248b16bfd1abffb958717ced96dd967cadfb3ae7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28e56750c38f875846aaf37396a5afc60f55117f68c527a94eefedcd98754799
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Técnico de Contabilidade
+- Curso Técnico de Gestão Agrícola
+- Curso Técnico de Mecânica FRIO e Climatização
+- Ensino Profissional
+- Escola Profissional
+- Formação Profissional
+- Plano de Estudos
+- Trancoso
 relationships:
 - type: amended_by
   target: pt:dre:147641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505651:por
+  label: "Extinto o curso profissional T&#233;cnico de Mec&#226;nica/Frio e climatiza&#231;&#227;o a funcionar na Escola Profissional\
+    \ de Trancoso e respectivo plano de estudos, criados no presente diploma, pela PORT.885/2004.21.07.2004.ME, DR.IS-B [170]\
+    \ de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente diploma as partes que &#224;quele curso respeitam\
+    \ pela supra citada portaria.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/885-2004-505651
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:505658:por
+  label: "Extinto o curso de T&#233;cnico de Gest&#227;o Agr&#237;cola a funcionar em Escolas Profissionais Agr&#237;colas\
+    \ de Trancoso e o respectivo plano de estudos criados no presente diploma, pela PORT.892/2004.21.07.2004.ME, DR.IS-B [170]\
+    \ de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente diploma as partes que &#224;quele curso respeita\
+    \ pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2004-505658
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:147641:por
+  label: "Extinto o curso profissional de Técnico de Contabilidade, criado pelo presente diploma e revogado parcialmente na\
+    \ parte referente ao citado curso, pela PORT.914/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-2005-147641
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:08Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +145,8 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 6 de Agosto de 1990.**
+Assinada em 6 de Agosto de 1990.
 
-**O Ministro da Educação, Roberto Artur do Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Roberto Artur do Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19000/33673368.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19000/33673368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19000/33673368.pdf)

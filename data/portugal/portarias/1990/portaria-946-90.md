@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23000/41284129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/946-1990-555803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a86a3b1fcb906f5b799fe661a2b679ae1986241900df23d186d663654edc29f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92d628ea26e3613201411f03c858243246179c8bd167afe566babf72f54eac60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Água
+- Aparelho de Medição
+- Direcção Geral dos Recursos Naturais
+- Preço
+- Santiago do Cacém
 relationships:
 - type: amended_by
   target: pt:dre:303415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:324354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662516:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303415:por
+  label: "Revogada e substitu&#237;da pela PORT.548/92.1992.06.23.SEAG-MA, DR.IS-B [142]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-1992-303415
+  date: '1992-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:30Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +152,9 @@ b) Na venda de água aos municípios, no mês seguinte à entrada em vigor desta
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 19 de Setembro de 1990.**
+Assinada em 19 de Setembro de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Miro Amaral. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro da Indústria e Energia, Luís Fernando Miro Amaral. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
 ## ANEXO
 
@@ -201,4 +236,4 @@ Escalão único ... 10$00
 
 Preços de aluguer de contadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23000/41284129.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23000/41284129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23000/41284129.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-1990-574114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ab568962e16cb3f26a633bd19a8fb51711c9b2089be8a8df2c798246df1e3a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bf2c84e2d9c9c7ce3ee1f9a513774e6e4f5a012a70312552d827803963257ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Preço
+- Preço de Intervenção
 relationships:
 - type: amended_by
   target: pt:dre:522798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ": RECTIFICACAO PUBLICADA NO DR.IS, 226, SUPL, DE 890330. REVOGADA PELA PORTARIA 668/91, PUBLICADA NO DR.IS-B, 159,\
+    \ DE 910713.R\013.R\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-03-30'
+- type: cites
+  target: pt:dre:575690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522798:por
+  label: "Revogada pelo DEC LEI.62/2000.2000.04.19.MADRP, DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2000-522798
+  date: '2000-04-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:27:53Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +112,17 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º A qualidade tipo do arroz em casca, para a qual é fixado o preço de intervenção, é a que correspondente ao arroz com as características a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf)
 
 2.º Além das características e dos limites fixados no número anterior, à qualidade tipo do arroz em casca corresponderão, consoante as variedades, os seguintes rendimentos industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf)
 
 3.º Nos rendimentos industriais em grãos inteiros referidos no número anterior é admitida uma percentagem máxima de 5% de grãos despontados.
 
 4.º Poderá ser aceite à intervenção o arroz em casca que satisfaça, no estado de branqueado, como qualidade mínima, as características a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf))](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/19000/33583359.pdf)
 
 5.º Além das características fixadas no número anterior, o arroz em casca, para ser aceite à intervenção, deverá satisfazer também os rendimentos industriais mínimos, que são os fixados no n.º 2.º diminuídos de 17 pontos percentuais.
 
@@ -112,6 +130,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Agosto de 1990.**
+Assinada em 1 de Agosto de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

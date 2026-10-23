@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1155/1991/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1155-1991-331575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4da540438a7b6c17e0b06fc11a636c56d14cf5bdc84ba4813470254c254ac0e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7973295599e39318b9a7ed7bfece84dc00e7e2e176b07bdb54108e862c072c4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre
+- type: cites
+  target: pt:dre:562589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:27Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 4 de Outubro de 1991.**
+Assinada em 4 de Outubro de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
@@ -197,11 +209,11 @@ Parâmetros gerais
 
 2.7 - Cromaticidade das cores primárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf))](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
 
 2.8 - Coordenadas da cromaticidade para sinais primários iguais (E'(índice R) = E'(índice G) = E'(índice B)):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf))](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
 
 2.9 - Equação do sinal de luminância:
 
@@ -331,7 +343,7 @@ Faixa: 2 níveis:
 
 3.10 - Taxa de pacote para canal monofónico ou estereofónico (pacotes/s):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf))](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
 
 3.11 - Identificação do método: explicado pela interpretação dos blocos.
 
@@ -407,6 +419,6 @@ f2 (MHz): 1,50.
 
 Forma de onda triangular síncrona com o sinal de modulação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf))](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/256b00/57075709.pdf)
 
 (nota 1) Além de E1 poderá ser usada uma pré-acentuação não linear.

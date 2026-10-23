@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/779-1990-556794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86dcc845234a25e5a0bcf84695ec772b04a54e60de2323dd6f57f859696cb3fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77e30fd106a0af76fa92de64b1dc79301424b214530051a3973e209401128a34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Coimbra
+- Curso de Engenharia das Operações Florestais
+- Ensino Superior Politécnico
+- Escola Superior Agrária
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:533796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147419:por
+  label: "Alterado o plano de estudos do curso aprovado pleo presente diploma, pela PORT.507/97.1997.07.21.ME DR.IS-B [166]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/507-1997-147419
+  date: '1997-07-21'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533796:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, na parte em que autoriza o Instituto Politécnico de Coimbra a conferir o grau de bacharel em Engenharia das\
+    \ Operações Florestais pela PORT.761/99.1999.08.27.ME,DR.IS-B [200] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/761-1999-533796
+  date: '1999-08-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:19Z'
   warnings: []
   errors: []
 ---
@@ -159,8 +183,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 31 de Julho de 1990.**
+Assinada em 31 de Julho de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/20100/35413542.pdf))](https://files.diariodarepublica.pt/1s/1990/08/20100/35413542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/20100/35413542.pdf)

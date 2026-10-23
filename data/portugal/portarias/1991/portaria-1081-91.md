@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1081/1991/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1081-1991-344882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:37:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e07758ca20a6030311a2ee3adea5acf61117e49d946e068e77c0773e8ec5c57f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73c15ae7f7d2781076c5032ad43fd19ba5b5b49abd008e546118c8861ee0f68c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,25 @@ subjects:
 - Normas de Segurança
 - Proteção do Consumidor
 - Segurança dos Edifícios
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:37:41Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +140,9 @@ Manda o Governo, pelos Ministros da Administração Interna, da Indústria e Ene
 
 Ministérios da Administração Interna, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Ambiente e Recursos Naturais.
 
-**Assinada em 9 de Outubro de 1991.**
+Assinada em 9 de Outubro de 1991.
 
-**O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 ## ANEXO — Termo de responsabilidade por instalação de termoacumuladores
 

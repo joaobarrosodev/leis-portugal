@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-1990-557861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f765ea2619f9d33d27d4cb6a34a6541a80e0cfadfc67ea1a4af4988b04fc50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a254fd13d7e0af17b11a0c9fb757e55f2946086f2a6edd12b696033b2f3cc63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciamento
+- Pesca
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:237800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484437:por
+  label: "Alterado o n.º 7.º e aditado o n.º 7.º-A pela PORT.162/91.27.02.1991.MAPA, DR.IS-B [48] de 27.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1991-484437
+  date: '1991-02-27'
+- type: amended_by
+  target: pt:dre:292514:por
+  label: "Alterado o n.º 9.º e o quadro constante do anexo II, e aditados os os n.ºs 7.º-B e 7.º-C pela PORT.740/92.22.07.1992.MM,\
+    \ DR.IS-B [167] de 22.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-1992-292514
+  date: '1992-07-22'
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199397:por
+  label: Rectificada a alínea c) do n.º 10.º pela DECL.DD3167.29.09.1990.PCM, DR.IS [226]Supl de 29.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-199397
+  date: '1990-09-28'
+- type: repealed_by
+  target: pt:dre:237800:por
+  label: "Revogada pela PORT.1243/92.31.12.1992.MM, DR.IS-B [301]13ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1243-1992-237800
+  date: '1992-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:14Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +207,7 @@ c) Durante esse mesmo período, só podem operar com outras artes para que estej
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 26 de Julho de 1990.**
+Assinada em 26 de Julho de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, José Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
 
@@ -175,10 +215,10 @@ Pelo Ministro da Agricultura, Pescas e Alimentação, José Manuel de Oliveira G
 
 Malhagens mínimas das redes de emalhar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf)
 
 ## ANEXO II — (N.º 8.º da Portaria n.º 815/90, de 11 de Setembro)
 
 Comprimentos máximos das redes de emalhar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21000/36903692.pdf)

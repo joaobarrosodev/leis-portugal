@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1124/1991/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ee476705405cd0d9992f80f532510a98cc0cd8ba8cae1c655cbb21616d35e44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 776fcf319a3b2284844ffb923eeb16835a7051264e29a714a757bb78cab7a75a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Ciência Política
 - Curso de Informática
 - Curso de Matemática
 - Curso de Urbanismo
 - Ensino Particular
+- Ensino Superior
 - Instituto Superior de Matemática e Gestão
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:173167:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:360769:por
+  label: "Alterado o plano de estudos do curso de Ciência Política pela PORT.375/97.1997.06.09.ME DR.IS-B [132]I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-1997-360769
+  date: '1997-06-09'
+- type: amended_by
+  target: pt:dre:406350:por
+  label: "Substituido o plano de estudos pela PORT.1213/97.1997.11.29.ME, DR.IS-B [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1213-1997-406350
+  date: '1997-11-29'
+- type: amended_by
+  target: pt:dre:209670:por
+  label: "Alterado o plano de estudos do Curso de Urbanismo, pela PORT.70/98.1998.02.18.ME, DR.IS-B [41]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1998-209670
+  date: '1998-02-18'
+- type: amended_by
+  target: pt:dre:240011:por
+  label: "Alterado o plano de estudos do curso de Informática pela PORT.921/98.1998.10.21.ME, DR.IS-B [243]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/921-1998-240011
+  date: '1998-10-21'
+- type: amended_by
+  target: pt:dre:583003:por
+  label: "Alterado o plano de estudos do curso de Ciência Política, pela PORT.50/2002.2002.01.11.ME DR.IS-B [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-2002-583003
+  date: '2002-01-11'
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:41Z'
   warnings: []
   errors: []
 ---
@@ -122,10 +155,10 @@ Curso de Urbanismo.
 
 Ministério da Educação.
 
-**Assinada em 4 de Outubro de 1991.**
+Assinada em 4 de Outubro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Instituto Superior de Matemática e Gestão - ISMAG
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/249b00/55675571.pdf))](https://files.diariodarepublica.pt/1s/1991/10/249b00/55675571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/249b00/55675571.pdf)

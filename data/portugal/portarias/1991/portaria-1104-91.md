@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1104/1991/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1104-1991-341633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bda4277931c5b466559ece5e6d43d15a7c32d7544ad748c3e6780a09a2210cc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86680032df567b6e985781a88fcdfeac0a5cc455c82b90fd7779a20daf0016bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Centro de Formação Profissional
-- Formação Profissional
 - Desenvolvimento Rural
 - Ensino Agrícola
+- Formação Profissional
+- Instituto Nacional de Investigação Agrária
 - Investigação Agronómica
 - Pedap
-- Agricultura
-- Instituto Nacional de Investigação Agrária
 relationships:
 - type: cites
   target: celex:31985R3828
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:16Z'
   warnings: []
   errors: []
 ---
@@ -225,6 +225,6 @@ c) Dar conhecimento dos pagamentos efectuados aos organismos responsáveis pela 
 
 Ministérios da Agricultura, Pescas e Alimentação e da Educação.
 
-**Assinada em 4 de Outubro de 1991.**
+Assinada em 4 de Outubro de 1991.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Educação, Roberto Artur da Luz Carneiro.

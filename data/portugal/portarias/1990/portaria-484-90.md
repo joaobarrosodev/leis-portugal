@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/484-1990-575323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1509b4a9b13a11cd176304603e9f5fd8b7eea08058f307ebcfe8ac017b8cdfd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa6f0d30f6b0a6cc51246f717d666eb83aa16fc321676d18de2c0b9c36fe9aba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Gestão Financeira da Segurança Social
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:564600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:285766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:10Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +123,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 29 de Maio de 1990.**
+Assinada em 29 de Maio de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14800/27432744.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14800/27432744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14800/27432744.pdf)

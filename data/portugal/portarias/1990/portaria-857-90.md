@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21700/38573858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/857-1990-557600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 392e5010ab90f683a459d0ed587360ed52179dfb80d045ac35905c4809b268a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27540fe068a63a8750ce3ec93c4b27da8456283469acf3d8e2df088a3144bba9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Gestão Comercial
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia e Gestão
+- Instituto Politécnico
+- Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:408167:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230963:por
+  label: "Alterado o n.º 6.º, bem como o plano de estudos, pela PORT.909/92.21.09.1992.ME, DR.IS-B [218] de 21.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/909-1992-230963
+  date: '1992-09-21'
+- type: cites
+  target: pt:dre:220093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620299:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408167:por
+  label: "Revogada pela PORT.335/96.03.08.1996.ME, DR.IS-B [179] de 03.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-1996-408167
+  date: '1996-08-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:32:14Z'
   warnings: []
   errors: []
 ---
@@ -163,8 +200,8 @@ O disposto na presente portaria aplica-se progressivamente a partir do ano lecti
 
 Ministério da Educação.
 
-**Assinada em 6 de Agosto de 1990.**
+Assinada em 6 de Agosto de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21700/38573858.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21700/38573858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21700/38573858.pdf)

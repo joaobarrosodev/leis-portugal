@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/267-1980-470390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd28c588b2ac83bd575a1a7091ba1cc96cadf4fc8f6f68ff1ea0ad07934c40f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72725cb2e2a66d7c50e3c84734d454da12b59e423846bc4ef03814d0c7621ecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caeta
+- Comissão Administrativa
+- Contrato de Viabilização
+- Definição de Competências
+- Financiamento
+- Grupo Praínha
+- IACE-Propriedades e Empreendimentos Turísticos
+- Infraestrutura Turística
+- Intervenção do Estado
+- Juros
+- MAAL-Mármores do Algarve
+- Transmissão de Contrato
 relationships:
 - type: amended_by
   target: pt:dre:378167:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378167:por
+  label: "RES.193/82.28.09.1982.PCM, DR.IS [251] de 29.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/193-1982-378167
+  date: '1982-09-28'
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:09Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +149,4 @@ O Conselho de Ministros, reunido em 25 de Junho de 1980, resolveu:
 
 Presidência do Conselho de Ministros, 25 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17400/19101911.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17400/19101911.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17400/19101911.pdf)

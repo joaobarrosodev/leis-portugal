@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1990-556819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cecc5782fa5cf4859aadddd12fdf596a68e31d799abb9026c9d1ebac4396b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88dfaa19d1f50e2454231a1f46356474397842a27ba8145837224f86c415b4b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Combustível
+- Normalização
+- Normas de Construção
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ARTIGO 24, PELA PORTARIA 981/91, PUBLICADA NO DR.IS-B, 221, DE 910925.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-25'
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619284:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247187:por
+  label: Rectificada pela DECL.DD3066.1990.12.13.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247187
+  date: '1990-12-13'
 article_structure:
   article_count: 40
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:34Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +122,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 3 de Agosto de 1990.**
+Assinada em 3 de Agosto de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I
 
@@ -180,7 +206,7 @@ d) De eventuais pormenores relativos a obras especiais.
 
 3 - Não é permitido o uso de tubos com uma espessura de parede inferior aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf)
 
 4 - Nos tubos de diâmetro externo superior a 508 mm a espessura mínima deve ser igual ou superior a 1% do valor do diâmetro externo.
 
@@ -210,7 +236,7 @@ e) As condições de realização da prova hidráulica, ou dos ensaios não dest
 
 2 - É permitida a utilização de curvas enformadas a frio com máquina, desde que o raio de curvatura R, em relação ao diâmetro externo De, não seja inferior aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf)
 
 3 - Podem ser utilizadas curvas segmentadas no caso de grandes diâmetros, devendo, todavia, o ângulo entre dois elementos consecutivos estar compreendido entre 15º e 25º e o respectivo grau de curvatura não ser inferior a dois diâmetros da tubagem.
 
@@ -410,7 +436,7 @@ b) Ser convenientemente fixada;
 
 c) Acompanhar a tubagem de gás até uma altura de 0,60 m acima do solo, a menos que a tubagem do gás penetre no edifício a menor altura, conforme se ilustra na figura 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20400/35643570.pdf)
 
 10 - A extremidade superior do espaço anelar entre a tubagem e a manga ou bainha deve ser obturada com um material inerte.
 

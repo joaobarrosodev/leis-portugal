@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/1991/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-1991-478029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31630d4c04bf9d5bbe568d5f70b44cc3c459e829f464b3634ede5ec4cb9bed31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27ae39fe2456593a25cb9b1a5e17cb3a2e8abf1b5978e4b6ad0b729d85659d8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,35 @@ subjects:
 - Centro Regional de Segurança Social
 - Criação de Serviços
 - Descentralização
-- Instituições de Segurança Social
 - Évora
+- Instituições de Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:156850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:42Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +123,6 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 16 de Janeiro de 1991.**
+Assinada em 16 de Janeiro de 1991.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

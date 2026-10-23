@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00700/00860087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-1990-313786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f1f9afb6d222ca9f4947f37b52552ffc6cdc0a06bdab6c14d9a9d323d73de92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55893afde91319360bc214c4f930d3d4e8cc80f373ddf25bb799c2a3ace0d551
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Comissão de Serviço
+- Estatuto
+- Exoneração
+- Funcionário Público
+- Instituto Nacional de Estatística
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:70196968:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:618497:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70196968:por
+  label: Revogada (a partir de 01.10.2015) pelo(a) Decreto-Lei n.º 187/2015 - Diário da República n.º 174/2015, Série I de
+    2015-09-07, sem prejuízo do disposto no art. 13.º do citado dec lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2015-70196968
+  date: '2015-09-07'
 article_structure:
   article_count: 10
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:33:20Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +114,9 @@ Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administra�
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Dezembro de 1989.**
+Assinada em 15 de Dezembro de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 Regime de Exercício de Titularidade de Órgãos de Estrutura
 
@@ -170,7 +188,7 @@ O prazo da comissão de serviço previsto no n.º 1 do artigo 4.º começa a con
 
 1 - Os núcleos funcionais podem ser de dois tipos:
 
-#### Secção;
+Secção;
 
 Núcleo de projecto.
 

@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/591-1990-573089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b156114352290c8df152487c5b6b23306a84b57d234e2640f3053b663db304e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c06c64c573b0dd5c6f81cec60aad17530c13ad62d92d4f73aeda205629add28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Hospitais Civis de Lisboa
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:344881:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:171481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601360:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:24:32Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +168,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 22 de Junho de 1990.**
+Assinada em 22 de Junho de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal dos Hospitais Civis de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/17300/31143114.pdf))](https://files.diariodarepublica.pt/1s/1990/07/17300/31143114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/17300/31143114.pdf)

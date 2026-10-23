@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1200/1991/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1200-1991-371379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0b1798f54de5d86f2588649e5deea36de4ac0f2fa77429efb4aee787afb1974
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d51ada92daa9429fc19437c4bb47ceb767c9557e93cb3d075e55778d3a0c89ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,27 @@ reuse:
 subjects:
 - Curso de Estudos Superiores Especializados em Gestão Financeira
 - Escola Superior de Gestão Hotelaria e Turismo
-- Universidade do Algarve
 - Numerus Clausus
+- Universidade do Algarve
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/21/1991/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/21/1991/01/10/p/dre
+- type: cites
+  target: pt:dre:694063:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:40:32Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +111,6 @@ Para o ano lectivo de 1991-1992, o número de vagas para o curso de estudos supe
 
 Ministério da Educação.
 
-**Assinada em 12 de Novembro de 1991.**
+Assinada em 12 de Novembro de 1991.
 
 Pelo Ministro da Educação, Emídio Gil Santos, Secretário de Estado do Sistema Educativo.

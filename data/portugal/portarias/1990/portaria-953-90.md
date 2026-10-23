@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/953-1990-555669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa755d6f4178471272af5a5060fd2f6fd57c705c1f114e95d216f8879355427c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f067c910f3f1caa412c627ca753173a28a10b7ff22d823eef4e76fe911d7a7d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Particular
+- Ensino Superior Politécnico
+- Instituto Superior Politécnico Portucalense
+- Lamego
+- Penafiel
+- Plano de Estudos
+- Santo Tirso
+- Universidade Portucalense Infante DOM Henrique
 relationships:
 - type: amended_by
   target: pt:dre:397507:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527043:por
+  label: "Alterado o anexo ao presente diploma pela Port.228/97.1997.04.02.ME DR.IS-B [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-1997-527043
+  date: '1997-04-02'
+- type: amended_by
+  target: pt:dre:397507:por
+  label: "Alterado o anexo à presente portaria, pela Port 332/97.1997.05.14.ME, DR.IS-B [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-1997-397507
+  date: '1997-05-14'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689269:por
+  label: Rectificada pela DECL.DD3104.1990.11.21.PCM, DR.IS [277]3ºSupl de 30/Nov/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689269
+  date: '1990-11-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:40Z'
   warnings: []
   errors: []
 ---
@@ -147,10 +174,10 @@ Técnico superior de Design.
 
 Ministério da Educação.
 
-**Assinada em 13 de Setembro de 1990.**
+Assinada em 13 de Setembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, secretário de Estado do Ensino Superior.
 
 ## ANEXO — Instituto Superior Politécnico Portucalense
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23200/41494151.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23200/41494151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23200/41494151.pdf)

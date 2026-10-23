@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1220/1991/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1220-1991-590964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcfe79aa0ab55ce7f7248e5ba06c0baf51354396c5ef1b51794f2ec32ef8aefc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 523715b04eae713388a2513e3cd3fa16aa0f68e7624f22a11e9c93e8cd8ba25a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Pensões
-- Função Pública
-- Equivalência de Categorias
-- Funcionário Ultramarino
 - Administração Ultramarina
+- Equivalência de Categorias
+- Função Pública
+- Funcionário Público
+- Funcionário Ultramarino
 - Pensão de Aposentação
 - Pensão de Preço de Sangue
 - Pensão de Reforma
-- Funcionário Público
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:401371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:02Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +127,7 @@ Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administra�
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 19 de Novembro de 1991.**
+Assinada em 19 de Novembro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
@@ -123,10 +135,10 @@ Mapa I anexo à Portaria n.º 1220/91
 
 Categorias específicas da antiga administração ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/300b00/67686768.pdf))](https://files.diariodarepublica.pt/1s/1991/12/300b00/67686768.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/300b00/67686768.pdf)
 
 Mapa II anexo à Portaria n.º 1220/91
 
 Rectificações da tabela de equivalências contida no mapa VI anexo à [Portaria n.º 907/84](https://diariodarepublica.pt/dr/detalhe/portaria/907-1984-401371), de 13 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/300b00/67686768.pdf))](https://files.diariodarepublica.pt/1s/1991/12/300b00/67686768.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/300b00/67686768.pdf)

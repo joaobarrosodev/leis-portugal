@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 188/1990, 1º Suplemento, Série I de 1990-08-16
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3348-(2) a 3348-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18801/00020003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-a-1990-283547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:27:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d060ed57e2709eb86ada342322bba1142a7da066f805ff34a04e9a0896df3bfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d4562151d7e4607488e11e16beee4480a7558de188b4cbb90f649afa9289b05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANA
+- Greve
+- Requisição Civil
+relationships:
+- type: cites
+  target: pt:dre:256015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:27:43Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +122,9 @@ Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicaçõ
 
 Ministérios das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
 
-**Assinada em 16 de Agosto de 1990.**
+Assinada em 16 de Agosto de 1990.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 ## ANEXO
 

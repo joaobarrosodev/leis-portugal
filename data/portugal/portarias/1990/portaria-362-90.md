@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10800/22042205.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1990-571273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:19:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e96e55ce25e8f671745b94a5a00d6a6b91ff7967bfcc12fa273b00d968ffc44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01600dba8ac57f5a672925ac3d8699f92d88a95fa4cff84e182212b7fea923ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:19:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia
+- Instituto Politécnico
+- Plano de Estudos
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:515235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515235:por
+  label: "Alterada a designação do curso de Engenharia da Produção e da Manutenção Industrial, alterada pela Portaria n.º\
+    \ 358/91, de 22 de Abril, para curso de Engenharia Mecânica e Gestão Industrial, pela PORT.380/95.29.04.1995.ME, DR.IS-B\
+    \ [100] de 29.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-1995-515235
+  date: '1995-04-29'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:594079:por
+  label: "Revogada pela PORT.358/91.22.04.1991.ME, DR.IS-B [93] de 22.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1991-594079
+  date: '1991-04-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:19:14Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +155,8 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 12 de Abril de 1990.**
+Assinada em 12 de Abril de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10800/22042205.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10800/22042205.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10800/22042205.pdf)

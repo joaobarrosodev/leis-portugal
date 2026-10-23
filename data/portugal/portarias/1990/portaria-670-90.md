@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18700/33353336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/670-1990-573703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98c5eaa599f6b4f79f408d9215cda9661f4f3a7ec3c4633444e00beafa43811c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2c4e89f1a77c1ecc0b5c71c45ee7e1cf9d78ddce2149547f96914c99e00e3c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartório Privativo do Protesto de Letras
+- Conservador
+- Emolumento do Notariado
+- Notário
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:692208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687575:por
+  label: "Actualizado, com efeitos a 01.01.1991, o quantitativo das participações emolumentares, pela PORT.754/91.05.08.1991.MJ,\
+    \ DR.IS-B [178] de 05.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-1991-687575
+  date: '1991-08-05'
+- type: amended_by
+  target: pt:dre:621732:por
+  label: "Actualizado o quantitativo das participações emolumentares pela PORT.1218/92.29.12.1992.MF, DR.IS-B [299] de 29.12.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1218-1992-621732
+  date: '1992-12-29'
+- type: amended_by
+  target: pt:dre:222057:por
+  label: "Actualizado o quantitativo das participaçõe emulumentares pela PORT.1010/98.1998.12.04.MJ DR.IS-B [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1010-1998-222057
+  date: '1998-12-04'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462065:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666173:por
+  label: "Revogado o n.º 7.º pela PORT.1113/93.03.11.1993.MF, DR.IS-B [257] de 03.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1113-1993-666173
+  date: '1993-11-03'
+- type: repealed_by
+  target: pt:dre:431209:por
+  label: "Revogado o nº 3º pela PORT.474/98.1998.08.04.MJ DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1998-431209
+  date: '1998-08-04'
+- type: repealed_by
+  target: pt:dre:692208:por
+  label: "Revogada pela PORT.942/99.1999.10.27.MJ, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-1999-692208
+  date: '1999-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:27:38Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +175,6 @@ b) Para os restantes conservadores e notários, a resultante do cálculo segundo
 
 Ministério da Justiça.
 
-**Assinada em 20 de Julho de 1990.**
+Assinada em 20 de Julho de 1990.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.

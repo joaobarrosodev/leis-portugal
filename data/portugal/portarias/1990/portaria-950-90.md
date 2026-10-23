@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/950-1990-555778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e5e002ab198a89f5efab29d7dd5864c48f753bb5aff34ead5c49df3c1bb3fea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4cba6023c126a6562e9f851f7a70d5580a137c6d7da91f26298c72df2a7f7cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo de Qualidade
+- Indústria Alimentar
+- Produto Alimentar
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:420013:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:35Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +116,7 @@ Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação, da Ind�
 
 Ministérios da Agricultura, Pescas e Alimentação, da Indústria e Energia, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 24 de Setembro de 1990.**
+Assinada em 24 de Setembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real
 
@@ -116,7 +124,7 @@ Regulamento dos Critérios de Reconhecimento do Sistema de Controlo da Qualidade
 
 ### CAPÍTULO I — Critérios de reconhecimento
 
-###### Artigo 1.º - 1 - O sistema de controlo da qualidade apenas pode ser reconhecido em relação a géneros alimentícios transformados, no presente diploma designados por produtos, que estejam conformes, consoante o caso, com preceitos ou métodos constantes dos seguintes documentos de referência:
+Artigo 1.º - 1 - O sistema de controlo da qualidade apenas pode ser reconhecido em relação a géneros alimentícios transformados, no presente diploma designados por produtos, que estejam conformes, consoante o caso, com preceitos ou métodos constantes dos seguintes documentos de referência:
 
 Legislação portuguesa;
 
@@ -130,13 +138,13 @@ Normas internacionais aceites por Portugal.
 
 3 - O reconhecimento do sistema de controlo da qualidade é obtido produto a produto ou em relação a grupos de produtos que, tendo a mesma composição base e o mesmo tratamento tecnológico, difiram apenas nas suas características sensoriais.
 
-###### Art. 2.º - 1 - O reconhecimento do sistema de controlo da qualidade é efectuado pelo Instituto de Qualidade Alimentar, adiante designado por IQA, nos termos do presente Regulamento.
+Art. 2.º - 1 - O reconhecimento do sistema de controlo da qualidade é efectuado pelo Instituto de Qualidade Alimentar, adiante designado por IQA, nos termos do presente Regulamento.
 
 2 - No caso dos produtos da pesca transformados, o reconhecimento do sistema de controlo da qualidade é feito pelo IQA, com base em parecer favorável do Instituto Português de Conservas e Pescado, adiante designado por IPCP.
 
 Ar. 3.º O reconhecimento baseia-se nas Regras Gerais para Certificação de Produtos por Entidade Independente, descritas na Directiva CNQ 11/86, do Conselho Nacional da Qualidade.
 
-###### Art. 4.º As entidades que pretendem ver reconhecido o seu sistema de controlo da qualidade têm de:
+Art. 4.º As entidades que pretendem ver reconhecido o seu sistema de controlo da qualidade têm de:
 
 a) Estar inscritas no REPAT - Registo Nacional dos Procedimentos de Controlo da Qualidade dos Géneros Alimentícios Transformados, nos termos do artigo 3.º e do n.º 2 do artigo 8.º do [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho;
 
@@ -144,11 +152,11 @@ b) Fazer prova, perante o IQA ou perante o IQA e o IPCP quando estejam em causa 
 
 c) Dispor de um sistema de garantia da qualidade com procedimentos apropriados ao acompanhamento do produto no pós-venda.
 
-###### Art. 5.º - 1 - A verificação do sistema de controlo da qualidade aplicada aos produtos é efectuada através de auditorias de concessão e de acompanhamento a realizar pelo IQA, ou por entidades ou técnicos por ele acreditados, com base nos procedimentos descritas na NP-2269 (1985) - Garantia da qualidade - Auditorias da qualidade, publicada pelo Instituto Português da Qualidade.
+Art. 5.º - 1 - A verificação do sistema de controlo da qualidade aplicada aos produtos é efectuada através de auditorias de concessão e de acompanhamento a realizar pelo IQA, ou por entidades ou técnicos por ele acreditados, com base nos procedimentos descritas na NP-2269 (1985) - Garantia da qualidade - Auditorias da qualidade, publicada pelo Instituto Português da Qualidade.
 
 2 - Quando estejam em causa produtos da pesca transformados, os procedimentos descritas no número anterior são efectuados pelo IQA e pelo IPCP ou por entidades ou técnicos por eles acreditados.
 
-###### Art. 6.º - 1 - As entidades interessadas no reconhecimento do seu sistema de controlo da qualidade devem dirigir ao presidente do IQA um requerimento, cujo modelo constitui o anexo I ao presente Regulamento, acompanhado dos seguintes documentos:
+Art. 6.º - 1 - As entidades interessadas no reconhecimento do seu sistema de controlo da qualidade devem dirigir ao presidente do IQA um requerimento, cujo modelo constitui o anexo I ao presente Regulamento, acompanhado dos seguintes documentos:
 
 a) Fotocópia autenticada do documento de licenciamento, emitido pelo organismo competente;
 
@@ -188,7 +196,7 @@ Procedimentos utilizados no tratamento das não conformidades.
 
 4 - É dispensada a apresentação ao IQA de quaisquer dos documentos de referência previstos no n.º 1 do artigo 1.º sendo suficiente a sua indicação.
 
-###### Art. 7.º - 1 - As entidades importadoras de produtos que requeiram ao IQA o reconhecimento do respectivo sistema de controlo da qualidade devem, para além do exigido nas alínea b), c) e e) do n.º 1 do artigo 6.º do presente Regulamento, apresentar a seguinte documentação referente aos produtos importados:
+Art. 7.º - 1 - As entidades importadoras de produtos que requeiram ao IQA o reconhecimento do respectivo sistema de controlo da qualidade devem, para além do exigido nas alínea b), c) e e) do n.º 1 do artigo 6.º do presente Regulamento, apresentar a seguinte documentação referente aos produtos importados:
 
 a) Boletim de análise do produto, emitido por entidade oficial ou oficialmente reconhecida no país de origem;
 
@@ -200,11 +208,11 @@ d) Certificado de reconhecimento do sistema de controlo da qualidade da entidade
 
 2 - Às entidades importadoras de produtos que tenham sido fabricados e apenas comercializados nos Estados membros da Comunidade Económica Europeia é dispensada a apresentação dos documentos referidos nas alíneas a), b) e c) do número anterior.
 
-###### Art. 8.º Os documentos de referência redigidos em língua estrangeira devem ser acompanhados da respectiva tradução em língua portuguesa, devidamente autenticada.
+Art. 8.º Os documentos de referência redigidos em língua estrangeira devem ser acompanhados da respectiva tradução em língua portuguesa, devidamente autenticada.
 
 ### CAPÍTULO II — Organização do processo de reconhecimento
 
-###### Art. 9.º - 1 - Recebido o requerimento e demais documentação necessária, o IQA dá início à fase de abertura do processo, a qual compreende a análise, pareceres técnicos e despacho, nos termos do artigo 2.º do presente diploma, devendo o requerente ser informado do teor deste, por carta registada com aviso de recepção.
+Art. 9.º - 1 - Recebido o requerimento e demais documentação necessária, o IQA dá início à fase de abertura do processo, a qual compreende a análise, pareceres técnicos e despacho, nos termos do artigo 2.º do presente diploma, devendo o requerente ser informado do teor deste, por carta registada com aviso de recepção.
 
 2 - Caso se verifique falta ou deficiência de alguns dos documentos referidos nos artigos 6.º e 7.º o requerente é convidado a apresentá-los ou a supri-la em prazo não superior a 30 dias, sob pena de ser indeferido o pedido de reconhecimento.
 
@@ -224,7 +232,7 @@ d) Certificado de reconhecimento do sistema de controlo da qualidade da entidade
 
 10 - As auditorias referidas nos n.os 8 e 9 obedecem ao disposto no artigo 5.º do presente Regulamento.
 
-###### Art. 10.º- 1 - Os encargos inerentes ao reconhecimento do sistema de controlo da qualidade da entidade requerente são os seguintes:
+Art. 10.º- 1 - Os encargos inerentes ao reconhecimento do sistema de controlo da qualidade da entidade requerente são os seguintes:
 
 a) Abertura do processo (AP) - o custo das acções a executar pelo pessoal técnico, calculado por aplicação da seguinte fórmula:
 
@@ -268,7 +276,7 @@ K = custo das amostras recolhidas no comércio.
 
 2 - Os valores atribuídos aos parâmetros X, Z, X', Z' e T mencionados no número anterior são calculadas com base nas tabelas anualmente aprovadas para vencimentos e ajudas de custo e transportes a abonar aos funcionários públicos.
 
-###### Art. 11.º - 1 - Os custos da abertura do processo e da auditoria de concessão são debitados ao requerente, sendo o respectivo pagamento condicionante do prosseguimento do processo.
+Art. 11.º - 1 - Os custos da abertura do processo e da auditoria de concessão são debitados ao requerente, sendo o respectivo pagamento condicionante do prosseguimento do processo.
 
 2 - Os custos das auditorias de acompanhamento são debitados às entidades quando aquelas sejam por si requeridas ou se verifiquem deficiências técnicas ou anomalias em relação ao contratualmente estabelecido.
 
@@ -276,7 +284,7 @@ K = custo das amostras recolhidas no comércio.
 
 ### CAPÍTULO III — Suspensão, retirada e cancelamento do reconhecimento
 
-###### Art. 12.º - 1 - O reconhecimento do sistema de controlo da qualidade é suspenso, por um período limitado de tempo, não superior a um ano, nos casos seguintes:
+Art. 12.º - 1 - O reconhecimento do sistema de controlo da qualidade é suspenso, por um período limitado de tempo, não superior a um ano, nos casos seguintes:
 
 a) Quando se verificar o não cumprimento dos requisitos constantes dos documentos de referência, porém de um modo que não justifique a imediata retirada do reconhecimento;
 
@@ -294,7 +302,7 @@ g) Sem prejuízo do disposto na alínea anterior e no caso dos restantes produto
 
 2 - A suspensão é comunicada pelo IQA, através de carta registada com aviso de recepção, na qual constam a justificação da medida tomada e sob que condições é levantada.
 
-###### Art. 13.º - 1 - O reconhecimento do sistema de controlo da qualidade é retirado nos seguintes casos:
+Art. 13.º - 1 - O reconhecimento do sistema de controlo da qualidade é retirado nos seguintes casos:
 
 a) Quando se revelar que a não conformidade dos produtos é grave;
 
@@ -302,7 +310,7 @@ b) Quando a entidade não tomar as medidas adequadas em casos de suspensão.
 
 2 - A retirada é comunicada pelo IQA, através de carta registada com aviso de recepção, na qual devem constar a justificação e o prazo de pré-aviso, que é variável em função das causas que lhe deram origem.
 
-###### Art. 14.º - 1 - O reconhecimento do sistema de controlo da qualidade e cancelado nos seguintes casos:
+Art. 14.º - 1 - O reconhecimento do sistema de controlo da qualidade e cancelado nos seguintes casos:
 
 a) Quando a entidade o não desejar prolongar;
 
@@ -312,9 +320,9 @@ c) Quando o produto já não for fabricado ou a entidade abandonar a actividade 
 
 2 - O pedido de cancelamento é comunicado pela entidade ao IQA, através de carta registada com aviso de recepção, na qual constem a justificação e o prazo de pré-aviso.
 
-###### Art. 15.º Em caso de uso abusivo de um certificado de reconhecimento, da menção «Qualidade Controlada» do símbolo ou de perigosidade de produtos aos quais foi reconhecido o respectivo sistema de controlo da qualidade, aplicam-se medidas correctivas baseadas na Directiva CNQ 12/86, do Conselho Nacional da Qualidade - «Medidas correctivas a aplicar por um organismo de certificação em caso de uso abusivo da sua marca de conformidade ou de perigosidade dos produtos certificados».
+Art. 15.º Em caso de uso abusivo de um certificado de reconhecimento, da menção «Qualidade Controlada» do símbolo ou de perigosidade de produtos aos quais foi reconhecido o respectivo sistema de controlo da qualidade, aplicam-se medidas correctivas baseadas na Directiva CNQ 12/86, do Conselho Nacional da Qualidade - «Medidas correctivas a aplicar por um organismo de certificação em caso de uso abusivo da sua marca de conformidade ou de perigosidade dos produtos certificados».
 
-###### Art. 16.º - 1 - Se os documentos de referência aplicáveis aos produtos abrangidos no artigo 1.º forem modificados, o IQA compromete-se a informar de imediato a entidade deste facto, bem como a acordar com esta a data a partir da qual deverão os produtos obedecer aos novos requisitos, sem prejuízo dos prazos estabelecidos legalmente.
+Art. 16.º - 1 - Se os documentos de referência aplicáveis aos produtos abrangidos no artigo 1.º forem modificados, o IQA compromete-se a informar de imediato a entidade deste facto, bem como a acordar com esta a data a partir da qual deverão os produtos obedecer aos novos requisitos, sem prejuízo dos prazos estabelecidos legalmente.
 
 2 - Se a entidade proceder dentro do prazo acordado à adaptação do produto aos novos requisitos e o resultado da auditoria de acompanhamento for favorável, deve ser emitido um novo certificado de reconhecimento.
 
@@ -322,7 +330,7 @@ c) Quando o produto já não for fabricado ou a entidade abandonar a actividade 
 
 ### CAPÍTULO IV — Recurso de decisões
 
-###### Art. 17.º - 1 - O requerente pode recorrer dos despachos de indeferimento do presidente do IQA relativos à abertura do processo, à auditoria de concessão, à suspensão e à retirada do reconhecimento.
+Art. 17.º - 1 - O requerente pode recorrer dos despachos de indeferimento do presidente do IQA relativos à abertura do processo, à auditoria de concessão, à suspensão e à retirada do reconhecimento.
 
 2 - Dos despachos referidos no número anterior cabe recurso fundamentado para o Secretário de Estado da Alimentação, a interpor na sede do IQA, no prazo de 10 dias a contar da data de notificação da decisão.
 
@@ -334,7 +342,7 @@ c) Quando o produto já não for fabricado ou a entidade abandonar a actividade 
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 18.º - 1 - O IQA divulga no Diário da República a certificação do reconhecimento, bem como a sua retirada ou cancelamento.
+Art. 18.º - 1 - O IQA divulga no Diário da República a certificação do reconhecimento, bem como a sua retirada ou cancelamento.
 
 2 - A retirada do reconhecimento por uso indevido do respectivo certificado ou da menção «Qualidade Controlada» ou do símbolo deve ser divulgada pelo IQA em dois jornais diários de expansão nacional.
 
@@ -342,15 +350,15 @@ c) Quando o produto já não for fabricado ou a entidade abandonar a actividade 
 
 4 - Os custos da publicação a que se refere o n.º 1 são suportados pela entidade cujo sistema de controlo da qualidade for reconhecido.
 
-###### Art. 19.º A utilização da menção «Qualidade Controlada» ou do símbolo não envolve, em caso algum, transferência para o IQA de eventuais responsabilidades das entidades perante terceiros.
+Art. 19.º A utilização da menção «Qualidade Controlada» ou do símbolo não envolve, em caso algum, transferência para o IQA de eventuais responsabilidades das entidades perante terceiros.
 
-###### Art. 20.º - 1 - Nos termos do n.º 1 do artigo 8.º do [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho, a menção «Qualidade Controlada» ou o símbolo podem ser aplicados directamente nas embalagens dos produtos por qualquer processo que assegure a sua rigorosa e clara identificação durante o período de validade dos mesmos.
+Art. 20.º - 1 - Nos termos do n.º 1 do artigo 8.º do [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho, a menção «Qualidade Controlada» ou o símbolo podem ser aplicados directamente nas embalagens dos produtos por qualquer processo que assegure a sua rigorosa e clara identificação durante o período de validade dos mesmos.
 
 2 - As letras a utilizar na menção «Qualidade Controlada» são do tipo helvética medium condensed, podendo ser ampliadas ou reduzidas, mantendo, no entanto, as proporções referidas no anexo ao citado decreto-lei.
 
 3 - O símbolo referido no n.º 1 deste artigo pode ser ampliado ou reduzido, mantendo, no entanto, as proporções relativas dos elementos que o compõem, bem como as respectivas cores.
 
-###### Art. 21.º Quando estejam em causa produtos da pesca transformados, o IQA deve:
+Art. 21.º Quando estejam em causa produtos da pesca transformados, o IQA deve:
 
 a) Informar o IPCP relativamente ao disposto nos artigos 6.º, 7.º, n.º 2 do artigo 12.º, n.º 2 do artigo 13.º, 14.º, 15.º e n.º 1 do artigo 17.º deste Regulamento;
 
@@ -478,8 +486,8 @@ Certificado de reconhecimento do sistema de controlo da qualidade para utilizaç
 
 Reconhecimento n.º ..., de ... Contrato n.º ..., de ..., emitido pelo Instituto de Qualidade Alimentar, a favor de ..., com sede em ..., para os produtos a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23100/41424146.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23100/41424146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23100/41424146.pdf)
 
 Data: ...
 
-**O Presidente, ...**
+O Presidente, ...

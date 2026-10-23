@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 141/1979, 1º Suplemento, Série I de 1979-06-21
   number: '141'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1358-(1) a 1358-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14101/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/182-a-1979-535013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2333f07eb97ccce2d1bb5834a91f3fac98427b3b9a9538b81a188bb9dced4a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18e604da92495fb13d7b0ca46ca5ffd6c29b488ab077314d18122eac25ab23fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco de Fomento Nacional
+- Gestão Bancária
+- Linha de Crédito
+- Sociedade Financeira Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:575885:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:381522:por
+  label: Rectificada pela DECL.DD7301.31.07.1979.PCM, DR.IS [175] de 31.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-381522
+  date: '1979-07-31'
+- type: repealed_by
+  target: pt:dre:462625:por
+  label: "Revogada pela RES.367/80.24.10.1980.PCM, DR.IS [247] de 24.10.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/367-1980-462625
+  date: '1980-10-24'
+- type: repealed_by
+  target: pt:dre:575885:por
+  label: "Revogada, na parte em que comete a gestão da Sociedade ao Banco de Fomento Nacional e ao Banco de Portugal, pela\
+    \ RES.191/81.06.08.1981.PCM, DR.IS [190] de 20.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/191-1981-575885
+  date: '1981-08-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:35Z'
   warnings: []
   errors: []
 ---

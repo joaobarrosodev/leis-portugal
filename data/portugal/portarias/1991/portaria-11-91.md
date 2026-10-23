@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/003b00/00500069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/11/1991/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-1991-662483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d7acfe1778cec01336104964cc7ece88506b945156b7876484a8f451344d3fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70bee7f6d8322fcfb1d7f7c0221d8cd4ca8740194fbf79d5f0f55002a8d63979
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,52 @@ subjects:
 - Academia da Força Aérea
 - Aluno Militar
 - Concurso
-- Força Aérea
 - Definição de Competências
+- Força Aérea
 - Forças Armadas
-- Regulamento
 - Militar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:570726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373579:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477112:por
+  label: Retificados o n.º 2 do art. 11.º, o art. 38.º, a al. r) do n.º 2 do art. 47.º, n.º 1 e als. a) e f) do n.º 2 do art.
+    50.º, al. e) do n.º 3 do art. 52.º, o n.º 1 do art. 53.º, al. b) do art. 56.º, o art. 66.º, o n.º 3 do art. 72.º, o art.
+    77.º, o n.º 2 do art. 80.º, a al. b) do n.º 1 do art. 82.º, o art. 102.º, o n.º 1 do art. 105.º, o n.º 1 do art. 108.º,
+    o n.º 1 do art. 110.º, o n.º 5 do art. 115.º, as als. a), b) e c) do art. 116.º, o n.º 2 do art. 126.º, os n.ºs 4 e 8
+    do art. 131.º, a al. a) do art. 137.º, a al. c) do art. 140.º, o n.º 1 do art. 144.º, o n.º 2 do art. 151.º, as als. d)
+    e f) do art. 162.º, o art. 164.º, os n.ºs 1 e 3 do art. 169.º, o n.º 1 e al. c) do n.º 2 do art. 174.º, os n.ºs 1.1, 3.1,
+    a al. b) do n.º 4, os n.ºs 8.1, 8.2, 10.3, 10.7, 13 e 14 do anexo B e a al. h) do n. 2 do anexo C do presente diploma
+    pelo(a) Declaração de Rectificação n.º 47/91 - Diário da República n.º 74/1991, 2º Suplemento, Série I-B de 1991-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-1991-477112
+  date: '1991-03-30'
+- type: repealed_by
+  target: pt:dre:570726:por
+  label: "Revogada, a partir de 05.02.2014, a presente portaria, retificada pela Decl-Ret 47/91 de 30-mar, pela PORT.23/2014.31.01.2014.MDN,\
+    \ DR.IS [22] de 31.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-2014-570726
+  date: '2014-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 52
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:06Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +132,15 @@ Manda o Governo, pelo Ministro da Defesa Nacional, que seja aprovado o Regulamen
 
 Ministério da Defesa Nacional.
 
-**Assinada em 16 de Novembro de 1990.**
+Assinada em 16 de Novembro de 1990.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.
 
 REGULAMENTO DA ACADEMIA DA FORÇA AÉREA
 
 ### CAPÍTULO I — Definição e missão
 
-###### Artigo 1.º - 1 - A Academia da Força Aérea (AFA) e um estabelecimento militar de ensino superior que tem como objectivo essencial a formação de oficiais destinados aos quadros permanentes da Força Aérea em áreas de conhecimento de reconhecido interesse para o desempenho de funções no âmbito da missão atribuída a este ramo das forças armadas.
+Artigo 1.º - 1 - A Academia da Força Aérea (AFA) e um estabelecimento militar de ensino superior que tem como objectivo essencial a formação de oficiais destinados aos quadros permanentes da Força Aérea em áreas de conhecimento de reconhecido interesse para o desempenho de funções no âmbito da missão atribuída a este ramo das forças armadas.
 
 2 - Na AFA são ministrados os cursos de licenciatura que habilitam o ingresso na categoria de oficiais dos quadros permanentes, bem como poderão ser ministrados outros cursos de formação de oficiais dos quadros permanentes, como ainda poderão ser realizadas acções de formação que se revelem de interesse para o desenvolvimento dos conhecimentos aeronáuticos.
 
@@ -126,7 +152,7 @@ b) Investigação e desenvolvimento;
 
 c) Apoio à comunidade.
 
-###### Art. 2.º - 1 - A AFA constitui uma unidade independente da Força Aérea, sob dependência hierárquica directa do Chefe do Estado-Maior da Força Aérea (CEMFA).
+Art. 2.º - 1 - A AFA constitui uma unidade independente da Força Aérea, sob dependência hierárquica directa do Chefe do Estado-Maior da Força Aérea (CEMFA).
 
 2 - Exercem autoridade funcional sobre a AFA, nos domínios das competências gerais que lhes estão atribuídas, os seguintes comandos:
 
@@ -142,7 +168,7 @@ c) Comando Logístico e Administrativo da Força Aérea (CLAFA).
 
 #### SECÇÃO I — Estrutura orgânica
 
-###### Art. 3.º - 1 - A AFA compreende os seguintes órgãos:
+Art. 3.º - 1 - A AFA compreende os seguintes órgãos:
 
 a) O comando;
 
@@ -158,7 +184,7 @@ e) O grupo de apoio (GAP).
 
 #### SECÇÃO II — Comando
 
-###### Art. 4.º O comando é composto por:
+Art. 4.º O comando é composto por:
 
 a) O comandante;
 
@@ -168,11 +194,11 @@ c) Os órgãos de apoio do comando.
 
 ##### SUBSECÇÃO I — Comandante
 
-###### Art. 5.º - 1 - O comandante da AFA, que adiante se designa abreviadamente por comandante, é um oficial general piloto aviador, nomeado nos termos da Lei de Defesa Nacional e das Forças Armadas.
+Art. 5.º - 1 - O comandante da AFA, que adiante se designa abreviadamente por comandante, é um oficial general piloto aviador, nomeado nos termos da Lei de Defesa Nacional e das Forças Armadas.
 
 2 - O comandante depende directamente do CEMFA, perante quem responde pelo cumprimento da missão atribuída à AFA.
 
-###### Art. 6.º - 1 - O comandante dirige superiormente as actividades da AFA.
+Art. 6.º - 1 - O comandante dirige superiormente as actividades da AFA.
 
 2 - O comandante tem as competências atribuídas pelos regulamentos aos comandantes das unidades da Força Aérea.
 
@@ -224,15 +250,15 @@ x) Homologar as classificações anuais e a classificação final dos alunos;
 
 z) Assinar as cartas de curso e os diplomas de prémios e recompensas.
 
-###### Art. 7.º No desempenho das suas funções, o comandante e directamente coadjuvado pelo 2.º comandante, pelo director do ensino académico e pelo comandante do corpo de alunos.
+Art. 7.º No desempenho das suas funções, o comandante e directamente coadjuvado pelo 2.º comandante, pelo director do ensino académico e pelo comandante do corpo de alunos.
 
-###### Art. 8.º O comandante dispõe de um ajudante de campo, oficial da AFA, que exerce as funções em acumulação.
+Art. 8.º O comandante dispõe de um ajudante de campo, oficial da AFA, que exerce as funções em acumulação.
 
 ##### SUBSECÇÃO II — 2.º comandante
 
-###### Art. 9.º O 2.º comandante é um brigadeiro ou coronel piloto aviador, nomeado pelo CEMFA.
+Art. 9.º O 2.º comandante é um brigadeiro ou coronel piloto aviador, nomeado pelo CEMFA.
 
-###### Art. 10.º - 1 - O 2.º comandante é o substituto legal do comandante.
+Art. 10.º - 1 - O 2.º comandante é o substituto legal do comandante.
 
 2 - Compete ao 2.º comandante coadjuvar o comandante no cumprimento da missão da AFA e exercer as competências que este nele delegar.
 
@@ -258,7 +284,7 @@ i) Velar pela segurança e defesa das instalações;
 
 j) Orientar o serviço de dia à unidade.
 
-###### Art. 11.º - 1 - O apoio à acção do comando é assegurado pelos seguintes órgãos:
+Art. 11.º - 1 - O apoio à acção do comando é assegurado pelos seguintes órgãos:
 
 a) Gabinete do comando;
 
@@ -278,7 +304,7 @@ h) Capelania.
 
 2 - Os órgãos de apoio do comando regem-se pela regulamentação geral da Força Aérea, com excepção dos referidos nas alíneas a) e b) do artigo anterior.
 
-###### Art. 12.º - 1 - O gabinete do comando é o órgão de assessoria e de apoio directo e pessoal do comandante e do 2.º comandante.
+Art. 12.º - 1 - O gabinete do comando é o órgão de assessoria e de apoio directo e pessoal do comandante e do 2.º comandante.
 
 2 - O gabinete do comando tem a seguinte composição:
 
@@ -308,7 +334,7 @@ h) Assegurar o secretariado das reuniões da comissão de planeamento escolar, d
 
 i) Definir a orientação do trablho e superintender a execução das tarefas das secções do gabinete e despachar os assuntos delegados pelo comandante.
 
-###### Art. 13.º À secção de assessoria jurídica compete:
+Art. 13.º À secção de assessoria jurídica compete:
 
 a) Elaborar anteprojectos de regulamentos internos;
 
@@ -326,7 +352,7 @@ g) Organizar e manter actualizada a legislação respeitante ao sistema educativ
 
 h) Constituir e manter actualizado o processo completo sobre a organização e funcionamento dos estabelecimentos militares de ensino superior.
 
-###### Art. 14.º À secção de relações públicas e protocolo compete:
+Art. 14.º À secção de relações públicas e protocolo compete:
 
 a) Receber, estudar, arquivar e manter actualizada toda a regulamentação da Força Aérea aplicável a relações públicas, cerimonial e protocolo;
 
@@ -352,7 +378,7 @@ l) Elaborar o protocolo e preparar as missões ao estrangeiro de pessoal da AFA,
 
 m) Manter a ligação com a secção de relações públicas e protocolo do gabinete do CEMFA, nomeadamente aquando da organização e realização das cerimónias de maior projecção da AFA.
 
-###### Art. 15.º À secção de assuntos gerais compete:
+Art. 15.º À secção de assuntos gerais compete:
 
 a) Receber, registar, arquivar, dactilografar e expedir a correspondência do comandante, 2.º comandante, gabinete do comando e da comissão de planeamento escolar;
 
@@ -366,7 +392,7 @@ e) Recolher dados e elementos para elaboração de estudos, estatísticas, traba
 
 f) Coadjuvar no secretariado das reuniões da comissão de planeamento escolar, dos órgãos de conselho e da comissão de admissão à AFA e tratar do seu expediente.
 
-###### Art. 16.º - 1 - A comissão de planeamento escolar (CPE) é o órgão de planeamento, coordenação e controlo das actividades escolares da AFA.
+Art. 16.º - 1 - A comissão de planeamento escolar (CPE) é o órgão de planeamento, coordenação e controlo das actividades escolares da AFA.
 
 2 - A CPE é composta pelo comandante, 2.º comandante, director do ensino académico, comandante e 2.º comandante do corpo de alunos, comandante do grupo de apoio e chefe do gabinete de estudos, sendo assessorada por um oficial superior, a designar pelo comandante, que secretaria as reuniões.
 
@@ -384,7 +410,7 @@ f) Coadjuvar no secretariado das reuniões da comissão de planeamento escolar, 
 
 9 - Das reuniões da CPE são lavradas actas, que registam as decisões tomadas.
 
-###### Art. 17.º A CPE compete:
+Art. 17.º A CPE compete:
 
 a) Elaborar o plano anual das actividades escolares;
 
@@ -410,7 +436,7 @@ l) Dar a orientação para a organização do anuário e do arquivo histórico d
 
 #### SECÇÃO III — Órgãos de conselho
 
-###### Art. 18.º Os órgãos de conselho do comandante são:
+Art. 18.º Os órgãos de conselho do comandante são:
 
 a) O conselho científico;
 
@@ -418,7 +444,7 @@ b) O conselho pedagógico;
 
 c) O conselho de disciplina escolar.
 
-###### Art. 19.º O funcionamento dos conselhos referidos no artigo anterior rege-se pelas seguintes normas gerais, que a eles são comuns:
+Art. 19.º O funcionamento dos conselhos referidos no artigo anterior rege-se pelas seguintes normas gerais, que a eles são comuns:
 
 a) A convocação, acompanhada da agenda de reunião, e entregue a todos os vogais, com a antecedência mínima de oito dias, para as reuniões ordinárias, e 48 horas, para as extraordinárias;
 
@@ -442,11 +468,11 @@ j) A acta é submetida ao conhecimento do comandante quando a presidência estiv
 
 l) O expediente e o secretariado dos conselhos são assegurados pela secção de assuntos gerais do gabinete do comando.
 
-###### Art. 20.º Os membros dos conselhos podem propor para agenda das reuniões a discussão de propostas, estudos ou projectos sobre matéria do âmbito do respectivo conselho.
+Art. 20.º Os membros dos conselhos podem propor para agenda das reuniões a discussão de propostas, estudos ou projectos sobre matéria do âmbito do respectivo conselho.
 
 ##### SUBSECÇÃO I — Conselho científico
 
-###### Art. 21.º - 1 - Ao conselho científico compete dar parecer sobre os assuntos relacionados com a orientação científica e técnica do ensino e propor os programas das disciplinas e actividades que integram os planos de estudo.
+Art. 21.º - 1 - Ao conselho científico compete dar parecer sobre os assuntos relacionados com a orientação científica e técnica do ensino e propor os programas das disciplinas e actividades que integram os planos de estudo.
 
 2 - O parecer do conselho científico é obrigatório nas seguintes matérias:
 
@@ -482,7 +508,7 @@ p) Propostas de alteração dos critérios de aprovação e de eliminação dos 
 
 q) Aquisição de equipamento científico, laboratorial, bibliográfico e documental de elevado custo.
 
-###### Art. 22.º - 1 - O conselho científico tem a seguinte composição:
+Art. 22.º - 1 - O conselho científico tem a seguinte composição:
 
 a) Presidente - o comandante;
 
@@ -494,11 +520,11 @@ c) Secretário - um oficial superior, a designar pelo comandante.
 
 3 - O comandante poderá solicitar a presença em reunião do conselho científico, sem direito a voto, de comandantes, directores ou chefes de órgãos da Força Aérea a quem seja solicitada a colaboração em actividades complementares de formação ou de investigação para apreciação de assuntos técnicos relativos à organização e realização daquelas actividades.
 
-###### Art. 23.º Os pareceres sobre as propostas constantes das alíneas l), m) e n) do n.º 2 do artigo 21.º são tomados por maioria qualificada de dois terços dos vogais efectivos presentes e por escrutínio secreto.
+Art. 23.º Os pareceres sobre as propostas constantes das alíneas l), m) e n) do n.º 2 do artigo 21.º são tomados por maioria qualificada de dois terços dos vogais efectivos presentes e por escrutínio secreto.
 
 ##### SUBSECÇÃO II — Conselho pedagógico
 
-###### Art. 24.º - 1 - Ao conselho pedagógico compete dar parecer sobre a orientação pedagógica, a avaliação dos cursos e o rendimento escolar.
+Art. 24.º - 1 - Ao conselho pedagógico compete dar parecer sobre a orientação pedagógica, a avaliação dos cursos e o rendimento escolar.
 
 2 - Ao conselho pedagógico compete dar parecer, especificamente, sobre as seguintes matérias:
 
@@ -522,7 +548,7 @@ i) Propostas de aquisição de material didáctico, equipamentos áudio-visuais,
 
 j) Propostas de adaptação ou renovação das instalações escolares, sobretudo das salas de aula, dos laboratórios e salas de estudo.
 
-###### Art. 25.º - 1 - O conselho pedagógico tem a seguinte composição:
+Art. 25.º - 1 - O conselho pedagógico tem a seguinte composição:
 
 a) Presidente - o comandante;
 
@@ -538,7 +564,7 @@ c) Secretário - um oficial superior, a designar pelo comandante.
 
 ##### SUBSECÇÃO III — Conselho de disciplina escolar
 
-###### Art. 26.º - 1 - Ao conselho de disciplina escolar compete dar parecer sobre os assuntos de âmbito militar e disciplinar dos alunos.
+Art. 26.º - 1 - Ao conselho de disciplina escolar compete dar parecer sobre os assuntos de âmbito militar e disciplinar dos alunos.
 
 2 - Ao conselho de disciplina escolar compete dar parecer, especificamente, sobre as seguintes matérias:
 
@@ -552,7 +578,7 @@ d) Relevação das penas de detenção escolar aos alunos que melhoraram o seu c
 
 e) Expulsão de aluno por motivos disciplinares ou éticos.
 
-###### Art. 27.º - 1 - O conselho de disciplina escolar tem a seguinte composição:
+Art. 27.º - 1 - O conselho de disciplina escolar tem a seguinte composição:
 
 a) Presidente - o comandante;
 
@@ -566,13 +592,13 @@ c) Secretário - um oficial superior, a designar pelo comandante.
 
 4 - O comandante poderá delegar a presidência das reuniões no 2.º comandante.
 
-###### Art. 28.º O parecer sobre a expulsão referida na alínea e) do n.º 2 do artigo 26.º é tomado por maioria qualificada de dois terços dos vogais e por escrutínio secreto.
+Art. 28.º O parecer sobre a expulsão referida na alínea e) do n.º 2 do artigo 26.º é tomado por maioria qualificada de dois terços dos vogais e por escrutínio secreto.
 
 #### SECÇÃO IV — Direcção de ensino académico
 
-###### Art. 29.º À DEA compete a programação, execução e controlo da educação científica e técnica definida nos planos de estudo, em coordenação com a educação militar e física e as actividades aéreas, bem como coordenar as actividades de investigação e desenvolvimento.
+Art. 29.º À DEA compete a programação, execução e controlo da educação científica e técnica definida nos planos de estudo, em coordenação com a educação militar e física e as actividades aéreas, bem como coordenar as actividades de investigação e desenvolvimento.
 
-###### Art. 30.º A DEA é composta por:
+Art. 30.º A DEA é composta por:
 
 a) O director de ensino académico;
 
@@ -582,11 +608,11 @@ c) Os serviços administrativos.
 
 ##### SUBSECÇÃO I — Director de ensino académico
 
-###### Art. 31.º - 1 - O director de ensino académico é um coronel, nomeado pelo CEMFA, sob proposta do comandante.
+Art. 31.º - 1 - O director de ensino académico é um coronel, nomeado pelo CEMFA, sob proposta do comandante.
 
 2 - A escolha do director de ensino académico deverá, preferencialmente, recair sobre um oficial que tenha sido professor da AFA e desempenhado funções em órgão da DEA durante, pelo menos, um ano.
 
-###### Art. 32.º - 1 - O director de ensino académico é directamente responsável perante o comandante pelo cumprimento da missão atribuída à DEA.
+Art. 32.º - 1 - O director de ensino académico é directamente responsável perante o comandante pelo cumprimento da missão atribuída à DEA.
 
 2 - Tem as seguintes competências específicas:
 
@@ -624,9 +650,9 @@ q) Estudar os assuntos respeitantes a pessoal, instalações, equipamentos e mat
 
 r) Exercer a competência disciplinar escolar que lhe é atribuída por este Regulamento.
 
-###### Art. 33.º Ao director de ensino académico é atribuída autoridade funcional sobre todo o corpo docente da DEA no âmbito das actividades escolares.
+Art. 33.º Ao director de ensino académico é atribuída autoridade funcional sobre todo o corpo docente da DEA no âmbito das actividades escolares.
 
-###### Art. 34.º - 1 - Quando o número de alunos o justifique, poderá ser nomeado subdirector do ensino académico, pelo comandante, sob proposta do director de ensino académico, um professor militar em regime de acumulação de funções.
+Art. 34.º - 1 - Quando o número de alunos o justifique, poderá ser nomeado subdirector do ensino académico, pelo comandante, sob proposta do director de ensino académico, um professor militar em regime de acumulação de funções.
 
 2 - O subdirector de ensino académico desempenha as funções que lhe forem delegadas pelo director de ensino académico e tem as seguintes competências:
 
@@ -638,7 +664,7 @@ c) Superintender e coordenar os serviços administrativos da DEA;
 
 d) Fazer parte da CPE.
 
-###### Art. 35.º - 1 - O gabinete de estudos é o órgão de apoio do director de ensino académico no âmbito da organização, coordenação e controlo do ensino científico e técnico.
+Art. 35.º - 1 - O gabinete de estudos é o órgão de apoio do director de ensino académico no âmbito da organização, coordenação e controlo do ensino científico e técnico.
 
 2 - Compete, especificamente, ao gabinete de estudos:
 
@@ -664,7 +690,7 @@ j) Elaborar o relatório anual de cada curso;
 
 l) Constituir e manter actualizados os processos da regulamentação do ensino e da organização e funcionamento da DEA.
 
-###### Art. 36.º - 1 - O gabinete de estudos é chefiado por um professor militar, nomeado pelo comandante, sob proposta do director de ensino académico, em regime de acumulação de funções.
+Art. 36.º - 1 - O gabinete de estudos é chefiado por um professor militar, nomeado pelo comandante, sob proposta do director de ensino académico, em regime de acumulação de funções.
 
 2 - O chefe do gabinete de estudos toma parte nas reuniões da CPE.
 
@@ -674,7 +700,7 @@ l) Constituir e manter actualizados os processos da regulamentação do ensino e
 
 ##### SUBSECÇÃO II — Departamento de ciências
 
-###### Art. 37.º - 1 - Os departamentos de ciências da DEA são órgãos de orientação e coordenação do ensino e investigação, organizados por áreas científicas afins que agrupam as respectivas disciplinas.
+Art. 37.º - 1 - Os departamentos de ciências da DEA são órgãos de orientação e coordenação do ensino e investigação, organizados por áreas científicas afins que agrupam as respectivas disciplinas.
 
 2 - São constituídos na DEA os seguintes departamentos:
 
@@ -692,9 +718,9 @@ d) Departamento de ciências aeronáuticas.
 
 5 - No departamento de ciências de base é integrado o centro de informática, para efeitos de organização de apoio informático ao ensino e à investigação.
 
-###### Art. 38.º O professor com maior grau académico é o orientador da área científica a que pertença, competindo-lhe a orientação da elaboração dos programas das disciplinas e a coordenação das propostas de actividades complementares de informação.
+Art. 38.º O professor com maior grau académico é o orientador da área científica a que pertença, competindo-lhe a orientação da elaboração dos programas das disciplinas e a coordenação das propostas de actividades complementares de informação.
 
-###### Art. 39.º - 1 - Cada departamento de ciências é composto pelos docentes das disciplinas das áreas científicas que o constituem.
+Art. 39.º - 1 - Cada departamento de ciências é composto pelos docentes das disciplinas das áreas científicas que o constituem.
 
 2 - Para cada departamento de ciências é nomeado um coordenador pelo comandante, sob proposta do director de ensino académico, em regime de acumulação de funções.
 
@@ -722,7 +748,7 @@ i) Elaborar o relatório anual do departamento.
 
 ##### SUBSECÇÃO III — Serviços administrativos
 
-###### Art. 40.º - 1 - Dos serviços administrativos da DEA fazem parte:
+Art. 40.º - 1 - Dos serviços administrativos da DEA fazem parte:
 
 a) A secretaria;
 
@@ -732,7 +758,7 @@ c) A secção de apoio escolar.
 
 2 - O subdirector de ensino académico coordena e superintende as actividades dos serviços administrativos.
 
-###### Art. 41.º - 1 - A secretaria é chefiada por um capitão ou subalterno da especialidade de técnicos de pessoal e apoio administrativo e tem as competências gerais conferidas pelos regulamentos da Força Aérea às secretarias.
+Art. 41.º - 1 - A secretaria é chefiada por um capitão ou subalterno da especialidade de técnicos de pessoal e apoio administrativo e tem as competências gerais conferidas pelos regulamentos da Força Aérea às secretarias.
 
 2 - Compete, especificamente, à secretaria:
 
@@ -766,7 +792,7 @@ o) Organizar o arquivo, com classificação por temas, das actividades escolares
 
 p) Tratar dos assuntos que lhe forem determinados pelo director de ensino académico.
 
-###### Art. 42.º - 1 - A biblioteca é dirigida por um oficial superior, nomeado pelo comandante, sob proposta do director de ensino académico, e tem as competências gerais conferidas pelos regulamentos da Força Aérea às bibliotecas e núcleos de documentação.
+Art. 42.º - 1 - A biblioteca é dirigida por um oficial superior, nomeado pelo comandante, sob proposta do director de ensino académico, e tem as competências gerais conferidas pelos regulamentos da Força Aérea às bibliotecas e núcleos de documentação.
 
 2 - Compete, especificamente, à biblioteca:
 
@@ -788,7 +814,7 @@ h) Zelar pelo património histórico, cultural e aeronáutico da AFA;
 
 i) Recolher, estudar e organizar elementos, dados e registos para a história da AFA.
 
-###### Art. 43.º - 1 - A secção de apoio escolar é chefiada por um capitão ou subalterno.
+Art. 43.º - 1 - A secção de apoio escolar é chefiada por um capitão ou subalterno.
 
 2 - Compete à secção de apoio escolar:
 
@@ -818,9 +844,9 @@ m) Efectuar estudos técnicos sobre o material didáctico, os seus sistemas de u
 
 #### SECÇÃO V — Corpo de alunos
 
-###### Art. 44.º Ao CAL compete o enquadramento militar dos alunos, a programação, execução e controlo da educação militar, da educação física e das actividades aéreas, em coordenação com a educação científica e técnica.
+Art. 44.º Ao CAL compete o enquadramento militar dos alunos, a programação, execução e controlo da educação militar, da educação física e das actividades aéreas, em coordenação com a educação científica e técnica.
 
-###### Art. 45.º - 1 - O CAL é composto por:
+Art. 45.º - 1 - O CAL é composto por:
 
 a) O comandante do corpo de alunos;
 
@@ -832,9 +858,9 @@ d) Os serviços administrativos.
 
 ##### SUBSECÇÃO I — Comandante do CAL
 
-###### Art. 46.º O comandante do CAL é um coronel, nomeado pelo CEMFA, sob proposta do comandante.
+Art. 46.º O comandante do CAL é um coronel, nomeado pelo CEMFA, sob proposta do comandante.
 
-###### Art. 47.º - 1 - O comandante do CAL é directamente responsável perante o comandante pelo cumprimento da missão atribuída ao CAL.
+Art. 47.º - 1 - O comandante do CAL é directamente responsável perante o comandante pelo cumprimento da missão atribuída ao CAL.
 
 2 - Tem as seguintes competências:
 
@@ -872,13 +898,13 @@ q) Estudar os assuntos respeitantes a pessoal, a alimentação, fardamento, aloj
 
 r) Exercer a competência disciplinar escolar que lhe é atribuída por este Regulamento, assim como a do RDM.
 
-###### Art. 48.º Ao comandante do CAL é atribuída autoridade funcional sobre todo o corpo de docente do CAL no âmbito das actividades escolares.
+Art. 48.º Ao comandante do CAL é atribuída autoridade funcional sobre todo o corpo de docente do CAL no âmbito das actividades escolares.
 
 ##### SUBSECÇÃO II — Grupo de alunos
 
-###### Art. 49.º O GAL é o órgão do CAL para o enquadramento militar dos alunos.
+Art. 49.º O GAL é o órgão do CAL para o enquadramento militar dos alunos.
 
-###### Art. 50.º - 1 - O CAL é comandado por um tenente-coronel, nomeado pelo comandante, sob proposta do comandante do CAL:
+Art. 50.º - 1 - O CAL é comandado por um tenente-coronel, nomeado pelo comandante, sob proposta do comandante do CAL:
 
 2 - Compete, especificamente, ao comandante do GAL:
 
@@ -894,9 +920,9 @@ e) Coordenar e superintender no desempenho de funções dos comandantes das esqu
 
 f) Passar revista aos grupos de alunos e às suas instalações.
 
-###### Art. 51.º O GAL articula-se em esquadras e esquadrilhas, onde são integrados os alunos.
+Art. 51.º O GAL articula-se em esquadras e esquadrilhas, onde são integrados os alunos.
 
-###### Art. 52.º - 1 - As esquadras e esquadrilhas são comandadas, respectivamente, por majores e capitães, professores efectivos, nomeados pelo comandante, sob proposta do comandante do CAL.
+Art. 52.º - 1 - As esquadras e esquadrilhas são comandadas, respectivamente, por majores e capitães, professores efectivos, nomeados pelo comandante, sob proposta do comandante do CAL.
 
 2 - Compete aos comandantes de esquadra de alunos:
 
@@ -936,17 +962,17 @@ h) Tomar parte, como vogal, no conselho de disciplina escolar;
 
 i) Exercer a competência disciplinar escolar que lhe é atribuída por este Regulamento.
 
-###### Art. 53.º - 1 - O comandante do GAL atribui no início de cada ano lectivo funções de comando escolar de carácter permanente ou periódico aos alunos finalistas, tendo em vista facultar-lhes experiência de comando.
+Art. 53.º - 1 - O comandante do GAL atribui no início de cada ano lectivo funções de comando escolar de carácter permanente ou periódico aos alunos finalistas, tendo em vista facultar-lhes experiência de comando.
 
 2 - Estes alunos desempenham funções de adjuntos dos comandantes do grupo, das esquadras e das esquadrilhas de alunos.
 
 ##### SUBSECÇÃO III — Departamento de educação militar
 
-###### Art. 54.º Ao departamento de educação militar (DEM) incumbe preparar, coordenar e pôr em execução os programas de instrução militar e cívica aprovados, tendo em vista o desenvolvimento das aptidões militares, de chefia e humanas dos alunos.
+Art. 54.º Ao departamento de educação militar (DEM) incumbe preparar, coordenar e pôr em execução os programas de instrução militar e cívica aprovados, tendo em vista o desenvolvimento das aptidões militares, de chefia e humanas dos alunos.
 
-###### Art. 55.º O DEM é composto pelos professores e instrutores de todas as disciplinas e actividades deste departamento.
+Art. 55.º O DEM é composto pelos professores e instrutores de todas as disciplinas e actividades deste departamento.
 
-###### Art. 56.º O chefe do DEM é um tenente-coronel, professor efectivo, que tem as seguintes competências:
+Art. 56.º O chefe do DEM é um tenente-coronel, professor efectivo, que tem as seguintes competências:
 
 a) Coordenar e orientar o ensino das matérias curriculares;
 
@@ -968,13 +994,13 @@ i) Propor a realização de palestras e conferências;
 
 j) Propor a realização de visitas de estudo.
 
-###### Art. 57.º O DEM compreende duas áreas:
+Art. 57.º O DEM compreende duas áreas:
 
 a) Área de instrução militar;
 
 b) Área de comando e liderança.
 
-###### Art. 58.º As áreas referidas no artigo anterior são chefiadas por professores efectivos, competindo-lhes, fundamentalmente:
+Art. 58.º As áreas referidas no artigo anterior são chefiadas por professores efectivos, competindo-lhes, fundamentalmente:
 
 a) Dar cumprimento aos programas das disciplinas da área;
 
@@ -992,11 +1018,11 @@ g) Apresentar propostas fundamentadas de visitas de estudo que complementem o en
 
 ##### SUBSECÇÃO IV — Departamento de educação física
 
-###### Art. 59.º Ao departamento de educação física (DEF) cabe preparar, coordenar e pôr em execução os programas de educação física e desportiva, tendo em vista, fundamentalmente, a preparação e o desenvolvimento físico dos alunos mais adequado à sua carreira.
+Art. 59.º Ao departamento de educação física (DEF) cabe preparar, coordenar e pôr em execução os programas de educação física e desportiva, tendo em vista, fundamentalmente, a preparação e o desenvolvimento físico dos alunos mais adequado à sua carreira.
 
-###### Art. 60.º O DEF é composto pelos professores e instrutores de todas as disciplinas e actividades deste departamento.
+Art. 60.º O DEF é composto pelos professores e instrutores de todas as disciplinas e actividades deste departamento.
 
-###### Art. 61.º O chefe do DEF é um tenente-coronel, professor efectivo, que tem as seguintes competências:
+Art. 61.º O chefe do DEF é um tenente-coronel, professor efectivo, que tem as seguintes competências:
 
 a) Coordenar e orientar o ensino das matérias curriculares;
 
@@ -1018,13 +1044,13 @@ i) Propor a realização de palestras e conferências;
 
 j) Propor a realização de visitas de estudo.
 
-###### Art. 62.º O DEF compreende duas áreas:
+Art. 62.º O DEF compreende duas áreas:
 
 a) Área de educação física;
 
 b) Área de desportos.
 
-###### Art. 63.º As áreas referidas no artigo anterior são chefiadas por professores efectivos, com qualificação técnica em educação física, tendo, especificamente, as funções:
+Art. 63.º As áreas referidas no artigo anterior são chefiadas por professores efectivos, com qualificação técnica em educação física, tendo, especificamente, as funções:
 
 a) Dar cumprimento aos programas das disciplinas e actividades da área;
 
@@ -1048,7 +1074,7 @@ j) Propor a constituição das equipas participantes em campeonatos desportivos.
 
 ##### SUBSECÇÃO V — Departamento de actividades aéreas
 
-###### Art. 64.º - 1 - Ao departamento de actividades aéreas (DAA) compete:
+Art. 64.º - 1 - Ao departamento de actividades aéreas (DAA) compete:
 
 a) Incutir o gosto e o interesse dos alunos pela pilotagem proporcionando-lhes uma gradual familiarização com a actividade aérea;
 
@@ -1064,13 +1090,13 @@ d) Controlar a instrução e treino de voo.
 
 4 - A manutenção e o apoio logístico aos meios aéreos atribuídos à instrução e treino de voo dos alunos competem à entidade designada pelo CEMFA.
 
-###### Art. 65.º O DAA compreende dois centros:
+Art. 65.º O DAA compreende dois centros:
 
 a) Centro de voo;
 
 b) Centro de pára-quedismo.
 
-###### Art. 66.º - 1 - O chefe do DAA é um tenente-coronel piloto aviador, professor efectivo, que tem as seguintes competências:
+Art. 66.º - 1 - O chefe do DAA é um tenente-coronel piloto aviador, professor efectivo, que tem as seguintes competências:
 
 a) Emitir ordens no âmbito das actividades aéreas a todo o pessoal seu subordinado ou em instrução;
 
@@ -1092,7 +1118,7 @@ i) Dirigir, impulsionar e supervisar todas as actividades relacionadas com a ins
 
 j) Elaborar o planeamento de aquisição do material e publicações necessários à gestão e operação da actividade aérea de instrução.
 
-###### Art. 67.º O centro de voo é chefiado por um capitão piloto aviador, instrutor qualificado nos tipos de aeronaves atribuídas, que tem as seguintes competências:
+Art. 67.º O centro de voo é chefiado por um capitão piloto aviador, instrutor qualificado nos tipos de aeronaves atribuídas, que tem as seguintes competências:
 
 a) Nomear e atribuir o pessoal necessário à execução das acções aéreas;
 
@@ -1104,7 +1130,7 @@ d) Comunicar ao chefe do DAA as novas técnicas tendentes a melhorar a execuçã
 
 e) Manter e fazer manter a disciplina de voo.
 
-###### Art. 68.º O centro de pára-quedismo é chefiado por um capitão pára-quedista com a qualificação de instrutor de pára-quedismo e tem as seguintes competências:
+Art. 68.º O centro de pára-quedismo é chefiado por um capitão pára-quedista com a qualificação de instrutor de pára-quedismo e tem as seguintes competências:
 
 a) Propor os programas dos cursos a ministrar aos alunos;
 
@@ -1120,7 +1146,7 @@ f) Cumprir e fazer cumprir as normas de segurança.
 
 ##### SUBSECÇÃO VI — Serviços administrativos e de apoio aos alunos
 
-###### Art. 69.º Os serviços administrativos e de apoio aos alunos do CAL compreendem:
+Art. 69.º Os serviços administrativos e de apoio aos alunos do CAL compreendem:
 
 a) Gabinete de acompanhamento (GAC);
 
@@ -1130,13 +1156,13 @@ c) Serviço de internato (SI);
 
 d) Secretaria.
 
-###### Art. 70.º - 1 - O GAC é o órgão de apoio dos alunos e do comando do CAL.
+Art. 70.º - 1 - O GAC é o órgão de apoio dos alunos e do comando do CAL.
 
 2 - O GAC é constituído por oficiais médicos e psicólogos, sendo normalmente docentes ou oficiais da AFA, nomeados, em regime de acumulação de funções, pelo comandante, sob proposta do comandante do CAL.
 
 3 - O GAC é chefiado pelo oficial mais graduado.
 
-###### Art. 71.º Compete ao GAC:
+Art. 71.º Compete ao GAC:
 
 a) Apoiar os alunos na sua integração na AFA;
 
@@ -1152,13 +1178,13 @@ f) Pesquisar e desenvolver técnicas e processos de acompanhamento de alunos;
 
 g) Propor ao comando a aplicação de métodos e meios que contribuam para aproveitamento escolar e para o desenvolvimento das qualidades militares nos alunos.
 
-###### Art. 72.º - 1 - O GACE é chefiado por um oficial superior do CAL, em regime de acumulação de funções.
+Art. 72.º - 1 - O GACE é chefiado por um oficial superior do CAL, em regime de acumulação de funções.
 
 2 - Faz parte do GACE um elemento de cada um dos departamentos do CAL, nomeado pelo comandante, sob proposta do comandante do CAL.
 
 3 - Poderão ser nomeados outros docentes ou oficiais para o desempenho de funções do GACE, quando tal se torne necessário.
 
-###### Art. 73.º - 1 - Ao GACE compete a promoção e a execução de acções culturais, sociais e de ocupação de tempos livres dos alunos, tendo em vista a sua valorização humana e militar.
+Art. 73.º - 1 - Ao GACE compete a promoção e a execução de acções culturais, sociais e de ocupação de tempos livres dos alunos, tendo em vista a sua valorização humana e militar.
 
 2 - Compete ao GACE, especificamente:
 
@@ -1176,7 +1202,7 @@ f) Sugerir aos alunos o preenchimento do tempo de lazer com as actividades dispo
 
 g) Estudar e propor a criação de actividades circum-escolares que sirvam o objectivo da formação e os interesses dos alunos.
 
-###### Art. 74.º - 1 - O serviço de internato é chefiado por um capitão ou subalterno de qualquer quadro, podendo exercer esta função em regime de acumulação.
+Art. 74.º - 1 - O serviço de internato é chefiado por um capitão ou subalterno de qualquer quadro, podendo exercer esta função em regime de acumulação.
 
 2 - Compete ao serviço de internato:
 
@@ -1194,7 +1220,7 @@ f) Providenciar pela arrumação e limpeza das instalações escolares do CAL;
 
 g) Comunicar ao comandante da esquadrilha respectiva as ocorrências relativas às deficiências de utilização pelos alunos das instalações, equipamentos, mobiliários e outro material.
 
-###### Art. 75.º - 1 - A secretaria é chefiada por um capitão ou subalterno da especialidade de técnicos de pessoal e apoio administrativo e tem as competências gerais conferidas pelos regulamentos da Força Aérea às secretarias.
+Art. 75.º - 1 - A secretaria é chefiada por um capitão ou subalterno da especialidade de técnicos de pessoal e apoio administrativo e tem as competências gerais conferidas pelos regulamentos da Força Aérea às secretarias.
 
 2 - Compete, especificamente, à secretaria:
 
@@ -1226,9 +1252,9 @@ n) Assegurar o secretariado e expediente dos departamentos do GAC e do GACE.
 
 #### SECÇÃO VI — Grupo de apoio
 
-###### Art. 76.º ao GAP compete assegurar o normal funcionamento das actividades de carácter logístico e administrativo da AFA, bem como a segurança e a defesa das suas instalações, garantindo a eficiência dos serviços próprios e a prontidão dos recursos disponíveis.
+Art. 76.º ao GAP compete assegurar o normal funcionamento das actividades de carácter logístico e administrativo da AFA, bem como a segurança e a defesa das suas instalações, garantindo a eficiência dos serviços próprios e a prontidão dos recursos disponíveis.
 
-###### Art. 77.º O GAP é constituído por:
+Art. 77.º O GAP é constituído por:
 
 a) O comandante;
 
@@ -1238,7 +1264,7 @@ c) A secretaria.
 
 ##### SUBSECÇÃO I — Comandante do GAP
 
-###### Art. 78.º - 1 - O comandante do grupo de apoio é um tenente-coronel, nomeado pelo comandante da AFA.
+Art. 78.º - 1 - O comandante do grupo de apoio é um tenente-coronel, nomeado pelo comandante da AFA.
 
 2 - O comandante do grupo de apoio é directamente responsável perante o comandante pela missão atribuída ao GAP.
 
@@ -1268,7 +1294,7 @@ l) Realizar os actos de gestão do pessoal não docente e não discente, em conf
 
 m) Fazer parte da CPE.
 
-###### Art. 79.º - 1 - O comandante do GAP é assistido nas suas funções por:
+Art. 79.º - 1 - O comandante do GAP é assistido nas suas funções por:
 
 a) O gabinete técnico;
 
@@ -1284,7 +1310,7 @@ e) O posto de recolha de dados e teleprocessamento.
 
 ##### SUBSECÇÃO II — Esquadras, esquadrilhas e secções de serviços
 
-###### Art. 80.º - 1 - O GAP é composto pela seguintes esquadras:
+Art. 80.º - 1 - O GAP é composto pela seguintes esquadras:
 
 a) Esquadra de administração;
 
@@ -1304,13 +1330,13 @@ f) Esquadra de polícia aérea.
 
 ##### SUBSECÇÃO III — A secretaria
 
-###### Art. 81.º A secretaria tem a organização e as funções estabelecidas no regulamento das unidades da Força Aérea para as secretarias dos grupos de apoio.
+Art. 81.º A secretaria tem a organização e as funções estabelecidas no regulamento das unidades da Força Aérea para as secretarias dos grupos de apoio.
 
 ### CAPÍTULO III — Orientação e organização do ensino
 
 #### SECÇÃO I — Orientação do ensino
 
-###### Art. 82.º - 1 - O ensino ministrado nos cursos de formação de oficiais engloba as seguintes vertentes fundamentais:
+Art. 82.º - 1 - O ensino ministrado nos cursos de formação de oficiais engloba as seguintes vertentes fundamentais:
 
 a) Formação científica de base, de nível universitário, com vista a assegurar a aquisição dos conhecimentos e da dinâmica intelectual essenciais ao permanente acompanhamento da evolução do saber;
 
@@ -1322,19 +1348,19 @@ d) Preparação física e de adestramento militar, visando conferir aos alunos o
 
 2 - Os cursos de formação de oficiais compreendem ainda actividades complementares das anteriores, baseadas na correcta gestão dos tempos livres e englobando actividades de carácter lúdico e de cultura geral, tendo em vista o aperfeiçoamento da formação global dos alunos.
 
-###### Art. 83.º As actividades circum-escolares devem promover a utilização dos tempos livres como um processo criativo de aprendizagem, sendo previstas no plano anual de actividades escolares.
+Art. 83.º As actividades circum-escolares devem promover a utilização dos tempos livres como um processo criativo de aprendizagem, sendo previstas no plano anual de actividades escolares.
 
-###### Art. 84.º Aos militares e civis em serviço na AFA, e em especial ao corpo docente, é exigida uma acção e comportamento que sirvam, perante o aluno, de guia e modelo de atitudes cívicas, militares e profissionais.
+Art. 84.º Aos militares e civis em serviço na AFA, e em especial ao corpo docente, é exigida uma acção e comportamento que sirvam, perante o aluno, de guia e modelo de atitudes cívicas, militares e profissionais.
 
-###### Art. 85.º O plano anual das actividades escolares integra de forma sistematizada todas as actividades escolares de todos os cursos da AFA, os planos de estudo, os programas das disciplinas e a discriminação do efectivo do corpo docente e elementos úteis para docentes e alunos, sendo elaborado pela CPE e aprovado pelo comandante, ouvido o conselho científico.
+Art. 85.º O plano anual das actividades escolares integra de forma sistematizada todas as actividades escolares de todos os cursos da AFA, os planos de estudo, os programas das disciplinas e a discriminação do efectivo do corpo docente e elementos úteis para docentes e alunos, sendo elaborado pela CPE e aprovado pelo comandante, ouvido o conselho científico.
 
 #### SECÇÃO II — Organização dos cursos
 
-###### Art. 86.º - 1 - É criado um conselho de curso por cada curso ministrado na AFA.
+Art. 86.º - 1 - É criado um conselho de curso por cada curso ministrado na AFA.
 
 2 - Fazem parte do conselho de curso todos os docentes desse curso.
 
-###### Art. 87.º - 1 - O conselho de curso reúne normalmente todos os semestres, competindo-lhe:
+Art. 87.º - 1 - O conselho de curso reúne normalmente todos os semestres, competindo-lhe:
 
 a) Apreciar globalmente as classificações semestrais e anuais dos alunos;
 
@@ -1350,11 +1376,11 @@ d) Elaborar estudos sobre o ensino e a actividade escolar.
 
 4 - O director de ensino académico presidirá às reuniões a que assistir.
 
-###### Art. 88.º - 1 - Cada curso da AFA tem um director de curso.
+Art. 88.º - 1 - Cada curso da AFA tem um director de curso.
 
 2 - O director de curso é professor efectivo e do curso, de preferência da especialidade a que os alunos do curso se destinam, nomeado pelo comandante, sob proposta do director de ensino académico, em regime de acumulação de funções.
 
-###### Art. 89.º ao director do curso compete:
+Art. 89.º ao director do curso compete:
 
 a) Acompanhar o desenvolvimento da actividade escolar dos alunos;
 
@@ -1372,7 +1398,7 @@ g) Convocar as reuniões ordinárias do conselho de curso.
 
 #### SECÇÃO III — Cursos de licenciatura
 
-###### Art. 90.º - 1 - Na AFA são ministrados cursos de licenciatura, que habilitam ao ingresso na categoria de oficial dos quadros permanentes das seguintes especialidades:
+Art. 90.º - 1 - Na AFA são ministrados cursos de licenciatura, que habilitam ao ingresso na categoria de oficial dos quadros permanentes das seguintes especialidades:
 
 a) Piloto aviador;
 
@@ -1396,13 +1422,13 @@ que adiante se designam, abreviadamente, por cursos.
 
 5 - A estrutura dos cursos é aprovada por portaria conjunta dos Ministros da Defesa Nacional e da Educação, sob proposta do CEMFA, ouvido o conselho científico.
 
-###### Art. 91.º Os planos de estudo dos cursos são aprovados por despacho do CEMFA, mediante proposta do comandante, ouvido o conselho científico, após o que são integrados no plano anual de actividades escolares.
+Art. 91.º Os planos de estudo dos cursos são aprovados por despacho do CEMFA, mediante proposta do comandante, ouvido o conselho científico, após o que são integrados no plano anual de actividades escolares.
 
-###### Art. 92.º Os programas das disciplinas e actividades que integram os planos de estudo são aprovados pelo comandante, ouvido o conselho científico.
+Art. 92.º Os programas das disciplinas e actividades que integram os planos de estudo são aprovados pelo comandante, ouvido o conselho científico.
 
 #### SECÇÃO IV — Actividades complementares de formação
 
-###### Art. 93.º - 1 - As actividades complementares de formação tem lugar ao longo do ano lectivo, ocorrendo as de maior relevância, normalmente, no período compreendido entre o fim das aulas e o início das férias escolares e o fim destas e o início do ano lectivo.
+Art. 93.º - 1 - As actividades complementares de formação tem lugar ao longo do ano lectivo, ocorrendo as de maior relevância, normalmente, no período compreendido entre o fim das aulas e o início das férias escolares e o fim destas e o início do ano lectivo.
 
 2 - As actividades complementares de formação são propostas, com a devida fundamentação, pelos departamentos e, se obtido o parecer favorável do conselho pedagógico, são inscritas no plano anual de actividades escolares.
 
@@ -1414,7 +1440,7 @@ que adiante se designam, abreviadamente, por cursos.
 
 #### SECÇÃO V — Avaliação escolar
 
-###### Art. 94.º - 1 - A avaliação escolar dos alunos da AFA e feita basicamente pelo sistema de avaliação contínua e, complementarmente, recorrendo a exames.
+Art. 94.º - 1 - A avaliação escolar dos alunos da AFA e feita basicamente pelo sistema de avaliação contínua e, complementarmente, recorrendo a exames.
 
 2 - A avaliação contínua efectua-se pela avaliação de frequência das disciplinas e é feita através de testes escritos, chamadas orais, trabalhos individuais ou de grupo, trabalhos práticos, laboratoriais e de campo, exercícios e outras actividades escolares constantes dos planos de estudo dos cursos.
 
@@ -1422,7 +1448,7 @@ que adiante se designam, abreviadamente, por cursos.
 
 4 - Os exames da época de recurso destinam-se aos alunos que tenham reprovado em exames da época normal, no máximo, a duas disciplinas semestrais ou a uma anual.
 
-###### Art. 95.º - 1 - As classificações de frequência das disciplinas são da exclusiva responsabilidade do respectivo docente e são apreciadas em conselho de curso.
+Art. 95.º - 1 - As classificações de frequência das disciplinas são da exclusiva responsabilidade do respectivo docente e são apreciadas em conselho de curso.
 
 2 - As classificações dos exames são atribuídas por um júri constituído por três professores.
 
@@ -1432,15 +1458,15 @@ que adiante se designam, abreviadamente, por cursos.
 
 5 - É admitido ao aluno o pedido de esclarecimento sobre as classificações que lhe forem atribuídas, e, se não se conformar com o esclarecimento obtido, pode recorrer para o comandante.
 
-###### Art. 96.º A tabela e o regime de precedências e os coeficientes de ponderação das disciplinas são aprovados por despacho do CEMFA, sob proposta do comandante, ouvido o conselho científico, e constam dos planos de estudo dos cursos.
+Art. 96.º A tabela e o regime de precedências e os coeficientes de ponderação das disciplinas são aprovados por despacho do CEMFA, sob proposta do comandante, ouvido o conselho científico, e constam dos planos de estudo dos cursos.
 
-###### Art. 97.º - 1 - O aluno reprova no ano se obtiver classificação final inferior a 10 valores em três ou mais disciplinas semestrais ou em duas ou mais disciplinas anuais da formação científico-técnica.
+Art. 97.º - 1 - O aluno reprova no ano se obtiver classificação final inferior a 10 valores em três ou mais disciplinas semestrais ou em duas ou mais disciplinas anuais da formação científico-técnica.
 
 2 - O aluno reprova no ano se obtiver classificação final inferior a 10 valores em educação militar ou em educação física.
 
 3 - O aluno reprova no tirocínio ou estágio, que constitui o último ano do curso, se nele obtiver classificação inferior a 10 valores.
 
-###### Art. 98.º A cada aluno é atribuído o número de curso, que designa a sua ordenação no ano do curso que vai frequentar, tendo em conta que:
+Art. 98.º A cada aluno é atribuído o número de curso, que designa a sua ordenação no ano do curso que vai frequentar, tendo em conta que:
 
 a) Os alunos do 1.º ano são ordenados pela ordem decrescente das suas classificações finais obtidas no concurso de admissão;
 
@@ -1448,15 +1474,15 @@ b) Os alunos do 2.º ano e os dos anos seguintes são ordenados pela ordem decre
 
 c) Os alunos repetentes são reordenados no ano lectivo em que se mantêm, nos termos da alínea a), se repetem o 1.º ano, e nos termos da alínea b), se repetem qualquer outro ano.
 
-###### Art. 99.º - 1 - A classificação de licenciatura, a inscrever na carta de curso, e a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a 5 décimas), das classificações das disciplinas e do tirocínio ou estágio em que foram obtidas os créditos necessários à obtenção do grau.
+Art. 99.º - 1 - A classificação de licenciatura, a inscrever na carta de curso, e a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a 5 décimas), das classificações das disciplinas e do tirocínio ou estágio em que foram obtidas os créditos necessários à obtenção do grau.
 
 2 - A classificação final do curso é a média aritmética ponderada, arredondada até às centésimas, das classificações de todas as disciplinas, actividades e tirocínio ou estágio ministrados durante o curso.
 
-###### Art. 100.º - 1 - O programa das provas e testes de avaliação escolar do ano lectivo consta do plano anual de actividades escolares, divulgado pelo corpo docente e discente.
+Art. 100.º - 1 - O programa das provas e testes de avaliação escolar do ano lectivo consta do plano anual de actividades escolares, divulgado pelo corpo docente e discente.
 
 2 - Os registos individuais de avaliação escolar dos alunos, as pautas de classificação final de frequência das disciplinas, os livros de termos de classificação de exames e os boletins de classificação de tirocínio ou estágio constituem arquivo activo perpétuo.
 
-###### Art. 101.º - 1 - No manual de avaliação escolar é descrito em pormenor e concretamente o sistema de avaliação escolar dos cursos, nomeadamente no respeitante à avaliação de conhecimentos e classificação de frequência das disciplinas, a realização dos exames, a classificação anual e final de curso e as consequências das reprovações.
+Art. 101.º - 1 - No manual de avaliação escolar é descrito em pormenor e concretamente o sistema de avaliação escolar dos cursos, nomeadamente no respeitante à avaliação de conhecimentos e classificação de frequência das disciplinas, a realização dos exames, a classificação anual e final de curso e as consequências das reprovações.
 
 2 - O manual referido no número anterior é aprovado pelo comandante, ouvido o conselho científico.
 
@@ -1464,7 +1490,7 @@ c) Os alunos repetentes são reordenados no ano lectivo em que se mantêm, nos t
 
 #### SECÇÃO I — Constituição do corpo docente
 
-###### Art. 102.º - 1 - O corpo docente é constituído por todos os professores, assistentes e instrutores, militares e civis, que ministrem o ensino e a instrução na AFA com:
+Art. 102.º - 1 - O corpo docente é constituído por todos os professores, assistentes e instrutores, militares e civis, que ministrem o ensino e a instrução na AFA com:
 
 a) Professores e assistentes das disciplinas de base, de ciências sociais e humanas, de ciências aplicadas e de ciências e técnicas aeronáuticas;
 
@@ -1472,9 +1498,9 @@ b) Professores, assistentes e instrutores das disciplinas e actividades de educa
 
 c) Instrutores do treino técnico inerente às especialidades a que se destinam os alunos.
 
-###### Art. 103.º São professores efectivos os professores universitários e os professores militares que, recrutados por concurso documental, com prestação de provas públicas, ocupem vaga no quadro de pessoal da AFA.
+Art. 103.º São professores efectivos os professores universitários e os professores militares que, recrutados por concurso documental, com prestação de provas públicas, ocupem vaga no quadro de pessoal da AFA.
 
-###### Art. 104.º - 1 - O quadro de pessoal docente é parte constituinte do quadro de pessoal militar e civil da AFA, a aprovar nos termos do Estatuto da AFA.
+Art. 104.º - 1 - O quadro de pessoal docente é parte constituinte do quadro de pessoal militar e civil da AFA, a aprovar nos termos do Estatuto da AFA.
 
 2 - Além do corpo docente estabelecido no quadro, poderão ser recrutados com carácter provisório professores, assistentes e instrutores civis, quando o número de alunos ou novas disciplinas o fundamente plenamente e tal for superiormente autorizado.
 
@@ -1484,13 +1510,13 @@ c) Instrutores do treino técnico inerente às especialidades a que se destinam 
 
 5 - O efectivo do corpo docente, discriminado por disciplinas ou grupos de disciplinas, é elemento constituinte do plano anual das actividades escolares.
 
-###### Art. 105.º - 1 - Os professores recrutados nos termos do artigo 103.º e em regime de tempo integral passam a professor efectivo na data da sua nomeação definitiva se verificadas as condições fixadas, respectivamente, no n.º 2 do artigo 110.º e no n.º 3 do artigo 113.º
+Art. 105.º - 1 - Os professores recrutados nos termos do artigo 103.º e em regime de tempo integral passam a professor efectivo na data da sua nomeação definitiva se verificadas as condições fixadas, respectivamente, no n.º 2 do artigo 110.º e no n.º 3 do artigo 113.º
 
 2 - No caso de ser negada a nomeação definitiva, o professor regressa à situação que possuía antes da sua nomeação provisória.
 
 #### SECÇÃO II — Recrutamento e selecção de docentes
 
-###### Art. 106.º - 1 - O recrutamento e selecção dos professores, assistentes e instrutores é feito:
+Art. 106.º - 1 - O recrutamento e selecção dos professores, assistentes e instrutores é feito:
 
 a) Por concurso documental, complementado por prestação de provas públicas;
 
@@ -1504,7 +1530,7 @@ c) Por convite.
 
 4 - O recrutamento por convite tem lugar na falta de concorrentes aos concursos, quando nenhum deles tenha obtido mérito absoluto e ainda quando se verifique vacatura ou situações imprevistas, sendo formalizado por contrato, para os docentes civis, e por colocação por escolha, para os docentes militares.
 
-###### Art. 107.º - 1 - O recrutamento de professores universitários é feito por concurso documental, com prestação de provas públicas, sendo a nomeação inicial provisória por um período de um ano lectivo.
+Art. 107.º - 1 - O recrutamento de professores universitários é feito por concurso documental, com prestação de provas públicas, sendo a nomeação inicial provisória por um período de um ano lectivo.
 
 2 - Findo o período de nomeação provisória, os professores universitários são nomeados a título definitivo por portaria do CEMFA, sob proposta de nomeação definitiva do comandante, precedida de parecer favorável do conselho científico, tomado por maioria qualificada de dois terços.
 
@@ -1516,11 +1542,11 @@ c) Por convite.
 
 6 - Aos docentes universitários é aplicável o Estatuto da Carreira Docente Universitária, sem prejuízo das disposições aplicáveis do presente Regulamento, e terão de realizar provas nas universidades portuguesas para obtenção dos graus e títulos académicos previstos naquele Estatuto.
 
-###### Art. 108.º - 1 - Docentes universitários e individualidades civis ou militares habilitadas com um curso universitário e reconhecida competência científica e pedagógica, obtido o parecer favorável do conselho científico por maioria qualificada de dois terços, podem ser convidados pelo comandante para o exercício de actividades docentes quando se verifique qualquer das condições referidas no n.º 4 do artigo 117.º
+Art. 108.º - 1 - Docentes universitários e individualidades civis ou militares habilitadas com um curso universitário e reconhecida competência científica e pedagógica, obtido o parecer favorável do conselho científico por maioria qualificada de dois terços, podem ser convidados pelo comandante para o exercício de actividades docentes quando se verifique qualquer das condições referidas no n.º 4 do artigo 117.º
 
 2 - Os docentes e individualidades civis referidos no número anterior são providos por contrato e os militares são colocados pelo CEMFA, tendo em atenção a regulamentação do ramo a que pertençam.
 
-###### Art. 109.º - 1 - Os professores militares efectivos são oficiais da Força Aérea com um curso universitário, qualificação e comprovada competência científica, técnica e pedagógica para a regência da disciplina e o seu recrutamento é feito por concurso documental, com prestação de provas públicas.
+Art. 109.º - 1 - Os professores militares efectivos são oficiais da Força Aérea com um curso universitário, qualificação e comprovada competência científica, técnica e pedagógica para a regência da disciplina e o seu recrutamento é feito por concurso documental, com prestação de provas públicas.
 
 2 - Para as disciplinas de ciências e técnicas aeronáuticas, de educação militar e educação física, o concurso é aberto, preferencialmente, para oficiais da Força Aérea que satisfaçam as condições mencionadas no número anterior.
 
@@ -1528,11 +1554,11 @@ c) Por convite.
 
 4 - Para preenchimento de lugares não ocupados pela via dos concursos ou em situações inopinadas pode o comandante, ouvido o conselho científico, propor ao CEMFA a colocação, por escolha e ao abrigo da regulamentação interna da Força Aérea, de oficiais na AFA que obedeçam aos requisitos referidos no n.º 1 ou propor a sua nomeação em regime de acumulação.
 
-###### Art. 110.º - 1 - Os instrutores militares são oficiais da Força Aérea, com as qualificações adequadas e comprovada competência para o exercício das funções a desempenhar, e são recrutados, normalmente, por convite, sendo a sua colocação na AFA por escolha, ou em regime de acumulação, proposta ao CEMFA pelo comandante e precedida de parecer favorável do conselho científico, tomado por maioria qualificada de dois terços.
+Art. 110.º - 1 - Os instrutores militares são oficiais da Força Aérea, com as qualificações adequadas e comprovada competência para o exercício das funções a desempenhar, e são recrutados, normalmente, por convite, sendo a sua colocação na AFA por escolha, ou em regime de acumulação, proposta ao CEMFA pelo comandante e precedida de parecer favorável do conselho científico, tomado por maioria qualificada de dois terços.
 
 2 - Estes instrutores terão posto ou antiguidade inferiores aos dos professores militares que regem as disciplinas e coadjuvam-nos, sem os substituir, em aulas práticas e teórico-práticas, trabalhos de laboratório ou de campo, trabalhos de investigação, treino técnico, instrução militar, actividade aérea ou prática de modalidade desportiva.
 
-###### Art. 111.º - 1 - Os instrutores civis são recrutados por concurso documental e, eventualmente, por convite, sendo, em ambos os casos, providos por contrato.
+Art. 111.º - 1 - Os instrutores civis são recrutados por concurso documental e, eventualmente, por convite, sendo, em ambos os casos, providos por contrato.
 
 2 - Os instrutores civis são profissionais com curso superior e qualificações no âmbito das respectivas disciplinas que coadjuvam os professores, sem os substituir, em aulas práticas e teórico-práticas, trabalhos de laboratório, de campo ou de investigação ou ainda em actividades desportivas.
 
@@ -1540,7 +1566,7 @@ c) Por convite.
 
 #### SECÇÃO III — Concursos e contratos de docentes
 
-###### Art. 112.º - 1 - A abertura dos concursos referidos neste Regulamento carece de despacho concordante do CEMFA, sob proposta do comandante, precedida de parecer favorável do conselho científico, tomado por maioria simples, bem como os seus resultados carecem de homologação da mesma entidade.
+Art. 112.º - 1 - A abertura dos concursos referidos neste Regulamento carece de despacho concordante do CEMFA, sob proposta do comandante, precedida de parecer favorável do conselho científico, tomado por maioria simples, bem como os seus resultados carecem de homologação da mesma entidade.
 
 2 - A proposta de abertura do concurso decorre da existência de vacatura ou da sua previsão no ano lectivo seguinte e de cabimento na respectiva verba orçamental.
 
@@ -1548,11 +1574,11 @@ c) Por convite.
 
 4 - A realização dos concursos rege-se pelas normas que constituem o anexo B a este Regulamento.
 
-###### Art. 113.º A nomeação provisória e a nomeação definitiva referentes a professores universitários e a celebração de contrato com docentes civis obedecem às formalidades legais aplicáveis e seguem a tramitação processual corrente até visto do Tribunal de Contas e publicação no Diário da República.
+Art. 113.º A nomeação provisória e a nomeação definitiva referentes a professores universitários e a celebração de contrato com docentes civis obedecem às formalidades legais aplicáveis e seguem a tramitação processual corrente até visto do Tribunal de Contas e publicação no Diário da República.
 
-###### Art. 114.º As propostas de contratação de docentes civis recrutados por convite carecem de autorização do CEMFA, a quem são apresentadas pelo comandante, após parecer favorável do conselho científico, emitido sobre o processo de recrutamento e selecção organizado para o efeito e tomado por maioria qualificada de dois terços.
+Art. 114.º As propostas de contratação de docentes civis recrutados por convite carecem de autorização do CEMFA, a quem são apresentadas pelo comandante, após parecer favorável do conselho científico, emitido sobre o processo de recrutamento e selecção organizado para o efeito e tomado por maioria qualificada de dois terços.
 
-###### Art. 115.º - 1 - Os contratos de docentes civis são celebrados pelo comandante e deles constam obrigatoriamente, além da identificação completa das partes e da legislação ao abrigo da qual são firmados, os elementos seguintes:
+Art. 115.º - 1 - Os contratos de docentes civis são celebrados pelo comandante e deles constam obrigatoriamente, além da identificação completa das partes e da legislação ao abrigo da qual são firmados, os elementos seguintes:
 
 a) Indicação da categoria, no caso de o contratado ser docente universitário, ou a sua equiparação contratual, no caso de ser individualidade civil convidada, em conformidade com o disposto neste Regulamento;
 
@@ -1582,7 +1608,7 @@ g) Vencimento e remuneração e rubricas orçamentais pelas quais são suportado
 
 8 - Os abonos referidos nos números anteriores cessarão, no caso de ao respectivo contrato ser negado o visto do Tribunal de Contas, a partir do dia em que o docente seja notificado de tal recusa.
 
-###### Art. 116.º Os contratos dos docentes civis cessam nos casos seguintes.
+Art. 116.º Os contratos dos docentes civis cessam nos casos seguintes.
 
 a) Denúncia por qualquer das partes, até 30 dias antes do termo do respectivo prazo;
 
@@ -1592,7 +1618,7 @@ c) Rescisão por parte do comandante, no seguimento de decisão final proferida 
 
 d) Mútuo acordo, a todo o tempo.
 
-###### Art. 117.º - 1 - Aos professores e assistentes universitários recrutados por concurso, convite ou convénio aplica-se o regime remuneratório da carreira docente universitária.
+Art. 117.º - 1 - Aos professores e assistentes universitários recrutados por concurso, convite ou convénio aplica-se o regime remuneratório da carreira docente universitária.
 
 2 - Às individualidades civis convidadas para o exercício de funções docentes aplica-se o regime definido no número anterior, tendo em conta a equiparação contratual fixada neste Regulamento.
 
@@ -1602,13 +1628,13 @@ d) Mútuo acordo, a todo o tempo.
 
 #### SECÇÃO IV — Direitos e deveres dos docentes
 
-###### Art. 118.º Nos impedimentos temporários de um docente ou enquanto é aguardado o preenchimento de uma vacatura, a regência ou a leccionação da respectiva disciplina serão exercidas por outro docente, nomeado transitoriamente pelo comandante, sob proposta, conforme o caso, do director do ensino académico ou do comandante do CAL.
+Art. 118.º Nos impedimentos temporários de um docente ou enquanto é aguardado o preenchimento de uma vacatura, a regência ou a leccionação da respectiva disciplina serão exercidas por outro docente, nomeado transitoriamente pelo comandante, sob proposta, conforme o caso, do director do ensino académico ou do comandante do CAL.
 
-###### Art. 119.º - 1 - A duração da prestação do serviço docente por oficiais da Força Aérea na situação de professores efectivos é fixada entre três e seis anos, podendo haver recondução, se aprovada através de tramitação idêntica à da nomeação definitiva.
+Art. 119.º - 1 - A duração da prestação do serviço docente por oficiais da Força Aérea na situação de professores efectivos é fixada entre três e seis anos, podendo haver recondução, se aprovada através de tramitação idêntica à da nomeação definitiva.
 
 2 - O início do exercício de funções docentes e a exoneração de professor efectivo militar devem ter lugar, respectivamente, no princípio e no fim dos semestres a que a disciplina a ministrar ou ministrada diga respeito.
 
-###### Art. 120.º - 1 - O comandante, sob proposta do director do ensino académico ou do comandante do CAL, e tendo em vista o interesse para o ensino conjugado com disponibilidades pessoais e escolares, poderá propor ao CEMFA a frequência de cursos ou estágios em escolas ou instituições nacionais ou estrangeiras por professores efectivos e por instrutores militares para desenvolvimento ou actualização de conhecimentos científicos, técnicos e pedagógicos.
+Art. 120.º - 1 - O comandante, sob proposta do director do ensino académico ou do comandante do CAL, e tendo em vista o interesse para o ensino conjugado com disponibilidades pessoais e escolares, poderá propor ao CEMFA a frequência de cursos ou estágios em escolas ou instituições nacionais ou estrangeiras por professores efectivos e por instrutores militares para desenvolvimento ou actualização de conhecimentos científicos, técnicos e pedagógicos.
 
 2 - Desde que não haja prejuízo para o ensino, o comandante poderá conceder, ouvido o conselho científico, férias sabáticas parciais por período de seis meses após cada triénio de efectivo serviço docente a professor efectivo que as requeira com o fundamento de realizar trabalhos de investigação ou publicar obras de vulto incompatíveis com a manutenção da sua actividade escolar.
 
@@ -1616,7 +1642,7 @@ d) Mútuo acordo, a todo o tempo.
 
 4 - Terminadas as férias sabáticas referidas no n.º 2, o professor obriga-se a apresentar, no prazo máximo de dois anos, os resultados do seu trabalho, sob pena de, quando assim o não faça, vir a ser compelido a repor as quantias correspondentes às remunerações auferidas durante aquelas férias, se for civil, e a ser-lhe instaurado processo disciplinar, se for militar.
 
-###### Art. 121.º - 1 - Aos docentes compete:
+Art. 121.º - 1 - Aos docentes compete:
 
 a) Reger as disciplinas;
 
@@ -1638,7 +1664,7 @@ e) Desempenhar outras funções escolares.
 
 6 - Os docentes devem manter actualizados os seus conhecimentos científicos e culturais e contribuir para a formação científica e pedagógica do pessoal docente que seja seu colaborador.
 
-###### Art. 122.º - 1 - Compete ainda aos professores coordenar os estudos e a aplicação de métodos de ensino, substituir, nas suas faltas e impedimentos, os restantes professores da sua área científica, colaborar nas actividades do departamento a que pertencem e tomar parte nos órgãos de conselho e nos conselhos de curso de que por inerência sejam membros.
+Art. 122.º - 1 - Compete ainda aos professores coordenar os estudos e a aplicação de métodos de ensino, substituir, nas suas faltas e impedimentos, os restantes professores da sua área científica, colaborar nas actividades do departamento a que pertencem e tomar parte nos órgãos de conselho e nos conselhos de curso de que por inerência sejam membros.
 
 2 - Quando aconselhável, a leccionação de aulas de uma disciplina pode ser exercida por mais de um professor ou assistente, de acordo com a respectiva especialização, independentemente de a orientação geral continuar a ser da responsabilidade do professor que rege a disciplina.
 
@@ -1682,7 +1708,7 @@ s) Dedicar-se à investigação científica no âmbito da AFA ou fora dela, cont
 
 t) Proceder junto da secretaria escolar à actualização do seu curriculum vitae.
 
-###### Art. 123.º - 1 - Os docentes militares colocados na AFA prestam, semanalmente, um número de horas de serviço, em regra, correspondente à duração do trabalho semanal fixado na Força Aérea.
+Art. 123.º - 1 - Os docentes militares colocados na AFA prestam, semanalmente, um número de horas de serviço, em regra, correspondente à duração do trabalho semanal fixado na Força Aérea.
 
 2 - Para além do tempo de preparação e leccionação de aulas, o horário de serviço docente integra ainda a componente relativa ao serviço de assistência aos alunos e a outros encargos ou funções imprescindíveis ao eficaz funcionamento da AFA, devendo estes serviços de apoio corresponder, em regra, a metade daquele tempo.
 
@@ -1696,7 +1722,7 @@ b) O que for superiormente fixado para os docentes militares em regime de acumul
 
 #### SECÇÃO I — Admissão dos alunos
 
-###### Art. 124.º - 1 - O regime de admissão dos alunos aos cursos indicados no n.º 1 do artigo 11.º do Estatuto da AFA é idêntico ao que estiver estabelecido para os estabelecimentos oficiais do ensino universitário, sem prejuízo das exigências específicas consignadas no Regulamento da AFA.
+Art. 124.º - 1 - O regime de admissão dos alunos aos cursos indicados no n.º 1 do artigo 11.º do Estatuto da AFA é idêntico ao que estiver estabelecido para os estabelecimentos oficiais do ensino universitário, sem prejuízo das exigências específicas consignadas no Regulamento da AFA.
 
 2 - A admissão de alunos é realizada por concurso documental e de prestação de provas, a que podem concorrer civis e militares de qualquer dos ramos das forças armadas.
 
@@ -1708,11 +1734,11 @@ b) O que for superiormente fixado para os docentes militares em regime de acumul
 
 6 - O preenchimento das vagas abertas para os cursos é feito segundo a ordenação dos candidatos aprovados, por ordem decrescente das suas classificações finais.
 
-###### Art. 125.º - 1 - As normas do concurso de admissão aos cursos constam do anexo C a este Regulamento.
+Art. 125.º - 1 - As normas do concurso de admissão aos cursos constam do anexo C a este Regulamento.
 
 2 - A abertura destes concursos é divulgada com a conveniente antecedência, internamente, através das ordens de serviço e, externamente, através dos órgãos de comunicação social e junto de estabelecimentos de ensino.
 
-###### Art. 126.º - 1 - A admissão dos alunos aos cursos é da competência da AFA, através da comissão de admissão à AFA.
+Art. 126.º - 1 - A admissão dos alunos aos cursos é da competência da AFA, através da comissão de admissão à AFA.
 
 2 - esta comissão dirige, superintende ou executa as operações do concurso de admissão e coordena o processo classificativo dos candidatos e pode apresentar propostas de aperfeiçoamento ou de alteração à fase documental do concurso, à prestação das provas ou ao estágio de adaptação.
 
@@ -1720,13 +1746,13 @@ b) O que for superiormente fixado para os docentes militares em regime de acumul
 
 4 - As competências específicas da comissão são fixadas por despacho do CEMFA.
 
-###### Art. 127.º O número de vagas para admissão aos cursos é fixado anualmente por despacho do Ministro da Defesa Nacional, sob proposta do CEMFA, tendo em conta:
+Art. 127.º O número de vagas para admissão aos cursos é fixado anualmente por despacho do Ministro da Defesa Nacional, sob proposta do CEMFA, tendo em conta:
 
 a) A necessidade de alimentação dos quadros especiais;
 
 b) A programação e desenvolvimento dos diferentes tipos de carreiras.
 
-###### Art. 128.º - 1 - São admitidos a concurso os candidatos aos cursos que satisfaçam às condições documentais.
+Art. 128.º - 1 - São admitidos a concurso os candidatos aos cursos que satisfaçam às condições documentais.
 
 2 - Não são admitidos a concurso os candidatos que, como alunos, tenham sido eliminados na Escola Naval ou na Academia Militar por motivos disciplinares ou por incapacidade para o serviço militar.
 
@@ -1746,11 +1772,11 @@ c) Estágio de adaptação.
 
 7 - Os candidatos civis aprovados no concurso, mas cuja classificação não permitiu o ingresso no curso, poderão requerer a prestação do serviço efectivo normal na Força Aérea, no âmbito das obrigações militares.
 
-###### Art. 129.º Poderão ser admitidos alunos estrangeiros aos cursos da AFA, mediante despacho do CEMFA, ao abrigo de acordos de cooperação celebrados pelo Estado Português.
+Art. 129.º Poderão ser admitidos alunos estrangeiros aos cursos da AFA, mediante despacho do CEMFA, ao abrigo de acordos de cooperação celebrados pelo Estado Português.
 
 #### SECÇÃO II — Situação dos candidatos à admissão
 
-###### Art. 130.º - 1 - Durante o concurso de admissão os candidatos civis têm o seguinte estatuto:
+Art. 130.º - 1 - Durante o concurso de admissão os candidatos civis têm o seguinte estatuto:
 
 a) Mantêm-se como civis durante a realização das provas psicotécnicas e inspecções médicas;
 
@@ -1762,7 +1788,7 @@ c) Ficam sujeitos à condição militar, sua legislação e demais regulamentos 
 
 #### SECÇÃO III — Situação de aluno
 
-###### Art. 131.º - 1 - Os candidatos aprovados no concurso de admissão e que preencham as vagas abertas nos respectivos cursos, nos termos do disposto neste Regulamento, transitam para a categoria de pessoal militar em preparação privativo da Força Aérea destinado a pessoal permanente, são aumentados ao efectivo do corpo de alunos e são inscritos no 1.º ano do curso da especialidade para que foram admitidos.
+Art. 131.º - 1 - Os candidatos aprovados no concurso de admissão e que preencham as vagas abertas nos respectivos cursos, nos termos do disposto neste Regulamento, transitam para a categoria de pessoal militar em preparação privativo da Força Aérea destinado a pessoal permanente, são aumentados ao efectivo do corpo de alunos e são inscritos no 1.º ano do curso da especialidade para que foram admitidos.
 
 2 - Na data de inscrição no 1.º ano do curso os candidatos apurados passam à situação de cadetes alunos da AFA, se oriundos de praça e de sargento, e à de oficiais alunos da AFA, se oriundos de oficial em serviço efectivo normal ou em regime de contrato, caso em que mantêm o posto.
 
@@ -1778,21 +1804,21 @@ c) Ficam sujeitos à condição militar, sua legislação e demais regulamentos 
 
 8 - Os alunos do 5.º ano são promovidos a aspirante a oficial no início do ano lectivo, com data de antiguidade reportada a 1 de Outubro.
 
-###### Art. 132.º O cadete aluno, para efeitos de posicionamento hierárquico, é equiparado ao nível imediatamente inferior ao de aspirante a oficial.
+Art. 132.º O cadete aluno, para efeitos de posicionamento hierárquico, é equiparado ao nível imediatamente inferior ao de aspirante a oficial.
 
-###### Art. 133.º - 1 - Enquanto cadetes, os alunos não têm direito às honras militares estabelecidas para os oficiais.
+Art. 133.º - 1 - Enquanto cadetes, os alunos não têm direito às honras militares estabelecidas para os oficiais.
 
 2 - O relacionamento dos cadetes com os outros militares deve pautar-se pela correcção e respeito mútuo, devendo os sargentos e praças ter para com os cadetes as deferências devidas aos oficiais.
 
 3 - Os cadetes alunos não poderão exigir qualquer espécie de subordinação dos sargentos e das praças, além da que o serviço para que forem escalados ou nomeados exija, actuando nesses casos por delegação e representação superior, de acordo com as directivas ou ordens emanadas.
 
-###### Art. 134.º A precedência entre alunos será regulada, genericamente, pelas seguintes normas:
+Art. 134.º A precedência entre alunos será regulada, genericamente, pelas seguintes normas:
 
 a) Entre alunos de anos escolares diferentes, pela antiguidade dos respectivos anos;
 
 b) Entre alunos do mesmo ano escolar, pelo número de curso.
 
-###### Art. 135.º - 1 - Os alunos mencionados no n.º 2 do artigo 131.º mantêm os seus postos de origem, mas passam a designar-se de acordo com o enunciado no referido artigo.
+Art. 135.º - 1 - Os alunos mencionados no n.º 2 do artigo 131.º mantêm os seus postos de origem, mas passam a designar-se de acordo com o enunciado no referido artigo.
 
 2 - Estes alunos mantêm-se vinculados ao ramo de origem durante a frequência dos cursos, bem como à regulamentação estatutária respectiva, nomeadamente para efeitos de progressão na carreira em que se encontrem à data de ingresso no curso.
 
@@ -1802,11 +1828,11 @@ b) Entre alunos do mesmo ano escolar, pelo número de curso.
 
 #### SECÇÃO IV — Deveres e direitos
 
-###### Art. 136.º Os alunos da AFA têm a condição militar, estando sujeitos ao regime geral de deveres e direitos do Estatuto dos Militares das Forças Armadas e aos constantes do presente Regulamento.
+Art. 136.º Os alunos da AFA têm a condição militar, estando sujeitos ao regime geral de deveres e direitos do Estatuto dos Militares das Forças Armadas e aos constantes do presente Regulamento.
 
 ##### SUBSECÇÃO I — Deveres escolares
 
-###### Art. 137.º Incumbe aos alunos, no âmbito dos seus deveres escolares, nomeadamente:
+Art. 137.º Incumbe aos alunos, no âmbito dos seus deveres escolares, nomeadamente:
 
 a) Observar uma conduta e actuação que tenha sempre presentes os ditames da honra, da dignidade e do prestígio das forças armadas portuguesas;
 
@@ -1818,15 +1844,15 @@ d) Ser assíduo e pontual nas actividades escolares e nos actos de serviço;
 
 e) Cumprir com exactidão e prontidão as determinações relativas às actividades escolares, ao serviço interno e aos actos de serviço externo para que forem nomeados.
 
-###### Art. 138.º Os alunos mencionados no n.º 2 do artigo 131.º, durante a frequência do curso, usam os artigos de fardamento da Força Aérea que se encontrem estabelecidos para cadetes e aspirantes a oficial, ou para oficial, se essa for a sua categoria, e ficam sujeitos às disposições deste Regulamento e demais legislação militar aplicável.
+Art. 138.º Os alunos mencionados no n.º 2 do artigo 131.º, durante a frequência do curso, usam os artigos de fardamento da Força Aérea que se encontrem estabelecidos para cadetes e aspirantes a oficial, ou para oficial, se essa for a sua categoria, e ficam sujeitos às disposições deste Regulamento e demais legislação militar aplicável.
 
-###### Art. 139.º - 1 - Os alunos são responsáveis por todo o material que lhes for distribuído e ainda pelas instalações, alojamentos e mobiliário que utilizem, devendo zelar pela sua conservação, asseio e apresentação.
+Art. 139.º - 1 - Os alunos são responsáveis por todo o material que lhes for distribuído e ainda pelas instalações, alojamentos e mobiliário que utilizem, devendo zelar pela sua conservação, asseio e apresentação.
 
 2 - Os encargos com a substituição ou reparação de material de natureza escolar ou militar fornecido ou distribuído aos alunos que seja perdido ou inutilizado por motivos de comprovado abandono ou descuido são suportados pelos próprios, mediante reembolso à Fazenda Nacional do respectivo valor.
 
 ##### SUBSECÇÃO II — Direitos
 
-###### Art. 140.º Os alunos têm os direitos escolares fixados por este Regulamento, bem como os outros que lhes possam advir por força do regime remuneratório dos militares, nomeadamente:
+Art. 140.º Os alunos têm os direitos escolares fixados por este Regulamento, bem como os outros que lhes possam advir por força do regime remuneratório dos militares, nomeadamente:
 
 a) Remuneração, alojamento e alimentação por conta do Estado, artigos de fardamento e assistência médica, medicamentosa e hospitalar, de acordo com a legislação em vigor;
 
@@ -1834,15 +1860,15 @@ b) Isenção do pagamento de propinas e recebimento, por empréstimo, das public
 
 c) Abono e suplementos, nos termos da legislação geral ou específica aplicável ao ano do curso que frequentam ou à situação militar e posto que tenham à data de ingresso no curso.
 
-###### Art. 141.º Durante a frequência do curso qualquer aluno poderá requerer a desistência do mesmo.
+Art. 141.º Durante a frequência do curso qualquer aluno poderá requerer a desistência do mesmo.
 
-###### Art. 142.º Os alunos estão abrangidos pelo regime legal aplicável aos militares quanto a invalidez resultante de doença ou acidente em serviço.
+Art. 142.º Os alunos estão abrangidos pelo regime legal aplicável aos militares quanto a invalidez resultante de doença ou acidente em serviço.
 
-###### Art. 143.º - 1 - Os alunos estão abrangidos pelos regimes de descontos obrigatórios e descontos facultativos aplicáveis aos militares.
+Art. 143.º - 1 - Os alunos estão abrangidos pelos regimes de descontos obrigatórios e descontos facultativos aplicáveis aos militares.
 
 2 - A contagem do tempo de serviço efectivo e o correspondente desconto para a Caixa Geral de Aposentações têm início, na data de aumento ao corpo de alunos.
 
-###### Art. 144.º - 1 - Os militares de outros ramos das forças armadas que se encontrem a frequentar os cursos mantêm-se, até à sua conclusão, desistência ou eliminação, vinculados ao seu ramo, nos termos e condições previstos em legislação própria, designadamente em matéria de remunerações.
+Art. 144.º - 1 - Os militares de outros ramos das forças armadas que se encontrem a frequentar os cursos mantêm-se, até à sua conclusão, desistência ou eliminação, vinculados ao seu ramo, nos termos e condições previstos em legislação própria, designadamente em matéria de remunerações.
 
 2 - Os restantes encargos inerentes à frequências do curso são suportados pela Força Aérea, em conformidade com o regime remuneratório legalmente estabelecido.
 
@@ -1850,13 +1876,13 @@ c) Abono e suplementos, nos termos da legislação geral ou específica aplicáv
 
 ##### SUBSECÇÃO I — Generalidades
 
-###### Art. 145.º - 1 - Os alunos estão sujeitos, durante a frequência dos cursos, ao regime de internato, tendo a obrigação de comparecer com pontualidade e devidamente uniformizados às aulas, actividades, provas e trabalhos de natureza escolar, aos actos de serviço para que foram escalados, às formaturas e refeições e pernoitar na AFA.
+Art. 145.º - 1 - Os alunos estão sujeitos, durante a frequência dos cursos, ao regime de internato, tendo a obrigação de comparecer com pontualidade e devidamente uniformizados às aulas, actividades, provas e trabalhos de natureza escolar, aos actos de serviço para que foram escalados, às formaturas e refeições e pernoitar na AFA.
 
 2 - Pode ser concedido o regime de externato nocturno aos alunos mencionados no n.º 2 do artigo 131.º
 
 3 - O regime de frequência dos alunos estrangeiros ou de alunos não destinados à carreira militar é definido, para cada caso, por despacho do CEMFA.
 
-###### Art. 146.º - 1 - Os planos de estudo são elaborados por forma a não ultrapassar os 35 tempos lectivos semanais.
+Art. 146.º - 1 - Os planos de estudo são elaborados por forma a não ultrapassar os 35 tempos lectivos semanais.
 
 2 - Na elaboração do horário escolar não deve ser ultrapassada a carga diária de sete tempos lectivos de segunda-feira a sexta-feira.
 
@@ -1866,7 +1892,7 @@ c) Abono e suplementos, nos termos da legislação geral ou específica aplicáv
 
 ##### SUBSECÇÃO II — Condições gerais de aproveitamento
 
-###### Art. 147.º - 1 - Transitam para o ano seguinte do respectivo curso os alunos que no final do ano escolar satisfaçam, cumulativamente, às seguintes condições:
+Art. 147.º - 1 - Transitam para o ano seguinte do respectivo curso os alunos que no final do ano escolar satisfaçam, cumulativamente, às seguintes condições:
 
 a) Tenham obtido classificação igual ou superior a 10 valores em cada uma das disciplinas que fazem parte do respectivo plano de estudos;
 
@@ -1874,7 +1900,7 @@ b) Tenham obtido classificação igual ou superior a 10 valores em educação mi
 
 2 - Transitam ainda de ano os alunos que tenham reprovado, no máximo, a duas disciplinas semestrais ou a uma anual das áreas de formação científico-técnica.
 
-###### Art. 148.º - 1 - Os alunos que reprovem em qualquer dos anos do curso por falta de aproveitamento escolar podem ser autorizados pelo comandante, ouvido o conselho pedagógico, a repetir por uma única vez durante todo o curso, o ano perdido, desde que o requeiram e obtenham deferimento.
+Art. 148.º - 1 - Os alunos que reprovem em qualquer dos anos do curso por falta de aproveitamento escolar podem ser autorizados pelo comandante, ouvido o conselho pedagógico, a repetir por uma única vez durante todo o curso, o ano perdido, desde que o requeiram e obtenham deferimento.
 
 2 - Os alunos que, por motivo de doença ou acidente não considerados em serviço, percam por faltas o ano lectivo podem ser autorizados pelo comandante, ouvido o conselho pedagógico, a repetir a frequência desse ano, desde que o requeiram e obtenham deferimento, não sendo contabilizada esta repetição para os efeitos da prevista no número anterior, podendo beneficiar desta concessão uma só vez durante todo o curso.
 
@@ -1890,7 +1916,7 @@ b) Tenham obtido classificação igual ou superior a 10 valores em educação mi
 
 ##### SUBSECÇÃO III — Eliminação do curso
 
-###### Art. 149.º - 1 - São eliminados do curso por motivos escolares, salvaguardando o motivo de doença ou acidente considerados em serviço:
+Art. 149.º - 1 - São eliminados do curso por motivos escolares, salvaguardando o motivo de doença ou acidente considerados em serviço:
 
 a) Os alunos que percam um ano lectivo e não requeiram ou não sejam autorizados a repetir o ano;
 
@@ -1902,7 +1928,7 @@ d) Os alunos que não obtenham aproveitamento no tirocínio ou estágio e não r
 
 2 - São eliminados do curso, por motivos de doença ou de incapacidade física, os alunos que a junta de saúde da Força Aérea der como incapazes para o serviço militar ou para a carreira de oficial na especialidade do curso que frequentam.
 
-###### Art. 150.º - 1 - Os alunos que, no uso do direito conferido por este Regulamento, desistam do curso a partir do 2.º ano, inclusive, são obrigados ao pagamento de uma indemnização ao Estado, por forma a cobrir, total ou parcialmente, as despesas efectuadas com a sua preparação.
+Art. 150.º - 1 - Os alunos que, no uso do direito conferido por este Regulamento, desistam do curso a partir do 2.º ano, inclusive, são obrigados ao pagamento de uma indemnização ao Estado, por forma a cobrir, total ou parcialmente, as despesas efectuadas com a sua preparação.
 
 2 - O valor da indemnização a que se refere o número anterior será anualmente fixado por despacho do CEMFA, mediante proposta do comandante, e de montante percentualmente representativo do total das despesas efectuadas.
 
@@ -1910,25 +1936,25 @@ d) Os alunos que não obtenham aproveitamento no tirocínio ou estágio e não r
 
 ##### SUBSECÇÃO IV — Prémios escolares
 
-###### Art. 151.º - 1 - Aos alunos que se distingam pelas suas qualidades ou aproveitamentos nos diversos cursos ministrados na AFA serão conferidos prémios, de acordo com a regulamentação superiormente aprovada, independentemente das recompensas escolares que possam se atribuídas no âmbito da acção formativa do corpo de alunos.
+Art. 151.º - 1 - Aos alunos que se distingam pelas suas qualidades ou aproveitamentos nos diversos cursos ministrados na AFA serão conferidos prémios, de acordo com a regulamentação superiormente aprovada, independentemente das recompensas escolares que possam se atribuídas no âmbito da acção formativa do corpo de alunos.
 
 2 - A entrega de prémios é feita em cerimónia pública, com a solenidade adequada, e a sua atribuição é publicada na Ordem da Força Aérea e na Ordem de Serviço da AFA.
 
 ##### SUBSECÇÃO V — Licenças e férias
 
-###### Art. 152.º Compete ao comandante definir o regime de licenças dos alunos, tendo em atenção a regulamentação geral da Força Aérea e as condições específicas da AFA, constando de manual próprio.
+Art. 152.º Compete ao comandante definir o regime de licenças dos alunos, tendo em atenção a regulamentação geral da Força Aérea e as condições específicas da AFA, constando de manual próprio.
 
-###### Art. 153.º Os períodos de férias escolares do Natal, Carnaval, Páscoa e férias grandes são fixados anualmente no plano anual de actividades escolares.
+Art. 153.º Os períodos de férias escolares do Natal, Carnaval, Páscoa e férias grandes são fixados anualmente no plano anual de actividades escolares.
 
 #### SECÇÃO VI — Regime de disciplina escolar
 
-###### Art. 154.º - 1 - Podem ser concedidos aos alunos louvores e recompensas escolares, com base em actos ou comportamento exemplares, no aproveitamento escolar ou em trabalhos que sejam considerados relevantes.
+Art. 154.º - 1 - Podem ser concedidos aos alunos louvores e recompensas escolares, com base em actos ou comportamento exemplares, no aproveitamento escolar ou em trabalhos que sejam considerados relevantes.
 
 2 - As recompensas escolares podem ser colectivas ou individuais e são concedidas pelo comandante, sob proposta do director do ensino académico ou do comandante do CAL.
 
 3 - O louvor escolar é publicado na Ordem de Serviço da AFA e averbado no registo biográfico do aluno.
 
-###### Art. 155.º - 1 - Os deveres escolares dos alunos são constituídos pelos deveres constantes do presente Regulamento, assim como pelos deveres aplicáveis do artigo 4.º do RDM, sendo matéria de disciplina da educação militar e fazendo parte de manual entregue aos alunos.
+Art. 155.º - 1 - Os deveres escolares dos alunos são constituídos pelos deveres constantes do presente Regulamento, assim como pelos deveres aplicáveis do artigo 4.º do RDM, sendo matéria de disciplina da educação militar e fazendo parte de manual entregue aos alunos.
 
 2 - Aos alunos mencionados no n.º 2 do artigo 131.º é igualmente aplicado o RDM por infracção cometida fora do âmbito da actividade escolar.
 
@@ -1948,17 +1974,17 @@ e) Expulsão.
 
 5 - As penas só podem ser aplicadas após audição do infractor.
 
-###### Art. 156.º - 1 - A repreensão escolar e a repreensão escolar agravada consistem em declarar ao aluno que é repreendido por haver praticado um ou mais actos contrários à disciplina escolar e que infringem concretamente um ou mais deveres escolares.
+Art. 156.º - 1 - A repreensão escolar e a repreensão escolar agravada consistem em declarar ao aluno que é repreendido por haver praticado um ou mais actos contrários à disciplina escolar e que infringem concretamente um ou mais deveres escolares.
 
 2 - A repreensão escolar é dada em particular.
 
 3 - A repreensão escolar agravada é dada pelo comandante de esquadrilha na presença dos alunos de graduação igual e superior à do infractor.
 
-###### Art. 157.º A detenção escolar consiste na permanência do aluno dentro do recinto da AFA, do qual só pode sair em serviço, incluindo o escolar.
+Art. 157.º A detenção escolar consiste na permanência do aluno dentro do recinto da AFA, do qual só pode sair em serviço, incluindo o escolar.
 
-###### Art. 158.º A prisão escolar consiste na obrigação de o aluno permanecer em compartimento apropriado, do qual só sai para os actos de serviço, incluindo as aulas, devidamente acompanhado.
+Art. 158.º A prisão escolar consiste na obrigação de o aluno permanecer em compartimento apropriado, do qual só sai para os actos de serviço, incluindo as aulas, devidamente acompanhado.
 
-###### Art. 159.º - 1 - A pena de expulsão consiste na perda da situação de aluno da AFA.
+Art. 159.º - 1 - A pena de expulsão consiste na perda da situação de aluno da AFA.
 
 2 - A pena de expulsão é aplicada quando se verifique falta de idoneidade moral, de carácter ou de outras qualidade essenciais inerentes ao desempenho das funções militares, comprovada em processo próprio.
 
@@ -1978,13 +2004,13 @@ b) Um dia de prisão escolar equivale a dois dias de detenção escolar.
 
 6 - O aluno proposto para expulsão fica suspenso até decisão final.
 
-###### Art. 160.º - 1 - As penas de detenção escolar, prisão escolar expulsão são publicadas na Ordem de Serviço da AFA.
+Art. 160.º - 1 - As penas de detenção escolar, prisão escolar expulsão são publicadas na Ordem de Serviço da AFA.
 
 2 - Todas as penas escolares aplicadas são averbadas no registo biográfico individual.
 
-###### Art. 161.º Todas as infracções escolares cometidas pelos alunos e sancionadas por este Regulamento ficam automaticamente relevadas com o seu ingresso nos quadros permanentes dos oficiais da Força Aérea e não têm quaisquer efeitos posteriores.
+Art. 161.º Todas as infracções escolares cometidas pelos alunos e sancionadas por este Regulamento ficam automaticamente relevadas com o seu ingresso nos quadros permanentes dos oficiais da Força Aérea e não têm quaisquer efeitos posteriores.
 
-###### Art. 162.º A competência disciplinar escolar para aplicação das penas referidas no n.º 4 do artigo 155.º é a seguinte:
+Art. 162.º A competência disciplinar escolar para aplicação das penas referidas no n.º 4 do artigo 155.º é a seguinte:
 
 a) Comandante:
 
@@ -2034,11 +2060,11 @@ e) Comandantes das esquadrilhas de alunos:
 
 f) Professor militar, quando chefia missão ou destacamento - a competência das alíneas c), d) ou e) deste artigo, consoante o posto do chefe da missão ou destacamento for, respectivamente, coronel ou tenente-coronel, major ou capitão.
 
-###### Art. 163.º Os comandantes das unidades onde os alunos efectuem estágios e tirocínios têm a mesma competência disciplinar escolar que o comandante da AFA, com excepção da pena de expulsão.
+Art. 163.º Os comandantes das unidades onde os alunos efectuem estágios e tirocínios têm a mesma competência disciplinar escolar que o comandante da AFA, com excepção da pena de expulsão.
 
-###### Art. 164.º O regime de disciplina escolar é desenvolvido no Regulamento de Disciplina Escolar da AFA, aprovado pelo EMFA, sob proposta do comandante, ouvido o conselho de disciplina escolar.
+Art. 164.º O regime de disciplina escolar é desenvolvido no Regulamento de Disciplina Escolar da AFA, aprovado pelo EMFA, sob proposta do comandante, ouvido o conselho de disciplina escolar.
 
-###### Art. 165.º - 1 - Na aplicação das penas observam-se os critérios constantes do regulamento referido no artigo anterior, considerando-se como agravantes e atenuantes os condicionamentos previstos no RDM.
+Art. 165.º - 1 - Na aplicação das penas observam-se os critérios constantes do regulamento referido no artigo anterior, considerando-se como agravantes e atenuantes os condicionamentos previstos no RDM.
 
 2 - Sem prejuízo do mencionado no número anterior consideram-se, particularmente, faltas graves:
 
@@ -2048,13 +2074,13 @@ b) Impedir, por qualquer forma, ou prejudicar os estudos e o rendimento escolar 
 
 c) Obrigar por meio de coacção ou aliciar qualquer aluno a actos contrários à sua vontade e consciência moral e ética ou a actos cívica e socialmente reprováveis.
 
-###### Art. 166.º O comandante, ouvido o conselho de disciplina escolar, poderá relevar as penas de detenção escolar, até ao máximo de 15 dias, aos alunos que durante um semestre não tenham sido punidos por qualquer falta e demonstrem uma melhoria de atitude comportamental.
+Art. 166.º O comandante, ouvido o conselho de disciplina escolar, poderá relevar as penas de detenção escolar, até ao máximo de 15 dias, aos alunos que durante um semestre não tenham sido punidos por qualquer falta e demonstrem uma melhoria de atitude comportamental.
 
-###### Art. 167.º As decisões do comandante, no que respeita à aplicação das penas previstas neste Regulamento, são definitivas.
+Art. 167.º As decisões do comandante, no que respeita à aplicação das penas previstas neste Regulamento, são definitivas.
 
 #### SECÇÃO VII — Abate ao corpo de alunos
 
-###### Art. 168.º - 1 - É abatido ao efectivo do corpo de alunos o aluno que se encontre ou atinja qualquer das seguintes condições:
+Art. 168.º - 1 - É abatido ao efectivo do corpo de alunos o aluno que se encontre ou atinja qualquer das seguintes condições:
 
 a) Tenha concluído o seu curso e ingresse nos quadros permanentes dos oficiais da Força Aérea;
 
@@ -2076,19 +2102,19 @@ c) De falecimento.
 
 3 - Os alunos militares de outro ramo, quando terminam o curso com aproveitamento, são abatidos também ao seu ramo de origem na data a que se refere a alínea a) do número anterior.
 
-###### Art. 169.º - 1 - Os alunos que não obtiverem aproveitamento no curso, na data de abate ao corpo de alunos, entregam os fardamentos e outro material que hajam recebido, em estado de conservação correspondente ao uso que tenham tido, e regressam à situação que tinham no momento da admissão à AFA.
+Art. 169.º - 1 - Os alunos que não obtiverem aproveitamento no curso, na data de abate ao corpo de alunos, entregam os fardamentos e outro material que hajam recebido, em estado de conservação correspondente ao uso que tenham tido, e regressam à situação que tinham no momento da admissão à AFA.
 
 2 - Os indivíduos referidos no número anterior não podem concorrer novamente aos concursos de admissão à AFA.
 
 3 - Os mesmos indivíduos ficam sujeitos ao comprimento das obrigações militares estabelecidas na Lei do Serviço Militar, não lhes sendo contado o tempo de permanência no corpo de alunos para efeitos de comprimento do serviço efectivo normal, embora sejam dispensados da preparação militar geral, se prestaram juramento de bandeira na AFA.
 
-###### Art. 170.º Aos alunos que terminaram o curso com aproveitamento é entregue a carta de curso de licenciatura em Ciências Militares Aeronáuticas na especialidade respeitante ao curso.
+Art. 170.º Aos alunos que terminaram o curso com aproveitamento é entregue a carta de curso de licenciatura em Ciências Militares Aeronáuticas na especialidade respeitante ao curso.
 
-###### Art. 171.º Aos alunos que, por qualquer motivo, não obtenham aproveitamento no curso são entregues, mediante requerimento, dirigido ao comandante, certificados das disciplinas que hajam concluído com aproveitamento, desde que os requerentes tenham satisfeito todos os requisitos do desquite com a AFA.
+Art. 171.º Aos alunos que, por qualquer motivo, não obtenham aproveitamento no curso são entregues, mediante requerimento, dirigido ao comandante, certificados das disciplinas que hajam concluído com aproveitamento, desde que os requerentes tenham satisfeito todos os requisitos do desquite com a AFA.
 
 ### CAPÍTULO VI — Cursos técnico-militares
 
-###### Art. 172.º Na AFA podem ser ministrados os cursos técnico-militares previstos no n.º 5 do artigo 11.º do seu Estatuto, destinados a já licenciados, para ingresso na categoria de oficiais dos quadros permanentes das especialidades a seguir indicadas, nos termos do Estatuto dos Militares das Forças Armadas:
+Art. 172.º Na AFA podem ser ministrados os cursos técnico-militares previstos no n.º 5 do artigo 11.º do seu Estatuto, destinados a já licenciados, para ingresso na categoria de oficiais dos quadros permanentes das especialidades a seguir indicadas, nos termos do Estatuto dos Militares das Forças Armadas:
 
 a) Engenheiro aeronáutico;
 
@@ -2104,9 +2130,9 @@ f) Administração aeronáutica;
 
 g) Jurista.
 
-###### Art. 173.º O número de vagas a abrir em cada um dos cursos técnico-militares é fixado anualmente por despacho do Ministro da Defesa Nacional, sob proposta do CEMFA, ouvido o comandante.
+Art. 173.º O número de vagas a abrir em cada um dos cursos técnico-militares é fixado anualmente por despacho do Ministro da Defesa Nacional, sob proposta do CEMFA, ouvido o comandante.
 
-###### Art. 174.º - 1 - A admissão aos cursos técnico-militares é feita por concurso, aberto a civis e a militares, em serviço efectivo normal ou em regime de contrato, com a respectiva licenciatura.
+Art. 174.º - 1 - A admissão aos cursos técnico-militares é feita por concurso, aberto a civis e a militares, em serviço efectivo normal ou em regime de contrato, com a respectiva licenciatura.
 
 2 - As condições de admissão de candidatos civis a este concurso são:
 
@@ -2140,15 +2166,15 @@ d) Estar habilitado com a licenciatura indicada no aviso de abertura do concurso
 
 8 - São apurados para ingresso no curso técnico-militar a que concorram os candidatos aprovados, por ordem decrescente da média ponderada das classificações de licenciatura e do concurso.
 
-###### Art. 175.º - 1 - A duração, os planos de estudo e a organização escolar dos cursos técnico-militares são fixados por despacho do CEMFA, sob proposta do conselho científico.
+Art. 175.º - 1 - A duração, os planos de estudo e a organização escolar dos cursos técnico-militares são fixados por despacho do CEMFA, sob proposta do conselho científico.
 
 2 - A classificação final dos cursos técnico-militares é a média ponderada das classificações de licenciatura e do respectivo curso.
 
-###### Art. 176.º Os alunos dos cursos técnico-militares ficam sujeitos às disposições do capítulo V deste Regulamento em tudo o que lhes for aplicável.
+Art. 176.º Os alunos dos cursos técnico-militares ficam sujeitos às disposições do capítulo V deste Regulamento em tudo o que lhes for aplicável.
 
 ## ANEXO A — ACADEMIA DA FORÇA AÉREA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/003b00/00500069.pdf))](https://files.diariodarepublica.pt/1s/1991/01/003b00/00500069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/003b00/00500069.pdf)
 
 ## ANEXO B — Normas gerais dos concursos para recrutamento de docentes
 

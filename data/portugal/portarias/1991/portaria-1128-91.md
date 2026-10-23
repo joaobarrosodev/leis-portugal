@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1128/1991/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1128-1991-321925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b09076cd5c5949e68afa6631d3ee5b0960ccceff61593f9f211df088ac664e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 101260d3f4279fba711b16ca2496ac1ca6b1e83f06ede2629012027b190d3e9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Ajuda Comunitária
 - CEE
 - Citrinos
+- Fruticultura
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Política Agrícola Comum
 - Prémio ao Arranque de Pomares
 - Regulamento CE
-- Fruticultura
 relationships:
 - type: cites
   target: celex:31990R1196
@@ -86,13 +86,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:46Z'
   warnings: []
   errors: []
 ---
@@ -161,6 +161,6 @@ c) Pelo compromisso escrito de impor ao novo empresário agrícola, como condiç
 
 Ministérios das Finanças e da Agricultura, Pescas Alimentação.
 
-**Assinada em 21 de Outubro de 1991.**
+Assinada em 21 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

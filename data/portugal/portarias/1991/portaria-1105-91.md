@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/246b00/55215521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1105/1991/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1105-1991-341634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b2ccd4eae83d014826e3e47dc2a4c3f00caa3607bba16b4e50fffa2359c2eb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1095b82ca79790f1185fad63b9fe0f00627ef7d24c82a314f2c94ec6b03708f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,33 @@ relationships:
   target: pt:dre:494844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573121:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494844:por
+  label: "Revogada pela PORT.1184-A/91.29.11.1991.GMR-RAA, DR.IS-B [275]Supl de 29.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1184-a-1991-494844
+  date: '1991-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:16Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +126,6 @@ Manda o Governo, pelos Ministros da República para as Regiões Autónomas dos A
 
 Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 1 de Outubro de 1991.**
+Assinada em 1 de Outubro de 1991.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

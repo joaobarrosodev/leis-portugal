@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/91-1980-678040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677079ac1bad0623ac6fb229670085d164051a7f98b635ca7fd42248c314d9ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec3b6ed6bb20aafcafdc16ae22ed465c2da583f74a49feb2dd352274d5bd6a56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:21Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +114,7 @@ II - A situação na Rodoviária Nacional
 
 2 - No quadro que se segue constata-se a evolução dos deficits de exercício, antes e depois do início da atribuição de subsídios à exploração (não reembolsados), indicando-se também o valor dos subsídios atribuídos em cada ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/06200/04220425.pdf))](https://files.diariodarepublica.pt/1s/1980/03/06200/04220425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/06200/04220425.pdf)
 
 3 - A situação evidenciada pelo quadro que antecede indica que a Rodoviária Nacional apresenta uma exploração fortemente deficitária, o que decorre quer dos valores negativos apontados, quer da sua manutenção ao longo de quatro anos consecutivos, quer do agravamento constante que os mesmos valores apresentam.
 

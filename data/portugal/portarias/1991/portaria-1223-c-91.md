@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1991, 2º Suplemento, Série I-B de 1991-12-30
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6772-(8) a 6772-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/300b02/00080009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1223-c/1991/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-c-1991-525849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14498b7b6298e30f38f5789fa36cb5b7f8be06ce591bc076064e82b01a9022f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad80e4b2447e5249f6889a7dac11020d98ec98a22549798cdf1467cecf419894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,59 @@ subjects:
 - Albufeira.cidade
 - Alcobaça
 - Almada
-- Jurisdição
+- Amadora
 - Barreiro
-- Serviços de Registo e Notariado
+- Cascais
 - Criação de Serviços
 - Faro
+- Jurisdição
 - Lagoa
 - Lagos
 - Leiria
 - Loures
+- Marinha Grande
 - Montijo
-- Setúbal
+- Oeiras
 - Portimão
 - Quadro de Pessoal
-- Marinha Grande
+- Registo Comercial
 - Registo Predial
 - Seixal
-- Amadora
-- Cascais
-- Oeiras
+- Serviços de Registo e Notariado
+- Setúbal
 - Sintra
-- Registo Comercial
 relationships:
 - type: amended_by
   target: pt:dre:424108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:424108:por
+  label: "Revogada pela PORT.419/98.1998.07.21.MJ DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/419-1998-424108
+  date: '1998-07-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:07Z'
   warnings: []
   errors: []
 ---
@@ -172,6 +189,6 @@ Escriturários - três.
 
 Ministério da Justiça.
 
-**Assinada em 30 de Dezembro de 1991.**
+Assinada em 30 de Dezembro de 1991.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

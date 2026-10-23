@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1991, 6º Suplemento, Série I-B de 1991-12-31
   number: '301'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 6786-(18) a 6786-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1227/1991/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1227-1991-402553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fd1f7c790cc70e59c626517f0165e83a37197033a0461e9f0a7724be1231c76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1eceadcedbbca78c1d25275c6a8b99b630a981736fa39b1810f298d68052619
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,56 @@ relationships:
   target: pt:dre:493684:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493684:por
+  label: "Transitados, nos termos dos arts. 2.º, 3.º, 4.º e 5.º, para a carreira geral de técnico superior, carreira de assistente\
+    \ técnico, carreira de assistente operacional e carreira de informática, os trabalhadores do quadro de pessoal do extinto\
+    \ Arsenal do Alfeite, aprovado pela Port 1227/91 de 31-Dez, DR.IS-B [301]6ºSupl, que se encontrem integrados nas carreiras\
+    \ identificadas, respectivamente, nos mapas I, II, III e IV anexos ao DEC LEI.189/2009.17.08.2009.MDN, DR.IS [158] de\
+    \ 17.08.2009 e extintas por inexistência de titulares, as carreiras e categorias identificadas no mapa VI \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2009-493684
+  date: '2009-08-17'
+- type: cites
+  target: pt:dre:181626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:213415:por
+  label: "Retificados a al. a) do nº 11 e os anexos I, II e III pela DECL-RECT.82/92.30.05.1992.PCM, DR.IS-B [125-2ºSupl]\
+    \ de 30.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/82-1992-213415
+  date: '1992-05-30'
+- type: repealed_by
+  target: pt:dre:544808:por
+  label: "Revogada a al. b) do nº 13 e eliminado o Anexo IV pela PORT.274/99.1999.04.15.PCM, DR.IS-B [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1999-544808
+  date: '1999-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:12Z'
   warnings: []
   errors: []
 ---
@@ -169,17 +209,17 @@ b) As categorias/funções consideradas semiqualificadas são as indicadas no an
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 30 de Dezembro de 1991.**
+Assinada em 30 de Dezembro de 1991.
 
 Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado do Equipamento e Tecnologia de Defesa. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 ## ANEXO I — Quadro do pessoal do Arsenal do Alfeite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf))](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf)
 
 ## ANEXO II — Tabela de equivalências de categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf))](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf)
 
 ## ANEXO III — Conteúdos funcionais das carreiras e categorias do pessoal do Arsenal do Alfeite
 
@@ -421,4 +461,4 @@ Servente de limpeza. - Executa tarefas essencialmente ligadas à limpeza, higien
 
 ## ANEXO IV — Categorias/funções semiqualificadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf))](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/301b06/00180028.pdf)

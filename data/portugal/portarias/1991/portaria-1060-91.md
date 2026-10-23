@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1060/1991/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1060-1991-333115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:37:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 822154c4a932770f54de18a6bff4c992d99bcc00912027525bc2e583a2535979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f6fa13fb159b59052a76be1610233f4031527359854fc4b3d96698f0d9ce991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Gado Bovino
 - Pecuária
+- Produção Animal
 - Regulamento de Identificação Animal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:37:11Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +108,7 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Setembro de 1991.**
+Assinada em 27 de Setembro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -110,21 +118,21 @@ I
 
 Objectivos
 
-###### Artigo 1.º A identificação dos animais da raça bovina frísia tem por fim assegurar o conhecimento e o controlo da população bovina frísia, permitindo que todas as acções de carácter sanitário e zootécnico se façam de forma segura e disciplinada.
+Artigo 1.º A identificação dos animais da raça bovina frísia tem por fim assegurar o conhecimento e o controlo da população bovina frísia, permitindo que todas as acções de carácter sanitário e zootécnico se façam de forma segura e disciplinada.
 
-###### Art. 2.º Para atingir os seus objectivos o Serviço de Identificação Animal, adiante designado por SIA, rege-se por critérios uniformes e de âmbito nacional, assentando num departamento central e em delegações regionais.
+Art. 2.º Para atingir os seus objectivos o Serviço de Identificação Animal, adiante designado por SIA, rege-se por critérios uniformes e de âmbito nacional, assentando num departamento central e em delegações regionais.
 
 II
 
 Métodos de identificação
 
-###### Art. 3.º A identificação dos bovinos far-se-á pelo recurso exclusivo a dois elementos indissociáveis: resenho e número nacional.
+Art. 3.º A identificação dos bovinos far-se-á pelo recurso exclusivo a dois elementos indissociáveis: resenho e número nacional.
 
 A silhueta resenhada pode ser substituída por fotografia.
 
-###### Art. 4.º O resenho é feito no modelo n.º 111/DSFMA, que se preenche quando se identifica o animal.
+Art. 4.º O resenho é feito no modelo n.º 111/DSFMA, que se preenche quando se identifica o animal.
 
-###### Art. 5.º - 1 - Simultaneamente com o preenchimento do modelo referido coloca-se, no bordo superior da orelha esquerda, uma marca auricular com o número SIA atribuído ao animal e que figura também naquele modelo.
+Art. 5.º - 1 - Simultaneamente com o preenchimento do modelo referido coloca-se, no bordo superior da orelha esquerda, uma marca auricular com o número SIA atribuído ao animal e que figura também naquele modelo.
 
 2 - O número SIA é constituído por sete caracteres, sendo o primeiro indicativo da direcção regional, formando os restantes um número sequencial.
 
@@ -134,13 +142,13 @@ III
 
 Organização e funcionamento
 
-###### Art. 6.º A identificação dos bovinos da raça frísia apenas poderá ser feita pelos seguintes agentes identificadores:
+Art. 6.º A identificação dos bovinos da raça frísia apenas poderá ser feita pelos seguintes agentes identificadores:
 
 a) Nas explorações individuais sujeitas a contraste leiteiro oficial, a identificação é da exclusiva responsabilidade dos agentes do Livro Genealógico Português da Raça Bovina Frísia (LG);
 
 b) Nas restantes explorações, a identificação é feita pelos agentes do LG ou pelos agentes das brigadas sanitárias aquando da primeira intervenção junto do animal.
 
-###### Art. 7.º A ficha individual de identificação modelo n.º 111/DSFMA é constituída por original, duplicado e triplicado, que, depois de preenchidos, terão os seguintes destinos:
+Art. 7.º A ficha individual de identificação modelo n.º 111/DSFMA é constituída por original, duplicado e triplicado, que, depois de preenchidos, terão os seguintes destinos:
 
 a) O triplicado é entregue ao proprietário do animal no acto da identificação;
 
@@ -148,7 +156,7 @@ b) O duplicado destina-se à respectiva delegação regional do SIA;
 
 c) O original destina-se à entidade executora da identificação, que destacará a parte que contém a silhueta para emissão do cartão, o qual será enviado ao proprietário do animal tão rapidamente quanto possível.
 
-###### Art. 8.º - 1 - A entidade identificadora obriga-se a enviar às respectivas direcções regionais toda a informação sobre as identificações efectuadas.
+Art. 8.º - 1 - A entidade identificadora obriga-se a enviar às respectivas direcções regionais toda a informação sobre as identificações efectuadas.
 
 2 - Quando se trate de animais inscritos no LG, a informação das respectivas identificações será, igualmente, enviada à secretaria técnica do LG.
 
@@ -156,22 +164,22 @@ IV
 
 Disposições gerais
 
-###### Art. 9.º A identificação de um bovino da raça frísia é realizada apenas uma vez durante a vida do animal, sendo o número que lhe é atribuído exclusivo, perpétuo e válido para todas as acções a que o animal seja sujeito.
+Art. 9.º A identificação de um bovino da raça frísia é realizada apenas uma vez durante a vida do animal, sendo o número que lhe é atribuído exclusivo, perpétuo e válido para todas as acções a que o animal seja sujeito.
 
-###### Art. 10.º O cartão de identificação acompanhará sempre o animal, mesmo quando este mude de proprietário.
+Art. 10.º O cartão de identificação acompanhará sempre o animal, mesmo quando este mude de proprietário.
 
-###### Art. 11.º - 1 - Sempre que se verifique mudança, o novo proprietário solicitará à entidade executora da identificação a alteração da propriedade através do preenchimento de novo modelo n.º 111/DSFMA.
+Art. 11.º - 1 - Sempre que se verifique mudança, o novo proprietário solicitará à entidade executora da identificação a alteração da propriedade através do preenchimento de novo modelo n.º 111/DSFMA.
 
 2 - A entidade identificadora comunicará a alteração à respectiva delegação regional do SIA, que, por sua vez, informará a entidade que executou a primeira identificação, através da sua delegação regional.
 
-###### Art. 12.º Se um animal já identificado perder a marca auricular, o agente identificador deverá apor-lhe nova marca, com o mesmo número SIA e que consta do cartão de identificação.
+Art. 12.º Se um animal já identificado perder a marca auricular, o agente identificador deverá apor-lhe nova marca, com o mesmo número SIA e que consta do cartão de identificação.
 
-###### Art. 13.º Sempre que o proprietário de um animal já identificado perder o cartão de identificação, deverá solicitar uma 2.ª via à respectiva entidade executora da identificação, pela qual será cobrada uma taxa a fixar por despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta da Direcção-Geral da Pecuária.
+Art. 13.º Sempre que o proprietário de um animal já identificado perder o cartão de identificação, deverá solicitar uma 2.ª via à respectiva entidade executora da identificação, pela qual será cobrada uma taxa a fixar por despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta da Direcção-Geral da Pecuária.
 
-###### Art. 14.º A um animal correctamente identificado não é permitida, em nenhum caso, a aposição de qualquer outra marca auricular oficial.
+Art. 14.º A um animal correctamente identificado não é permitida, em nenhum caso, a aposição de qualquer outra marca auricular oficial.
 
-###### Art. 15.º - 1 - Após a morte do animal, o cartão de identificação será sempre devolvido à delegação regional do SIA pelo último proprietário, em caso de acidente ou doença, ou pelo responsável do matadouro, em caso de abate.
+Art. 15.º - 1 - Após a morte do animal, o cartão de identificação será sempre devolvido à delegação regional do SIA pelo último proprietário, em caso de acidente ou doença, ou pelo responsável do matadouro, em caso de abate.
 
 2 - A delegação regional do SIA comunicará, pela forma mais expedita, à respectiva entidade executora da identificação as mortes verificadas.
 
-###### Art. 16.º As infracções ao preceituado neste Regulamento são consideradas como contra-ordenações, puníveis nos termos dos artigos 13.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.
+Art. 16.º As infracções ao preceituado neste Regulamento são consideradas como contra-ordenações, puníveis nos termos dos artigos 13.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.

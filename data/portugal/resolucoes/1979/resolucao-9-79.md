@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-1979-392067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3671baec8c5ffb438b67510117b6c836e589e8cfe816979bf20528726c41db4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 928f9d28946604127a6237111b73d8f53069434f0715991fbba57ae01a419bd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Convenção
+- Financiamento
+- França
+- Portugal
+- Projecto Industrial
+relationships:
+- type: cites
+  target: pt:dre:661102:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:382782:por
+  label: Rectificada pela DECL.DD7317.23.05.1979.PCM, DR.IS [118] de 23.05.1979, que procede à publicação do texto em françês
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-382782
+  date: '1979-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:28Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +107,7 @@ Protocolo financeiro entre o Governo da República Portuguesa e o Governo da Rep
 
 A fim de reforçar os tradicionais laços de amizade e de cooperação que os unem, o Governo da República Portuguesa e o Governo da República Francesa acordaram celebrar um protocolo, cujas disposições são as seguintes:
 
-###### ARTIGO 1
+ARTIGO 1
 
 Montante e objecto dos apoios financeiros
 
@@ -104,7 +119,7 @@ De empréstimos do tesouro público francês num montante máximo de 30 milhões
 
 De créditos comerciais num montante máximo de 120 milhões de francos, garantidos pelo Estado Francês.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Mecanismos de utilização dos apoios financeiros
 
@@ -116,7 +131,7 @@ b) A utilização dos empréstimos do tesouro público francês é reservada ao 
 
 c) Os créditos comerciais garantidos cobrem o saldo do financiamento dos projectos até ao montante de 80% da parte repatriável.
 
-###### ARTIGO 3
+ARTIGO 3
 
 Modalidades e condições dos apoios financeiros
 
@@ -132,7 +147,7 @@ O mesmo contrato ou a mesma convenção bancária fixarão o prazo máximo entre
 
 e) A moeda de cálculo e de pagamento utilizada é o franco francês.
 
-###### ARTIGO 4
+ARTIGO 4
 
 Prazo de utilização
 
@@ -142,7 +157,7 @@ Deverão atingir um montante mínimo de 3 milhões de francos.
 
 Não será permitido nenhum saque sobre os empréstimos do Tesouro, nos termos do presente Protocolo, posteriormente a 31 de Dezembro de 1981.
 
-###### ARTIGO 5
+ARTIGO 5
 
 Modalidades de imputação
 
@@ -150,7 +165,7 @@ A imputação definitiva nos termos do presente Protocolo, dos contratos aferent
 
 O mesmo processo de troca de cartas poderá autorizar a substituição por novos projectos, que poderão eventualmente respeitar a outros sectores económicos, dos que figuram na lista anexa ao presente Protocolo.
 
-###### ARTIGO 6
+ARTIGO 6
 
 Transporte e seguro
 
@@ -158,7 +173,7 @@ Os contratos financiados ao abrigo do presente Protocolo são facturados em pre�
 
 Todavia, o financiamento do frete e do seguro é assegurado nas proporções estipuladas no artigo 2 acima, por utilização dos empréstimos do Tesouro e dos créditos comerciais garantidos, quando o transporte seja efectuado por um navio arvorando pavilhão francês e o seguro contratado junto de uma sociedade francesa.
 
-###### ARTIGO 7
+ARTIGO 7
 
 Entrada em vigor
 
@@ -176,4 +191,4 @@ Michel Camedessus.
 
 ## ANEXO — Lista dos projectos previstos no artigo 1 do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/01100/00460047.pdf))](https://files.diariodarepublica.pt/1s/1979/01/01100/00460047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/01100/00460047.pdf)

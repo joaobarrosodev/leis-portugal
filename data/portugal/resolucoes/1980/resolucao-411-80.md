@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/411-1980-459587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fe528116d9c000a29af5cb082b9a8eb8de2d2456644683780a4dc3ea1be4989
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94a61fa7e87aa23197ab4407ba907e3e9f31f34135962302aee20a53463dca4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO Internacional do Deficiente
+- Comemoração
+- Comissão Organizadora
 relationships:
 - type: amended_by
   target: pt:dre:232547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232547:por
+  label: "Alterada pela RES.61-J/81.26.03.1981.PCM, DR.IS [74]Supl de 30.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/61-j-1981-232547
+  date: '1981-03-26'
+- type: corrected_by
+  target: pt:dre:570338:por
+  label: Rectificada pela DECL.DD6231.30.12.1980.PCM, DR.IS [8] de 10.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-570338
+  date: '1980-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:45Z'
   warnings: []
   errors: []
 ---

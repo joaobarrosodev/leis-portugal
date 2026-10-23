@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/704-1990-574087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e13286d69f016a8a525e095a4ca035863dabcef0b367497e94e016ebe5cc902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e405db441a3be79f7f9af1586845dae6af1c9f7d7f5a19fbcf8932edfe23f2bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Importação de Veículos
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:28:28Z'
   warnings: []
   errors: []
 ---
@@ -147,6 +149,6 @@ c) A Direcção-Geral do Comércio Externo comunicará às entidades competentes
 
 Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 2 de Agosto de 1990.**
+Assinada em 2 de Agosto de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

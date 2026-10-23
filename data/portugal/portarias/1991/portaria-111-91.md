@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/1991/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1991-479578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef5fb2b3e2402450dd6e0b6c507a4db57d5fe8777325e668b9876c4e9ba56387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0557c8624dc42b011e7d03cef5ae86697b1c69a2284ad62fd0ace14131b2c7e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- RTP
 - Património Cultural
-relationships: []
+- RTP
+relationships:
+- type: cites
+  target: pt:dre:556661:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:38:21Z'
   warnings: []
   errors: []
 ---
@@ -144,6 +148,6 @@ f) Um elemento a designar pelos operadores privados de televisão.
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 25 de Janeiro de 1991.**
+Assinada em 25 de Janeiro de 1991.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado das Finanças, José Manuel Alves Elias da Costa. - O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado das Finanças, José Manuel Alves Elias da Costa. - O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 227/1990, 2º Suplemento, Série I de 1990-10-01
   number: '227'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4058-(4) a 4058-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/22702/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-a-1990-412445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d085361af1f9f66561e2ba6936a8411382667aeaa5ec6b65c79f091807714c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fdd14e77d7ee7a1dcae93b4ca9f38b7e37672a220677b93ea65b730b1165a68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Indústria de Brinquedos
+- Normalização
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:220562:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247184:por
+  label: Rectificada pela DECL.DD3063.1990.11.12.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247184
+  date: '1990-11-12'
+- type: repealed_by
+  target: pt:dre:220562:por
+  label: "Revogada pelo DEC LEI.237/92.27.10.1992.MARN, DR.IS-A [248] de 27.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1992-220562
+  date: '1992-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:00Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +178,7 @@ c) Efectuar os exames e ensaios adequados, a fim de verificar se o brinquedo sat
 
 Ministérios do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
 Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
@@ -159,7 +186,7 @@ Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretár
 
 Símbolo da marca «CE»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/22702/00040005.pdf))](https://files.diariodarepublica.pt/1s/1990/10/22702/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22702/00040005.pdf)
 
 A dimensão vertical mínima da marca «CE» é de 5 mm
 

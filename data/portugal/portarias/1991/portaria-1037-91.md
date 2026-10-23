@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/232b00/52525252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1037/1991/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1037-1991-288245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:36:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efb37858af6e0a99d930bab53245497eb62e5438d231620adebef54e1c960411
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a018a2522ea58c7ee17254b3d25d3c0b7331b108f3d1ae452c7e7295e462ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:36:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/357/1991/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/357/1991/09/20/p/dre
+- type: cites
+  target: pt:dre:301635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELO DECRETO LEI 280/93, DE 13 DE AGOSTO, PUBLICADO NO DR.IS-A, 189, DE 930813.\0813.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:356105:por
+  label: Revogada, a partir de 01.11.1993, pelo(a) Decreto-Lei n.º 280/93 - Diário da República n.º 189/1993, Série I-A de
+    1993-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1993-356105
+  date: '1993-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:36:36Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +132,6 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Setembro de 1991.**
+Assinada em 20 de Setembro de 1991.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Ferreira do Amaral.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3350-(49) a 3350-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29603/00490050.pdf
 entry_into_force_dates: []
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/361-a-1979-430021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adeb57d7bdd19aa850c41a10d83c2bb8bc707aa2b211821206b96a023e2dcef8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 972572563fcb2a6a2e6ccb5cad14db3636d6432c1bbb0864abe30bf615403a06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Azeite
+- Comércio
+- Embalagem
+- Financiamento
+- Instituto do Azeite e Produtos Oleaginosos
+- Liberalização do Mercado
+- Margens de Comercialização
+- Preço de Venda
 relationships:
 - type: amended_by
   target: pt:dre:692632:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692632:por
+  label: "Alterados os n.os 1 e 2 do presente diploma, pela RES.15/80.10.01.1980.PCM, DR.IS [21] de 25.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/15-1980-692632
+  date: '1980-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:23:11Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +115,7 @@ O Conselho de Ministros, reunido em 7 de Dezembro de 1979, resolveu:
 
 Preços de garantia por litro de azeite colocado em bidões do Instituto do Azeite e Produtos Oleaginosos na estação de caminho de ferro mais próxima do armazém do produtor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29603/00490050.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29603/00490050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29603/00490050.pdf)
 
 3 - Garantir a genuinidade do produto através do contrôle do seu embalamento pelo Instituto do Azeite e Produtos Oleaginosos.
 

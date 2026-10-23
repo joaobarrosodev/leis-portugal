@@ -48,40 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/968-1990-556069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:35:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d61b541f82934b75edad150e914bcb8f41ae5014600d855d1f4885ac9316d240
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6b457c618c3b12b918c4da6c76b0a90132493cf5db566e3a8856603bcb3406
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:35:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Política Agrícola Comum
+- Produção Vegetal
+- Proteção Fitossanitária
+- Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:288413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288413:por
+  label: "Alterado o anexo II pela PORT.716/92.13.07.1992.MA, DR.IS-B [159] de 13.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1992-288413
+  date: '1992-07-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:35:00Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +108,7 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, que os an
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 20 de Setembro de 1990.**
+Assinada em 20 de Setembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -170,15 +180,15 @@ Hypoxylon pruinatum (Klotzsche) Cke.
 
 ## ANEXO II — Alterações ao anexo II da Portaria n.º 661/88, de 30 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
 
 ## ANEXO III — Alterações ao anexo III da Portaria n.º 661/88, de 30 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
 
 ## ANEXO IV — Alteração ao anexo IV da Portaria n.º 661/88, de 30 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
 
 ## ANEXO V — Alterações ao anexo V da Portaria n.º 661/88, de 30 de Setembro
 
@@ -188,4 +198,4 @@ O n.º 7 passa a ter a seguinte redacção:
 
 a) Que corresponde a uma das seguintes descrições constantes do anexo I, segunda parte, do Regulamento (CEE) n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt), do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à Pauta Aduaneira Comum:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23400/41914195.pdf)

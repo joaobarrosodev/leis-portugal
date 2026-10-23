@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/380-1980-457619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:33:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99f429f0fac49896cab6a79e1e2a3073f24677043b683845165b483930d97064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 976dd87fff4ff424fee8182f268456265886d06a61682b2e93b159faa5c55261
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:33:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CIME
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 3 E 8 PELA RES 59/86 DA PCM DR.IS [172] DE 29/JUL/1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-07-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A COMPOSICAO DA COMISSAO INTERMINISTERIAL PARA O EMPREGO PELO DC DD3168/87, DR.IIS [266] DE 08/NOV/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-11-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A COMPOSICAO DA COMISSAO INTERMINISTERIAL PARA O EMPREGO PELO DC DDC22/92, DR.IIS [44] DE 21/FEV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-02-21'
+- type: cites
+  target: pt:dre:157042:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:33:55Z'
   warnings: []
   errors: []
 ---

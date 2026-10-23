@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/109/1991/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/109-1991-479038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:37:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2a6a1dc41d182d0f774a9b9cf15d7793d93836a411f251f55752435f28cdbc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 385dce06adfc078987f6a635a3e7517114351b373e4139a14764c9735203ae6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
 subjects:
 - CAÇA
 - VALE de Cambra
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:37:52Z'
   warnings: []
   errors: []
 ---
@@ -111,8 +127,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 17 de Janeiro de 1991.**
+Assinada em 17 de Janeiro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/031b00/05700570.pdf))](https://files.diariodarepublica.pt/1s/1991/02/031b00/05700570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/031b00/05700570.pdf)

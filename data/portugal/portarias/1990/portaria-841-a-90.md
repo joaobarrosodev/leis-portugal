@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 214/1990, 1º Suplemento, Série I de 1990-09-15
   number: '214'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3810-(2) a 3810-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21401/00020003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/841-a-1990-336522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 698c46cab2f68036deb35a0abb237cd75a63cef12a7fc332d3103dc6caef5a5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1909169668bc4032843ed2db8c5060a9a17fddd5c33f85d1bde375e7e6f3ad6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Juvenil
+- Regulamento para a Concessão de Apoios as Associações Juvenis
 relationships:
 - type: amended_by
   target: pt:dre:405914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624629:por
+  label: "Aditados os pontos 2.3.1, 2.3.2 e 2.3.3 ao Regulamento para a Concessão de Apoios às Associações Juvenis pela PORT.1113-A/90.08.11.1990.PCM,\
+    \ DR.IS [258]Supl de 08.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1113-a-1990-624629
+  date: '1990-11-08'
+- type: amended_by
+  target: pt:dre:228618:por
+  label: "Alterados os n.ºs 1.6 e 4.4, e aditado o n.º 5-A ao Regulamento anexo ao presente diploma, pela PORT.154-A/95.22.02.1995.PCM,\
+    \ DR.IS-B [45]Supl de 22.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/154-a-1995-228618
+  date: '1995-02-22'
+- type: amended_by
+  target: pt:dre:405914:por
+  label: "Mantida em vigor, até 31.12.1996, com excepção das disposições relativas aos pedidos de apoio para o ano de 1997,\
+    \ pela PORT.354/96.16.08.1996.PCM, DR.IS-B [189] de 16.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1996-405914
+  date: '1996-08-16'
+- type: cites
+  target: pt:dre:251984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614626:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689262:por
+  label: Rectificada pela DECL.DD3097.1990.11.08.PCM, DR.IS [277]3ºSupl de 30/Nov/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689262
+  date: '1990-11-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:31:50Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +143,9 @@ Manda o Governo, pelo Secretário de Estado da Juventude, nos termos do n.º 3 d
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 3 de Setembro de 1990.**
+Assinada em 3 de Setembro de 1990.
 
-**O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.**
+O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.
 
 ## ANEXO — Regulamento para a Concessão de Apoios às Associações Juvenis
 
@@ -290,4 +327,4 @@ f) Em caso da extinção da associação ou entidade, doar as instalações adqu
 
 8.3 - Trimestralmente, o Instituto deve remeter aos conselhos consultivos regionais mapas referentes à atribuição de apoios no respectivo distrito.
 
-**O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.**
+O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.

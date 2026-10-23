@@ -47,36 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/90-1979-382811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:26:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e604f69a75ab780eb17a49f1a4cf5216a92aed08f27ca2001c5918a99c3225ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f57dc1ddf074625a8e35a99e3804d41131abfe0c6b4645a8d6ebdc508ab264b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso Público
+- Empresa Pública
+- Empresa Pública do Jornal o Século
+- Património
+- Sociedade Nacional de Tipografia
+- Venda
+relationships:
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:26:28Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +173,7 @@ Os exercícios de 1972, de 1973 e de 1974 continuaram a ser altamente desfavorá
 
 Assim, segundo os respectivos balanços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf))](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf)
 
 Este quadro revela a situação de falência técnica a que a empresa chegou, em termos de balanço, muito embora se possa sustentar que o património imobiliário da empresa estaria subavaliado e distante do seu valor real. Aliás, no seu relatório referente ao exercício de 1974, o conselho de administração evidência, designadamente, que a sobrevivência da empresa vinha de há longos meses dependendo, exclusivamente, do auxílio financeiro prestado pelo BIP e que se tornavam de extrema urgência medidas de racionalização dos serviços, de disciplina e eficiência do trabalho, de despedimentos por incompetência profissional e não cumprimento do serviço, a par da expansão das publicações;
 
@@ -179,7 +213,7 @@ Naturalmente que as vicissitudes ocorridas durante o ano de 1975 na Sociedade Na
 
 O balanço de 31 de Dezembro desse ano é concludente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf))](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf)
 
 f) A situação de extrema gravidade, afectando a própria sobrevivência da empresa, que os números citados bem salientam integrava-se, aliás, segundo o Governo, numa crise mais ampla, isto é, naquela com que se debatia todo o sector da informação.
 
@@ -195,7 +229,7 @@ Se à data da criação da EPSP através do citado [Decreto-Lei n.º 639/76](htt
 
 As contas de 1976 revelam a seguinte situação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf))](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/07800/05360539.pdf)
 
 A caótica situação exposta veio motivar o já referido despacho normativo do Secretário de Estado da Comunicação Social n.º 43/77, de 5 de Fevereiro, determinando a suspensão, a título temporário, da edição das publicações pertencentes à ex-Sociedade Nacional de Tipografia, S. A. R. L. A partir de Agosto do mesmo ano, por Resolução do Conselho de Ministros n.º 242/77, de 31 de Agosto, foi decidida a cessação das mesmas publicações. Esta situação mantém-se até à data.
 

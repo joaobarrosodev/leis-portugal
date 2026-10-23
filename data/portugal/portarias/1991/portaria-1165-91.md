@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1165/1991/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1165-1991-316765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a4c3ff4fbd97ad8a4d932b4924aaf20699146ac0bc2afec0f7bd6cf4c38b70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d039900cb9553b834516a856c15b06624fbc0a64dac47d7216482cd013212dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,45 @@ relationships:
   target: pt:dre:608930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671013:por
+  label: "Suspenso o exercício da caça e de actividades de caça venatória na zona de caça turística concessionada pela Port\
+    \ 615-L4/91, de 08-Jul DR.IS-B [154]2ºSupl, na redacção do presente diploma, pela PORT.589/2003.2003.07.17.MADRP DR.IS-B\
+    \ [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/589-2003-671013
+  date: '2003-07-17'
+- type: amended_by
+  target: pt:dre:608930:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça turística, concessionada pela Port 615-L4/91, de\
+    \ 08-Jul, alterada pelo presente diploma, pela PORT.101/2004.23.01.2004.MECO, DR.IS-B [19] de 23.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2004-608930
+  date: '2004-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/615-l4/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-l4/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:41Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +135,8 @@ Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados 
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 17 de Outubro de 1991.**
+Assinada em 17 de Outubro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/261b00/58125812.pdf))](https://files.diariodarepublica.pt/1s/1991/11/261b00/58125812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/261b00/58125812.pdf)

@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/175-1979-383225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd2c6525ef2682c3baddc0d3f0910cd109613c656d793469732014d88dfb9ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b993b63a701b930fd04a4db362d31ff334046f4709768d25430c60231b37ac20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Empresa Intervencionada
+- Empresa Privada
+- Exoneração
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:226642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381694:por
+  label: "Prorrogado até 30.09.1980 o prazo estabelecido no n.º 6 pela RES.213-I/80.18.06.1980.PCM, DR.IS [138-SUPL] de 18.06.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/213-i-1980-381694
+  date: '1980-06-18'
+- type: amended_by
+  target: pt:dre:462046:por
+  label: "Prorrogado, até 31.12.1980, os prazos estabelecidos nos n.os 4 e 6 do presente diploma, pela RES.363/80.13.10.1980.PCM,\
+    \ DR.IS [237] de 13.10.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/363-1980-462046
+  date: '1980-10-13'
+- type: amended_by
+  target: pt:dre:464268:por
+  label: "Prorrogado o prazo estabelecido no n.º 4 do presente diploma, pela RES.319/80.20.10.1980.PCM, DR.IS [205] de 05.09.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/319-1980-464268
+  date: '1980-10-20'
+- type: amended_by
+  target: pt:dre:226642:por
+  label: "Prorrogado até 31.05.1981, o prazo fixado no n.º 6 do presente diploma, pela RES.424/80.31.12.1980.PCM, DR.IS [301-8.º\
+    \ Supl] de 31.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/424-1980-226642
+  date: '1980-12-31'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430443:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:18:25Z'
   warnings: []
   errors: []
 ---

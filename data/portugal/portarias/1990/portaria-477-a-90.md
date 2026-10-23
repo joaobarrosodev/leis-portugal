@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 146/1990, 1º Suplemento, Série I de 1990-06-27
   number: '146'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2724-(2) a 2724-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14601/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/477-a-1990-145828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b309ebe4f0f9302667d004454eb17cd701bb3a924ead16bfb8696c1975dba8b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30c7b861ee47ada71992746edc696e4dfce16c5b1add76f3a6fcdd197d6e02a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Joalharia e Ourivesaria
+- Multa
+- Regulamento das Contrastarias
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:556654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:369812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662689:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546229:por
+  label: Rectificada pela DECL.DD3234.1990.08.22.PCM DR.IS [201]3ºSUPL DE 31/AGO/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-546229
+  date: '1990-08-22'
+- type: repealed_by
+  target: pt:dre:556654:por
+  label: "Revogada pela PORT.418-A/2012.19.12.2012.MF, DR.IS [245-Supl] de 19.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/418-a-2012-556654
+  date: '2012-12-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:22:00Z'
   warnings: []
   errors: []
 ---
@@ -517,6 +540,6 @@ Por pessoa - multa graduada de 2000$00 a 50000$00, conforme a condição social 
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 21 de Junho de 1990.**
+Assinada em 21 de Junho de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

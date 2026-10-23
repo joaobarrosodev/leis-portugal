@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1158/1991/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1158-1991-331410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92e6d9443341fe9e0964d5466014fb133a582d11bd7a5a9db61998a8be857007
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a76bb600607f6b92cb5488136ae602e072c9dc930720850bf410d0b813bcc1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,86 @@ relationships:
   target: pt:dre:382602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382602:por
+  label: "Substituído o quadro de pessoal da Maternidade Alfredo da Costa aprovado pela Port 636/80 de 16-Set, com as alterações\
+    \ constantes do presente diploma, pela PORT.296/97.06.05.1997.PCM, DR.IS-B [104] de 06.05.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1997-382602
+  date: '1997-05-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:195658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662324:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:39:31Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +171,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 17 de Outubro de 1991.**
+Assinada em 17 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
 
 Quadro de pessoal da Maternidade do Dr. Alfredo da Costa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/259b00/57645764.pdf))](https://files.diariodarepublica.pt/1s/1991/11/259b00/57645764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/259b00/57645764.pdf)

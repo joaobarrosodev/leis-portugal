@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/63-1979-383609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76b37c748eb6dcb46876c7e6fcbb8fbac9b321a2c46ebf8894d9517876e8d3aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c9d9e440770cfe72c92f96d829b8c67a94e1a4252720f3ab0d17202aa51ae2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Inconstitucionalidade
+- Interpretação do Direito
+- Liberdades Fundamentais
+- Livre Circulação de Pessoas
+relationships:
+- type: amended_by
+  target: pt:dre:635986:por
+  label: "Rectificado o sumário pela DECL.DD7188.13.03.1979.CR, DR.IS [60]Supl de 13.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-635986
+  date: '1979-03-13'
+- type: cites
+  target: pt:dre:447687:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:25:48Z'
   warnings: []
   errors: []
 ---
@@ -87,4 +101,4 @@ Nos termos da alínea c) do artigo 146.º e do n.º 1 do artigo 281.º da Consti
 
 Aprovada em Conselho da Revolução em 31 de Janeiro de 1979.
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes.

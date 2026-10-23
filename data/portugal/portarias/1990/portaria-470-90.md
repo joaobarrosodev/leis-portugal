@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14300/26372637.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1990-575317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aea688a273cf38caf33b9b16d8b04e375908fba1da7d8093b83cbaeb8769792
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78028331d066ed0e87186fecc3f9ab20b899ce31b804a2ac28fc3439d712f757
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensionista
+- Reformado
+- Segurança Social
+- Subsídio de Férias
 relationships:
 - type: amended_by
   target: pt:dre:653127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Substituído o presente diploma pelo DEC LEI.329/93.25.09.1993.MESS, DR.IS-A [226] de 25.09.1993, nos seus precisos
+    termos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1993-653127
+  date: '1993-09-25'
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:21:50Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +132,6 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 30 de Maio de 1990.**
+Assinada em 30 de Maio de 1990.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

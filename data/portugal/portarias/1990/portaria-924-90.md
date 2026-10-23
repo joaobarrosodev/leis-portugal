@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-1990-554613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a51840b3d78142307f912d96d9ea8c918e27dd33d423cc146656aad20532ec5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41c8e7c6430a6be728f91b504ce4265bf1663c4df7b51984309c25c5b5398422
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Técnico de Comunicação Marketing Relações Públicas e Publicidade
+- Curso de Técnico de Serviços Comerciais-comércio Externo
+- Curso Técnico de Informática-gestão
+- Escola Profissional do Comércio Internacional
+- Formação Profissional
 relationships:
+- type: amended_by
+  target: pt:dre:179808:por
+  label: "ALTERADO OS PLANOS DE ESTUDO PELA PORTARIA 208/92, PUBLICADA NO DR.IS-B, 66, DE 920319.\020319.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/208-1992-179808
 - type: amended_by
   target: pt:dre:544835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147640:por
+  label: "Extinto o curso profissional de Técnico de Informática-Gestão, criado pelo presente diploma que é revogado parcialmente\
+    \ no que àquele curso se refere, pela PORT.913/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ nos n.ºs 7.º e 8.º da citada portaria\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/913-2005-147640
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:544835:por
+  label: "Extinto o curso profissional de Técnico de Comunicação/Marketing, Relações Públicas e Publicidade, criado no presente\
+    \ diploma, com a redacção constante da Port 208/92 de 19-Mar, e revogado presente diploma no que àquele curso se refere\
+    \ pela PORT.1286/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006, sem prejuízo do disposto no nº 6º da Port 1286/2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1286-2006-544835
+  date: '2006-11-21'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:34:00Z'
   warnings: []
   errors: []
 ---
@@ -110,18 +137,18 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 30 de Agosto de 1990.**
+Assinada em 30 de Agosto de 1990.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - Pelo Ministro do Comércio e Turismo, António Neto da Silva, Secretário de Estado do Comércio Externo.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - Pelo Ministro do Comércio e Turismo, António Neto da Silva, Secretário de Estado do Comércio Externo.
 
 Curso de Técnico de Serviços Comerciais - Comércio Externo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf))](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf)
 
 Curso de Técnico de Informática - Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf))](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf)
 
 Curso de Técnico de Comunicação - Marketing, Relações Públicas e Publicidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf))](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22700/40534055.pdf)

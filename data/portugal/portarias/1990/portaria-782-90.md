@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/782-1990-556778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:30:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ed9f4fe8e9bf7c0a59eb4ba0f26b5bf4dbdc87bf8bfb6878eae73c859647875
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46155eabc2ae530dcca3c2197b8127df9576d5d6cc7334da77e99a19808079a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:30:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Acompanhamento da Reforma Curricular
+- Ensino Básico
+- Plano de Estudos
+- Política de Educação
+- Sistema Educativo
+relationships:
+- type: amended_by
+  target: pt:dre:516894:por
+  label: "ALTERADO O NUMERO 3 PELA PORTARIA 459/92, PUBLICADA NO DR.IS-B, 126, 920601.\020601.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/459-1992-516894
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:30:24Z'
   warnings: []
   errors: []
 ---
@@ -289,14 +322,14 @@ A aplicação experimental dos planos curriculares decorrerá, no ano lectivo de
 
 Ministério da Educação.
 
-**Assinada em 22 de Agosto de 1990.**
+Assinada em 22 de Agosto de 1990.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO — Amostra de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20200/35503554.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20200/35503554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20200/35503554.pdf)
 
 Estabelecimentos do ensino particular e cooperativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20200/35503554.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20200/35503554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20200/35503554.pdf)
