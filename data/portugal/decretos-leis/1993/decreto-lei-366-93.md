@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/366/1993/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1993-664552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dcd2cc0aadc20f50907b5bebf19015c65725f61ee0b4d6e8baa39ad0fa522ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1213a7a4b07f95b302a5c6dcd5f1a033fbc87bb0227ccafc398fc0b68b7e8e73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Criação de Serviços
 - Extinção de Serviços
-- Ministério do Planeamento e da Administração do Território
 - Gabinete de Estudos e Planeamento da Administração do Território
 - Gabinete para os Assuntos Europeus e Relações Externas
 - Integração de Trabalhadores
+- Ministério do Planeamento e da Administração do Território
 - Orgânica
 relationships:
 - type: amended_by
@@ -82,16 +82,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663297:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:352174:por
+  label: "Revogado pelo DEC LEI.135/97.1997.05.31.MEPAT DR.IS-A [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1997-352174
+  date: '1997-05-31'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:33Z'
   warnings: []
   errors: []
 ---
@@ -194,16 +219,16 @@ São revogados a alínea c) do n.º 1 do artigo 1.º e os artigos 8.º a 10.º d
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 2 do artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf))](https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf)

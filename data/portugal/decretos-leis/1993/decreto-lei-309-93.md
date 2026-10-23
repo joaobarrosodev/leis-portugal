@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/206a00/46264631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3293ba5d71a795f42106e3daa97fb018d25288c0c69b6b93fe24d6491a0895f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de988a6128dc3dd65042b6c530ba080f8fef7d44634183d5762f0a7e5d32febf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Ordenamento do Território
 - Definição de Competências
-- Protecção do Litoral
+- Domínio Público Hídrico
+- GNR
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
 - Lei de Bases
-- GNR
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Domínio Público Hídrico
+- Protecção do Litoral
 relationships:
 - type: amended_by
   target: pt:dre:179368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218348:por
+  label: "Alterados os artigos 3.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º, 19.º, e aditado o artigo 20.º\
+    \ pelo DEC LEI.218/94.20.08.1994.MARN, DR.IS-A [192] de 20.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1994-218348
+  date: '1994-08-20'
+- type: amended_by
+  target: pt:dre:384183:por
+  label: "Alterado o art 17º e revogado o num 9 do art 11º, na redacção dada pelo Dec Lei 218/94 de 20-Ago, pelo Dec Lei 113/97.1997.05.10.MAM,\
+    \ DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1997-384183
+  date: '1997-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/1992/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/201/1992/09/29/p/dre
+- type: cites
+  target: pt:dre:233118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475371:por
+  label: "Revogados os n.ºs 3, 4 e 5 do artigo 7.º, o artigo 9.º, os n.ºs 1 e 4 do artigo 10.º, na redacção do Decreto-Lei\
+    \ n.º 218/94, de 20 de Agosto, e o artigo 18.º, relativamente aos planos de ordenamento da orla costeira, pelo DEC LEI.151/95.24.06.1995.MPLAT,\
+    \ DR.IS-A [144] de 24.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1995-475371
+  date: '1995-06-24'
+- type: repealed_by
+  target: pt:dre:179368:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 218/94, de 20-ago, Dec Lei 151/95, de 24-jun, e Dec Lei 13/97,\
+    \ de 10-maio, DEC LEI.159/2012.24.07.2012.MAMAOT, DR.IS [142] de 24.07.2012, mantendo-se em vigor os planos de ordenamento\
+    \ da orla costeira vigentes em 25.07.2012.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2012-179368
+  date: '2012-07-24'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:17Z'
   warnings: []
   errors: []
 ---
@@ -388,13 +426,13 @@ No interior das áreas protegidas, as competências atribuídas pelo presente di
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Mário Fernandes de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 6 de Agosto de 1993.**
+Promulgado em 6 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Agosto de 1993.**
+Referendado em 9 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 

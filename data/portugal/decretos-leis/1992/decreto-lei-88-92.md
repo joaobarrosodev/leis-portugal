@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 400d4fc0a78a414636ea3deb06cf9907fda26158f7e39323dc5b254b9c050d41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c472ccdd8849a50229219bedbfaa87cf7493a19e40c4ef09934bc95fb451cdcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
 - Comunicações Nacionais
 - SGPS
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:563029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563029:por
+  label: "Dissolvida a CN - Comunicações Nacionais pelo DEC LEI.241/95.1995.09.13.MOPTC, DR.IS-A [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1995-563029
+  date: '1995-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/1991/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/138/1991/04/08/p/dre
+- type: cites
+  target: pt:dre:239669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264277:por
+  label: "Revogado o nº 5 do art. 3º e alterado o nº 2 do art. 13º, o nº 2 do art. 20º e o art. 25º dos Estatutos da CN aprovados\
+    \ pelo presente diploma, pelo DEC LEI.122/94.1994.05.14.MOPTC, DR.IS-A [112], a partir da data da produção de efeitos\
+    \ da fusão prevista naquele diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1994-264277
+  date: '1994-05-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:25Z'
   warnings: []
   errors: []
 ---
@@ -124,19 +148,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a sociedade Comunicações Nacionais, Sociedade Gestora de Participações Sociais, que assume a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de CN - Comunicações Nacionais, SGPS, S. A., abreviadamente designada por CN, para a gestão de todas as participações sociais que o Estado detiver no sector das comunicações.
+Artigo 1.º - 1 - É criada a sociedade Comunicações Nacionais, Sociedade Gestora de Participações Sociais, que assume a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de CN - Comunicações Nacionais, SGPS, S. A., abreviadamente designada por CN, para a gestão de todas as participações sociais que o Estado detiver no sector das comunicações.
 
 2 - A CN rege-se pelo presente diploma, pelos seus estatutos e, em tudo o que neles não estiver previsto, pelas normas aplicáveis às sociedades anónimas e às sociedades gestoras de participações sociais.
 
 3 - São aprovados os estatutos da CN, anexos ao presente diploma.
 
-###### Art. 2.º - 1 - A CN tem inicialmente um capital de 141705644000$00, o qual se encontra integralmente subscrito e realizado pelo Estado e pela PARTEST - Sociedade Gestora de Participações Sociais, S. A., à data da entrada em vigor deste diploma.
+Art. 2.º - 1 - A CN tem inicialmente um capital de 141705644000$00, o qual se encontra integralmente subscrito e realizado pelo Estado e pela PARTEST - Sociedade Gestora de Participações Sociais, S. A., à data da entrada em vigor deste diploma.
 
 2 - É transferida para a CN a titularidade das participações sociais detidas pelo Estado, ao valor nominal, nas empresas Correios e Telecomunicações de Portugal (CTT), S. A., Telefones de Lisboa e Porto (TLP), S. A., e Teledifusora de Portugal (TDP), S. A.
 
 3 - O montante do capital social da CN subscrito pela PARTEST - Sociedade Gestora de Participações Sociais, S. A., é realizado mediante a entrega das acções, ao valor nominal, da Companhia Portuguesa Rádio Marconi (CPRM), S. A.
 
-###### Art. 3.º - 1 - As acções da CN pertencem ao Estado e só poderão ser transmitidas para os entes públicos a que se refere a alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, os quais as poderão subscrever desde que, para o efeito, sejam autorizados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 3.º - 1 - As acções da CN pertencem ao Estado e só poderão ser transmitidas para os entes públicos a que se refere a alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, os quais as poderão subscrever desde que, para o efeito, sejam autorizados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
 2 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, podendo, embora, a sua gestão ser cometida, por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
@@ -146,13 +170,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - O representante da CN na assembleia geral da Teledifusora de Portugal (TDP), S. A., que substitui o representante do Estado previsto no n.º 3 do artigo 9.º do [Decreto-Lei n.º 138/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1991-239669), de 8 de Abril, deve, relativamente às deliberações que tenham por objecto as matérias enunciadas nas alíneas a), b), c) e i) do n.º 1 do artigo 7.º dos estatutos daquela sociedade, requerer o parecer favorável do membro do Governo responsável pela área da comunicação social.
 
-###### Art. 4.º - 1 - Os estatutos da CN não carecem de redução a escritura pública e produzem efeitos relativamente a terceiros, independentemente do registo, que, no entanto, deve ser requerido nos 90 dias seguintes à entrada em vigor deste diploma.
+Art. 4.º - 1 - Os estatutos da CN não carecem de redução a escritura pública e produzem efeitos relativamente a terceiros, independentemente do registo, que, no entanto, deve ser requerido nos 90 dias seguintes à entrada em vigor deste diploma.
 
 2 - As alterações aos estatutos serão eficazes com a sua redução a escritura pública e subsequente registo.
 
-###### Art. 5.º A CN tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 5.º A CN tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto na lei quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da assembleia geral anual:
+Art. 6.º - 1 - Sem prejuízo do disposto na lei quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -160,9 +184,9 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações um relatório sucinto em que se refiram os controlos efectuados bem como, se for caso disso, as anomalias detectadas e os principais desvios em relação ao orçamento aprovado.
 
-###### Art. 7.º Não é aplicável ao Estado, relativamente à CN, nem a esta, relativamente às sociedades nas quais detenha participações sociais, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
+Art. 7.º Não é aplicável ao Estado, relativamente à CN, nem a esta, relativamente às sociedades nas quais detenha participações sociais, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
 
-###### Art. 8.º - 1 - Podem ser autorizados a exercer funções, em regime de requisição, na CN trabalhadores dos CTT, dos TLP, da CPRM e da TDP, os quais conservarão todos os direitos e regalias inerentes ao seu quadro de origem.
+Art. 8.º - 1 - Podem ser autorizados a exercer funções, em regime de requisição, na CN trabalhadores dos CTT, dos TLP, da CPRM e da TDP, os quais conservarão todos os direitos e regalias inerentes ao seu quadro de origem.
 
 2 - Aos trabalhadores das empresas referidas no número anterior que sejam integrados nos quadros da CN são assegurados os direitos adquiridos nas respectivas empresas de origem.
 
@@ -170,23 +194,23 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 4 - Os trabalhadores da CN que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada serão prejudicados por esse facto, regressando aos seus lugares logo que terminarem o mandato ou o tempo de requisição.
 
-###### Art. 9.º São isentos de taxas e emolumentos todos os actos a praticar para a execução do disposto nos artigos anteriores, bem como ainda para o registo das nomeações dos primeiros membros eleitos para os órgãos de administração e fiscalização.
+Art. 9.º São isentos de taxas e emolumentos todos os actos a praticar para a execução do disposto nos artigos anteriores, bem como ainda para o registo das nomeações dos primeiros membros eleitos para os órgãos de administração e fiscalização.
 
-###### Art. 10.º Até ao 60.º dia posterior à data da entrada em vigor do presente diploma, os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações nomearão o representante a que se refere o n.º 3 do artigo 3.º, o qual convocará a assembleia geral da CN para a eleição dos titulares dos órgãos sociais e a aprovação do respectivo estatuto remuneratório.
+Art. 10.º Até ao 60.º dia posterior à data da entrada em vigor do presente diploma, os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações nomearão o representante a que se refere o n.º 3 do artigo 3.º, o qual convocará a assembleia geral da CN para a eleição dos titulares dos órgãos sociais e a aprovação do respectivo estatuto remuneratório.
 
-###### Art. 11.º Os n.os 2 e 3 do artigo 2.º entram em vigor no dia imediato ao da realização da assembleia geral prevista no artigo anterior.
+Art. 11.º Os n.os 2 e 3 do artigo 2.º entram em vigor no dia imediato ao da realização da assembleia geral prevista no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 1.º do Decreto-Lei n.º 88/92, de 14 de Maio)
 
@@ -194,17 +218,17 @@ Estatutos da sociedade Comunicações Nacionais, SGPS, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade gestora de participações sociais, sociedade anónima, e a denominação de CN - Comunicações Nacionais, SGPS, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade gestora de participações sociais, sociedade anónima, e a denominação de CN - Comunicações Nacionais, SGPS, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa.
 
 2 - Por deliberação do conselho de administração, a sociedade pode criar e manter em qualquer ponto do território nacional, ou fora dele, agências, delegações ou qualquer outra forma de representação, bem como, ouvido o conselho fiscal, deslocar a sua sede dentro do concelho de Lisboa ou para concelho limítrofe.
 
-###### Art. 3.º A sociedade tem por objecto a gestão de todas as participações sociais que o Estado detiver no sector das comunicações.
+Art. 3.º A sociedade tem por objecto a gestão de todas as participações sociais que o Estado detiver no sector das comunicações.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 141705644000$00 e encontra-se integralmente subscrito e realizado.
+Art. 4.º - 1 - O capital social é de 141705644000$00 e encontra-se integralmente subscrito e realizado.
 
 2 - O capital está representado por 141705644 acções nominativas com o valor nominal de 1000$00 cada uma.
 
@@ -214,23 +238,23 @@ Estatutos da sociedade Comunicações Nacionais, SGPS, S. A.
 
 5 - As acções só podem ser transmitidas para os entes públicos a que se refere a alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
 
-###### Art. 5.º As acções a emitir por força de aumentos de capital serão nominativas e só podem ser subscritas pelas entidades referidas no n.º 5 do artigo anterior.
+Art. 5.º As acções a emitir por força de aumentos de capital serão nominativas e só podem ser subscritas pelas entidades referidas no n.º 5 do artigo anterior.
 
-###### Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção daquelas de que forem titulares, salvo deliberação em contrário da assembleia geral.
+Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção daquelas de que forem titulares, salvo deliberação em contrário da assembleia geral.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das respectivas participações.
 
-###### Art. 7.º - 1 - A sociedade pode emitir obrigações nos termos da legislação em vigor e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 7.º - 1 - A sociedade pode emitir obrigações nos termos da legislação em vigor e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 2 - Pode haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 9.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 10000 acções corresponde um voto na assembleia geral.
 
@@ -246,7 +270,7 @@ Estatutos da sociedade Comunicações Nacionais, SGPS, S. A.
 
 8 - Os membros do conselho de administração e do conselho fiscal poderão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito de voto.
 
-###### Art. 10.º - 1 - Compete à assembleia geral:
+Art. 10.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -262,7 +286,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral sempre que a lei não exija maior número.
 
-###### Art. 11.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa.
+Art. 11.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa.
 
 2 - A mesa é também constituída por um vice-presidente e por um secretário.
 
@@ -272,7 +296,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
-###### Art. 12.º - 1 - A assembleia geral reúne, ordinariamente, pelo menos uma vez por ano e, extraordinariamente, sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 12.º - 1 - A assembleia geral reúne, ordinariamente, pelo menos uma vez por ano e, extraordinariamente, sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 2 - As assembleias gerais são convocadas por cartas registadas dirigidas a todos os accionistas.
 
@@ -280,7 +304,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 13.º - 1 - O conselho de administração é composto por um presidente e até três vogais executivos e, ainda, pelos vogais a que se refere o número seguinte.
+Art. 13.º - 1 - O conselho de administração é composto por um presidente e até três vogais executivos e, ainda, pelos vogais a que se refere o número seguinte.
 
 2 - Os presidentes dos conselhos de administração das empresas operadoras do serviço público de telecomunicações serão, por inerência, vogais sem funções executivas e em tempo parcial do conselho administração da sociedade Comunicações Nacionais, SGPS, S. A.
 
@@ -290,7 +314,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - O presidente do conselho de administração é escolhido pela assembleia geral de entre os administradores eleitos.
 
-###### Art. 14.º - 1 - Ao conselho de administração compete:
+Art. 14.º - 1 - Ao conselho de administração compete:
 
 a) Aprovar os objectivos e as políticas de gestão da empresa;
 
@@ -312,9 +336,9 @@ i) Exercer as demais competências que lhe sejam atribuídas pela assembleia ger
 
 2 - O conselho de administração poderá delegar em algum ou alguns dos seus membros da comissão executiva, ou em comissões especiais, algum ou alguns dos seus poderes, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 15.º - Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+Art. 15.º - Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
 
-###### Art. 16.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
+Art. 16.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -326,19 +350,19 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que convocado pelo presidente ou por dois administradores ou pelo conselho fiscal.
+Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que convocado pelo presidente ou por dois administradores ou pelo conselho fiscal.
 
 2 - O conselho de administração não pode funcionar sem a presença da maioria dos seus membros executivos em exercício, salvo por motivo de urgência, como tal expressamente reconhecido pelo presidente, caso em que os votos podem ser expressos por carta dirigida a este ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração constarão sempre de acta e serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem legalmente o substituir, voto de qualidade.
 
-###### Art. 18.º - 1 - Nas actas do conselho de administração mencionam-se todas as deliberações tomadas nas respectivas reuniões, bem como os votos de vencido.
+Art. 18.º - 1 - Nas actas do conselho de administração mencionam-se todas as deliberações tomadas nas respectivas reuniões, bem como os votos de vencido.
 
 2 - As actas são assinadas por todos os membros do conselho de administração que participarem na reunião.
 
 3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros executivos do conselho de administração;
 
@@ -354,7 +378,7 @@ c) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
@@ -362,7 +386,7 @@ c) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 4 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e, ainda, por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 21.º - 1 - O conselho fiscal tem as competências estabelecidas na lei e nestes estatutos.
+Art. 21.º - 1 - O conselho fiscal tem as competências estabelecidas na lei e nestes estatutos.
 
 2 - Compete, especialmente, ao conselho fiscal:
 
@@ -380,21 +404,21 @@ f) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas
 
 g) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.
 
-###### Art. 22.º As deliberações do conselho fiscal são tomadas estando presente a maioria dos membros em exercício e por maioria dos votos expressos.
+Art. 22.º As deliberações do conselho fiscal são tomadas estando presente a maioria dos membros em exercício e por maioria dos votos expressos.
 
 ### CAPÍTULO IV — Informações especiais
 
-###### Art. 23.º Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da assembleia geral anual, os elementos seguintes:
+Art. 23.º Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da assembleia geral anual, os elementos seguintes:
 
 a) O relatório de gestão e as contas do exercício;
 
 b) Quaisquer elementos adequados à compreensão integral da situação económico-financeira da empresa e perspectivas da sua evolução, bem como à eficiência da gestão realizada.
 
-###### Art. 24.º O conselho fiscal enviará trimestralmente aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações um relatório sucinto em que se refiram os controlos efectuados e, quando ocorram, as anomalias detectadas e os principais desvios em relação ao orçamento aprovado.
+Art. 24.º O conselho fiscal enviará trimestralmente aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações um relatório sucinto em que se refiram os controlos efectuados e, quando ocorram, as anomalias detectadas e os principais desvios em relação ao orçamento aprovado.
 
 ### CAPÍTULO V — Aplicação dos resultados
 
-###### Art. 25.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 25.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 a)Uma percentagem não inferior a 10% será destinada à constituição da reserva legal, até atingir o montante exigível;
 
@@ -404,10 +428,10 @@ c) O remanescente será afecto aos fins definidos pela assembleia geral.
 
 ### CAPÍTULO VI — Dissolução e liquidação
 
-###### Art. 26.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 26.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
 ### CAPÍTULO VII — Disposição final
 
-###### Art. 27.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 27.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.

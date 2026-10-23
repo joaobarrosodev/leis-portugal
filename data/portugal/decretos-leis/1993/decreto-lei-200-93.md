@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/1993/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1993-257600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c08cecd4b68578ce88c18de674bdc32171d316b6d9c53a99296b3900f3b9ddd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add4741b1bc1c92b9a6fa523b9fa5343293820888eea17f9d895e5f6cff87cd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
+- Avaliação do Pessoal
 - Conselho de Armas e Serviços do Exército
 - Definição de Competências
+- Exército
 - Forças Armadas
 - Militar
-- Avaliação do Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:491932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491932:por
+  label: "Alterados os artigos 2.º, 3.º, 4.º e 5.º, o anexo I e o anexo II, pelo DEC LEI.226/2003.2003.09.26.MDN DR.IS-A [223]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2003-491932
+  date: '2003-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/157/1992/07/31/p/dre
   label: null
@@ -84,16 +90,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
+- type: cites
+  target: pt:dre:203432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662958:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:57Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +142,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os conselhos de armas e serviços do Exército (CASE) são órgãos de apoio do Comando do Pessoal.
+Artigo 1.º Os conselhos de armas e serviços do Exército (CASE) são órgãos de apoio do Comando do Pessoal.
 
-###### Art. 2.º São funções específicas dos CASE:
+Art. 2.º São funções específicas dos CASE:
 
 a) Propor a ordenação, por mérito relativo, dos oficiais e sargentos dos quadros permanentes (QP) elegíveis para promoção por escolha;
 
@@ -124,39 +154,39 @@ c) Preparar a elaboração das listas de promoção de acordo com as modalidades
 
 d) Emitir parecer sobre questões suscitadas pelo comandante do Pessoal do Exército (CPESE) no âmbito da gestão dos recursos humanos.
 
-###### Art. 3.º - 1 - Os CASE são constituídos por militares dos QP, integrando membros designados e membros eleitos da respectiva arma ou serviço.
+Art. 3.º - 1 - Os CASE são constituídos por militares dos QP, integrando membros designados e membros eleitos da respectiva arma ou serviço.
 
 2 - Os membros eleitos, em número não inferior a 50% do quantitativo global dos elementos que integram o respectivo conselho, devem assegurar a representatividade das diferentes subcategorias e postos.
 
-###### Art. 4.º O mandato dos membros eleitos tem a duração de um ano, com início no ano civil seguinte ao da eleição.
+Art. 4.º O mandato dos membros eleitos tem a duração de um ano, com início no ano civil seguinte ao da eleição.
 
-###### Art. 5.º - 1 - Os CASE funcionam no Comando do Pessoal, sendo presididos por um oficial general ou oficial superior da respectiva arma ou serviço, a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).
+Art. 5.º - 1 - Os CASE funcionam no Comando do Pessoal, sendo presididos por um oficial general ou oficial superior da respectiva arma ou serviço, a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).
 
 2 - Os CASE reúnem por convocação do CPESE, com a ordem de trabalhos por este estabelecida.
 
 3 - Os CASE funcionam por comissões, correspondentes às categorias neles representadas, para efeito das funções específicas referidas no artigo 2.º
 
-###### Art. 6.º A composição específica, as regras de funcionamento e as relativas ao processo eleitoral constam, respectivamente, dos anexos I, II, e III ao presente diploma, que dele fazem parte integrante.
+Art. 6.º A composição específica, as regras de funcionamento e as relativas ao processo eleitoral constam, respectivamente, dos anexos I, II, e III ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 7.º São revogados:
+Art. 7.º São revogados:
 
 a) O Decreto-Lei n.º 384-C/87, de 12 de Setembro;
 
 b) O artigo 9.º do [Decreto-Lei n.º 296/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1984-373625), de 31 de Agosto.
 
-###### Art. 8.º Até à efectiva extinção das direcções ou chefias das armas e serviços do Exército (DA/DS/CS), os CASE funcionam nestes órgãos, com as funções específicas agora estabelecidas, sendo presididos pelos respectivos directores ou chefes.
+Art. 8.º Até à efectiva extinção das direcções ou chefias das armas e serviços do Exército (DA/DS/CS), os CASE funcionam nestes órgãos, com as funções específicas agora estabelecidas, sendo presididos pelos respectivos directores ou chefes.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Composição dos conselhos das armas e serviços
 

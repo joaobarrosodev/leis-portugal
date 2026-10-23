@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/1994/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1994-263242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 069419f0e1c07ad681e1cd1f96996d5546a9a2144b370b04347b481b72983f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b15b82e68e2bde5b943d57273716f16db69f4d8827974fa5ab4f00dd9d5ce4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
 subjects:
 - Acordo Europeu
 - Aplicação da Lei
+- Comércio
 - Comunidade Europeia
 - Convenção
+- Cooperação Económica
+- Diploma Legal
 - Direito Comunitário
 - EEE
 - EFTA
-- Cooperação Económica
-- Diploma Legal
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/23/1993/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/23/1993/06/29/p/dre
+- type: cites
+  target: pt:dre:374859:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:59Z'
   warnings: []
   errors: []
 ---
@@ -118,26 +122,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os actos legislativos ou regulamentares de transposição das directivas comunitárias ou de execução de outros actos comunitários, referidos nos anexos do Acordo sobre o Espaço Económico Europeu (adiante designado por Acordo EEE) e nas alterações destes, que se refiram ao «território da Comunidade» ou ao «Mercado Comum» devem, para efeitos do Acordo EEE e nos termos e condições nele previstos, ser considerados aplicáveis aos territórios das Partes Contratantes, tal como definidos no seu artigo 126.º
+Artigo 1.º - 1 - Os actos legislativos ou regulamentares de transposição das directivas comunitárias ou de execução de outros actos comunitários, referidos nos anexos do Acordo sobre o Espaço Económico Europeu (adiante designado por Acordo EEE) e nas alterações destes, que se refiram ao «território da Comunidade» ou ao «Mercado Comum» devem, para efeitos do Acordo EEE e nos termos e condições nele previstos, ser considerados aplicáveis aos territórios das Partes Contratantes, tal como definidos no seu artigo 126.º
 
 2 - As alterações dos anexos do Acordo EEE mencionadas no número anterior referem-se aos actos comunitários adoptados durante o chamado «período intercalar», ou seja, entre 1 de Agosto de 1991 e a data de entrada em vigor do Acordo EEE na ordem jurídica comunitária, sem prejuízo dos termos e condições que vierem a ser definidos por decisão do Comité Misto do Acordo EEE, previsto no artigo 92.º do Acordo EEE.
 
-###### Art. 2.º Quando os actos mencionados no n.º 1 do artigo anterior se refiram aos «nacionais dos Estados membros da Comunidade», tal referência deve, para efeitos e nos termos e condições do Acordo EEE, ser entendida como abrangendo os cidadãos ou empresas dos Estados da EFTA Partes no Acordo.
+Art. 2.º Quando os actos mencionados no n.º 1 do artigo anterior se refiram aos «nacionais dos Estados membros da Comunidade», tal referência deve, para efeitos e nos termos e condições do Acordo EEE, ser entendida como abrangendo os cidadãos ou empresas dos Estados da EFTA Partes no Acordo.
 
-###### Art. 3.º Os direitos concedidos e as obrigações impostas aos Estados membros da Comunidade, aos seus organismos públicos, empresas ou particulares nas relações entre si, referidos nos actos nacionais mencionados no artigo 1.º, devem entender-se, consoante o caso, como concedidos ou impostos às Partes Contratantes, respectivas autoridades competentes, organismos públicos, empresas ou particulares.
+Art. 3.º Os direitos concedidos e as obrigações impostas aos Estados membros da Comunidade, aos seus organismos públicos, empresas ou particulares nas relações entre si, referidos nos actos nacionais mencionados no artigo 1.º, devem entender-se, consoante o caso, como concedidos ou impostos às Partes Contratantes, respectivas autoridades competentes, organismos públicos, empresas ou particulares.
 
-###### Art. 4.º Se a extensão do âmbito de aplicação dos actos referidos no artigo 1.º aos Estados da EFTA Partes no Acordo e aos respectivos cidadãos e operadores económicos tornar necessária a definição de condições específicas de aplicação, serão estabelecidas, pelos membros do Governo competentes em razão da matéria, as medidas de regulamentação técnica adequadas.
+Art. 4.º Se a extensão do âmbito de aplicação dos actos referidos no artigo 1.º aos Estados da EFTA Partes no Acordo e aos respectivos cidadãos e operadores económicos tornar necessária a definição de condições específicas de aplicação, serão estabelecidas, pelos membros do Governo competentes em razão da matéria, as medidas de regulamentação técnica adequadas.
 
-###### Art. 5.º O presente diploma reporta os seus efeitos à data de entrada em vigor do Acordo EEE.
+Art. 5.º O presente diploma reporta os seus efeitos à data de entrada em vigor do Acordo EEE.
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - José Manuel Durão Barroso.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 259/1992, 1º Suplemento, Série I-A de 1992-11-09
   number: '259'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5176-(2) a 5176-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/259a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/1992/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1992-676049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a6efd52ec268286d56a9b486b52c0391706ccff6d31ec1d5dec2db67e41b6de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 156295c6f39e9be4fd1ab06427981b13a8c5eae1228d1b9f38daf6b8f253c645
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,59 @@ reuse:
 subjects:
 - ALTO Comissário para o Projecto VIDA
 - Comissão Interministerial
-- Projecto VIDA
 - Conselho Nacional do Projecto VIDA
 - Delegação de Competências
 - Governo XII
-- Primeiro-ministro
 - Orgânica
+- Primeiro-ministro
+- Projecto VIDA
 relationships:
 - type: amended_by
   target: pt:dre:231535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262836:por
+  label: "Alterado o art. 3º, pelo DEC LEI.127/94.1994.05.19.PCM, DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1994-262836
+  date: '1994-05-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675257:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449956:por
+  label: "Rectificada a epígrafe pela DECL-RECT.205/92.31.12.1992.PCM, DR.IS-A [301]8ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/205-1992-449956
+  date: '1992-12-31'
+- type: repealed_by
+  target: pt:dre:231535:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 127/94, de 19-Maio, pelo DEC LEI.193/96.1996.10.15.PCM, DR.IS-A\
+    \ [239\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1996-231535
+  date: '1996-10-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:59Z'
   warnings: []
   errors: []
 ---
@@ -128,9 +156,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Programa Nacional de Combate à Droga, designado por «Projecto VIDA», aprovado pela [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril, com as alterações que lhe foram introduzidas pela [Resolução do Conselho de Ministros n.º 31/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-1991-675257), de 12 de Agosto, rege-se pelo presente diploma.
+Artigo 1.º O Programa Nacional de Combate à Droga, designado por «Projecto VIDA», aprovado pela [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril, com as alterações que lhe foram introduzidas pela [Resolução do Conselho de Ministros n.º 31/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-1991-675257), de 12 de Agosto, rege-se pelo presente diploma.
 
-###### Art. 2.º Na execução do Projecto VIDA intervêm as seguintes entidades:
+Art. 2.º Na execução do Projecto VIDA intervêm as seguintes entidades:
 
 a) A comissão interministerial;
 
@@ -138,7 +166,7 @@ b) O conselho nacional;
 
 c) O alto-comissário.
 
-###### Art. 3.º - 1 - A comissão interministerial funciona a nível político e a nível técnico.
+Art. 3.º - 1 - A comissão interministerial funciona a nível político e a nível técnico.
 
 2 - A nível político a comissão é presidida pelo Primeiro-Ministro e tem a seguinte composição:
 
@@ -160,29 +188,29 @@ g) O alto-comissário.
 
 4 - Cabe ao grupo técnico interministerial preparar a agenda de trabalhos da comissão interministerial e promover uma articulada execução, em cada departamento, das medidas adoptadas no âmbito do Projecto VIDA.
 
-###### Art. 4.º - 1 - O conselho nacional é um órgãos de consulta do Primeiro-Ministro.
+Art. 4.º - 1 - O conselho nacional é um órgãos de consulta do Primeiro-Ministro.
 
 2 - O conselho nacional é integrado pelas entidades a que se refere a [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril.
 
-###### Art. 5.º - 1 - A coordenação, supervisão, acompanhamento e avaliação das medidas a desenvolver no âmbito do Programa Nacional de Combate à Droga, designado por Projecto VIDA, são cometidas a um alto-comissário para o Projecto VIDA.
+Art. 5.º - 1 - A coordenação, supervisão, acompanhamento e avaliação das medidas a desenvolver no âmbito do Programa Nacional de Combate à Droga, designado por Projecto VIDA, são cometidas a um alto-comissário para o Projecto VIDA.
 
 2 - O alto-comissário para o Projecto VIDA é nomeado nos termos da [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril.
 
 3 - O alto-comissário promoverá a criação de um sistema coerente de recolha e tratamento de dados, aos mais diversos níveis de combate à droga.
 
-###### Art. 6.º - 1 - A acção do alto-comissário tem âmbito nacional.
+Art. 6.º - 1 - A acção do alto-comissário tem âmbito nacional.
 
 2 - Para o exercício das funções cometidas ao alto-comissário as entidades públicas devem prestar toda a colaboração necessária, facilitando as informações solicitadas e o acesso aos serviços e documentação.
 
-###### Art. 7.º O alto-comissário apresentará ao Primeiro-Ministro relatórios quadrimestrais sobre a execução das suas funções.
+Art. 7.º O alto-comissário apresentará ao Primeiro-Ministro relatórios quadrimestrais sobre a execução das suas funções.
 
-###### Art. 8.º - 1 - O alto-comissário autoriza as despesas nos termos do artigo 11.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, ou da competência que lhe seja delegada pelo Primeiro-Ministro.
+Art. 8.º - 1 - O alto-comissário autoriza as despesas nos termos do artigo 11.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, ou da competência que lhe seja delegada pelo Primeiro-Ministro.
 
 2 - A dotação orçamental do Projecto VIDA constará de verba inscrita no orçamento da Presidência do Conselho de Ministros.
 
-###### Art. 9.º As competências cometidas pelo presente diploma ao Primeiro-Ministro são delegáveis, com faculdade de subdelegação, nos termos da lei.
+Art. 9.º As competências cometidas pelo presente diploma ao Primeiro-Ministro são delegáveis, com faculdade de subdelegação, nos termos da lei.
 
-###### Art. 10.º - 1 - Mantêm-se em vigor as resoluções do Conselho de Ministros n.os [17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril, e [31/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-1991-675257), de 12 de Agosto, em tudo quanto não contrarie o disposto no presente diploma.
+Art. 10.º - 1 - Mantêm-se em vigor as resoluções do Conselho de Ministros n.os [17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril, e [31/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-1991-675257), de 12 de Agosto, em tudo quanto não contrarie o disposto no presente diploma.
 
 2 - A referência constante de acto normativo ou administrativo ao coordenador entendem-se feitas ao alto-comissário para o Projecto VIDA.
 
@@ -190,12 +218,12 @@ g) O alto-comissário.
 
 Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - José Manuel Cardoso Borges Soeiro - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - José Luís Campos Vieira de Castro - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 31 de Outubro de 1992.**
+Promulgado em 31 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1992.**
+Referendado em 4 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

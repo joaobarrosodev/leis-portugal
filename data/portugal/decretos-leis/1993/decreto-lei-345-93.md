@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/231a00/55455551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/345/1993/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1993-646300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d922c012be1db126ad284090ad7823c71c6b61ca026cd5adaf1b30c5f6c921e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4018fb48f13b7121cf6b28588688cbe5d32f16f2de87811977979002e12d5895
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Direção Geral da Saúde
 - Definição de Competências
+- Direção Geral da Saúde
 - Integração de Serviços
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -85,16 +85,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:180019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:398541:por
+  label: "Revogado pelo DEC LEI.122/97.1997.05.20.MS, DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1997-398541
+  date: '1997-05-20'
 article_structure:
   article_count: 35
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:12Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +240,9 @@ a) A Divisão de Educação para a Saúde;
 
 b) A Divisão de Epidemiologia e Bioestatística.
 
-###### Artigo 6.º — Divisão de Educação para a Saúde
+###### Artigo 6.º
+
+##### Divisão de Educação para a Saúde
 
 À Divisão de Educação para a Saúde compete:
 
@@ -209,7 +256,9 @@ d) Propor regras técnicas e programas de educação alimentar e proceder à sua
 
 e) Promover a educação para a saúde no que respeita ao controlo da sinistralidade, à prevenção do alcoolismo, do tabagismo, da toxicodependência e da sida.
 
-###### Artigo 7.º — Divisão de Epidemiologia e Bioestatística
+###### Artigo 7.º
+
+##### Divisão de Epidemiologia e Bioestatística
 
 À Divisão de Epidemiologia e Bioestatística compete:
 
@@ -239,7 +288,9 @@ e) A Divisão de Saúde das Doenças Genéticas, Crónicas e Geriátricas;
 
 f) A Divisão de Saúde das Doenças Transmissíveis.
 
-###### Artigo 9.º — Divisão de Saúde Ambiental
+###### Artigo 9.º
+
+##### Divisão de Saúde Ambiental
 
 À Divisão de Saúde Ambiental compete:
 
@@ -257,7 +308,9 @@ f) Propor regras técnicas e de intervenção em matéria de vigilância e redu�
 
 g) Propor regras técnicas e de intervenção em matéria de vigilância da actividade termal, qualificação das águas minerais e de nascente, vigilância das características bacteriológicas e químicas das águas consumíveis.
 
-###### Artigo 10.º — Divisão de Saúde Ocupacional
+###### Artigo 10.º
+
+##### Divisão de Saúde Ocupacional
 
 À Divisão de Saúde Ocupacional compete:
 
@@ -279,7 +332,9 @@ h) Colaborar com as demais entidades competentes no licenciamento das entidades 
 
 i) Propor regras, de acordo com a legislação em vigor, relativas a inspecções e condições médicas de aptidão para a condução de veículos automóveis.
 
-###### Artigo 11.º — Divisão de Saúde Materna, Infantil e dos Adolescentes
+###### Artigo 11.º
+
+##### Divisão de Saúde Materna, Infantil e dos Adolescentes
 
 À Divisão de Saúde Materna, Infantil e dos Adolescentes compete:
 
@@ -293,7 +348,9 @@ d) Propor regras técnicas e de intervenção dos serviços em matéria de saúd
 
 e) Propor regras técnicas e programas de saúde oral e promover a sua difusão.
 
-###### Artigo 12.º — Divisão de Saúde Escolar
+###### Artigo 12.º
+
+##### Divisão de Saúde Escolar
 
 À Divisão de Saúde Escolar compete:
 
@@ -311,7 +368,9 @@ f) Promover a cooperação com os serviços competentes em matéria de desportos
 
 g) Participar em comissões ou grupos de trabalho que tenham por objecto o campo de aplicação da saúde escolar.
 
-###### Artigo 13.º — Divisão de Saúde das Doenças Genéticas, Crónicas e Geriátricas
+###### Artigo 13.º
+
+##### Divisão de Saúde das Doenças Genéticas, Crónicas e Geriátricas
 
 À Divisão de Saúde das Doenças Genéticas, Crónicas e Geriátricas compete:
 
@@ -323,7 +382,9 @@ c) Proceder à análise dos factores que determinam o aparecimento de doenças g
 
 d) Propor regras técnicas relativas a doenças genéticas e crónicas de evolução prolongada.
 
-###### Artigo 14.º — Divisão de Saúde das Doenças Transmissíveis
+###### Artigo 14.º
+
+##### Divisão de Saúde das Doenças Transmissíveis
 
 À Divisão de Saúde das Doenças Transmissíveis compete:
 
@@ -349,7 +410,9 @@ c) A Divisão de Preparação Profissional e Investigação Aplicada;
 
 d) A Divisão de Métodos de Trabalho e Técnicas de Organização.
 
-###### Artigo 16.º — Divisão de Cuidados de Saúde
+###### Artigo 16.º
+
+##### Divisão de Cuidados de Saúde
 
 À Divisão de Cuidados de Saúde compete:
 
@@ -369,7 +432,9 @@ g) Orientar a criação de novas unidades orgânicas e modelos de organização 
 
 h) Orientar a introdução de novas tecnologias de diagnóstico e tratamento, bem como avaliar a eficácia e segurança dos equipamentos de saúde.
 
-###### Artigo 17.º — Divisão de Prestação de Cuidados de Saúde Inovadores
+###### Artigo 17.º
+
+##### Divisão de Prestação de Cuidados de Saúde Inovadores
 
 À Divisão de Prestação de Cuidados de Saúde Inovadores compete:
 
@@ -387,7 +452,9 @@ f) Promover a elaboração de acordos de cooperação na área dos cuidados de s
 
 g) Propor a introdução de novas tecnologias para prestação de cuidados, nas instituições e serviços integrados no SNS.
 
-###### Artigo 18.º — Divisão de Preparação Profissional e Investigação Aplicada
+###### Artigo 18.º
+
+##### Divisão de Preparação Profissional e Investigação Aplicada
 
 À Divisão de Preparação Profissional e Investigação Aplicada compete:
 
@@ -397,7 +464,9 @@ b) Promover o desenvolvimento da investigação aplicada nas instituições e se
 
 c) Promover o intercâmbio científico com serviços congéneres, nacionais ou estrangeiros.
 
-###### Artigo 19.º — Divisão de Métodos de Trabalho e Técnicas de Organização
+###### Artigo 19.º
+
+##### Divisão de Métodos de Trabalho e Técnicas de Organização
 
 À Divisão de Métodos de Trabalho e Técnicas de Organização compete:
 
@@ -435,7 +504,9 @@ b) A Divisão de Estudos e Modernização;
 
 c) A Divisão de Acreditação e Auditoria.
 
-###### Artigo 22.º — Divisão de Ética na Saúde
+###### Artigo 22.º
+
+##### Divisão de Ética na Saúde
 
 À Divisão de Ética na Saúde compete:
 
@@ -447,7 +518,9 @@ c) Fiscalizar a observância de um código de ética de boas práticas clínicas
 
 d) Propor e difundir orientações relativas ao consentimento livre e esclarecido e à confidencialidade dos cuidados e tratamentos prestados, bem como ao acesso aos processos clínicos dos doentes.
 
-###### Artigo 23.º — Divisão de Estudos e Modernização
+###### Artigo 23.º
+
+##### Divisão de Estudos e Modernização
 
 À Divisão de Estudos e Modernização compete:
 
@@ -459,7 +532,9 @@ c) Proceder ao estudo e avaliação de novas técnicas da qualidade;
 
 d) Promover a adequação técnica, científica e humana das instituições e serviços prestadores de cuidados de saúde.
 
-###### Artigo 24.º — Divisão de Acreditação e Auditoria
+###### Artigo 24.º
+
+##### Divisão de Acreditação e Auditoria
 
 À Divisão de Acreditação e Auditoria compete:
 
@@ -595,16 +670,16 @@ h) A [Portaria n.º 18752](https://diariodarepublica.pt/dr/detalhe/portaria/1875
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - José Martins Nunes - José Albino da Silva Peneda - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 29.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a00/55455551.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a00/55455551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a00/55455551.pdf)

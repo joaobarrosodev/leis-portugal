@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/1993/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1993-633541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1be3d55e6d5a9d5236cf05f84b73a258c826724e5c6e5aa7388b669cead0e19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f901d200be0dbc806a25a3d01d5afc350b36942010f102e481ac02588434db39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,41 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Cálculo de Pensões
+- Companhia de Seguros
 - Pensão de Invalidez
 - Pensões
 - Remição de Pensões
-- Companhia de Seguros
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:12Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 65.º — Capital
 
@@ -114,20 +134,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - No cálculo da provisão matemática para os efeitos do disposto no número anterior não serão, no caso de a pensão ser da responsabilidade de empresas de seguros, consideradas as alterações verificadas em pensões fixadas anteriormente a 1 de Outubro de 1979, em consequência da aplicação do artigo 50.º do presente diploma, na redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, nem tão-pouco a atribuição de prestações suplementares pagáveis no mês de Dezembro de cada ano.
 
-###### Art. 2.º O disposto no n.º 2 do artigo 50.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, é aplicável às pensões por incapacidade permanente igual ou superior a 30% ou por morte fixadas anteriormente a 1 de Outubro de 1979.
+Art. 2.º O disposto no n.º 2 do artigo 50.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, é aplicável às pensões por incapacidade permanente igual ou superior a 30% ou por morte fixadas anteriormente a 1 de Outubro de 1979.
 
-###### Art. 3.º Os beneficiários das pensões, devidas por incapacidade permanente ou por morte, decorrentes de acidentes de trabalho têm direito a que a entidade responsável pela pensão lhes pague, no mês de Dezembro de cada ano, uma prestação de valor igual ao montante do duodécimo da pensão anual a que nesse mês tiverem direito.
+Art. 3.º Os beneficiários das pensões, devidas por incapacidade permanente ou por morte, decorrentes de acidentes de trabalho têm direito a que a entidade responsável pela pensão lhes pague, no mês de Dezembro de cada ano, uma prestação de valor igual ao montante do duodécimo da pensão anual a que nesse mês tiverem direito.
 
-###### Art. 4.º Os valores correspondentes às alterações verificadas, por força do disposto no artigo 2.º, nas pensões fixadas anteriormente a 1 de Outubro de 1979, bem como os correspondentes à atribuição, nos termos do artigo 3.º, de uma prestação suplementar, não implicam, desde que sejam da responsabilidade das entidades seguradoras, a constituição das correspondentes provisões matemáticas.
+Art. 4.º Os valores correspondentes às alterações verificadas, por força do disposto no artigo 2.º, nas pensões fixadas anteriormente a 1 de Outubro de 1979, bem como os correspondentes à atribuição, nos termos do artigo 3.º, de uma prestação suplementar, não implicam, desde que sejam da responsabilidade das entidades seguradoras, a constituição das correspondentes provisões matemáticas.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

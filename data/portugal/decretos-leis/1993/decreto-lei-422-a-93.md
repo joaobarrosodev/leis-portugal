@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 303/1993, 2º Suplemento, Série I-A de 1993-12-30
   number: '303'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7240-(6) a 7240-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/422-a/1993/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-a-1993-347907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432f960880e26ae209936cc32ce07130741bff14485509107cd9082207de7a41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a389ba457161419ebea5b686e6f99868a9daea5c0e78bdc83a312e4398e4f4e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Capital Social
 - Cidadão Estrangeiro
 - Definição de Competências
+- Estágio de Formação
 - Estatuto dos Revisores Oficiais de Contas
 - Liquidação de Sociedades
 - Nacional das Comunidades
 - Orgânica
-- Estágio de Formação
 - Regime Jurídico
 - Revisor Oficial de Contas
 - Sociedade de Revisores Oficiais de Contas
@@ -83,6 +83,12 @@ relationships:
   target: pt:dre:684397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437227:por
+  label: "Prorrogado por mais três anos o período de tempo previsto no art. 160º do presente diploma, pelo DEC LEI.261/98.1998.08.18.MJ,\
+    \ DR.IA-A [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1998-437227
+  date: '1998-08-18'
 - type: cites
   target: celex:31984L0253
   label: null
@@ -91,16 +97,27 @@ relationships:
   target: celex:31989L0048
   label: null
   source: http://data.europa.eu/eli/dir/1989/48/oj
+- type: corrected_by
+  target: pt:dre:165066:por
+  label: "Rectificado o n.º 1 do artigo 63.º pela DECL-RECT.23/94.28.02.1994.PCM, DR.IS-A [49]2ºSupl de 28.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-1994-165066
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:684397:por
+  label: "Revogado, excepto o n.º 1 do art. 148.º que se manterá até à entrada em vigor do regulamento de inscrição e do exame,\
+    \ pelo DEC LEI.487/99.1999.11.16.MF DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/487-1999-684397
+  date: '1999-11-16'
 article_structure:
   article_count: 163
   section_count: 50
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:48Z'
   warnings: []
   errors: []
 ---
@@ -1719,7 +1736,7 @@ Na República Federal da Alemanha: wirstschaftsprufer
 
 Na França: commissaire aux comptes;
 
-Na Grécia: [([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf))](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)
+Na Grécia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)
 
 Na Irlanda: chartered accountant;
 
@@ -1855,20 +1872,20 @@ As situações existentes à data da entrada em vigor deste diploma que contrari
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Cardoso Borges Soeiro - António Fernando Couto dos Santos.
 
-**Promulgado em 9 de Dezembro de 1993.**
+Promulgado em 9 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1993.**
+Referendado em 13 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pontuação a que se refere o n.º 1 do artigo 67.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf))](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)
 
 ## ANEXO II — Tabela a que se refere o artigo 160.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf))](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)

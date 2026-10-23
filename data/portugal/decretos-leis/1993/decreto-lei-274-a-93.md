@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04
   number: '181'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4184-(2) a 4184-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/181a02/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/274-a/1993/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fb22678aafe467553748e75dd7d4daea2435fadfaa26289e9b35f1a4ecb2320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 716a4cdbb73a0979c0af66658b4f2e9263129d16e7403b52b7be8b6faba5bcc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuste Direto
-- Gás Natural
+- Combustível
 - Concurso Público
 - Contrato de Concessão
 - Distribuição de Gás
-- Combustível
 - Gás
+- Gás Natural
 - Importação
 - Serviço Público
 relationships:
@@ -81,6 +81,14 @@ relationships:
   target: pt:dre:683858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402091:por
+  label: "Alterados os arts. 1º, 2º, 10º, 11º e 18º, aditados os arts. 10º-A, 11º-A, 11º-B, 11º-C, 11º-D, 11º-E, 11º-F, 11º-G,\
+    \ 11º-H, 11º-I e 11º-J, os quais passam a constituir o cap. IV com a epígrafe \"Regime das licenças\", e revogados os\
+    \ arts. 12º, 13º e 14º do Dec Lei 374/89 de 25-Out, na redacção dada pelo presente diploma, pelo DEC LEI.8/2000.2000.02.08.MECO,DR.IS-A\
+    \ [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2000-402091
+  date: '2000-02-08'
 - type: cites
   target: celex:31977L0062
   label: null
@@ -97,16 +105,23 @@ relationships:
   target: celex:31990L0531
   label: null
   source: http://data.europa.eu/eli/dir/1990/531/oj
+- type: repealed_by
+  target: pt:dre:683858:por
+  label: "Revogado o Dec Lei 374/89 de 25-Out, com a redacção dada pelo presente diploma, pelo DEC LEI.30/2006.15.02.2006.MEI,\
+    \ DR.IS-A [33] de 15.02.2006, que lhe mantém, contudo, a vigência nas matérias que não forem incompatíveis com o citado\
+    \ Dec Lei 30/2006 até à entrada em vigor da respectiva legislação complementar.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2006-683858
+  date: '2006-02-15'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:37Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +148,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º, 6.º e 18.º do Decreto-Lei n.º 374/89, de 25 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º, 6.º e 18.º do Decreto-Lei n.º 374/89, de 25 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Âmbito
 
@@ -185,16 +200,16 @@ d) O regime jurídico da constituição de servidões relativas ao gás natural;
 
 e) A criação e a definição do regime jurídico de uma comissão com atribuições de regulamentação e de acompanhamento dos mercados do gás natural e das respectivas actividades.
 
-###### Art. 2.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Maio de 1993. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

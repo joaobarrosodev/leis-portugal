@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/280/1992/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1992-623039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5612d5c3a283787868edb27b3bd31fca71f66f482f348e4a2740cbfb95ffc872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e42c06744be5f339ad2b5e384d22a56ef82f6ad1b3027879bb3da4a56770318
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,15 +76,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1985/3632/oj
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:45Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +103,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aditados à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, os artigos 430.º-A e 430.º-B, com a seguinte redacção:
+Artigo 1.º São aditados à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, os artigos 430.º-A e 430.º-B, com a seguinte redacção:
 
-###### Art. 430.º-A - 1 - Os directores das alfândegas exigirão a todas as pessoas que exerçam a profissão de fazer declarações aduaneiras uma caução, de valor nunca inferior a 1000000$00, como obrigação prévia ao exercício dessa actividade, a efectuar na alfândega em cuja área de jurisdição se situe o respectivo domicílio fiscal.
+Art. 430.º-A - 1 - Os directores das alfândegas exigirão a todas as pessoas que exerçam a profissão de fazer declarações aduaneiras uma caução, de valor nunca inferior a 1000000$00, como obrigação prévia ao exercício dessa actividade, a efectuar na alfândega em cuja área de jurisdição se situe o respectivo domicílio fiscal.
 
 2 - A caução referida no número anterior, a prestar por depósito, fiança bancária ou seguro-caução, servirá de garantia, em primeiro lugar, ao Estado e aos restantes lesados, se os houver.
 
-###### Art. 430.º-B - Os substitutos das pessoas a quem tenha sido exigida uma caução como obrigação prévia, quer ao exercício de actividade de fazer declarações aduaneiras, quer à prática de qualquer modalidade específica dessa actividade, têm também de ser abrangidos pela aludida caução.
+Art. 430.º-B - Os substitutos das pessoas a quem tenha sido exigida uma caução como obrigação prévia, quer ao exercício de actividade de fazer declarações aduaneiras, quer à prática de qualquer modalidade específica dessa actividade, têm também de ser abrangidos pela aludida caução.
 
-###### Art. 2.º Os artigos 426.º, 439.º e 478.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 426.º, 439.º e 478.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 426.º ...
+Art. 426.º ...
 
 1.º ...
 
@@ -123,9 +123,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4.º Aos despachantes oficiais, em relação a todos os despachos.
 
-###### Art. 439.º É atribuição da Câmara dos Despachantes Oficiais determinar a forma, os requisitos e a organização da profissão de despachante oficial.
+Art. 439.º É atribuição da Câmara dos Despachantes Oficiais determinar a forma, os requisitos e a organização da profissão de despachante oficial.
 
-###### Art. 478.º ...
+Art. 478.º ...
 
 § 1.º ...
 
@@ -133,28 +133,28 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 § 3.º As cédulas serão cassadas a todos aqueles que entretanto deixem de preencher os requisitos que possibilitaram a sua emissão.
 
-###### Art. 3.º O artigo 2.º do Regulamento das Sociedades dos Despachantes Oficiais e seus Empregados, aprovado pelo artigo 9.º do Decreto-Lei n.º 513-F1/79, de 27 de Dezembro, e anexo a esse diploma, passa a ter a seguinte redacção:
+Art. 3.º O artigo 2.º do Regulamento das Sociedades dos Despachantes Oficiais e seus Empregados, aprovado pelo artigo 9.º do Decreto-Lei n.º 513-F1/79, de 27 de Dezembro, e anexo a esse diploma, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — Objecto social
 
 As sociedades constituídas ao abrigo deste diploma têm por objecto principal o exercício da actividade permitida a despachantes oficiais.
 
-###### Art. 4.º - 1 - São revogados os artigos 440.º a 457.º, o § único do artigo 458.º, os artigos 459.º, 460.º, 462.º a 468.º, o § único do artigo 469.º, o n.º 3 do artigo 470.º, o artigo 473.º, os §§ 1.º e 2.º do artigo 474.º, os artigos 477.º, 480.º, o n.º 2 do artigo 481.º, os artigos 486.º a 490.º e os artigos 521.º a 523.º, todos da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, bem como é eliminado o mapa XIII anexo a essa Reforma.
+Art. 4.º - 1 - São revogados os artigos 440.º a 457.º, o § único do artigo 458.º, os artigos 459.º, 460.º, 462.º a 468.º, o § único do artigo 469.º, o n.º 3 do artigo 470.º, o artigo 473.º, os §§ 1.º e 2.º do artigo 474.º, os artigos 477.º, 480.º, o n.º 2 do artigo 481.º, os artigos 486.º a 490.º e os artigos 521.º a 523.º, todos da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, bem como é eliminado o mapa XIII anexo a essa Reforma.
 
 2 - São revogados os artigos 1.º, 2.º e 4.º do Decreto-Lei n.º 513-F1/79, de 27 de Dezembro, e os n.os 1 e 8 do artigo 1.º e o artigo 8.º do Regulamento das Sociedades de Despachantes Oficiais e seus Empregados, aprovado pelo artigo 9.º do Decreto-Lei n.º 513-F1/79, de 27 de Dezembro, e anexo a esse diploma.
 
 3 - É também revogado o artigo 2.º do Decreto-Lei n.º 89/92, de 21 de Maio.
 
-###### Art. 5.º Os processos pendentes abrangidos pela legislação alterada ou revogada pelo presente diploma poderão prosseguir ao abrigo dessa legislação, caso os interessados manifestem expressamente essa vontade, no prazo de 30 dias a contar da entrada em vigor do presente diploma.
+Art. 5.º Os processos pendentes abrangidos pela legislação alterada ou revogada pelo presente diploma poderão prosseguir ao abrigo dessa legislação, caso os interessados manifestem expressamente essa vontade, no prazo de 30 dias a contar da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva. - Jorge Braga de Macedo.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/275/1992/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1992-616450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bacc04e07294f0edcb67730e31b037ba7aac6a5150d37cbb41204c6d1b895dd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d01149bf74cfad6fe7b3ed101d712c03b0eb395acaf3bd0784c3c0874c3d69ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Ferroviário
 - Definição de Competências
 - Gabinete do Nó Ferroviário de Lisboa
 - Orgânica
 - Remuneração
-relationships: []
+- Transporte Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418191:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:35Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +113,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 5.º, 6.º e 10.º do [Decreto-Lei n.º 315/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191), de 20 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º, 6.º e 10.º do [Decreto-Lei n.º 315/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191), de 20 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e três vogais.
+Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e três vogais.
 
 2 - ...
 
@@ -121,7 +129,7 @@ c) Um pela CP.
 
 4 - O mandato do vice-presidente e dos vogais é de três anos.
 
-###### Art. 6.º - 1 - Ao presidente cabe representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
+Art. 6.º - 1 - Ao presidente cabe representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
 
 2 - O presidente poderá delegar no vice-presidente, com carácter permanente ou ocasional, no todo ou em parte, quaisquer das suas atribuições e toda ou parte da sua competência própria ou delegada, respeitadas as restrições da lei geral em matéria de delegações.
 
@@ -133,7 +141,7 @@ c) Um pela CP.
 
 6 - (Anterior n.º 4.)
 
-###### Art. 10.º - 1 - O vice-presidente auferirá remuneração correspondente a 90% do vencimento base mensal do presidente do conselho directivo.
+Art. 10.º - 1 - O vice-presidente auferirá remuneração correspondente a 90% do vencimento base mensal do presidente do conselho directivo.
 
 2 - O cargo de vogal do conselho directivo é equiparado, para efeitos remuneratórios, ao cargo de director-geral.
 
@@ -141,12 +149,12 @@ c) Um pela CP.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

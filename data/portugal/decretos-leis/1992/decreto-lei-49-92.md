@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/082a00/16431644.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/1992/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1992-198547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c4c32b376288eb32d3477ea9c17dbd10a1dbd001df5326bfd1641e6bd0844bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 214cb18cdc047610fc7258660f8cd91088dfd48c2183de71bd5dffeebadb4ab2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Delegação de Competências
-- Secretaria Geral
 - GAI
 - Governo XII
 - Orgânica
 - Presidência do Conselho de Ministros
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:513177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409282:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300009:por
+  label: "Revogado pelo DEC LEI.147/93.1993.05.03.PCM, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1993-300009
+  date: '1993-05-03'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:31Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +112,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 14.º, 15.º e 19.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 14.º, 15.º e 19.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -227,7 +236,7 @@ b) ...
 
 Os lugares de secretário-geral e de secretário-geral-adjunto são providos nos termos da lei aplicável ao pessoal dirigente.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, o artigo 16.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, o artigo 16.º-A, com a seguinte redacção:
 
 ###### Artigo 16.º-A — Gabinete de Apoio à Imprensa
 
@@ -241,18 +250,18 @@ c) Proceder à organização, instrução, estudo e informação dos processos, 
 
 2 - O Gabinete de Apoio à Imprensa é dirigido por um director de serviços.
 
-###### Art. 3.º A Divisão de Informação, a que se refere o artigo 10.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, é integrada no Gabinete de Apoio à Imprensa.
+Art. 3.º A Divisão de Informação, a que se refere o artigo 10.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, é integrada no Gabinete de Apoio à Imprensa.
 
-###### Art. 4.º O quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros será aumentado do número de lugares necessários à prossecução das novas atribuições daquele serviço, mediante portaria, nos termos da lei geral.
+Art. 4.º O quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros será aumentado do número de lugares necessários à prossecução das novas atribuições daquele serviço, mediante portaria, nos termos da lei geral.
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - António Fernando Couto dos Santos - Jorge Braga de Macedo.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

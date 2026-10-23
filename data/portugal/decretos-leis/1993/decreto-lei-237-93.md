@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/1993/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1993-373471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b355ab55e9495c65084bbf37b571c6d295af32dbdfddc2eecfb0c574ca3c2d1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbadb9f494858a14598d619a626955602562b7a1be5760c3fee4d6ad23be02c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arbitragem
-- Ordem dos Advogados
-- SIDA
-- Saúde Pública
-- Medicamento
+- Doença Infecciosa
+- Estabelecimento Hospitalar
 - Importação
 - Indemnização
 - Jurisdição de Arbitragem
-- Doença Infecciosa
+- Medicamento
+- Ordem dos Advogados
 - Receita Médica
-- Estabelecimento Hospitalar
-relationships: []
+- Saúde Pública
+- SIDA
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 147/93, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-A, 204, 3 SUPL, DE 930831.\0\
+    30831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:47Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +112,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Estado pode celebrar convenções de arbitragem com cada um dos hemofílicos ou seus herdeiros legais que invoquem o direito a obter uma indemnização deste pelos danos causados pela ministração, em estabelecimentos de saúde pública, de medicamentos derivados do plasma humano, importados, eventualmente contaminados com o vírus da sida.
+Artigo 1.º - 1 - O Estado pode celebrar convenções de arbitragem com cada um dos hemofílicos ou seus herdeiros legais que invoquem o direito a obter uma indemnização deste pelos danos causados pela ministração, em estabelecimentos de saúde pública, de medicamentos derivados do plasma humano, importados, eventualmente contaminados com o vírus da sida.
 
 2 - Para os efeitos previstos no número anterior, o Estado é representado pelos Ministros das Finanças, da Justiça e da Saúde.
 
-###### Art. 2.º - 1 - A resolução do litígio que é objecto da convenção, bem como o apuramento de eventual indemnização, é confiada a um tribunal arbitral instalado no Centro de Arbitragem Voluntária da Ordem dos Advogados, cuja constituição obedece às regras estabelecidas no respectivo regulamento.
+Art. 2.º - 1 - A resolução do litígio que é objecto da convenção, bem como o apuramento de eventual indemnização, é confiada a um tribunal arbitral instalado no Centro de Arbitragem Voluntária da Ordem dos Advogados, cuja constituição obedece às regras estabelecidas no respectivo regulamento.
 
 2 - Na convenção de arbitragem devem os Ministros das Finanças, da Justiça e da Saúde designar o árbitro que representa o Estado, em vista à constituição do tribunal arbitral.
 
-###### Art. 3.º - 1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:
+Art. 3.º - 1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:
 
 a) A concessão de autorização aos árbitros para julgarem segundo a equidade, tendo em consideração, entre outros, os critérios da idade e da responsabilidade familiar;
 
@@ -129,7 +134,7 @@ e) A desistência do pedido, caso esteja pendente em tribunal judicial acção c
 
 2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que pretenda instaurar a acção no tribunal arbitral juntar certidão de sentença homologatória que incidiu sobre a desistência do pedido.
 
-###### Art. 4.º - 1 - Consideram-se estabelecidas as convenções de arbitragem, mediante simples declaração de adesão de um ou mais interessados em conjunto à proposta de convenção apresentada pelos Ministros das Finanças, da Justiça e da Saúde, desde que:
+Art. 4.º - 1 - Consideram-se estabelecidas as convenções de arbitragem, mediante simples declaração de adesão de um ou mais interessados em conjunto à proposta de convenção apresentada pelos Ministros das Finanças, da Justiça e da Saúde, desde que:
 
 a) A declaração seja subscrita por pessoa devidamente identificada, ou pelo seu legal representante, que invoque o direito à indemnização com fundamento nos danos causados pelos factos previstos no n.º 1 do artigo 1.º;
 
@@ -139,12 +144,12 @@ b) Na declaração se exprima a vontade de aderir a esta convenção e se indiqu
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Gomes de Carvalho.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

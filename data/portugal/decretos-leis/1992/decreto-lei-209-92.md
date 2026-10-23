@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/1992/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1992-233312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a6150cfb34484188d2ed63fe22efa1ea58b9a3291671b5a7e5755db41790c58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e17147e13beca3b64cff51514a5db1e8498344c76566cd77e40eaf4845055d3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,55 @@ relationships:
   target: pt:dre:423061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 44.º do Dec Lei 519-C1/79, de 29-Dez DR.IS [299]3ºSupl, na redacção dada pelo Dec Lei\
+    \ 87/89, de 23-Mar e pelo presente diploma, pela L.LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/11/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/11/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613933:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:302932:por
+  label: "Rectificado pela DECL-RECT.23/93.27.02.1993.SG-PCM, DR.IS-A [49]3º Supl.de 27.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-1993-302932
+  date: '1993-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:04Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +160,9 @@ Assim:
 
 No uso da autorização concedida pela [Lei n.º 11/92](https://diariodarepublica.pt/dr/detalhe/lei/11-1992-300395), de 15 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201 da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 6.º, 9.º, 16.º, 24.º, 26.º, 29.º, 31.º, 34.º, 35.º e 36.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1989-613933), de 23 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 6.º, 9.º, 16.º, 24.º, 26.º, 29.º, 31.º, 34.º, 35.º e 36.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1989-613933), de 23 de Março, passam a ter a seguinte redacção:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) ...
 
@@ -135,7 +170,7 @@ b) ...
 
 c) Os processos de resolução dos litígios emergentes de contratos individuais de trabalho celebrados entre entidades empregadoras e trabalhadores, instituindo mecanismos de conciliação, mediação e arbitragem.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 a) ...
 
@@ -151,9 +186,9 @@ f) ...
 
 2 - ...
 
-###### Art. 9.º Em caso de cessão, total ou parcial, de uma empresa ou estabelecimento, a entidade empregadora cessionária ficará obrigada a observar, até ao termo do respectivo prazo de vigência, e no mínimo de 12 meses, contados da cessão, o instrumento de regulamentação colectiva que vincula a entidade empregadora cedente, salvo se tiver sido substituído por outro.
+Art. 9.º Em caso de cessão, total ou parcial, de uma empresa ou estabelecimento, a entidade empregadora cessionária ficará obrigada a observar, até ao termo do respectivo prazo de vigência, e no mínimo de 12 meses, contados da cessão, o instrumento de regulamentação colectiva que vincula a entidade empregadora cedente, salvo se tiver sido substituído por outro.
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - ...
 
@@ -169,7 +204,7 @@ b) As partes outorgantes acordem na negociação simultânea da redução da dur
 
 6 - (Anterior n.º 5.)
 
-###### Art. 24.º - 1 - ...
+Art. 24.º - 1 - ...
 
 2 - ...
 
@@ -187,11 +222,11 @@ d) ...
 
 5 - (Anterior n.º 6.)
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - Os instrumentos referidos no número anterior são publicados no Boletim do Trabalho e Emprego nos 15 dias seguintes ao depósito.
 
-###### Art. 29.º - 1 - Ouvidas as associações sindicais e as associações ou entidades patronais interessadas, pode, por portaria do Ministro do Emprego e da Segurança Social, ser determinada a extensão, total ou parcial, das convenções colectivas ou decisões arbitrais a entidades patronais do mesmo sector económico e a trabalhadores da mesma profissão ou profissão análoga, desde que exerçam a sua actividade na área e no âmbito naquelas fixados e não estejam filiados nas mesmas associações.
+Art. 29.º - 1 - Ouvidas as associações sindicais e as associações ou entidades patronais interessadas, pode, por portaria do Ministro do Emprego e da Segurança Social, ser determinada a extensão, total ou parcial, das convenções colectivas ou decisões arbitrais a entidades patronais do mesmo sector económico e a trabalhadores da mesma profissão ou profissão análoga, desde que exerçam a sua actividade na área e no âmbito naquelas fixados e não estejam filiados nas mesmas associações.
 
 2 - Pode, por portaria do Ministro do Emprego e da Segurança Social, e sob sua iniciativa, ser determinada a extensão de convenções colectivas a empresas e a trabalhadores do sector económico e profissional regulado que exerçam a sua actividade em área diversa daquela em que a mesma convenção se aplica, quando não existam associações sindicais ou patronais e se verifique identidade ou semelhança económica e social.
 
@@ -205,13 +240,13 @@ d) ...
 
 7 - ...
 
-###### Art. 31.º - 1 - ...
+Art. 31.º - 1 - ...
 
 2 - A conciliação será efectuada pelos serviços de conciliação do Ministério do Emprego e da Segurança Social, assessorados, sempre que necessário, pelos serviços competentes do ministério responsável pelo sector de actividade, podendo traduzir-se na formulação de propostas que visem a solução do diferendo.
 
 3 - ...
 
-###### Art. 34.º - 1 - ...
+Art. 34.º - 1 - ...
 
 2 - ...
 
@@ -227,7 +262,7 @@ d) ...
 
 8 - ...
 
-###### Art. 35.º - 1 - Nos conflitos que resultem da celebração ou revisão de uma convenção colectiva de trabalho pode ser tornada obrigatória a realização de arbitragem quando, tendo-se frustrado a conciliação ou a mediação, as partes não acordem, no prazo de dois meses a contar do termo daqueles processos, em submeter o conflito a arbitragem voluntária.
+Art. 35.º - 1 - Nos conflitos que resultem da celebração ou revisão de uma convenção colectiva de trabalho pode ser tornada obrigatória a realização de arbitragem quando, tendo-se frustrado a conciliação ou a mediação, as partes não acordem, no prazo de dois meses a contar do termo daqueles processos, em submeter o conflito a arbitragem voluntária.
 
 2 - A arbitragem obrigatória pode, ainda, ser determinada por despacho do Ministro do Emprego e da Segurança Social, mediante requerimento de qualquer das partes ou recomendação do Conselho Económico e Social.
 
@@ -245,7 +280,7 @@ d) ...
 
 9 - O secretário-geral do Conselho Económico e Social notificará os representantes da parte trabalhadora e empregadora do Conselho Económico e Social do dia e hora do sorteio, realizando-se este à hora marcada na presença de todos os representantes, ou, na falta destes, uma hora depois com os que estiverem presentes.
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 2 - A elaboração dos estudos preparatórios da portaria cabe a uma comissão, constituída para o efeito por despacho do Ministro do Emprego e da Segurança Social.
 
@@ -253,7 +288,7 @@ d) ...
 
 4 - (Anterior n.º 6.)
 
-###### Art. 2.º São revogados:
+Art. 2.º São revogados:
 
 a) O n.º 3 do artigo 3.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro;
 
@@ -265,12 +300,12 @@ d) A Resolução do Conselho de Ministros n.º 163/80, de 9 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19382-1962-159695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce682f54e660732382581bcc9b790e771c224c43c2faec7f3d4c3966422cf293
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45a42de62eeed15db7c8bc56183eddb72ef2c87c213385560861eb392e3a5972
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173157:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:08Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Em harmonia com o disposto no artigo 8.º do [Decreto-Lei n.º 43861](https://di
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, fixar os quadros de secretários de finanças, aspirantes e escriturários de 2.ª classe das secções de finanças abaixo designadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/20400/11861188.pdf))](https://files.diariodarepublica.pt/1s/1962/09/20400/11861188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/20400/11861188.pdf)
 
 No número de lugares de escriturário de 2.ª classe estão incluídos os previstos para a futura substituição dos actuais informadores fiscais, pelo que o seu preenchimento só se verificará à medida que forem ocorrendo as vagas.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b04a69caf0da02c89a8137418cf3ad8ddee7019fb56c4fd431dae9eef86b5af5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bdb3fa34fc5cfe0fd61c4f54afeae7815b9bee84c9af1a03bae8f0c7f698369
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,71 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Exoneração
-- Pessoal Dirigente
+- Administração Local
+- Administração Regional
+- Carreira Profissional
 - Comissão de Serviço
 - Concurso
 - Estatuto
-- Carreira Profissional
+- Exoneração
+- Função Pública
 - Indemnização
 - Instituto Público
+- Pessoal Dirigente
 - Promoção Profissional
-- Administração Local
 - Remuneração
-- Administração Regional
 - Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:603476:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604437:por
+  label: "Alterado o art. 18º do Dec Lei 323/89, de 26-set, na redação do presente diploma, pelo DEC LEI.239/94.1994.09.22.MF,\
+    \ DR.IS-A [220]\00]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1994-604437
+  date: '1994-09-22'
+- type: amended_by
+  target: pt:dre:603476:por
+  label: "Mantido em vigor o disposto no art. 3.º, pela LEI.2/2004.15.01.2004.AR, DR.IS-A [12] de 15.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2004-603476
+  date: '2004-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391578:por
+  label: "Revogado, com excepção do art. 3º, pela LEI.49/99.1999.06.22.AR.DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-1999-391578
+  date: '1999-06-22'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:03Z'
   warnings: []
   errors: []
 ---
@@ -167,12 +199,12 @@ Os n.os 3 e 12 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepu
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

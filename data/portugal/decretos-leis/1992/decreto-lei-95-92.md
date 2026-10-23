@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/119a00/24682471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/1992/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf6adc0f41efce5374d88540a637680f754004c185d3dabdb8fe191e625ca452
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77ec30739a2b89ff58bb2fc39c5293dbb9fe5a81c5fd50000b01ad3609b229b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Direcção Geral do Emprego e Formação Profissional
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -82,16 +82,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:626431:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 86/92, DE 30 DE JUNHO, PUBLICADA NO DR.IS-A, 148, SUPL.\0 SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/86-1992-626431
+  date: '1992-06-30'
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: Revogado o presente diploma, a partir de 01.08.2011, rectificado pela Decl Rect 86/92, de 30-Jun, pelo DEC LEI.92/2011.27.07.2011.MTSSO,
+    DR.IIS [143] de 27.07.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 19
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:31Z'
   warnings: []
   errors: []
 ---
@@ -346,12 +365,12 @@ O presente diploma entra em vigor decorridos 60 dias após a data da sua publica
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

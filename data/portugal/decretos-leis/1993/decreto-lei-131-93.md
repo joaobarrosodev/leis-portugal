@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/094a00/19731974.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/1993/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1993-692655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da136491348d75e6ad90bed6fb4a8c851b7d300a2ef4507ea2147e5b445c0ef5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ea7594a6eaeabb3f3fcfc26499b2d19b5c975b29916b1cbf51a60dddda8fe29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,51 @@ relationships:
   target: pt:dre:176332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Prorrogado por um ano o prazo previsto no art. 1º, pelo DEC LEI.77/94.1994.03.09.MF, DR.IS-A [57]\07]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Prorrogado, por um ano, o prazo previsto no art. 1.º, pelo DEC LEI.45/95.1995.03.02.MF DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:468775:por
+  label: "Prorrogado, a título excepcional, por um ano, o prazo revisto no art. 1.º do presente diploma, pelo DEC LEI.50/96.1996.05.16.MF\
+    \ DR.IS-A [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1996-468775
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:527434:por
+  label: "Prorrogado por um ano o prazo previsto no art 1º pelo DEC LEI.66/97.1997.04.01.MF, DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1997-527434
+  date: '1997-04-01'
+- type: amended_by
+  target: pt:dre:176332:por
+  label: "Prorrogado excepcionalmente, por um ano, o prazo previsto no art. 1º do presente diploma, pelo DEC LEI.107/98.1998.04.24.MF,\
+    \ DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1998-176332
+  date: '1998-04-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/179/1992/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/179/1992/08/17/p/dre
+- type: cites
+  target: pt:dre:684396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:26Z'
   warnings: []
   errors: []
 ---
@@ -106,20 +137,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O prazo estabelecido no n.º 1 do artigo 5.º do [Decreto-Lei n.º 179/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1992-684396), de 17 de Agosto, é prorrogado por um ano.
+Artigo 1.º O prazo estabelecido no n.º 1 do artigo 5.º do [Decreto-Lei n.º 179/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1992-684396), de 17 de Agosto, é prorrogado por um ano.
 
-###### Art. 2.º Por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo poderão ser revistas as tabelas salariais, estabelecidas, tendo em conta o custo de vida local, na respectiva moeda, relativas ao ano de 1992, dos funcionários e agentes do Instituto de Promoção Turística que prestavam serviço nos centros de turismo de Portugal e nas demais representações daquele organismo no estrangeiro.
+Art. 2.º Por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo poderão ser revistas as tabelas salariais, estabelecidas, tendo em conta o custo de vida local, na respectiva moeda, relativas ao ano de 1992, dos funcionários e agentes do Instituto de Promoção Turística que prestavam serviço nos centros de turismo de Portugal e nas demais representações daquele organismo no estrangeiro.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da cessação do prazo estabelecido no n.º 1 do artigo 5.º do [Decreto-Lei n.º 179/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1992-684396), de 17 de Agosto.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da cessação do prazo estabelecido no n.º 1 do artigo 5.º do [Decreto-Lei n.º 179/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1992-684396), de 17 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

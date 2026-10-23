@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19922-1963-693228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 127be4b9320381ab793b4933bf73d8eebc2bce2d134fdf8c4f307a809a5b22e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01ac9e887567f023e37a60bc3517b1733878527c8e7b2c3debdb5f80a70b8091
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- CABO Verde.Colónia Portuguesa
+- Despesas Públicas
+- Gestão Orçamental
+- Moçambique.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+- São Tomé e Príncipe.Colónia Portuguesa
+- Timor.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:41Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +113,7 @@ a) Um de 160000$00 destinado a reforçar com as importâncias que se indicam as 
 
 ### CAPÍTULO 12.º — Despesa extraordinária
 
-###### Artigo 280.º, n.º 1), «Outras despesas extraordinárias - Do saldo das contas de exercícios findos»:
+Artigo 280.º, n.º 1), «Outras despesas extraordinárias - Do saldo das contas de exercícios findos»:
 
 Alínea d) «Campanha contra a tuberculose» ... 30000$00
 
@@ -107,15 +129,15 @@ b) Um de 2014600$00 destinado a reforçar a verba do capítulo 12.º, artigo 233
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
-###### Artigo 205.º, n.º 1) «Serviços de obras públicas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 37000$00
+Artigo 205.º, n.º 1) «Serviços de obras públicas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 37000$00
 
-###### Artigo 226.º, n.º 1) «Serviços de economia - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 69000$00
+Artigo 226.º, n.º 1) «Serviços de economia - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 69000$00
 
-###### Artigo 266.º, n.º 1) «Junta Provincial de Povoamento - Despesas com o pessoal - Remunerarações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
+Artigo 266.º, n.º 1) «Junta Provincial de Povoamento - Despesas com o pessoal - Remunerarações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 299.º «Saldo orçamental» ... 44000$00
+Artigo 299.º «Saldo orçamental» ... 44000$00
 
 ... 20000000
 

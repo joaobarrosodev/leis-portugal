@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca50e8b6389229b84544d8f5641d6ec879989bdc31b6d1c400f21803fc312f00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91ce5d57d0d425034ade3cacfbaa0293cef62d60f6ed958155ebb289081a4477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,321 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Fiscalização Rodoviária
 - Ilícito de MERA Ordenação Social
-- Veículo
 - Limite de Velocidade
-- Segurança Rodoviária
+- Multa
 - Responsabilidade Civil Automóvel
+- Segurança Rodoviária
 - Sinalização
 - Taxa de Alcoolemia
 - Trânsito
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:910517153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168056:por
+  label: "Alterado o n.º 6 do artigo 125.º, o n.º 2 do artigo 128.º, a alínea e) do n.º 1 e o n.º 5 do artigo 130.º do Código,\
+    \ pelo DEC LEI.214/96.20.11.1996.MAI, DR.IS-A [269] de 20.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1996-168056
+  date: '1996-11-20'
+- type: amended_by
+  target: pt:dre:223835:por
+  label: "Alterada a redacção dos arts. 4º e 6º, mantendo em vigor a regulamentação aprovada para execução deste último, e\
+    \ alterada a redacção das secções I e III do cap. I e das secções II e III do cap. III do tít. VI do Código aprovado por\
+    \ aquele diploma, e republicado na integra pelo DEC LEI.2/98.1998.01.03.MAI DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1998-223835
+  date: '1998-01-03'
+- type: amended_by
+  target: pt:dre:342616:por
+  label: "Alterados os arts. 1º, 27º, 81º, 84º, 85º, 104º, 116º, 117º, 118º, 130º, 140º, 142º, 146º, 151º, 152º, 153º, 155º,\
+    \ 156º, 158º, 159º, 160º, 162º, 164º, 168º, 169º, 170º, e 172º e as epígrafes das secções II e V do cap. III, bem como\
+    \ revogado o art. 171º do Código da Estrada, com a redacção dada pelo Dec Lei 2/98 de 03-Jan, pelo DEC LEI.162/2001.2001.05.22.MAI\
+    \ DR.IS-A [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2001-342616
+  date: '2001-05-22'
+- type: amended_by
+  target: pt:dre:245683:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 5º, 6º, 8º, 9º, 10º, 11º, 12º, 13º, 14º, 15º, 16º, 17º, 18º, 19º, 20º, 21º, 22º,\
+    \ 24º, 25º, 26º, 27º, 28º, 29º, 30º, 31º, 32º, 33º, 34º, 35º, 36º, 37º, 38º, 39º, 40º, 41º, 43º, 44º, 45º, 46º, 47º, 48º,\
+    \ 19º, 50º, 52º, 53º, 54º, 55º, 56º, 57º, 58º, 59º, 60º, 61º, 62º, 63º, 64º, 65º, 67º, 68º 69º, 70º, 71º, 72º, 73º, 74º,\
+    \ 76º, 77º, 78º, 79º, 80º, 81º, 82º, 84º, 85º, 86º, 87º, 88º, 89º, 90º, 91º, 92º, 94º, 97º, 99º, 100º, 101º, 102º, 103º,\
+    \ 104º, 105º, 106º, 107º, 110º, 114º, 115º, 116º, 117º, 118º, 119º, 122º, 123º, 124º, 125º, 126º, 127º, 128º, 129º, 130º,\
+    \ 131º, 134º, 140º, 142º, 143º, 144º, 146º, 147º, 148º, 149º, 151º, 152º, 153º, 154º, 155º, 156º, 157º, 158º, 159º, 160º,\
+    \ 161º, 162º, 163º, 164º, 165º, 166º, 167º, 168º, 169º, 170º, 171º, 172º, 173º, 174º, e 175º, a epigrafe da secção III\
+    \ do cap.II e as epígrafes das secções II,III,IV, e V do cap.III, pertencentes todas ao título VI, e revogados o nº 2\
+    \ do art. 5º e os arts. 176º e 177º do presente diploma, pelo DEC LEI.265-A/2001.2001.09.28.MAIDR.IS-A [226]Supl e republicado\
+    \ na integra com as citadas alterações \0es \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-a-2001-245683
+  date: '2001-09-28'
+- type: amended_by
+  target: pt:dre:584795:por
+  label: "Suspensa por um período de 10 meses a aplicação do disposto nº 2 e na al .a) do nº 5 do art. 81º do Código LEI.1/2002.2002.01.02.AR,\
+    \ DR.IS-A [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-2002-584795
+  date: '2002-01-02'
+- type: amended_by
+  target: pt:dre:172174:por
+  label: "Alterado o art. 81º pela LEI.20/2002.2002.08.21.AR DR.IS-A [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2002-172174
+  date: '2002-08-21'
+- type: amended_by
+  target: pt:dre:608743:por
+  label: "Introduzidas as seguintes alterações ao presente diploma e ao Código por ele aprovado pelo Dec Lei 44/2005 de 23-Fev\
+    \ DR.IS-A [38]: -Revogados os arts. 2º a 7º do presente diploma; e alterado o Código da Estrada aprovado pelo mesmo diploma,\
+    \ revisto e republicado pelos Dec Lei 2/98 de 03-Jan, e 265-A/2001 de 28-Set, e alterado pela Lei 20/2002 de 21-Ago, como\
+    \ seguidamente se descreve, procedendo à sua republicação na íntegra com as referidas alterações e as decorrentes do supra\
+    \ referido Dec Lei 44/2005: -alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 10.º, 11.º, 13.º, 14.º, 16.º, 17.º,\
+    \ 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 31.º, 32.º, 34.º, 35.º, 36.º, 39.º, 41.º, 42.º, 48.º, 49.º,\
+    \ 50.º, 53.º, 54.º, 55.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º, 70.º, 71.º, 72.º, 73.º, 77.º,\
+    \ 78.º, 79.º, 81.º, 82.º, 84.º, 85.º, 87.º, 88.º, 89.º, 90.º, 91.º, 92.º, 93.º, 94.º, 95.º, 96.º, 97.º, 99.º, 100.º, 101.º,\
+    \ 102.º, 103.º, 104.º, 106.º, 107.º, 108.º, 109.º, 110.º, 112.º, 113.º, 114.º, 115.º, 116.º, 117.º, 118.º, 119.º, 120.º,\
+    \ 121.º, 122.º, 123.º, 124.º, 125.º, 126.º, 127.º, 129.º, 130.º, 131.º, 132.º, 133.º, 134.º, 135.º, 136.º, 137.º, 138.º,\
+    \ 139.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º, 147.º, 148.º, 149.º, 150.º, 151.º, 152.º, 153.º, 154.º, 155.º,\
+    \ 156.º, 157.º, 158.º, 159.º, 160.º, 161.º, 162.º, 163.º, 164.º, 165.º, 166.º, 167.º, 168.º, 169.º, 170.º, 171.º, 172.º,\
+    \ 173.º, 174.º e 175.º; bem como alteradas as epígrafes dos cap. I, II e III do tít. VI, a epígrafe da sec. IX do cap.\
+    \ I do tít. II que passa a ter a seguinte redacção «Serviço de urgência e transportes especiais»; o tít. V, com a epígrafe\
+    \ «Da habilitação legal para conduzir», é dividido em quatro cap., com as seguintes epígrafes: «Capítulo I - Títulos de\
+    \ condução», «Capítulo II - Requisitos», «Capítulo III - Troca de título» e «Capítulo IV - Novos exames e caducidade»;\
+    \ -eliminadas as sec. do tít. VI; e -Aditados os arts. 176º a 189º ao referido Código e um tít. VII, com a epígrafe «Procedimentos\
+    \ de fiscalização», que comporta três cap. com as seguintes epígrafes: «Capítulo I - Procedimento para a fiscalização\
+    \ da condução sob influência de álcool ou de substâncias psicotrópicas», «Capítulo II - Apreensões» e «Capítulo III -\
+    \ Abandono, bloqueamento e remoção de veículos», e um tít. VIII, com a epígrafe «Do processo», que comporta cinco cap.\
+    \ com as seguintes epígrafes: «Capítulo I - Competência», «Capítulo II - Processamento», «Capítulo III - Da decisão»,\
+    \ «Capítulo IV - Do recurso» e «Capítulo V - Da prescrição». \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2005-608743
+  date: '2005-02-23'
+- type: amended_by
+  target: pt:dre:456273:por
+  label: "Alterados os art.s 131º, 148º (ambos na redacção do Dec Lei 44/2005, de 23-Fev, e do Dec Lei 265-A/2001, de 28-Set),\
+    \ 169º (na redacção do Dec Lei 44/2005, de 23-Fev, do Dec Lei 265-A/2001, de 28-Set, e do Dec Lei 162/2001, de 22-Maio),\
+    \ 173º e 177º (ambos na redacção do Dec Lei 44/2005, de 23-Fev, e do Dec Lei 265-A/2001, de 28-Set) bem como a designação\
+    \ do capítulo i do título viii e aditado um art. 169º-A ao Código da Estrada, aprovado pelo presente diploma - republicado\
+    \ pelos Dec Lei 44/2005, de 23-Fev, Dec Lei 265-A/2001, de 28-Set, e Dec Lei 2/98, de 03-Jan -, pelo DEC LEI.113/2008.01.07.2008.MAI,\
+    \ DR.IS [125] de 01.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2008-456273
+  date: '2008-07-01'
+- type: amended_by
+  target: pt:dre:608003:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do nº4 do art. 175º do Código\
+    \ da Estrada, aprovado pelo presente diploma, alterado pelo Dec Lei 44/2005, de 23-Fev, interpretada num determinado sentido,\
+    \ pelo AC.135/2009.04.05.2009.TCS, DR.IS [85] de 04.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/135-2009-608003
+  date: '2009-05-04'
+- type: amended_by
+  target: pt:dre:608696:por
+  label: "Alterados os arts. 117.º, 118.º (ambos na redacção dos Dec Lei 162/2001, de 22-Mai, 265-A/2001 de 28-Set e 44/2005\
+    \ de 23-Fev), 119.º, 161.º (ambos na redacção dos Dec Lei 162/2001, de 22-Mai, 265-A/2001 de 28-Set e 44/2005 de 23-Fev,\
+    \ o último na redacção do Dec Lei 2/98 de 03-Jan), e 162.º (na redacção dos Dec Lei 2/98 de 03-Jan,165/2001, de 22-Mai,\
+    \ 265-A/2001 de 28-Set e 44/2005 de 23-Fev), todos do Código da Estrada, aprovado pelo presente diploma, republicado pelos\
+    \ Dec Lei 2/98 de 03-Jan, 265-A/2001 de 28-Set e 44/2005 de 23-Fev, pelo DEC LEI.113/2009.18.05.2009.MOPTC, DR.IS [95]\
+    \ de 18.05.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2009-608696
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:494562:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade - por violação do disposto na al. c) do nº 1 do\
+    \ art. 165º da CRP - da norma constante do nº 2 do art. 138º do Código da Estrada aprovado neste diploma, com a redacção\
+    \ conferida no Dec Lei 44/2005 de 23-Jan, pelo AC.187/2009.17.06.2009.TCS, DR.IS [115] de 17.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/187-2009-494562
+  date: '2009-06-17'
+- type: amended_by
+  target: pt:dre:493497:por
+  label: "Alterado o art. 123º do Código da Estrada, na redacção do Dec Lei 265-A/2001, de 28-Set, e Dec Lei 44/2005, de 23-Fev,\
+    \ - que o republica-, pela LEI.78/2009.13.08.2009.AR, DR.IS [156] de 13.08.2009 [que dispõe que o nº 10 daquele artigo\
+    \ produz efeitos nos termos do nº 2 do seu art. 3º]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/78-2009-493497
+  date: '2009-08-13'
+- type: amended_by
+  target: pt:dre:344242:por
+  label: "Alterados os arts. 117.º e 118.º (ambos na redacção do Dec Lei 162/2001, de 22-Maio, do Dec Lei 265-A/2001, de 28-Set,\
+    \ do Dec Lei 44/2005, de 23-Fev e do Dec Lei 113/2009, de 18-Maio), 119.º (na redacção do Dec Lei 265-A/2001, de 28-Set,\
+    \ do Dec Lei 44/2005, de 23-Fev e do Dec Lei 113/2009, de 18-Maio), 161.º e 162.º (ambos na redacção do Dec Lei 2/98,\
+    \ de 03-Jan, do Dec Lei 162/2001, de 22-Maio, do Dec Lei 265-A/2001, de 28-Set, do Dec Lei 44/2005, de 23-Fev e do Dec\
+    \ Lei 113/2009, de 18-Maio) e revogado o n.º 9 do art. 118.º e a al. i) do n.º 1 e o n.º 7 do art 161.º do Código da Estrada,\
+    \ aprovado pelo presente diploma, pela LEI.46/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2010-344242
+  date: '2010-09-07'
+- type: amended_by
+  target: pt:dre:670029:por
+  label: "Aditado o art.119.º-A ao Código da Estrada, aprovado pelo presente diploma, pelo DEC LEI.82/2011.20.06.2011.MOPTC,\
+    \ DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2011-670029
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:146063:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do artigo 153.º, n.º 6, do Código\
+    \ da Estrada, aprovado pelo presente diploma, na redacção do Dec Lei n.º 44/2005, de 23-Fev, na parte em que a contraprova\
+    \ respeita a crime de condução em estado de embriaguez e seja consubstanciada em exame de pesquisa de álcool no ar expirado,\
+    \ pelo AC.485/2011.29.11.2011.TCS, DR.IS [229] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/485-2011-146063
+  date: '2011-11-29'
+- type: amended_by
+  target: pt:dre:178550:por
+  label: "Alterados, a partir de 02.11.2012, os art.s 64º, 91º (ambos na redação do Dec Lei 265-A/2001, de 28-set, e Dec Lei\
+    \ 44/2005, de 23-fev), 112º, 121º (ambos na redação do Dec Lei 44/2005, de 23-fev), 122º (na redação do Dec Lei 265-A/2001,\
+    \ de 28-set, e Dec Lei 44/2005, de 23-fev), 123º (na redação do Dec Lei 265-A/2001, de 28-set, Dec Lei 44/2005, de 23-fev,\
+    \ e Lei 78/2009, de 13-ago), 124º (na redação do Dec Lei 265-A/2001, de 28-set, e Dec Lei 44/2005, de 23-fev), 125º (na\
+    \ redação do Dec Lei 214/96, de 20-nov, Dec Lei 265-A/2001, de 28-set, e Dec Lei 44/2005, de 23-fev), 126º, 127º (ambos\
+    \ na redação do Dec Lei 265-A/2001, de 28-set, e Dec Lei 44/2005, de 23-fev), 128º (na redação do Dec Lei 214/96, de 20-nov,\
+    \ e Dec Lei 265-A/2001, de 28-set), 129º (na redação do Dec Lei 265-A/2001, de 28-set, e Dec Lei 44/2005, de 23-fev) e\
+    \ 130º (na redação do Dec Lei 214/96, de 20-nov, Dec Lei 162/2001, de 22-maio, Dec Lei 265-A/2001, de 28-set, e Dec Lei\
+    \ 44/2005, de 23-fev) e revogados os nºs 6 a 14 do art. 122º, nºs 5 a 14 do art. 123º, nºs 3 a 7 do art. 124º, nºs 6 e\
+    \ 7 do art. 125º, nºs 5 e 6 do art. 127º e nº 6 do art. 129º do Código, pelo DEC LEI.138/2012.05.07.2012.MEE, DR.IS [129]\
+    \ de 05.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
+- type: amended_by
+  target: pt:dre:499526:por
+  label: "Dada nova redação, a partir de 01.01.2014, aos arts. 1.º (alterado pelos Dec Lei 162/2001 de 22-mai, 265-A/2001\
+    \ de 28-set e 44/2005 de 23-fev), 3.º (alterado pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 5.º (alterado\
+    \ pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 7.º (alterado pelo Dec Lei 44/20905 de 23-fev), 8.º (alterado\
+    \ pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 11.º, 13.º, 14.º, 17.º (os quatro alterados pelos Dec Lei 265-A/2001\
+    \ de 28-set e 44/2005 de 23-fev), 18.º (alterado pelo Dec Lei 265-A/2001 de 28-set), 24.º, 25.º (os dois alterados pelos\
+    \ Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 27º (alterado pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set\
+    \ e 44/2005 de 23-fev), 28º (alterado pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 32.º (alterado pelo Dec\
+    \ Lei 265-A/2001 e 44/2005 de 23-fev), 38.º, 40.º (os dois alterados pelo Dec Lei 265-A/2001 de 28-set), 41.º (alterado\
+    \ pelo Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 42.º (alterado pelo Dec Lei 44/2005 de 23-fev), 55.º , 56.º,\
+    \ 61.º, 62.º (os quatro alterados pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 64º (alterado pelos 265-A/2001\
+    \ de 28-set, 44/2005 de 23-fev e 138/2012 de 05-jul), 77.º, 78.º (os dois alterados pelos Dec Lei 265-A/2001 de 28-set\
+    \ e 44/2005 de 23-fev), 81.º (alterado pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set, pela Lei 20/2002 de 21-ago\
+    \ e pelo Dec Lei 44/2005 de 23-fev), 82.º (alterado pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 84.º, 85.º\
+    \ (os dois alterados pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set e 44/2005 de 23-fev), 88.º, 90.º (os dois\
+    \ alterados pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 91º (alterado pelos Dec Lei 265-A/2001 de 28-set,\
+    \ 44/2005 de 23-fev e 138/2012 de 05-jul), 93.º (alterado pelo Dec Lei 44/2005 de 23-fev), 101.º, 103.º (os dois alterados\
+    \ pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 104.º (alterado pelos Dec Lei 162/2001 de 22-mai, 265-A/2001\
+    \ de 28-set e 44/2005 de 23-fev ), 110.º (alterado pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev), 113.º (alterado\
+    \ pelo Dec Lei 44/2005 de 23-fev), 119.º (alterado pelos Dec Lei 265-A/2001 de 28-set, 44/2005 de 23-fev e 113/2009 de\
+    \ 18-mai, e pela Lei 46/2010 de 07-set), 119.º-A (aditado pelo Dec lei 82/2011 de 20-jun), 135.º (alterado pelo Dec Lei\
+    \ 44/2005 de 23-fev), 138.º (alterado pelo Dec Lei 44/2005 de 23-fev e declarado inconstitucional, com força obrigatória\
+    \ geral, pelo AC 187/2009 de 17-jun), 145.º (alterado pelo Dec Lei 44/2005 de 23-fev), 146.º (alterado pelo Dec Lei 162/2001\
+    \ de 22-mai, 265-A/2001 de 28-set e 44/2005 de 23-fev), 153.º (alterado pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de\
+    \ 28-set e 44/2005 de 23-fev, e declarado inconstitucional, com força obrigatória geral, pelo AC 485/2011 de 29-nov),\
+    \ 156.º, 164º (os dois alterados pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set e 44/2005 de 23-fev), 169.º (alterado\
+    \ pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set, 44/2005 de 23-fev e 113/2008 de 01-jul), 170.º (alterado pelos\
+    \ Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set e 44/2005 de 23-fev), 171.º (alterado pelos Dec Lei 265-A/2001 de 28-set\
+    \ e 44/2005 de 23-fev), 172.º (alterado pelos Dec Lei 162/2001 de 22-mai, 265-A/2001 de 28-set e 44/2005 de 23-fev), 173.º\
+    \ (alterado pelos Dec Lei 265-A/2001 de 28-set, 44/2005 de 23-fev e 113/2008 de 01-jul), 174.º (alterado pelos Dec Lei\
+    \ 265-A/2001 de 28-set e 44/2005 de 23-fev), 175.º (alterado pelos Dec Lei 265-A/2001 de 28-set e 44/2005 de 23-fev, e\
+    \ declarado inconstitucional, com força obrigatória geral, pelo AC 135/2009 de 04-mai), 176.º, 182.º, 184.º, 185.º, 187.º,\
+    \ 188.º e 189.º (todos aditados pelo Dec Lei 44/2005 de 28-set); aditados, a partir de 01.01.2014, os arts.14.º-A, 78.º-A,\
+    \ 171.º-A, 185.º-A e 187.º-A; alterada, a partir de 01.01.2104, a sistemática relativa ao cap. III do tit. VII, que passa\
+    \ a ser composto pelos arts. 181.º a 185º-A, e ao cap. IV do tit. VII, que passa a ser composto pelos arts. 186.º a 187.º-A;\
+    \ e revogados, a partir de 01.01.2014, os nºs 1 e 3 do art. 14.º, os nºs 4 e 7 do art. 28.º, o n.º 1 do art. 93.º, o n.º\
+    \ 3 do art. 119.º, a al. e) do n.º 1 do art. 171.º, o n.º 5 do art. 172.º, a al. b) do n.º 6 do art. 176.º, e o n.º 2\
+    \ do art. 187.º , todos do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai DR.IS-A [102] e republicado pelo\
+    \ referido Dec Lei 44/2005 de 23-Fev, pela LEI.72/2013.03.09.2013.AR, DR.IS [169] de 03.09.2013, que o republicou com\
+    \ as alterações aprovadas e demais correções materiais. \0orreções materiais. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
+  date: '2013-09-03'
+- type: amended_by
+  target: pt:dre:70133808:por
+  label: Alterados, a partir de 01.06.2016, os arts. 5.º, 13.º, 77.º, 78.º-A, 139.º, 141.º, 145.º, 148.º, 149.º, 171.º-A,
+    173.º, 175.º, 180.º, 185.º-A e 189.º; aditado, a partir da referida data, o art. 121.º-A; e revogados, a partir da mesma
+    data, a al. a) do n.º 3 e o n.º 6 do art. 141.º do Código da Estrada, aprovado pelo presente diploma, com a última republicação
+    efetuada pela Lei 72/2013 de 03-set, pelo(a) Lei n.º 116/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/116-2015-70133808
+  date: '2015-08-28'
+- type: amended_by
+  target: pt:dre:75060359:por
+  label: Alterados os arts. 125.º, 128.º e 130.º do Código da Estrada aprovado pelo presente diploma, na versão republicada
+    do Código pela Lei 72/2013 de 03-set, pelo(a) Decreto-Lei n.º 40/2016 - Diário da República n.º 145/2016, Série I de 2016-07-29
+    nos termos dos seus arts. 7.º e 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2016-75060359
+  date: '2016-07-29'
+- type: amended_by
+  target: pt:dre:107648315:por
+  label: Alterado o art. 145.º (na redação da Lei 116/2015 de 28-ago) do Código da Estrada aprovado pelo presente diploma,
+    na versão republicada do Código pela Lei 72/2013 de 03-set, pelo(a) Lei n.º 47/2017 - Diário da República n.º 130/2017,
+    Série I de 2017-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-2017-107648315
+  date: '2017-07-07'
+- type: amended_by
+  target: pt:dre:114315241:por
+  label: Alterado o art. 135.º e revogada a al. f) do n.º 1 do art. 125.º do Código, na versão revista e republicada pela
+    Lei 72/2013, de 03-set pelo(a) Decreto-Lei n.º 151/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2017-114315241
+  date: '2017-12-07'
+- type: amended_by
+  target: pt:dre:117142873:por
+  label: Alterados, com efeitos a 01.01.2019, os arts. 169.º e 185.º-A ( este último na redação da Lei 116/2015, de 28-ago)
+    do Código da Estrada, na versão revista e republicada pela Lei 72/2013, de 03-set, pelo(a) Decreto-Lei n.º 107/2018 -
+    Diário da República n.º 230/2018, Série I de 2018-11-29, nos termos do disposto nos nºs. 1 e 2 do seu art. 12.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2018-117142873
+  date: '2018-11-29'
+- type: amended_by
+  target: pt:dre:128071719:por
+  label: Alterado o art. 128.º (na redação do Dec Lei 40/2016 de 29-jul) do Código da Estrada aprovado pelo presente diploma,
+    na versão republicada do Código pela Lei 72/2013 de 03-set, pelo(a) Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020,
+    Série I de 2020-01-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2020-128071719
+  date: '2020-01-14'
+- type: amended_by
+  target: pt:dre:150757538:por
+  label: Alterados, com efeitos a 08.01.2021, os arts. 22.º, 23.º, 55.º, 81.º, 82.º, 84.º, 85.º, 89.º, 107.º, 112.º, 119.º,
+    121.º, 122.º, 123.º, 125.º, 128.º( este último produz efeitos a 08.04.2021) 129.º, 130.º, 139.º, 145.º, 146.º, 148.º,
+    169.º, 169.º-A, 171.º-A, 173.º, 176.º e 183.º, aditados os arts. 50.º-A e 149.º-A, revogados o n.º 5 do art. 82.º, o n.º
+    5 do art. 121.º, o n.º 4 do art. 123.º, o art. 124.º, as als. a) e b) do n.º 7 do art. 128.º, a al. a) do n.º 3 e o n.º
+    6 do art. 130.º, os n.os 2 e 4 do art. 169.º e o n.º 3 do art. 169.º-A e republicado o Código da Estrada, pelo(a) Decreto-Lei
+    n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-b-2020-150757538
+  date: '2020-12-09'
+- type: amended_by
+  target: pt:dre:170083315:por
+  label: Alterados os arts. 48.º e 50.º-A do Código da Estrada, aprovado pelo presente diploma, na versão alterada e republicada
+    pelo Dec Lei 102-B/2020 de 09-dez, pelo(a) Lei n.º 66/2021 - Diário da República n.º 164/2021, Série I de 2021-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-2021-170083315
+  date: '2021-08-24'
+- type: amended_by
+  target: pt:dre:185971761:por
+  label: Alterados, a partir de 01.08.2022, os arts. 125.º e 128.º do Código da Estrada, aprovado pelo presente diploma, na
+    versão alterada e republicada pelo Dec Lei 102-B/2020 de 09-dez, pelo(a) Decreto-Lei n.º 46/2022 - Diário da República
+    n.º 133/2022, Série I de 2022-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2022-185971761
+  date: '2022-07-12'
+- type: amended_by
+  target: pt:dre:204552603:por
+  label: Alterados, a partir de 08.01.2023, os arts. 117.º e 169.º e revogado o n.º 11 do art. 119.º do Código da Estrada,
+    aprovado pelo presente diploma, na versão alterada e republicada pelo Dec Lei 102-B/2020 de 09-dez, pelo(a) Decreto-Lei
+    n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-c-2022-204552603
+  date: '2022-12-09'
+- type: amended_by
+  target: pt:dre:910517153:por
+  label: Alterados, a partir de 11 de abril de 2025, os artigos 70.º, 71.º e 77.º e revogado o n.º 4 do artigo 77.º do Código
+    da Estrada pelo(a) Lei n.º 24/2025 - Diário da República n.º 50/2025, Série I de 2025-03-12 nos termos do artigo 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-2025-910517153
+  date: '2025-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/63/1993/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/1993/08/21/p/dre
+- type: cites
+  target: pt:dre:324366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681817:por
+  label: null
+  source: null
 article_structure:
-  article_count: 172
+  article_count: 171
   section_count: 67
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:23Z'
   warnings: []
   errors: []
 ---
@@ -130,19 +415,19 @@ Assim:
 
 No uso da autorização legislativa conferida pelo artigo 1.º da [Lei n.º 63/93](https://diariodarepublica.pt/dr/detalhe/lei/63-1993-324366), de 21 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Código da Estrada, cujo texto se publica em anexo ao presente decreto-lei e dele é parte integrante.
+Artigo 1.º É aprovado o Código da Estrada, cujo texto se publica em anexo ao presente decreto-lei e dele é parte integrante.
 
-###### Art. 2.º É revogado o Código da Estrada aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, bem como a respectiva legislação complementar que se encontre em oposição às disposições do Código ora aprovado.
+Art. 2.º É revogado o Código da Estrada aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, bem como a respectiva legislação complementar que se encontre em oposição às disposições do Código ora aprovado.
 
-###### Art. 3.º Consideram-se efectuadas para as correspondentes disposições do Código da Estrada ora aprovado as remissões, constantes de lei ou de regulamento, para o Código da Estrada aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
+Art. 3.º Consideram-se efectuadas para as correspondentes disposições do Código da Estrada ora aprovado as remissões, constantes de lei ou de regulamento, para o Código da Estrada aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
 
-###### Art. 4.º - 1 - A partir da entrada em vigor do presente diploma, será assegurada a existência de um registo individual dos condutores, organizado em sistema informático, com conteúdo fixado por diploma próprio.
+Art. 4.º - 1 - A partir da entrada em vigor do presente diploma, será assegurada a existência de um registo individual dos condutores, organizado em sistema informático, com conteúdo fixado por diploma próprio.
 
 2 - O registo a que se reporta o número anterior abrangerá as sentenças judiciais, as sanções de interdição e as sanções acessórias de inibição de conduzir, sendo cada informação parcelar cancelada após o decurso de três anos sobre a data em que terminar a sua execução.
 
 3 - O registo referido neste artigo englobará a informação relativa a todas as infracções ao Código da Estrada em vigor praticadas há menos de três anos.
 
-###### Art. 5.º - 1 - No âmbito da fiscalização da condução sob influência do álcool, serão observadas as disposições seguintes:
+Art. 5.º - 1 - No âmbito da fiscalização da condução sob influência do álcool, serão observadas as disposições seguintes:
 
 a) Para efeitos da aplicação do disposto no Código da Estrada ora aprovado, a conversão dos valores do teor de álcool no ar expirado (TAE) em teor do álcool no sangue (TAS) é baseada no princípio de que 1 mg de álcool por litro de ar expirado é equivalente a 2,3 g de álcool por litro de sangue;
 
@@ -152,7 +437,7 @@ c) Se as circunstâncias advenientes da imobilização do veículo originarem a 
 
 2 - Os encargos advenientes da aplicação da alínea c) do número anterior são suportados pelo infractor nos termos a definir por despacho do Ministro da Administração Interna.
 
-###### Art. 6.º - 1 - A competência para a execução do presente Código, para a sinalização das vias e para o ordenamento e fiscalização do trânsito é objecto de diploma próprio.
+Art. 6.º - 1 - A competência para a execução do presente Código, para a sinalização das vias e para o ordenamento e fiscalização do trânsito é objecto de diploma próprio.
 
 2 - Os regulamentos previstos nos artigos 28.º, 55.º, 121.º, n.os 3 e 4, 123.º a 127.º e 130.º do Código da Estrada são aprovados por decreto regulamentar.
 
@@ -162,21 +447,21 @@ c) Se as circunstâncias advenientes da imobilização do veículo originarem a 
 
 5 - Os regulamentos previstos no artigo 153.º do Código da Estrada são aprovados por portaria conjunta dos Ministros da Administração Interna e da Indústria e Energia.
 
-###### Art. 7.º Até que entrem em vigor as normas regulamentares necessárias para execução do Código da Estrada ora aprovado serão aplicáveis as disposições vigentes, na medida em que não contrariem o que nele se dispõe.
+Art. 7.º Até que entrem em vigor as normas regulamentares necessárias para execução do Código da Estrada ora aprovado serão aplicáveis as disposições vigentes, na medida em que não contrariem o que nele se dispõe.
 
-###### Art. 8.º Os artigos 1.º a 3.º do presente diploma entrarão em vigor no dia 1 de Outubro de 1994.
+Art. 8.º Os artigos 1.º a 3.º do presente diploma entrarão em vigor no dia 1 de Outubro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DA ESTRADA
 
@@ -414,7 +699,7 @@ i) Na presença de um sinal de perigo.
 
 1 - Sem prejuízo do disposto nos artigos 24.º e 25.º, os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/102a00/21622190.pdf))](https://files.diariodarepublica.pt/1s/1994/05/102a00/21622190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/102a00/21622190.pdf)
 
 2 - Sem prejuízo do disposto no artigo 26.º, nas auto-estradas os condutores não podem transitar a velocidade instantânea inferior a 40 km/hora.
 

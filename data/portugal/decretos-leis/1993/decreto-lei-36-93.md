@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/1993/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1993-648138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61ac1512a08a3c81906f62ad7df3fa193d582994382e6b36ed51ced2df2e3695
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b705d3fb42c8160fbf6d44de623e5f6a6ab253a2076279c6b320aee39a6054bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AVAL do Estado
+- Contribuições e Impostos
 - Empresa
 - Fundo de Regularização da Dívida Pública
-- Contribuições e Impostos
 - Privatização
 - Regime Jurídico
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 3 DO DECRETO LEI 453/88, DE 13 DE DEZEMBRO, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DECRETO\
+    \ LEI 236/93, PUBLICADO NO DR.IS-A, 154, DE 930703.\0DE 930703.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:57701290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147253:por
+  label: "Alterado o art. 3º do Dec Lei 453/88 de 13-Dez, na redacção constante do presente diploma, pelo DEC LEI.2/95.1995.01.14.MF,\
+    \ DR.IS-A [12]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1995-147253
+  date: '1995-01-14'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 3.º do Decreto-Lei n.º 453/88, de 13-Dez, na redacção do presente diploma, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:356568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565576:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197511:por
+  label: "Revogado o nº 5 do art. 3º do Dec Lei 453/88 de 13-Dez, na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: repealed_by
+  target: pt:dre:57701290:por
+  label: Revogadas as als. d) e e) do n.º 2 do art. 3.º do Dec Lei 453/88 de 13-dez, alterado pelo presente diploma, pelo(a)
+    Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-a-2014-57701290
+  date: '2014-09-30'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:23Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +143,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 453/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1988-356568), de 13 de Dezembro, com as alterações introduzidas pelo artigo 1.º do [Decreto-Lei n.º 324/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1990-565576), de 19 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 453/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1988-356568), de 13 de Dezembro, com as alterações introduzidas pelo artigo 1.º do [Decreto-Lei n.º 324/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1990-565576), de 19 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -138,16 +175,16 @@ d) As decorrentes do apuramento de dívidas à administração fiscal por parte 
 
 6 - ...
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

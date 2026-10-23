@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/356/1993/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1993-669802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58e9d662ddd7e70ea243f38a85c0eeae37287b24c24a6a3954ad602d929ea8c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c65caa9271f598032bd9ab5cd7b2dcdd76f89b4fb8072bfebfb77baee9100abb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
-- Pessoal Dirigente
 - Comissão de Fiscalização
-- Conselho Diretivo
 - Conselho Consultivo
+- Conselho Diretivo
+- Exoneração
 - Instituto do Trabalho Portuário
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:18Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +114,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Os artigos 2.º, 4.º a 12.º e 15.º do [Decreto-Lei n.º 282-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-c-1984-579346), de 20 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 2.º O ITP tem sede em Lisboa e exerce a sua acção em todo o território nacional.
+Art. 2.º O ITP tem sede em Lisboa e exerce a sua acção em todo o território nacional.
 
-###### Art. 4.º São atribuições do ITP:
+Art. 4.º São atribuições do ITP:
 
 a) Estudar, a solicitação da tutela, linhas de orientação e de política do trabalho portuário a nível nacional, com vista à unificação, tanto quanto possível, do tratamento dos respectivos problemas em todos os portos nacionais;
 
@@ -126,7 +134,7 @@ g) Aplicar as normas legais respeitantes ao acesso e exercício da actividade de
 
 h) Exercer as demais funções que por lei ou regulamento lhe sejam cometidas.
 
-###### Art. 5.º Compete ao ITP, na prossecução das suas atribuições:
+Art. 5.º Compete ao ITP, na prossecução das suas atribuições:
 
 a) Propor superiormente as medidas adequadas ao correcto funcionamento do sector portuário e ao eficaz desempenho das suas funções;
 
@@ -148,7 +156,7 @@ i) Instruir os procedimentos relativos a infracções cuja sanção seja da sua 
 
 j) Praticar todos os demais actos previstos na lei que se mostrem necessários à realização das suas atribuições.
 
-###### Art. 6.º São órgãos do ITP:
+Art. 6.º São órgãos do ITP:
 
 a) O presidente do conselho directivo;
 
@@ -158,11 +166,11 @@ c) O conselho consultivo;
 
 d) A comissão de fiscalização.
 
-###### Art. 7.º - 1 - O conselho directivo é nomeado e exonerado por despacho do Primeiro-Ministro e do ministro da tutela, que designará o respectivo presidente e os dois vogais, que o compõem.
+Art. 7.º - 1 - O conselho directivo é nomeado e exonerado por despacho do Primeiro-Ministro e do ministro da tutela, que designará o respectivo presidente e os dois vogais, que o compõem.
 
 2 - O presidente do conselho directivo designará um dos vogais para o substituir nas suas faltas e impedimentos.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - ...
 
@@ -172,7 +180,7 @@ d) A comissão de fiscalização.
 
 5 - (Antigo n.º 6).
 
-###### Art. 9.º - 1 - Compete ao conselho directivo:
+Art. 9.º - 1 - Compete ao conselho directivo:
 
 a) Estruturar, organizar e dirigir os serviços do ITP e tomar as medidas necessárias à prossecução dos seus fins;
 
@@ -202,9 +210,9 @@ g) Exercer outras competências que legalmente lhe sejam cometidas.
 
 8 - O conselho directivo pode, sempre que o entender necessário, pedir o parecer do conselho consultivo do ITP.
 
-###### Art. 10.º Salvo em actos de mero expediente ou de execução delegada de deliberações do conselho directivo, o ITP obriga-se pela assinatura de dois dos seus membros, sendo um deles o presidente, ou pela assinatura de quem tem delegação de poderes, por deliberação do mesmo conselho directivo devidamente registada em acta, na qual tem de participar o presidente.
+Art. 10.º Salvo em actos de mero expediente ou de execução delegada de deliberações do conselho directivo, o ITP obriga-se pela assinatura de dois dos seus membros, sendo um deles o presidente, ou pela assinatura de quem tem delegação de poderes, por deliberação do mesmo conselho directivo devidamente registada em acta, na qual tem de participar o presidente.
 
-###### Art. 11.º - 1 - O conselho consultivo é nomeado e exonerado pelo ministro da tutela e tem a seguinte composição:
+Art. 11.º - 1 - O conselho consultivo é nomeado e exonerado pelo ministro da tutela e tem a seguinte composição:
 
 a) O presidente do conselho directivo, que preside;
 
@@ -224,7 +232,7 @@ g) Um representante da Federação Nacional dos Agentes de Navegação.
 
 3 - O conselho aprova o seu regimento próprio e reúne por iniciativa do seu presidente ou a solicitação de dois dos seus membros.
 
-###### Art. 12.º - 1 - A comissão de fiscalização é constituída por um representante do ministro da tutela, que preside, e por dois vogais, designados, respectivamente, pelos Ministros das Finanças e do Emprego e da Segurança Social.
+Art. 12.º - 1 - A comissão de fiscalização é constituída por um representante do ministro da tutela, que preside, e por dois vogais, designados, respectivamente, pelos Ministros das Finanças e do Emprego e da Segurança Social.
 
 2 - (Antigo n.º 3.)
 
@@ -232,7 +240,7 @@ g) Um representante da Federação Nacional dos Agentes de Navegação.
 
 4 - (Antigo n.º 5.)
 
-###### Art. 15.º - 1 - Constituem receitas próprias do ITP:
+Art. 15.º - 1 - Constituem receitas próprias do ITP:
 
 a) Uma percentagem do produto das taxas portuárias cobradas nos portos do continente, a fixar anualmente por portaria conjunta dos ministros da tutela e das Finanças, que lhe deve ser enviada trimestralmente pelas respectivas autoridades portuárias;
 
@@ -258,12 +266,12 @@ Cessam de imediato funções os titulares dos órgãos do lTP.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1993.**
+Referendado em 9 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

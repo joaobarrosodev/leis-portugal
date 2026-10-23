@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/124a00/28172819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/1994/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1994-300984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34c932f36fdc2493c40d47d3650768101c47920e045a04bba0c3cf121af85fef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 842e0e310b73fe3fbcd7ed3d236c2b0807ab39531c3295cf01dd514b983b21a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,26 @@ subjects:
 - Aproximação das Legislações
 - CEE
 - Centro Nacional de Protecção da Produção Agrícola
-- Multa
-- Doença Vegetal
 - Definição de Competências
+- Doença Vegetal
 - Fiscalização
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto Florestal
-- Proteção Fitossanitária
+- Multa
 - Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:486163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476725:por
+  label: "Alterada, para 01.07.1995, a data limite de reconhecimento provisório das zonas protegidas constantes do presente\
+    \ diploma, pela PORT.691/95.30.06.1995.MA, DR.IS-B [149] de 30.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-1995-476725
+  date: '1995-06-30'
 - type: cites
   target: celex:31977L0093
   label: null
@@ -129,16 +135,21 @@ relationships:
   target: celex:31993L0051
   label: null
   source: http://data.europa.eu/eli/dir/1993/51/oj
+- type: repealed_by
+  target: pt:dre:486163:por
+  label: "Revogado pelo DEC LEI.14/99.1999.01.12.MADRP DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1999-486163
+  date: '1999-01-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:19Z'
   warnings: []
   errors: []
 ---
@@ -159,23 +170,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [77/93/CEE](https://data.europa.eu/eli/dir/1977/93/oj?locale=pt), [91/683/CEE](https://data.europa.eu/eli/dir/1991/683/oj?locale=pt), [92/98/CEE](https://data.europa.eu/eli/dir/1992/98/oj?locale=pt) e [93/19/CEE](https://data.europa.eu/eli/dir/1993/19/oj?locale=pt), do Conselho, de 21 de Dezembro, 19 de Dezembro, 16 de Novembro e 19 de Abril, respectivamente, e as Directivas n.os [92/70/CEE](https://data.europa.eu/eli/dir/1992/70/oj?locale=pt), [92/76/CEE](https://data.europa.eu/eli/dir/1992/76/oj?locale=pt), [92/90/CEE](https://data.europa.eu/eli/dir/1992/90/oj?locale=pt), [92/103/CEE](https://data.europa.eu/eli/dir/1992/103/oj?locale=pt), [92/105/CEE](https://data.europa.eu/eli/dir/1992/105/oj?locale=pt), [93/50/CEE](https://data.europa.eu/eli/dir/1993/50/oj?locale=pt) e [93/51/CEE](https://data.europa.eu/eli/dir/1993/51/oj?locale=pt), da Comissão, de 30 de Julho, 6 de Outubro, 3 de Novembro, 1 de Dezembro, 3 de Dezembro e 24 de Junho, respectivamente, relativas aos organismos prejudiciais às plantas e produtos vegetais.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [77/93/CEE](https://data.europa.eu/eli/dir/1977/93/oj?locale=pt), [91/683/CEE](https://data.europa.eu/eli/dir/1991/683/oj?locale=pt), [92/98/CEE](https://data.europa.eu/eli/dir/1992/98/oj?locale=pt) e [93/19/CEE](https://data.europa.eu/eli/dir/1993/19/oj?locale=pt), do Conselho, de 21 de Dezembro, 19 de Dezembro, 16 de Novembro e 19 de Abril, respectivamente, e as Directivas n.os [92/70/CEE](https://data.europa.eu/eli/dir/1992/70/oj?locale=pt), [92/76/CEE](https://data.europa.eu/eli/dir/1992/76/oj?locale=pt), [92/90/CEE](https://data.europa.eu/eli/dir/1992/90/oj?locale=pt), [92/103/CEE](https://data.europa.eu/eli/dir/1992/103/oj?locale=pt), [92/105/CEE](https://data.europa.eu/eli/dir/1992/105/oj?locale=pt), [93/50/CEE](https://data.europa.eu/eli/dir/1993/50/oj?locale=pt) e [93/51/CEE](https://data.europa.eu/eli/dir/1993/51/oj?locale=pt), da Comissão, de 30 de Julho, 6 de Outubro, 3 de Novembro, 1 de Dezembro, 3 de Dezembro e 24 de Junho, respectivamente, relativas aos organismos prejudiciais às plantas e produtos vegetais.
 
-###### Art. 2.º - 1 - As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 2.º - 1 - As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
 2 - Os utentes dos serviços de protecção fitossanitária pagarão pelos serviços prestados os quantitativos a fixar por portaria do Ministro da Agricultura.
 
-###### Art. 3.º - 1 - Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA), através do Centro Nacional de Protecção da Produção Agrícola (CNPPA), serviço responsável pela protecção fitossanitária, a aplicação e o controlo do disposto no presente diploma e legislação complementar.
+Art. 3.º - 1 - Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA), através do Centro Nacional de Protecção da Produção Agrícola (CNPPA), serviço responsável pela protecção fitossanitária, a aplicação e o controlo do disposto no presente diploma e legislação complementar.
 
 2 - As direcções regionais de agricultura e o Instituto Florestal colaboram com o IPPAA, executando as necessárias medidas de protecção fitossanitária.
 
 3 - As entidades referidas nos números anteriores dispõem, para os efeitos do presente diploma, de inspectores fitossanitários, designados anualmente pelo conselho directivo do IPPAA, ouvidas as mesmas entidades.
 
-###### Art. 4.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, a plantação, colheita, detenção ou alienação de produtos vegetais em infracção às normas técnicas referidas no artigo 2.º, bem como outras formas de não cumprimento das obrigações nelas previstas, constitui contra-ordenação, punível com coima de 10000$00 a 500000$00 ou 6000000$00, consoante seja praticado por pessoa singular ou colectiva.
+Art. 4.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, a plantação, colheita, detenção ou alienação de produtos vegetais em infracção às normas técnicas referidas no artigo 2.º, bem como outras formas de não cumprimento das obrigações nelas previstas, constitui contra-ordenação, punível com coima de 10000$00 a 500000$00 ou 6000000$00, consoante seja praticado por pessoa singular ou colectiva.
 
 2 - A tentativa e a negligência são puníveis.
 
-###### Art. 5.º - 1 - Podem ser aplicadas simultaneamente com a coima as seguintes sanções acessórias:
+Art. 5.º - 1 - Podem ser aplicadas simultaneamente com a coima as seguintes sanções acessórias:
 
 a) Privação do acesso a qualquer subsídio de apoio ao fomento agrícola ou florestal;
 
@@ -187,9 +198,9 @@ c) Suspensão da actividade do agente económico.
 
 3 - No caso de a conduta contra-ordenacional ter ocasionado um grave risco de propagação dos organismos prejudiciais, deverá ser dada publicidade à decisão definitiva de aplicação da coima, mediante a afixação de editais na sede da direcção regional de agricultura ou na delegação florestal da área onde foi praticada a infracção.
 
-###### Art. 6.º A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da região em cuja área foi praticada a contra-ordenação ou, tratando-se de matéria florestal, das delegações florestais, cabendo ao presidente do conselho directivo do IPPAA ou ao presidente do Instituto Florestal a aplicação das respectivas coimas.
+Art. 6.º A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da região em cuja área foi praticada a contra-ordenação ou, tratando-se de matéria florestal, das delegações florestais, cabendo ao presidente do conselho directivo do IPPAA ou ao presidente do Instituto Florestal a aplicação das respectivas coimas.
 
-###### Art. 7.º O produto das coimas reverte:
+Art. 7.º O produto das coimas reverte:
 
 a) Em 20% para o IPPAA;
 
@@ -197,18 +208,18 @@ b) Em 20% para as direcções regionais de agricultura ou, tratando-se de matér
 
 c) Em 60% para o Estado.
 
-###### Art. 8.º Compete ao IPPAA, sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização das normas constantes do presente diploma e respectiva regulamentação.
+Art. 8.º Compete ao IPPAA, sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização das normas constantes do presente diploma e respectiva regulamentação.
 
-###### Art. 9.º Ficam revogados o Decreto-Lei n.º 348/88, de 30 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 276/91, de 8 de Agosto, e respectiva regulamentação, bem como os Decretos-Leis n.os 115/81 e 116/81, ambos de 15 de Maio, e o Decreto-Lei n.º 233/92, de 22 de Outubro, mantendo-se em vigor as Portarias n.os 472/89, de 27 de Junho, 847/90, de 18 de Setembro, 870/90, de 20 de Setembro, 883/90, de 21 de Setembro, 567/91, de 25 de Junho, e 84/92, de 7 de Fevereiro.
+Art. 9.º Ficam revogados o Decreto-Lei n.º 348/88, de 30 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 276/91, de 8 de Agosto, e respectiva regulamentação, bem como os Decretos-Leis n.os 115/81 e 116/81, ambos de 15 de Maio, e o Decreto-Lei n.º 233/92, de 22 de Outubro, mantendo-se em vigor as Portarias n.os 472/89, de 27 de Junho, 847/90, de 18 de Setembro, 870/90, de 20 de Setembro, 883/90, de 21 de Setembro, 567/91, de 25 de Junho, e 84/92, de 7 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1994. - Joaquim Fernando Nogueira - Arlindo Marques da Cunha.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Maio de 1994.**
+Referendado em 6 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

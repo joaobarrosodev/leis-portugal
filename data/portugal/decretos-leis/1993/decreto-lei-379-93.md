@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/259a00/62146218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c53b98b092d8f170178d46f78b5604b71b60995ffedadca4a51de89c56e5232f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f98fa1daf63cf7aa7ba92a262c5639be34a81e08591fbad6131662be97680e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,122 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Captação Tratamento e Abastecimento de ÁGUA do Barlavento Algarvio
-- Gestão de Resíduos
+- Abastecimento de Água
+- Autarquia Local
 - Contrato de Concessão
-- Recursos Hídricos
+- Gestão de Resíduos
 - Gestão dos Recursos
 - Iniciativa Privada
 - Poluição da água
-- Sistema Multimunicipal de Captação Tratamento e Abastecimento de Águas do Norte da ÁREA do Grande Porto
+- Recursos Hídricos
 - Setor Privado
 - Setor Público
-- Abastecimento de Água
+- Sistema Multimunicipal de Captação Tratamento e Abastecimento de ÁGUA do Barlavento Algarvio
+- Sistema Multimunicipal de Captação Tratamento e Abastecimento de Águas do Norte da ÁREA do Grande Porto
 - Tratamento de ÁGUA
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:67348946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667895:por
+  label: "Aditado o art. 3º-A pela LEI.176/99.1999.10.25.AR, DR.IS-A [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/176-1999-667895
+  date: '1999-10-25'
+- type: amended_by
+  target: pt:dre:165054:por
+  label: "Alterado o art. 3º-A, na redacção dada pela Lei 176/99 de 25-Out, pelo DEC LEI.439-A/99.1999.10.29.PCM, DR.IS-A\
+    \ [253]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-a-1999-165054
+  date: '1999-10-29'
+- type: amended_by
+  target: pt:dre:614363:por
+  label: "Extinto o sistema multimunicipal de captação, tratamento e abastecimento de água do norte pelo DEC LEI.264/2001.2001.09.28.MAOT,\
+    \ DR.IS-A [226], de acordo com o articulado do art. 7º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2001-614363
+  date: '2001-09-28'
+- type: amended_by
+  target: pt:dre:239267:por
+  label: "Alterado o art. 4º pelo DEC LEI.14/2002.2002.01.26.MAOT DR.IS-A [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2002-239267
+  date: '2002-01-26'
+- type: amended_by
+  target: pt:dre:540847:por
+  label: "Aditado o art. 4º-A pelo DEC LEI.103/2003.2003.05.23.MCOTA DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2003-540847
+  date: '2003-05-23'
+- type: amended_by
+  target: pt:dre:468982:por
+  label: "Considerados extintos os sistemas multimunicipais referidos na parte final do artigo 1.º do presente diploma, na\
+    \ data da outorga do contrato de concessão previsto no DEC LEI.285/2003.08.11.2003.MCOTA, DR.IS-A [259] de 08.11.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-2003-468982
+  date: '2003-11-08'
+- type: amended_by
+  target: pt:dre:1696692:por
+  label: "Alargado aos municípios de Amarante e Baião o sistema multimunicipal de captação, tratamento e abastecimento de\
+    \ água do sul da área do grande Porto, criado pela al. e) do nº 3 do art. 3º do presente diploma, pelo DESP.5380/2009.17.02.2009.MAOTDR,\
+    \ DR.IIS [33] de 17.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5380-2009-1696692
+  date: '2009-02-17'
+- type: amended_by
+  target: pt:dre:488136:por
+  label: "Aditado, a partir de 01.01.2010, o art. 5.º-A e alteradas as referências a «Ministro do Ambiente», a «Ministro do\
+    \ Ambiente e dos Recursos Naturais» e a «Ministro das Cidades, Ordenamento do Território e Ambiente», contidas no presente\
+    \ diploma, pela referência a «membro do Governo responsável pela área do ambiente», e republicado no anexo I com a redacção\
+    \ actual, pelo DEC LEI.195/2009.20.08.2009.MAOTDR, DR.IS [161] de 20.08.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2009-488136
+  date: '2009-08-20'
+- type: amended_by
+  target: pt:dre:614173:por
+  label: "Substituído o sistema multimunicipal de captação, tratamento e abastecimento de água do norte da área do Grande\
+    \ Porto, criado pela al. d) do n.º 3 do art. 3.º do presente diploma, pelo sistema criado pelo DEC LEI.41/2010.29.04.2010.MAOT,\
+    \ DR.IS [83], e determinada a sua extinção nos termos do art. 12.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2010-614173
+  date: '2010-04-29'
+- type: amended_by
+  target: pt:dre:334094:por
+  label: "Dada nova redacção, a partir de 01.10.2010, ao art. 4º-A (aditado pelo Dec Lei 103/2003 de 23-Mai) pelo DEC LEI.92/2010.26.07.2010.MEID,\
+    \ DR.IS [143] de 26.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2010-334094
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:67348946:por
+  label: Extinto a partir de 30.06.2015, por agregação com o Sistema multimunicipal de abastecimento de água e de saneamento
+    de Trás-os-Montes e Alto Douro, com o Sistema multimunicipal de saneamento do Grande Porto e com o Sistema multimunicipal
+    de abastecimento de água e de saneamento do Noroeste, o Sistema multimunicipal de captação, tratamento e abastecimento
+    de água do sul do Grande Porto, criado pela al. e) do n.º 3 do art. 3.º do presente diploma, pelo(a) Decreto-Lei n.º 93/2015
+    - Diário da República n.º 104/2015, Série I de 2015-05-29, nos termos do disposto no n.º 2 do seu art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2015-67348946
+  date: '2015-05-29'
+- type: corrected_by
+  target: pt:dre:428839:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 232/93, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-A, 280 3SUPL, DE 931130.\0\
+    31130.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/232-1993-428839
+- type: repealed_by
+  target: pt:dre:488144:por
+  label: "Revogados, a partir de 01.01.2010, os arts. 6.º a 18.º pelo DEC LEI.194/2009.20.08.2009.MAOTDR, DR.IS [161] de 20.08.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2009-488144
+  date: '2009-08-20'
+- type: repealed_by
+  target: pt:dre:498094:por
+  label: "Revogado pelo DEC LEI.92/2013.11.07.2013.MAMAOT, DR.IS [132] de 11.07.2013, que extingue o sistema multimunicipal\
+    \ da área da Grande Lisboa\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2013-498094
+  date: '2013-07-11'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:48Z'
   warnings: []
   errors: []
 ---
@@ -352,12 +440,12 @@ São nulos os contratos de concessão que contrariem o disposto no presente dipl
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

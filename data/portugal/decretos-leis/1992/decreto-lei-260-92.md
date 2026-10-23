@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/260/1992/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1992-598156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 044016cebe19ad80bcbb3c79a2770f4438e6039121908c14da1fb8cd0ed27951
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80188bc50af3ef25aa3699da341fe27cde5c557476f37a15e49d7445c92b8d50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Sociedade Anónima
 - Capital Social
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/1992/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/198/1992/09/23/p/dre
+- type: cites
+  target: pt:dre:234113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:15Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +108,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da Rádio Comercial, S. A.
+Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da Rádio Comercial, S. A.
 
 2 - As acções representativas do capital da sociedade poderão ser escriturais e serão obrigatoriamente nominativas ou ao portador em regime de registo.
 
-###### Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um montante de acções até 20% do capital social a alienar.
+Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um montante de acções até 20% do capital social a alienar.
 
 2 - Será efectuada a alienação em bloco de um lote indivisível de acções correspondente a 70% do capital social, a alienar em leilão competitivo, aberto a entidades, que poderão apresentar-se individualmente ou em grupo.
 
@@ -114,7 +122,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Para os efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas referidas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio, se for caso disso.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio, se for caso disso.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades máximas e mínimas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio, em função do número de subscritores, se for caso disso.
 
@@ -126,9 +134,9 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - Nos 15 dias seguintes ao termo do processo de privatização, a sociedade deve publicar, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um seja titular.
 
-###### Art. 4.º Os preços base de alienação por oferta em bolsa de valores são fixados por resolução do Conselho de Ministros.
+Art. 4.º Os preços base de alienação por oferta em bolsa de valores são fixados por resolução do Conselho de Ministros.
 
-###### Art. 5.º - 1 - O Conselho de Ministros fixará, por resolução, preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
+Art. 5.º - 1 - O Conselho de Ministros fixará, por resolução, preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores pode ser fraccionado ao longo do período de indisponibilidade das acções previsto no n.º 3, em condições a fixar em resolução do Conselho de Ministros.
 
@@ -142,7 +150,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - As acções adquiridas por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade.
 
-###### Art. 6.º - 1 - No processo de privatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 10% do capital social.
+Art. 6.º - 1 - No processo de privatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 10% do capital social.
 
 2 - Quando celebrados antes da aquisição no processo de privatização, são nulos:
 
@@ -152,13 +160,13 @@ b) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a ent
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de privatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de privatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
+Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de privatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
 
 2 - As nulidades cominadas nos números anteriores podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a Rádio Comercial, S. A.
 
 3 - No caso do n.º 1, as acções adquiridas reputam-se para todos os efeitos pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 8.º - 1 - Na aquisição e na posse, por entidades estrangeiras, de acções da Rádio Comercial, S. A., observar-se-á o seguinte:
+Art. 8.º - 1 - Na aquisição e na posse, por entidades estrangeiras, de acções da Rádio Comercial, S. A., observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito de voto representativas de mais de 10% do capital social com direito a voto;
 
@@ -168,7 +176,7 @@ c) Nas sociedades, ordinárias ou gestoras de participações sociais, titulares
 
 2 - Para efeitos do número anterior, o conselho de administração pode solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considerar necessárias.
 
-###### Art. 9.º Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 9.º Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -178,26 +186,26 @@ c) As sociedades ou entidades equiparáveis constituídas ao abrigo de lei estra
 
 d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Código das Sociedades Comerciais, sejam dominadas directa ou indirectamente por entidades referidas nas alíneas anteriores.
 
-###### Art. 10.º Compete ao conselho de administração da Rádio Comercial, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 10.º Compete ao conselho de administração da Rádio Comercial, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei, são delegados no Ministro das Finanças os poderes bastantes para contratar, por ajuste directo, colocação e garantia de colocação das acções e, bem assim, para determinar as demais condições que se afigurarem convenientes.
+Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei, são delegados no Ministro das Finanças os poderes bastantes para contratar, por ajuste directo, colocação e garantia de colocação das acções e, bem assim, para determinar as demais condições que se afigurarem convenientes.
 
-###### Art. 13.º - 1 - Nos 30 dias seguintes à alienação das acções, será convocada a assembleia geral de accionistas da Rádio Comercial, S. A., para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 13.º - 1 - Nos 30 dias seguintes à alienação das acções, será convocada a assembleia geral de accionistas da Rádio Comercial, S. A., para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da privatização prevista no presente diploma, a Rádio Comercial, S. A., pode proceder às necessárias adaptações estatutárias.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

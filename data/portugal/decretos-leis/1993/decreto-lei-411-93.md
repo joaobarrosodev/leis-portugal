@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/411/1993/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1993-540243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47546425e7cd631cc884e310ec0ad46c7ce3ea1504c8f4a2674d9e45df4e2a0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9b1607f047a6fb938d2c7010b335033a735f615904472b4da200dc657d145ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,21 @@ reuse:
 subjects:
 - Definição de Competências
 - Lisboa
-- Tribunal Criminal
 - Orgânica
-- Tribunal Judicial
 - Porto
+- Tribunal Criminal
+- Tribunal Judicial
 - VARA Criminal
 relationships:
 - type: amended_by
   target: pt:dre:218744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218744:por
+  label: "Alterada a redacção dada ao Dec Lei 214/88 de 17-Jun, pelo DEC LEI.222/94.1994.08.24.MJ, DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1994-218744
+  date: '1994-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/312/1993/09/15/p/dre
   label: null
@@ -86,16 +91,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659960:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:33Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +145,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, alterada pelas Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/lei/49-1988-285159), de 19 de Abril, e [52/88](https://diariodarepublica.pt/dr/detalhe/lei/52-1988-373603), de 4 de Maio, pela [Lei n.º 24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto, e pela [Lei n.º 24/92](https://diariodarepublica.pt/dr/detalhe/lei/24-1992-259072), de 20 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 29.º e 30.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, na redacção que lhes foi dada pelo [Decreto-Lei n.º 312/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960), de 15 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 29.º e 30.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, na redacção que lhes foi dada pelo [Decreto-Lei n.º 312/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960), de 15 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 29.º — Varas criminais do Tribunal Criminal de Lisboa
 
@@ -146,12 +179,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https:
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 14 de Dezembro de 1993.**
+Promulgado em 14 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1993.**
+Referendado em 15 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

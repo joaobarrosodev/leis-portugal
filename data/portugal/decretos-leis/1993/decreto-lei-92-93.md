@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/1993/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1993-643685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 953c11bdcc24ec06f6fa9a34e19dc6c538be97a0f6183eae7a05d1948f4994e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e602db9361ad8d52c55533b7f50ae11b2bdc89747362664229acc215b19f4459
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ subjects:
 - Transferência Patrimonial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:53Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +98,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É transferido do Instituto Regulador e Orientador dos Mercados Agrícolas - IROMA para a Associação Humanitária dos Bombeiros Voluntários de Aguiar da Beira o prédio sito na Matinha, ou Lameira, freguesia e município de Aguiar da Beira, descrito na Conservatória do Registo Predial de Aguiar da Beira sob o n.º 244/151287, confrontando a norte com caminho público, a nascente com o cemitério da vila, a sul com o caminho para Sargaçais e baldio da comarca e a poente com estrada nacional de Aguiar da Beira para Fornos de Algodres, inscrito na matriz sob os artigos 3715, 3716 e 3717 e os seguintes prédios urbanos nele construídos:
+Artigo 1.º É transferido do Instituto Regulador e Orientador dos Mercados Agrícolas - IROMA para a Associação Humanitária dos Bombeiros Voluntários de Aguiar da Beira o prédio sito na Matinha, ou Lameira, freguesia e município de Aguiar da Beira, descrito na Conservatória do Registo Predial de Aguiar da Beira sob o n.º 244/151287, confrontando a norte com caminho público, a nascente com o cemitério da vila, a sul com o caminho para Sargaçais e baldio da comarca e a poente com estrada nacional de Aguiar da Beira para Fornos de Algodres, inscrito na matriz sob os artigos 3715, 3716 e 3717 e os seguintes prédios urbanos nele construídos:
 
 a) Prédio urbano constituído por edifício de rés-do-chão com galerias superiores, dependências, escritório, sanitários e alpendre, inscrito na respectiva matriz sob o artigo 895;
 
 b) Prédio urbano constituído por edifício de rés-do-chão e 1.º andar, destinado a habitação, inscrito na respectiva matriz sob o artigo 894.
 
-###### Art. 2.º O presente diploma constitui título bastante para a dispensa do trato sucessivo e inscrição em nome da Associação Humanitária dos Bombeiros Voluntários de Aguiar da Beira.
+Art. 2.º O presente diploma constitui título bastante para a dispensa do trato sucessivo e inscrição em nome da Associação Humanitária dos Bombeiros Voluntários de Aguiar da Beira.
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha.
 
-**Promulgado em 9 de Março de 1993.**
+Promulgado em 9 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1993.**
+Referendado em 10 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/186a00/42544260.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/1993/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1993-358125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d049b4c5402e831ce7d1915515c002c3b120913725d930deec49ec6c72c4f34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baf6fac2859e4bf732fe2c27c012aa855b07bd50b8cedae856f807a3c3c63a82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,59 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Instituição de Crédito
-- Ministério da Administração Interna
+- Banco de Portugal
 - Conselho de Segurança Privada
 - Contra-ordenação
 - Criação de Serviços
 - Definição de Competências
-- Serviços de Segurança
 - Empresa de Segurança
 - Fiscalização
-- Secretaria Geral
-- Banco de Portugal
-- Recrutamento de Pessoal
+- Instituição de Crédito
+- Ministério da Administração Interna
 - Ministro da Administração Interna
+- Recrutamento de Pessoal
+- Secretaria Geral
 - Segurança Privada
+- Serviços de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:568083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265549:por
+  label: "Alterado o art. 8º, pelo DEC LEI.138/94.1994.05.23.MAI, DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1994-265549
+  date: '1994-05-23'
+- type: amended_by
+  target: pt:dre:566655:por
+  label: "Alterado o art. 32º pelo DEC LEI.250/95.1995.09.21.MAI, DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1995-566655
+  date: '1995-09-21'
+- type: cites
+  target: pt:dre:219968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:425289:por
+  label: "Revogado, com as alterações introduzidas pelo Dec Lei 138/94 de 23-Mai, pelo DEC LEI.231/98.1998.07.22.MAI DR.IS-A\
+    \ [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1998-425289
+  date: '1998-07-22'
 article_structure:
   article_count: 37
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:42Z'
   warnings: []
   errors: []
 ---
@@ -619,12 +643,12 @@ b) Exerçam quaisquer actividades proibidas pelos n.os 2 e 3 do artigo 3.º
 
 Visto e aprovado em Conselho de Ministros de 13 de Maio de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 7 de Julho de 1993.**
+Promulgado em 7 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Julho de 1993.**
+Referendado em 11 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

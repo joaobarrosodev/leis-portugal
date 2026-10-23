@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/1994/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1994-262358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05881ac25dd598375e99a3131c9b7225251499cb451ed284ea3a896409b16bb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cb76c8d9d98c0ffead80710e181793608e26d3fbea71bfb2e2bc1240bf13040
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Admissão de Pessoal
 - Aposentação
-- Administração de Portos
+- Gestão de Recursos Humanos
 - Junta Autónoma dos Portos
 - Junta Autónoma dos Portos do Arquipélago da Madeira
 - Junta Autónoma dos Portos dos Açores
-- Gestão de Recursos Humanos
 - Trabalhador Portuário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/317/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/317/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:618108:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:41Z'
   warnings: []
   errors: []
 ---
@@ -154,12 +158,12 @@ As administrações e juntas autónomas entregarão mensalmente à Caixa Geral d
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

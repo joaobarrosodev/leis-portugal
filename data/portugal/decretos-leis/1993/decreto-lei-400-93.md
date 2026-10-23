@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/282a00/67576758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/400/1993/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1993-551814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db0982dda351ad28445af950004115b5eb413970b57c8b6481ecb87183f879b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19f37e80b7a031b61c72e087559973e327362be3dd0f9363a15967881c6faa88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Empresa
 - Contribuições da Segurança Social
 - Dívidas à Segurança Social
+- Empresa
 - Financiamento da Segurança Social
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Gestão Financeira da Segurança Social
 - Segurança Social
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
@@ -86,16 +86,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/411/1991/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/411/1991/10/17/p/dre
+- type: cites
+  target: pt:dre:288977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405684:por
+  label: "Revogado pelo DEC LEI.124/96.1996.08.10.MF, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1996-405684
+  date: '1996-08-10'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 411/91, de 17-Out, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:18Z'
   warnings: []
   errors: []
 ---
@@ -176,12 +198,12 @@ Em tudo o que não estiver previsto neste diploma, aplicar-se-á o regime estabe
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 23 de Novembro de 1993.**
+Promulgado em 23 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Novembro de 1993.**
+Referendado em 24 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

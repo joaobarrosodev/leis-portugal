@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/346/1993/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1993-646305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0eff42c16aa9f79d85c53e3d97481a7ee55f24fd93cb186f4fe362c1989c0ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65b09acd10a440e29883f1b0829c97097f2f7583d0b33c5b593d862a2602306f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- RDA
 - CE Países
+- Direito de Estabelecimento
 - Equivalência de Habilitações Literárias
 - Farmacêutico
-- Direito de Estabelecimento
+- RDA
 relationships:
 - type: amended_by
   target: pt:dre:652283:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:652283:por
+  label: "Aditados os n.ºs 2 e 3 ao art. 14.º na redacção do presente diploma pelo DEC LEI.171/2003.2003.08.01.MS DR.IS-A\
+    \ [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2003-652283
+  date: '2003-08-01'
 - type: cites
   target: celex:31985L0432
   label: null
@@ -89,15 +95,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1990/658/oj
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:12Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +124,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Ao Decreto-lei n.º 31/88, de 3 de Fevereiro, são aditados os artigos 14.º e 15.º, com a seguinte redacção:
+Artigo único. Ao Decreto-lei n.º 31/88, de 3 de Fevereiro, são aditados os artigos 14.º e 15.º, com a seguinte redacção:
 
 ###### Artigo 14.º — Equiparação de diplomas
 
@@ -130,12 +136,12 @@ O disposto no presente decreto-lei é aplicável aos diplomas, certificados e ou
 
 Visto e aprovado em Conselho de Ministros em 17 de Junho de 1993. - Joaquim Fernando Nogueira - António Fernando Couto dos Santos - José Martins Nunes.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

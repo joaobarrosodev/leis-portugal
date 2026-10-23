@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/089a00/18801884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/1993/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1993-690982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad39bcca20cc2b255425ab6673fb77d607cb9fdb6eea8471b9e62ce024b78ba7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 578783b8d9cf5f49c5f0e6197a54746f78de4c62d5a9cdd5ed648788175ba6a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Administração Interna
 - Definição de Competências
-- Serviço de Estrangeiros e Fronteiras
+- Ministério da Administração Interna
 - Orgânica
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:649343:por
@@ -79,16 +79,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/710-a/1991/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/710-a/1991/07/15/p/dre
+- type: cites
+  target: pt:dre:186746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662361:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649343:por
+  label: "Revogado pelo DEC LEI.290-A/2001.2001.11.17.MAI,DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-2001-649343
+  date: '2001-11-17'
 article_structure:
-  article_count: 15
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 14
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:09Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +138,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 5.º, 12.º, 13.º, 14.º, 15.º, 16.º, 25.º, 66.º e 76.º do [Decreto-Lei n.º 440/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 5.º, 12.º, 13.º, 14.º, 15.º, 16.º, 25.º, 66.º e 76.º do [Decreto-Lei n.º 440/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065), de 31 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Natureza
 
@@ -257,7 +274,9 @@ b) ...
 
 c) ...
 
-###### Artigo 16.º — Divisão de Estrangeiros
+###### Artigo 16.º
+
+##### Divisão de Estrangeiros
 
 Compete à DE:
 
@@ -311,13 +330,15 @@ c) A Divisão de Desenvolvimento de Aplicações (DDA).
 
 3 - Ao pessoal referido no número anterior será fornecido pelo SEF o fardamento aprovado pela [Portaria n.º 710-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/710-a-1991-186746), de 15 de Julho, sendo a dotação e a duração de cada fardamento objecto de despacho do director.
 
-###### Art. 2.º A epígrafe da subsecção IV da secção II do capítulo II do [Decreto-Lei n.º 440/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065), de 31 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º A epígrafe da subsecção IV da secção II do capítulo II do [Decreto-Lei n.º 440/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065), de 31 de Dezembro, passa a ter a seguinte redacção:
 
 ##### SUBSECÇÃO IV — Direcção de Serviços de Informática
 
-###### Art. 3.º São aditados ao [Decreto-Lei n.º 440/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065), de 31 de Dezembro, os artigos 25.º-A, 25.º-B e 25.º-C, com a seguinte redacção:
+Art. 3.º São aditados ao [Decreto-Lei n.º 440/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065), de 31 de Dezembro, os artigos 25.º-A, 25.º-B e 25.º-C, com a seguinte redacção:
 
-###### Artigo 25.º-A — Divisão de Sistemas e Comunicações
+###### Artigo 25.º-A
+
+##### Divisão de Sistemas e Comunicações
 
 Compete à DSC:
 
@@ -331,7 +352,9 @@ d) Apoiar o pessoal técnico de informática do SEF ou dos seus utentes nas mat�
 
 e) Exercer consultadoria técnica, planear e efectuar auditorias técnicas na área de informática e encarregar-se dos projectos de desenvolvimento e ou de investigação próprios das áreas referidas na alínea anterior ou que lhe sejam expressamente cometidos.
 
-###### Artigo 25.º-B — Divisão de Produção
+###### Artigo 25.º-B
+
+##### Divisão de Produção
 
 Compete à D. Pr.:
 
@@ -351,7 +374,9 @@ g) Manter e gerir o arquivo dos ficheiros em suporte informático e, nos casos e
 
 h) Colaborar na elaboração dos manuais de operação e assegurar a sua correcta aplicação e actualização e participar nas actividades de formação e informação, seja no exercício de monitoragem, seja na redacção de textos, manuais e monografias.
 
-###### Artigo 25.º-C — Divisão de Desenvolvimento de Aplicações
+###### Artigo 25.º-C
+
+##### Divisão de Desenvolvimento de Aplicações
 
 Compete à DDA:
 
@@ -371,16 +396,16 @@ g) Realizar os estudos conducentes à racionalização de formulários e outros 
 
 h) Requisitar à D. Pr. os trabalhos de compilação e ensaio de unidades de tratamento e das cadeias em que se inserem, mantendo ligação com a mesma Divisão no que respeita à implantação e exploração de sistemas informáticos, com vista a definir os meios técnicos a utilizar, superando os condicionalismos operacionais ou de segurança.
 
-###### Art. 4.º Os novos quadros de pessoal do SEF necessários à execução do presente diploma são aprovados por portaria conjunta dos Ministros da Administração Interna e das Finanças.
+Art. 4.º Os novos quadros de pessoal do SEF necessários à execução do presente diploma são aprovados por portaria conjunta dos Ministros da Administração Interna e das Finanças.
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Março de 1993.**
+Referendado em 29 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

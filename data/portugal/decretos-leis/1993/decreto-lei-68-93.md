@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/058a00/10891089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/1993/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1993-628038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02f31bc659b47469231ea10bef936a80a63f00020a5d1ee400ab1ade293eec77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b6d10e5a724c5758523e65b47baddb49a1d9b529137f5ebfbbf42397ae8bf07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
 - Aproximação das Legislações
 - CEE
 - Controlo Sanitário
 - Direcção Geral da Pecuária
+- GADO
 - Importação
 - Legislação Veterinária
 - Medicina Veterinária
@@ -85,16 +85,21 @@ relationships:
   target: celex:31991L0496
   label: null
   source: http://data.europa.eu/eli/dir/1991/496/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogado, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:23Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +120,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/496/CEE](https://data.europa.eu/eli/dir/1991/496/oj?locale=pt), do Conselho, de 15 de Julho, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/496/CEE](https://data.europa.eu/eli/dir/1991/496/oj?locale=pt), do Conselho, de 15 de Julho, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura e do Comércio e Turismo.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura e do Comércio e Turismo.
 
-###### Art. 3.º - 1 - Constitui contra-ordenação a entrada de animais provenientes de países terceiros com desrespeito pelas regras relativas a controlos veterinários, documentais e de identidade estabelecidas nos termos previstos no artigo anterior.
+Art. 3.º - 1 - Constitui contra-ordenação a entrada de animais provenientes de países terceiros com desrespeito pelas regras relativas a controlos veterinários, documentais e de identidade estabelecidas nos termos previstos no artigo anterior.
 
 2 - As contra-ordenações previstas no número anterior são puníveis com coima, a aplicar pelo director-geral da Pecuária, cujo montante mínimo é de 5000$00 e o máximo de 500000$00.
 
@@ -127,11 +132,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A negligência é punível.
 
-###### Art. 4.º Cumulativamente com a coima podem ser aplicadas as sanções acessórias de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás.
+Art. 4.º Cumulativamente com a coima podem ser aplicadas as sanções acessórias de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás.
 
-###### Art. 5.º Quando sejam aplicadas as sanções acessórias previstas no artigo anterior, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
+Art. 5.º Quando sejam aplicadas as sanções acessórias previstas no artigo anterior, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 6.º O produto das coimas reverte:
+Art. 6.º O produto das coimas reverte:
 
 a) Em 30%, para a Direcção-Geral da Pecuária;
 
@@ -139,16 +144,16 @@ b) Em 10%, para a entidade autuante;
 
 c) Em 60%, para o Estado.
 
-###### Art. 7.º Compete à Direcção-Geral da Pecuária a fiscalização da observância das normas constantes do presente diploma e respectiva regulamentação.
+Art. 7.º Compete à Direcção-Geral da Pecuária a fiscalização da observância das normas constantes do presente diploma e respectiva regulamentação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1993. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Fevereiro de 1993.**
+Promulgado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1993.**
+Referendado em 18 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

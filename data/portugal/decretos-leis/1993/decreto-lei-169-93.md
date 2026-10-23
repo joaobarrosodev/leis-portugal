@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/1993/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1993-275055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 262279179bdf75735900ffe5c064dd5f2847df79791c8dcf1f6a876237237d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3fa41ed4826aa8423324d63865ff32796f2473623809ac93271c04a08a940c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Banco Português do Atlântico
 - Capital Social
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1992/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/1/1992/01/14/p/dre
+- type: cites
+  target: pt:dre:169420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667146:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:12Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +115,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação de 25000000 de acções detidas pelo Estado, representativas de 25% do capital social do Banco Português do Atlântico, S. A.
+Artigo 1.º É aprovada a alienação de 25000000 de acções detidas pelo Estado, representativas de 25% do capital social do Banco Português do Atlântico, S. A.
 
-###### Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes, em oferta pública de venda, 1500000 acções, correspondentes a 1,5% do capital social do Banco.
+Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes, em oferta pública de venda, 1500000 acções, correspondentes a 1,5% do capital social do Banco.
 
 2 - Serão reservadas para aquisição pelos accionistas do Banco, que tenham adquirido essa qualidade até oito dias após a publicação da resolução do Conselho de Ministros a que se refere o artigo 11.º, em oferta pública de venda a preço fixo, 15000000 de acções, correspondentes a 15% do capital do Banco.
 
@@ -115,7 +127,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Para os efeitos do n.º 1, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - Por resolução do Conselho de Ministros, serão sujeitas a quantidades mínimas e máximas individuais as aquisições de acções:
+Art. 3.º - 1 - Por resolução do Conselho de Ministros, serão sujeitas a quantidades mínimas e máximas individuais as aquisições de acções:
 
 a) Por trabalhadores;
 
@@ -129,7 +141,7 @@ d) Pelo público em geral, em oferta pública de venda.
 
 3 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo dos números anteriores, mais de 15% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excedam e que estejam em condições de ser satisfeitas.
 
-###### Art. 4.º - 1 - As aquisições de acções por instituições estratégicas, previstas no n.º 4 do artigo 2.º, não poderão exceder o limite de 3% do capital social do Banco, por cada entidade.
+Art. 4.º - 1 - As aquisições de acções por instituições estratégicas, previstas no n.º 4 do artigo 2.º, não poderão exceder o limite de 3% do capital social do Banco, por cada entidade.
 
 2 - Para efeitos dessa aquisição consideram-se instituições estratégicas as instituições de crédito, sociedades financeiras e companhias de seguro com as quais o Banco pretenda estabelecer relações duradouras.
 
@@ -137,13 +149,13 @@ d) Pelo público em geral, em oferta pública de venda.
 
 4 - Os termos definitivos da venda directa a instituições estratégicas deverão sempre ser aprovados por resolução do Conselho de Ministros.
 
-###### Art. 5.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos e as condições de pagamento para as acções a adquirir por trabalhadores, pequenos subscritores, emigrantes e accionistas.
+Art. 5.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos e as condições de pagamento para as acções a adquirir por trabalhadores, pequenos subscritores, emigrantes e accionistas.
 
 2 - O pagamento das acções adquiridas por trabalhadores poderá ser fraccionado ao longo do período de indisponibilidade das acções, previsto no n.º 1 do artigo seguinte, em condições a fixar na resolução do Conselho de Ministros.
 
 3 - A resolução do Conselho de Ministros estabelecerá os preços fixos correspondentes às operações a que se referem os n.os 2, 3 e 4 do artigo 2.º
 
-###### Art. 6.º - 1 - As acções adquiridas ao abrigo das alíneas a) e b) do n.º 1 do artigo 3.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição sob pena de nulidade do referido negócio.
+Art. 6.º - 1 - As acções adquiridas ao abrigo das alíneas a) e b) do n.º 1 do artigo 3.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 3.º não conferem aos respectivos titulares o direito de votarem na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.
 
@@ -153,7 +165,7 @@ d) Pelo público em geral, em oferta pública de venda.
 
 5 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada a alienação futura das acções quando celebrados antes de iniciado ou terminado o período referido no n.º 1.
 
-###### Art. 7.º - 1 - Na actual fase de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 15% do capital da sociedade.
+Art. 7.º - 1 - Na actual fase de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 15% do capital da sociedade.
 
 2 - Quando celebrados antes da aquisição das acções objecto desta fase de reprivatização, e em relação a elas, são nulos:
 
@@ -163,7 +175,7 @@ b) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a ent
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 8.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras.
+Art. 8.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras.
 
 2 - São nulos os acordos pelos quais, durante o período de indisponibilidade referido no n.º 1 do artigo 6.º, entidades portuguesas adquiram acções da sociedade reprivatizada em nome próprio mas por conta de entidades estrangeiras.
 
@@ -171,7 +183,7 @@ c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a
 
 4 - No caso do n.º 1, as acções adquiridas reputam-se, para todos os efeitos, pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 9.º - 1 - Na aquisição e na posse, por entidades estrangeiras, de acções da sociedade reprivatizada observar-se-á o seguinte:
+Art. 9.º - 1 - Na aquisição e na posse, por entidades estrangeiras, de acções da sociedade reprivatizada observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito de voto representativas de mais de 25% do capital social com direito a voto;
 
@@ -181,7 +193,7 @@ c) Nas sociedades, ordinárias ou gestoras de participações sociais, titulares
 
 2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considerar necessárias.
 
-###### Art. 10.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 10.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -195,20 +207,20 @@ d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva declarará, por escrito, se se encontra ou não em relação, nos termos do número anterior, com outra entidade também concorrente.
 
-###### Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução do presente diploma.
+Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução do presente diploma.
 
-###### Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem, a tomada firme, incluindo o ajuste directo da operação, bem como determinar as demais condições que se afiguram convenientes.
+Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem, a tomada firme, incluindo o ajuste directo da operação, bem como determinar as demais condições que se afiguram convenientes.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

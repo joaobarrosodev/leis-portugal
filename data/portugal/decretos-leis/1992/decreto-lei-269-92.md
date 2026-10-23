@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/276a00/54965497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269/1992/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1992-599728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc6a03201b48956c1672eec781d70f59e6ce3ac34ae56bc05f6773e93c05f99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69259668e0d96aa456156cf4980dc603347b5aa7a0ba00b97079009ccfe2a14f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
+- BENS Imóveis do Estado
 - Caminhos de Ferro Portugueses
 - CP
 - Domínio Público Ferroviário
-- BENS Imóveis do Estado
 - Investimento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468652:por
+  label: "Revogado pelo DEC LEI.276/2003.04.11.2003.MOPTH, DR.IS-A [255] de 04.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-2003-468652
+  date: '1992-11-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:26Z'
   warnings: []
   errors: []
 ---
@@ -113,19 +122,19 @@ No uso das autorizações legislativas concedidas pelos n.os 5 e 6 do artigo 63.
 
 ### CAPÍTULO I — Desafectação do domínio público ferroviário
 
-###### Artigo 1.º Os bens do domínio público ferroviário, desde que não adstritos ao serviço público a que se destinavam, poderão ser desafectados e integrados no património da CP - Caminhos de Ferro Portugueses, E. P., por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Artigo 1.º Os bens do domínio público ferroviário, desde que não adstritos ao serviço público a que se destinavam, poderão ser desafectados e integrados no património da CP - Caminhos de Ferro Portugueses, E. P., por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º As verbas resultantes da alienação dos bens integrados no património da CP, nos termos do artigo anterior, são afectas, na sua totalidade, a investimentos na modernização de infra-estruturas e material circulante da empresa.
+Art. 2.º As verbas resultantes da alienação dos bens integrados no património da CP, nos termos do artigo anterior, são afectas, na sua totalidade, a investimentos na modernização de infra-estruturas e material circulante da empresa.
 
-###### Art. 3.º O despacho referido no artigo 1.º constitui documento bastante para o registo na conservatória do registo predial respectiva, a favor da CP - Caminhos de Ferro Portugueses, E. P., dos imóveis nele identificados.
+Art. 3.º O despacho referido no artigo 1.º constitui documento bastante para o registo na conservatória do registo predial respectiva, a favor da CP - Caminhos de Ferro Portugueses, E. P., dos imóveis nele identificados.
 
 ### CAPÍTULO II — Aproveitamento e exploração do domínio público ferroviário
 
-###### Art. 4.º - 1 - Compete à entidade detentora do serviço público de transportes por caminho de ferro assegurar, nos termos do presente diploma e demais legislação aplicável, o aproveitamento e exploração dos bens que compõem o domínio público ferroviário.
+Art. 4.º - 1 - Compete à entidade detentora do serviço público de transportes por caminho de ferro assegurar, nos termos do presente diploma e demais legislação aplicável, o aproveitamento e exploração dos bens que compõem o domínio público ferroviário.
 
 2 - Em caso de concessão ou subconcessão de exploração do serviço público ferroviário, ou de parte dele, os poderes referidos no número anterior serão exercidos pela entidade concessionária, nos termos do respectivo contrato e da legislação especialmente aplicável.
 
-###### Art. 5.º - 1 - No espaço aéreo e no subsolo correspondentes ao leito das vias térreas, a partir da altura ou da profundidade que não ponha em causa a segurança da via e da circulação dos meios de transporte, tem a entidade titular da exploração do serviço ferroviário, mediante prévia aprovação do Ministro das Obras Públicas, Transportes e Comunicações, o direito de construir, para si mesma ou associada a outrem, e, bem assim, a faculdade de ceder totalmente esse direito.
+Art. 5.º - 1 - No espaço aéreo e no subsolo correspondentes ao leito das vias térreas, a partir da altura ou da profundidade que não ponha em causa a segurança da via e da circulação dos meios de transporte, tem a entidade titular da exploração do serviço ferroviário, mediante prévia aprovação do Ministro das Obras Públicas, Transportes e Comunicações, o direito de construir, para si mesma ou associada a outrem, e, bem assim, a faculdade de ceder totalmente esse direito.
 
 2 - De igual direito goza a entidade titular da exploração do serviço ferroviário relativamente ao espaço aéreo superior e ao subsolo inferior aos edifícios das estações e apeadeiros e aos edifícios do estabelecimento industrial e comercial do caminho de ferro, na altura e na profundidade que não sejam essenciais à segurança das instalações ou à circulação de passageiros ou mercadorias, podendo, neste caso, ser concedido o direito de sobreelevação.
 
@@ -137,11 +146,11 @@ No uso das autorizações legislativas concedidas pelos n.os 5 e 6 do artigo 63.
 
 6 - Na falta de estipulação em contrário, entender-se-á que o direito de construir a que se refere o número anterior é exercido pelo concessionário dentro do prazo da concessão, se todas as licenças necessárias à realização de obras forem concedidas na vigência do respectivo contrato.
 
-###### Art. 6.º - 1 - As construções levadas a cabo nos termos do artigo anterior são consideradas como imóveis integrados no domínio privado, estando a sua transmissão ou oneração sujeita a inscrição no registo predial, depois de efectuada a respectiva descrição, bem como a inscrição do direito do primitivo titular.
+Art. 6.º - 1 - As construções levadas a cabo nos termos do artigo anterior são consideradas como imóveis integrados no domínio privado, estando a sua transmissão ou oneração sujeita a inscrição no registo predial, depois de efectuada a respectiva descrição, bem como a inscrição do direito do primitivo titular.
 
 2 - No caso de obras realizadas por concessionário, o direito de propriedade sobre as construções não depende da subsistência do contrato de concessão, salvo se neste se dispuser de modo diferente.
 
-###### Art. 7.º - 1 - As edificações integradas no domínio privado a que se refere o artigo anterior devem dispor de entradas e acesso separados da área exclusivamente destinada ao serviço ferroviário, bem como, quando existam, instalações próprias de água, electricidade, gás, aquecimento, ar condicionado ou outras semelhantes.
+Art. 7.º - 1 - As edificações integradas no domínio privado a que se refere o artigo anterior devem dispor de entradas e acesso separados da área exclusivamente destinada ao serviço ferroviário, bem como, quando existam, instalações próprias de água, electricidade, gás, aquecimento, ar condicionado ou outras semelhantes.
 
 2 - O solo dos edifícios pertencentes ao caminho de ferro que sejam objecto de sobreelevação continua a pertencer ao domínio público, assim como os respectivos pátios, jardins e logradouros.
 
@@ -149,16 +158,16 @@ No uso das autorizações legislativas concedidas pelos n.os 5 e 6 do artigo 63.
 
 4 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, às construções resultantes do aprofundamento dos edifícios pertencentes ao domínio público ferroviário.
 
-###### Art. 8.º O disposto no presente diploma não dispensa os licenciamentos previstos na lei para obras de construção civil e da utilização de edifícios ou de suas fracções autónomas.
+Art. 8.º O disposto no presente diploma não dispensa os licenciamentos previstos na lei para obras de construção civil e da utilização de edifícios ou de suas fracções autónomas.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

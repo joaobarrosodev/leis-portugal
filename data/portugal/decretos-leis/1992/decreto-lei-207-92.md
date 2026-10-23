@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/1992/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a380b900aff11868a7ab3d72732207c7ce6c3954ac686e74bfc6f88a3378c8b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a229acf9fae6f1ac8a4d8b47c352ae1f7eb24d9f80eb5e57d66907e98a0b7e99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
+- Comunicações
 - CTT
 - Preço
+- Serviço Postal
 - Serviço Público
-- Comunicações
 - TAXA de Prestação de Serviços
 - TAXA Telefonica
 - Telex
@@ -79,16 +79,24 @@ relationships:
   target: pt:dre:288056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:496757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:00Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +119,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma define o regime de fixação de preços dos serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações.
+Artigo 1.º O presente diploma define o regime de fixação de preços dos serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações.
 
-###### Art. 2.º - 1 - Os preços dos serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações são objecto de convenção, nos termos do artigo 3.º
+Art. 2.º - 1 - Os preços dos serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações são objecto de convenção, nos termos do artigo 3.º
 
 2 - A convenção referida no número anterior definirá os princípios gerais e as regras tendentes à fixação e à aplicação:
 
@@ -141,38 +149,38 @@ c) Os parâmetros dentro dos quais é permitido aos operadores estabelecer ou ac
 
 d) Os preços de outras prestações acessórias dos serviços referidos no número anterior que se revistam de interesse para o público em geral, como tal reconhecido por portaria do membro do Governo responsável pela área das comunicações.
 
-###### Art. 3.º - 1 - O regime de preços referido no artigo anterior é estabelecido através de convenção a acordar entre a administração central, representada pela Direcção-Geral de Concorrência e Preços, o Instituto das Comunicações de Portugal e as empresas operadoras dos serviços públicos de correios e de telecomunicações.
+Art. 3.º - 1 - O regime de preços referido no artigo anterior é estabelecido através de convenção a acordar entre a administração central, representada pela Direcção-Geral de Concorrência e Preços, o Instituto das Comunicações de Portugal e as empresas operadoras dos serviços públicos de correios e de telecomunicações.
 
 2 - A convenção entra em vigor no dia seguinte ao da sua ratificação pelos Ministros das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-###### Art. 4.º - 1 - Cada convenção vigora pelo período de tempo que nela for acordado, sendo o mesmo prorrogado por idêntico período, salvo denúncia por qualquer das partes com a antecedência mínima de 60 dias sobre o termo da vigência.
+Art. 4.º - 1 - Cada convenção vigora pelo período de tempo que nela for acordado, sendo o mesmo prorrogado por idêntico período, salvo denúncia por qualquer das partes com a antecedência mínima de 60 dias sobre o termo da vigência.
 
 2 - Em caso de denúncia da convenção, continuam em vigor os preços dela resultantes até que os preços estabelecidos em nova convenção entrem em vigor.
 
-###### Art. 5.º Os operadores não podem estabelecer, para os serviços referidos no artigo 2.º, preços diferentes daqueles que sejam determinados pelos princípios e regras definidos na convenção.
+Art. 5.º Os operadores não podem estabelecer, para os serviços referidos no artigo 2.º, preços diferentes daqueles que sejam determinados pelos princípios e regras definidos na convenção.
 
-###### Art. 6.º Sem prejuízo do disposto na lei geral, deverá ser dado relevo especial à divulgação dos preços estabelecidos de acordo com a convenção, nos termos que a mesma determinar.
+Art. 6.º Sem prejuízo do disposto na lei geral, deverá ser dado relevo especial à divulgação dos preços estabelecidos de acordo com a convenção, nos termos que a mesma determinar.
 
-###### Art. 7.º - 1 - São fixados pelos operadores, nos termos da legislação aplicável, os preços dos serviços por eles prestados que não estejam compreendidos no artigo 2.º
+Art. 7.º - 1 - São fixados pelos operadores, nos termos da legislação aplicável, os preços dos serviços por eles prestados que não estejam compreendidos no artigo 2.º
 
 2 - Os operadores devem publicitar adequadamente os preços a que se refere o número anterior.
 
-###### Art. 8.º Até à data da entrada em vigor dos preços estabelecidos por convenção, continuam a aplicar-se as taxas vigentes.
+Art. 8.º Até à data da entrada em vigor dos preços estabelecidos por convenção, continuam a aplicar-se as taxas vigentes.
 
-###### Art. 9.º - 1 - Compete ao ministro da tutela a fixação, por portaria, das taxas aplicáveis ao licenciamento de sistemas de telecomunicações.
+Art. 9.º - 1 - Compete ao ministro da tutela a fixação, por portaria, das taxas aplicáveis ao licenciamento de sistemas de telecomunicações.
 
 2 - O valor das taxas respeitantes ao licenciamento de sistemas privativos de telecomunicações, abrangidos pelo exclusivo de exploração atribuído aos operadores de comunicações de uso público, será calculado tendo em conta o custo potencial de utilização de um sistema equivalente da rede pública.
 
-###### Art. 10.º É revogado o [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), de 14 de Novembro.
+Art. 10.º É revogado o [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), de 14 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Jorge Manuel Mendes Antas - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

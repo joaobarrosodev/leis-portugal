@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/1994/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1994-301453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58065dd69cf98b41508950aa4467ed183a81b3671e7c58d365ffde7e363bbc06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4b6e90f7d10e6896264fef14e0992615c76dcd1428629f21b3386553c71b078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/147/1992/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/147/1992/07/21/p/dre
+- type: cites
+  target: pt:dre:292309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:24Z'
   warnings: []
   errors: []
 ---
@@ -110,26 +122,26 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação de 1500000 acções da Companhia de Seguros Bonança, S. A., correspondentes a 25% do seu capital social, de que é titular a PARTEST - Participações do Estado, SGPS, S. A.
+Artigo 1.º É aprovada a alienação de 1500000 acções da Companhia de Seguros Bonança, S. A., correspondentes a 25% do seu capital social, de que é titular a PARTEST - Participações do Estado, SGPS, S. A.
 
-###### Art. 2.º - 1 - A alienação será efectuada por oferta pública de venda, mediante leilão competitivo.
+Art. 2.º - 1 - A alienação será efectuada por oferta pública de venda, mediante leilão competitivo.
 
 2 - As ordens de compra serão sujeitas a quantidades mínimas e máximas, a fixar por resolução do Conselho de Ministros.
 
 3 - Compete ao Governo, mediante resolução do Conselho de Ministros, fixar o preço base para a oferta pública de venda, bem como as condições finais e concretas das operações a realizar para a execução deste diploma.
 
-###### Art. 3.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para, por ajuste directo, contratar a montagem das operações de alienação e oferta pública de venda de acções e a respectiva colocação, bem como para determinar as demais condições que se afigurem convenientes.
+Art. 3.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para, por ajuste directo, contratar a montagem das operações de alienação e oferta pública de venda de acções e a respectiva colocação, bem como para determinar as demais condições que se afigurem convenientes.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 18 de Maio de 1994.**
+Promulgado em 18 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Maio de 1994.**
+Referendado em 23 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

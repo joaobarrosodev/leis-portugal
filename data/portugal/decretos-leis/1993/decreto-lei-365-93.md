@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/248a00/60056008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/365/1993/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c30dd4191d5121f12b3a6858198e768e4ea0e1264bacbc00e0703b0507de40cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c79123033d06ebd7529e62812657c26590b46d805ccb7e441745003c32bd1531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aproximação das Legislações
+- Ave de Capoeira
+- CAÇA
 - Carne
 - CEE
-- Multa
-- CAÇA
+- Comércio
 - Contra-ordenação
+- Controlo Sanitário
 - Decisão CE
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Controlo Sanitário
 - Fiscalização
-- Ave de Capoeira
-- Inspecção Geral das Actividades Económicas
 - Importação
+- Inspecção Geral das Actividades Económicas
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto do Azeite e Produtos Oleaginosos
-- Iroma
 - Integração de Trabalhadores
+- Iroma
 - Junta Nacional das Frutas
 - Junta Nacional dos Produtos Pecuários
+- Multa
 - Política Agrícola Comum
+- Produção Animal
 - Quadro de Pessoal
-- Comércio
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:308520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687465:por
+  label: "Alterados os arts. 4º, 5º, 6º, 7º e 9º e substituídas por Direcção-Geral de Veterinária as referências feitas, neste\
+    \ diploma, ao Instituto de Protecção da Produção Agro-Alimentar pelo DEC LEI.310/97.1997.11.13.MADRP DR.IS-A [263]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-1997-687465
+  date: '1997-11-13'
 - type: cites
   target: celex:31972L0462
   label: null
@@ -125,16 +131,21 @@ relationships:
   target: celex:31992L0045
   label: null
   source: http://data.europa.eu/eli/dir/1992/45/oj
+- type: repealed_by
+  target: pt:dre:308520:por
+  label: "Revogado pelo DEC LEI.208/99.1999.06.11.MADRP, DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-1999-308520
+  date: '1999-06-11'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:32Z'
   warnings: []
   errors: []
 ---
@@ -323,12 +334,12 @@ O presente diploma entra em vigor no dia 1 do segundo mês seguinte ao da sua pu
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 29 de Setembro de 1993.**
+Promulgado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Outubro de 1993.**
+Referendado em 5 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

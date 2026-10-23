@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/417/1993/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1993-541977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3483b9c74a46cc8f7882db62bb9e5f87cd1372ee927ea08ff08d4997c2681cb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d624ab99e77a5949e540ccab0e57cf8b465a92ed662b19f344f848393c2a3576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
 - Curso de Promoção a CABO de Secção
 - Curso Especial de Promoção a Segundo-sargento do Quadro de Amanuenses
+- Exército
 - Forças Armadas
-- Promoção Profissional
 - Militar
-relationships: []
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:38Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +103,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado o curso especial de promoção a segundo-sargento do quadro de amanuenses (CEPSSQA).
+Artigo 1.º - 1 - É criado o curso especial de promoção a segundo-sargento do quadro de amanuenses (CEPSSQA).
 
 2 - O curso destina-se aos militares do quadro permanente de praças do Exército (QPPE), que, pretendendo ingressar no quadro de amanuenses, o requeiram ao Chefe do Estado-Maior do Exército.
 
 3 - A frequência do CEPSSQA, com aproveitamento, constitui condição especial de promoção a segundo-sargento do quadro de amanuenses.
 
-###### Art. 2.º Qualquer militar do QPPE com idade inferior a 57 anos pode requerer a frequência do CEPSSQA, desde que durante a frequência do curso não atinja o limite de idade de passagem à situação de reserva.
+Art. 2.º Qualquer militar do QPPE com idade inferior a 57 anos pode requerer a frequência do CEPSSQA, desde que durante a frequência do curso não atinja o limite de idade de passagem à situação de reserva.
 
-###### Art. 3.º - 1 - É criado o curso de promoção a cabo de secção (CPCS).
+Art. 3.º - 1 - É criado o curso de promoção a cabo de secção (CPCS).
 
 2 - O curso destina-se, exclusivamente, aos cabos-adjuntos que ingressaram no QPPE nos termos do n.º 1 do artigo 35.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, e o requeiram ao Chefe do Estado-Maior do Exército.
 
-###### Art. 4.º - 1 - O número de instruendos a admitir aos CEPSSQA e CPCS é fixado, anualmente, por despacho do Chefe do Estado-Maior do Exército.
+Art. 4.º - 1 - O número de instruendos a admitir aos CEPSSQA e CPCS é fixado, anualmente, por despacho do Chefe do Estado-Maior do Exército.
 
 2 - É condição preferencial de admissão aos CEPSSQA e CPCS a maior antiguidade.
 
@@ -121,12 +125,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 2 de Dezembro de 1993.**
+Promulgado em 2 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1993.**
+Referendado em 13 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

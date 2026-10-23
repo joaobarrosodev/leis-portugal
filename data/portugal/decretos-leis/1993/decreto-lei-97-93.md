@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1993-680645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0966bb0f4f02a315ee17a0d894560a275cf21c41af382f496688ad20772863e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b46e618fbb3e66bb207b9418705cd7a0458faecea20c4eadaeee738235c43ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Reconhecimento e Ordenamento Agrário
-- Pessoal Dirigente
 - Definição de Competências
-- Direcção Geral de Hidráulica e Engenharia Agrícola
 - Direcção Geral da Pecuária
+- Direcção Geral de Hidráulica e Engenharia Agrícola
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - REDE de Informação e Contabilidade Agrícola
 - Transferência de Competências
@@ -81,20 +81,42 @@ relationships:
   target: pt:dre:435397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinto o Instituto das Estruturas Agrárias e Desenvolvimento Rural, pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A\
+    \ [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:313845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
   article_count: 63
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 43
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:58Z'
   warnings: []
   errors: []
 ---
@@ -287,7 +309,9 @@ b) Divisão de Organização e Gestão dos Recursos Humanos;
 
 c) Repartição Administrativa.
 
-###### Artigo 9.º — Divisão de Programação e Gestão Financeira
+###### Artigo 9.º
+
+##### Divisão de Programação e Gestão Financeira
 
 1 - À Divisão de Programação e Gestão Financeira compete:
 
@@ -305,7 +329,9 @@ f) Promover a elaboração da conta anual de gerência e a elaboração do relat
 
 2 - Na dependência da Divisão de Programação e Gestão Financeira funciona uma tesouraria, dirigida por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 10.º — Divisão de Organização e Gestão dos Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Organização e Gestão dos Recursos Humanos
 
 À Divisão de Organização e Gestão dos Recursos Humanos compete:
 
@@ -335,7 +361,9 @@ c) Secção de Aprovisionamento, à qual compete elaborar e executar os processo
 
 d) Secção de Património e Conservação de Bens, à qual compete manter actualizado o inventário dos bens, zelar pela conservação dos edifícios e outras instalações, pela eficiência das redes de comunicação internas, assegurar o serviço de manutenção de viaturas e a eficácia do serviço de limpeza e segurança.
 
-###### Artigo 12.º — Divisão de Apoio Jurídico
+###### Artigo 12.º
+
+##### Divisão de Apoio Jurídico
 
 À Divisão de Apoio Jurídico, dependente directamente do presidente, compete:
 
@@ -351,7 +379,9 @@ e) Preparar os projectos de resposta nos recursos de contencioso administrativo;
 
 f) Patrocinar os interesses do IEADR em juízo.
 
-###### Artigo 13.º — Divisão de Informação e Relações Públicas
+###### Artigo 13.º
+
+##### Divisão de Informação e Relações Públicas
 
 À Divisão de Informação e Relações Públicas, dependente directamente do presidente, compete:
 
@@ -365,7 +395,9 @@ d) Programar, preparar e executar as acções de informação e relações públ
 
 e) Preparar e acompanhar o relacionamento do IEADR com outros agentes, instituições e entidades.
 
-###### Artigo 14.º — Divisão de Informática
+###### Artigo 14.º
+
+##### Divisão de Informática
 
 À Divisão de Informática, dependente directamente do director-geral, compete:
 
@@ -391,7 +423,9 @@ b) Divisão de Informação de Contabilidades Agrícolas;
 
 c) Divisão de Coordenação e Metodologia Estatística.
 
-###### Artigo 16.º — Divisão de Inquéritos
+###### Artigo 16.º
+
+##### Divisão de Inquéritos
 
 À Divisão de Inquéritos compete, em articulação com o Instituto Nacional de Estatística:
 
@@ -403,7 +437,9 @@ c) Apoiar os serviços de estatística das regiões agrícolas na definição da
 
 d) Colaborar na preparação dos planos anuais e plurianuais de actividade estatística.
 
-###### Artigo 17.º — Divisão de Informação de Contabilidades Agrícolas
+###### Artigo 17.º
+
+##### Divisão de Informação de Contabilidades Agrícolas
 
 À Divisão de Informação de Contabilidades Agrícolas compete:
 
@@ -413,7 +449,9 @@ b) Estudar a evolução de indicadores técnico-económicos a nível regional, n
 
 c) Promover, coordenar e dinamizar as acções necessárias à determinação anual do custo de produção dos principais produtos agrícolas e pecuários e da evolução dos rendimentos dos agricultores.
 
-###### Artigo 18.º — Divisão de Coordenação e Metodologia Estatística
+###### Artigo 18.º
+
+##### Divisão de Coordenação e Metodologia Estatística
 
 À Divisão de Coordenação e Metodologia Estatística compete, em articulação com o Instituto Nacional de Estatística:
 
@@ -439,7 +477,9 @@ b) Divisão de Planeamento Global e Orçamentação;
 
 c) Divisão de Avaliação de Política Agrária.
 
-###### Artigo 20.º — Divisão de Estudos e Agro-Economia
+###### Artigo 20.º
+
+##### Divisão de Estudos e Agro-Economia
 
 À Divisão de Estudos e Agro-Economia compete:
 
@@ -453,7 +493,9 @@ d) Elaborar e utilizar um modelo global para o sector, com propósitos explicati
 
 e) Proceder à divulgação sistemática dos resultados dos estudos.
 
-###### Artigo 21.º — Divisão de Planeamento Global e Orçamentação
+###### Artigo 21.º
+
+##### Divisão de Planeamento Global e Orçamentação
 
 À Divisão de Planeamento Global e Orçamentação compete:
 
@@ -473,7 +515,9 @@ g) Acompanhar a execução financeira e material do quadro comunitário de apoio
 
 h) Articular tecnicamente os diversos instrumentos de planeamento e o orçamento com os serviços centrais e regionais do Ministério da Agricultura.
 
-###### Artigo 22.º — Divisão de Avaliação de Política Agrária
+###### Artigo 22.º
+
+##### Divisão de Avaliação de Política Agrária
 
 À Divisão de Avaliação de Política Agrária compete:
 
@@ -505,7 +549,9 @@ c) Divisão de Coordenação das Medidas Complementares;
 
 d) Divisão de Gestão das Medidas Agrícolas.
 
-###### Artigo 24.º — Divisão de Coordenação das Medidas Infra-Estruturais e de Organização
+###### Artigo 24.º
+
+##### Divisão de Coordenação das Medidas Infra-Estruturais e de Organização
 
 À Divisão de Coordenação das Medidas Infra-Estruturais e de Organização compete:
 
@@ -515,7 +561,9 @@ b) Propor a regulamentação da aplicação a Portugal das referidas medidas e a
 
 c) Analisar o impacte da sua aplicação.
 
-###### Artigo 25.º — Divisão de Coordenação das Medidas de Apoio à Exploração Agrícola
+###### Artigo 25.º
+
+##### Divisão de Coordenação das Medidas de Apoio à Exploração Agrícola
 
 À Divisão de Coordenação das Medidas de Apoio à Exploração Agrícola compete:
 
@@ -525,7 +573,9 @@ b) Acompanhar o processo de decisão das medidas propostas nos órgãos comunit�
 
 c) Analisar o impacte da aplicação das medidas específicas.
 
-###### Artigo 26.º — Divisão de Coordenação das Medidas Complementares
+###### Artigo 26.º
+
+##### Divisão de Coordenação das Medidas Complementares
 
 À Divisão de Coordenação das Medidas Complementares compete:
 
@@ -535,7 +585,9 @@ b) Analisar o impacte da aplicação destas medidas;
 
 c) Acompanhar o processo de decisão e a evolução da política comunitária no domínio da protecção do ambiente e preservação do espaço rural.
 
-###### Artigo 27.º — Divisão de Gestão das Medidas Agrícolas
+###### Artigo 27.º
+
+##### Divisão de Gestão das Medidas Agrícolas
 
 À Divisão de Gestão das Medidas Agrícolas compete:
 
@@ -559,7 +611,9 @@ c) Divisão de Acompanhamento e Fiscalização de Obras;
 
 d) Divisão de Mecanização e Normalização.
 
-###### Artigo 29.º — Divisão de Infra-Estruturas Rurais
+###### Artigo 29.º
+
+##### Divisão de Infra-Estruturas Rurais
 
 À Divisão de Infra-Estruturas Rurais compete:
 
@@ -573,7 +627,9 @@ d) Elaborar estudos e normas sobre materiais, métodos de construção, equipame
 
 e) Apoiar tecnicamente a análise, elaboração e aprovação de projectos de instalações agrícolas e pecuárias, caminhos agrícolas e rurais, equipamentos sociais de carácter colectivo, instalações eléctricas e equipamentos electromecânicos a incorporar em infra-estruturas rurais.
 
-###### Artigo 30.º — Divisão de Estudos e Dimensionamento de Estruturas
+###### Artigo 30.º
+
+##### Divisão de Estudos e Dimensionamento de Estruturas
 
 À Divisão de Estudos e Dimensionamento de Estruturas compete:
 
@@ -591,7 +647,9 @@ f) Promover, em colaboração com as entidades competentes, os estudos e project
 
 g) Efectuar a caracterização do solo e da água necessária à execução de estudos e projectos conducentes à efectivação das atribuições cometidas ao IEADR.
 
-###### Artigo 31.º — Divisão de Acompanhamento e Fiscalização de Obras
+###### Artigo 31.º
+
+##### Divisão de Acompanhamento e Fiscalização de Obras
 
 À Divisão de Acompanhamento e Fiscalização de Obras compete:
 
@@ -603,7 +661,9 @@ c) Coordenar e fiscalizar as obras e empreitadas adjudicadas, recorrendo, sempre
 
 d) Elaborar a conta corrente das situações dos trabalhos e a conta final de todas as empreitadas da competência do IEADR.
 
-###### Artigo 32.º — Divisão de Mecanização e Normalização
+###### Artigo 32.º
+
+##### Divisão de Mecanização e Normalização
 
 À Divisão de Mecanização e Normalização compete:
 
@@ -641,7 +701,9 @@ c) Divisão de Rega e Drenagem;
 
 d) Divisão de Apoio aos Projectos e Aproveitamentos Hidroagrícolas.
 
-###### Artigo 34.º — Divisão de Análise de Projectos e Expropriações
+###### Artigo 34.º
+
+##### Divisão de Análise de Projectos e Expropriações
 
 À Divisão de Análise de Projectos e Expropriações compete:
 
@@ -655,7 +717,9 @@ d) Proceder aos estudos agro-económicos relativos às áreas a inundar ou ocupa
 
 e) Promover e coordenar todos os estudos necessários à execução das acções de indemnização e expropriação.
 
-###### Artigo 35.º — Divisão de Estruturas Hidráulicas
+###### Artigo 35.º
+
+##### Divisão de Estruturas Hidráulicas
 
 À Divisão de Estruturas Hidráulicas compete:
 
@@ -665,7 +729,9 @@ b) Promover e garantir o cumprimento das medidas de controlo de segurança de ba
 
 c) Emitir pareceres sobre pedidos de licenciamento e financiamento de estruturas hidráulicas para fins agrícolas.
 
-###### Artigo 36.º — Divisão de Rega e Drenagem
+###### Artigo 36.º
+
+##### Divisão de Rega e Drenagem
 
 À Divisão de Rega e Drenagem compete:
 
@@ -677,7 +743,9 @@ c) Emitir pareceres sobre os pedidos de licenciamento e financiamento das obras 
 
 d) Colaborar com todos os organismos públicos e privados envolvidos na concepção e realização de estudos e projectos de infra-estruturas hidráulicas de grandes aproveitamentos hidroagrícolas e de obras de regularização fluvial.
 
-###### Artigo 37.º — Divisão de Apoio aos Projectos e Aproveitamentos Hidroagrícolas
+###### Artigo 37.º
+
+##### Divisão de Apoio aos Projectos e Aproveitamentos Hidroagrícolas
 
 À Divisão de Apoio aos Projectos e Aproveitamentos Hidroagrícolas compete:
 
@@ -711,7 +779,9 @@ c) Divisão de Topografia e Cartografia;
 
 d) Divisão de Solos.
 
-###### Artigo 39.º — Divisão de Ordenamento Rural e Protecção Ambiental
+###### Artigo 39.º
+
+##### Divisão de Ordenamento Rural e Protecção Ambiental
 
 À Divisão de Ordenamento Rural e Protecção Ambiental compete:
 
@@ -723,7 +793,9 @@ c) Promover e coordenar a elaboração de planos de desenvolvimento rural e defi
 
 d) Promover e coordenar a realização de estudos ambientais, nomeadamente estudos de impacte ambiental e de integração paisagística relativos a projectos de desenvolvimento rural.
 
-###### Artigo 40.º — Divisão de Estruturação Fundiária
+###### Artigo 40.º
+
+##### Divisão de Estruturação Fundiária
 
 À Divisão de Estruturação Fundiária compete:
 
@@ -743,7 +815,9 @@ g) Coordenar a gestão e administração do património rústico afecto ao IEADR
 
 h) Coordenar e dinamizar a aplicação de medidas nacionais e comunitárias para o sector.
 
-###### Artigo 41.º — Divisão de Topografia e Cartografia
+###### Artigo 41.º
+
+##### Divisão de Topografia e Cartografia
 
 À Divisão de Topografia e Cartografia compete:
 
@@ -753,7 +827,9 @@ b) Criar e gerir um sistema de informação geográfica relativo a áreas de int
 
 c) Colaborar, em especial com o Instituto Geográfico e Cadastral, na elaboração das cartas cadastrais das zonas de emparcelamento e de beneficiação hidroagrícola.
 
-###### Artigo 42.º — Divisão de Solos
+###### Artigo 42.º
+
+##### Divisão de Solos
 
 À Divisão de Solos compete:
 
@@ -775,7 +851,9 @@ a) Divisão de Melhoramento Animal e de Apoio à Produção;
 
 b) Divisão de Selecção e Reprodução Animal.
 
-###### Artigo 44.º — Divisão de Melhoramento Animal e de Apoio à Produção
+###### Artigo 44.º
+
+##### Divisão de Melhoramento Animal e de Apoio à Produção
 
 À Divisão de Melhoramento Animal e de Apoio à Produção compete:
 
@@ -793,7 +871,9 @@ f) Estabelecer a classificação dos concursos pecuários e dos leilões de repr
 
 g) Colaborar com os serviços especializados na definição dos sistemas de produção e técnicas mais aconselháveis para as diferentes condições agro-ecológicas e das acções a empreender com vista ao aumento da eficácia produtiva.
 
-###### Artigo 45.º — Divisão de Selecção e Reprodução Animal
+###### Artigo 45.º
+
+##### Divisão de Selecção e Reprodução Animal
 
 À Divisão de Selecção e Reprodução Animal compete:
 
@@ -825,7 +905,9 @@ b) Divisão de Associativismo e de Apoio à Empresa Agrícola;
 
 c) Divisão de Serviços em Meio Rural.
 
-###### Artigo 47.º — Divisão de Formação
+###### Artigo 47.º
+
+##### Divisão de Formação
 
 À Divisão de Formação compete:
 
@@ -837,7 +919,9 @@ c) Programar, promover e coordenar a produção e ou utilização dos meios log�
 
 d) Assegurar a gestão e funcionamento dos centros nacionais de formação profissional.
 
-###### Artigo 48.º — Divisão de Associativismo e de Apoio à Empresa Agrícola
+###### Artigo 48.º
+
+##### Divisão de Associativismo e de Apoio à Empresa Agrícola
 
 À Divisão de Associativismo e de Apoio à Empresa Agrícola compete:
 
@@ -855,7 +939,9 @@ f) Conceber, propor, promover e coordenar as medidas de apoio à modernização 
 
 g) Conceber, propor, promover e coordenar as medidas específicas de enquadramento social e económico da empresa e da família do agricultor nas estratégias de desenvolvimento rural integrado local e regional.
 
-###### Artigo 49.º — Divisão de Serviços em Meio Rural
+###### Artigo 49.º
+
+##### Divisão de Serviços em Meio Rural
 
 À Divisão de Serviços em Meio Rural compete:
 
@@ -881,7 +967,9 @@ b) Divisão de Coudelarias;
 
 c) Escola Portuguesa de Arte Equestre.
 
-###### Artigo 51.º — Divisão de Registo e Melhoramento Equestre
+###### Artigo 51.º
+
+##### Divisão de Registo e Melhoramento Equestre
 
 À Divisão de Registo e Melhoramento Equestre compete:
 
@@ -901,7 +989,9 @@ g) Assegurar a existência de reprodutores necessários ao melhoramento das esp�
 
 h) Colaborar com as entidades que promovem a utilização dos equídeos nas suas diferentes disciplinas e actividades, nomeadamente espectáculos, provas desportivas, exposições, concursos, corridas de cavalos e actividades turísticas, desde que visem a divulgação e promoção da espécie.
 
-###### Artigo 52.º — Divisão de Coudelarias
+###### Artigo 52.º
+
+##### Divisão de Coudelarias
 
 À Divisão de Coudelarias compete:
 
@@ -1013,16 +1103,16 @@ O Serviço Nacional Coudélico deve, no todo ou em parte, ser objecto das medida
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 59.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/16611673.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/16611673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/16611673.pdf)

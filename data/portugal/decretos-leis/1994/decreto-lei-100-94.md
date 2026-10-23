@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/091a00/18511854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1994-264967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5e8deb7f25571149cc524430040014c3bc030472dcbdf254098036cb9b9b4f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62b2df50e0b8c3a444a517a0a0c0f643c03fb2c4977cab2898fc02ed5241628b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Crime
-- Indústria Farmacêutica
-- Publicidade
 - CEE
-- Infarmed
+- Comércio
 - Conselho Nacional de Publicidade de Medicamentos
 - Contra-ordenação
 - Criação de Serviços
+- Crime
 - Definição de Competências
 - Fiscalização
+- Indústria Farmacêutica
+- Infarmed
 - Proteção do Consumidor
+- Publicidade
 - Regime Jurídico
 - Sanção Económica
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478246:por
+  label: "Alterado o nº 1 do art. 12º pelo DEC LEI.170/98.1998.06.25.MS, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1998-478246
+  date: '1998-06-25'
+- type: amended_by
+  target: pt:dre:172100:por
+  label: "Alterados os arts. 8º, 9º, 10º e 14º e aditado um art. 9º-A pelo DEC LEI.48/99.1999.02.16.MS, DR.IS-A [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1999-172100
+  date: '1999-02-16'
 - type: cites
   target: celex:31992L0028
   label: null
   source: http://data.europa.eu/eli/dir/1992/28/oj
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:08Z'
   warnings: []
   errors: []
 ---
@@ -323,12 +338,12 @@ São revogados os artigos 69.º a 78.º do Decreto-Lei n.º 72/91, de 8 de Fever
 
 Visto e aprovado em Conselho de Ministros de 3 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

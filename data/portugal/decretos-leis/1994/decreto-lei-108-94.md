@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1994/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1994-265556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d67d1511902d84985aaee42bfa0d505ecba9b9f3d30d7d8d051e3cfddb0b31f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c907fc83b71ac8b90be9b55c9be8b88e9e118ba6be58e1f94fc7d6d3cdf5f3ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,89 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral do Ordenamento do Território
 - Comissão de Coordenação Regional
+- Direcção Geral do Ordenamento do Território
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:553431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553431:por
+  label: "L.LEI.16/2003.2003.06.04.AR\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2003-553431
+  date: '2003-06-04'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:18Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +168,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - Ficam cometidas às comissões de coordenação regional as competências dos serviços com atribuições de planeamento, exercidas pela Direcção-Geral do Ordenamento do Território, previstas nos seguintes diplomas:
+Artigo único. - 1 - Ficam cometidas às comissões de coordenação regional as competências dos serviços com atribuições de planeamento, exercidas pela Direcção-Geral do Ordenamento do Território, previstas nos seguintes diplomas:
 
 a) [Decreto-Lei n.º 34993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34993-1945-468233), de 11 de Outubro de 1945;
 
@@ -133,12 +198,12 @@ m) [Decreto-Lei n.º 376/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 31 de Março de 1994.**
+Promulgado em 31 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1994.**
+Referendado em 6 de Abril de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/1993/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1993-628042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c56a6b0e1a16800e7db56e0a2b0ff87b467c84a883ce8c33b7b5ffeff0b3c60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e77087ba203e7f8e0956b958d011484ad91a28781b21f7c66ed184506051cdbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Exposição Internacional de Lisboa de 1998
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:23Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +96,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Não são admitidas pelo Registo Nacional de Pessoas Colectivas quaisquer firmas ou denominações sociais que utilizem ou se confundam com as designações da Exposição Internacional de Lisboa de 1998 ou na sua forma abreviada EXPO 98.
+Artigo 1.º Não são admitidas pelo Registo Nacional de Pessoas Colectivas quaisquer firmas ou denominações sociais que utilizem ou se confundam com as designações da Exposição Internacional de Lisboa de 1998 ou na sua forma abreviada EXPO 98.
 
-###### Art. 2.º As designações previstas no artigo anterior ficam reservadas para a entidade ou entidades que vierem a ter a seu cargo a organização, promoção, realização ou gestão de bens, equipamentos ou estruturas necessários à Exposição.
+Art. 2.º As designações previstas no artigo anterior ficam reservadas para a entidade ou entidades que vierem a ter a seu cargo a organização, promoção, realização ou gestão de bens, equipamentos ou estruturas necessários à Exposição.
 
-###### Art. 3.º Na medida em que, no todo ou em parte, reproduzam ou imitem as expressões referidas no artigo 1.º, ou que com elas sejam confundíveis, não são admitidos a registo e é proibido o uso ou qualquer acto de divulgação, publicidade ou aproveitamento de:
+Art. 3.º Na medida em que, no todo ou em parte, reproduzam ou imitem as expressões referidas no artigo 1.º, ou que com elas sejam confundíveis, não são admitidos a registo e é proibido o uso ou qualquer acto de divulgação, publicidade ou aproveitamento de:
 
 a) Firmas, denominações sociais ou quaisquer outros registos de pessoas colectivas;
 
@@ -108,7 +108,7 @@ b) Marcas, nomes ou insígnias de estabelecimento, modelos e desenhos industriai
 
 c) Títulos de publicações de qualquer espécie, periódicos ou não, ou outros direitos de autor.
 
-###### Art. 4.º - 1 - A utilização das expressões constantes do artigo 1.º por qualquer entidade como denominação ou firma, nome ou insígnia de estabelecimento ou ainda a associação pública das referidas designações com intuitos publicitários, sempre que não autorizadas pela entidade ou entidades referidas no artigo 2.º, constituem contra-ordenação punível com coima entre 50000$00 a 500000$00, tratando-se de pessoa singular, sendo elevada ao quádruplo destes limites no caso de o agente ser pessoa colectiva.
+Art. 4.º - 1 - A utilização das expressões constantes do artigo 1.º por qualquer entidade como denominação ou firma, nome ou insígnia de estabelecimento ou ainda a associação pública das referidas designações com intuitos publicitários, sempre que não autorizadas pela entidade ou entidades referidas no artigo 2.º, constituem contra-ordenação punível com coima entre 50000$00 a 500000$00, tratando-se de pessoa singular, sendo elevada ao quádruplo destes limites no caso de o agente ser pessoa colectiva.
 
 2 - A negligência é punível.
 
@@ -118,12 +118,12 @@ c) Títulos de publicações de qualquer espécie, periódicos ou não, ou outro
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 16 de Fevereiro de 1993.**
+Promulgado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1993.**
+Referendado em 18 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

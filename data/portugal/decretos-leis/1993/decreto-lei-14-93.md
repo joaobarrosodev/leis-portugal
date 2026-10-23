@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/014a00/01580171.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/1993/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1993-586839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bd759a7885887fedfcc9ccdf5b0748961fd454995467539c593a91bc9140fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 137bbbb5ffc5ff0eae51cce69b1538dc2672ce22686ee63251b5d5bd7d4fac06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,91 @@ subjects:
 - Aposentação Bonificada
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Sistema Retributivo
 - Extinção de Serviços
-- Recrutamento de Pessoal
+- Horário de Trabalho
 - Inspecção Geral das Actividades Económicas
-- Remuneração Acessória
 - Integração de Trabalhadores
 - Ministério do Comércio e Turismo
 - Orgânica
-- Reforma Antecipada
 - Pessoal de Inspecção
 - Quadro de Pessoal
-- Horário de Trabalho
+- Recrutamento de Pessoal
+- Reforma Antecipada
 - Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
 - Transferência de Competências
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DECLARADA A INCONSTITUCIONALIDADE COM FOR&#199;A OBRIGAT&#211;RIA GERAL DAS NORMAS CONSTANTES DOS ART 20, 21, 22,
+    23, 24, 25, 29, 32, NUM 2, 33, NUM 2 E 3, 34, NUM 2, 35, 36, 37, 38, 39, 40, 41, 42, 43, NUM 2, 44 E 45, PELO AC&#211;RD&#195;O
+    DO TCS 362/94 DE 03-MAI DR.IS-A [136] DE 15/JUN/1994, DETERMINANDO QUE A PRODU&#199;&#195;O DE EFEITOS DA PRESENTE DECL
+    OCORRA APENAS A PARTIR DA PUBLICA&#199;&#195;O DESTE AC&#211;RD&#195;O
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-15'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660281:por
+  label: null
+  source: null
 article_structure:
   article_count: 50
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:37Z'
   warnings: []
   errors: []
 ---
@@ -873,16 +933,16 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 15 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 21 de Dezembro de 1992.**
+Promulgado em 21 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Dezembro de 1992.**
+Referendado em 23 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/014a00/01580171.pdf))](https://files.diariodarepublica.pt/1s/1993/01/014a00/01580171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/014a00/01580171.pdf)

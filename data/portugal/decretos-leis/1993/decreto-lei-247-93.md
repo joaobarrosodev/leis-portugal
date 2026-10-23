@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/247/1993/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1993-375436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e412f930777c372df8d550351d28a673b8f8ac890ee3059fa0a2386bfa379f58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faba9bd39e11990f78b4287d6fff2e1bfd7fcd9f23f127b2dc1440dddb5addef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contratação de Docentes
-- Lisboa
-- Instituto Superior de Engenharia
-- Tribunal de Contas
-- Pessoal Docente
 - Ensino Básico
+- Instituto Superior de Engenharia
+- Lisboa
+- Pessoal Docente
+- Tribunal de Contas
 - Visto do Tribunal de Contas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:02Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +120,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O prazo a que se refere o artigo 16.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, conta-se para os efeitos previstos no artigo 15.º do mesmo diploma, a partir da data da publicação do presente decreto-lei, relativamente às nomeações ou contratações dos docentes dos 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário, efectuadas nos termos da legislação em vigor nos anos escolares de 1987-1988, 1988-1989, 1989-1990 e 1990-1991, que não foram ainda submetidos à fiscalização prévia do Tribunal de Contas.
+Artigo 1.º O prazo a que se refere o artigo 16.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, conta-se para os efeitos previstos no artigo 15.º do mesmo diploma, a partir da data da publicação do presente decreto-lei, relativamente às nomeações ou contratações dos docentes dos 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário, efectuadas nos termos da legislação em vigor nos anos escolares de 1987-1988, 1988-1989, 1989-1990 e 1990-1991, que não foram ainda submetidos à fiscalização prévia do Tribunal de Contas.
 
-###### Art. 2.º É aplicável o disposto no artigo anterior aos contratos de pessoal docente e auxiliar de ensino que se encontre a prestar serviço no Instituto Superior de Engenharia de Lisboa que não hajam sido enviados ao Tribunal de Contas no prazo regulamentar e, bem assim, aos contratos de pessoal docente e auxiliar de ensino que haja já cessado funções e que não tenham sido remetidos para visto.
+Art. 2.º É aplicável o disposto no artigo anterior aos contratos de pessoal docente e auxiliar de ensino que se encontre a prestar serviço no Instituto Superior de Engenharia de Lisboa que não hajam sido enviados ao Tribunal de Contas no prazo regulamentar e, bem assim, aos contratos de pessoal docente e auxiliar de ensino que haja já cessado funções e que não tenham sido remetidos para visto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

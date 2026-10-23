@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/297/1993/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1993-632406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0384fe51df2c74d288e626c62fe7a7bd8738b6cc4f54a4abc48b8f995d53ee90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ac3dcca7871f6fb1a66e0e6434d54496e05fb2a7f6f1398c2a3654415e13ba1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/7/1992/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/7/1992/02/07/p/dre
+- type: cites
+  target: pt:dre:152131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683017:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:02Z'
   warnings: []
   errors: []
 ---
@@ -106,18 +118,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - A afectação patrimonial de bens móveis, adquiridos através de verbas do PIDDAC inscritas no Orçamento do Secretariado para a Modernização Administrativa e efectuada ao abrigo de protocolos entre serviços públicos, para efeitos de modernização das instalações de atendimento público, está isenta da realização de autos de transferência, nos termos legalmente exigidos.
+Artigo único. - 1 - A afectação patrimonial de bens móveis, adquiridos através de verbas do PIDDAC inscritas no Orçamento do Secretariado para a Modernização Administrativa e efectuada ao abrigo de protocolos entre serviços públicos, para efeitos de modernização das instalações de atendimento público, está isenta da realização de autos de transferência, nos termos legalmente exigidos.
 
 2 - É revogado o [Decreto-Lei n.º 80/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1989-613939), de 23 de Março.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1993.**
+Referendado em 30 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

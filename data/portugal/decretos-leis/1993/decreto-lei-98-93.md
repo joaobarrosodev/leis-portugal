@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1993-680639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e30db8e7ead7111738ec5737a6912acb668b88632475e6082f9b79ff012895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 154acbd3fd5b5fcfab5a551bc138f2e8c7fb47f7e1490823deea621a54543ddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral dos Mercados Agrícolas e da Indústria Agro-alimentar
 - Instituto dos Mercados Agrícolas e Indústria Agro-alimentar
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência Patrimonial
@@ -79,20 +79,38 @@ relationships:
   target: pt:dre:435397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinto o Instituto dos Mercados Agrícolas e Indústria Agro-Alimentar pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A\
+    \ [139]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:221749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:03Z'
   warnings: []
   errors: []
 ---
@@ -373,7 +391,9 @@ b) Divisão de Assuntos Agro-Monetários e Agro-Financeiros;
 
 c) Divisão de Acompanhamento e Controlo.
 
-###### Artigo 13.º — Divisão de Estudos
+###### Artigo 13.º
+
+##### Divisão de Estudos
 
 À Divisão de Estudos compete:
 
@@ -387,7 +407,9 @@ d) Estudar e prever o impacte da aplicação das políticas de mercado ao nível
 
 e) Coordenar a preparação e elaboração do programa de actividades e do relatório anual do IMAIAA.
 
-###### Artigo 14.º — Divisão de Assuntos Agro-Monetários e Agro-Financeiros
+###### Artigo 14.º
+
+##### Divisão de Assuntos Agro-Monetários e Agro-Financeiros
 
 À Divisão de Assuntos Agro-Monetários e Agro-Financeiros compete:
 
@@ -399,7 +421,9 @@ c) Estudar a influência das variações monetárias no funcionamento dos mercad
 
 d) Analisar as consequências financeiras da aplicação das políticas de mercado.
 
-###### Artigo 15.º — Divisão de Acompanhamento e Controlo
+###### Artigo 15.º
+
+##### Divisão de Acompanhamento e Controlo
 
 À Divisão de Acompanhamento e Controlo compete:
 
@@ -409,7 +433,9 @@ b) Coordenar, acompanhar e analisar os projectos candidatos aos sistemas de apoi
 
 c) Acompanhar a execução dos planos previstos para os vários subsectores de actividade.
 
-###### Artigo 16.º — Divisão de Informação e Relações Públicas
+###### Artigo 16.º
+
+##### Divisão de Informação e Relações Públicas
 
 À Divisão de Informação e Relações Públicas, directamente dependente do presidente, compete:
 
@@ -427,7 +453,9 @@ f) Assegurar o apoio a congressos, seminários, colóquios e outras realizaçõe
 
 g) Assegurar a gestão dos meios de edição e reprografia do IMAIAA.
 
-###### Artigo 17.º — Divisão de Informática
+###### Artigo 17.º
+
+##### Divisão de Informática
 
 À Divisão de Informática compete:
 
@@ -457,7 +485,9 @@ b) Divisão de Coordenação e Controlo da Recolha e Difusão de Informação de
 
 c) Divisão de Estatística.
 
-###### Artigo 19.º — Divisão de Metodologia da Recolha e Análise de Informação de Mercados
+###### Artigo 19.º
+
+##### Divisão de Metodologia da Recolha e Análise de Informação de Mercados
 
 À Divisão de Metodologia da Recolha e Análise de Informação de Mercados compete:
 
@@ -481,7 +511,9 @@ b) Assegurar a validade e a representatividade das cotações e outras informaç
 
 c) Centralizar, processar e difundir as cotações e restantes informações de mercado pelos agentes económicos.
 
-###### Artigo 21.º — Divisão de Estatística
+###### Artigo 21.º
+
+##### Divisão de Estatística
 
 À Divisão de Estatística compete:
 
@@ -547,7 +579,9 @@ c) Divisão de Organização Económica;
 
 d) Divisão de Promoção e Qualidade dos Produtos Agro-Alimentares.
 
-###### Artigo 24.º — Divisão de Assuntos Jurídicos
+###### Artigo 24.º
+
+##### Divisão de Assuntos Jurídicos
 
 À Divisão de Assuntos Jurídicos compete:
 
@@ -557,7 +591,9 @@ b) Propor as iniciativas legislativas e regulamentares necessárias à aplicaç�
 
 c) Apoiar a intervenção do Estado nos processos de pré-contencioso a nível comunitário, no domínio das suas atribuições.
 
-###### Artigo 25.º — Divisão de Relações Comerciais Externas
+###### Artigo 25.º
+
+##### Divisão de Relações Comerciais Externas
 
 À Divisão de Relações Comerciais Externas compete, sem prejuízo das competências atribuídas por lei a outras entidades:
 
@@ -565,7 +601,9 @@ a) Participar nos grupos de trabalho em funcionamento na CEE que tratem das mat�
 
 b) Acompanhar os assuntos relativos ao comércio internacional de produtos agrícolas, incluindo acordos e convénios celebrados entre a Comunidade Europeia e países terceiros.
 
-###### Artigo 26.º — Divisão de Organização Económica
+###### Artigo 26.º
+
+##### Divisão de Organização Económica
 
 À Divisão de Organização Económica compete:
 
@@ -581,7 +619,9 @@ e) Coligir os dados com interesse para a informação e estatística no âmbito 
 
 f) Propor medidas de concertação dos interesses dos diferentes agentes económicos, com intervenção nos mercados agrícolas, no sentido do aumento da sua eficácia e competitividade.
 
-###### Artigo 27.º — Divisão de Promoção e Qualidade dos Produtos Agro-Alimentares
+###### Artigo 27.º
+
+##### Divisão de Promoção e Qualidade dos Produtos Agro-Alimentares
 
 À Divisão de Promoção e Qualidade dos Produtos Agro-Alimentares compete:
 
@@ -681,16 +721,16 @@ Visto e aprovado em Conselho de Ministros de
 
 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 19 de Março de 1993.**
+Promulgado em 19 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1993.**
+Referendado em 22 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o no n.º 2 do artigo 34.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/16741680.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/16741680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/16741680.pdf)

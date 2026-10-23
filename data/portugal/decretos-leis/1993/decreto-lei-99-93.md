@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1993-680641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac30bd5bb8e5a2799c28be063897da6f35aacb1e9ca4ac9e9be30b5da550de9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9753c060179614b3f96ade29cb43ff388ac8014aea6752daef9ecc2f78819f2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Protecção da Produção Agrícola
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral da Pecuária
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto de Qualidade Alimentar
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Saúde Animal
 - Transferência de Competências
 - Transferência Patrimonial
-- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:435397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:290634:por
+  label: "Alteradas as competências do Conselho Directivo, pelo DEC LEI.176/94.1994.06.27.MA, DR.IS-A [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1994-290634
+  date: '1994-06-27'
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinto Instituto de Protecção da Produção Agro-Alimentar, pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
   article_count: 73
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 48
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:03Z'
   warnings: []
   errors: []
 ---
@@ -254,7 +268,9 @@ b) Divisão de Organização e Gestão dos Recursos Humanos;
 
 c) Repartição Administrativa.
 
-###### Artigo 9.º — Divisão de Planeamento e Gestão Financeira
+###### Artigo 9.º
+
+##### Divisão de Planeamento e Gestão Financeira
 
 1 - À Divisão de Planeamento e Gestão Financeira compete:
 
@@ -272,7 +288,9 @@ f) Promover a elaboração da conta anual de gerência e a elaboração do relat
 
 2 - Na dependência da Divisão de Planeamento e Gestão Financeira funciona uma tesouraria, dirigida por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 10.º — Divisão de Organização e Gestão dos Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Organização e Gestão dos Recursos Humanos
 
 À Divisão de Organização e Gestão dos Recursos Humanos compete:
 
@@ -316,7 +334,9 @@ c) Divisão de Formação Especializada;
 
 d) Divisão de Vigilância do Território e Relações Internacionais.
 
-###### Artigo 13.º — Divisão de Estudos
+###### Artigo 13.º
+
+##### Divisão de Estudos
 
 À Divisão de Estudos compete:
 
@@ -328,7 +348,9 @@ c) Propor a adopção de medidas relacionadas com as actividades do IPPAA;
 
 d) Promover e coordenar os trabalhos de âmbito estatístico relativos às atribuições do IPPAA.
 
-###### Artigo 14.º — Divisão de Planeamento
+###### Artigo 14.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -340,11 +362,15 @@ c) Promover a integração dos objectivos prosseguidos por todos os serviços do
 
 d) Garantir um sistema de informação que propicie o acompanhamento e avaliação das actividades do IPPAA.
 
-###### Artigo 15.º — Divisão de Formação Especializada
+###### Artigo 15.º
+
+##### Divisão de Formação Especializada
 
 À Divisão de Formação Especializada compete organizar os cursos e acções de formação adequados ao aperfeiçoamento técnico do pessoal do IPPAA.
 
-###### Artigo 16.º — Divisão de Vigilância do Território e Relações Internacionais
+###### Artigo 16.º
+
+##### Divisão de Vigilância do Território e Relações Internacionais
 
 À Divisão de Vigilância do Território e Relações Internacionais compete:
 
@@ -356,7 +382,9 @@ c) Coordenar e apoiar as acções inerentes à elaboração, difusão e divulga�
 
 d) Apoiar o desenvolvimento das acções executadas pelos serviços responsáveis do IPPAA no âmbito da fiscalização e controlo veterinário, fitossanitário e de qualidade e executar tais acções quando necessário.
 
-###### Artigo 17.º — Divisão de Apoio Jurídico
+###### Artigo 17.º
+
+##### Divisão de Apoio Jurídico
 
 À Divisão de Apoio Jurídico, dependente directamente do presidente, compete:
 
@@ -374,7 +402,9 @@ f) Elaborar ou apoiar a elaboração dos processos contra-ordenacionais relativo
 
 g) Patrocinar os interesses do IPPAA em juízo.
 
-###### Artigo 18.º — Divisão de Documentação, Informação e Relações Públicas
+###### Artigo 18.º
+
+##### Divisão de Documentação, Informação e Relações Públicas
 
 À Divisão de Documentação, Informação e Relações Públicas, dependente directamente do presidente, compete:
 
@@ -392,7 +422,9 @@ f) Programar, preparar e executar as acções de informação e relações públ
 
 g) Preparar e acompanhar o relacionamento do IPPAA com outros agentes, instituições e entidades.
 
-###### Artigo 19.º — Divisão de Informática
+###### Artigo 19.º
+
+##### Divisão de Informática
 
 À Divisão de Informática, dependente directamente do presidente, compete:
 
@@ -418,7 +450,9 @@ b) Divisão de Identificação e Diagnósticos;
 
 c) Divisão de Protecção das Culturas e Seus Produtos.
 
-###### Artigo 21.º — Divisão de Inspecção Fitossanitária
+###### Artigo 21.º
+
+##### Divisão de Inspecção Fitossanitária
 
 À Divisão de Inspecção Fitossanitária compete:
 
@@ -442,7 +476,9 @@ i) Executar os exames periciais decorrentes do controlo fitossanitário;
 
 j) Dar cumprimento aos sistemas de informação comunitários em colaboração com os serviços das direcções regionais de agricultura e do Instituto Florestal.
 
-###### Artigo 22.º — Divisão de Identificação e Diagnóstico
+###### Artigo 22.º
+
+##### Divisão de Identificação e Diagnóstico
 
 À Divisão de Identificação e Diagnóstico compete:
 
@@ -454,7 +490,9 @@ c) Organizar colecções, preparações ou outro material similar, de pragas, in
 
 d) Efectuar estudos para o estabelecimento de novas metodologias de identificação de organismos nocivos das culturas e dos produtos agrícolas.
 
-###### Artigo 23.º — Divisão de Protecção das Culturas e Seus Produtos
+###### Artigo 23.º
+
+##### Divisão de Protecção das Culturas e Seus Produtos
 
 À Divisão de Protecção das Culturas e Seus Produtos compete:
 
@@ -486,7 +524,9 @@ d) Divisão de Controlo de Viveiros;
 
 e) Divisão de Batata-Semente.
 
-###### Artigo 25.º — Divisão de Certificação de Sementes
+###### Artigo 25.º
+
+##### Divisão de Certificação de Sementes
 
 À Divisão de Certificação de Sementes compete:
 
@@ -502,7 +542,9 @@ e) Colaborar na compilação dos elementos estatísticos referentes à certifica
 
 f) Dar cumprimento aos sistemas de informação comunitários.
 
-###### Artigo 26.º — Divisão de Ensaio de Sementes
+###### Artigo 26.º
+
+##### Divisão de Ensaio de Sementes
 
 À Divisão de Ensaio de Sementes compete:
 
@@ -518,7 +560,9 @@ e) Realizar análises laboratoriais para a identificação e apreciação de val
 
 f) Realizar análises de pureza específica e proceder à determinação da faculdade e vigor germinativo das sementes.
 
-###### Artigo 27.º — Divisão do Catálogo Nacional de Variedades
+###### Artigo 27.º
+
+##### Divisão do Catálogo Nacional de Variedades
 
 À Divisão do Catálogo Nacional de Variedades compete:
 
@@ -532,7 +576,9 @@ d) Sintetizar as informações referentes às variedades inscritas no Catálogo 
 
 e) Dar cumprimento aos sistemas de informação comunitárias.
 
-###### Artigo 28.º — Divisão de Controlo de Viveiros
+###### Artigo 28.º
+
+##### Divisão de Controlo de Viveiros
 
 À Divisão de Controlo de Viveiros compete:
 
@@ -552,7 +598,9 @@ g) Efectuar exames periciais decorrentes do controlo de viveiros;
 
 h) Dar cumprimento aos sistemas de informação comunitários.
 
-###### Artigo 29.º — Divisão de Batata-Semente
+###### Artigo 29.º
+
+##### Divisão de Batata-Semente
 
 À Divisão de Batata-Semente compete:
 
@@ -586,7 +634,9 @@ c) Divisão de Caracterização Biológica;
 
 d) Divisão de Avaliação Toxicológica e Ecotoxicológica.
 
-###### Artigo 31.º — Divisão de Homologação e de Licenciamento
+###### Artigo 31.º
+
+##### Divisão de Homologação e de Licenciamento
 
 À Divisão de Homologação e de Licenciamento compete:
 
@@ -600,7 +650,9 @@ d) Recolher, tratar e actualizar os elementos necessários ao estabelecimento da
 
 e) Dar cumprimento aos sistemas de informação comunitários.
 
-###### Artigo 32.º — Divisão de Avaliação e Análises Físicas e Químicas de Formulações e Resíduos
+###### Artigo 32.º
+
+##### Divisão de Avaliação e Análises Físicas e Químicas de Formulações e Resíduos
 
 À Divisão de Avaliação e Análises Físicas e Químicas de Formulações de Resíduos compete:
 
@@ -616,7 +668,9 @@ e) Proceder à avaliação dos processos de homologação, no campo da sua espec
 
 f) Elaborar informação no domínio da sua especialidade.
 
-###### Artigo 33.º — Divisão de Avaliação Biológica
+###### Artigo 33.º
+
+##### Divisão de Avaliação Biológica
 
 À Divisão de Avaliação Biológica compete:
 
@@ -628,7 +682,9 @@ c) Proceder à apreciação dos processos de homologação, no campo da sua espe
 
 d) Elaborar informação no domínio da sua especialidade.
 
-###### Artigo 34.º — Divisão de Avaliação Toxicológica e Ecotoxicológica
+###### Artigo 34.º
+
+##### Divisão de Avaliação Toxicológica e Ecotoxicológica
 
 À Divisão de Avaliação Toxicológica e Ecotoxicológica compete:
 
@@ -708,7 +764,9 @@ b) Divisão de Epidemiologia e Profilaxia das Aves e Coelhos;
 
 c) Divisão de Epidemiologia e Profilaxia dos Suínos e Outras Espécies.
 
-###### Artigo 38.º — Divisão de Epidemiologia Geral e Profilaxia dos Ruminantes
+###### Artigo 38.º
+
+##### Divisão de Epidemiologia Geral e Profilaxia dos Ruminantes
 
 À Divisão de Epidemiologia Geral e Profilaxia dos Ruminantes compete:
 
@@ -740,7 +798,9 @@ n) Elaborar as bases programáticas e os regulamentos normativos para a execuç�
 
 o) Normalizar as colheitas de dados informativos e coligir a informação estatística relativa às acções enquadradas nos programas profilácticos e de saneamento dos ruminantes.
 
-###### Artigo 39.º — Divisão de Epidemiologia e Profilaxia de Aves e Coelhos
+###### Artigo 39.º
+
+##### Divisão de Epidemiologia e Profilaxia de Aves e Coelhos
 
 À Divisão de Epidemiologia e Profilaxia de Aves e Coelhos compete:
 
@@ -762,7 +822,9 @@ h) Colaborar nos estudos de viabilidade técnico-económica das explorações at
 
 i) Colaborar na formação profissional de técnicos e produtores no âmbito das áreas consignadas na alínea a).
 
-###### Artigo 40.º — Divisão de Epidemiologia e Profilaxia dos Suínos e de Outras Espécies
+###### Artigo 40.º
+
+##### Divisão de Epidemiologia e Profilaxia dos Suínos e de Outras Espécies
 
 À Divisão de Epidemiologia e Profilaxia dos Suínos e de Outras Espécies compete:
 
@@ -798,7 +860,9 @@ c) Divisão de Controlo e Credibilização Zoo-Sanitária;
 
 d) Divisão de Alimentação Animal.
 
-###### Artigo 42.º — Divisão de Farmácia Veterinária e de Produtos Zoo-Sanitários
+###### Artigo 42.º
+
+##### Divisão de Farmácia Veterinária e de Produtos Zoo-Sanitários
 
 À Divisão de Farmácia Veterinária e de Produtos Zoo-Sanitários compete:
 
@@ -820,7 +884,9 @@ i) Promover ou apoiar a realização de estudos ou ensaios com vista a avaliar a
 
 j) Acompanhar, promover e controlar as actividades das profissões relacionadas com a competência própria dos serviços.
 
-###### Artigo 43.º — Divisão de Bem-Estar Animal e Novas Produções
+###### Artigo 43.º
+
+##### Divisão de Bem-Estar Animal e Novas Produções
 
 À Divisão de Bem-Estar Animal e Novas Produções compete:
 
@@ -830,7 +896,9 @@ b) Colaborar com todas as entidades, interessadas no bem-estar dos animais, na a
 
 c) Promover e ou apoiar o desenvolvimento de novas produções animais.
 
-###### Artigo 44.º — Divisão de Controlo e Credibilização Zoo-Sanitária
+###### Artigo 44.º
+
+##### Divisão de Controlo e Credibilização Zoo-Sanitária
 
 À Divisão de Controlo e Credibilização Zoo-Sanitária compete:
 
@@ -846,7 +914,9 @@ e) Organizar e gerir o depósito de materiais necessários à identificação an
 
 f) Promover às normas e ao controlo e credibilização sanitária das acções conducentes à garantia do valor zootécnico dos animais.
 
-###### Artigo 45.º — Divisão de Alimentação Animal
+###### Artigo 45.º
+
+##### Divisão de Alimentação Animal
 
 À Divisão de Alimentação Animal compete:
 
@@ -974,7 +1044,9 @@ b) Divisão de Indústrias de Produtos de Origem Animal;
 
 c) Divisão de Restauração e Pré-Cozinhados.
 
-###### Artigo 53.º — Divisão de Indústrias de Produtos de Origem Vegetal
+###### Artigo 53.º
+
+##### Divisão de Indústrias de Produtos de Origem Vegetal
 
 À Divisão de Indústrias de Produtos de Origem Vegetal compete:
 
@@ -988,7 +1060,9 @@ d) Estabelecer as condições de transporte dos produtos de origem vegetal e seu
 
 e) Dar apoio à defesa do meio ambiente, colaborando com as várias entidades intervenientes neste sector.
 
-###### Artigo 54.º — Divisão de Indústrias de Produtos de Origem Animal
+###### Artigo 54.º
+
+##### Divisão de Indústrias de Produtos de Origem Animal
 
 À Divisão de Indústrias de Produtos de Origem Animal compete:
 
@@ -1002,7 +1076,9 @@ d) Estabelecer as condições de transporte dos produtos de origem animal, subpr
 
 e) Dar apoio à defesa do meio ambiente, colaborando com as várias entidades intervenientes neste sector.
 
-###### Artigo 55.º — Divisão de Restauração e Pré-Cozinhados
+###### Artigo 55.º
+
+##### Divisão de Restauração e Pré-Cozinhados
 
 À Divisão de Restauração e Pré-Cozinhados compete:
 
@@ -1026,7 +1102,9 @@ b) Divisão de Controlo de 2.ª Transformação;
 
 c) Divisão de Controlo dos Produtos Vegetais.
 
-###### Artigo 57.º — Divisão de Inspecção Hígio-Sanitária e Controlo de 1.ª Transformação
+###### Artigo 57.º
+
+##### Divisão de Inspecção Hígio-Sanitária e Controlo de 1.ª Transformação
 
 À Divisão de Inspecção Hígio-Sanitária e Controlo de 1.ª Transformação compete:
 
@@ -1040,7 +1118,9 @@ d) Definir, emitir e controlar a emissão dos certificados sanitários e de salu
 
 e) Promover o controlo dos contaminantes nos produtos frescos de origem animal.
 
-###### Artigo 58.º — Divisão de Controlo de 2.ª Transformação
+###### Artigo 58.º
+
+##### Divisão de Controlo de 2.ª Transformação
 
 À Divisão de Controlo de 2.ª Transformação compete:
 
@@ -1054,7 +1134,9 @@ d) Intervir nos processos de atribuição de denominações de origem;
 
 e) Promover o controlo e fiscalização relativos à composição e qualidade dos produtos transformados de origem animal.
 
-###### Artigo 59.º — Divisão de Controlo de Produtos Vegetais
+###### Artigo 59.º
+
+##### Divisão de Controlo de Produtos Vegetais
 
 À Divisão de Controlo de Produtos Vegetais compete:
 
@@ -1078,7 +1160,9 @@ b) Divisão de Produtos de Origem Vegetal e Outros;
 
 d) Divisão de Microbiologia.
 
-###### Artigo 61.º — Divisão de Produtos de Origem Animal
+###### Artigo 61.º
+
+##### Divisão de Produtos de Origem Animal
 
 À Divisão de Produtos de Origem Animal compete:
 
@@ -1094,7 +1178,9 @@ e) Realizar o estudo de novos métodos de análise de produtos alimentares de or
 
 f) Colaborar com os serviços e entidades competentes nos estudos laboratoriais destinados à fixação das características de salubridade dos produtos alimentares de origem animal.
 
-###### Artigo 62.º — Divisão de Produtos de Origem Vegetal e Outros
+###### Artigo 62.º
+
+##### Divisão de Produtos de Origem Vegetal e Outros
 
 À Divisão de Produtos de Origem Vegetal e Outros compete:
 
@@ -1110,7 +1196,9 @@ e) Realizar o estudo de novos métodos de análise de produtos alimentares de or
 
 f) Colaborar com os serviços e entidades competentes nos estudos laboratoriais destinados à fixação das características de salubridade dos produtos alimentares de origem vegetal e outros.
 
-###### Artigo 63.º — Divisão de Microbiologia
+###### Artigo 63.º
+
+##### Divisão de Microbiologia
 
 À Divisão de Microbiologia compete:
 
@@ -1250,16 +1338,16 @@ Os concursos de pessoal abertos pela Direcção-Geral de Pecuária, pelo Institu
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 19 de Março de 1993.**
+Promulgado em 19 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1993.**
+Referendado em 22 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 70.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/16811695.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/16811695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/16811695.pdf)

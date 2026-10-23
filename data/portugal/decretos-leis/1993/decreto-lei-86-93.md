@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1993-634691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6643a0c3bce33df4925335fc821d0fb72738f814ac964ab99d38761c4ba09baf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffe26e6e2cdd363cee91139f698173076d86e0327c6b9425d9952a3950d86caf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral do Comércio
 - Ministério do Comércio e Turismo
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:199846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:199846:por
+  label: "Extinta a Direcção-Geral do Comércio, regulamentada no presente diploma, pelo DEC LEI.222/96.25.11.1996.MECO, DR.IS-A\
+    \ [273] de 25.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1996-199846
+  date: '1996-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/203/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:141810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629663:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:48Z'
   warnings: []
   errors: []
 ---
@@ -518,18 +561,18 @@ São revogados o [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 9 de Março de 1993.**
+Promulgado em 9 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1993.**
+Referendado em 10 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 1 do artigo 18.º
 
 Quadro de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065a00/13161322.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065a00/13161322.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065a00/13161322.pdf)

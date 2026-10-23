@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/290a00/69436947.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/409/1993/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1993-533273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afc3c951dcda3fc604055922deca7169b8a2abec181597845ee0613cbfb32b16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12734029e5d53f7bf06d6a7e8f91dbdf4813537b844e3a161771751616a73518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,26 @@ relationships:
   target: pt:dre:114937037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:313845:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114937037:por
+  label: Revogado, a partir de 27.04.2018, o presente diploma, pelo(a) Decreto-Lei n.º 21/2018 - Diário da República n.º 62/2018,
+    Série I de 2018-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2018-114937037
+  date: '2018-03-28'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:28Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +106,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Pequenas Barragens, que é publicado em anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento de Pequenas Barragens, que é publicado em anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º São revogados os Decretos n.os 48373, de 8 de Maio de 1968, e 48643, de 23 de Outubro de 1968.
+Art. 2.º São revogados os Decretos n.os 48373, de 8 de Maio de 1968, e 48643, de 23 de Outubro de 1968.
 
-###### Art. 3.º O presente diploma entra em vigor seis meses após a data da sua publicação.
+Art. 3.º O presente diploma entra em vigor seis meses após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Manuel Dias Loureiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 23 de Novembro de 1993.**
+Promulgado em 23 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Novembro de 1993.**
+Referendado em 24 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Regulamento de Pequenas Barragens
 

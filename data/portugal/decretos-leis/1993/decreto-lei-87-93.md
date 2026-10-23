@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/1993/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1993-638904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c79cf77fbd77e2242e6fb41c7f4388c3a2c62f904c1b1d1eb7405f0c3f15cac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3c6a997e8505534307529c48102efa76d8adf9bc753c408bddfad5a8e6a5890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- ÁREA NON Aedificandi
 - Contra-ordenação
+- Exposição Internacional de Lisboa de 1998
 - Lisboa
 - Loures
-- Exposição Internacional de Lisboa de 1998
 - Medidas Preventivas
-- Zona de Proteção
+- Multa
 - Política de Solos
-- ÁREA NON Aedificandi
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:2308473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:48Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +116,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A zona reservada à instalação das infra-estruturas e equipamentos necessários à realização da EXPO 98 e à futura reconversão urbana das áreas respectivas corresponde à que se encontra delimitada na planta anexa ao presente diploma, que dele faz parte integrante.
+Artigo 1.º A zona reservada à instalação das infra-estruturas e equipamentos necessários à realização da EXPO 98 e à futura reconversão urbana das áreas respectivas corresponde à que se encontra delimitada na planta anexa ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º - 1 - Até declaração de utilidade pública dos terrenos integrados na zona definida na planta constante do anexo I, é proibida a realização de quaisquer obras, independentemente dos fins que as justifiquem, que tenham por objecto:
+Art. 2.º - 1 - Até declaração de utilidade pública dos terrenos integrados na zona definida na planta constante do anexo I, é proibida a realização de quaisquer obras, independentemente dos fins que as justifiquem, que tenham por objecto:
 
 a) A construção, reconstrução ou ampliação de edifícios ou outras instalações;
 
@@ -126,13 +130,13 @@ c) Alterações importantes, por meio de aterros ou escavações, à configuraç
 
 3 - É competente para a emissão de autorização a entidade à qual for cometida a responsabilidade pela realização da EXPO 98 e, até à data de entrada em vigor do diploma que a constituir, o Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 3.º Para efeitos de fiscalização das medidas preventivas constantes do presente diploma, o Governo fornecerá às câmaras municipais, no prazo de 15 dias, contado da sua entrada em vigor, os elementos, designadamente topográficos, que permitam a rigorosa identificação das áreas abrangidas.
+Art. 3.º Para efeitos de fiscalização das medidas preventivas constantes do presente diploma, o Governo fornecerá às câmaras municipais, no prazo de 15 dias, contado da sua entrada em vigor, os elementos, designadamente topográficos, que permitam a rigorosa identificação das áreas abrangidas.
 
-###### Art. 4.º Em caso de violação do disposto nos n.os 1 e 2 do artigo 2.º, deve o órgão legalmente competente do município onde se situe o imóvel proceder ao imediato embargo das obras e, se for caso disso, à demolição de qualquer construção aí implantada, sendo os respectivos encargos suportados pelo infractor, sem prejuízo da aplicação das sanções previstas no presente diploma e demais legislação aplicável.
+Art. 4.º Em caso de violação do disposto nos n.os 1 e 2 do artigo 2.º, deve o órgão legalmente competente do município onde se situe o imóvel proceder ao imediato embargo das obras e, se for caso disso, à demolição de qualquer construção aí implantada, sendo os respectivos encargos suportados pelo infractor, sem prejuízo da aplicação das sanções previstas no presente diploma e demais legislação aplicável.
 
-###### Art. 5.º Serão objecto de expropriação, nos termos da legislação aplicável, os direitos que incidam sobre as áreas necessárias à execução das obras.
+Art. 5.º Serão objecto de expropriação, nos termos da legislação aplicável, os direitos que incidam sobre as áreas necessárias à execução das obras.
 
-###### Art. 6.º - 1 - A violação do disposto no artigo 2.º constitui contra-ordenação, punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo, no caso de se tratar de pessoa colectiva.
+Art. 6.º - 1 - A violação do disposto no artigo 2.º constitui contra-ordenação, punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo, no caso de se tratar de pessoa colectiva.
 
 2 - As contra-ordenações podem determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -146,23 +150,23 @@ b) A interdição do exercício, até ao máximo de dois anos, da profissão ou 
 
 5 - O produto das coimas reverte em 60% para o Estado e em 40% para a entidade que instruir o processo.
 
-###### Art. 7.º As medidas preventivas previstas neste diploma vigoram até à data da publicação da declaração de utilidade pública, a qual deverá ocorrer no prazo máximo de dois anos.
+Art. 7.º As medidas preventivas previstas neste diploma vigoram até à data da publicação da declaração de utilidade pública, a qual deverá ocorrer no prazo máximo de dois anos.
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 22 de Fevereiro de 1993.**
+Promulgado em 22 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Fevereiro de 1993.**
+Referendado em 24 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/069a00/14341435.pdf))](https://files.diariodarepublica.pt/1s/1993/03/069a00/14341435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/069a00/14341435.pdf)
 
 EXPO 98, limites das zonas de intervenção e protecção
 

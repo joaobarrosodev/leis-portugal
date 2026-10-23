@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/1993/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1993-275857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1be4775a19446649c2e2eaa6bef6192705cfee3844707557195384ec5b0b9fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71373183709c5e38fdeffb0206f39da36b57d03eff5907fcaa6d360bf9ab0a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
 - Aproximação das Legislações
 - Armazenagem
 - CEE
 - Consumo
+- Contribuições e Impostos
 - Direcção Geral das Alfândegas
-- Álcool
+- Embalagem
 - Importação
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Imposto sobre Consumos Específicos
-- Contribuições e Impostos
-- Embalagem
 - Produção
 relationships:
 - type: amended_by
   target: pt:dre:222805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222805:por
+  label: "Alterado o art. 15º-B do Dec Lei 117/92, de 22-Jun, na redação do presente diploma, pelo DEC LEI.211/94.1994.08.10.MF,\
+    \ DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1994-222805
+  date: '1994-08-10'
 - type: cites
   target: celex:31992L0012
   label: null
@@ -104,15 +110,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/1992/06/22/p/dre
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:31Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +135,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 43.º da Lei n.º 30-C/92, de 28 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º, 9.º, 10.º, 11.º, 13.º a 17.º e 20.º a 26.º do Decreto-Lei n.º 117/92, de 22 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 4.º, 9.º, 10.º, 11.º, 13.º a 17.º e 20.º a 26.º do Decreto-Lei n.º 117/92, de 22 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Definições
 
@@ -283,7 +289,7 @@ Sempre que as diferenças apuradas ultrapassem as regularmente admissíveis, par
 
 ###### Artigo 26.º — (Anterior artigo 27.º)
 
-###### Art. 2.º Ao Decreto-Lei n.º 117/92, de 22 de Junho, são aditados os seguintes artigos:
+Art. 2.º Ao Decreto-Lei n.º 117/92, de 22 de Junho, são aditados os seguintes artigos:
 
 ###### Artigo 10.º-A — Declaração de introdução no consumo
 
@@ -343,12 +349,12 @@ f) A garantia prestada isoladamente é válida até ao apuramento do regime de s
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

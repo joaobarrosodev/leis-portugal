@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/1993/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1993-655523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 901418494ef0339acac59a6c911e2a6057bccdc000b35508a0426fdfec2d7e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c29e0fcda25fdc1145d41d3eea01aea16f40536c139bed04f496816dab9ba126
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Extinção de Lugares
 - Tesouraria da Fazenda Pública
 - Tesoureiro da Fazenda Pública
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335253:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:32Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São extintas as funções de tesoureiro-subgerente e de tesoureiro-adjunto, previstas no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
+Artigo 1.º - 1 - São extintas as funções de tesoureiro-subgerente e de tesoureiro-adjunto, previstas no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
 
 2 - Nas ausências e impedimentos do tesoureiro-gerente, as suas competências serão exercidas por tesoureiro em serviço na respectiva tesouraria, a designar pela seguinte ordem de prioridades:
 
@@ -108,18 +116,18 @@ c) Maior antiguidade na categoria;
 
 d) Melhores habilitações literárias.
 
-###### Art. 2.º Enquanto estiverem colocados em tesourarias onde não exerçam funções de gerência, os tesoureiros da Fazenda Pública executam as tarefas que lhes sejam distribuídas pelo respectivo tesoureiro-gerente.
+Art. 2.º Enquanto estiverem colocados em tesourarias onde não exerçam funções de gerência, os tesoureiros da Fazenda Pública executam as tarefas que lhes sejam distribuídas pelo respectivo tesoureiro-gerente.
 
-###### Art. 3.º Ficam expressamente revogados pelo presente diploma os n.os 2 a 5 do artigo 6.º, as alíneas b) dos n.os 2 e 3 do artigo 7.º, o n.º 5 do artigo 30.º, o n.º 5 do artigo 32.º, os artigos 53.º e 54.º e os n.os 2 e 3 do artigo 58.º, todos do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 36/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1990-335253), de 26 de Janeiro.
+Art. 3.º Ficam expressamente revogados pelo presente diploma os n.os 2 a 5 do artigo 6.º, as alíneas b) dos n.os 2 e 3 do artigo 7.º, o n.º 5 do artigo 30.º, o n.º 5 do artigo 32.º, os artigos 53.º e 54.º e os n.os 2 e 3 do artigo 58.º, todos do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 36/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1990-335253), de 26 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1993. - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 13 de Agosto de 1993.**
+Promulgado em 13 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1993.**
+Referendado em 23 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

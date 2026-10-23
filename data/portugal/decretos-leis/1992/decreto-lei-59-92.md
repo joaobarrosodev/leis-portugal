@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/087a00/17391742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/1992/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1992-200004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c215a37d6e01a84c235e5f859f178d7504487679413c894904833b88b6c9b7a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31e51e419819485df42eed2a0f7f69b131cd33338151c85b539f6f842314f5e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação e Reabilitação Profissional
-- Formação Profissional
 - Centro Regional de Segurança Social
-- Comissão para a Igualdade no Trabalho e no Emprego
-- IPSS
-- Informação
-- Orientação Profissional
 - Comissão para a Igualdade e para os Direitos das Mulheres
-- Estabelecimento de Ensino
+- Comissão para a Igualdade no Trabalho e no Emprego
 - Emprego
-- Reconversão Profissional
+- Empresa
+- Estabelecimento de Ensino
+- Formação Profissional
+- Informação
+- Instituto do Emprego e Formação Profissional
+- IPSS
 - Mercado do Trabalho
+- Orientação Profissional
+- Reconversão Profissional
 relationships:
 - type: amended_by
   target: pt:dre:105808927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:628017:por
+  label: Revogado pelo DEC LEI.396/2007.31.12.2007.MTSSO, DR.IS [251] de 31.12.2007, com efeitos a partir da entrada em vigor
+    da portaria que regule a informação e orientação para a qualificação e o emprego em matéria de educação, formação profissional
+    e emprego
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-2007-628017
+  date: '2007-12-31'
 article_structure:
   article_count: 9
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:45Z'
   warnings: []
   errors: []
 ---
@@ -251,12 +258,12 @@ d) O estabelecimento de contactos destinados à criação de uma rede de informa
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Diamantino Freitas Gomes Durão - José Albino da Silva Peneda.
 
-**Promulgado em 2 de Abril de 1992.**
+Promulgado em 2 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Abril de 1992.**
+Referendado em 4 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/1993/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1993-265693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3d815ffc6e6dbf873d85c494b42cc37869fb965d4fdaaedbb7bfd2ad186f4c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a32f7f0f6bc20f0fa888ed1e35b1cffc0296093803628cd2e1075703abd950e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,38 @@ reuse:
 subjects:
 - Departamento para os Assuntos Europeus e Relações Externas
 - Extinção de Serviços
+- Gabinete de Relações Internacionais
 - Gabinete para a Integração Europeia
 - Integração de Trabalhadores
-- Gabinete de Relações Internacionais
 - Ministério do Emprego e da Segurança Social
 - Orgânica
 - Quadro de Pessoal
 - Transferência Patrimonial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO PARA A QUALIFICAÇÃO E O EMPREGO, COM AFECTAÇÃO PROVISÓRIA DE PESSOAL E PATRIMÓNIO,\
+    \ ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:12Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +200,9 @@ d) Dinamizar e coordenar a elaboração de projectos, programas e actividades no
 
 e) Elaborar estudos e dar pareceres sobre as matérias que nesta área lhe sejam cometidas.
 
-###### Artigo 8.º — Secção de Administração Geral
+###### Artigo 8.º
+
+#### Secção de Administração Geral
 
 1 - A Secção de Administração Geral assegura, no âmbito do DAERE, as acções respeitantes à administração de pessoal, contabilidade, aprovisionamento, expediente e arquivo.
 
@@ -252,12 +264,12 @@ Os encargos decorrentes da aplicação deste diploma serão suportados em confor
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

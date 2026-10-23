@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/1993/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1993-267033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f62a778d11a163d896f02d648bd063b859728c3af71431644864fe8739acc5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e037ff8b8021516f42cf5af2e0caef70a5328c6826845649ff38173221615af5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,79 @@ relationships:
   target: pt:dre:629449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546453:por
+  label: "Alterado o art. 17º e aditados os arts. 17º-A e 17º-B, pelo DEC LEI.298/94.1994.11.24.MAI, DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1994-546453
+  date: '1994-11-24'
+- type: amended_by
+  target: pt:dre:1641013:por
+  label: "Alterado o quadro de pessoal constante do art. 33º pelo DC.461/97.1997.10.29.PCM, MAI, DR.IIS [266] de 1997.11.17\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/461-1997-1641013
+  date: '1997-10-29'
+- type: amended_by
+  target: pt:dre:316373:por
+  label: "Alterada a al. c) do n.º 1 do art. 33.º, pelo DEC LEI.188/99.1999.06.02.MAI DR.IS-A [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-1999-316373
+  date: '1999-06-02'
+- type: amended_by
+  target: pt:dre:1301953:por
+  label: "Alterado o quadro de pessoal constante do art. 33º pelo DC.676/99.1999.07.29.PCM, DR.IIS [187] de 12/Ago/1999 \0\
+    9 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/676-1999-1301953
+  date: '1999-07-29'
+- type: amended_by
+  target: pt:dre:276036:por
+  label: "Alterados os arts. 11º e 33º pelo DEC LEI.15/2002.2002.01.29.MAI DR.IS-A [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2002-276036
+  date: '2002-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/260/1991/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/260/1991/07/25/p/dre
+- type: cites
+  target: pt:dre:335394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667886:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:616587:por
+  label: "Rectificado pela DECL-RECT.138/93.30.07.1993.PCM, DR.IS-A [178]Supl de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/138-1993-616587
+  date: '1993-07-30'
+- type: repealed_by
+  target: pt:dre:629449:por
+  label: Revogado, a partir de 06.12.2007, pela LEI.63/2007.06.11.2007.AR, DR.IS [213] de 06.11.2007, com excepção dos art.s
+    29º e 30º, cuja revogação produz efeitos com a entrada em vigor de uma nova lei de segurança interna, e dos art.s 33º,
+    92º e 94º, cuja revogação produz efeitos com a entrada em vigor de um novo Estatuto dos Militares da Guarda.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2007-629449
+  date: '2007-11-06'
 article_structure:
-  article_count: 103
+  article_count: 102
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:37Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +165,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Guarda Nacional Republicana, anexa ao presente diploma e do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Guarda Nacional Republicana, anexa ao presente diploma e do qual faz parte integrante.
 
-###### Art. 2.º É revogada a Lei Orgânica da Guarda Nacional Republicana, aprovada pelo [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, com as alterações previstas nos Decretos-Leis n.os [39/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1990-335394), de 3 de Fevereiro, e [260/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1991-667886), de 25 de Julho, sem prejuízo do disposto no artigo 99.º da Lei Orgânica anexa.
+Art. 2.º É revogada a Lei Orgânica da Guarda Nacional Republicana, aprovada pelo [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, com as alterações previstas nos Decretos-Leis n.os [39/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1990-335394), de 3 de Fevereiro, e [260/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1991-667886), de 25 de Julho, sem prejuízo do disposto no artigo 99.º da Lei Orgânica anexa.
 
 Visto e aprovado em Conselho de Ministros de 13 de Maio de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo.
 
-**Promulgado em 17 de Junho de 1993.**
+Promulgado em 17 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1993.**
+Referendado em 18 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lei Orgânica da Guarda Nacional Republicana
 
@@ -1114,10 +1173,10 @@ QUADRO I
 
 Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf))](https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf)
 
 QUADRO II
 
 Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf))](https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/148a00/34933503.pdf)

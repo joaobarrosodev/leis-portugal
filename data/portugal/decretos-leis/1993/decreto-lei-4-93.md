@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/1993/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1993-283681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08a82e896892d03be06b1f6cfe2d8a8b7e24deca1ff07cc9d874dddc8bc04dea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cfb3047029dccf697c990f3a86e60f5d2a1fde948ed9bc029d1288aeffaf908
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,54 @@ relationships:
   target: pt:dre:146203:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490394:por
+  label: "Alterados os arts. 5º, 24º e 26º e revogado o nº3 do art. 5º e o nº2 do art. 24º do Regulamento de Taxas de Instalações\
+    \ Eléctricas, aprovado pelo presente diploma, pelo DEC LEI.246/2009.22.09.2009.MEI, DR.IS [184] de 22.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2009-490394
+  date: '2009-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/99/1991/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1991/03/02/p/dre
+- type: cites
+  target: pt:dre:232502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662150:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:17Z'
   warnings: []
   errors: []
 ---
@@ -108,25 +142,25 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Taxas de Instalações Eléctricas, abreviadamente designado por RTIE, anexo ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento de Taxas de Instalações Eléctricas, abreviadamente designado por RTIE, anexo ao presente decreto-lei e que dele faz parte integrante.
 
-###### Art. 2.º Por portaria do Ministro da Indústria e Energia serão estabelecidos os coeficientes e os montantes das taxas a aplicar no âmbito deste diploma.
+Art. 2.º Por portaria do Ministro da Indústria e Energia serão estabelecidos os coeficientes e os montantes das taxas a aplicar no âmbito deste diploma.
 
-###### Art. 3.º Ficam revogados os §§ 1.º e 2.º do artigo 41.º do [Decreto n.º 9424](https://diariodarepublica.pt/dr/detalhe/decreto/9424-1924-654353), de 11 de Fevereiro de 1924, o § 1.º do artigo 23.º e os §§ 1.º e 2.º do artigo 37.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, os Decretos-Leis n.os 31226 e 35565, respectivamente de 21 de Abril de 1941 e de 29 de Março de 1946, e os artigos 1.º e 2.º do [Decreto-Lei n.º 40722](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40722-1956-232502), de 2 de Agosto de 1956.
+Art. 3.º Ficam revogados os §§ 1.º e 2.º do artigo 41.º do [Decreto n.º 9424](https://diariodarepublica.pt/dr/detalhe/decreto/9424-1924-654353), de 11 de Fevereiro de 1924, o § 1.º do artigo 23.º e os §§ 1.º e 2.º do artigo 37.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, os Decretos-Leis n.os 31226 e 35565, respectivamente de 21 de Abril de 1941 e de 29 de Março de 1946, e os artigos 1.º e 2.º do [Decreto-Lei n.º 40722](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40722-1956-232502), de 2 de Agosto de 1956.
 
-###### Art. 4.º Este diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 4.º Este diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Luís Fernando Mira Amaral.
 
-**Promulgado em 17 de Dezembro de 1992.**
+Promulgado em 17 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1992.**
+Referendado em 18 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Taxas de Instalações Eléctricas
 

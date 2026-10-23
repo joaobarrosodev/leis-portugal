@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/268a00/53385339.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/1992/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1992-584791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50e34772bdd5c9bbba5b53db30338376d0179b6db89b5a0fe4799017e22d342b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d679f94f4200b7d7007134a38732722ed4f6a6a8d6e2ac1db7c6ac03b6ce8d94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Equiparação de Cargos
 - Forças Armadas
 - Orgânica
+- Pessoal Dirigente
 - Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
@@ -79,16 +79,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/1991/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/1991/06/07/p/dre
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616189:por
+  label: "Revogado o Dec Lei 418/80 de 29-Set DR.IS [225], com as alterações introduzidas pelo presente diploma, pelo DEC\
+    \ LEI.293/2000.2000.11.17.MAI DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-2000-616189
+  date: '2000-11-17'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:05Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +139,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 41.º da Lei Orgânica do SNB, aprovada pelo [Decreto-Lei n.º 418/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1980-461642), de 29 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 205/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1991-658226), de 7 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 41.º da Lei Orgânica do SNB, aprovada pelo [Decreto-Lei n.º 418/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1980-461642), de 29 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 205/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1991-658226), de 7 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 41.º — Pessoal dirigente
 
@@ -121,16 +151,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os oficiais das Forças Armadas na reserva chamados a desempenhar funções no Serviço Nacional de Bombeiros ficam sujeitos ao disposto no artigo 79.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, no n.º 4 do artigo 125.º do Estatuto dos Militares das Forças Armadas e no artigo 17.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro.
 
-###### Art. 2.º O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+Art. 2.º O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

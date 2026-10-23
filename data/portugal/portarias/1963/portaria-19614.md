@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19614-1963-217707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d824e8d0a247aad5a4ff03d93e1bbed14f67ef5db6991861cecdfde836be091f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff8448c87bc93b10437736ad610bd5c12c9bf89a298887248edac98df2e82438
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola
+- Lacticínios
+- Margarina
+- Moçambique
+relationships:
+- type: cites
+  target: pt:dre:433044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516701:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:04Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Os artigos 3.º e 9.º passam a ter a seguinte redacção:
 
-###### Art. 3.º Na fabricação de margarina é obrigatória a junção de amido como desnaturante ou revelador.
+Art. 3.º Na fabricação de margarina é obrigatória a junção de amido como desnaturante ou revelador.
 
 § 1.º A junção de leite à margarina é facultativa.
 
@@ -98,7 +110,7 @@ Os artigos 3.º e 9.º passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 9.º A margarina só pode ser vendida ao público em embalagens fechadas, originárias das fábricas e com os pesos líquidos de 1 kg, 500 g, 250 g, 125 g e 100 g.
+Art. 9.º A margarina só pode ser vendida ao público em embalagens fechadas, originárias das fábricas e com os pesos líquidos de 1 kg, 500 g, 250 g, 125 g e 100 g.
 
 A margarina destinada às províncias ultramarinas para venda ao público pode ser fornecida em embalagens de 10 kg, sendo proibida a indicação de outras unidades de peso.
 

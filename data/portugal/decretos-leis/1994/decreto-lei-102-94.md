@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/092a00/18601901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/1994/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1994-264701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa4a0f10a8f105db4bbc981f048a957262dc373af40877ad64f57d6ba0e32554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1f8713f03b84394587e3cf5c0736511e84a3d8125c528d2f467f719f9b366c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
 - Aproximação das Legislações
-- Sociedade Anónima
 - CE Países
 - CEE
+- Companhia de Seguros
+- Contrato de Seguro
 - Co-seguro
+- Empresa Estrangeira
 - Empresa Europeia
-- Seguro
 - Instituto de Seguros de Portugal
 - Livre Prestação de Serviços
-- Zona Tributária Privilegiada
 - Prémio de Seguro
 - Regime Jurídico
 - Responsabilidade Financeira
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
-- Empresa Estrangeira
+- Sociedade Anónima
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:474478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL DE RECT 100/94 DA PCM DE 29-JUL DR.IS-A [175]SUPL DE 30/JUL/1994.\04."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-30'
 - type: cites
   target: celex:31991L0674
   label: null
@@ -99,16 +104,21 @@ relationships:
   target: celex:31992L0096
   label: null
   source: http://data.europa.eu/eli/dir/1992/96/oj
+- type: repealed_by
+  target: pt:dre:474478:por
+  label: "Revogado pelo DEC LEI.94-B/98.1998.04.17.MF, DR.IS-A [90]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-b-1998-474478
+  date: '1998-04-17'
 article_structure:
   article_count: 205
-  section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 45
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:08Z'
   warnings: []
   errors: []
 ---
@@ -2377,7 +2387,7 @@ f) Com ressalva do disposto na alínea anterior, morte de incapazes, com excepç
 
 2 - Os contratos de seguro obrigatório dos riscos classificados no ramo de responsabilidade civil de veículos terrestres propulsionados a motor, cuja celebração seja recusada por três empresas de seguros, encontram-se sujeitos à legislação nacional prevista para o seguro obrigatório de responsabilidade civil automóvel.
 
-## TÍTULO
+TÍTULO
 
 Disposições finais e transitórias
 
@@ -2519,12 +2529,12 @@ O presente diploma entra em vigor no dia 1 de Julho de 1994.
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

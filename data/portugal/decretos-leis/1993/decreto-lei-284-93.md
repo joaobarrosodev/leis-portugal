@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/193a00/44064408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/284/1993/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1993-329449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e19c2c8a60436d46146eb3943cc087c6b4c5118ffc3fce0269015f65b44cdcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eb32897da6fc318b3e322baa04802ee053a5bee65ab1a8b16c3d6b6bc9d8683
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,73 @@ relationships:
   target: pt:dre:638731:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrada no Ministério do Equipamento Social, a Direcção-Geral dos Edifícios e Monumentos Nacionais, cuja Lei Orgânica\
+    \ foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Direcção-Geral dos Edifícios e Monumentos Nacionais (integrada no agora extinto Ministério das Obras Públicas, Transportes\
+    \ e Habitação), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Extinta a Direcção-Geral dos Edifícios e Monumentos Nacionais cuja orgânica consta do presente diploma pelo DEC\
+    \ LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do respectivo art. 29º, sendo as suas atribuições\
+    \ integradas no Instituto da Habitação e Reabilitação Urbana, com excepção das relativas ao património classificado, que\
+    \ são integradas no Instituto de Gestão do Património Arquitectónico e Arqueológico (Ministério da Cultura)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520445:por
+  label: "Determinado que as DRC sucedam nas atribuições relativas ao património classificado da Direcção-Geral dos Edifícios\
+    \ e Monumentos Nacionais, cuja orgânica foi aprovada pelo presente diploma, pelo DR.34/2007.29.03.2007.MC, DR.IS [63]\
+    \ de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2007-520445
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:638731:por
+  label: "Determinado que o IHRU, I.P., suceda, nos termos dos nºs 2,3,4 e 5 do art. 21º, nas atribuições do DGEMN, com excepção\
+    \ das atribuições relativas ao património classificado, cuja orgânica consta do presente diploma, e revogado, a partir\
+    \ de 01.06.2007, pelo DEC LEI.223/2007.30.05.2007.MAOTDR, DR.IS [104] de 30.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2007-638731
+  date: '2007-05-30'
+- type: cites
+  target: pt:dre:283362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520437:por
+  label: "Revogadas as alíneas a), b) e c) do n.º 2 do artigo 2.º e a alínea e) do n.º 2 do artigo 5.º Revoga as alíneas a),\
+    \ b) e c) do n.º 2 do artigo 2.º e a alínea e) do n.º 2 do artigo 5.º do Decreto-Lei 284/93, de 18 de Agosto, DR.IS-A\
+    \ [193], e determinado que o Instituto de Gestão do Património Arquitectónico e Arqueológico suceda nas atribuições relativas\
+    \ à salvaguarda e valorização do património classificado da Direcção-Geral de Edifícios e Monumentos Nacionais, com excepção\
+    \ das atribuições cometidas às respectivas direcções regionais, cuja orgânica foi aprovada pelo presente diploma, pelo\
+    \ DEC LEI.96/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\03.2007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2007-520437
+  date: '2007-03-29'
 article_structure:
   article_count: 11
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:47Z'
   warnings: []
   errors: []
 ---
@@ -249,12 +306,12 @@ São revogados os Decretos-Leis n.os [204/80](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

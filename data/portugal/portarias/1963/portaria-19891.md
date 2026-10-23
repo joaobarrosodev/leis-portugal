@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19891-1963-627582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29ac09001b5ffc4528577773a3eff140be2a5312ac6b18cdc97c328ff5fd62fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97f2d252e6dcfd2275d5081aa9f3c08513f779bfb26f520e7a41232a9807234f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Orçamento
+- Reforço de Verbas
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:59Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +114,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 5430528$10, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar com estas importâncias as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
+Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
 
 2) «Aproveitamento de recursos»:
 
@@ -129,7 +150,7 @@ a) «Mecanização da conservação de estradas e melhoramento de oficinas de ob
 
 2) Um de 6734137$95, tomando como contrapartida o imposto das sobrevalorizações, consignado ao reforço destas verbas da mesma tabela de despesa com as quantias seguintes:
 
-### Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
+Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
 
 2) «Aproveitamento de recursos»:
 
@@ -155,7 +176,7 @@ a) «Urbanização, incluindo a construção de edifícios públicos ou de utili
 
 3) Um de 8981082$51, tomando como contrapartida igual importância a sair das disponibilidades do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39648-1954-635201), de 12 de Maio de 1954, para reforço com as quantias que se indicam das verbas da mesma tabela de despesa que se seguem:
 
-### Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
+Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
 
 2) «Aproveitamento de recursos»:
 
@@ -191,7 +212,7 @@ a) «Mecanização da conservação de estradas e melhoramento de oficinas de ob
 
 4) Um de 10795506$80, tomando como contrapartida igual quantia a sair das disponibilidades do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961, destinado a reforçar estas verbas da mesma tabela de despesa com as seguintes importâncias:
 
-### Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
+Capítulo 12.º, artigo 303.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
 
 1) «Conhecimento científico do território»:
 

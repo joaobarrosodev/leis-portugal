@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/052a00/09290943.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/1993/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1993-626471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3616d5cf728bfc56810d013fb5242b07d81dd6f02e4927d1002acc939f75fce5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36e5726fc3f567095a2ebc773bd98b596e66b40230a5056ad88b1054acc9ed3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,91 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
 - Boletim de Alojamento
 - Centro de Instalação Temporária
 - Cidadão Estrangeiro
 - Expulsão de Estrangeiros
+- Imigração
 - Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:239249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252205:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral, das normas constantes das als. a), b) e c) do n.º\
+    \ 1 do art. 68.º do presente diploma, pelo AC.232/2004.31.03.2004.TCS, DR.IS-A [122] de 25.05.2004 enquanto aplicáveis\
+    \ a cidadãos estrangeiros que tenham a seu cargo filhos menores de nacionalidade portuguesa residentes em território nacional\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/232-2004-252205
+  date: '2004-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1992/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1992/07/23/p/dre
+- type: cites
+  target: pt:dre:221562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619173:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682868:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 37/93, PUBLICADA NO DR.IS-A, 76, 2SUPL.\0UPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/37-1993-682868
+  date: '1993-03-31'
+- type: repealed_by
+  target: pt:dre:434982:por
+  label: "Revogado pelo DEC LEI.244/98.1998.08.08.MAI DR.IS-A [182]. Mantidos em vigor os restantes diplomas aprovados ao\
+    \ abrigo do presente Dec Lei, em tudo o que não contrarie o referido Dec Lei 244/98 de 08-Ago, até ao início da vigência\
+    \ da regulamentação nele prevista.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1998-434982
+  date: '1998-08-08'
 article_structure:
   article_count: 117
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:13Z'
   warnings: []
   errors: []
 ---
@@ -584,7 +644,9 @@ Pode ser concedido salvo-conduto aos estrangeiros que, não residindo no País, 
 
 2 - O modelo de salvo-conduto é aprovado por portaria do Ministro da Administração Interna.
 
-###### Artigo 51.º — Título de emergência para cidadãos comunitários
+###### Artigo 51.º
+
+## Título de emergência para cidadãos comunitários
 
 1 - O título de emergência para cidadãos comunitários é emitido a favor de nacionais de Estados membros da Comunidade Europeia que se encontrem indocumentados quando se verifiquem condições de perigo iminente ou de emergência grave.
 
@@ -622,7 +684,9 @@ b) O conhecimento superveniente pelas autoridades competentes do facto que teria
 
 c) Presença em território nacional.
 
-###### Artigo 56.º — Título de residência
+###### Artigo 56.º
+
+## Título de residência
 
 1 - Aos estrangeiros a quem for concedida autorização para residir será passado um título de residência.
 
@@ -1102,12 +1166,12 @@ Até ao início da vigência da regulamentação prevista no presente diploma ma
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Dezembro de 1992.**
+Promulgado em 22 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1992.**
+Referendado em 28 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

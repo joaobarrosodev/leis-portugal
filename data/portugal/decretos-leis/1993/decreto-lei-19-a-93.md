@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 20/1993, 1º Suplemento, Série I-A de 1993-01-25
   number: '20'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 292-(2) a 292-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/020a01/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19-a/1993/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-a-1993-302483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 778c55c727ac4c76717645782cd7e54b1b59abaa7438425f8b71398abf938cc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65aa1295b0ab9e2f8d71c04561f11885b7cd0b3aabe3dc9a43c5e0a16831365f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
+- Conselho Consultivo
 - Conselho de Direção
 - Definição de Competências
-- Conselho Consultivo
 - Orgânica
-- Presidente
 - Presidência do Conselho de Ministros
+- Presidente
 - Serviços Sociais
 - Sistema de Acção Social Complementar
 - Vogal
@@ -81,20 +81,72 @@ relationships:
   target: pt:dre:520995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227398:por
+  label: "Fundidos nos Serviços Sociais da Presidência do Conselho de Ministros, cuja orgânica consta do presente diploma,\
+    \ os Serviços Sociais do Ministério da Saúde, e transferidas as suas atribuições, direitos e obrigações, assim como as\
+    \ competências dos seus presidente e conselho de direcção, respectivamente, para os SSPCM e seus presidente e conselho\
+    \ de direcção, pelo DR.4/2005.09.06.2005.MS, DR.IS-B [111] de 09.06.2005\0005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2005-227398
+  date: '2005-06-09'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extintos, sendo objecto de fusão, os Serviços Sociais, criados no Dec Lei 308/72, de 17-Ago, e reestruturados no\
+    \ presente diploma, sendo integradas as suas atribuições nos Serviços Sociais da Administração Pública, no âmbito do Ministério\
+    \ das Finanças e da Administração Pública, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, nos termos\
+    \ dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/1991/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/194/1991/05/25/p/dre
+- type: cites
+  target: pt:dre:170306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520995:por
+  label: "Revogado, a partir de 01.05.2007, e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o presente\
+    \ diploma, e determinado que os Serviços Sociais da Administração Pública sucedam nos termos do n.º 1 do artigo 12.º nas\
+    \ atribuições dos Serviços Sociais da Presidência do Conselho de Ministros, cuja orgânica foi aprovada pelo citado diploma,\
+    \ pelo DR.49/2007.27.04.2007.MFAP, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2007-520995
+  date: '2007-04-27'
 article_structure:
   article_count: 33
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:42Z'
   warnings: []
   errors: []
 ---
@@ -355,7 +407,9 @@ a) A Secção de Prestações Pecuniárias;
 
 b) A Secção de Refeitórios e Alimentação.
 
-###### Artigo 23.º — Divisão de Acção Social
+###### Artigo 23.º
+
+##### Divisão de Acção Social
 
 1 - À DAS compete:
 
@@ -431,12 +485,12 @@ São revogados os Decretos-Leis n.os [308/72](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

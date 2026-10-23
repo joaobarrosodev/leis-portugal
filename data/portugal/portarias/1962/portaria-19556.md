@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19556-1962-155178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 649e1a65100954f0820397a637eaa47a9bbdb84cbd11251e776dc01ee0856834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed0660aa254291c3fb2542c809bcbf6cd94133d1386490309f5532d0b6c8a21b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Produto Mineiro
+- Prorrogação de Prazo
+- Recursos Minerais
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:628289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628289:por
+  label: "Prorrogado o prazo, pela PORT.19830.29.04.1963.MU, DG.IS [101] de 29.04.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19830-1963-628289
+  date: '1963-04-29'
+- type: cites
+  target: pt:dre:514226:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:53Z'
   warnings: []
   errors: []
 ---

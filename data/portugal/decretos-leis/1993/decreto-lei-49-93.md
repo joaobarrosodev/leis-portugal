@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/048a00/08150822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5965eb99ff78d00094902852ff5b3a41c821a23e9c0d574285bf80d2d1ef879
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a56cedca7e4ba3120490783af5c142f2c85c5e990cf6891cecfe198e9c7ce95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Cultural da Marinha
-- Marinha
 - Estado Maior da Armada
 - Instituto Hidrográfico
+- Marinha
 - Museu de Marinha
 - Orgânica
 relationships:
@@ -80,16 +80,127 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:156472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576284:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682872:por
+  label: "Rectificado pela DECL-RECT.38/93.30.03.1993.PCM, DR.IS-A [76]2ºSupl de 31.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/38-1993-682872
+  date: '1993-03-30'
+- type: repealed_by
+  target: pt:dre:489690:por
+  label: "Revogado, a partir de 01.10.2009 e sem prejuízo do disposto no artigo 43.º, pelo DEC LEI.233/2009.15.09.2009.MDN,\
+    \ DR.IS [179] de 15.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2009-489690
+  date: '2009-09-15'
 article_structure:
   article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:58Z'
   warnings: []
   errors: []
 ---
@@ -710,12 +821,12 @@ Enquanto não forem publicados os regulamentos previstos no presente decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1993.**
+Referendado em 4 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

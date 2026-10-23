@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/109a00/24842485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172/1993/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1993-275051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16e2c98f47d5b68117715306a97c4c24d74e57dba5583c2ad933c2d2f4bdf0d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6b6d9ec68b4e7720f0e65d986efcbf7fc837eb621a800e1a01286962abc09c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Multa
-- Transporte Aéreo
+- Aviação Civil
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral da Aviação Civil
-- Licenciamento
 - GNR
-- Inspecção Geral do Trabalho
-- Operador de Trabalho Aéreo
 - Guarda Florestal
-- Aviação Civil
+- Inspecção Geral do Trabalho
+- Licenciamento
+- Multa
+- Operador de Trabalho Aéreo
+- PSP
 - Trabalho Aéreo
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:259949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480517:por
+  label: "Alterado o art 10º e revogados os arts 11º e 13º do presente diploma pelo DEC LEI.208/2004.19.08.2004.MOPTH, DR.IS-A\
+    \ [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2004-480517
+  date: '2004-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/111/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:475948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600723:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:259949:por
+  label: "Revogado, a partir de 03.04.2013, o presente diploma, alterado pelo Dec Lei 208/2004 de 19-ago, pelo DEC LEI.44/2013.02.04.2013.MEE,\
+    \ DR.IS [64] de 02.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2013-259949
+  date: '2013-04-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:17Z'
   warnings: []
   errors: []
 ---
@@ -117,23 +141,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma regula a actividade de trabalho aéreo.
+Artigo 1.º O presente diploma regula a actividade de trabalho aéreo.
 
-###### Art. 2.º - 1 - Considera-se trabalho aéreo a utilização de aeronaves em voo, mediante retribuição, para qualquer actividade, exceptuando o transporte de passageiros, carga ou correio.
+Art. 2.º - 1 - Considera-se trabalho aéreo a utilização de aeronaves em voo, mediante retribuição, para qualquer actividade, exceptuando o transporte de passageiros, carga ou correio.
 
 2 - Considera-se ainda trabalho aéreo a movimentação de pessoas, equipamentos e carga necessários à execução da actividade de trabalho aéreo contratado, desde que a distância entre o ponto de embarque e o de desembarque seja inferior a 50 km.
 
-###### Art. 3.º - 1 - O exercício da actividade de trabalho aéreo depende da titularidade de licença de trabalho aéreo e de certificado de operador.
+Art. 3.º - 1 - O exercício da actividade de trabalho aéreo depende da titularidade de licença de trabalho aéreo e de certificado de operador.
 
 2 - Consideram-se licenciados para trabalho aéreo os titulares de licença de transporte aéreo não regular, concedida ao abrigo do [Decreto-Lei n.º 19/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1982-600723), de 28 de Janeiro.
 
-###### Art. 4.º O regime de licenciamento de trabalho aéreo é o estabelecido para o transporte aéreo não regular.
+Art. 4.º O regime de licenciamento de trabalho aéreo é o estabelecido para o transporte aéreo não regular.
 
-###### Art. 5.º - 1 - Mediante autorização do director-geral da Aviação Civil, podem exercer a actividade de trabalho aéreo em território nacional as entidades possuidoras de título adequado, válido, emitido por outro Estado membro da Comunidade Europeia.
+Art. 5.º - 1 - Mediante autorização do director-geral da Aviação Civil, podem exercer a actividade de trabalho aéreo em território nacional as entidades possuidoras de título adequado, válido, emitido por outro Estado membro da Comunidade Europeia.
 
 2 - A concessão de autorização a empresas que não tenham a sua sede ou estabelecimento principal em Estado membro da Comunidade Europeia está sujeita a comprovação dos requisitos técnicos e operacionais de segurança aplicáveis, segundo a legislação em vigor.
 
-###### Art. 6.º - 1 - Os titulares das licenças concedidas ao abrigo do presente diploma e das autorizações referidas no artigo anterior respondem civilmente, independentemente de culpa, pelos danos causados a pessoas a bordo no decurso da actividade de trabalho aéreo contratada, excluindo os tripulantes, e a terceiros, à superfície.
+Art. 6.º - 1 - Os titulares das licenças concedidas ao abrigo do presente diploma e das autorizações referidas no artigo anterior respondem civilmente, independentemente de culpa, pelos danos causados a pessoas a bordo no decurso da actividade de trabalho aéreo contratada, excluindo os tripulantes, e a terceiros, à superfície.
 
 2 - Para garantia do disposto no número anterior é obrigatória a contratação de seguro de responsabilidade civil que possa resultar da respectiva actividade, nas condições estabelecidas no artigo 4.º do [Decreto-Lei n.º 321/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1989-548194), de 25 de Setembro.
 
@@ -141,15 +165,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Sem prejuízo de quaisquer outras disposições legais aplicáveis, a caducidade ou cessação da garantia referida no n.º 2 implica a suspensão automática da licença ou da autorização.
 
-###### Art. 7.º No âmbito do exercício da actividade de trabalho aéreo, é proibido o lançamento de qualquer objecto ou produto de aeronaves, excepto em actividades directamente relacionadas com a agricultura, a horticultura, a silvicultura, a preservação das florestas, o combate a incêndios, a luta contra a poluição do meio ambiente, as acções de socorro e de evacuação de pessoas e o pára-quedismo, nos termos previstos no certificado de operador e no Manual de Operações, e os alijamentos de carga em situação de emergência.
+Art. 7.º No âmbito do exercício da actividade de trabalho aéreo, é proibido o lançamento de qualquer objecto ou produto de aeronaves, excepto em actividades directamente relacionadas com a agricultura, a horticultura, a silvicultura, a preservação das florestas, o combate a incêndios, a luta contra a poluição do meio ambiente, as acções de socorro e de evacuação de pessoas e o pára-quedismo, nos termos previstos no certificado de operador e no Manual de Operações, e os alijamentos de carga em situação de emergência.
 
-###### Art. 8.º - 1 - O regime de certificação técnica dos operadores de trabalho aéreo é o estabelecido para o transporte aéreo no [Decreto-Lei n.º 111/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948), de 18 de Março.
+Art. 8.º - 1 - O regime de certificação técnica dos operadores de trabalho aéreo é o estabelecido para o transporte aéreo no [Decreto-Lei n.º 111/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948), de 18 de Março.
 
 2 - A certificação é atestada pela emissão de um certificado de operador, de modelo a aprovar por despacho do Ministro das Obras Públicas, Transportes e Comunicações, mediante proposta do director-geral da Aviação Civil.
 
-###### Art. 9.º O regime de tempo de serviço de voo e repouso dos tripulantes de aeronaves certificadas para a actividade de trabalho aéreo será definido por portaria conjunta do ministro com competência na área de aviação civil e do Ministro do Emprego e da Segurança Social.
+Art. 9.º O regime de tempo de serviço de voo e repouso dos tripulantes de aeronaves certificadas para a actividade de trabalho aéreo será definido por portaria conjunta do ministro com competência na área de aviação civil e do Ministro do Emprego e da Segurança Social.
 
-###### Art. 10.º - 1 - Constitui contra-ordenação, punível com coima mínima de 500000$00 e máxima de 1500000$00, no caso de pessoa colectiva, e de 250000$00 a 500000$00, no caso de pessoa singular:
+Art. 10.º - 1 - Constitui contra-ordenação, punível com coima mínima de 500000$00 e máxima de 1500000$00, no caso de pessoa colectiva, e de 250000$00 a 500000$00, no caso de pessoa singular:
 
 a) O exercício da actividade de trabalho aéreo por entidade nacional não licenciada para o efeito ou não possuidora de certificado de operador válido, ou por entidade estrangeira não autorizada nos termos do artigo 5.º;
 
@@ -159,11 +183,11 @@ c) O exercício da actividade de trabalho aéreo sem contrato de seguro válido,
 
 2 - Constitui contra-ordenação, punível com coima mínima de 150000$00 e máxima de 500000$00, a infracção ao disposto no artigo 7.º
 
-###### Art. 11.º - 1 - A instrução do processo contra-ordenacional compete à Direcção-Geral da Aviação Civil.
+Art. 11.º - 1 - A instrução do processo contra-ordenacional compete à Direcção-Geral da Aviação Civil.
 
 2 - A aplicação das coimas é da competência do director-geral da Aviação Civil.
 
-###### Art. 12.º São competentes para a fiscalização das actividades abrangidas pelo presente diploma as seguintes entidades:
+Art. 12.º São competentes para a fiscalização das actividades abrangidas pelo presente diploma as seguintes entidades:
 
 a) Direcção-Geral da Aviação Civil;
 
@@ -173,7 +197,7 @@ c) Guarda Nacional Republicana, Polícia de Segurança Pública, Guarda Floresta
 
 d) Inspecção-Geral do Trabalho, para efeitos do artigo 9.º
 
-###### Art. 13.º A afectação do produto das coimas faz-se da forma seguinte:
+Art. 13.º A afectação do produto das coimas faz-se da forma seguinte:
 
 a) 20% para a entidade fiscalizadora;
 
@@ -181,16 +205,16 @@ b) 20% para a Direcção-Geral da Aviação Civil;
 
 c) 60% para o Estado.
 
-###### Art. 14.º As autorizações de trabalho aéreo concedidas a entidades nacionais até à data da entrada em vigor do presente diploma mantêm-se válidas pelo período de 180 dias.
+Art. 14.º As autorizações de trabalho aéreo concedidas a entidades nacionais até à data da entrada em vigor do presente diploma mantêm-se válidas pelo período de 180 dias.
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro dos Santos Amaro - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

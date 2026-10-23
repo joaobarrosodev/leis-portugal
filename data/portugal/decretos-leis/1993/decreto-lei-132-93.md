@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/095a00/19762005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1993-666341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4e2b94b44ee365afc908a1f83ce95f6e8b0cbbf1d678107f690fdde1e41eda1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb1c10a1559899764a0385eb36bd8734da58dcc3b0f6e28d63f6945815d9c8a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
-- Falência
-- Liquidação Judicial
-- Empresa
+- Assembleia de Credores
 - Código de Processo Tributário
 - Código dos Processos Especiais de Recuperação da Empresa e de Falência
+- Código Penal
 - Direito Penal Económico
+- Empresa
 - Execução Fiscal
 - Extinção de Serviços
-- Assembleia de Credores
+- Falência
+- Insolvência
+- Liquidação Judicial
 - Processo Especial de Falência
 - Recuperação de Empresas
-- Código Penal
 - Situação Económica Dificil
 - Viabilidade Económica
 relationships:
@@ -85,20 +85,109 @@ relationships:
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterado o art. 8º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329 de 08-Mai, na redacção do presente\
+    \ diploma, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:164051:por
+  label: "Alterado o art 8º pelo DEC LEI.157/97.1997.06.24.MJ, DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1997-164051
+  date: '1997-06-24'
+- type: amended_by
+  target: pt:dre:239980:por
+  label: "Alterados os arts. 1º, 2º, 3º a 5º, 7º, 8º, 10º, 13º, 14º a 16º, 18º a 20º, 22º a 25º, 27º a 30º, 32º, 34º, 38º,\
+    \ 41º a 46º, 49º a 56º, 58º, 62º, 65º a 67º, 77º a 87º, 90º a 92º, 97º, 99º, 103º a 109º, 114º a 116º, 119º, 123º, 124º,\
+    \ 127º a 130º, 132º, 134º, 139º, 142º, 145º, 148º, 150º, 152º, 155º, 158º, 161º, 172º, 179º a 181º, 184º, 186º a 188º,\
+    \ 191º a 193º, 195º, 196º, 198º a 200º, 203º, 205º, 209º, 213º, 215º, 216º, 220º, 221º, 223º, 224º, 232º a 234º, 236º\
+    \ e 240º a 244º; revogado o art. 26º; aditado ao título II do CPEREF o cap. III; alterada a epígrafe da secção III do\
+    \ cap. II do título II; aditados os arts. 2º-A, 21º-A, 121º-A, 126º-A a 126º-C, 164º-A, 218º-A e 245º-A; alterado o título\
+    \ IV para título V, e atribuida uma epígrafe ao título IV constituído pelo art. 245º-A, pelo DEC LEI.315/98.1998.10.20.MJ,\
+    \ DR.IS-A [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1998-239980
+  date: '1998-10-20'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 246º do Código dos Processos Especiais de Recuperação da Empresa e de Falência, com a redacção dada\
+    \ pela Decl-Rect 141/93 de 31-Jul, e pelos Dec Leis 157/97 de 24-Jun e 315/98 de 20-Out pelo DEC LEI.323/2001.2001.12.17.MJ\
+    \ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados, a partir de 15 de Setembro de 2003, os arts. 181.º (na redacção do Dec Lei 315/98, de 20-Out), 183.º,\
+    \ 186.º, 187.º, 192.º e 195.º (os quatro na redacção do Dec Lei 315/98, de 20-Out), todos do Código dos Processos Especiais\
+    \ de Recuperação de Empresa e da Falência, aprovado pelo presente diploma, pelo DEC LEI.38/2003.2003.03.08.MJ DR.IS-A\
+    \ [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/16/1992/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/1992/08/06/p/dre
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:616594:por
+  label: "Rectificado o preâmbulo, o art. 3.º [na parte em que altera o n.º 2 do art. 326.º do Código Penal, aprovado pelo\
+    \ Dec Lei 400/82, de 23-Set] e o n.º 1 do art. 5.º do presente diploma, bem como a epígrafe do art. 13.º, os n.ºs 1 e\
+    \ 2 do art. 15.º, o n.º 2 do art. 30.º, o art. 33.º, o n.º 2 do art. 44.º, a epígrafe da secção II do cap. II do tít.\
+    \ II, o n.º 1 do art. 110.º, o n.º 1 do art. 118.º, a al. f) do art. 120.º, o n.º 1 do art. 123.º, al. d) do n.º 1 do\
+    \ art. 238.º e o n.º 4 do art. 247.º do Código dos Processos Especiais de Recuperação da Empresa e de Falência, pela DECL-RECT.141/93.1993.07.30.PCM,\
+    \ DR.IS-A [178]Supl de 31.Jul.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/141-1993-616594
+  date: '1993-07-30'
+- type: repealed_by
+  target: pt:dre:191558:por
+  label: "Revogado o art. 14º do Código de Processo Tributário aprovado pelo Dec Lei 154/91 de 23-Abr, na redacção do presente\
+    \ diploma, pelo DEC LEI.398/98.1998.12.17.MF, DR.IS-A [290] (sem prejuízo do disposto no nº 2 do art. 3º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1998-191558
+  date: '1998-12-17'
+- type: repealed_by
+  target: pt:dre:538423:por
+  label: "Revogado o Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo presente diploma,\
+    \ alterado pelos Dec Leis 157/97, de 24-Jun, 315/98, de 20-Out, 323/2001, de 17-Dez e 38/2003, de 08-Mar, pelo DEC LEI.53/2004.18.03.2004.MJ,\
+    \ DR.IS-A [66] de 18.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
 article_structure:
   article_count: 264
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:27Z'
   warnings: []
   errors: []
 ---
@@ -385,15 +474,15 @@ Sem prejuízo do disposto no artigo anterior, são revogados, com a entrada em v
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Código dos Processos Especiais de Recuperação da Empresa e de Falência
 

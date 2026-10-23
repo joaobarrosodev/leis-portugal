@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/1993/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1993-690980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e23e8fa748702aa105438feae50ff9d9f4367f04962e9a7cba24a708100ac00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc6fa637c1e16ca60250cf41e957577970496a438948bd52f92c5b7233776db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ subjects:
 - Obras Públicas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:16Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +99,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica a Junta Autónoma de Estradas autorizada, a título excepcional, a adjudicar as obras de melhoramento do Autódromo do Estoril necessárias à realização do Grande Prémio de Portugal de Fórmula 1 e da prova portuguesa do Mundial de Superbikes, em 1993, por ajuste directo, com dispensa de concurso público ou limitado, até ao limite de 440000000$00.
+Artigo 1.º - 1 - Fica a Junta Autónoma de Estradas autorizada, a título excepcional, a adjudicar as obras de melhoramento do Autódromo do Estoril necessárias à realização do Grande Prémio de Portugal de Fórmula 1 e da prova portuguesa do Mundial de Superbikes, em 1993, por ajuste directo, com dispensa de concurso público ou limitado, até ao limite de 440000000$00.
 
 2 - A adjudicação das obras deve ser antecedida de consulta a um mínimo de três entidades.
 
-###### Art. 2.º - 1 - A consignação dos empreendimentos referidos no artigo anterior pode ser feita imediatamente após a autorização de adjudicação, sem prejuízo de posterior submissão a visto do Tribunal de Contas.
+Art. 2.º - 1 - A consignação dos empreendimentos referidos no artigo anterior pode ser feita imediatamente após a autorização de adjudicação, sem prejuízo de posterior submissão a visto do Tribunal de Contas.
 
 2 - Verificada a consignação, podem realizar-se os pagamentos de trabalhos que forem sendo efectuados, a título de adiantamento, e garantidos pelos trabalhos executados.
 
-###### Art. 3.º O Fundo de Turismo dotará a Junta Autónoma de Estradas com as verbas necessárias à cobertura dos encargos com as obras a realizar nos termos do presente diploma.
+Art. 3.º O Fundo de Turismo dotará a Junta Autónoma de Estradas com as verbas necessárias à cobertura dos encargos com as obras a realizar nos termos do presente diploma.
 
-###### Art. 4.º O presente diploma produz efeitos a partir do dia seguinte ao da data da sua publicação.
+Art. 4.º O presente diploma produz efeitos a partir do dia seguinte ao da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

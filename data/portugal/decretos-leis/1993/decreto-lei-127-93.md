@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/1993/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1993-692652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e19e720ed6b32fdccf14f4b4e02b707b55aa50c5c6ae7be92b13352be2923b0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53a4cfbec77b8d27e20f8d5ceb5e8394119aec4ddf045fea1cf28f3697526f5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Exército
 - Curso
 - Curso de Formação de Sargentos
 - Escola de Sargentos do Exército
 - Estatuto dos Militares das Forças Armadas
+- Exército
 - Forças Armadas
+- Formação Profissional
 - Sargento
 relationships:
 - type: amended_by
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:21Z'
   warnings: []
   errors: []
 ---
@@ -114,43 +126,43 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - A Escola de Sargentos do Exército (ESE) é um estabelecimento militar de ensino profissional que tem por missão assegurar, através dos cursos nela ministrados, a preparação cultural, técnica e profissional-militar necessária ao ingresso e progressão na carreira de sargentos dos quadros permanentes.
+Artigo 1.º - 1 - A Escola de Sargentos do Exército (ESE) é um estabelecimento militar de ensino profissional que tem por missão assegurar, através dos cursos nela ministrados, a preparação cultural, técnica e profissional-militar necessária ao ingresso e progressão na carreira de sargentos dos quadros permanentes.
 
 2 - A ESE assegura, no âmbito da carreira dos sargentos, os objectivos do ensino profissional definidos no artigo 19.º da Lei de Bases do Sistema Educativo, no [Decreto-Lei n.º 401/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1991-289058), de 16 de Outubro, e na legislação que regula as escolas profissionais.
 
-###### Art. 2.º - 1 - A ESE pode assegurar a preparação de sargentos de outros ramos das Forças Armadas, de sargentos da Guarda Nacional Republicana e da Guarda Fiscal.
+Art. 2.º - 1 - A ESE pode assegurar a preparação de sargentos de outros ramos das Forças Armadas, de sargentos da Guarda Nacional Republicana e da Guarda Fiscal.
 
 2 - A ESE pode também ministrar os seus cursos a pessoal das Forças Armadas e militarizadas de outros países, no quadro de acordos internacionais.
 
-###### Art. 3.º - 1 - A ESE depende funcionalmente do órgão central de direcção de instrução do Exército.
+Art. 3.º - 1 - A ESE depende funcionalmente do órgão central de direcção de instrução do Exército.
 
 2 - Para efeitos de segurança, justiça e disciplina, administração do pessoal não docente e não discente, gestão financeira e apoio logístico a ESE depende do comando da região militar em cuja área estiver localizada.
 
 3 - Para efeitos de administração de pessoal docente e discente a ESE depende directamente do órgão central de administração do pessoal do Exército.
 
-###### Art. 4.º - 1 - A ESE rege-se por um estatuto a aprovar por decreto regulamentar.
+Art. 4.º - 1 - A ESE rege-se por um estatuto a aprovar por decreto regulamentar.
 
 2 - O regulamento da ESE é aprovado por portaria do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior do Exército.
 
-###### Art. 5.º No âmbito das suas atribuições, e visando uma mais adequada prossecução dos seus objectivos, a ESE pode celebrar acordos, convénios e protocolos de cooperação com outras escolas profissionais, de ensino básico e secundário, ou outras instituições de reconhecida competência técnica.
+Art. 5.º No âmbito das suas atribuições, e visando uma mais adequada prossecução dos seus objectivos, a ESE pode celebrar acordos, convénios e protocolos de cooperação com outras escolas profissionais, de ensino básico e secundário, ou outras instituições de reconhecida competência técnica.
 
 ### CAPÍTULO II — Organização da formação
 
-###### Art. 6.º - 1 - Os cursos de formação de sargentos a ministrar pela ESE são criados e regulamentados por portaria conjunta dos Ministros da Defesa Nacional, da Educação e do Emprego e da Segurança Social, sob proposta do Chefe do Estado-Maior do Exército.
+Art. 6.º - 1 - Os cursos de formação de sargentos a ministrar pela ESE são criados e regulamentados por portaria conjunta dos Ministros da Defesa Nacional, da Educação e do Emprego e da Segurança Social, sob proposta do Chefe do Estado-Maior do Exército.
 
 2 - O curso de promoção a sargento-chefe, previsto no Estatuto dos Militares das Forças Armadas, é objecto de portaria do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior do Exército.
 
 3 - No âmbito do desenvolvimento da carreira, podem ainda ser criados e regulamentados outros estágios e cursos de qualificação, a ministrar na ESE, por despacho do Chefe do Estado-Maior do Exército.
 
-###### Art. 7.º São condições de acesso aos cursos de formação de sargentos o nível de escolaridade que para cada um dos cursos for definido e as exigências específicas decorrentes da natureza e objectivos do ensino ministrado pela ESE, que são estabelecidos no respectivo estatuto.
+Art. 7.º São condições de acesso aos cursos de formação de sargentos o nível de escolaridade que para cada um dos cursos for definido e as exigências específicas decorrentes da natureza e objectivos do ensino ministrado pela ESE, que são estabelecidos no respectivo estatuto.
 
-###### Art. 8.º A ESE confere, através do curso de formação de sargentos, o correspondente certificado de qualificação profissional militar, de nível 3, e um certificado equivalente ao 12.º ano de escolaridade.
+Art. 8.º A ESE confere, através do curso de formação de sargentos, o correspondente certificado de qualificação profissional militar, de nível 3, e um certificado equivalente ao 12.º ano de escolaridade.
 
-###### Art. 9.º A selecção do pessoal docente da ESE rege-se pelos princípios definidos na legislação que regula as escolas profissionais.
+Art. 9.º A selecção do pessoal docente da ESE rege-se pelos princípios definidos na legislação que regula as escolas profissionais.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 10.º - 1 - A ESE tem órgãos consultivos nos termos definidos no seu estatuto.
+Art. 10.º - 1 - A ESE tem órgãos consultivos nos termos definidos no seu estatuto.
 
 2 - O estatuto estabelece, obrigatoriamente, a existência de um órgão de conselho de carácter pedagógico, com objectivos, composição e competência correspondentes aos dos estabelecimentos dos ensinos básico e secundário.
 
@@ -158,18 +170,18 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 11.º - 1 - Com a entrada em funcionamento dos cursos a que se refere o presente diploma cessam as admissões aos cursos de formação e de promoção de sargentos actualmente em funcionamento na ESE, com excepção dos alunos que se destinam ao curso de formação de sargentos do Serviço de Saúde, cuja admissão continua a reger-se pelo [Decreto-Lei n.º 275/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1981-564209), de 1 de Outubro, enquanto não for publicada legislação específica.
+Art. 11.º - 1 - Com a entrada em funcionamento dos cursos a que se refere o presente diploma cessam as admissões aos cursos de formação e de promoção de sargentos actualmente em funcionamento na ESE, com excepção dos alunos que se destinam ao curso de formação de sargentos do Serviço de Saúde, cuja admissão continua a reger-se pelo [Decreto-Lei n.º 275/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1981-564209), de 1 de Outubro, enquanto não for publicada legislação específica.
 
 2 - Os alunos já admitidos aos cursos actualmente em funcionamento na ESE prosseguem a sua frequência de acordo com as normas curriculares vigentes à data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - António Fernando Couto dos Santos - José Albino da Silva Peneda.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/205a00/46074615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/307/1993/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1993-633539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecef31b7728e93d5b6ddff081a2b670d98f31914a6054a32b66d03d96d40088d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0349c9f49e33b97bda8694436ac57cfd0dce4a86b30d33b9fd523349194d5921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro de Epidemiologia e Bioestatística
 - Centro de Estudos da Paramiloidose
 - Centro de Estudos de Vectores e Doenças Infecciosas
 - Centro de Estudos e Registo de Anomalias Congenitas
 - Centro de Vigilância Epidemiológica das Doenças Transmissíveis
-- Gestão Financeira
+- Coimbra
 - Criação de Serviços
 - Definição de Competências
 - Delegação Regional
+- Gestão Financeira
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Núcleo de Alcoologia
 - Orgânica
-- Coimbra
-- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Porto
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:636711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a determinação\
+    \ das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência\
+    \ e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a definição\
+    \ das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência,\
+    \ Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl] de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada que competência relativa à definição das orientações estratégicas do Instituto, cuja orgânica foi aprovada\
+    \ no presente diploma, seja exercida pelo Ministro da Saúde em articulação com o Ministro da Ciência, Tecnologia e Ensino\
+    \ Superior, bem como o acompanhamento da sua execução, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -97,16 +119,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636711:por
+  label: "Revogado a partir de 01.08.2007 pelo DEC LEI.271/2007.26.07.2007.MS, DR.IS [143] de 26.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-2007-636711
+  date: '2007-07-26'
 article_structure:
   article_count: 46
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:17Z'
   warnings: []
   errors: []
 ---
@@ -711,16 +762,16 @@ São revogados os artigos 21.º a 26.º do [Decreto-Lei n.º 413/71](https://dia
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Arlindo Gomes de Carvalho.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 ## ANEXO — Mapa a que se refere o n.º 2 do artigo 34.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/205a00/46074615.pdf))](https://files.diariodarepublica.pt/1s/1993/09/205a00/46074615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/205a00/46074615.pdf)

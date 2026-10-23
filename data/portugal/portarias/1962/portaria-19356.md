@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19356-1962-163206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6ba3c30fb92997318462292ad08dc3a0b6ff7828732daa83bb08d1ded25e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f9c6e46bdbd2c0a0370a96adfd1f33c1ed2dcc6d69dfc40a21465cb39b65fd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,21 @@ relationships:
   target: pt:dre:693992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:693992:por
+  label: "Revogada, no que respeita a quadros de pessoal, pela PORT.20014.17.08.1963.PC, DG.IS [193] de 17.08.1963\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20014-1963-693992
+  date: '1963-08-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:37Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +157,10 @@ Messes de oficiais e messes de sargentos da Força Aérea
 
 A) Oficiais e oficiais milicianos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/08/18900/11191120.pdf))](https://files.diariodarepublica.pt/1s/1962/08/18900/11191120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/08/18900/11191120.pdf)
 
 B) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/08/18900/11191120.pdf))](https://files.diariodarepublica.pt/1s/1962/08/18900/11191120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/08/18900/11191120.pdf)
 
 Presidência do Conselho e Ministério do Ultramar 18 de Agosto de 1962.- O Ministro do Ultramar, Adriano José Alves Moreira. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

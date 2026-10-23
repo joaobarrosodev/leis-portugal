@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/1993/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1993-265698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986e7c8cebef61a33cb903d279a448206c1ca2af473c554f27b0b36292590ae4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2483bd20e2065ed700b4989374d805ef7f0bfe61d5cb16942c71dbd2a318ab48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,34 @@ relationships:
   target: pt:dre:484400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO PARA A QUALIFICAÇÃO E O EMPREGO, COM AFECTAÇÃO PROVISÓRIA DE PESSOAL E PATRIMÓNIO,\
+    \ ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583800:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:07Z'
   warnings: []
   errors: []
 ---
@@ -208,7 +222,9 @@ a) A Divisão de Recursos de Informação;
 
 b) A Divisão de Divulgação e Publicações.
 
-###### Artigo 8.º — Divisão de Recursos de Informação
+###### Artigo 8.º
+
+##### Divisão de Recursos de Informação
 
 Compete à Divisão de Recursos de Informação:
 
@@ -224,7 +240,9 @@ e) Elaborar produtos de informação, incluindo traduções, e desenvolver servi
 
 f) Assegurar a prestação de serviços de atendimento, consulta, empréstimo e informação relativamente aos recursos documentais e legislativos.
 
-###### Artigo 9.º — Divisão de Divulgação e Publicações
+###### Artigo 9.º
+
+##### Divisão de Divulgação e Publicações
 
 Compete à Divisão de Divulgação e Publicações:
 
@@ -254,7 +272,9 @@ c) A Repartição de Administração Financeira e Patrimonial;
 
 d) A Repartição de Serviços Gerais.
 
-###### Artigo 11.º — Divisão de Apoio Técnico à Gestão
+###### Artigo 11.º
+
+##### Divisão de Apoio Técnico à Gestão
 
 Compete à Divisão de Apoio Técnico à Gestão, relativamente aos serviços e aos gabinetes dos membros do Governo mencionados no n.º 1 do artigo 10.º:
 
@@ -396,12 +416,12 @@ O quadro de pessoal da Secretaria-Geral, constante do mapa I anexo à [Portaria 
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

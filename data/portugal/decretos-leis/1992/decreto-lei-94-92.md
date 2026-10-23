@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/1992/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1992-523410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3361306424b8a40b0f9cca383ad830270f209c241846bcc80ff9f964919bc089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f60c913f9b4be2b6a95c1d128fad9e16000b1007437122529f4fd5c0f41edef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
 subjects:
 - Jogos Olímpicos
 - Moeda Comemorativa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:31Z'
   warnings: []
   errors: []
 ---
@@ -95,36 +107,36 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa dos XXV Jogos Olímpicos, a realizar em 1992, com o valor facial de 200$00.
+Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa dos XXV Jogos Olímpicos, a realizar em 1992, com o valor facial de 200$00.
 
 2 - A moeda referida no número anterior será cunhada em liga de cuproníquel 75/25, com 36 mm de diâmetro e 21 g de peso, com uma tolerância de mais ou menos 1,5% no título e no peso, e bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, o escudo das armas nacionais sobre os anéis olímpicos, tendo, por baixo, o valor facial «200$00» e, por cima, a legenda «República Portuguesa» em duas linhas, em fundo listado horizontalmente.
+Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, o escudo das armas nacionais sobre os anéis olímpicos, tendo, por baixo, o valor facial «200$00» e, por cima, a legenda «República Portuguesa» em duas linhas, em fundo listado horizontalmente.
 
 2 - A gravura do reverso apresenta, no lado direito do campo, uma estilização de uma atleta em pleno esforço de corrida, no lado esquerdo, em cima, a legenda «XXV Jogos Olímpicos» em três linhas e, em baixo, a era «1992».
 
-###### Art. 3.º - 1 - O limite da emissão desta moeda comemorativa é fixado em 214000000$00.
+Art. 3.º - 1 - O limite da emissão desta moeda comemorativa é fixado em 214000000$00.
 
 2 - Dentro do limite estabelecido no número anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 20000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC) e até 50000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados a comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 3 - Os espécimes numismáticos de prata referidos no número anterior serão cunhados em liga de prata 925/1000, com o diâmetro de 36 mm, peso de 26,5 g e bordo serrilhado, sendo as tolerâncias, no peso e na liga, de mais ou menos 1%.
 
-###### Art. 4.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 4.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 5.º O Ministério das Finanças colocará à disposição do Comité Olímpico Português, através do Ministério da Educação, 20% do diferencial entre o valor facial e os correspondentes custos de produção, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
+Art. 5.º O Ministério das Finanças colocará à disposição do Comité Olímpico Português, através do Ministério da Educação, 20% do diferencial entre o valor facial e os correspondentes custos de produção, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
 
-###### Art. 6.º As moedas cunhadas ao abrigo do presente diploma têm curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 10000$00 nesta moeda.
+Art. 6.º As moedas cunhadas ao abrigo do presente diploma têm curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 10000$00 nesta moeda.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119a00/24672467.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119a00/24672467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119a00/24672467.pdf)

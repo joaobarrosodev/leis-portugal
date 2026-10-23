@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257/1992/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1992-584255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba18f76b12d98a55557af4cf9bdc78d782b8df011ccc05844acdde0bbe9169e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be0b365c73a9893a4831a1ace0eb51156f37ace016e72af0e3971c2c73257074
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direitos de Saque
 - Banco de Portugal
+- Direitos de Saque
 - Fundo para o Ambiente Global
 - Junta de Crédito Público
 - Proteção do Ambiente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:10Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +98,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A participação de Portugal no Fundo para o Ambiente do Globo (FAG) faz-se mediante uma contribuição de 4,5 milhões de direitos de saque especial.
+Artigo 1.º - 1 - A participação de Portugal no Fundo para o Ambiente do Globo (FAG) faz-se mediante uma contribuição de 4,5 milhões de direitos de saque especial.
 
 2 - A contribuição a que se refere o número anterior será feita através de notas promissórias resgatáveis até 31 de Agosto de 1997.
 
-###### Art. 2.º Caberá ao Ministro das Finanças representar o Governo perante o FAG, nomeadamente no que se refere ao depósito dos instrumentos de contribuição para o Fundo.
+Art. 2.º Caberá ao Ministro das Finanças representar o Governo perante o FAG, nomeadamente no que se refere ao depósito dos instrumentos de contribuição para o Fundo.
 
-###### Art. 3.º O Banco de Portugal será o depositário dos activos em escudos e de outros activos do FAG.
+Art. 3.º O Banco de Portugal será o depositário dos activos em escudos e de outros activos do FAG.
 
-###### Art. 4.º Cabe ao Ministro das Finanças praticar todos os actos necessários à realização do previsto no artigo 1.º, nomeadamente emitir os títulos de obrigação representados por promissórias, nos termos do regime aplicável ao financiamento a conceder ao FAG.
+Art. 4.º Cabe ao Ministro das Finanças praticar todos os actos necessários à realização do previsto no artigo 1.º, nomeadamente emitir os títulos de obrigação representados por promissórias, nos termos do regime aplicável ao financiamento a conceder ao FAG.
 
-###### Art. 5.º Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+Art. 5.º Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
 
 a) O número de ordem;
 
@@ -120,18 +120,18 @@ d) Os diplomas que autorizam a emissão;
 
 e) Os direitos, isenções e garantias de que gozam, e que são os dos restantes títulos da dívida pública que lhes forem aplicáveis.
 
-###### Art. 6.º As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com a faculdade de delegação, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
+Art. 6.º As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com a faculdade de delegação, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

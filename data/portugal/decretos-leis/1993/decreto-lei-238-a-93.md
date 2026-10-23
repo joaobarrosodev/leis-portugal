@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 156/1993, 1º Suplemento, Série I-A de 1993-07-06
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3710-(2) a 3710-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/156a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/238-a/1993/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-a-1993-689257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4416eb807fde607866bfbd5e44e2453d9bb60f89f25571acc20c77556111a965
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bb7c19ddbd1c863e8aa07bb7ee0fa2e7313069a8a514f1054296e1ba7f58801
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/251-a/1991/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251-a/1991/07/16/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557822:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:230117:por
+  label: "Revogado pelo DEC LEI.203/94.1994.07.26.MF, DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1994-230117
+  date: '1994-07-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:47Z'
   warnings: []
   errors: []
 ---
@@ -104,35 +121,35 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a reprivatização, por fases, da totalidade do capital social do Banco Pinto & Sotto Mayor, S. A., sendo regulada pelo presente decreto-lei e pelas resoluções do Conselho de Ministros a que se refere o artigo 4.º
+Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a reprivatização, por fases, da totalidade do capital social do Banco Pinto & Sotto Mayor, S. A., sendo regulada pelo presente decreto-lei e pelas resoluções do Conselho de Ministros a que se refere o artigo 4.º
 
 2 - O processo de reprivatização a que se refere o número anterior será realizado em duas fases, consistindo a primeira na alienação em bloco de um lote de acções correspondentes a 80% do capital social e a segunda numa alienação das acções correspondentes a 20% do capital social, reservada a trabalhadores, pequenos subscritores e emigrantes, conforme previsto no artigo 10.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183).
 
-###### Art. 2.º - 1 - Para a concretização do disposto no artigo anterior é aprovada, numa primeira fase, a alienação em bloco de um lote de 24400000 acções, correspondentes a 80% do capital social do Banco, por concurso público.
+Art. 2.º - 1 - Para a concretização do disposto no artigo anterior é aprovada, numa primeira fase, a alienação em bloco de um lote de 24400000 acções, correspondentes a 80% do capital social do Banco, por concurso público.
 
 2 - Os concorrentes poderão apresentar-se a concurso individualmente ou em grupo, devendo as suas ordens de compra ser dadas para a totalidade do bloco.
 
 3 - O vencedor do concurso referido no número anterior obrigar-se-á a adquirir as acções sobrantes da operação reservada para trabalhadores, pequenos subscritores e emigrantes, de que trata o artigo 3.º, ao preço unitário por que tenham sido adquiridas as acções que fazem parte do bloco.
 
-###### Art. 3.º - 1 - É aprovada a alienação, numa segunda fase, de 6100000 acções correspondentes a 20% do capital social do Banco, que serão reservadas para trabalhadores, pequenos subscritores e emigrantes.
+Art. 3.º - 1 - É aprovada a alienação, numa segunda fase, de 6100000 acções correspondentes a 20% do capital social do Banco, que serão reservadas para trabalhadores, pequenos subscritores e emigrantes.
 
 2 - Para efeitos do disposto no número anterior, consideram-se trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183).
 
-###### Art. 4.º Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
+Art. 4.º Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
 
-###### Art. 5.º - 1 - Os termos e condições do concurso público previsto no artigo 2.º constarão de um caderno de encargos, a aprovar pela resolução do Conselho de Ministros relativa à primeira fase da operação de reprivatização.
+Art. 5.º - 1 - Os termos e condições do concurso público previsto no artigo 2.º constarão de um caderno de encargos, a aprovar pela resolução do Conselho de Ministros relativa à primeira fase da operação de reprivatização.
 
 2 - A resolução do Conselho de Ministros relativa à segunda fase da operação de reprivatização fixará os preços especiais e demais condições para aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, podendo ainda prever que o pagamento das acções adquiridas por trabalhadores possa ser fraccionado ao longo do período de indisponibilidade estabelecido no n.º 1 do artigo 8.º
 
-###### Art. 6.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 2 do artigo anterior.
+Art. 6.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 2 do artigo anterior.
 
 2 - As aquisições de acções por pequenos subscritores serão sujeitas a quantidades mínimas e máximas, a fixar na resolução do Conselho de Ministros prevista no n.º 2 do artigo anterior, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.
 
 3 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas às quantidades referidas nos n.os 1 e 2, se as excederem.
 
-###### Art. 7.º Sob pena de nulidade, nenhuma entidade, singular ou colectiva, poderá adquirir mais de 80% do capital social do Banco, salvo por efeito do disposto no n.º 3 do artigo 2.º
+Art. 7.º Sob pena de nulidade, nenhuma entidade, singular ou colectiva, poderá adquirir mais de 80% do capital social do Banco, salvo por efeito do disposto no n.º 3 do artigo 2.º
 
-###### Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
 2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas em condições especiais, por força da titularidade daquelas a que o mesmo número se refere.
 
@@ -144,17 +161,17 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - As acções adquiridas por pequenos subscritores e emigrantes não conferem aos respectivos titulares o direito de voto na assembleia geral do Banco durante o período de indisponibilidade previsto no n.º 1.
 
-###### Art. 9.º - 1 - A resolução a que se refere o n.º 1 do artigo 5.º deverá prever que o cumprimento das obrigações impostas pelo caderno de encargos ao concorrente vencedor seja caucionado com as acções adquiridas por via do concurso público ou garantido por outra forma adequada.
+Art. 9.º - 1 - A resolução a que se refere o n.º 1 do artigo 5.º deverá prever que o cumprimento das obrigações impostas pelo caderno de encargos ao concorrente vencedor seja caucionado com as acções adquiridas por via do concurso público ou garantido por outra forma adequada.
 
 2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos, que ficarão vinculados, nos mesmos termos, ao seu cumprimento.
 
-###### Art. 10.º - 1 - Compete ao conselho de administração do Banco propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas para o efeito por despacho do Ministro das Finanças.
+Art. 10.º - 1 - Compete ao conselho de administração do Banco propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas para o efeito por despacho do Ministro das Finanças.
 
 2 - Nos 15 dias seguintes ao termo de cada fase do processo de reprivatização o Banco publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas com participação igual ou superior a 5% do seu capital social, indicando a quantidade de acções de que cada um é titular.
 
 3 - Nos 30 dias seguintes à operação prevista no artigo 2.º, o conselho de administração convocará a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
-###### Art. 11.º - 1 - O Estado transfere para o Banco Pinto & Sotto Mayor, S. A., um lote de até 15000000 de acções a determinar na resolução prevista no n.º 1 do artigo 5.º, com vista à sua consolidação financeira, através da superação das insuficiências estruturais em matéria de responsabilidades, particularmente para com o Fundo de Pensões, decorrentes de remunerações por serviços passados de trabalhadores no activo e de pensões.
+Art. 11.º - 1 - O Estado transfere para o Banco Pinto & Sotto Mayor, S. A., um lote de até 15000000 de acções a determinar na resolução prevista no n.º 1 do artigo 5.º, com vista à sua consolidação financeira, através da superação das insuficiências estruturais em matéria de responsabilidades, particularmente para com o Fundo de Pensões, decorrentes de remunerações por serviços passados de trabalhadores no activo e de pensões.
 
 2 - As acções referidas no número anterior serão contabilizadas ao preço de referência a fixar na resolução prevista no n.º 1 do artigo 5.º, tendo como contrapartida a criação de uma reserva especial utilizável para dotação do Fundo de Pensões e que só será disponível depois de assegurada a cobertura das responsabilidades decorrentes de pensões e de remunerações por serviços passados de trabalhadores no activo até 31 de Dezembro de 1997, de acordo com o programa a estabelecer no caderno de encargos, sem prejuízo do cumprimento, para efeitos fiscais, do disposto no artigo 2.º do [Decreto-Lei n.º 251-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-a-1991-522614), de 16 de Julho.
 
@@ -162,16 +179,16 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - As eventuais diferenças de valia geradas com a alienação das acções atribuídas ao Banco Pinto & Sotto Mayor, S. A., serão transferidas para a reserva especial prevista no n.º 2, utilizável exclusivamente para os fins previstos no n.º 1.
 
-###### Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
+Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 1 de Julho de 1993.**
+Promulgado em 1 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1993.**
+Referendado em 2 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

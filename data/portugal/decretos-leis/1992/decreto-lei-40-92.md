@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/076a00/14981499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/1992/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1992-190599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cab6af4f1a9ce8d424a8fccac589ef5469e68114810a3b51aff09814d5e4cf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efff7a83bd521208dae5d51d90a6c728faea1dd6258b6670bb1069b7d01d22e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Aproximação das Legislações
 - CEE
 - Certificado de Origem
-- Reprodução Animal
-- Política Agrícola Comum
+- Comércio
 - Gado Equino
 - Material Biológico
-- Comércio
+- Política Agrícola Comum
+- Reprodução Animal
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -84,16 +84,21 @@ relationships:
   target: celex:31990L0427
   label: null
   source: http://data.europa.eu/eli/dir/1990/427/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: Revogado, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:20Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +115,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva do Conselho n.º [90/427/CEE](https://data.europa.eu/eli/dir/1990/427/oj?locale=pt), de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos e do seu esperma, óvulos e embriões.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva do Conselho n.º [90/427/CEE](https://data.europa.eu/eli/dir/1990/427/oj?locale=pt), de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos e do seu esperma, óvulos e embriões.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma serão aprovadas por portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma serão aprovadas por portaria do Ministro da Agricultura.
 
-###### Art. 3.º - 1 - Constituem contra-ordenações as infracções às seguintes regras relativas aos equídeos registadas:
+Art. 3.º - 1 - Constituem contra-ordenações as infracções às seguintes regras relativas aos equídeos registadas:
 
 a) Não cumprimento das regras e critérios que devam ser respeitados nas inscrições e registos nos livros genealógicos, na identificação dos equídeos registados, na elaboração dos certificados de origem e documentos de identificação dos mesmos;
 
@@ -132,7 +137,7 @@ d) Comercialização de esperma, óvulos e embriões dos equídeos registados se
 
 5 - A negligência é punível.
 
-###### Art. 4.º - 1 - Podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
+Art. 4.º - 1 - Podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
 
 a) Apreensão de animais ou de objectos;
 
@@ -150,16 +155,16 @@ f) Encerramento do estabelecimento ou cancelamento de serviços, licenças ou al
 
 3 - Quando seja aplicada a sanção prevista na alínea f) do n.º 1, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 5.º Sem prejuízo das competências cometidas a outras entidades, a fiscalização do disposto no presente diploma e na respectiva regulamentação cabe à Direcção-Geral da Pecuária.
+Art. 5.º Sem prejuízo das competências cometidas a outras entidades, a fiscalização do disposto no presente diploma e na respectiva regulamentação cabe à Direcção-Geral da Pecuária.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

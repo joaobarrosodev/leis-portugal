@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/080a00/17281734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/1993/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1993-683046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788148333b9434f1611df66c6c3bba19591b8b214685da54e27587df2b9beae2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2c7b52b17e9f61ee91ccc83cd6df569a04ad7e23a01d661323af63d1c6366a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
 - Bebida Alcoólica
 - CEE
 - Cerveja
-- Imposto Especial sobre o Consumo da Cerveja
-- Vinho
-- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Contribuições e Impostos
+- Imposto Especial sobre o Consumo da Cerveja
+- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Madeira.região Autónoma
 - Regime Fiscal
-- Açores
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:426763:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterados os arts. 2º, 10º e 18º pela LEI.75/93.1993.12.20.AR, DR.IS-A [295]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:222805:por
+  label: "Alterado o art. 27º, pelo DEC LEI.211/94.10.08.1994.MF, DR.IS-A [184] de 10.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1994-222805
+  date: '1994-08-10'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os arts. 2º, 7º, 10º, 18º, 21º, 26º, 31º, a epígrafe do título IV, e aditados os arts. 27º-A e 31º-A,\
+    \ pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:198734:por
+  label: "Aditado um Cap. VIII ao Título I pelo DEC LEI.27/95.1995.02.09.MF DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1995-198734
+  date: '1995-02-09'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os arts. 2º, 7º, 8º, 16º, 18º, 21º, 23º, 24º, 27º e 31º-A pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0\
+    l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção dos art 10º, 16º e 18º pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3ºSupl (OE 1997 - Art 39º)\0\
+    )\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterados os arts. 4º, 16º e 18º, pelo art. 36º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:229104:por
+  label: "Aditado o art. 20.º-B pelo DEC LEI.324/98.1998.10.30.MF DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1998-229104
+  date: '1998-10-30'
 - type: cites
   target: celex:31988R4252
   label: null
@@ -97,16 +140,26 @@ relationships:
   target: celex:31992L0084
   label: null
   source: http://data.europa.eu/eli/dir/1992/84/oj
+- type: corrected_by
+  target: pt:dre:490031:por
+  label: "Rectificado pela DECL-RECT.104/93.1993.06.30.PCM, DR.IS-A 151]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/104-1993-490031
+  date: '1993-06-30'
+- type: repealed_by
+  target: pt:dre:426763:por
+  label: "Revogado pelo DEC LEI.300/99.1999.08.05.MF DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1999-426763
+  date: '1999-08-05'
 article_structure:
   article_count: 34
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:46Z'
   warnings: []
   errors: []
 ---
@@ -491,12 +544,12 @@ São revogados os Decretos-Leis n.os 342/85 e 343/85, de 22 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 9 de Março de 1993.**
+Promulgado em 9 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1993.**
+Referendado em 11 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

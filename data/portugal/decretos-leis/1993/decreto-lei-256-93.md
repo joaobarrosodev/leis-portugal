@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/1993/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1993-391419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5adc540121999fb52bbba18703e32932090c05397acd6ccd3d340180991d103b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d83f788299fea1d79011e21a2aaaabf5c021bdc42576b9c5de2c79535b44c3ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Operário
-- Recrutamento de Pessoal
-- Pessoal Auxiliar
-- Quadro de Pessoal
 - Ministério dos Negócios Estrangeiros
-relationships: []
+- Pessoal Auxiliar
+- Pessoal Operário
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:457071:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:12Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +98,9 @@ Considerando que a natureza das funções inerentes ao cargo de mordomo do Minis
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 573/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1980-457071), de 27 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 573/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1980-457071), de 27 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º O recrutamento para o lugar de mordomo faz-se, mediante concurso, de entre:
+Art. 4.º O recrutamento para o lugar de mordomo faz-se, mediante concurso, de entre:
 
 a) Encarregados de pessoal auxiliar, auxiliares administrativos posicionados no escalão 5 ou superior e fiéis de armazém e auxiliares técnicos de sala também no escalão 5 ou superior, todos com classificação de Muito bom nos últimos três anos;
 
@@ -104,12 +108,12 @@ b) Indivíduos habilitados com o curso geral do ensino secundário ou equiparado
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
 
-**Promulgado em 1 de Julho de 1993.**
+Promulgado em 1 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1993.**
+Referendado em 2 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

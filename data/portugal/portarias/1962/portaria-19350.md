@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19350-1962-163422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3396543789692e289c7585e216d8a25fdc1851366a37ce5d43f49ddb5c801460
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d216e92f6b1a4769c7d9cd9ed492849e538026a911b51c6ef0397a4a78dc3990
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479936:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:28Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +107,15 @@ Ministério das Comunicações, 16 de Agosto de 1962. - O Ministro das Comunica�
 
 REGULAMENTO DO GABINETE DE ESTUDOS E PLANEAMENTO DE TRANSPORTES TERRESTRES
 
-###### Artigo 1.º O Gabinete de Estudos e Planeamento de Transportes Terrestres (abreviadamente G. E. P. T.), dependente directamente do Ministro das Comunicações e criado nos termos do [Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), de 30 de Dezembro de 1960, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 44123](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44123-1961-184524), de 27 de Dezembro de 1961, é dirigido por um conselho directivo que reunirá, pelo menos, uma vez por mês e sempre que as necessidades de serviço o aconselhem.
+Artigo 1.º O Gabinete de Estudos e Planeamento de Transportes Terrestres (abreviadamente G. E. P. T.), dependente directamente do Ministro das Comunicações e criado nos termos do [Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), de 30 de Dezembro de 1960, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 44123](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44123-1961-184524), de 27 de Dezembro de 1961, é dirigido por um conselho directivo que reunirá, pelo menos, uma vez por mês e sempre que as necessidades de serviço o aconselhem.
 
 § 1.º As reuniões serão determinadas pelo presidente, por sua iniciativa ou mediante proposta que lhe seja formulada pela maioria dos vogais.
 
 § 2.º Das reuniões e deliberações do conselho directivo, que será secretariado pelo chefe do grupo central, serão lavradas actas.
 
-###### Art. 2.º Dentro das atribuições que lhe são cometidas pelo disposto no artigo 2.º do [Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), o G. E. P. T. elaborará relatórios periódicos das suas actividades, de acordo com o plano anual de trabalhos fixado pelo Ministro das Comunicações.
+Art. 2.º Dentro das atribuições que lhe são cometidas pelo disposto no artigo 2.º do [Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), o G. E. P. T. elaborará relatórios periódicos das suas actividades, de acordo com o plano anual de trabalhos fixado pelo Ministro das Comunicações.
 
-###### Art. 3.º Para efeitos de funcionamento, os serviços do G. E. P. T. dividir-se-ão nos seguintes grupos especializados:
+Art. 3.º Para efeitos de funcionamento, os serviços do G. E. P. T. dividir-se-ão nos seguintes grupos especializados:
 
 a) 1.º grupo (inquéritos e estudos), ao qual compete levar a efeito todos os inquéritos e estudos relacionados ou com incidência nos transportes terrestres;
 
@@ -119,24 +131,24 @@ c) 3.º grupo (central), ao qual compete o exercício das actividades inerentes 
 
 § 4.º Os grupos especializados serão chefiados por indivíduos com curso superior adequado.
 
-###### Art. 4.º Ao presidente compete representar o G. E. P. T. e orientar superiormente as suas actividades, de acordo com o conselho directivo. O G. E. P. T. tem como órgão executivo o director-delegado, a quem cabem funções de representação, e outras que lhe forem delegadas pelo presidente. Os outros vogais do conselho directivo poderão ser encarregados de trabalhos ou de funções de representação especìficamente indicados pelo presidente.
+Art. 4.º Ao presidente compete representar o G. E. P. T. e orientar superiormente as suas actividades, de acordo com o conselho directivo. O G. E. P. T. tem como órgão executivo o director-delegado, a quem cabem funções de representação, e outras que lhe forem delegadas pelo presidente. Os outros vogais do conselho directivo poderão ser encarregados de trabalhos ou de funções de representação especìficamente indicados pelo presidente.
 
 § 1.º O director-delegado pode efectuar a distribuição do pessoal que se afigurar mais conveniente às necessidades eventuais de serviço.
 
 § 2.º A assinatura da correspondência a expedir pelo G. E. P. T. compete ao presidente. Esta competência pode, no entanto, ser atribuída pelo presidente ao director-delegado. O presidente, sob proposta do director-delegado, pode autorizar a delegação o da competência que lhe foi atribuída em qualquer funcionário, na medida que julgar conveniente para o bom andamento dos serviços.
 
-###### Art. 5.º Nas suas faltas ou impedimentos, o presidente é substituído pelo director-delegado.
+Art. 5.º Nas suas faltas ou impedimentos, o presidente é substituído pelo director-delegado.
 
 § único. Compete ao presidente designar o vogal do conselho directivo que substitui o director-delegado nas faltas ou impedimentos deste.
 
-###### Art. 6.º O Ministro das Comunicações pode delegar no presidente a competência para aprovar os contratos do pessoal, que será recrutado nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), tendo-se em atenção, porém, o disposto no § 3.º do artigo 3.º da presente portaria.
+Art. 6.º O Ministro das Comunicações pode delegar no presidente a competência para aprovar os contratos do pessoal, que será recrutado nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), tendo-se em atenção, porém, o disposto no § 3.º do artigo 3.º da presente portaria.
 
 § único. O assalariamento do pessoal é da competência exclusiva do presidente.
 
-###### Art. 7.º Sob proposta do presidente, o Ministro das Comunicações fixará até ao dia 5 de Junho de cada ano a verba julgada necessária ao funcionamento do Gabinete no ano seguinte.
+Art. 7.º Sob proposta do presidente, o Ministro das Comunicações fixará até ao dia 5 de Junho de cada ano a verba julgada necessária ao funcionamento do Gabinete no ano seguinte.
 
-###### Art. 8.º Serão feitos balanços mensais à tesouraria, em dia não fixado prèviamente, independentemente dos balanços obrigatórios de 31 de Dezembro e 14 de Fevereiro, assistindo ao acto o presidente ou um vogal do conselho directivo por ele designado e lavrando-se o respectivo auto.
+Art. 8.º Serão feitos balanços mensais à tesouraria, em dia não fixado prèviamente, independentemente dos balanços obrigatórios de 31 de Dezembro e 14 de Fevereiro, assistindo ao acto o presidente ou um vogal do conselho directivo por ele designado e lavrando-se o respectivo auto.
 
-###### Art. 9.º O regulamento do G. E. P. T. será revisto periòdicamente, o que se deverá fazer com o presente até um ano após a sua publicação no Diário do Governo.
+Art. 9.º O regulamento do G. E. P. T. será revisto periòdicamente, o que se deverá fazer com o presente até um ano após a sua publicação no Diário do Governo.
 
 Ministério das Comunicações, 16 de Agosto de 1962. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

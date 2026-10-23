@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/259/1992/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1992-584252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac10638e21881939e4f402ad2d4e2f4139cf5f740f5a678179cf8bd5feabe86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3da8a21cb8d5678151ea7dc506015b26cea9c53103a937d8162894d237ee8d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Definição de Competências
 - Direcção Geral da Qualidade do Ambiente
 - Licenciamento
-- Proteção do Ambiente
 - Poluição da água
 - Poluição Industrial
+- Proteção do Ambiente
 - Resíduo Industrial
 - Sistema Nacional de Gestão da Qualidade
 relationships:
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/61/1991/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/61/1991/11/27/p/dre
+- type: cites
+  target: pt:dre:309476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:11Z'
   warnings: []
   errors: []
 ---
@@ -283,15 +299,15 @@ c) Estado e qualidade do material e a sua adequação para o exercício da activ
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Mário Fernando de Campos Pinto - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Carlos Alberto Diogo Soares Borrego - João Prates Bebiano.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Relação de poluentes cujos níveis de emissão devem ser determinados pelas entidades acreditadas
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/047a00/10661083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/1992/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1992-165037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ea87e4c998309cabea0396dfa9eb4871fd299ec22471c655865d41df29f4cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd3dd3cf7d61f82f7c0f6e38b4335e39175dae5394acd53c1637bbdcc40cea58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
+- Autarquia Local
 - CEE
 - Concurso Público
 - Decisão CE
-- Administração Pública
-- Locação Financeira
 - Equipamento Informático
+- Locação Financeira
 - Pessoa Coletiva
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:173688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239239:por
+  label: "19920912 - ALTERADOS OS ART 1, 14, 16 E 100, PELO DEC LEI 196/92 DR.IS-A [211]. 1\01]. 1"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1992-239239
 - type: cites
   target: celex:31977L0062
   label: null
@@ -103,16 +107,21 @@ relationships:
   target: celex:31988L0295
   label: null
   source: http://data.europa.eu/eli/dir/1988/295/oj
+- type: repealed_by
+  target: pt:dre:173688:por
+  label: "Revogado pelo DEC LEI.55/95.1995.03.29.MF DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1995-173688
+  date: '1995-03-29'
 article_structure:
   article_count: 103
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:45Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +236,9 @@ c) Valor mensal do contrato multiplicado por 48, no caso de este ter uma duraç�
 
 4 - Sempre que se preveja expressamente o recurso a opções, devem as mesmas ser incluídas no valor global do contrato.
 
-###### Artigo 6.º — Divisão das prestações
+###### Artigo 6.º
+
+##### Divisão das prestações
 
 Não é permitida a cisão do valor ou do número das prestações quando da mesma resulte a inaplicabilidade do disposto no artigo anterior.
 
@@ -1169,17 +1180,17 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação e só ser
 
 Visto e aprovado em Conselho de Ministros de 9 de Janeiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 10 de Fevereiro de 1992.**
+Promulgado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992.**
+Referendado em 17 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo I a que se refere o artigo 22.º
+Anexo I a que se refere o artigo 22.º
 
 Concurso público
 
@@ -1233,7 +1244,7 @@ b) Data, hora e local de abertura.
 
 (nota *) A preencher quando se justifique.
 
-## Anexo II a que se refere o artigo 77.º
+Anexo II a que se refere o artigo 77.º
 
 Concurso limitado
 
@@ -1273,7 +1284,7 @@ c) Língua na qual deve ser redigida.
 
 (nota *) A preencher quando se justifique.
 
-## Anexo III a que se refere o artigo 14.º, n.º 1, alínea l)
+Anexo III a que se refere o artigo 14.º, n.º 1, alínea l)
 
 Ajuste directo com negociação
 
@@ -1319,7 +1330,7 @@ c) Língua na qual deve ser redigida.
 
 (nota *) A preencher quando se justifique.
 
-## Anexo IV a que se refere o artigo 14.º, n.º 2
+Anexo IV a que se refere o artigo 14.º, n.º 2
 
 Informação prévia
 
@@ -1337,7 +1348,7 @@ Anúncio
 
 6 - Data de recepção do anúncio pelo Serviço de Publicações Oficiais das Comunidades Europeias (a preencher por este Serviço).
 
-## Anexo V a que se refere o artigo 14.º, n.º 1, alínea m)
+Anexo V a que se refere o artigo 14.º, n.º 1, alínea m)
 
 Contratos adjudicados
 

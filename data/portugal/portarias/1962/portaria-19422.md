@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19422-1962-156778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4888238fc7140e1db0b7f3b958507fbde8b4078056266bfcf81fcd1bc9bc5be6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 853d05c88861c21962955ff37044c147f4ffc73df067adeb8ec027f24a66742b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:58Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +94,31 @@ Direcção dos Serviços de Instrução
 
 Despesas com o pessoal:
 
-###### Artigo 119.º «Remunerações certas ao pessoal em exercício:
+Artigo 119.º «Remunerações certas ao pessoal em exercício:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 144000$00
 
-### CAPÍTULO 5.º — Serviços de Fazenda
+CAPÍTULO 5.º
+
+Serviços de Fazenda
 
 Serviços das alfândegas
 
 Despesas com o pessoal:
 
-###### Artigo 759.º «Remunerações certas ao pessoal em exercício»:
+Artigo 759.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 169000$00
 
-### CAPÍTULO 7.º — Serviços de fomento
+CAPÍTULO 7.º
+
+Serviços de fomento
 
 Direcção dos Serviços de Geologia e Minas
 
 Despesas com o pessoal:
 
-###### Artigo 1174.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1174.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 2) «Pessoal contratado - Vencimentos» ... 65000$00
 
@@ -118,7 +126,7 @@ Serviço de aeronáutica civil
 
 Despesas com o pessoal:
 
-###### Artigo 1338.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1338.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 102000$00
 
@@ -126,7 +134,7 @@ Serviço meteorológico
 
 Despesas com o pessoal:
 
-###### Artigo 1347.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1347.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
 

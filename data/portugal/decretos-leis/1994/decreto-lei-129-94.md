@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/1994/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1994-262839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68db9e930e04a9ca4bd128088d94672470ba73a32947aaa7c6dd0586a5e75b8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a055c46d8e83c99391326ddf0c9ed3710e54425563ed0496ed2b030d5354558
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
 subjects:
 - Lisboa-capital Europeia da Cultura 94
 - Moeda Comemorativa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:48Z'
   warnings: []
   errors: []
 ---
@@ -100,30 +104,30 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa com o valor facial de 200$00, alusiva a Lisboa 94 Capital Europeia da Cultura.
+Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa com o valor facial de 200$00, alusiva a Lisboa 94 Capital Europeia da Cultura.
 
 2 - A moeda referida no número anterior é fabricada em duas ligas, com diâmetro exterior de 28 mm, peso de 9,8 g, tolerância em peso de mais ou menos 3,5% e bordo alternadamente liso e serrilhado, constituído por um núcleo interno de 19,3 mm de diâmetro, de liga de cupro-níquel, na proporção de 75% de cobre e 25% de níquel, com a tolerância de mais ou menos 1,5%, e por uma coroa circular externa de liga de cobre-alumínio-níquel na proporção de 90% de cobre, 5% de alumínio e 5% de níquel, com a tolerância de mais ou menos 0,5% de alumínio e mais ou menos 0,5% de níquel.
 
-###### Art. 2.º - 1 - A gravura do anverso da moeda de 200$00 Lisboa 94 Capital Europeia da Cultura apresenta, no campo do núcleo, as armas nacionais na parte superior, o valor facial de «200 escudos», em duas linhas, na parte inferior, na coroa circular a legenda «República Portuguesa» da esquerda para a direita e a era da cunhagem.
+Art. 2.º - 1 - A gravura do anverso da moeda de 200$00 Lisboa 94 Capital Europeia da Cultura apresenta, no campo do núcleo, as armas nacionais na parte superior, o valor facial de «200 escudos», em duas linhas, na parte inferior, na coroa circular a legenda «República Portuguesa» da esquerda para a direita e a era da cunhagem.
 
 2 - A gravura do reverso da moeda Lisboa 94 Capital Europeia da Cultura apresenta, no campo do núcleo, a Torre de Belém, tendo no centro, sobre o seu lado direito, a legenda «Lisboa 94», e na sua base elementos alegóricos ao rio, na coroa circular elementos alegóricos ao rio na sua parte inferior e a legenda «Capital Europeia da Cultura» da esquerda para a direita na parte superior.
 
-###### Art. 3.º O limite de emissão da moeda Lisboa 94 Capital Europeia da Cultura é fixado em 202000000$00.
+Art. 3.º O limite de emissão da moeda Lisboa 94 Capital Europeia da Cultura é fixado em 202000000$00.
 
-###### Art. 4.º Dentro do limite estabelecido no número anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 10000 exemplares com acabamento «Prova numismática» (proof).
+Art. 4.º Dentro do limite estabelecido no número anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 10000 exemplares com acabamento «Prova numismática» (proof).
 
-###### Art. 5.º As moedas destinadas a distribuição pública pelo respectivo valor facial são postas em circulação pelo Estado por intermédio e por requisição do Banco de Portugal.
+Art. 5.º As moedas destinadas a distribuição pública pelo respectivo valor facial são postas em circulação pelo Estado por intermédio e por requisição do Banco de Portugal.
 
-###### Art. 6.º As moedas cunhadas ao abrigo do presente diploma têm curso legal mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
+Art. 6.º As moedas cunhadas ao abrigo do presente diploma têm curso legal mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

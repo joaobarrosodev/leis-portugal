@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/262a00/52065226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3667b9adaf1ad4c6cd43e6f7a1f3ee58a9ca8be7c4fdfd668d47665afb37f596
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 900490688571fd9fae1a5562d01893f4e7e2a599e6c9f5dbdae121648f0ba69b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,90 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva de CAÇA
-- Carta de Caçador
 - CAÇA
+- Carta de Caçador
 - Conselho Nacional da CAÇA
 - Licença de Caça
-- Zona de Proteção
-- Sistema Nacional de Áreas Protegidas
 - Regime Jurídico
+- Reserva de CAÇA
+- Sistema Nacional de Áreas Protegidas
 - ZONA de CAÇA
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:271384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457019:por
+  label: "Alterado o nº 1 do art. 130.º pelo DEC LEI.53/96.1996.05.21.MADRP DR.IS-A [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1996-457019
+  date: '1996-05-21'
+- type: amended_by
+  target: pt:dre:197519:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral, das normas dos arts 71º a 76º pelo AC.866/96.1996.07.04.TCS,\
+    \ (Proc. nº 3/94) DR.IS-A [292] de 1996.12.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/866-1996-197519
+  date: '1996-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/60/1991/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/1991/01/30/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668332:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405765:por
+  label: "Revogado pelo DEC LEI.136/96.1996.08.14.MADRP, DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1996-405765
+  date: '1996-08-14'
 article_structure:
   article_count: 144
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:05Z'
   warnings: []
   errors: []
 ---
@@ -779,7 +835,7 @@ g) Informar e colaborar com a Direcção-Geral das Florestas em tudo o que esta 
 
 3 - Tratando-se de zona de caça turística, compete à Direcção-Geral do Turismo a inspecção das infra-estruturas de carácter turístico e dos serviços nela prestados.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Procedimento para a concessão de zonas de caça
 
@@ -919,7 +975,7 @@ d) Prazo de concessão;
 
 e) O número mínimo de guardas florestais auxiliares que a zona deve ter.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Alteração, renovação e extinção de zonas de caça
 
@@ -1521,13 +1577,13 @@ O presente diploma entra em vigor no dia 1 de Março de 1993, excepto o capítul
 
 Visto e aprovado em Conselho de Ministros de 7 de Maio de 1992. - Aníbal António Cavaco Silva - Carlos Manuel Sousa Encarnação - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - José Manuel Cardoso Borges Soeiro - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira - António Manuel Taveira da Silva.
 
-**Promulgado em 8 de Outubro de 1992.**
+Promulgado em 8 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
 Primeiro-Ministro, Aníbal António Cavaco Silva.
 

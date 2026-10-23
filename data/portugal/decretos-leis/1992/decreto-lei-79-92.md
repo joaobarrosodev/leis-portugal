@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/104a00/20832095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/1992/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1992-500416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f6a803b20abfd76ce68bc229a44b226eb369bdfa65ab6621fdb909780c8a8b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2866a3165dded9934b0b8ec57924e2cdd0ac5a7b0ecfc30e760dc27a108ea95e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Diplomática
-- Profissão Diplomática
 - Estatuto
-- Sistema Retributivo
+- Profissão Diplomática
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:222644683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:399178:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 83º e 86º do presente diploma, pelo DEC LEI.40-A/98.1998.02.27.MNE\
+    \ DR.IS-A [49]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-a-1998-399178
+  date: '1998-02-27'
 article_structure:
   article_count: 81
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:11Z'
   warnings: []
   errors: []
 ---
@@ -799,16 +825,16 @@ O presente diploma, salvo o disposto nos n.os 1 e 2 do artigo 73.º, produz efei
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1991. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - João de Deus Rogado - Salvador Pinheiro.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — (a que se refere o artigo 54.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/104a00/20832095.pdf))](https://files.diariodarepublica.pt/1s/1992/05/104a00/20832095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/104a00/20832095.pdf)

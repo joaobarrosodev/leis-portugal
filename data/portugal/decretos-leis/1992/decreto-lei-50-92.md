@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/1992/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1992-199118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2b955fea852ff7561bc46e6d3b3b77764bb0f3347ef403e75a49ae0ce114d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d13ff3da9ecd2d41f97d05acb5cbfc1ad2e49e1095becf2ff56b8851c61963d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - Serviço Doméstico
 - Trabalhador do Serviço Doméstico
 - Trabalhador por Conta de Outrem
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:257422:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:31Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +99,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os valores da remuneração mínima mensal consagrada no n.º 1 do artigo 1.º e no n.º 2 do artigo 3.º do [Decreto-Lei n.º 69-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-a-1987-257422), de 9 de Fevereiro, passam a ser de 44500$00 e 38000$00, respectivamente.
+Artigo 1.º Os valores da remuneração mínima mensal consagrada no n.º 1 do artigo 1.º e no n.º 2 do artigo 3.º do [Decreto-Lei n.º 69-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-a-1987-257422), de 9 de Fevereiro, passam a ser de 44500$00 e 38000$00, respectivamente.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1992.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 30 de Março de 1992.**
+Promulgado em 30 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1992.**
+Referendado em 2 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

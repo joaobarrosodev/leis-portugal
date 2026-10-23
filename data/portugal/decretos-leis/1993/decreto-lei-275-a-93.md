@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 185/1993, 1º Suplemento, Série I-A de 1993-08-09
   number: '185'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4252-(2) a 4252-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/185a01/00020009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 850dc96b2b8231f6764ec1630eb45a4f3ac011e63ebdc71a507e509ec4519634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7779f901b8d9ae12ee546c8d5c9b1218e0922af5fe7659d6e63fd76b7ca41bcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,15 @@ reuse:
 subjects:
 - Administração Central
 - Administração Financeira do Estado
-- Modernização Administrativa
 - Cheque
+- Cobrança de Dívidas
 - Cobrança de Impostos
 - Contabilidade
-- Gestão Financeira
-- Direcção Geral do Tesouro
+- Contabilidade Pública
+- Contribuições e Impostos
 - CTT
 - Despesas Públicas
+- Direcção Geral do Tesouro
 - Dívidas ao Estado
 - Documento de Cobrança
 - Documento Único de Cobrança
@@ -82,19 +83,18 @@ subjects:
 - Fazenda Pública
 - Fiscalização
 - Fundo Permanente
+- Gestão Financeira
 - Imposto do SELO
-- Contribuições e Impostos
+- Modernização Administrativa
 - Operações de Caixa
 - Operações de Tesouraria
-- Tesouraria
 - Receita Fiscal
 - Receita Pública
-- Cobrança de Dívidas
 - Reembolso
 - Regime Jurídico
 - Responsabilidade Financeira
 - Restituição de Impostos
-- Contabilidade Pública
+- Tesouraria
 - Tesouraria da Fazenda Pública
 - VALE de Correio
 relationships:
@@ -102,6 +102,27 @@ relationships:
   target: pt:dre:105583346:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:529471:por
+  label: "Alterado o art. 41º pelo DEC LEI.113/95.1995.05.25.MF, DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1995-529471
+  date: '1995-05-25'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção do art 13º pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3ºSupl (OE 1997 - Art 64º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterado o art. 4º, pelo nº 2 do art. 58º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:369021:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do art. 37º, pelo AC.143/2002.2002.04.09.TCS,\
+    \ DR.IS-A [107] de 09/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/143-2002-369021
+  date: '2002-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
@@ -118,16 +139,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/454/1991/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/454/1991/12/28/p/dre
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691407:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310379:por
+  label: "Revogado o Dec Lei 332/90 de 29-Out, na redacção dada pelo presente diploma pelo DEC LEI.191/99.1999.06.05.MF,DR.IS-A\
+    \ [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1999-310379
+  date: '1999-06-05'
 article_structure:
   article_count: 52
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:41Z'
   warnings: []
   errors: []
 ---
@@ -452,7 +567,7 @@ Não se aplica aos abonos a que se refere o artigo 18.º do [Decreto-Lei n.º 51
 
 O artigo 3.º do [Decreto-Lei n.º 123/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1976-506794), de 11 de Fevereiro passa a ter a seguinte redacção:
 
-###### Art. 3.º O abono das comissões de que trata este diploma será feito por conta da competente dotação orçamental.
+Art. 3.º O abono das comissões de que trata este diploma será feito por conta da competente dotação orçamental.
 
 ###### Artigo 34.º — Movimentação de fundos por vales do correio
 
@@ -606,12 +721,12 @@ As normas constantes do presente diploma prevalecem sobre quaisquer disposiçõe
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1993.**
+Referendado em 29 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

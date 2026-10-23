@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/312/1993/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 136ea142d3af4fc7d409d338a267950df54075d7c9c8b925fde35f491f933d7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa2cb6ccae3586ad3da84a987522e3408b68b279cf896886ff55babef0af525e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ subjects:
 - Conselho Superior da Magistratura
 - Definição de Competências
 - Extinção de Serviços
-- Pessoal de Justiça
-- Tribunal do Trabalho
 - Instalação de Serviços
-- Tribunal Criminal
-- Tribunal de Comarca
-- Tribunal de Polícia
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Orgânica
 - Ministério Público
+- Orgânica
+- Pessoal de Justiça
 - Tribunal Colectivo
 - Tribunal Correccional
+- Tribunal Criminal
 - Tribunal da Relação
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Execução das Penas
 - Tribunal de Instrução Criminal
+- Tribunal de Polícia
 - Tribunal de Turno
+- Tribunal do Trabalho
 - Tribunal Judicial
 - VARA Civel
 - VARA Criminal
@@ -93,6 +93,35 @@ relationships:
   target: pt:dre:602770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: CONFERIDA NOVA REDACÇÃO NOS ART 29 E 30 PELO DEC LEI 411/93 DE 21-DEZ DR.IS-A [296]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 258/93 DE 28-DEZ DR.IS-A [304]6SUPL DE 31/DEZ/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-31'
+- type: amended_by
+  target: pt:dre:218744:por
+  label: "Alterados os arts. 6º e 36º na redacção dada ao Dec Lei 214/88 de 17-Jun, pelo DEC LEI.222/94.1994.08.24.MJ, DR.IS-A\
+    \ [195]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1994-218744
+  date: '1994-08-24'
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterada a redacção dada pelo presente diploma aos arts 22º e 22º-A do Dec Lei 214/88 de 17-Jun, revogado, a partir\
+    \ da data referida no nº 2 do art. 6º da Lei 44/96 de 03-Set, o art. 21º-A do Dec Lei 214/88 de 17-Jun na redacção que\
+    \ lhe foi dada pelo presente diploma, pela LEI.44/96.1996.09.03.AR, DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:602770:por
+  label: "Extintos a comarca e o círculo judicial da Amadora, criados pelo presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ,\
+    \ DR.IS [17] de 26.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/1991/06/07/p/dre
   label: null
@@ -105,16 +134,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 54
+  article_count: 53
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:25Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +220,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, alterada pelas Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/lei/49-1988-285159), de 19 de Abril, e [52/88](https://diariodarepublica.pt/dr/detalhe/lei/52-1988-373603), de 4 de Maio, pela [Lei n.º 24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto, e pela [Lei n.º 24/92](https://diariodarepublica.pt/dr/detalhe/lei/24-1992-259072), de 20 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 7.º, 10.º, 12.º, 13.º, 15.º, 16.º, 22.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 36.º, 39.º, 40.º, 41.º, 43.º, 48.º, 50.º, 52.º, 54.º, 55.º, 56.º, 61.º e 63.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, alterado pelos Decretos-Leis n.os [206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), de 7 de Junho, e [38/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1993-648136), de 13 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 7.º, 10.º, 12.º, 13.º, 15.º, 16.º, 22.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 36.º, 39.º, 40.º, 41.º, 43.º, 48.º, 50.º, 52.º, 54.º, 55.º, 56.º, 61.º e 63.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, alterado pelos Decretos-Leis n.os [206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), de 7 de Junho, e [38/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1993-648136), de 13 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — Tribunais de círculo
 
@@ -509,7 +574,7 @@ f) Para a 2.ª Secção do 2.º Juízo, os das secções do extinto 8.º Juízo.
 
 Na colocação dos oficiais de justiça cujos lugares tenham sido extintos por força do presente diploma é aplicável o regime do artigo 71.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, os artigos 21.º-A, 22.º-A, 39.º-A, 39.º-B, 39.º-C, 39.º-D, 40.º-A, 40.º-B, 41.º-A, 42.º-A, 43.º-A, 43.º-B, 43.º-C, 43.º-D, 43.º-E, 43.º-F, 43.º-G, 43.º-H, 43.º-I, 50.º-A, 51.º-A, 51.º-B, 52.º-A, 55.º-A, e 63.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, os artigos 21.º-A, 22.º-A, 39.º-A, 39.º-B, 39.º-C, 39.º-D, 40.º-A, 40.º-B, 41.º-A, 42.º-A, 43.º-A, 43.º-B, 43.º-C, 43.º-D, 43.º-E, 43.º-F, 43.º-G, 43.º-H, 43.º-I, 50.º-A, 51.º-A, 51.º-B, 52.º-A, 55.º-A, e 63.º-A, com a seguinte redacção:
 
 ###### Artigo 21.º-A — Turnos
 
@@ -887,25 +952,25 @@ Nos tribunais judiciais de 1.ª instância com sede nas comarcas de Lisboa e Por
 
 Aos escrivães de direito que transitam para as secções dos juízos de competência especializada cível ou criminal é facultada a permuta, no âmbito do respectivo tribunal, independentemente da observância dos prazos previstos no n.º 6 do artigo 44.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
 
-###### Art. 3.º Cessa a situação de liquidatários dos Tribunais de Instrução Criminal de Almada, Faro e Portimão.
+Art. 3.º Cessa a situação de liquidatários dos Tribunais de Instrução Criminal de Almada, Faro e Portimão.
 
-###### Art. 4.º Os mapas a que se reportam os artigos 1.º, 2.º, 4.º, 5.º, 12.º, 21.º e 56.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, são alterados de acordo com o mapa anexo ao presente diploma que dele faz parte integrante.
+Art. 4.º Os mapas a que se reportam os artigos 1.º, 2.º, 4.º, 5.º, 12.º, 21.º e 56.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, são alterados de acordo com o mapa anexo ao presente diploma que dele faz parte integrante.
 
-###### Art. 5.º São revogados os artigos 11.º, 14.º-A, 20.º, 34.º, 44.º, 45.º, 46.º, 47.º, 49.º, 53.º e 57.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho.
+Art. 5.º São revogados os artigos 11.º, 14.º-A, 20.º, 34.º, 44.º, 45.º, 46.º, 47.º, 49.º, 53.º e 57.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho.
 
-###### Art. 6.º O disposto nos n.os 2, 3 e 4 do artigo 13.º não é aplicável às audiências de discussão e julgamento já designadas à data da entrada em vigor deste diploma.
+Art. 6.º O disposto nos n.os 2, 3 e 4 do artigo 13.º não é aplicável às audiências de discussão e julgamento já designadas à data da entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 13 de Agosto de 1993.**
+Promulgado em 13 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1993.**
+Referendado em 23 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 

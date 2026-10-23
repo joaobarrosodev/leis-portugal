@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/048a00/08220827.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1993-657445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16cd9c6a0cbe97831733c01d9027059b03356a190f1f2ded59854dba0a162791
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb08216ebd48b5187c89c02dc62582b4ee31580fd6c9c3e5278918f5d892da4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ subjects:
 - Centro de Classificação e Selecção
 - Centro de Psicologia Aplicada do Exército
 - Centro Militar de Medicina Preventiva
-- Estado Maior do Exército
-- Exército
 - Conselho Superior de Disciplina do Exército
 - Escola das Tropas Aerotransportadas
 - Escola Militar de Electromecânica
+- Estado Maior do Exército
+- Exército
+- Forças Armadas
 - Governo Militar de Lisboa
 - Instituto Geográfico do Exército
-- Forças Armadas
 - Orgânica
 relationships:
 - type: amended_by
@@ -91,16 +91,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419/1991/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419/1991/05/21/p/dre
+- type: cites
+  target: pt:dre:141237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687637:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682865:por
+  label: "Rectificado pela DECL-RECT.39/93.30.03.1993.PCM, DR.IS-A [76]2ºSupl de 31.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/39-1993-682865
+  date: '1993-03-30'
+- type: repealed_by
+  target: pt:dre:667774:por
+  label: "Revogado pelo DEC LEI.61/2006.21.03.2006.MDN, DR.IS-A [57] de 21.03.2006, mantendo-se contudo em vigor, com as necessárias\
+    \ adaptações, os diplomas regulamentares relativos aos orgãos que se mantêm na estrutura do Exército, enquanto não entrar\
+    \ em vigor a regulamentação prevista no art. 31º da Lei Orgânica ora aprovada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2006-667774
+  date: '2006-03-21'
 article_structure:
   article_count: 32
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:03Z'
   warnings: []
   errors: []
 ---
@@ -693,14 +789,14 @@ Enquanto não forem publicados os regulamentos previstos no presente decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em Vila Franca de Xira em 2 de**
+Promulgado em Vila Franca de Xira em 2 de
 
 Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1993.**
+Referendado em 4 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19613-1962-154872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3beeafeea795cb70b492520b11ea88546d8021484c79d6e8ed3ad9601fe79508
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f466a0e401136384aecbdc0920cbe3eef04f53e495ab4aa41da4d86b15f0313
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:04Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +112,11 @@ Serviços de instrução
 
 Despesas com o pessoal:
 
-###### Artigo 61.º «Remunerações certas ao pessoal em exercício»:
+Artigo 61.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 5000$00
 
-###### Artigo 134.º «Duplicação de vencimentos» ... 10000$00
+Artigo 134.º «Duplicação de vencimentos» ... 10000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -112,7 +124,7 @@ Serviços de economia
 
 Despesas com o pessoal:
 
-###### Artigo 221.º «Remunerações certas ao pessoal em exercício»:
+Artigo 221.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 15000$00
 
@@ -136,13 +148,13 @@ Conselho do Governo
 
 Pagamento de serviços:
 
-###### Artigo 24.º «Duplicação de vencimentos» ... 5000$00
+Artigo 24.º «Duplicação de vencimentos» ... 5000$00
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
 Diversos encargos:
 
-###### Artigo 163.º «Duplicação de vencimentos» ... 200000$00
+Artigo 163.º «Duplicação de vencimentos» ... 200000$00
 
 ### CAPÍTULO 5.º — Serviços de Fazenda
 
@@ -150,11 +162,11 @@ Serviços de Fazenda e contabilidade
 
 Pagamento de serviços:
 
-###### Artigo 171.º «Despesas de comunicação» ... 10000$00
+Artigo 171.º «Despesas de comunicação» ... 10000$00
 
 Diversos encargos:
 
-###### Artigo 174.º «Encargos administrativos»:
+Artigo 174.º «Encargos administrativos»:
 
 N.º 1) «Percentagem pela venda de valores selados, quando adquiridos a pronto pagamento» ... 15000$00
 
@@ -162,7 +174,7 @@ Serviços das alfândegas
 
 Diversos encargos:
 
-###### Artigo 190.º «Duplicação de vencimentos» ... 50000$00
+Artigo 190.º «Duplicação de vencimentos» ... 50000$00
 
 ### CAPÍTULO 6.º — Serviços de justiça
 
@@ -170,21 +182,21 @@ Arquivo Provincial do Registo Criminal e Policial
 
 Despesas com o material:
 
-###### Artigo 208.º «Duplicação de vencimentos» ... 30000$00
+Artigo 208.º «Duplicação de vencimentos» ... 30000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
 Serviços de agricultura e veterinária
 
-###### Artigo 234.º «Duplicação de vencimentos» ... 10000$00
+Artigo 234.º «Duplicação de vencimentos» ... 10000$00
 
 ### CAPÍTULO 9.º — Serviços de marinha
 
-###### Artigo 254.º «Duplicação de vencimentos» ... 10000$00
+Artigo 254.º «Duplicação de vencimentos» ... 10000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 257.º «Despesas de comunicação»:
+Artigo 257.º «Despesas de comunicação»:
 
 N.º 1) «Portos de correio e telégrafos» ... 60000$00
 
@@ -192,7 +204,7 @@ N.º 3) «Transporte de material, fretes, seguros, despachos e outras despesas c
 
 b) «A pagar na província» ... 10000$00
 
-###### Artigo 258.º «Deslocações de pessoal»:
+Artigo 258.º «Deslocações de pessoal»:
 
 N.º 1) «Ajudas de custo dentro da província» ... 50000$00
 
@@ -208,7 +220,7 @@ b) «Por quaisquer outros motivos»:
 
 A pagar na província ... 80000$00
 
-###### Artigo 259.º «Diversas despesas»:
+Artigo 259.º «Diversas despesas»:
 
 N.º 3) «Passagens, alimentação e vestuário de presos, condenados e degredados» ... 120000$00
 
@@ -236,7 +248,7 @@ b) Um da quantia de 600000$00, destinado a reforçar com as importâncias que se
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 222.º «Deslocações do pessoal»:
+Artigo 222.º «Deslocações do pessoal»:
 
 N.º 4) «Passagens de ou para o exterior»:
 
@@ -256,9 +268,11 @@ tomando como contrapartida igual importância a sair do excesso de cobrança sob
 
 5.º Nos termos do § único do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, conjugado com o artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, e a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir na província de Cabo Verde um crédito especial da quantia de 92000$00, destinado a reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1962:
 
-### CAPÍTULO 10.º — Encargos gerais
+CAPÍTULO 10.º
 
-###### Artigo 258.º «Deslocações de pessoal»:
+Encargos gerais
+
+Artigo 258.º «Deslocações de pessoal»:
 
 N.º 4) «Passagens de ou para o exterior»:
 
@@ -270,7 +284,7 @@ b) «Por quaisquer outros motivos»:
 
 A pagar na metrópole ... 20000$00
 
-###### Artigo 259.º «Diversas despesas»:
+Artigo 259.º «Diversas despesas»:
 
 N.º 6) «Despesas eventuais»:
 

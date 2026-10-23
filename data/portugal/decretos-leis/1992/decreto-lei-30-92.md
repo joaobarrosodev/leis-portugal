@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/054a00/11681169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/1992/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1992-168634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12bf02240c69c35816b09f7ce7019dec1a9ba3018eb3ac5a3bdcc85de06fa5f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e3a034999ac07a795e7238d3155e81860c70265d633a57bc70dea600ed5b678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,37 @@ relationships:
   target: pt:dre:347689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:347689:por
+  label: "Revogado pelo Dec Lei.130/97.1997.05.27.PCM, DR.IS-A [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1997-347689
+  date: '1997-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:06Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +125,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 87/88](https://diariodarepublica.pt/dr/detalhe/lei/87-1988-377928), de 30 de Julho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 17.º 19.º 21.º e 28.º do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 17.º 19.º 21.º e 28.º do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) ...
 
@@ -116,7 +137,7 @@ c) ...
 
 2 - O disposto na alínea c) do número anterior não prejudica a possibilidade de utilização de retransmissores, quando a melhoria da qualidade da cobertura de uma estação radiofónica de âmbito local tenha lugar, nos termos do n.º 1 do artigo 19.º-A, pela utilização de microcoberturas.
 
-###### Art. 17.º - 1 - Os titulares do alvará de licenciamento podem ceder tempo de emissão:
+Art. 17.º - 1 - Os titulares do alvará de licenciamento podem ceder tempo de emissão:
 
 a) ...
 
@@ -130,15 +151,15 @@ b) ...
 
 5 - Pela emissão simultânea de programas, nos termos dos n.os 3 e 4, de que resultem prejuízos ou danos respondem solidariamente os operadores detentores das redes associadas entre si, sejam de cobertura geral e ou regional ou local.
 
-###### Art. 19.º - 1 - Os emissores e os retransmissores carecem de licença que ateste a legalidade da sua utilização no quadro do respectivo alvará.
+Art. 19.º - 1 - Os emissores e os retransmissores carecem de licença que ateste a legalidade da sua utilização no quadro do respectivo alvará.
 
 2 - ...
 
 3 - ...
 
-###### Art. 21.º É interdito o estabelecimento de estações emissoras de radiodifusão sonora a partir de navios, aeronaves ou qualquer outro meio móvel.
+Art. 21.º É interdito o estabelecimento de estações emissoras de radiodifusão sonora a partir de navios, aeronaves ou qualquer outro meio móvel.
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 a) De 250000$00 a 3000000$00 no caso de violação dos artigos 2.º, n.os 2, 3, 5 e 7, 14.º, 17.º, n.º 3, e 21.º;
 
@@ -150,15 +171,15 @@ d) ...
 
 2 - Nos casos de violação das prescrições constantes dos artigos 18.º, 19.º, 20.º e 21.º, poderá ser aplicada, nos termos da alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, a sanção acessória de apreensão de equipamentos.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, o artigo 19.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, o artigo 19.º-A, com a seguinte redacção:
 
-###### Art. 19.º-A - 1 - Quando se verifique a necessidade de melhorar a qualidade da cobertura de uma estação radiofónica de âmbito local, o operador interessado deve requerer à entidade referida no n.º 2 do artigo anterior, em alternativa, a possibilidade de utilização de microcoberturas ou a localização do centro emissor fora do município cuja área é pressuposto cobrir.
+Art. 19.º-A - 1 - Quando se verifique a necessidade de melhorar a qualidade da cobertura de uma estação radiofónica de âmbito local, o operador interessado deve requerer à entidade referida no n.º 2 do artigo anterior, em alternativa, a possibilidade de utilização de microcoberturas ou a localização do centro emissor fora do município cuja área é pressuposto cobrir.
 
 2 - O requerimento referido no número anterior é instruído com a memória justificativa do pedido e respectivo projecto técnico, cujas especificações serão definidas por portaria do membro do Governo responsável pela área das comunicações.
 
 3 - O deferimento do requerimento fica condicionado à existência de frequência e dele não pode resultar, em qualquer caso, alteração da zona de cobertura constante do respectivo alvará.
 
-###### Art. 3.º - 1 - Os operadores de radiodifusão que, a data da entrada em vigor do presente diploma, sejam titulares de alvará para cobertura de âmbito local podem, para além da faculdade que lhes é conferida pelo n.º 1 do artigo 19.º-A do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, requerer ao membro do Governo responsável pela área da comunicação social, para efeitos da melhoria da qualidade de cobertura da respectiva estação, a possibilidade de aumento de potência de emissão.
+Art. 3.º - 1 - Os operadores de radiodifusão que, a data da entrada em vigor do presente diploma, sejam titulares de alvará para cobertura de âmbito local podem, para além da faculdade que lhes é conferida pelo n.º 1 do artigo 19.º-A do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, requerer ao membro do Governo responsável pela área da comunicação social, para efeitos da melhoria da qualidade de cobertura da respectiva estação, a possibilidade de aumento de potência de emissão.
 
 2 - Compete ao Instituto das Comunicações de Portugal (ICP) a análise das condições técnicas do pedido, devendo, para o efeito, o requerimento ser instruído com a memória justificativa do pedido e respectivo projecto técnico, cujas especificações serão definidas por portaria do membro do Governo responsável pela área das comunicações.
 
@@ -170,12 +191,12 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1991. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Fevereiro de 1992.**
+Promulgado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992.**
+Referendado em 17 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19670-1963-193256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9047a628584fea485f88bf94f445f2bc0fb5316e8f749f48302de6da84a6f5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0632e515ad38be64cd13a5e40072bb49de3afbca46723e852a18951c71119f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Obras Públicas e Comunicações
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:195433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195433:por
+  label: "Anulado o art. 17º, e seu § único, do Regulamento, pela PORT.19782.26.03.1963.MU, DG.IS [72] de 26.03.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19782-1963-195433
+  date: '1963-03-26'
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351913:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +109,7 @@ Regulamento do Núcleo de Documentação Técnica
 
 ### CAPÍTULO I — Das atribuições
 
-###### Artigo 1.º O Núcleo de Documentação Técnica - que neste regulamento se denominará abreviadamente por Núcleo - é um organismo dependente da Direcção-Geral de Obras Públicas e Comunicações (D. G. O. P. C.), dotado de autonomia financeira, que tem por funções:
+Artigo 1.º O Núcleo de Documentação Técnica - que neste regulamento se denominará abreviadamente por Núcleo - é um organismo dependente da Direcção-Geral de Obras Públicas e Comunicações (D. G. O. P. C.), dotado de autonomia financeira, que tem por funções:
 
 1) Adquirir, catalogar, classificar, distribuir e arquivar a documentação destinada à formação e constante actualização do pessoal técnico do Ministério do Ultramar e dos quadros técnicos ultramarinos;
 
@@ -114,31 +129,31 @@ Regulamento do Núcleo de Documentação Técnica
 
 ### CAPÍTULO II — Da orgânica
 
-###### Art. 2.º O director-geral de Obras Públicas e Comunicações é o director do Núcleo e será substituído, nos impedimentos legais, pelo seu substituto.
+Art. 2.º O director-geral de Obras Públicas e Comunicações é o director do Núcleo e será substituído, nos impedimentos legais, pelo seu substituto.
 
-###### Art. 3.º As funções de administrador, redactor-chefe e tesoureiro do Núcleo serão desempenhadas, também, por pessoal do quadro da Direcção-Geral de Obras Públicas e Comunicações. O administrador será um engenheiro ou arquitecto de 1.ª classe; o redactor-chefe um engenheiro ou arquitecto de 1.ª ou 2.ª classe e o tesoureiro um chefe de secção, primeiro-oficial ou agente técnico de engenharia de 1.ª classe.
+Art. 3.º As funções de administrador, redactor-chefe e tesoureiro do Núcleo serão desempenhadas, também, por pessoal do quadro da Direcção-Geral de Obras Públicas e Comunicações. O administrador será um engenheiro ou arquitecto de 1.ª classe; o redactor-chefe um engenheiro ou arquitecto de 1.ª ou 2.ª classe e o tesoureiro um chefe de secção, primeiro-oficial ou agente técnico de engenharia de 1.ª classe.
 
-###### Art. 4.º O conselho consultivo é constituído por todos os directores de serviço e chefes de repartição da Direcção-Geral de Obras Públicas e Comunicações, sob a presidência do director do Núcleo.
+Art. 4.º O conselho consultivo é constituído por todos os directores de serviço e chefes de repartição da Direcção-Geral de Obras Públicas e Comunicações, sob a presidência do director do Núcleo.
 
 § único. Nas reuniões deste conselho o administrador servirá de secretário.
 
-###### Art. 5.º O conselho administrativo do Núcleo será constituído pelo director, administrador e tesoureiro.
+Art. 5.º O conselho administrativo do Núcleo será constituído pelo director, administrador e tesoureiro.
 
 § único. O administrador será substituído, nos impedimentos legais, pelo redactor-chefe.
 
-###### Art. 6.º O pessoal técnico ou administrativo necessário para os trabalhos a cargo do Núcleo poderá ser contratado, assalariado ou subsidiado, dentro das dotações inscritas, para o efeito, no seu orçamento.
+Art. 6.º O pessoal técnico ou administrativo necessário para os trabalhos a cargo do Núcleo poderá ser contratado, assalariado ou subsidiado, dentro das dotações inscritas, para o efeito, no seu orçamento.
 
-###### Art. 7.º O pessoal administrativo será agrupado em duas secções: uma de expediente e outra de contabilidade, cada uma delas chefiada por um encarregado.
+Art. 7.º O pessoal administrativo será agrupado em duas secções: uma de expediente e outra de contabilidade, cada uma delas chefiada por um encarregado.
 
-###### Art. 8.º Haverá ainda o pessoal menor necessário às actividades do Núcleo, o qual, quando em serviço, deverá apresentar-se fardado.
+Art. 8.º Haverá ainda o pessoal menor necessário às actividades do Núcleo, o qual, quando em serviço, deverá apresentar-se fardado.
 
 ### CAPÍTULO III — Das competências
 
-###### Art. 9.º Compete ao conselho consultivo:
+Art. 9.º Compete ao conselho consultivo:
 
 Dar parecer sobre todos os assuntos relativos ao Núcleo que lhe forem postos pelo director, nomeadamente sobre a aquisição de publicações periódicas e a contribuição que os vários serviços devam dar para a publicação da revista, boletim bibliográfico e outras publicações a editar.
 
-###### Art. 10.º Compete ao conselho administrativo:
+Art. 10.º Compete ao conselho administrativo:
 
 A gestão das receitas e despesas próprias do Núcleo;
 
@@ -148,7 +163,7 @@ A apreciação do orçamento;
 
 A aprovação do processo da conta de gerência anual a submeter a julgamento do Tribunal de Contas.
 
-###### Art. 11.º Compete ao administrador, em conformidade com as instruções do director:
+Art. 11.º Compete ao administrador, em conformidade com as instruções do director:
 
 Dirigir a acção de todo o pessoal que trabalhe no Núcleo;
 
@@ -168,7 +183,7 @@ Promover o levantamento de numerário necessário aos pagamentos a efectuar;
 
 Submeter o sumário de cada número da revista à apreciação do director.
 
-###### Art. 12.º Compete ao redactor-chefe, em conformidade com as instruções que lhe forem transmitidas:
+Art. 12.º Compete ao redactor-chefe, em conformidade com as instruções que lhe forem transmitidas:
 
 Promover a publicação da revista;
 
@@ -180,7 +195,7 @@ Corresponder-se com os autores dos artigos a publicar, sobre assuntos que digam 
 
 Substituir o administrador nas suas faltas, ausências e impedimentos.
 
-###### Art. 13.º Compete ao tesoureiro:
+Art. 13.º Compete ao tesoureiro:
 
 Organizar os serviços de contabilidade e superintender na escrituração dos respectivos livros, de modo que se mantenham em dia;
 
@@ -190,7 +205,7 @@ Proceder ao pagamento das facturas depois de visadas pelo administrador;
 
 Servir de oficial público nos contratos que devam ser reduzidos a escrito.
 
-###### Art. 14.º Compete à secção de expediente:
+Art. 14.º Compete à secção de expediente:
 
 Registar a correspondência e executar todo o expediente;
 
@@ -200,7 +215,7 @@ Manter actualizado o inventário dos bens móveis;
 
 Catalogar, distribuir e arquivar a documentação recebida.
 
-###### Art. 15.º Compete à secção de contabilidade:
+Art. 15.º Compete à secção de contabilidade:
 
 Escriturar os livros de contabilidade, mantendo-os em dia;
 
@@ -210,7 +225,7 @@ Adquirir o que estiver autorizado.
 
 ### CAPÍTULO IV — Do regime financeiro e administrativo
 
-###### Art. 16.º São receitas do Núcleo:
+Art. 16.º São receitas do Núcleo:
 
 1) Os subsídios do Estado concedidos através do orçamento da Direcção-Geral de Obras Públicas e Comunicações ou outros, provenientes da metrópole ou das províncias ultramarinas;
 
@@ -226,15 +241,15 @@ Adquirir o que estiver autorizado.
 
 7) Outras importâncias que por lei lhe são ou venham a ser atribuídas.
 
-###### Art. 17.º Pelas receitas próprias do Núcleo serão satisfeitas, nos termos legais, as despesas que estiverem inscritas na tabela de despesa do seu orçamento privativo, que será submetido à aprovação do Ministro do Ultramar até três meses antes do início do ano económico, e publicado no Diário do Governo.
+Art. 17.º Pelas receitas próprias do Núcleo serão satisfeitas, nos termos legais, as despesas que estiverem inscritas na tabela de despesa do seu orçamento privativo, que será submetido à aprovação do Ministro do Ultramar até três meses antes do início do ano económico, e publicado no Diário do Governo.
 
 § único. As alterações ao orçamento aprovado constituirão orçamentos suplementares que serão, do mesmo modo, submetidos à aprovação do Ministro do Ultramar e publicados no Diário do Governo.
 
-###### Art. 18.º As contas serão encerradas em 15 de Fevereiro de cada ano, escriturando-se em referência a 31 de Dezembro todas as receitas e despesas respeitantes ao ano económico findo, muito embora tenham sido cobradas e pagas de 1 de Janeiro a 14 de Fevereiro.
+Art. 18.º As contas serão encerradas em 15 de Fevereiro de cada ano, escriturando-se em referência a 31 de Dezembro todas as receitas e despesas respeitantes ao ano económico findo, muito embora tenham sido cobradas e pagas de 1 de Janeiro a 14 de Fevereiro.
 
-###### Art. 19.º O movimento das receitas e o pagamento das despesas do Núcleo são feitos através do Banco Nacional Ultramarino, em conta especial.
+Art. 19.º O movimento das receitas e o pagamento das despesas do Núcleo são feitos através do Banco Nacional Ultramarino, em conta especial.
 
-###### Art. 20.º O conselho administrativo será presidido pelo director e secretariado pelo encarregado da secção de expediente, sem direito a voto.
+Art. 20.º O conselho administrativo será presidido pelo director e secretariado pelo encarregado da secção de expediente, sem direito a voto.
 
 § 1.º Todas as deliberações do conselho administrativo serão tomadas em sessão, da qual se lavrará acta, assinada pelos membros presentes e pelo secretário. Tais deliberações só serão executadas quando tomadas por maioria; em caso de empate, o presidente tem voto de qualidade.
 
@@ -242,26 +257,26 @@ Adquirir o que estiver autorizado.
 
 ### CAPÍTULO V — Da revista, boletim bibliográfico e documentação
 
-###### Art. 21.º A revista será de periodicidade, em princípio, trimestral e poderá publicar artigos de acentuado interesse técnico e de carácter económico, pareceres do Conselho Superior do Fomento Ultramarino e despachos de homologação, monografias e notícias sobre assuntos, projectos e obras, em especial do ultramar, actividades internacionais ligadas ao sector de obras públicas e comunicações e divulgará documentação técnica.
+Art. 21.º A revista será de periodicidade, em princípio, trimestral e poderá publicar artigos de acentuado interesse técnico e de carácter económico, pareceres do Conselho Superior do Fomento Ultramarino e despachos de homologação, monografias e notícias sobre assuntos, projectos e obras, em especial do ultramar, actividades internacionais ligadas ao sector de obras públicas e comunicações e divulgará documentação técnica.
 
 § único. Com o fim de divulgar toda a documentação entrada no Núcleo, será editado, periòdicamente, um boletim bibliográfico.
 
-###### Art. 22.º Os artigos que forem publicados na revista serão pagos aos autores, segundo uma tabela que terá aprovação superior.
+Art. 22.º Os artigos que forem publicados na revista serão pagos aos autores, segundo uma tabela que terá aprovação superior.
 
-###### Art. 23.º O Núcleo poderá promover a publicidade e propaganda da revista e a obtenção de anúncios por meio de angariadores.Art. 24.º Todas as aquisições de publicações, incluindo assinaturas de revistas, que interessem aos serviços da Direcção-Geral de Obras Públicas e Comunicações, serão feitas por intermédio do Núcleo.
+Art. 23.º O Núcleo poderá promover a publicidade e propaganda da revista e a obtenção de anúncios por meio de angariadores.Art. 24.º Todas as aquisições de publicações, incluindo assinaturas de revistas, que interessem aos serviços da Direcção-Geral de Obras Públicas e Comunicações, serão feitas por intermédio do Núcleo.
 
-###### Art. 25.º Todas as publicações, qualquer que seja a sua origem, recebidas na Direcção-Geral de Obras Públicas e Comunicações serão enviadas ao Núcleo para fins de conferência e registo.
+Art. 25.º Todas as publicações, qualquer que seja a sua origem, recebidas na Direcção-Geral de Obras Públicas e Comunicações serão enviadas ao Núcleo para fins de conferência e registo.
 
-###### Art. 26.º O Núcleo arquivará os estudos e projectos mais importantes elaborados para o ultramar, os pareceres do Conselho Superior do Fomento Ultramarino e, bem assim, as informações dos serviços que tenham acentuado interesse técnico.
+Art. 26.º O Núcleo arquivará os estudos e projectos mais importantes elaborados para o ultramar, os pareceres do Conselho Superior do Fomento Ultramarino e, bem assim, as informações dos serviços que tenham acentuado interesse técnico.
 
-###### Art. 27.º O Núcleo promoverá a classificação da documentação recebida e organizará os ficheiros necessários, de modo a facilitar a sua consulta.
+Art. 27.º O Núcleo promoverá a classificação da documentação recebida e organizará os ficheiros necessários, de modo a facilitar a sua consulta.
 
-###### Art. 28.º A biblioteca da Direcção-Geral de Obras Públicas e Comunicações ficará a cargo do Núcleo.
+Art. 28.º A biblioteca da Direcção-Geral de Obras Públicas e Comunicações ficará a cargo do Núcleo.
 
-###### Art. 29.º A documentação arquivada no Núcleo apenas pode ser requisitada pelo pessoal técnico em serviço na Direcção-Geral de Obras Públicas e Comunicações.
+Art. 29.º A documentação arquivada no Núcleo apenas pode ser requisitada pelo pessoal técnico em serviço na Direcção-Geral de Obras Públicas e Comunicações.
 
 § único. A requisição por parte de outros técnicos em serviço no Ministério do Ultramar terá de ser autorizada pelo administrador.
 
-###### Art. 30.º O Núcleo enviará, na medida do possível, microfilmes ou fotocópias da documentação que lhe seja pedida pelo pessoal técnico dos quadros ultramarinos.
+Art. 30.º O Núcleo enviará, na medida do possível, microfilmes ou fotocópias da documentação que lhe seja pedida pelo pessoal técnico dos quadros ultramarinos.
 
 Núcleo de Documentação Técnica, 30 de Janeiro de 1963. - O Director, Manuel Pimentel Pereira dos Santos.

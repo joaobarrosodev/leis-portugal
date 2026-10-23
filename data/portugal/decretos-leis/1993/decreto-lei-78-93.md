@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/060a00/11551160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/1993/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1993-634943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af6a21eb0b6d8751e69a88dee9edcfd4d89dc2e6f9b0f2010107d80469646194
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73a3b6d2f0ce63fdff338203b4b11a44d751232a941344ceb1f193df42dd41fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Estatuto
 - Região de Turismo de Dão-lafões
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:249827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239871:por
+  label: "Reduzida a área da Região de Turismo de Dão-Lafões, deixando de integra-la o municipio de Carregal do Sal pelo DEC\
+    \ LEI.317/98.1998.10.23.MECO, DR.IS-A [245]; e alterados os arts. 2º e 13º dos estatutos da referida região\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-1998-239871
+  date: '1998-10-23'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrada no Ministério do Turismo a Região de Turismo de Dão-Lafões, cujos estatutos foram aprovados pelo presente\
+    \ diploma, alterado pelo Dec Lei 317/98 de 23-Out, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/1991/08/09/p/dre
   label: null
@@ -81,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:195177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249827:por
+  label: "Revogado o presente diploma, alterado pelo Dec Lei 317/98 de 23-Out, pelo DEC LEI.67/2008.10.04.2008.MEI, DR.IS\
+    \ [71] de 10.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2008-249827
+  date: '2008-04-10'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:38Z'
   warnings: []
   errors: []
 ---
@@ -107,21 +142,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos da Região de Turismo de Dão-Lafões, em anexo ao presente diploma, do qual fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos da Região de Turismo de Dão-Lafões, em anexo ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 2.º São revogadas as Portarias n.os [153/86](https://diariodarepublica.pt/dr/detalhe/portaria/153-1986-195177), de 21 de Abril, e [592/89](https://diariodarepublica.pt/dr/detalhe/portaria/592-1989-618768), de 29 de Julho.
+Art. 2.º São revogadas as Portarias n.os [153/86](https://diariodarepublica.pt/dr/detalhe/portaria/153-1986-195177), de 21 de Abril, e [592/89](https://diariodarepublica.pt/dr/detalhe/portaria/592-1989-618768), de 29 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em Setúbal em 5 de Fevereiro de 1993.**
+Promulgado em Setúbal em 5 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1993.**
+Referendado em 15 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da Região de Turismo de Dão-Lafões
 

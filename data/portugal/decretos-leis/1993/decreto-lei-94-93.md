@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/078a00/16411645.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1993-680642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c45d6becb7a4ccaf0e3a8fae15049504eaad7ee431497144b4a809c49dc3d697
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e5c02397f44ff9bc4093baea5c34e3a243f76b0b66edbb2a4ec14aff902d0a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,50 @@ reuse:
 subjects:
 - Centro Nacional de Protecção da Produção Agrícola
 - Centro Nacional de Reconhecimento e Ordenamento Agrário
+- Direcção Geral da Pecuária
 - Direcção Geral das Florestas
 - Direcção Geral de Hidráulica e Engenharia Agrícola
 - Direcção Geral de Planeamento e Agricultura
-- Ministério da Agricultura
-- Direcção Geral da Pecuária
 - Extinção de Serviços
+- Gabinete de Apoio aos Assuntos Comunitários
 - Gabinete para os Assuntos Agrícolas Comunitários
 - Instituto de Qualidade Alimentar
-- Gabinete de Apoio aos Assuntos Comunitários
+- Ministério da Agricultura
 - Orgânica
 - REDE de Informação e Contabilidade Agrícola
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - EXTINTO O MINISTÉRIO DA AGRICULTURA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL, NA REDACÇÃO CONFERIDA\
+    \ PELA DECL-RECT 150/95 DE 30-NOV DR.IS-A [277]3SUPL DE 30/NOV/1995 ]\0OV/1995 ]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:425486:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435397:por
+  label: "Revogado pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:58Z'
   warnings: []
   errors: []
 ---
@@ -329,12 +347,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 19 de Março de 1993.**
+Promulgado em 19 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1993.**
+Referendado em 22 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

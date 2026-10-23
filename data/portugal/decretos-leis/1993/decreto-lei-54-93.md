@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1993-657440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0ecde9d79f843775987a424d44ff1b491ab0629b04db8fa5411a1eb30be928b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65ef3639d3b32a60c4e1d5a61cd6992f10e7ca25c4eb82b7252d77339fa04846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,27 @@ relationships:
   target: celex:31989L0677
   label: null
   source: http://data.europa.eu/eli/dir/1989/677/oj
+- type: repealed_by
+  target: pt:dre:532459:por
+  label: "Revogado o art. 6º pelo DEC LEI.256/2000.2000.10.17.MECO,DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2000-532459
+  date: '2000-10-17'
+- type: repealed_by
+  target: pt:dre:503818:por
+  label: "Revogado o art. 5.º na parte respeitante aos compostos de arsénio, pelo DEC LEI.208/2003.2003.09.15.MECO DR.IS-A\
+    \ [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2003-503818
+  date: '2003-09-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:08Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +112,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - O presente diploma tem por objecto limitar o uso e comercialização das substâncias ou preparações previstas nos artigos seguintes e no anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º - O presente diploma tem por objecto limitar o uso e comercialização das substâncias ou preparações previstas nos artigos seguintes e no anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - São proibidos o uso e a comercialização de substâncias ou preparações cuja concentração em benzeno seja igual ou superior a 0,1% em massa.
+Art. 2.º - 1 - São proibidos o uso e a comercialização de substâncias ou preparações cuja concentração em benzeno seja igual ou superior a 0,1% em massa.
 
 2 - A proibição estabelecida no número anterior não prejudica o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 47/90, de 9 de Fevereiro, e não se aplica:
 
@@ -113,17 +124,17 @@ b) Às substâncias e preparações destinadas a serem utilizadas em processos i
 
 c) Aos resíduos definidos no Decreto-Lei n.º 488/85, de 25 de Novembro, e na Portaria n.º 374/87, de 4 de Maio.
 
-###### Art. 3.º - 1 - São proibidos o uso e a comercialização de substâncias e preparações cuja concentração, em substâncias mencionadas nas alíneas b), c), d) e e) do anexo ao presente diploma, seja igual ou superior a 0,1% em massa.
+Art. 3.º - 1 - São proibidos o uso e a comercialização de substâncias e preparações cuja concentração, em substâncias mencionadas nas alíneas b), c), d) e e) do anexo ao presente diploma, seja igual ou superior a 0,1% em massa.
 
 2 - A proibição estabelecida no número anterior não prejudica o disposto no n.º 5 do artigo 2.º do Decreto-Lei n.º 47/90, de 9 de Fevereiro, e não se aplica aos resíduos que contenham uma ou várias das substâncias referidas desde que abrangidas pelo Decreto-Lei n.º 488/85, de 25 de Novembro, e pela Portaria n.º 374/87, de 4 de Maio.
 
 3 - Sem prejuízo de outras menções a constar no rótulo nos termos do disposto no Decreto-Lei n.º 280-A/87, de 17 de Julho, as embalagens que contenham substâncias ou preparações referidas no número anterior devem ostentar, de modo legível e indelével, a menção «Reservado aos utilizadores profissionais», não podendo ser vendidas ao público em geral.
 
-###### Art. 4.º - 1 - São proibidos o uso e a comercialização dos carbonatos de chumbo e dos sulfatos de chumbo mencionados, respectivamente, nas alíneas f) e g) do anexo ao presente diploma, estremes ou como componentes de preparações destinadas a serem utilizadas como tintas.
+Art. 4.º - 1 - São proibidos o uso e a comercialização dos carbonatos de chumbo e dos sulfatos de chumbo mencionados, respectivamente, nas alíneas f) e g) do anexo ao presente diploma, estremes ou como componentes de preparações destinadas a serem utilizadas como tintas.
 
 2 - Exceptua-se do disposto no número anterior a utilização destas substâncias no restauro e manutenção de obras de arte, bem como nos interiores e exteriores de edifícios históricos, de acordo com a Convenção n.º 13 da Organização Internacional do Trabalho sobre utilização de alvaiade e de sulfatos de chumbo na pintura.
 
-###### Art. 5.º São proibidos o uso e a comercialização de compostos de mercúrio e de compostos de arsénio, estremes ou como componentes de preparações destinadas a:
+Art. 5.º São proibidos o uso e a comercialização de compostos de mercúrio e de compostos de arsénio, estremes ou como componentes de preparações destinadas a:
 
 a) Impedir a fixação de microrganismos, plantas ou animais em cascos das embarcações, gaiolas, flutuadores, redes ou qualquer outra aparelhagem ou equipamento utilizado em piscicultura ou conquicultura ou qualquer aparelhagem ou equipamento total ou parcialmente imerso;
 
@@ -133,7 +144,7 @@ c) Tratamento de águas industriais, independentemente do seu uso;
 
 d) Impregnação de têxteis industriais pesados e dos fios utilizados no seu fabrico, no que respeita aos compostos de mercúrio.
 
-###### Art. 6.º - 1 - São proibidos o uso e a comercialização de compostos organoestânicos estremes ou como componentes de preparações destinadas:
+Art. 6.º - 1 - São proibidos o uso e a comercialização de compostos organoestânicos estremes ou como componentes de preparações destinadas:
 
 a) Ao tratamento de águas industriais, independentemente do seu uso;
 
@@ -147,25 +158,25 @@ iii) Qualquer aparelhagem ou equipamento total ou parcialmente imerso.
 
 2 - Exceptua-se do disposto na alínea b) do número anterior a venda a utilizadores profissionais em embalagens com capacidade igual ou superior a 20 l, que devem ostentar de modo legível e indelével a menção «Reservado aos utilizadores profissionais», sem prejuízo de outras menções a constar nos rótulos, de acordo com o Decreto-Lei n.º 280-A/87, de 17 de Julho.
 
-###### Art. 7.º São proibidos o uso e a comercialização de substâncias ou preparações cuja concentração em di-(mi)-oxo-di-n-butilestanho-hidroxiborano (DBB) seja igual ou superior a 0,1%, excepto quando destinadas exclusivamente a ser transformadas em produtos acabados e nos quais essa substância esteja presente em concentração inferior à referida.
+Art. 7.º São proibidos o uso e a comercialização de substâncias ou preparações cuja concentração em di-(mi)-oxo-di-n-butilestanho-hidroxiborano (DBB) seja igual ou superior a 0,1%, excepto quando destinadas exclusivamente a ser transformadas em produtos acabados e nos quais essa substância esteja presente em concentração inferior à referida.
 
-###### Art. 8.º A fiscalização do cumprimento do disposto no presente diploma compete em especial aos funcionários e agentes da Direcção-Geral da Qualidade do Ambiente, da Inspecção-Geral das Actividades Económicas e da Direcção-Geral das Alfândegas.
+Art. 8.º A fiscalização do cumprimento do disposto no presente diploma compete em especial aos funcionários e agentes da Direcção-Geral da Qualidade do Ambiente, da Inspecção-Geral das Actividades Económicas e da Direcção-Geral das Alfândegas.
 
-###### Art. 9.º - 1 - O uso e comercialização de substâncias ou preparados em infracção ao disposto nos artigos 2.º a 7.º constitui contra-ordenação punível com coima de 50000$00 a 200000$00.
+Art. 9.º - 1 - O uso e comercialização de substâncias ou preparados em infracção ao disposto nos artigos 2.º a 7.º constitui contra-ordenação punível com coima de 50000$00 a 200000$00.
 
 2 - No caso de contra-ordenação praticada por pessoa colectiva, a coima aplicável elevar-se-á até ao montante máximo de 3000000$00.
 
 3 - A negligência e a tentativa são puníveis.
 
-###### Art. 10.º - 1 - Simultaneamente com a aplicação da coima, e a título de sanção acessória, podem ser apreendidos o produto e objectos utilizados na prática da infracção ou que foram produzidos durante ou em resultado da mesma.
+Art. 10.º - 1 - Simultaneamente com a aplicação da coima, e a título de sanção acessória, podem ser apreendidos o produto e objectos utilizados na prática da infracção ou que foram produzidos durante ou em resultado da mesma.
 
 2 - Os objectos ou produtos apreendidos ficam à guarda da entidade fiscalizadora que instruiu o respectivo processo, até ao trânsito em julgado da decisão de apreensão, transferindo-se então a sua propriedade para o Estado.
 
-###### Art. 11.º - 1 - A instauração dos processos de contra-ordenações e a aplicação das coimas competem ao director-geral da Qualidade do Ambiente, a quem devem, para o efeito, ser remetidos os autos de notícia e participações.
+Art. 11.º - 1 - A instauração dos processos de contra-ordenações e a aplicação das coimas competem ao director-geral da Qualidade do Ambiente, a quem devem, para o efeito, ser remetidos os autos de notícia e participações.
 
 2 - A instrução dos processos cabe ao organismo competente, nos termos do artigo 7.º, o qual os envia, finda esta, ao director-geral da Qualidade do Ambiente, para o efeito consignado no número anterior.
 
-###### Art. 12.º - 1 - O produto das coimas reverte:
+Art. 12.º - 1 - O produto das coimas reverte:
 
 a) Em 20% para a Direcção-Geral da Qualidade do Ambiente, constituindo receita própria;
 
@@ -175,19 +186,19 @@ c) Em 60% para o Estado.
 
 2 - As receitas obtidas pela Direcção-Geral da Qualidade do Ambiente, nos termos do número anterior, são afectas a acções de inspecção e controlo.
 
-###### Art. 13.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
+Art. 13.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1992. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - António José Fernandes de Sousa - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Janeiro de 1993.**
+Referendado em 28 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

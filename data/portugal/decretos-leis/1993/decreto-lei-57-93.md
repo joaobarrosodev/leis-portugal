@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/1993/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1993-626812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c165fa3d2217f9d1d29382eee1d5dcdbc59d711c279782b891b5a44fa86276bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b76d9c198fd97849695000fc192a3c7d31c0aa50ef551139bb88d2f83c75443
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
 subjects:
 - Descobrimentos Portugueses
 - Imprensa Nacional-Casa da Moeda
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:13Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +110,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas dos 450 anos do encontro Portugal-Japão e alusivas, respectivamente, à chegada dos Portugueses à ilha de Tanegashima, à introdução das armas de fogo no Japão, à primeira embaixada dos dáimios de Kiushu a Portugal e ao desenvolvimento da arte e cultura namban, com o valor facial de 200$00.
+Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas dos 450 anos do encontro Portugal-Japão e alusivas, respectivamente, à chegada dos Portugueses à ilha de Tanegashima, à introdução das armas de fogo no Japão, à primeira embaixada dos dáimios de Kiushu a Portugal e ao desenvolvimento da arte e cultura namban, com o valor facial de 200$00.
 
 2 - Cada uma das moedas referidas no número anterior será cunhada em liga de cuproníquel 75/25, com 36 mm de diâmetro e 21,0 g de peso, com uma tolerância de (mais ou menos) 1,5% no título e no peso, e terá bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso da moeda alusiva à chegada dos Portugueses ao Japão apresenta, no lado esquerdo do campo, o escudo das armas nacionais, no lado direito do campo uma rosa-dos-ventos, linhas e superfícies de recortes ondulados simbólicos da pintura namban, na orla superior a legenda «República Portuguesa», na orla inferior o valor facial «200 Escudos» e, junto ao rebordo, uma cercadura perolada.
+Art. 2.º - 1 - A gravura do anverso da moeda alusiva à chegada dos Portugueses ao Japão apresenta, no lado esquerdo do campo, o escudo das armas nacionais, no lado direito do campo uma rosa-dos-ventos, linhas e superfícies de recortes ondulados simbólicos da pintura namban, na orla superior a legenda «República Portuguesa», na orla inferior o valor facial «200 Escudos» e, junto ao rebordo, uma cercadura perolada.
 
 2 - A gravura do reverso apresenta, no centro do campo, a figuração de uma nau portuguesa frente às costas do Japão, de recorte namban, na orla superior a legenda «Tanegashima» em japonês e em português, na orla inferior as datas «1543.1993» e, junto ao rebordo, uma cercadura perolada.
 
-###### Art. 3.º - 1 - A gravura do anverso da moeda alusiva à introdução das armas de fogo no Japão apresenta, no centro do campo, a legenda horizontal «República Portuguesa», tendo por baixo o escudo das armas nacionais ladeado, à esquerda, pela data «1993» e, à direita, pelo valor facial «200 Escudos», em duas linhas, na parte inferior do campo linhas curvas simétricas simbolizando o mar azul, na parte superior do campo a apresentação parcial de uma esfera armilar e, junto ao rebordo, uma cercadura lisa.
+Art. 3.º - 1 - A gravura do anverso da moeda alusiva à introdução das armas de fogo no Japão apresenta, no centro do campo, a legenda horizontal «República Portuguesa», tendo por baixo o escudo das armas nacionais ladeado, à esquerda, pela data «1993» e, à direita, pelo valor facial «200 Escudos», em duas linhas, na parte inferior do campo linhas curvas simétricas simbolizando o mar azul, na parte superior do campo a apresentação parcial de uma esfera armilar e, junto ao rebordo, uma cercadura lisa.
 
 2 - A gravura do reverso apresenta a figuração parcial de um cavaleiro japonês a galope da esquerda para a direita, fazendo pontaria com uma espingarda, na parte inferior do campo a legenda «Espingarda», que também aparece por baixo da arma, em japonês, as datas «1543.1575» e, junto ao rebordo, uma cercadura lisa.
 
-###### Art. 4.º - 1 - A gravura do anverso da moeda alusiva à primeira embaixada japonesa à Europa apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo o valor facial «200 Escudos», em duas linhas, no lado direito do campo a figuração de um navio quinhentista, sobre elementos simétricos horizontais simbolizando o mar, na parte superior do campo a data «1993», na orla superior a legenda «República Portuguesa» e, junto ao rebordo, uma cercadura biselada.
+Art. 4.º - 1 - A gravura do anverso da moeda alusiva à primeira embaixada japonesa à Europa apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo o valor facial «200 Escudos», em duas linhas, no lado direito do campo a figuração de um navio quinhentista, sobre elementos simétricos horizontais simbolizando o mar, na parte superior do campo a data «1993», na orla superior a legenda «República Portuguesa» e, junto ao rebordo, uma cercadura biselada.
 
 2 - A gravura do reverso apresenta, no lado direito do campo, os bustos dos quatro jovens enviados na ocasião envolvendo as datas «1582/1590», em duas linhas, do lado esquerdo uma coluna romana, na orla lateral esquerda a legenda «Enviados Daimios Kiushu», que também aparece em japonês na vertical do centro do campo, e, junto, ao rebordo, uma cercadura biselada.
 
-###### Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao desenvolvimento da cultura namban no Japão apresenta, no lado esquerdo do campo, o escudo das armas nacionais, no lado direito três figuras sentadas perto de uma árvore, na parte inferior do campo a legenda «República Portuguesa.1993», em duas linhas, tendo por baixo o valor facial «200 Escudos», e, junto ao rebordo, uma cercadura ornamentada.
+Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao desenvolvimento da cultura namban no Japão apresenta, no lado esquerdo do campo, o escudo das armas nacionais, no lado direito três figuras sentadas perto de uma árvore, na parte inferior do campo a legenda «República Portuguesa.1993», em duas linhas, tendo por baixo o valor facial «200 Escudos», e, junto ao rebordo, uma cercadura ornamentada.
 
 2 - A gravura do reverso apresenta, no centro do campo, as figuras de um padre jesuíta, de um nobre português e do seu pagem segurando um chapéu de sol, na parte superior direita a figuração parcial de uma igreja, na parte inferior a legenda horizontal «Arte Namban», que também aparece em japonês na parte superior do campo, as datas «1543.1639» e, junto ao rebordo, uma cercadura ornamentada.
 
-###### Art. 6.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 215000000$00.
+Art. 6.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 215000000$00.
 
-###### Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 30000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 30000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 2500 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 10000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof) e até 2500 espécimes numismáticos de platina com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 30000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 30000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 2500 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 10000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof) e até 2500 espécimes numismáticos de platina com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 2 - Os espécimes numismáticos de prata serão cunhados em liga de prata 925/1000, com diâmetro de 36 mm, peso de 26,5 g e bordo serrilhado, sendo as tolerâncias, no peso e na liga, de mais ou menos 1(por mil).
 
@@ -130,20 +142,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Os espécimes numismáticos de platina serão cunhados em metal fino 999,5/1000, com diâmetro de 36 mm, peso de 31,119 g e bordo serrilhado, sendo as tolerâncias no peso de mais ou menos 2(por mil).
 
-###### Art. 8.º As moedas destinadas a distribuição pública pelo respectivo valor facial são postas em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 8.º As moedas destinadas a distribuição pública pelo respectivo valor facial são postas em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 9.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto do público, será afecto nos termos do artigo 8.º do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro.
+Art. 9.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto do público, será afecto nos termos do artigo 8.º do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro.
 
-###### Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
+Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 16 de Fevereiro de 1993.**
+Promulgado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1993.**
+Referendado em 18 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

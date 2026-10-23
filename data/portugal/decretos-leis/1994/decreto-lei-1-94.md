@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/1994/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1994-534072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa6bdc4a5d219444ce1b3528a4355285150af6d95b788457488562bedf728696
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 295679c5fba88f473f9a5d9b9d0b90767afa98e1d20384a34120405bec518828
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,23 @@ reuse:
 subjects:
 - Banco de Portugal
 - Indexação de Taxas de JURO
-- TAXA de JURO
 - Obrigações do Tesouro
-relationships: []
+- TAXA de JURO
+relationships:
+- type: cites
+  target: pt:dre:393610:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:03Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +104,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É abolida a taxa de referência fixada pelo Banco de Portugal, nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho.
+Artigo 1.º É abolida a taxa de referência fixada pelo Banco de Portugal, nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho.
 
-###### Art. 2.º As taxas de juro nominais das obrigações em circulação, referidas ou indexadas à taxa mencionada no artigo anterior, passam a determinar-se com referência ou indexação à média, divulgada mensalmente pela Junta do Crédito Público, das taxas nominais praticadas nos depósitos de residentes em moeda nacional, com prazo superior a 180 dias, mas não a 1 ano, pelas três instituições de crédito com maior saldo desse tipo de depósitos, multiplicando-se essa média pelos seguintes factores:
+Art. 2.º As taxas de juro nominais das obrigações em circulação, referidas ou indexadas à taxa mencionada no artigo anterior, passam a determinar-se com referência ou indexação à média, divulgada mensalmente pela Junta do Crédito Público, das taxas nominais praticadas nos depósitos de residentes em moeda nacional, com prazo superior a 180 dias, mas não a 1 ano, pelas três instituições de crédito com maior saldo desse tipo de depósitos, multiplicando-se essa média pelos seguintes factores:
 
 a) 1,17, aplicável a partir do primeiro vencimento de juros subsequente à data de entrada em vigor do presente diploma, que ocorra até 30 de Junho de 1994;
 
 b) 1,10, aplicável a partir do primeiro vencimento de juros subsequente a 30 de Junho de 1994.
 
-###### Art. 3.º Salvo convenção das partes em contrário, o disposto nos artigos anteriores é aplicável, com as necessárias adaptações, aos demais casos em que, por negócio jurídico ou disposição normativa, tenham sido estabelecidos juros com referência ou indexação à taxa de referência fixada pelo Banco de Portugal, nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho.
+Art. 3.º Salvo convenção das partes em contrário, o disposto nos artigos anteriores é aplicável, com as necessárias adaptações, aos demais casos em que, por negócio jurídico ou disposição normativa, tenham sido estabelecidos juros com referência ou indexação à taxa de referência fixada pelo Banco de Portugal, nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

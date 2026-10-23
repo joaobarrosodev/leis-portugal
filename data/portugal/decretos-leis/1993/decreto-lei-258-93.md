@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/258/1993/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1993-346749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0c1b7de58ad0b5ac2f761f77985d955226cfe0ff935405fe04261d065c66ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc8ba806da0e4e0ee96c589d784c105045b1db11ecdb6d4c7e90b3a627f172f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Emigrante
 - Contribuições e Impostos
+- Emigrante
+- Imposto Automóvel
 - Isenção Fiscal
 - Veículo
-- Imposto Automóvel
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
+- type: cites
+  target: pt:dre:361112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:17Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +108,17 @@ Considerando que o prazo mínimo para a alienação ou oneração do veículo au
 
 No uso da autorização legislativa concedida pela alínea b) do n.º 2 do artigo 35.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 5.º e 7.º do [Decreto-Lei n.º 471/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1988-361112), de 22 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 5.º e 7.º do [Decreto-Lei n.º 471/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1988-361112), de 22 de Dezembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Todo o indivíduo maior, de nacionalidade portuguesa, legalmente habilitado a conduzir, residente fora do território aduaneiro da Comunidade há pelo menos 24 meses consecutivos, que tenha desenvolvido de modo regular, no seio da sociedade em que se inseriu, uma actividade profissional de qualquer natureza, em resultado da qual tenha auferido remuneração no país de acolhimento, poderá beneficiar de isenção do imposto automóvel, nos termos do presente diploma.
+Artigo 1.º - 1 - Todo o indivíduo maior, de nacionalidade portuguesa, legalmente habilitado a conduzir, residente fora do território aduaneiro da Comunidade há pelo menos 24 meses consecutivos, que tenha desenvolvido de modo regular, no seio da sociedade em que se inseriu, uma actividade profissional de qualquer natureza, em resultado da qual tenha auferido remuneração no país de acolhimento, poderá beneficiar de isenção do imposto automóvel, nos termos do presente diploma.
 
 2 - Quando a legislação do país de proveniência estabeleça restrições de estada, fixando períodos não consecutivos, contabilizar-se-á o tempo total de permanência nesse país para efeitos de aplicação do disposto no número anterior, com base em certificado emitido pela entidade consular competente.
 
-###### Art. 5.º - 1 - Sem prejuízo da admissibilidade de condução pelos membros do agregado familiar do beneficiário, os veículos automóveis importados com isenção não podem ser objecto de cessão, doação, transmissão ou oneração a qualquer título nos 12 meses seguintes à sua importação definitiva.
+Art. 5.º - 1 - Sem prejuízo da admissibilidade de condução pelos membros do agregado familiar do beneficiário, os veículos automóveis importados com isenção não podem ser objecto de cessão, doação, transmissão ou oneração a qualquer título nos 12 meses seguintes à sua importação definitiva.
 
 2 - A inobservância do disposto no número anterior determinará a aplicação do imposto automóvel devido à data em que ocorrer a cessão, doação ou transmissão a qualquer outro título, sem prejuízo de apreensão do veículo e respectivo procedimento por infracção fiscal.
 
-###### Art. 7.º - 1 - Em derrogação do disposto nos artigos anteriores, os herdeiros legitimários de um trabalhador português nas condições do artigo 1.º que adquiram por via sucessória a propriedade ou o usufruto de um veículo automóvel podem importá-lo com isenção do imposto automóvel.
+Art. 7.º - 1 - Em derrogação do disposto nos artigos anteriores, os herdeiros legitimários de um trabalhador português nas condições do artigo 1.º que adquiram por via sucessória a propriedade ou o usufruto de um veículo automóvel podem importá-lo com isenção do imposto automóvel.
 
 2 - O pedido de importação com isenção deverá ser instruído com os seguintes documentos:
 
@@ -122,16 +130,16 @@ c) Habilitação de herdeiros ou documento oficial equivalente;
 
 d) Comprovativo de que o falecido preenchia os condicionalismos estabelecidos no artigo 1.º
 
-###### Art. 2.º A competência para a concessão da isenção é atribuída aos directores das alfândegas.
+Art. 2.º A competência para a concessão da isenção é atribuída aos directores das alfândegas.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 1 de Julho de 1993.**
+Promulgado em 1 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1993.**
+Referendado em 2 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/123a00/29042912.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/198/1993/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1993-283773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f077d66d1c4d28382f52bb90e39c85baa414eaf8cc1d5b5f8dc5df8ccd876d78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc54d1264f41c8b85304fb0a451e10f2c20ece51c69ebed951d943ede9d6b8c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ subjects:
 - Agência de Turismo
 - Alvará
 - Aproximação das Legislações
-- Garantia
 - CEE
-- Multa
+- Comércio
 - Contra-ordenação
 - Direito de Estabelecimento
+- Garantia
 - Licenciamento
+- Multa
 - Sanção Económica
 - Seguro Obrigatório de Responsabilidade Civil
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:490774:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31990L0314
   label: null
   source: http://data.europa.eu/eli/dir/1990/314/oj
+- type: repealed_by
+  target: pt:dre:202780:por
+  label: "Revogado pelo Dec Lei 209/97.1997.08.13.MECO, DR.IS-A [186] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1997-202780
+  date: '1997-08-13'
 article_structure:
   article_count: 66
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:52Z'
   warnings: []
   errors: []
 ---
@@ -240,7 +245,9 @@ c) Os lugares destinados a esses passageiros se mantiverem desocupados antes da 
 
 Aos representantes das agências, quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas, aos cais de embarque e aos recintos destinados aos passageiros nos aeroportos ou gares.
 
-###### Artigo 13.º — Livro de reclamações
+###### Artigo 13.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos das agências de viagens e turismo deverá existir um livro de reclamações, de modelo aprovado pela Direcção-Geral do Turismo, que será sempre facultado a quem o solicite, desde que exiba documento comprovativo da sua identificação e indique a sua morada.
 
@@ -698,12 +705,12 @@ A alínea d) do n.º 1 do artigo 53.º entra em vigor 60 dias após a data da pu
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio. - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 10 de Maio de 1993.**
+Promulgado em 10 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1993.**
+Referendado em 13 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

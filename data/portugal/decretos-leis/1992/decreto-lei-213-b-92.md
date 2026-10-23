@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 235/1992, 1º Suplemento, Série I-A de 1992-10-12
   number: '235'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4762-(6) a 4762-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/235a01/00060021.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213-b/1992/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-b-1992-298785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c568fdd08b468626322d5057a403434b4e1ac97d88834d5c053bc2b078baa98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84e0a4d67a6c59306cbf692cd7048a87e1c55c8be6648c3901c0d1f6cfae4679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria de Carnes
-- Matadouro
-- Sociedade Anónima
 - Criação de Empresas
 - Estatuto
+- Indústria de Carnes
 - Iroma
+- Matadouro
 - PEC-BAL
 - PEC-LUSA
 - PEC-Nordeste
 - PEC-Tejo
+- Sociedade Anónima
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:350906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:350906:por
+  label: "Alterada a al b) do art 5.º pelo DEC LEI.132/97.1997.05.30.MADRP DR.IS-A [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1997-350906
+  date: '1997-05-30'
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
 article_structure:
-  article_count: 129
+  article_count: 128
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:10Z'
   warnings: []
   errors: []
 ---
@@ -116,17 +133,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São criadas, com efeitos a partir da data de entrada em vigor do presente decreto-lei, quatro sociedades anónimas com as designações de PEC-Nordeste - Indústria de Produtos Pecuários do Norte, S. A., PEC-Lusa - Indústrias de Produtos Pecuários de Aveiro, Coimbra e Viseu, S. A., PEC-Tejo - Indústria de Produtos Pecuários de Lisboa e Setúbal, S. A., e PEC-BAL - Indústria de Produtos Pecuários da Beira e Alentejo, S. A.
+Artigo 1.º - 1 - São criadas, com efeitos a partir da data de entrada em vigor do presente decreto-lei, quatro sociedades anónimas com as designações de PEC-Nordeste - Indústria de Produtos Pecuários do Norte, S. A., PEC-Lusa - Indústrias de Produtos Pecuários de Aveiro, Coimbra e Viseu, S. A., PEC-Tejo - Indústria de Produtos Pecuários de Lisboa e Setúbal, S. A., e PEC-BAL - Indústria de Produtos Pecuários da Beira e Alentejo, S. A.
 
 2 - São aprovados os estatutos das sociedades identificadas no número anterior, que se publicam em anexo ao presente decreto-lei.
 
-###### Art. 2.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-Nordeste - Indústria de Produtos Pecuários do Norte, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
+Art. 2.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-Nordeste - Indústria de Produtos Pecuários do Norte, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
 
 a) Matadouro Industrial do Porto, composto por um prédio urbano, constituído por matadouro com abegoarias, nave de abate, câmaras frigoríficas, laboratório, armazém de peles, triparia, oficinas, serviços administrativos e sociais e respectivos logradouros, sito na freguesia de Campanhã, na cidade do Porto, com acesso pela Rua de São Roque da Lameira, da mesma freguesia e cidade, inscrito na matriz predial urbana da freguesia de Campanhã, 1.ª Repartição de Finanças do Porto, sob o artigo 9984, com a área total de 27427 m2, sendo a coberta de 15516 m2 e a descoberta de 11911 m2, cuja propriedade foi adquirida pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), por força do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro, e no n.º 2 do artigo 12.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, e por todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro Industrial do Porto, no valor total de 780000000$00;
 
 b) Matadouro Industrial do Cachão, composto por um prédio rústico com a área de 2371 m2, descrito sob o n.º 44999 do livro B-120 da Conservatória do Registo Predial de Mirandela, inscrito sob o artigo 749 da matriz predial rústica, freguesia de Frechas; por um prédio rústico, com área de 16490 m2, no sítio do Cachão, freguesia de Frechas, descrito sob o n.º 28632 do livro B-80 da Conservatória do Registo Predial de Mirandela, inscrito sob os artigos 754, 756 e 757 da Repartição de Finanças de Mirandela; por um prédio urbano constituído por matadouro industrial, que se compõe de edifício principal, destinado a estabulação, abate, frigorificação, desossagem, charcutaria e secadores, e de um anexo, destinado a couros e subprodutos, e outros aos serviços administrativos e sociais, implantados nos artigos 753, 754, 755, 756 e 757 do lugar do Cachão, da freguesia de Frechas, Repartição de Finanças de Mirandela, ainda não inscrito na matriz, mas com inscrição pedida, com a área total de 21000 m2; sendo a coberta de 12000 m2 e a descoberta de 9000 m2; por um prédio urbano descrito na ficha 00216/300191 da freguesia de Frechas, na Conservatória do Registo Predial de Mirandela, constituído por estação de tratamento de águas residuais e respectivo logradouro, ainda omisso na matriz predial urbana, mas construída sobre parte dos artigos 750 e 751 da matriz predial rústica da freguesia de Frechas, Repartição de Finanças de Mirandela, e por todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro Industrial do Cachão, no valor total de 370000000$00.
 
-###### Art. 3.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-Lusa - Indústria de Produtos Pecuários de Aveiro, Coimbra e Viseu, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
+Art. 3.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-Lusa - Indústria de Produtos Pecuários de Aveiro, Coimbra e Viseu, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
 
 a) Matadouro de Coimbra, composto por um prédio urbano sito na Rua da Rainha Santa Isabel, nos Marcos da Pedrulha, freguesia de Eiras, Coimbra, compreendendo edifícios destinados a complexo de matadouro e logradouro, com superfície coberta de 7996 m2 e logradouro de 13077 m2, descrito sob o n.º 55198, a fl. 18 do livro B-141 da Conservatória do Registo Predial de Coimbra, inscrito na matriz predial urbana sob o artigo 2506, freguesia de Eiras, Coimbra, por um prédio urbano constituído por um lote de terreno com a área de 1320 m2, inscrito na matriz urbana sob o artigo 2507, da freguesia de Eiras, Coimbra, e descrito na Conservatória do Registo Predial de Coimbra sob o n.º 962, inscrição G-1, freguesia de Eiras, e por todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro de Coimbra, no valor total de 116000000$00;
 
@@ -134,41 +151,41 @@ b) Matadouro de Aveiro, que integra um prédio urbano sito na Rua do Sacobão, A
 
 Matadouro de Viseu, composto por parcela de terreno para construção com 4000 m2, à Várzea Travassos de Baixo, Rio de Loba, descrita na Conservatória do Registo Predial de Viseu sob o n.º 0065 da freguesia de São José, por terreno para construção de semeadura e monte, com 3145 m2, à Várzea, descrito na Conservatória do Registo Predial de Viseu sob o artigo 00651 da freguesia de São José, por matadouro com estabulação, nave de abate, refrigeração, sala de salga, casa da caldeira, arrecadação, garagem, serviços administrativos, serviços sociais e residência do director, com área coberta de 3200 m2 e descoberta de 4412 m2, no sítio da Várzea, hoje freguesia de São José, ainda omisso na matriz, mas com inscrição pedida, e construído nos terrenos atrás descritos, e por todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro de Viseu, no valor total de 161000000$00.
 
-###### Art. 4.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-Tejo - Indústria de Produtos Pecuários de Lisboa e Setúbal, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
+Art. 4.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-Tejo - Indústria de Produtos Pecuários de Lisboa e Setúbal, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
 
 a) Matadouro Industrial de Lisboa, que integra um prédio urbano composto de várias instalações destinadas a matadouro, industrialização de subprodutos e armazenagem frigorífica, sito na Rua do Conselheiro Ferreira do Amaral, Olivais, Lisboa, com a área coberta de 60990 m2 e descoberta de 150840 m2, descrito sob o n.º 01551 na 8.ª Conservatória do Registo Predial de Lisboa e inscrito sob o artigo 3357 da matriz predial urbana da freguesia dos Olivais, no 19.º Bairro Fiscal de Lisboa, e todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro Industrial de Lisboa, no valor total de 2687000000$00;
 
 b) Matadouro de Setúbal, composto por prédio urbano sito na Estrada da Graça, freguesia do Sado, Setúbal, composto por complexo industrial destinado a matadouro e anexos, com área coberta de 4828,43 m2 e descoberta de 12117,50 m2, descrito sob o n.º 00466-Sado na Conservatória do Registo Predial de Setúbal, omisso na matriz, mas tendo sido requerida a respectiva inscrição em 9 de Setembro de 1991, na Repartição de Finanças de Setúbal, e por todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro de Setúbal, no valor total de 113000000$00.
 
-###### Art. 5.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-BAL - Indústria de Produtos Pecuários da Beira e Alentejo, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
+Art. 5.º É transferida do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a sociedade PEC-BAL - Indústria de Produtos Pecuários da Beira e Alentejo, S. A., a propriedade dos bens descritos nas alíneas seguintes, a título de realização em espécie do capital da mesma sociedade, integralmente detido por aquele Instituto:
 
 a) Matadouro Industrial de Beja, composto por prédio urbano sito na Estrada Nacional n.º 122, ao quilómetro 0,700, concelho de Beja, destinado a complexo de matadouro e anexos, descrito sob o n.º 12689, a fl. 12 v.º do livro B-33, e n.º 11712, a fl. 181 do livro C-133, na Conservatória do Registo Predial de Beja, inscrito sob o artigo predial urbano n.º 1716 da freguesia de São João Baptista, Beja, e todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro Industrial de Beja, no valor total de 1580000000$00;
 
 b) Matadouro Industrial de Alcains, composto por prédio misto situado na freguesia de Alcains, Castelo Branco, descrito sob o n.º 00023/300185 na Conservatória do Registo Predial de Castelo Branco, inscrito na matriz da freguesia de Alcains sob o artigo rústico 91-F e urbano 2322; prédio rústico situado na freguesia de Alcains, Castelo Branco, descrito sob o n.º 00459/100388 na Conservatória do Registo Predial de Castelo Branco, inscrito sob o artigo rústico 491-F da freguesia de Alcains, por terreno com área de 1508,7 m2, inscrito sob o artigo 3503 da freguesia de Alcains, 2.ª Repartição de Finanças, destinado a construção, pela fracção autónoma designada pela letra B, que constitui a cave esquerda - garagem do prédio urbano, sito na Rua do Comendador Álvaro Vilela, designado por lote W-Um, em Tercena, freguesia de Barcarena, Oeiras, inscrito na matriz sob o artigo 1162-B e descrito na Conservatória do Registo Predial de Oeiras sob o n.º 17860, a fl. 169 do livro B-59, pela fracção autónoma designada pela letra B que constitui a cave - loja esquerda do prédio urbano sito na Rua do Comendador Álvaro Vilela, designado por lote A, em Tercena, freguesia de Barcarena, Oeiras, inscrito na matriz sob o artigo 1627-B e descrito na Conservatória do Registo Predial de Oeiras sob o n.º 18908, a fl. 9 do livro B-66, 1.ª Secção, e por todos os equipamentos, móveis, utensílios, veículos e demais bens corpóreos afectos ao Matadouro Industrial de Alcains e dependências deste, no valor global de 420000000$00.
 
-###### Art. 6.º O presente decreto-lei constitui título bastante para a constituição das sociedades previstas no artigo 1.º e para as transferências de propriedade previstas nos artigos 2.º a 5.º e respectivos registos.
+Art. 6.º O presente decreto-lei constitui título bastante para a constituição das sociedades previstas no artigo 1.º e para as transferências de propriedade previstas nos artigos 2.º a 5.º e respectivos registos.
 
-###### Art. 7.º No prazo de 90 dias após a constituição das empresas, serão definidas as condições da respectiva privatização, nos termos da lei vigente e tomando em consideração a especificidade própria do sector agro-pecuário nacional.
+Art. 7.º No prazo de 90 dias após a constituição das empresas, serão definidas as condições da respectiva privatização, nos termos da lei vigente e tomando em consideração a especificidade própria do sector agro-pecuário nacional.
 
-###### Art. 8.º - 1 - Nos termos do regime estabelecido no n.º 3 do artigo 23.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, os funcionários do Estado e de institutos públicos, bem com os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções nas sociedades ora criadas, em regime de requisição, conservando todos os direitos e regalias inerentes aos seus quadros de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naqueles quadros.
+Art. 8.º - 1 - Nos termos do regime estabelecido no n.º 3 do artigo 23.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, os funcionários do Estado e de institutos públicos, bem com os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções nas sociedades ora criadas, em regime de requisição, conservando todos os direitos e regalias inerentes aos seus quadros de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naqueles quadros.
 
 2 - Sem prejuízo da renovação, nos termos da lei, das requisições entretanto efectuadas, a faculdade prevista no número anterior cessa decorrido um ano sobre a data de entrada em vigor do presente diploma.
 
-###### Art. 9.º As primeiras assembleias gerais de cada uma das sociedades deverão reunir-se na sua sede, no dia da entrada em vigor do presente diploma, a fim de proceder à eleição dos seus órgãos sociais, nos termos estatutários.
+Art. 9.º As primeiras assembleias gerais de cada uma das sociedades deverão reunir-se na sua sede, no dia da entrada em vigor do presente diploma, a fim de proceder à eleição dos seus órgãos sociais, nos termos estatutários.
 
-###### Art. 10.º As sociedades constituídas pelo presente decreto-lei reger-se-ão pelas normas do presente diploma e dos respectivos estatutos, aplicando-se-lhe, em tudo o mais, o direito comum respeitante às sociedades comerciais.
+Art. 10.º As sociedades constituídas pelo presente decreto-lei reger-se-ão pelas normas do presente diploma e dos respectivos estatutos, aplicando-se-lhe, em tudo o mais, o direito comum respeitante às sociedades comerciais.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 8 de Outubro de 1992.**
+Promulgado em 8 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da Pec-Nordeste - Indústria de Produtos Pecuários do Norte, S. A.
 

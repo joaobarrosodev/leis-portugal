@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/208/1992/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1992-233311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cf55ae144fc9f96deb81ecaf95bcf6245785e3320f977f1bd4583d7124bcc1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd8d6edf87d9c4c2c3f5cfefb602753b86f7c7118a5521b4658d612da9e964fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,31 @@ subjects:
 - Concurso Público
 - Iniciativa Privada
 - Política de Transportes
+- Porto
 - Serviço de Transportes Colectivos do Porto
 - Transporte de Passageiros
 - Transporte Público
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:67442930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:67442930:por
+  label: Revogado o art. 8.º pelo(a) Lei n.º 52/2015 - Diário da República n.º 111/2015, Série I de 2015-06-09 nos termos
+    do art. 17.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2015-67442930
+  date: '2015-06-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:00Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +112,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Serviço de Transportes Colectivos do Porto (STCP) poderá subconcessionar a exploração, total ou parcial, das carreiras de transporte público rodoviário de passageiros de que é titular que ultrapassem o limite urbano da cidade do Porto.
+Artigo 1.º O Serviço de Transportes Colectivos do Porto (STCP) poderá subconcessionar a exploração, total ou parcial, das carreiras de transporte público rodoviário de passageiros de que é titular que ultrapassem o limite urbano da cidade do Porto.
 
-###### Art. 2.º A subconcessão prevista no artigo anterior é feita por concurso público, aberto a empresas concessionárias de transporte público interno rodoviário de passageiros.
+Art. 2.º A subconcessão prevista no artigo anterior é feita por concurso público, aberto a empresas concessionárias de transporte público interno rodoviário de passageiros.
 
-###### Art. 3.º - 1 - Cabe ao STCP a elaboração do programa de concurso.
+Art. 3.º - 1 - Cabe ao STCP a elaboração do programa de concurso.
 
 2 - O programa de concurso e o respectivo caderno de encargos são aprovados pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
@@ -124,7 +130,7 @@ b) Titulares de carreiras nos concelhos servidos pelas carreiras a subconcession
 
 c) Titulares de carreiras num dos concelhos servidos pelas carreiras a subconcessionar.
 
-###### Art. 4.º Do caderno de encargos deve constar, obrigatoriamente:
+Art. 4.º Do caderno de encargos deve constar, obrigatoriamente:
 
 a) Indicação da carreira a explorar;
 
@@ -138,26 +144,26 @@ e) Montante da caução, sob a forma de garantia bancária ou seguro-caução, a
 
 f) Consequências do incumprimento do clausulado do contrato de subconcessão.
 
-###### Art. 5.º - 1 - A adjudicação das subconcessões é feita pelo STCP, sujeita a autorização prévia dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.
+Art. 5.º - 1 - A adjudicação das subconcessões é feita pelo STCP, sujeita a autorização prévia dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.
 
 2 - O STCP remeterá à Direcção-Geral de Transportes Terrestres cópia do contrato de subconcessão logo após a sua outorga.
 
-###### Art. 6.º - 1 - Os subconcessionários ficam sujeitos ao mesmo regime de preços aplicável ao concessionário.
+Art. 6.º - 1 - Os subconcessionários ficam sujeitos ao mesmo regime de preços aplicável ao concessionário.
 
 2 - O STCP e os subconcessionários ficam obrigados a criar e manter passes intermodais, por forma a assegurar a ligação entre as respectivas carreiras.
 
-###### Art. 7.º No prazo de duração da subconcessão, o subconcessionário substitui, para todos os efeitos legais, e designadamente perante as entidades competentes, o concessionário.
+Art. 7.º No prazo de duração da subconcessão, o subconcessionário substitui, para todos os efeitos legais, e designadamente perante as entidades competentes, o concessionário.
 
-###### Art. 8.º A concessão de exploração da carreira, findo o prazo em curso, transfere-se automaticamente para o subconcessionário, na parte subconcessionada.
+Art. 8.º A concessão de exploração da carreira, findo o prazo em curso, transfere-se automaticamente para o subconcessionário, na parte subconcessionada.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

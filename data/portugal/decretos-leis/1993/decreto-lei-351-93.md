@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/351/1993/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1993-645302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c3ab84ed89097fef62741769a829989de9f016b38ccd0532922fb09ac4276ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8548b0ba04448344165ee4561803b36f9a796fb4096ad5f99f9ffdab38acd81a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Construção Civil
+- Infraestrutura Turística
 - Licenciamento
 - Loteamento Urbano
-- Política de Solos
+- Ordenamento do Território
 - Plano Regional de Ordenamento do Território
-- Infraestrutura Turística
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:230520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230520:por
+  label: "Excluídas do âmbito de aplicação do presente diploma, as áreas urbanas consolidadas e eleva para o dobro todos os\
+    \ prazos previstos no mesmo diploma, pelo DEC LEI.61/95.1995.04.07.MPLAT DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1995-230520
+  date: '1995-04-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
@@ -86,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:13Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +144,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As licenças de loteamento, de obras de urbanização e de construção, devidamente tituladas, designadamente por alvarás, emitidas anteriormente à data da entrada em vigor de plano regional de ordenamento do território ficam sujeitas a confirmação da respectiva compatibilidade com as regras de uso, ocupação e transformação do solo constantes de plano regional de ordenamento do território.
+Artigo 1.º - 1 - As licenças de loteamento, de obras de urbanização e de construção, devidamente tituladas, designadamente por alvarás, emitidas anteriormente à data da entrada em vigor de plano regional de ordenamento do território ficam sujeitas a confirmação da respectiva compatibilidade com as regras de uso, ocupação e transformação do solo constantes de plano regional de ordenamento do território.
 
 2 - A confirmação da compatibilidade é feita por despacho do Ministro do Planeamento e da Administração do Território ou por despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo, nos casos previstos no artigo 3.º
 
@@ -138,30 +152,30 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Sempre que o titular do alvará de licença de construção comprove que a obra se iniciou e não se suspendeu anteriormente à data da entrada em vigor do plano regional de ordenamento do território, ou dentro do prazo de validade fixado na respectiva licença, entende-se que esta é compatível com as regras de uso, ocupação e transformação do solo constantes daquele plano.
 
-###### Art. 2.º - 1 - A confirmação da compatibilidade ou da verificação dos pressupostos previstos no n.º 4 do artigo anterior deve ser solicitada no prazo de 90 dias, a contar da data da entrada em vigor do presente diploma ou da data da entrada em vigor do plano regional de ordenamento do território, consoante já exista ou não aquele instrumento de planeamento para a área em questão.
+Art. 2.º - 1 - A confirmação da compatibilidade ou da verificação dos pressupostos previstos no n.º 4 do artigo anterior deve ser solicitada no prazo de 90 dias, a contar da data da entrada em vigor do presente diploma ou da data da entrada em vigor do plano regional de ordenamento do território, consoante já exista ou não aquele instrumento de planeamento para a área em questão.
 
 2 - A confirmação da compatibilidade é emitida no prazo de 90 dias.
 
 3 - A ausência de decisão expressa no prazo referido no número anterior consubstancia uma declaração tácita de compatibilidade.
 
-###### Art. 3.º O regime previsto no presente diploma é igualmente aplicável às aprovações de localização, às aprovações de anteprojecto ou de projecto de construção de edificações e de empreendimentos turísticos, emitidas pela Direcção-Geral do Turismo ou pelas câmaras municipais em data anterior à da entrada em vigor de plano regional de ordenamento do território.
+Art. 3.º O regime previsto no presente diploma é igualmente aplicável às aprovações de localização, às aprovações de anteprojecto ou de projecto de construção de edificações e de empreendimentos turísticos, emitidas pela Direcção-Geral do Turismo ou pelas câmaras municipais em data anterior à da entrada em vigor de plano regional de ordenamento do território.
 
-###### Art. 4.º Os pedidos de licença de construção em terrenos loteados ao abrigo de alvará de loteamento emitido anteriormente à data da entrada em vigor de plano regional de ordenamento do território devem ser instruídos com documento comprovativo da confirmação da compatibilidade prevista no presente diploma.
+Art. 4.º Os pedidos de licença de construção em terrenos loteados ao abrigo de alvará de loteamento emitido anteriormente à data da entrada em vigor de plano regional de ordenamento do território devem ser instruídos com documento comprovativo da confirmação da compatibilidade prevista no presente diploma.
 
-###### Art. 5.º A realização de obras de urbanização e de construção efectuadas em violação ao disposto no presente diploma é passível de embargo e demolição, nos termos do disposto nos artigos 57.º e 58.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e 61.º e 62.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
+Art. 5.º A realização de obras de urbanização e de construção efectuadas em violação ao disposto no presente diploma é passível de embargo e demolição, nos termos do disposto nos artigos 57.º e 58.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e 61.º e 62.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
 
-###### Art. 6.º A confirmação da compatibilidade é válida pelo prazo de um ano, findo o qual caducam automaticamente todos os direitos derivados dos actos ou títulos objecto da confirmação que não possuam prazo de validade e que não tenham sido exercidos.
+Art. 6.º A confirmação da compatibilidade é válida pelo prazo de um ano, findo o qual caducam automaticamente todos os direitos derivados dos actos ou títulos objecto da confirmação que não possuam prazo de validade e que não tenham sido exercidos.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1993. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

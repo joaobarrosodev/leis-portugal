@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/044a00/10361037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/1992/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1992-158598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b67fa7593197881060881c975e1da37ce646d29456fe52da375416b4e5c9bc75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4ab744d719d7bd259ca086626d2537c8a11bdab977a736551f9aa377beafd99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,33 @@ relationships:
   target: pt:dre:165851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:35Z'
   warnings: []
   errors: []
 ---
@@ -108,27 +125,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Aos licenciados em Direito que tenham desempenhado as funções de agente do Ministério Público não magistrado, durante os últimos sete anos, por um período de, pelo menos, cinco anos, com a classificação mínima de Bom em inspecção para o efeito solicitada, é assegurado o ingresso no Centro de Estudos Judiciários, com dispensa de testes de aptidão, para frequência de curso especial de formação de magistrados do Ministério Público.
+Artigo 1.º - 1 - Aos licenciados em Direito que tenham desempenhado as funções de agente do Ministério Público não magistrado, durante os últimos sete anos, por um período de, pelo menos, cinco anos, com a classificação mínima de Bom em inspecção para o efeito solicitada, é assegurado o ingresso no Centro de Estudos Judiciários, com dispensa de testes de aptidão, para frequência de curso especial de formação de magistrados do Ministério Público.
 
 2 - O período de cinco anos referido no número anterior poderá ser integrado em tempo nunca excedente a dois anos, pelo exercício da advocacia e pelo exercício, ao abrigo dos n.os 3 e 5 do artigo 48.º da [Lei n.º 47/86](https://diariodarepublica.pt/dr/detalhe/lei/47-1986-222422), de 15 de Outubro, de funções de delegado do procurador da República em regime de substituição, mediante informação favorável da Ordem dos Advogados ou da Procuradoria-Geral da República, respectivamente.
 
-###### Art. 2.º O curso especial de formação a que se refere o n.º 1 do artigo anterior compreende duas fases sucessivas:
+Art. 2.º O curso especial de formação a que se refere o n.º 1 do artigo anterior compreende duas fases sucessivas:
 
 a) Um período de actividades teórico-práticas;
 
 b) Um estágio de pré-afectação.
 
-###### Art. 3.º Com vista à realização do curso a que se referem os artigos anteriores, e no prazo de um ano a partir da data de entrada em vigor deste diploma, o Ministro da Justiça declara aberto o concurso de ingresso no Centro de Estudos Judiciários por aviso a publicar no Diário da República.
+Art. 3.º Com vista à realização do curso a que se referem os artigos anteriores, e no prazo de um ano a partir da data de entrada em vigor deste diploma, o Ministro da Justiça declara aberto o concurso de ingresso no Centro de Estudos Judiciários por aviso a publicar no Diário da República.
 
-###### Art. 4.º - 1 - No prazo estabelecido no aviso, os candidatos devem requerer o ingresso no Centro de Estudos Judiciários.
+Art. 4.º - 1 - No prazo estabelecido no aviso, os candidatos devem requerer o ingresso no Centro de Estudos Judiciários.
 
 2 - Os requerimentos devem ser instruídos com documentos que comprovem o preenchimento das condições de ingresso, sendo a verificação destas reportada à data do início do curso especial de formação.
 
-###### Art. 5.º - 1 - Encerrado o prazo para a apresentação dos requerimentos, será publicada no Diário da República a lista dos candidatos admitidos.
+Art. 5.º - 1 - Encerrado o prazo para a apresentação dos requerimentos, será publicada no Diário da República a lista dos candidatos admitidos.
 
 2 - Da lista pode reclamar-se para o Ministro da Justiça no prazo de 10 dias.
 
-###### Art. 6.º O artigo 43.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, passa a ter a seguinte redacção:
+Art. 6.º O artigo 43.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 43.º — Remunerações e regalias
 
@@ -136,18 +153,18 @@ b) Um estágio de pré-afectação.
 
 2 - Os auditores de justiça podem inscrever-se nos Serviços Sociais do Ministério da Justiça.
 
-###### Art. 7.º No que este diploma é omisso aplicar-se-á, com as devidas adaptações, o disposto no [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro.
+Art. 7.º No que este diploma é omisso aplicar-se-á, com as devidas adaptações, o disposto no [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro.
 
-###### Art. 8.º O disposto no artigo 6.º não se aplica aos auditores de justiça que tenham iniciado o respectivo curso de formação antes da entrada em vigor do presente diploma.
+Art. 8.º O disposto no artigo 6.º não se aplica aos auditores de justiça que tenham iniciado o respectivo curso de formação antes da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 10 de Fevereiro de 1992.**
+Promulgado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992**
+Referendado em 17 de Fevereiro de 1992
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20382039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1993-665348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fca11dfca10b30f8f183f1408d00722064ec3312f3faff4efedbfdcad2d7761
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1c659047d59e87d7cb487f0db9e9523da1c3400dc64afa4449f9e13683a7210
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- REDE Escolar
-- Ministério da Educação
 - Definição de Competências
 - Departamento de Gestão de Recursos Educativos
+- Gestão de Recursos Humanos
+- Ministério da Educação
 - Orgânica
 - Recursos Humanos
-- Gestão de Recursos Humanos
+- REDE Escolar
 relationships:
 - type: amended_by
   target: pt:dre:534791:por
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:549429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534791:por
+  label: "Revogado pelo DEC LEI.122/99.1999.04.19.ME, DR.IS-A [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1999-534791
+  date: '1999-04-19'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:36Z'
   warnings: []
   errors: []
 ---
@@ -189,14 +202,14 @@ c) Prestar apoio administrativo aos núcleos de coordenação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a00/20382039.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a00/20382039.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20382039.pdf)

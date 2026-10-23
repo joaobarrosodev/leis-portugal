@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/1993/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1993-648133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7414f3611c4801131b09d837c18d48333fffd1edac7bfbe2792c0a582b908d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aec5664de6dc73fb25e407d2efc44682117a1adbd3ac3c157926ffc6a13fe1a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Finanças Locais
-- Derrama
-- Contribuições e Impostos
-- IRC
 - Câmara Municipal
+- Contribuições e Impostos
+- Derrama
+- Finanças Locais
+- IRC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+- type: cites
+  target: pt:dre:276439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:38Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +117,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 15.º da [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), de 9 de Março, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 5.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 470-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-b-1988-276439), de 19 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 470-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-b-1988-276439), de 19 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 5.º — Derrama
 
@@ -125,7 +137,7 @@ No uso da autorização legislativa concedida pelo artigo 15.º da [Lei n.º 2/9
 
 8 - A DGCI assegurará a cobrança e distribuição da derrama pelos municípos que a lançaram.
 
-###### Art. 2.º - 1 - É estabelecido um período transitório de dois anos, durante o qual o disposto no n.º 2 do artigo 5.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, na redacção que lhe é dada pelo presente diploma, apenas será aplicável:
+Art. 2.º - 1 - É estabelecido um período transitório de dois anos, durante o qual o disposto no n.º 2 do artigo 5.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, na redacção que lhe é dada pelo presente diploma, apenas será aplicável:
 
 a) A 40% da colecta do IRC no ano de 1994;
 
@@ -135,12 +147,12 @@ b) A 80% no ano de 1995.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

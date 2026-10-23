@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/248a00/59966005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/364/1993/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba88e0c81dc0585027abab8e7ee32dc84f800cd1602a72f3efcf5ec303b771a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68fdc0972d5bfdd5f8b54ef3b07c836bd8f4265019cb259e8baf6e67293951b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto dos Funcionários de Justiça
-- Pessoal de Justiça
 - Orgânica
 - Organização Judiciária
+- Pessoal de Justiça
 relationships:
 - type: amended_by
   target: pt:dre:428653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 256/93, DE 20 DE DEZEMBRO, PUBLICADA NO DR.IS-A, 304, 6SUPL.\06SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-23'
+- type: amended_by
+  target: pt:dre:304095:por
+  label: "Alterado o art. 3º do Dec Lei 376/87, de 11-dez, na redação do presente diploma, pelo DEC LEI.167/94.1994.06.15.MJ,\
+    \ DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1994-304095
+  date: '1994-06-15'
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterada a redacção dada pelo presente diploma aos arts. 3º, 82º e 85º do Dec Lei 376/87 de 11-Dez, pela LEI.44/96.1996.09.03.AR,\
+    \ DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:367398:por
+  label: "Alterados os arts. 40º, 43º, 44º, 46º, 55º, 61º, 67º, 68º e 71º, bem como a epígrafe da seccão IV do cap. IV do\
+    \ Dec Lei 376/87 de 11-Dez, na redacção do presente diploma, pelo DEC LEI.150/97.1997.06.16.MJ DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1997-367398
+  date: '1997-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/378/1991/10/09/p/dre
   label: null
@@ -83,16 +106,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/1993/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/1993/07/30/p/dre
+- type: cites
+  target: pt:dre:288235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:428653:por
+  label: "Revogado pelo DEC LEI.343/99.1999.08.26.MJ,DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1999-428653
+  date: '1999-08-26'
 article_structure:
-  article_count: 59
+  article_count: 58
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:32Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +161,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 54/93](https://diariodarepublica.pt/dr/detalhe/lei/54-1993-345152), de 30 de Julho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 21.º, 23.º, 24.º, 33.º, 34.º, 35.º, 36.º, 39.º, 40.º, 43.º, 46.º, 48.º, 50.º, 55.º, 56.º, 57.º, 58.º, 59.º, 60.º, 62.º, 66.º, 68.º, 69.º, 71.º, 73.º, 74.º, 75.º, 78.º, 82.º, 84.º, 85.º, 86.º, 91.º, 96.º, 97.º, 99.º, 100.º, 105.º, 107.º, 108.º, 109.º, 130.º, 179.º, 181.º e 182.º-A do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os [167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, [270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, e [378/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1991-288235), de 9 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 21.º, 23.º, 24.º, 33.º, 34.º, 35.º, 36.º, 39.º, 40.º, 43.º, 46.º, 48.º, 50.º, 55.º, 56.º, 57.º, 58.º, 59.º, 60.º, 62.º, 66.º, 68.º, 69.º, 71.º, 73.º, 74.º, 75.º, 78.º, 82.º, 84.º, 85.º, 86.º, 91.º, 96.º, 97.º, 99.º, 100.º, 105.º, 107.º, 108.º, 109.º, 130.º, 179.º, 181.º e 182.º-A do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os [167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, [270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, e [378/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1991-288235), de 9 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -839,7 +887,7 @@ b) Até ao limite máximo de idade previsto na lei geral, os restantes funcioná
 
 6 - Para efeitos de aposentação, o tempo de serviço prestado por oficiais de justiça nas Regiões Autónomas é bonificado de um quarto.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, os artigos 49.º-A e 71.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, os artigos 49.º-A e 71.º-A, com a seguinte redacção:
 
 ###### Artigo 49.º-A — Secretários judiciais em tribunais superiores e secretarias-gerais
 
@@ -859,39 +907,39 @@ b) Até ao limite máximo de idade previsto na lei geral, os restantes funcioná
 
 5 - Enquanto se mantiverem na situação de supranumerário, os funcionários de justiça podem ser afectos pelo director-geral dos Serviços Judiciários aos serviços da comarca que o justifiquem, independentemente da carreira a que pertençam.
 
-###### Art. 3.º - 1 - O Conselho de Oficiais de Justiça tem a estrutura, organização e competência prevista no capítulo V do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, e pelo presente diploma.
+Art. 3.º - 1 - O Conselho de Oficiais de Justiça tem a estrutura, organização e competência prevista no capítulo V do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, e pelo presente diploma.
 
 2 - Sem prejuízo do disposto no n.º 1 do artigo 182.º, o regime disciplinar dos oficiais de justiça é o previsto nos artigos 123.º a 176.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações introduzidas pelo presente diploma.
 
-###### Art. 4.º São revogados os artigos 42.º, 189.º e 204.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
+Art. 4.º São revogados os artigos 42.º, 189.º e 204.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
 
-###### Art. 5.º Enquanto não for aprovado o modelo de requerimento a que se refere o n.º 3 do artigo 40.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, na redacção introduzida pelo presente diploma, o requerimento obedece às seguintes formalidades:
+Art. 5.º Enquanto não for aprovado o modelo de requerimento a que se refere o n.º 3 do artigo 40.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, na redacção introduzida pelo presente diploma, o requerimento obedece às seguintes formalidades:
 
 a) Graduação dos diferentes lugares em linhas separadas e por ordem de preferência de provimento;
 
 b) Menção da categoria preferida, na hipótese de apresentação de requerimentos para categorias diferentes.
 
-###### Art. 6.º Até à publicação do despacho conjunto a que se refere o n.º 2 do artigo 8.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, na redacção introduzida pelo presente diploma, mantém-se a situação decorrente das normas legais anteriormente aplicáveis.
+Art. 6.º Até à publicação do despacho conjunto a que se refere o n.º 2 do artigo 8.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, na redacção introduzida pelo presente diploma, mantém-se a situação decorrente das normas legais anteriormente aplicáveis.
 
-###### Art. 7.º Os secretários judiciais, os secretários técnicos, os escrivães de direito e os técnicos de justiça principais têm direito, após a cessação de funções, à inscrição na Câmara dos Solicitadores, nos termos previstos no respectivo Estatuto, sem prejuízo dos direitos já adquiridos por oficiais de justiça.
+Art. 7.º Os secretários judiciais, os secretários técnicos, os escrivães de direito e os técnicos de justiça principais têm direito, após a cessação de funções, à inscrição na Câmara dos Solicitadores, nos termos previstos no respectivo Estatuto, sem prejuízo dos direitos já adquiridos por oficiais de justiça.
 
-###### Art. 8.º As provas de aptidão ao estágio para ingresso na carreira de oficial de justiça realizadas em Dezembro de 1990 mantêm-se válidas até 31 de Março de 1995.
+Art. 8.º As provas de aptidão ao estágio para ingresso na carreira de oficial de justiça realizadas em Dezembro de 1990 mantêm-se válidas até 31 de Março de 1995.
 
-###### Art. 9.º O mapa I anexo ao [Decreto-Lei n.º 167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, é substituído pelo mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 9.º O mapa I anexo ao [Decreto-Lei n.º 167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, é substituído pelo mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 10.º O primeiro movimento ordinário a realizar após a entrada em vigor do presente diploma é o de Novembro de 1993.
+Art. 10.º O primeiro movimento ordinário a realizar após a entrada em vigor do presente diploma é o de Novembro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 29 de Setembro de 1993.**
+Promulgado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1993.**
+Referendado em 7 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 

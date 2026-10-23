@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 24/1993, 1º Suplemento, Série I-A de 1993-01-29
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 406-(2) a 406-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/024a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/1993/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1993-630451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f76b5766292d641fabba587eef6e64cc50c902549c57a1c58896094f00483aae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6be37031ac702f5ce4fcf1edf0a0605c91b4d295dfe80f4129534ee2bf617978
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,29 @@ subjects:
 - Capital Social
 - Participação do Estado
 - Sociedade Financeira Internacional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487334:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:52Z'
   warnings: []
   errors: []
 ---
@@ -101,24 +113,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica o Governo, por intermédio do Ministro das Finanças, autorizado a dar o seu acordo ao aumento da participação de Portugal no capital da Sociedade Financeira Internacional de US$ 4,705 para US$ 8,324 milhões.
+Artigo 1.º Fica o Governo, por intermédio do Ministro das Finanças, autorizado a dar o seu acordo ao aumento da participação de Portugal no capital da Sociedade Financeira Internacional de US$ 4,705 para US$ 8,324 milhões.
 
-###### Art. 2.º A realização do aumento de capital será efectuada, integralmente em escudos, em cinco anuidades iguais, num valor equivalente a US$ 723800, a primeira até 1 de Fevereiro de 1993 e as seguintes entre 1 de Agosto e 1 de Fevereiro subsequentes, até Fevereiro de 1997.
+Art. 2.º A realização do aumento de capital será efectuada, integralmente em escudos, em cinco anuidades iguais, num valor equivalente a US$ 723800, a primeira até 1 de Fevereiro de 1993 e as seguintes entre 1 de Agosto e 1 de Fevereiro subsequentes, até Fevereiro de 1997.
 
-###### Art. 3.º A competência atribuída ao Ministro das Finanças pelo artigo 3.º do [Decreto-Lei n.º 46976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46976-1966-487334), de 27 de Abril de 1966, abrange todos os encargos inerentes à realização da participação de Portugal no capital social da Sociedade Financeira Internacional, até ao seu novo valor de US$ 8,324 milhões, para o que deverão ser inscritas as necessárias verbas orçamentais.
+Art. 3.º A competência atribuída ao Ministro das Finanças pelo artigo 3.º do [Decreto-Lei n.º 46976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46976-1966-487334), de 27 de Abril de 1966, abrange todos os encargos inerentes à realização da participação de Portugal no capital social da Sociedade Financeira Internacional, até ao seu novo valor de US$ 8,324 milhões, para o que deverão ser inscritas as necessárias verbas orçamentais.
 
-###### Art. 4.º O regime jurídico constante do [Decreto-Lei n.º 46976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46976-1966-487334), de 27 de Abril de 1966, com as alterações introduzidas pelo presente diploma, vigorará em relação à totalidade das acções subscritas pela República Portuguesa.
+Art. 4.º O regime jurídico constante do [Decreto-Lei n.º 46976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46976-1966-487334), de 27 de Abril de 1966, com as alterações introduzidas pelo presente diploma, vigorará em relação à totalidade das acções subscritas pela República Portuguesa.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

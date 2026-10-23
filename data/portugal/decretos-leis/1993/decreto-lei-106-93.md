@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/1993/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1993-682995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01a70be4f941a176ce86dc8fc1c83b59730a74057c84e4c6422b3a851543f44e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4f3c1e77282096d053bf4b27d51eb5268304eac7b2a2f7eb56e238cc5cafd3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Carvão
 - Direcção Geral de Energia
-- Petróleo
-- Política Energética
+- Estatística
 - Gestão dos Recursos
 - Importação
-- Estatística
+- Petróleo
+- Política Energética
 - Recursos Energéticos
 relationships:
 - type: amended_by
@@ -83,16 +83,22 @@ relationships:
   target: celex:31976L0491
   label: null
   source: http://data.europa.eu/eli/dir/1976/491/oj
+- type: repealed_by
+  target: pt:dre:683852:por
+  label: "Revogada a Lei 1947 de 12-Fev 1937, alterada pelo presente diploma, pelo DEC LEI.31/2006.15.02.2006.MEI, DR.IS-A\
+    \ [33] de 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2006-683852
+  date: '2006-02-15'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:50Z'
   warnings: []
   errors: []
 ---
@@ -147,12 +153,12 @@ São revogadas as bases II, III, IV, V, VI e VII da Lei n.º 1947, de 12 de Feve
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

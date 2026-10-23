@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/1992/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1992-190595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d8bd26da62085aabb8f7f54c2da135b65f2f574e179a18a05d97fe6ef1d948b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf6984e1991723ea4013148c6b03fe05f2fbc4a3117b7d87acbf750f3f406d90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - Conselho Geral
 - Instituto do Vinho do Porto
 - Orgânica
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:374380:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:21Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 12.º do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, passa a ter a seguinte redacção:
+Artigo único. O artigo 12.º do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 12.º — [...]
 
@@ -113,12 +117,12 @@ b) Seis representantes do comércio, a designar pelas organizações representat
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

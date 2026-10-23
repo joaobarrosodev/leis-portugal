@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/1993/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1993-648136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 017b0cacf081458e1f1e429f2013bc0bdaf64d50158df0e9467ca6ea74e5d369
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45a78d4a376830d3d51975a05a64cf15929f22960b26160295b1f471f3a927cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Função Pública
-- Pessoal de Justiça
-- Horas Extraordinárias
 - Base de Dados
+- Função Pública
+- Horas Extraordinárias
 - Informatização
 - Magistrado Judicial
+- Ministério Público
 - Orgânica
+- Pessoal de Justiça
 - Processo Judicial
 - Projeto
-- Ministério Público
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:198728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218744:por
+  label: "Alterada a redacção dada ao Dec Lei 214/88 de 17-Jun, pelo DEC LEI.222/94.1994.08.24.MJ, DR.IS-A [195]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1994-218744
+  date: '1994-08-24'
+- type: amended_by
+  target: pt:dre:198728:por
+  label: "Alterada a redacção do art. 25º do Dec Lei 214/88 de 17-Jun, na redacção constante do presente diploma, pelo DEC\
+    \ LEI.29/95.1995.02.09.MJ, DR.IS-A [34]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1995-198728
+  date: '1995-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/1991/06/07/p/dre
   label: null
@@ -90,16 +101,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:302927:por
+  label: "RECTIFICADO PELA DECL-RECT 25/93 DE 27-FEV DR.IS-A [49].\09]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/25-1993-302927
+  date: '1993-02-27'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:48Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +160,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelas Leis n.os [38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, [24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto, e [24/92](https://diariodarepublica.pt/dr/detalhe/lei/24-1992-259072), de 20 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 25.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, alterado pelo [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), de 7 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 25.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, alterado pelo [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), de 7 de Junho, passa a ter a seguinte redacção:
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -140,24 +178,26 @@ No desenvolvimento do regime jurídico estabelecido pelas Leis n.os [38/87](http
 
 6 - ...
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, o artigo 25.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, o artigo 25.º-A, com a seguinte redacção:
 
-###### Artigo 25.º-A — Automatização do sorteio e valor de listagens
+Artigo 25.º-A
+
+Automatização do sorteio e valor de listagens
 
 1 - A substituição das operações manuais de sorteio, previstas nas leis processuais, por sorteio automatizado, efectua-se por forma a garantir idêntico grau de aleatoriedade no resultado obtido e de igualdade na distribuição de serviço e implica a cessação dos procedimentos manuais.
 
 2 - As listagens produzidas por computador, quando autenticadas pelo magistrado ou funcionário que preside ao acto por elas documentado, têm o mesmo valor que os livros e listas que visam substituir.
 
-###### Art. 3.º O disposto no artigo 1.º reporta os seus efeitos a 1 de Janeiro de 1993.
+Art. 3.º O disposto no artigo 1.º reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

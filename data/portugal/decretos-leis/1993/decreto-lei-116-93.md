@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/086a00/18161816.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/1993/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1993-689621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f647ac2ba16c1a42885bcf478a5b20319afe2b5ab96ef3eaa47907ab72dd13d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5930e5f7c1731496a7ecd3bfec407f4f1c2541e79392e7463a8f151a5460470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Academia Militar
+- Estatuto
 - Licenciatura
 relationships:
 - type: amended_by
   target: pt:dre:612663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370432:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612663:por
+  label: "Revogado o Dec Lei 302/88, de 02-Set, na redacção do presente diploma, pelo DEC LEI.27/2010.31.03.2010.MDN, DR.IS\
+    \ [63] de 31.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2010-612663
+  date: '2010-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:01Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +113,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 8.º do Estatuto da Academia Militar, aprovado pelo [Decreto-Lei n.º 302/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1988-370432), de 2 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 8.º do Estatuto da Academia Militar, aprovado pelo [Decreto-Lei n.º 302/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1988-370432), de 2 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 a) ...
 
@@ -137,16 +147,16 @@ d) Licenciado em Engenharia Mecânica Militar, através do curso mencionado na a
 
 4 - ...
 
-###### Art. 2.º O presente diploma é aplicável aos cursos iniciados na Academia Militar a partir do ano lectivo de 1992-1993.
+Art. 2.º O presente diploma é aplicável aos cursos iniciados na Academia Militar a partir do ano lectivo de 1992-1993.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - António Fernando Couto dos Santos.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

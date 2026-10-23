@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/1994/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1994-256434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da46cb1d39040746ff58f63b63277772cb292700252911caebb8f82a6f0d1737
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1ce1a170abdaeb85e482cbd76a715f9e573ab079f781836506330dd899f0f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:345974:por
+  label: "Rectificado pela DECL-RECT.87/94.1994.06.30.PCM,DR.IS-A [149]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/87-1994-345974
+  date: '1994-06-30'
+- type: corrected_by
+  target: pt:dre:667960:por
+  label: "Rectificado pela DECL-RECT.103/94.1994.07.29.PCM,DR.IS-A [175]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/103-1994-667960
+  date: '1994-07-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:28Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +119,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 29.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 3.º, 12.º, 20.º, 40.º, 92.º, 146.º e 180.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º, 12.º, 20.º, 40.º, 92.º, 146.º e 180.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -125,7 +139,7 @@ No uso da autorização legislativa concedida pelo artigo 29.º da [Lei n.º 75/
 
 6.º Os donativos que, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares e do Código do Imposto sobre o Rendimento das Pessoas Colectivas, sejam considerados de interesse público ou destinados a fins culturais.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 1.º As transmissões de bens de valor igual ou inferior a 70000$00 para cada adquirente;
 
@@ -157,7 +171,7 @@ No uso da autorização legislativa concedida pelo artigo 29.º da [Lei n.º 75/
 
 § 3.º ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 1.º ...
 
@@ -211,13 +225,13 @@ b) ...
 
 8.ª ...
 
-###### Art. 40.º As taxas do imposto sobre as sucessões e doações são as seguintes:
+Art. 40.º As taxas do imposto sobre as sucessões e doações são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf))](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf)
 
 § único. ...
 
-###### Art. 92.º Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.
+Art. 92.º Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.
 
 § 1.º (Revogado.)
 
@@ -225,11 +239,11 @@ b) ...
 
 § 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado.
 
-###### Art. 146.º ...
+Art. 146.º ...
 
 § único. Só se considera assegurado o pagamento mediante qualquer das garantias no § 1.º do artigo 136.º
 
-###### Art. 180.º O imposto municipal da sisa e o imposto sobre sucessões e doações prescrevem nos termos do artigo 34.º do Código de Processo Tributário.
+Art. 180.º O imposto municipal da sisa e o imposto sobre sucessões e doações prescrevem nos termos do artigo 34.º do Código de Processo Tributário.
 
 § 1.º ...
 
@@ -237,12 +251,12 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado no Porto em 12 de Abril de 1994.**
+Promulgado no Porto em 12 de Abril de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1994.**
+Referendado em 14 de Abril de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/1994/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1994-269595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 718e74e083f6092dd5987e8c4608e88d97da29c7d2f797203147e45b1fe7e62d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99806b8de8e59e7b20e4877da29f289a8a0bd1b82744d357b00847ffd3fed768
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Internacional de Desenvolvimento
-- Portugal
+- Cooperação Internacional
 - Desenvolvimento
 - Direitos de Saque
-- Ministro das Finanças
 - Instituição Especializada da ONU
 - Junta de Crédito Público
-- Cooperação Internacional
+- Ministro das Finanças
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:14Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +103,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Em representação do Governo, fica o Ministro das Finanças autorizado a dar o seu acordo à participação de Portugal na 10.ª reconstituição de recursos da Associação Internacional de Desenvolvimento (AID) através da subscrição de 15,5 milhões de DSE, num montante equivalente a 2952020000$00.
+Artigo 1.º - 1 - Em representação do Governo, fica o Ministro das Finanças autorizado a dar o seu acordo à participação de Portugal na 10.ª reconstituição de recursos da Associação Internacional de Desenvolvimento (AID) através da subscrição de 15,5 milhões de DSE, num montante equivalente a 2952020000$00.
 
 2 - A subscrição a que se refere o número anterior será feita através de notas promissórias, em três prestações iguais, cujo depósito deverá ser efectuado até 30 de Novembro de 1995.
 
-###### Art. 2.º Fica o Ministro das Finanças autorizado a praticar todos os actos necessários à realização do previsto no artigo anterior, nomeadamente a emitir os títulos de obrigação, representados por promissórias, nos termos do regime aplicável à 10.ª reconstituição de recursos da AID.
+Art. 2.º Fica o Ministro das Finanças autorizado a praticar todos os actos necessários à realização do previsto no artigo anterior, nomeadamente a emitir os títulos de obrigação, representados por promissórias, nos termos do regime aplicável à 10.ª reconstituição de recursos da AID.
 
-###### Art. 3.º Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+Art. 3.º Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
 
 a) O número de ordem;
 
@@ -121,18 +121,18 @@ d) Os diplomas que autorizam a emissão;
 
 e) Os direitos, isenções e garantias de que gozam.
 
-###### Art. 4.º As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com faculdade de delegação, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
+Art. 4.º As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com faculdade de delegação, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - José Manuel Durão Barroso.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

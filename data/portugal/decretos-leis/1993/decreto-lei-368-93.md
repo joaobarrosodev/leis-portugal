@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/253a00/60806081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/368/1993/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1993-664555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73652b93186a5c101a8ef66621d5c4d11f6d5dc14afd3d8c34e3b383f6f738e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 432a72fe536a625d5be282bf5eeabcb3236acbfb7a8e38864038d6f667d2aeea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects:
 - Cabotagem
 - CEE
-- Tráfego Marítimo
-- Transporte Marítimo
-- Multa
 - Contra-ordenação
 - Direcção Geral de Portos Navegação e Transportes Marítimos
 - Livre Prestação de Serviços
-- Transporte de Mercadorias
+- Multa
 - Regulamento CE
+- Tráfego Marítimo
+- Transporte de Mercadorias
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:485061:por
@@ -85,16 +85,21 @@ relationships:
   target: celex:31992R3577
   label: null
   source: http://data.europa.eu/eli/reg/1992/3577/oj
+- type: repealed_by
+  target: pt:dre:485061:por
+  label: "Revogado pelo DEC LEI.194/98.10.07.1998.MEPAT, DR.IS-A [157] de 10.07.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1998-485061
+  date: '1998-07-10'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:37Z'
   warnings: []
   errors: []
 ---
@@ -173,12 +178,12 @@ São revogados o Decreto-Lei n.º 123/91, de 21 de Março, e a Portaria n.º 655
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - João Prates Bebiano.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

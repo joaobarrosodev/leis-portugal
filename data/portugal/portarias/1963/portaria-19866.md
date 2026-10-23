@@ -47,36 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19866-1963-627640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23302d162ea840f82d7273df533f98b934f2c70837c7140a5d266f58b3e4af68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be1d9cd7c7758cbe79929c44cce7061dc2cbeb3d0a52870abd2360d55444fa7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Apostas Mútuas Desportivas
+- Definição de Competências
+- Lisboa
+- Regulamento
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:163468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432409:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:26Z'
   warnings: []
   errors: []
 ---
@@ -93,25 +123,25 @@ I
 
 Da organização
 
-###### Artigo 1.º Para assegurar na província de Angola os serviços das apostas mútuas desportivas é criada, com sede em Luanda, uma delegação da Santa Casa da Misericórdia de Lisboa.
+Artigo 1.º Para assegurar na província de Angola os serviços das apostas mútuas desportivas é criada, com sede em Luanda, uma delegação da Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 2.º Na delegação existirão, além dos serviços administrativos necessários, serviços de instrução e fiscalização de agentes, expedição e recolha de bilhetes, contagem e conferência de apostas, microfilmagem de matrizes e de escrutínio de apostas admitidas aos concursos. A estes serviços aplicar-se-ão os regulamentos internos e instruções em vigor na metrópole.
+Art. 2.º Na delegação existirão, além dos serviços administrativos necessários, serviços de instrução e fiscalização de agentes, expedição e recolha de bilhetes, contagem e conferência de apostas, microfilmagem de matrizes e de escrutínio de apostas admitidas aos concursos. A estes serviços aplicar-se-ão os regulamentos internos e instruções em vigor na metrópole.
 
-###### Art. 3.º A expedição e recolha de bilhetes e demais documentação serão efectuadas semanalmente através dos meios de transportes considerados, para cada caso, como os mais convenientes.
+Art. 3.º A expedição e recolha de bilhetes e demais documentação serão efectuadas semanalmente através dos meios de transportes considerados, para cada caso, como os mais convenientes.
 
-###### Art. 4.º Em localidades de reconhecida conveniência poderão ser criadas centrais de recepção, onde os agentes dessas e de outras localidades vizinhas receberão todo o material de expediente relacionado com os concursos e entregarão os sobrescritos contendo matrizes dos bilhetes de apostas.
+Art. 4.º Em localidades de reconhecida conveniência poderão ser criadas centrais de recepção, onde os agentes dessas e de outras localidades vizinhas receberão todo o material de expediente relacionado com os concursos e entregarão os sobrescritos contendo matrizes dos bilhetes de apostas.
 
-###### Art. 5.º As relações de serviço entre a Santa Casa da Misericórdia de Lisboa e a sua delegação para efeitos da exploração das apostas mútuas desportivas efectuar-se-ão através do respectivo Departamento.
+Art. 5.º As relações de serviço entre a Santa Casa da Misericórdia de Lisboa e a sua delegação para efeitos da exploração das apostas mútuas desportivas efectuar-se-ão através do respectivo Departamento.
 
-###### Art. 6.º Quando haja dificuldades de comunicações, além das centrais de recepção poderão ser designados subdelegados nas localidades términos de carreiras de transportes.
+Art. 6.º Quando haja dificuldades de comunicações, além das centrais de recepção poderão ser designados subdelegados nas localidades términos de carreiras de transportes.
 
-###### Art. 7.º Os subdelegados serão designados pela mesa mediante proposta fundamentada do chefe da delegação e competir-lhes-á, especialmente, o reenvio das sacas contendo material de expediente a distribuir pelas centrais de recepção ou pelos agentes, bem assim das sacas deles recebidas contendo sobrescritos com matrizes.
+Art. 7.º Os subdelegados serão designados pela mesa mediante proposta fundamentada do chefe da delegação e competir-lhes-á, especialmente, o reenvio das sacas contendo material de expediente a distribuir pelas centrais de recepção ou pelos agentes, bem assim das sacas deles recebidas contendo sobrescritos com matrizes.
 
 II
 
 Da administração
 
-###### Art. 8.º A administração da delegação compete ao respectivo chefe, sob a orientação, direcção e fiscalização dos órgãos designados no artigo 1.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, nos termos seguintes:
+Art. 8.º A administração da delegação compete ao respectivo chefe, sob a orientação, direcção e fiscalização dos órgãos designados no artigo 1.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, nos termos seguintes:
 
 1.º Dirigir e coordenar todos os serviços;
 
@@ -165,9 +195,9 @@ Da administração
 
 § 2.º A mesa designará entre os funcionários da delegação o que há-de servir de oficial público na celebração dos contratos com o pessoal da delegação, ou de fornecimentos à mesma e na passagem de certidões.
 
-###### Art. 9.º Quando a mesa provincial não sancionar os actos referidos expressamente nos números do artigo anterior, poderá o chefe da delegação submeter propostas fundamentadas sobre os mesmos à mesa, à comissão executiva ou ao provedor, conforme as regras de competência estabelecidas nos artigos 2.º, 3.º e 4.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961.
+Art. 9.º Quando a mesa provincial não sancionar os actos referidos expressamente nos números do artigo anterior, poderá o chefe da delegação submeter propostas fundamentadas sobre os mesmos à mesa, à comissão executiva ou ao provedor, conforme as regras de competência estabelecidas nos artigos 2.º, 3.º e 4.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961.
 
-###### Art. 10.º Haverá uma mesa provincial, com a competência seguinte:
+Art. 10.º Haverá uma mesa provincial, com a competência seguinte:
 
 1.º Propor aos órgãos designados no artigo 1.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, tudo o que considerar conveniente para as apostas mútuas desportivas em Angola;
 
@@ -175,7 +205,7 @@ Da administração
 
 3.º Sancionar prèviamente os actos do chefe da delegação referidos expressamente nos n.os 8.º, 11.º, 16.º, 19.º e 21.º do artigo 8.º
 
-###### Art. 11.º A mesa provincial, que funcionará como mandatária da mesa da Santa Casa da Misericórdia para a gerência das apostas mútuas desportivas, terá a seguinte constituição:
+Art. 11.º A mesa provincial, que funcionará como mandatária da mesa da Santa Casa da Misericórdia para a gerência das apostas mútuas desportivas, terá a seguinte constituição:
 
 a) Presidente do Conselho Provincial de Educação Física, que presidirá;
 
@@ -185,11 +215,11 @@ c) Representante da Direcção dos Serviços de Fazenda e de Contabilidade;
 
 d) Representante da Associação Provincial de Futebol.
 
-###### Art. 12.º A mesa provincial reunirá ordinàriamente todas as semanas, e extraordinàriamente sempre que o presidente entenda conveniente ou a maioria dos vogais ou o delegado lho requeira.
+Art. 12.º A mesa provincial reunirá ordinàriamente todas as semanas, e extraordinàriamente sempre que o presidente entenda conveniente ou a maioria dos vogais ou o delegado lho requeira.
 
 § único. Serão enviadas mensalmente à mesa cópias das actas das reuniões da mesa provincial, acompanhadas dos elementos a que se refere o artigo seguinte.
 
-###### Art. 13.º Na primeira reunião de cada mês serão obrigatòriamente apresentados os seguintes elementos informativos:
+Art. 13.º Na primeira reunião de cada mês serão obrigatòriamente apresentados os seguintes elementos informativos:
 
 1.º Balancetes de todas as contas do orçamento privativo de receita e despesa correspondentes ao mês anterior ao da reunião;
 
@@ -211,15 +241,15 @@ f) Número de reclamações, discriminando as que tiverem provimento;
 
 g) Número de contadores e escrutinadores.
 
-###### Art. 14.º Os membros da mesa provincial serão remunerados pela forma constante da tabela anexa à presente portaria.
+Art. 14.º Os membros da mesa provincial serão remunerados pela forma constante da tabela anexa à presente portaria.
 
 III
 
 Dos serviços
 
-###### Art. 15.º Os serviços da delegação constituem uma secção do departamento de apostas mútuas desportivas.
+Art. 15.º Os serviços da delegação constituem uma secção do departamento de apostas mútuas desportivas.
 
-###### Art. 16.º Compete aos serviços da delegação:
+Art. 16.º Compete aos serviços da delegação:
 
 1.º Assegurar o expediente geral;
 
@@ -287,11 +317,11 @@ IV
 
 Dos júris
 
-###### Art. 17.º A recepção das matrizes das apostas, quer de agentes, quer de serviços da delegação, o depósito ou a reprodução em microfilme das mesmas e o escrutínio para apuramento dos premiados competem a um júri constituído pelo chefe da delegação em Angola, ou seu substituto, que presidirá, por um representante da autoridade administrativa e por um representante da Direcção dos Serviços da Fazenda e Contabilidade.
+Art. 17.º A recepção das matrizes das apostas, quer de agentes, quer de serviços da delegação, o depósito ou a reprodução em microfilme das mesmas e o escrutínio para apuramento dos premiados competem a um júri constituído pelo chefe da delegação em Angola, ou seu substituto, que presidirá, por um representante da autoridade administrativa e por um representante da Direcção dos Serviços da Fazenda e Contabilidade.
 
 § único. Nas operações previstas no corpo deste artigo, o júri poderá ser coadjuvado pelo pessoal que for necessário.
 
-###### Art. 18.º Compete ao júri de escrutínio:
+Art. 18.º Compete ao júri de escrutínio:
 
 1.º Superintender na recepção das matrizes, contagem, conferência e microfilmagem das mesmas, assim como fiscalizar estas operações;
 
@@ -317,71 +347,71 @@ d) Apostas rectificadas;
 
 e) Apostas premiadas e classes de prémios.
 
-###### Art. 19.º As reclamações serão julgadas por um júri constituído por um magistrado designado pelo Ministro do Ultramar, que presidirá, e representantes da autoridade administrativa e da Direcção dos Serviços da Fazenda e Contabilidade. Deste júri não pode fazer parte quem tenha intervindo na decisão reclamada.
+Art. 19.º As reclamações serão julgadas por um júri constituído por um magistrado designado pelo Ministro do Ultramar, que presidirá, e representantes da autoridade administrativa e da Direcção dos Serviços da Fazenda e Contabilidade. Deste júri não pode fazer parte quem tenha intervindo na decisão reclamada.
 
-###### Art. 20.º Compete ao júri de reclamações julgar as reclamações, nos termos da lei, lavrando acórdão fundamentado em relação a cada uma.
+Art. 20.º Compete ao júri de reclamações julgar as reclamações, nos termos da lei, lavrando acórdão fundamentado em relação a cada uma.
 
-###### Art. 21.º Os membros do júri serão remunerados de harmonia com a tabela anexa à presente portaria.
+Art. 21.º Os membros do júri serão remunerados de harmonia com a tabela anexa à presente portaria.
 
 V
 
 A) Do pessoal
 
-###### Art. 22.º Por efeito da criação em Angola da delegação da Santa Casa da Misericórdia de Lisboa para exploração das apostas mútuas desportivas naquela província, que implica necessàriamente um substancial aumento de volume de trabalho, o quadro provisório do pessoal do respectivo departamento, anexo à [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, é alterado de harmonia com o mapa II anexo ao presente diploma, passando a constituir um quadro comum, pelo que o pessoal constante do mesmo, de acordo com a lei e as conveniências do serviço, tanto pode ser colocado no departamento das apostas mútuas desportivas como na delegação em Angola.
+Art. 22.º Por efeito da criação em Angola da delegação da Santa Casa da Misericórdia de Lisboa para exploração das apostas mútuas desportivas naquela província, que implica necessàriamente um substancial aumento de volume de trabalho, o quadro provisório do pessoal do respectivo departamento, anexo à [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, é alterado de harmonia com o mapa II anexo ao presente diploma, passando a constituir um quadro comum, pelo que o pessoal constante do mesmo, de acordo com a lei e as conveniências do serviço, tanto pode ser colocado no departamento das apostas mútuas desportivas como na delegação em Angola.
 
-###### Art. 23.º Além do quadro comum fixado no artigo anterior, é criado o quadro do pessoal privativo da delegação de Angola, de harmonia com o mapa III anexo ao presente diploma.
+Art. 23.º Além do quadro comum fixado no artigo anterior, é criado o quadro do pessoal privativo da delegação de Angola, de harmonia com o mapa III anexo ao presente diploma.
 
-###### Art. 24.º As nomeações são da competência do Ministro da Saúde e Assistência, mediante proposta da comissão executiva.
+Art. 24.º As nomeações são da competência do Ministro da Saúde e Assistência, mediante proposta da comissão executiva.
 
-###### Art. 25.º Todos os encargos com o pessoal que presta serviço na delegação, bem como os resultantes da deslocação de funcionários da metrópole que a mesa entenda enviar em serviço de instrução, fiscalização ou inspecção e ainda os correspondentes a prestações de serviço para os mesmos fins de pessoas estranhas aos quadros serão imputados à exploração das apostas na província.
+Art. 25.º Todos os encargos com o pessoal que presta serviço na delegação, bem como os resultantes da deslocação de funcionários da metrópole que a mesa entenda enviar em serviço de instrução, fiscalização ou inspecção e ainda os correspondentes a prestações de serviço para os mesmos fins de pessoas estranhas aos quadros serão imputados à exploração das apostas na província.
 
-###### Art. 26.º Para atender a necessidades extraordinárias do serviço, e mediante proposta fundamentada do chefe da delegação sancionada pela mesa provincial, a comissão executiva poderá autorizar a prestação de trabalhos fora das horas normais de expediente, com a remuneração que estiver fixada nos termos legais.
+Art. 26.º Para atender a necessidades extraordinárias do serviço, e mediante proposta fundamentada do chefe da delegação sancionada pela mesa provincial, a comissão executiva poderá autorizar a prestação de trabalhos fora das horas normais de expediente, com a remuneração que estiver fixada nos termos legais.
 
-###### Art. 27.º Tendo em consideração as grandes distâncias e as dificuldades de comunicação com a maioria das localidades onde vão ser instaladas agências, são autorizadas, sempre que necessárias, as deslocações por via aérea e por táxis dentro das cidades, do pessoal encarregado da sua instalação e fiscalização.
+Art. 27.º Tendo em consideração as grandes distâncias e as dificuldades de comunicação com a maioria das localidades onde vão ser instaladas agências, são autorizadas, sempre que necessárias, as deslocações por via aérea e por táxis dentro das cidades, do pessoal encarregado da sua instalação e fiscalização.
 
 B) Das comissões de serviço
 
-###### Art. 28.º Os funcionários do quadro comum serão nomeados em comissão de serviço pelo Ministro da Saúde e Assistência, mediante proposta da comissão executiva
+Art. 28.º Os funcionários do quadro comum serão nomeados em comissão de serviço pelo Ministro da Saúde e Assistência, mediante proposta da comissão executiva
 
 § 1.º As nomeações para as comissões de serviço só serão feitas quando os indivíduos a nomear já sejam funcionários da Santa Casa da Misericórdia de Lisboa ou funcionários públicos.
 
 § 2.º As nomeações em comissão são válidas por dois anos, contados do dia da posse, podendo, todavia, haver recondução por períodos iguais e sucessivos, se o Ministro da Saúde e Assistência o entender, sob proposta da comissão executiva.
 
-###### Art. 29.º As nomeações em comissão apenas conferem os direitos e impõem os deveres correspondentes aos encargos durante o prazo da sua duração, sem prejuízo, porém, da contagem do tempo para efeito de antiguidade e aposentação.
+Art. 29.º As nomeações em comissão apenas conferem os direitos e impõem os deveres correspondentes aos encargos durante o prazo da sua duração, sem prejuízo, porém, da contagem do tempo para efeito de antiguidade e aposentação.
 
-###### Art. 30.º Os funcionários nomeados em comissão não podem fazer terminar esta a seu pedido antes de findo o respectivo prazo ou de qualquer das suas renovações, salvo quando não houver inconveniente para o serviço, mas em qualquer tempo pode a comissão findar por conveniência de serviço e assim o entenda a comissão executiva.
+Art. 30.º Os funcionários nomeados em comissão não podem fazer terminar esta a seu pedido antes de findo o respectivo prazo ou de qualquer das suas renovações, salvo quando não houver inconveniente para o serviço, mas em qualquer tempo pode a comissão findar por conveniência de serviço e assim o entenda a comissão executiva.
 
 C) Do vencimento
 
-###### Art. 31.º O vencimento desdobra-se em vencimento-base e vencimento complementar.
+Art. 31.º O vencimento desdobra-se em vencimento-base e vencimento complementar.
 
 § 1.º Considera-se vencimento-base o vencimento que o funcionário aufere na metrópole correspondente à sua categoria.
 
 § 2.º O vencimento complementar é o que para a província de Angola acrescer ao vencimento-base, de harmonia com o artigo 38.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, com a nova redacção dada pelo artigo 2.º do [Decreto n.º 42325](https://diariodarepublica.pt/dr/detalhe/decreto/42325-1959-432409), de 16 de Junho de 1959.
 
-###### Art. 32.º As gratificações destinadas a remunerar serviços especializados serão abonadas em todas as situações em que o funcionário receba o vencimento de exercício.
+Art. 32.º As gratificações destinadas a remunerar serviços especializados serão abonadas em todas as situações em que o funcionário receba o vencimento de exercício.
 
-###### Art. 33.º As gratificações destinadas a remunerar acumulações, funções de chefia, direcção, fiscalização e inspecção ou baseadas noutras circunstâncias só poderão ser abonadas quando o funcionário estiver em exercício efectivo do cargo.
+Art. 33.º As gratificações destinadas a remunerar acumulações, funções de chefia, direcção, fiscalização e inspecção ou baseadas noutras circunstâncias só poderão ser abonadas quando o funcionário estiver em exercício efectivo do cargo.
 
-###### Art. 34.º A concessão de abono de família, o regime de ajudas de custo com as restrições impostas no § 2.º do artigo 1.º e artigo 2.º da [Portaria n.º 19346](https://diariodarepublica.pt/dr/detalhe/portaria/19346-1962-163468), de 13 de Agosto de 1962, e de faltas e licenças aplicáveis aos funcionários que prestam serviço na delegação de Angola da Santa Casa da Misericórdia de Lisboa serão regulados pelas disposições do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, e do Decreto-Lei n.º 41732, de 12 de Julho de 1958.
+Art. 34.º A concessão de abono de família, o regime de ajudas de custo com as restrições impostas no § 2.º do artigo 1.º e artigo 2.º da [Portaria n.º 19346](https://diariodarepublica.pt/dr/detalhe/portaria/19346-1962-163468), de 13 de Agosto de 1962, e de faltas e licenças aplicáveis aos funcionários que prestam serviço na delegação de Angola da Santa Casa da Misericórdia de Lisboa serão regulados pelas disposições do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, e do Decreto-Lei n.º 41732, de 12 de Julho de 1958.
 
 § único. Aplicar-se-ão também as disposições constantes do primeiro dos mencionados diplomas no que respeita aos direitos relativos a viagens, tendo em consideração o disposto na alínea a) do artigo 1.º da [Portaria n.º 19346](https://diariodarepublica.pt/dr/detalhe/portaria/19346-1962-163468), de 13 de Agosto de 1962.
 
-###### Art. 35.º Os funcionários em comissão de serviço na delegação em Angola têm direito a um subsídio de renda de casa, nos termos do Diploma Legislativo n.º 1962, publicado no Boletim Oficial de Angola n.º 44, de 5 de Novembro de 1947.
+Art. 35.º Os funcionários em comissão de serviço na delegação em Angola têm direito a um subsídio de renda de casa, nos termos do Diploma Legislativo n.º 1962, publicado no Boletim Oficial de Angola n.º 44, de 5 de Novembro de 1947.
 
-###### Art. 36.º Os funcionários em comissão de serviço na delegação em Angola que tenham na metrópole encargos de família poderão requerer que o respectivo vencimento-base, em parte ou no todo, seja pago na metrópole.
+Art. 36.º Os funcionários em comissão de serviço na delegação em Angola que tenham na metrópole encargos de família poderão requerer que o respectivo vencimento-base, em parte ou no todo, seja pago na metrópole.
 
-###### Art. 37.º É aplicável aos funcionários da delegação o disposto no artigo 166.º e seu § único do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
+Art. 37.º É aplicável aos funcionários da delegação o disposto no artigo 166.º e seu § único do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
 VI
 
 Disposições diversas
 
-###### Art. 38.º As compensações devidas à Santa Casa da Misericórdia de Lisboa, nos termos do artigo 21.º e das alíneas d) e g) do artigo 22.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, são repartidas proporcionalmente ao produto ilíquido das apostas efectuadas na metrópole e Angola.
+Art. 38.º As compensações devidas à Santa Casa da Misericórdia de Lisboa, nos termos do artigo 21.º e das alíneas d) e g) do artigo 22.º da [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961, são repartidas proporcionalmente ao produto ilíquido das apostas efectuadas na metrópole e Angola.
 
-###### Art. 39.º Consideram-se sancionadas as despesas realizadas até esta data para os fins consignados na presente portaria.
+Art. 39.º Consideram-se sancionadas as despesas realizadas até esta data para os fins consignados na presente portaria.
 
-###### Art. 40.º As disposições da presente portaria entram imediatamente em vigor.
+Art. 40.º As disposições da presente portaria entram imediatamente em vigor.
 
 Ministérios do Ultramar e da Saúde e Assistência, 23 de Maio de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia. - O Ministro da Saúde e Assistência, Pedro Mário Soares Martinez.
 
@@ -393,7 +423,7 @@ Tabela das remunerações da mesa provincial e dos júris da delegação em Ango
 
 (Artigos 11.º, 17.º e 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf))](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf)
 
 II
 
@@ -401,7 +431,7 @@ Quadro provisório do pessoal do departamento de apostas mútuas desportivas da 
 
 (Artigo 22.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf))](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf)
 
 III
 
@@ -409,7 +439,7 @@ Quadro privativo do pessoal da delegação em Angola do departamento de apostas 
 
 (Artigo 23.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf))](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/12200/06300634.pdf)
 
 Nota. - Quando a chefia dos serviços da delegação for exercida por um primeiro-oficial, este terá direito a uma gratificação mensal de 850$00. O funcionário encarregado do serviço de tesouraria terá direito a 400$00 mensais de abono para falhas.
 

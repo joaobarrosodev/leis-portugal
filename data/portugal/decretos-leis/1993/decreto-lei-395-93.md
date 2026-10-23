@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/275a00/65146518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/395/1993/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1993-674023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4af52601d0aa7dcf58d9f41dacc95eb4b9eaf570eda6f342c91c69c4eb69da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e636975c75ec05002681e324743f571128e9af542b0525312a68df9c16f7ce6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,73 @@ reuse:
 subjects:
 - Auditor de Justiça
 - Centro de Estudos Judiciários
-- Formação Profissional
 - Concurso
 - Conselho Pedagógico
 - Curso de Formação
+- Estágio de Formação
+- Formação Profissional
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Orgânica
-- Estágio de Formação
 - Ministério Público
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:165851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACO DE RECTIFICAÇÃO 24/94, DA PCM, DE 28 DE FEVEREIRO, PUBLICADA NO DR.IS-A, 49, 2SUPL.\0\
+    , 2SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1992/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1992/02/21/p/dre
+- type: cites
+  target: pt:dre:158598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613937:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:08Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +168,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 13.º, 15.º, 16.º, 18.º, 26.º, 28.º, 29.º, 30.º, 31.º, 32.º, 34.º, 35.º, 36.º, 37.º, 39.º, 40.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 52.º, 55.º e 60.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, com a redacção que lhes foi dada pelos Decretos-Leis n.os [264-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-a-1981-517226), de 3 de Setembro, e [146-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-a-1984-475558), de 9 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º, 15.º, 16.º, 18.º, 26.º, 28.º, 29.º, 30.º, 31.º, 32.º, 34.º, 35.º, 36.º, 37.º, 39.º, 40.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 52.º, 55.º e 60.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, com a redacção que lhes foi dada pelos Decretos-Leis n.os [264-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-a-1981-517226), de 3 de Setembro, e [146-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-a-1984-475558), de 9 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 13.º — [...]
 
@@ -395,7 +434,7 @@ Findo o estágio de iniciação, procede-se à notação e graduação dos audit
 
 Os auditores de justiça excluídos no período de formação inicial não podem concorrer ao Centro de Estudos Judiciários antes de decorridos três anos, salvo se a exclusão ocorrer por força do disposto no artigo 48.º
 
-###### Art. 2.º - 1 - No prazo de seis meses a contar da data de entrada em vigor deste diploma e com carácter excepcional, o Ministro da Justiça declara aberto concurso de ingresso no Centro de Estudos Judiciários, por aviso a publicar no Diário da República, para frequência de curso especial de formação de magistrados do Ministério Público, que se rege pelo disposto nos números seguintes.
+Art. 2.º - 1 - No prazo de seis meses a contar da data de entrada em vigor deste diploma e com carácter excepcional, o Ministro da Justiça declara aberto concurso de ingresso no Centro de Estudos Judiciários, por aviso a publicar no Diário da República, para frequência de curso especial de formação de magistrados do Ministério Público, que se rege pelo disposto nos números seguintes.
 
 2 - Podem candidatar-se ao curso especial de formação os licenciados em Direito que tenham desempenhado as funções de agente do Ministério Público não magistrado, durante os últimos sete anos, por um período de, pelo menos, cinco anos, com a classificação mínima de Bom em inspecção para o efeito solicitada, sendo-lhes assegurado o ingresso no Centro de Estudos Judiciários, com dispensa de testes de aptidão.
 
@@ -415,12 +454,12 @@ b) Um estágio de pré-afectação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 3 de Novembro de 1993.**
+Promulgado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

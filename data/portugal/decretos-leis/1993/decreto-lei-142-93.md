@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20472050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1993-665350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0499c3bd3caa31bceca76fc7d83a7be0e31620441330182e936bcd1f15d98f3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7c48b7aa4925e8ae5a50f3c640babf00f0656bbfb50a6ca8f94a95203fabf4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:432449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL RECT 139/93 DE 30-JUL DR.IS-A [178]SUPL.\08]SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:550429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: Revogado pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
 article_structure:
   article_count: 17
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:41Z'
   warnings: []
   errors: []
 ---
@@ -355,14 +373,14 @@ As funções do órgão responsável pelas actividades de formação do pessoal 
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 19 de Março de 1993.**
+Promulgado em 19 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1993.**
+Referendado em 22 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a00/20472050.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a00/20472050.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20472050.pdf)

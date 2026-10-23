@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/1992/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1992-217699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a98ab9788de9c3ba44db0d4a1b6ece58f1d9859a2401c5687d58d75af1abd0ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4729e0d8f7b32ed66cc9f69e3d5f8a9d774abde7e570e073dd33cec725d64882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Ponte de Vasco da GAMA
-- Lisboa
-- RIO TEJO
-- Ponte
 - ÁREA NON Aedificandi
+- Lisboa
+- Ordenamento do Território
+- Ponte
+- Ponte de Vasco da GAMA
+- RIO TEJO
 relationships:
 - type: amended_by
   target: pt:dre:2308473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669122:por
+  label: "SUBSTITUÍDA A PLANTA ANEXA PELA PUBLICADA EM ANEXO AO DECRETO LEI 363/93, DE 20 DE OUTUBRO, PUBLICADO NO DR.IS-A,\
+    \ 246, DE 931020.\0 931020.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/363-1993-669122
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:50Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +110,9 @@ Assim, e independentemente da necessidade de legislar sobre a transformação do
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Para os efeitos do presente diploma, o traçado preliminar da nova ponte sobre o Tejo em Lisboa e complexo rodoviário a ela associado é o que consta da planta anexa ao presente diploma, que dele faz parte integrante.
+Artigo 1.º Para os efeitos do presente diploma, o traçado preliminar da nova ponte sobre o Tejo em Lisboa e complexo rodoviário a ela associado é o que consta da planta anexa ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º - 1 - Em relação ao conjunto viário referido no artigo anterior, ficam definidas zonas de servidão non aedificandi, com os limites estabelecidos nos números seguintes.
+Art. 2.º - 1 - Em relação ao conjunto viário referido no artigo anterior, ficam definidas zonas de servidão non aedificandi, com os limites estabelecidos nos números seguintes.
 
 2 - Desde a entrada em vigor do presente diploma até à aprovação da planta parcelar do projecto de execução, a zona de servidão terá a extensão de 200 m para cada lado do eixo do traçado na margem sul do rio Tejo e de 100 m para cada lado do eixo do traçado na margem norte do rio Tejo, incluindo, em ambos os casos, os ramos dos nós rodoviários.
 
@@ -119,17 +124,17 @@ b) Instalações de carácter industrial ou similar, nomeadamente fábricas, gar
 
 4 - A planta a que se refere o número anterior é publicada em conjunto com as bases da concessão.
 
-###### Art. 3.º Nas zonas de servidão a que se refere o artigo anterior são proibidas as acções que se traduzam em operações de loteamento, obras de urbanização, construção, reconstrução ou ampliação de edifícios: aterros, escavações ou perfurações e quaisquer outras obras que provoquem alterações do estado físico dos terrenos.
+Art. 3.º Nas zonas de servidão a que se refere o artigo anterior são proibidas as acções que se traduzam em operações de loteamento, obras de urbanização, construção, reconstrução ou ampliação de edifícios: aterros, escavações ou perfurações e quaisquer outras obras que provoquem alterações do estado físico dos terrenos.
 
-###### Art. 4.º São nulos os actos praticados em violação do disposto no artigo anterior.
+Art. 4.º São nulos os actos praticados em violação do disposto no artigo anterior.
 
-###### Art. 5.º Verificada a violação ao disposto no presente diploma, deve a Junta Autónoma de Estradas, a Administração do Porto de Lisboa ou os órgãos legalmente competentes do município onde se situe o imóvel proceder ao imediato embargo das obras e, se for caso disso, à demolição de qualquer construção aí implantada, imputando-se os respectivos encargos ao infractor, sem prejuízo da aplicação das sanções previstas no presente diploma ou noutros igualmente aplicáveis.
+Art. 5.º Verificada a violação ao disposto no presente diploma, deve a Junta Autónoma de Estradas, a Administração do Porto de Lisboa ou os órgãos legalmente competentes do município onde se situe o imóvel proceder ao imediato embargo das obras e, se for caso disso, à demolição de qualquer construção aí implantada, imputando-se os respectivos encargos ao infractor, sem prejuízo da aplicação das sanções previstas no presente diploma ou noutros igualmente aplicáveis.
 
-###### Art. 6.º O GATTEL fornecerá às câmaras municipais e demais entidades competentes nos domínios do ordenamento do território, ambiente e recursos naturais e da administração portuária, no prazo de 15 dias contado da entrada em vigor do presente diploma, os elementos, designadamente topográficos, à escala adequada, que permitam a rigorosa identificação da zona de servidão non aedificandi definida pelo presente diploma.
+Art. 6.º O GATTEL fornecerá às câmaras municipais e demais entidades competentes nos domínios do ordenamento do território, ambiente e recursos naturais e da administração portuária, no prazo de 15 dias contado da entrada em vigor do presente diploma, os elementos, designadamente topográficos, à escala adequada, que permitam a rigorosa identificação da zona de servidão non aedificandi definida pelo presente diploma.
 
-###### Art. 7.º Serão objecto de expropriação, nos termos da legislação aplicável, os bens e direitos que se situem ou incidam sobre as áreas necessárias à execução das obras.
+Art. 7.º Serão objecto de expropriação, nos termos da legislação aplicável, os bens e direitos que se situem ou incidam sobre as áreas necessárias à execução das obras.
 
-###### Art. 8.º - 1 - Quando o facto não seja punível mais gravemente ao abrigo de outra disposição legal, a violação do disposto no artigo 3.º constitui contra-ordenação, punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo, no caso de se tratar de pessoa colectiva.
+Art. 8.º - 1 - Quando o facto não seja punível mais gravemente ao abrigo de outra disposição legal, a violação do disposto no artigo 3.º constitui contra-ordenação, punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo, no caso de se tratar de pessoa colectiva.
 
 2 - As contra-ordenações podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -145,18 +150,18 @@ b) A interdição do exercício, até ao máximo de dois anos, da profissão ou 
 
 6 - O produto das coimas reverte em 60% para o Estado e em 40% para a entidade que instruir o processo.
 
-###### Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Carlos Alberto Diogo Soares Borrego - João Prates Bebiano.
 
-**Promulgado em 14 de Outubro de 1992.**
+Promulgado em 14 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1992.**
+Referendado em 16 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/250a00/50035005.pdf))](https://files.diariodarepublica.pt/1s/1992/10/250a00/50035005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/250a00/50035005.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1993/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1993-682989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81834c7bbd77a0fb8a0066e47a64d7eb2aec4c5fb010fe43d1bb7cd7096f3f3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aedadff860a8c5e2f22e484c4c7d78f1ff826d02202836c9753d9806f20191c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/184/1992/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/184/1992/08/22/p/dre
+- type: cites
+  target: pt:dre:258131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:51Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +110,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º e 20.º do [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131), de 22 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º e 20.º do [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131), de 22 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - O Conselho Nacional de Reabilitação é composto pelo secretário nacional, que preside, e pelos vogais nomeados nos termos do número seguinte.
 
@@ -150,7 +158,7 @@ p) ...
 
 8 - ...
 
-###### Art. 20.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontram providos em lugares do quadro de pessoal do SNR transitam para o quadro de pessoal a que se refere o n.º 1 do artigo 18.º de acordo com as seguintes regras:
+Art. 20.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontram providos em lugares do quadro de pessoal do SNR transitam para o quadro de pessoal a que se refere o n.º 1 do artigo 18.º de acordo com as seguintes regras:
 
 a) ...
 
@@ -162,16 +170,16 @@ b) ...
 
 4 - Os concursos para provimento de lugares do quadro realizados ou em curso à data da entrada em vigor do presente diploma manter-se-ão pelos prazos neles previstos, até ao preenchimento dos lugares vagos a que se destinam.
 
-###### Art. 2.º O presente diploma reporta os seus efeitos à data de entrada em vigor do [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131), de 22 de Agosto.
+Art. 2.º O presente diploma reporta os seus efeitos à data de entrada em vigor do [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131), de 22 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

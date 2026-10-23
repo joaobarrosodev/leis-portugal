@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/1992/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1992-522996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d211338c8e041de2ac95f4f8f6a45b1997fc297a2c8507eb711359e1672f8ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec631868d7db04a7b208069d0221dcd20b0fb5a42790a1c55be4277d3000e83a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agente Transitário
 - Alfândega
 - CEE
 - Despachante Oficial
-- Importação
 - Exportação
+- Importação
 - Reforma Aduaneira
 - Regulamento CE
-- Agente Transitário
 relationships:
 - type: amended_by
   target: pt:dre:623039:por
@@ -82,16 +82,21 @@ relationships:
   target: celex:31985R3632
   label: null
   source: http://data.europa.eu/eli/reg/1985/3632/oj
+- type: repealed_by
+  target: pt:dre:623039:por
+  label: "Revogado o art. 2º pelo DEC LEI.280/92.1992.12.18.MF, DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1992-623039
+  date: '1992-12-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:26Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +115,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 426.º e 430.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 426.º e 430.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 426.º A solicitação de qualquer modalidade de despacho de mercadorias, bem como a promoção de quaisquer documentos que lhe digam respeito, compete exclusivamente:
+Art. 426.º A solicitação de qualquer modalidade de despacho de mercadorias, bem como a promoção de quaisquer documentos que lhe digam respeito, compete exclusivamente:
 
 1.º Aos donos ou consignatários das mercadorias, em relação a estas, quer se apresentem pessoalmente, quer se façam representar por seus bastantes procuradores, independentemente de estes actuarem ocasionalmente ou a título profissional;
 
@@ -122,20 +127,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4.º ...
 
-###### Art. 430.º Não podem despachar os comerciantes falidos não reabilitados e todas as pessoas indicadas nos artigos anteriores sobre quem impenda a interdição do exercício da actividade que consiste em fazer declarações aduaneiras.
+Art. 430.º Não podem despachar os comerciantes falidos não reabilitados e todas as pessoas indicadas nos artigos anteriores sobre quem impenda a interdição do exercício da actividade que consiste em fazer declarações aduaneiras.
 
-###### Art. 2.º Aos procuradores que solicitem despacho de mercadorias, bem como aos representantes de quem exerça aquela actividade a título profissional, que não sejam despachantes oficiais, despachantes privativos ou agentes aduaneiros, é aplicável o disposto no artigo 487.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.
+Art. 2.º Aos procuradores que solicitem despacho de mercadorias, bem como aos representantes de quem exerça aquela actividade a título profissional, que não sejam despachantes oficiais, despachantes privativos ou agentes aduaneiros, é aplicável o disposto no artigo 487.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.
 
-###### Art. 3.º São revogados o artigo 428.º e o § 4.º do artigo 433.º da Reforma Aduaneira, bem como o n.º 4 do artigo 7.º do Decreto-Lei n.º 43/83, de 25 de Janeiro.
+Art. 3.º São revogados o artigo 428.º e o § 4.º do artigo 433.º da Reforma Aduaneira, bem como o n.º 4 do artigo 7.º do Decreto-Lei n.º 43/83, de 25 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1992. - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

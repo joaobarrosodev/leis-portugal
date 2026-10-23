@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1993-680638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db6a447170b2cbd78619d9d273119ea31e93d25140b204c1b28c188fc4aeddaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 691de552a10a273ae6c857ba02b32ff9a9fd2e17ba5d023a73ed799870de3a3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conselho Administrativo
 - Conselho Nacional de Agricultura Pescas e Alimentação
-- Ministério da Agricultura
-- Secretaria Geral
 - Gabinete para os Assuntos Agrícolas Comunitários
+- Ministério da Agricultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -84,16 +84,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:58Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +224,9 @@ b) Repartição de Orçamento e Contabilidade;
 
 c) Repartição Administrativa.
 
-###### Artigo 8.º — Divisão de Controlo Orçamental
+###### Artigo 8.º
+
+##### Divisão de Controlo Orçamental
 
 À Divisão de Controlo Orçamental compete:
 
@@ -300,7 +306,9 @@ b) Divisão de Formação Profissional;
 
 c) Repartição de Pessoal.
 
-###### Artigo 12.º — Divisão de Planeamento e Gestão de Recursos Humanos
+###### Artigo 12.º
+
+##### Divisão de Planeamento e Gestão de Recursos Humanos
 
 À Divisão de Planeamento e Gestão de Recursos Humanos compete:
 
@@ -320,7 +328,9 @@ g) Estabelecer normas sobre condições ambientais de higiene e segurança no tr
 
 h) Ocupar-se dos demais aspectos técnicos de gestão do pessoal da Secretaria-Geral que lhe forem cometidos.
 
-###### Artigo 13.º — Divisão de Formação Profissional
+###### Artigo 13.º
+
+##### Divisão de Formação Profissional
 
 À Divisão de Formação Profissional compete:
 
@@ -382,7 +392,9 @@ d) Divisão de Cooperação Bilateral;
 
 e) Divisão de Apoio Técnico.
 
-###### Artigo 16.º — Divisão de Política Agrícola Comunitária
+###### Artigo 16.º
+
+##### Divisão de Política Agrícola Comunitária
 
 À Divisão de Política Agrícola Comunitária compete:
 
@@ -394,7 +406,9 @@ c) Acompanhar e enquadrar a actuação do Ministério em iniciativas ligadas à 
 
 d) Prestar apoio ao vogal do Ministério na Comissão Interministerial para a Comunidade Europeia na preparação da participação das respectivas reuniões.
 
-###### Artigo 17.º — Divisão de Mercado Interno
+###### Artigo 17.º
+
+##### Divisão de Mercado Interno
 
 À Divisão de Mercado Interno compete:
 
@@ -406,7 +420,9 @@ c) Promover a execução e coordenar as acções necessárias às adaptações l
 
 d) Prestar apoio ao vogal do Ministério na Comissão Interministerial para a Comunidade Europeia na preparação da participação nas respectivas reuniões.
 
-###### Artigo 18.º — Divisão de Política Externa
+###### Artigo 18.º
+
+##### Divisão de Política Externa
 
 À Divisão de Política Externa compete:
 
@@ -424,7 +440,9 @@ f) Prestar esclarecimentos e pareceres solicitados, em colaboração com os rest
 
 g) Acompanhar e informar sobre a evolução das várias formas de relações internacionais com implicação na área agrícola.
 
-###### Artigo 19.º — Divisão de Cooperação Bilateral
+###### Artigo 19.º
+
+##### Divisão de Cooperação Bilateral
 
 À Divisão de Cooperação Bilateral compete:
 
@@ -436,7 +454,9 @@ c) Coordenar a participação dos serviços e institutos dependentes do Ministé
 
 d) Informar sobre os assuntos relativos às trocas internacionais, cooperação e desenvolvimento no âmbito do sector agrícola.
 
-###### Artigo 20.º — Divisão de Apoio Técnico
+###### Artigo 20.º
+
+##### Divisão de Apoio Técnico
 
 À Divisão de Apoio Técnico compete:
 
@@ -462,7 +482,9 @@ b) Divisão de Documentação;
 
 c) Divisão de Organização e Informática.
 
-###### Artigo 22.º — Divisão de Informação e Divulgação
+###### Artigo 22.º
+
+##### Divisão de Informação e Divulgação
 
 À Divisão de Informação e Divulgação compete:
 
@@ -474,7 +496,9 @@ c) Assegurar o intercâmbio e a participação de outras entidades nas acções 
 
 d) Apoiar os restantes serviços com vista à implementação de um esquema de actuação integrado e coerente.
 
-###### Artigo 23.º — Divisão de Documentação
+###### Artigo 23.º
+
+##### Divisão de Documentação
 
 À Divisão de Documentação compete:
 
@@ -484,7 +508,9 @@ b) Assegurar o intercâmbio com outros centros nacionais, comunitários e intern
 
 c) Gerir o centro de documentação central.
 
-###### Artigo 24.º — Divisão de Organização e Informática
+###### Artigo 24.º
+
+##### Divisão de Organização e Informática
 
 À Divisão de Organização e Informática compete:
 
@@ -494,7 +520,9 @@ b) Estudar, divulgar e acompanhar, a nível do Ministério, a implementação de
 
 c) Assegurar e coordenar o estudo, a definição e a implementação de soluções informáticas a nível do Ministério e a gestão dos recursos informáticos da Secretaria-Geral.
 
-###### Artigo 25.º — Divisão de Apoio Jurídico
+###### Artigo 25.º
+
+##### Divisão de Apoio Jurídico
 
 1 - À Divisão de Apoio Jurídico, directamente dependente do secretário-geral, compete:
 
@@ -522,7 +550,9 @@ l) Prestar esclarecimentos e pareceres, quando solicitados, em matérias de dire
 
 2 - Para o exercício das suas competências a Divisão de Apoio Jurídico pode requisitar aos serviços e institutos dependentes do Ministério os processos e os elementos que considere necessários.
 
-###### Artigo 26.º — Divisão de Relações Públicas
+###### Artigo 26.º
+
+##### Divisão de Relações Públicas
 
 À Divisão de Relações Públicas compete:
 
@@ -604,16 +634,16 @@ Os concursos de pessoal abertos pela Secretaria-Geral ou pelo Gabinete para os A
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 19 de Março de 1993.**
+Promulgado em 19 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1993.**
+Referendado em 22 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/16451651.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/16451651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/16451651.pdf)

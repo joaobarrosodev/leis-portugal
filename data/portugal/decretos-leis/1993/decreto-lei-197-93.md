@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/1993/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1993-283768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 648668e98875baab0139b14bccff65d20bc5188fa52a5637f2234f503b067210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c25a553fe1205b889c002a305c48a365dea0b65739d8ea89e16c3e182d34ef9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Circulação de Mercadorias
 - Definição de Competências
 - GNR
-- Circulação de Mercadorias
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:52Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +100,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 12.º do [Decreto-Lei n.º 45/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1989-611519), de 11 de Fevereiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 12.º do [Decreto-Lei n.º 45/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1989-611519), de 11 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - A fiscalização do cumprimento do presente diploma compete à Direcção-Geral das Contribuições e Impostos, à Direcção-Geral das Alfândegas e à Guarda Fiscal, cabendo também a esta última, conjuntamente com as restantes autoridades, designadamente a Guarda Nacional Republicana e a Polícia de Segurança Pública, prestar toda a colaboração que lhes for solicitada para o efeito.
+Art. 12.º - 1 - A fiscalização do cumprimento do presente diploma compete à Direcção-Geral das Contribuições e Impostos, à Direcção-Geral das Alfândegas e à Guarda Fiscal, cabendo também a esta última, conjuntamente com as restantes autoridades, designadamente a Guarda Nacional Republicana e a Polícia de Segurança Pública, prestar toda a colaboração que lhes for solicitada para o efeito.
 
 2 - ...
 
@@ -112,12 +116,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo.
 
-**Promulgado em 10 de Maio de 1993.**
+Promulgado em 10 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1993.**
+Referendado em 13 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

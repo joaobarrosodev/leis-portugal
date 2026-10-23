@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/062a00/12031208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/1993/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1993-635224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1833f647407ffef8d7b00f2a81a332fe1f464e8794a0b20a7eca8d45c6ebbbbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecd564163d9082c001600b5e347ad2e1c2238ba6a393579fc45776f5148cd7d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Estatuto
 - Região de Turismo do Centro
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:249827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229102:por
+  label: "Alterados os arts. 2.º e 12.º dos Estatutos da Região de Turismo do Centro pelo DEC LEI.325/98.1998.10.30.MECO DR.IS-A\
+    \ [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1998-229102
+  date: '1998-10-30'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrada no Ministério do Turismo a Região de Turismo do Centro, cujos estatutos constam do presente diploma, alterado\
+    \ pelo Dec Lei 325/98 de 30-Out, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/1991/08/09/p/dre
   label: null
@@ -85,16 +97,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680630:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249827:por
+  label: "Revogado, na redacção do Dec Lei 325/98 de 30-Out, pelo DEC LEI.67/2008.10.04.2008.MEI, DR.IS [71] de 10.04.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2008-249827
+  date: '2008-04-10'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:43Z'
   warnings: []
   errors: []
 ---
@@ -111,21 +157,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos da Região de Turismo do Centro, em anexo ao presente diploma, do qual fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos da Região de Turismo do Centro, em anexo ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 2.º São revogadas as Portarias n.os [1039/82](https://diariodarepublica.pt/dr/detalhe/portaria/1039-1982-377100), de 13 de Novembro, [867/83](https://diariodarepublica.pt/dr/detalhe/portaria/867-1983-439610), de 31 de Agosto, e [207/88](https://diariodarepublica.pt/dr/detalhe/portaria/207-1988-286308), de 31 de Março.
+Art. 2.º São revogadas as Portarias n.os [1039/82](https://diariodarepublica.pt/dr/detalhe/portaria/1039-1982-377100), de 13 de Novembro, [867/83](https://diariodarepublica.pt/dr/detalhe/portaria/867-1983-439610), de 31 de Agosto, e [207/88](https://diariodarepublica.pt/dr/detalhe/portaria/207-1988-286308), de 31 de Março.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Manuel Dias Loureiro - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira;
 
-**Promulgado em Setúbal em 5 de Fevereiro de 1993.**
+Promulgado em Setúbal em 5 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Fevereiro de 1993.**
+Referendado em 24 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da Região de Turismo do Centro
 

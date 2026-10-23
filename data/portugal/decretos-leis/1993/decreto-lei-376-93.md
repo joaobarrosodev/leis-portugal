@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/259a00/62076211.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/376/1993/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1993-665159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b4467184ef1782ba295cf639446c0cf4c4f697e0332fc38cccea9abd22ed4db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ef2c76452764e2038328e2df3e50dfabc74276346396bba96fb933018b370e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Comissão Vitivinícola da Região Demarcada do DÃO
-- Denominação de Origem
 - Definição de Competências
+- Denominação de Origem
 - Estatuto
 - Região Demarcada do DÃO
 - Vinha
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291652:por
+  label: "Alterada a al a) do nº 3 do art. 11º do Estatuto da Região Vitivinícola do Dão pelo DEC LEI.103/2000.2000.06.02.MADRP,DR.IS-A\
+    \ [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2000-291652
+  date: '2000-06-02'
 - type: cites
   target: celex:31986R2707
   label: null
@@ -90,16 +96,32 @@ relationships:
   target: celex:31992R2333
   label: null
   source: http://data.europa.eu/eli/reg/1992/2333/oj
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogados os n.ºs 2 e 3 do art. 3.º, pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogados os num 2 e 3 do art 3º pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação
+    da legislação prevista nos arts 5º a 11º do referido diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 16
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 15
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:43Z'
   warnings: []
   errors: []
 ---
@@ -120,21 +142,21 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Lei n.º 8/85, de 4 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Região Vitivinícola do Dão, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto da Região Vitivinícola do Dão, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional do Dão - Federação dos Vinicultores do Dão (CVRD - FVD) disciplinar a produção dos vinhos com direito à denominação a que se refere o Estatuto mencionado no artigo 1.º, a aplicação da respectiva regulamentação, a vigilância pelo cumprimento da mesma, bem como o fomento da qualidade e a promoção dos vinhos que beneficiem daquela denominação.
+Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional do Dão - Federação dos Vinicultores do Dão (CVRD - FVD) disciplinar a produção dos vinhos com direito à denominação a que se refere o Estatuto mencionado no artigo 1.º, a aplicação da respectiva regulamentação, a vigilância pelo cumprimento da mesma, bem como o fomento da qualidade e a promoção dos vinhos que beneficiem daquela denominação.
 
 2 - Compete à CVRD - FVD realizar vistorias e proceder à colheita de amostras em armazéns ou instalações de vinificação e selagem dos produtos, podendo ainda ter acesso a toda a documentação que permita verificar a obediência aos preceitos comunitários e nacionais relativos aos produtos vínicos da região com direito à denominação de origem «Dão».
 
 3 - Em caso de infracção ao disposto no Estatuto anexo, pode a CVRD - FVD proceder disciplinarmente em relação aos agentes económicos nela inscritos, de acordo com o estatuído no seu regulamento interno, sem prejuízo de a infracção poder ser configurada como crime ou contra-ordenação.
 
-###### Art. 3.º - 1 - Os vinhos produzidos no interior da Região Demarcada do Dão ficam sujeitos às taxas previstas na lei.
+Art. 3.º - 1 - Os vinhos produzidos no interior da Região Demarcada do Dão ficam sujeitos às taxas previstas na lei.
 
 2 - Das receitas legalmente afectas à CVRD - FVD, relativas aos vinhos com direito à denominação de origem «Dão», é deduzida uma percentagem, a fixar por portaria do Ministro da Agricultura, que constitui receita do Instituto da Vinha e do Vinho (IVV).
 
 3 - Das receitas legais do IVV, relativas aos vinhos e outros produtos vínicos sem direito a denominação de origem, mas em relação aos quais a CVRD - FVD preste serviços, nos termos do artigo 3.º do Decreto-Lei n.º 102/93, de 2 de Abril, o IVV deverá celebrar um protocolo com a CVRD - FVD que defina as modalidades dos serviços a prestar, bem como a contrapartida a atribuir a esta entidade.
 
-###### Art. 4.º A CVRD - FVD está subordinada à tutela do Ministro da Agricultura, ao qual compete:
+Art. 4.º A CVRD - FVD está subordinada à tutela do Ministro da Agricultura, ao qual compete:
 
 a) Dirigir instruções no âmbito da política vitivinícola;
 
@@ -142,7 +164,7 @@ b) Solicitar quaisquer informações ou ordenar inspecções e inquéritos ao se
 
 c) Apreciar o orçamento e contas de exercício.
 
-###### Art. 5.º São revogados:
+Art. 5.º São revogados:
 
 a) O Decreto-Lei n.º 24516, de 28 de Setembro de 1934, o Decreto n.º 24642, de 10 de Novembro de 1934, o Decreto n.º 25137, de 16 de Março de 1935, a Portaria n.º 8078, de 13 de Abril de 1935, o Decreto-Lei n.º 32274 e o Decreto n.º 32275, ambos de 19 de Setembro de 1942, a Portaria n.º 720/71, de 23 de Dezembro, o Decreto-Lei n.º 235/78, de 17 de Agosto, e a Portaria n.º 269/84, de 28 de Abril;
 
@@ -152,15 +174,15 @@ c) A parte da Portaria n.º 195/85, de 10 de Abril, que se refere aos vinhos da 
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1993. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto da Região Vitivinícola do Dão
 
@@ -286,7 +308,9 @@ Encruzado num mínimo de 15%, Bical (Borrado-das-Moscas), Cercial, Malvasia-Fina
 
 4 - Quando tal se justifique e particularmente no caso de na mesma adega serem também elaborados vinhos sem direito à denominação de origem «Dão», a CVRD - FVD estabelecerá no seu regulamento interno as condições em que decorrerá a vinificação, devendo os diferentes vinhos ser conservados em secções separadas, em vasilhas com a devida identificação e onde constem, nomeadamente, as indicações relativas ao volume da vasilha, ao tipo, à espécie e à denominação do vinho contido, bem como ao ano de colheita.
 
-###### Artigo 8.º — Título alcoométrico volúmico mínimo
+###### Artigo 8.º
+
+## Título alcoométrico volúmico mínimo
 
 Os mostos destinados aos vinhos com direito à denominação de origem controlada Dão devem possuir o seguinte título alcoométrico volúmico mínimo natural em potência:
 
@@ -400,4 +424,4 @@ Os vinhos a que se refere o presente Estatuto só podem ser postos em circulaç�
 
 2 - Os rótulos a utilizar têm de respeitar as normas legais aplicáveis e as definidas pela CVRD - FVD, a quem serão previamente apresentados, para aprovação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/259a00/62076211.pdf))](https://files.diariodarepublica.pt/1s/1993/11/259a00/62076211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/259a00/62076211.pdf)

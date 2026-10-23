@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/1992/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1992-408774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ac8c8105aee2a227e010052cbd3d37643a640c572bbdcf462bb83dd19288353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7e2cab82aee69fb2d3f1524b67bb6d57f51ac85ce9e0e60fc2b11bf674d378b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
+- type: cites
+  target: pt:dre:639336:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:00Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +105,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Administrador liquidatário
 
@@ -111,16 +115,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - ...
 
-###### Art. 2.º O presente diploma produz efeitos desde 12 de Novembro de 1992.
+Art. 2.º O presente diploma produz efeitos desde 12 de Novembro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1992.**
+Referendado em 15 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

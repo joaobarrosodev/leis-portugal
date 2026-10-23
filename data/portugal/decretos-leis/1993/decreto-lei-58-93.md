@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/1993/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24fbb2eb3522bb51ab96e19cfdd2d3a9991a7532c32be643a0ab78ffb120b790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e00d2a6314825a33dc6444ff4c59a6e57201df7a0fa9a8e084f195a0e31c400d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,64 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcobaça
-- Lares
 - Centro de Reabilitação de Paralisia Cerebral
 - Centro Regional de Segurança Social
-- Lisboa
-- Integração de Serviços
-- Leiria
-- Mansão de Santa Maria de Marvila
 - Coimbra
+- Integração de Serviços
+- Lares
+- Leiria
+- Lisboa
+- Mansão de Santa Maria de Marvila
+- Porto
 - Recolhimentos da Capital
 - Transferência Patrimonial
-- Porto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663299:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:13Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +145,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São integrados orgânica e funcionalmente:
+Artigo 1.º - 1 - São integrados orgânica e funcionalmente:
 
 a) No Centro Regional de Segurança Social de Coimbra, o Centro de Reabilitação de Paralisia Cerebral de Coimbra;
 
@@ -121,9 +157,9 @@ d) No Centro Regional de Segurança Social do Porto, o Centro de Reabilitação 
 
 2 - As atribuições e competências, bem como os direitos e obrigações e, ainda, os recursos financeiros e os meios humanos e patrimoniais dos estabelecimentos e serviços integrados nos termos do presente decreto-lei são transferidos para os respectivos centros regionais de segurança social.
 
-###### Art. 2.º Mantêm-se em vigor os quadros de pessoal dos estabelecimentos e serviços integrados nos centros regionais de segurança social por força do presente diploma legal, até que se proceda à revisão dos quadros dos diversos centros regionais envolvidos.
+Art. 2.º Mantêm-se em vigor os quadros de pessoal dos estabelecimentos e serviços integrados nos centros regionais de segurança social por força do presente diploma legal, até que se proceda à revisão dos quadros dos diversos centros regionais envolvidos.
 
-###### Art. 3.º São revogados:
+Art. 3.º São revogados:
 
 a) O [Decreto-Lei n.º 403/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1987-406109), de 31 de Dezembro;
 
@@ -135,16 +171,16 @@ d) Os n.os 2) e 3) do n.º I da [Portaria n.º 197/81](https://diariodarepublica
 
 e) O artigo 49.º da [Portaria n.º 64/87](https://diariodarepublica.pt/dr/detalhe/portaria/64-1987-663299), de 29 de Janeiro.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em Setúbal em 5 de Fevereiro de 1993.**
+Promulgado em Setúbal em 5 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1993.**
+Referendado em 9 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

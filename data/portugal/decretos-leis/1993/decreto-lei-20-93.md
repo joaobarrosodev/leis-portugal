@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/021a00/02940295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/1993/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1993-601285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8307331101eee93a3cc241b71dd4c839e09cdb9d2edcf7ddeb46ab4d4d1d8de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4ce9ffd45d36764a76879db1f1b80bd8e21b98569e027d6204dda7308b282c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,41 @@ relationships:
   target: pt:dre:522813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492203:por
+  label: "Alterado o art. 10º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.257/96.31.12.1996.MJ, DR.IS-A [302] de 31.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1996-492203
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o art. 10º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522842:por
+  label: "Revogado pelo DEC LEI.129/98.1998.05.13.MJ, DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1998-522842
+  date: '1998-05-13'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:57Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +132,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 10.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 10.º — [...]
 
@@ -137,9 +162,9 @@ g) ...
 
 6 - ...
 
-###### Art. 2.º O artigo 3.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), de 3 de Fevereiro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), de 3 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -163,12 +188,12 @@ g) ...
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 6 de Janeiro de 1993.**
+Promulgado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1993.**
+Referendado em 8 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

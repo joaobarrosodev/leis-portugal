@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19520-1962-155580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ae92e8ac68af6dfd45c1d7e20d98e0d1d9ae2cb6e609158e4b83ab2cff5240
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b01f0012b358471c242bbd140ceb27835bc5b8d9dd16a099cd716a79ada26d11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:170081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:08Z'
   warnings: []
   errors: []
 ---
@@ -117,11 +125,11 @@ I) Pessoal militar especializado em pára-quedismo
 
 A) Oficiais especializados em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 B) Sargentos e praças especializados em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 II) Pessoal militar não especializado em pára-quedismo
 
@@ -129,22 +137,22 @@ II) Pessoal militar não especializado em pára-quedismo
 
 A) Oficiais não especializados em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 B) Sargentos e praças não especializados em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 III) Pessoal equiparado a militar especializado em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 IV) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 V) Pessoal civil assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27100/15711573.pdf)
 
 Presidência do Conselho e Ministério do Ultramar, 24 de Novembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

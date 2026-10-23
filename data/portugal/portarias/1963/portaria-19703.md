@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19703-1963-193643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d24de3d0bf49127dc74e14e448f73938ddc04e82d1c9fe639c06b1b9e63e242
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d1e5fbda8b69cc06df82bd77ac5c2a18bbaf4ee74513e1934a15b9da55f4753
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orçamento
+- Reforço de Verbas
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:58Z'
   warnings: []
   errors: []
 ---
@@ -87,13 +95,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 289.º «Deslocações do pessoal»:
+Artigo 289.º «Deslocações do pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 10000$00
 
 N.º 4), alínea a), 1.º «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 5000$00
 
-###### Artigo 290.º «Diversas despesas»:
+Artigo 290.º «Diversas despesas»:
 
 N.º 4), alínea b) «Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de férias» ... 55000$00
 

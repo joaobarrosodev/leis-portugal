@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/1993/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1993-282518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0e167f6c855ecf31578bd157ff4c45f5a4410978ef03308dba9f066a1494371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d2998b63ee9da5c80ea067aebce1242c603b77d6ac39f7716475b4a72344c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Pessoal de Saúde
-- Médico
 - Dentista
-- Equivalência de Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Habilitações Literárias
 - Livre Prestação de Serviços
+- Médico
 - Parteira
 - Pessoal de Enfermagem
+- Pessoal de Saúde
 - Trabalhador Comunitário
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:652280:por
+  label: "Aditados os n.ºs 3 e 4 ao art. 2.º, os n.ºs 3 e 4 ao art. 9.º, e os n.ºs 1, 2 e 3 ao art. 11.º e substituído pelo\
+    \ Anexo II do Dec Lei 333/87, de 01-Out, pelo DEC LEI.170/2003.2003.08.01.MS DR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2003-652280
+  date: '2003-08-01'
+- type: amended_by
+  target: pt:dre:652698:por
+  label: "É substituído o anexo II ao Dec Lei 332/87, de 01-Out, na redacção do Dec Lei 21/92, de 08-Fev e do presente diploma,\
+    \ pelo DEC LEI.175/2003.2003.08.02.MS DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2003-652698
+  date: '2003-08-02'
+- type: amended_by
+  target: pt:dre:652701:por
+  label: "É substituído o anexo ao Dec Lei 327/87, de 02-Set, na redacção do presente diploma, pelo DEC LEI.174/2003.2003.08.02.MS\
+    \ DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2003-652701
+  date: '2003-08-02'
+- type: amended_by
+  target: pt:dre:653500:por
+  label: "Alterado o nº 2 do art 3º e aditados os nºs 3 e 4, aditados os nºs 2 e 3 ao art 2º, o nº 5 ao art 5º, os nºs 3 e\
+    \ 4 ao art 11º e os nºs 1, 2 e 3 ao art 14º e substituídos os anexos I e II do Dec Lei 326/87 de 01-Set, alterado pelo\
+    \ presente diploma, pelo DEC LEI.177/2003.2003.08.05.MS, DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2003-653500
+  date: '2003-08-05'
 - type: cites
   target: celex:31975L0362
   label: null
@@ -125,16 +150,21 @@ relationships:
   target: celex:31990L0658
   label: null
   source: http://data.europa.eu/eli/dir/1990/658/oj
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:36Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +183,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É revogado o n.º 3) da alínea a) do anexo I ao Decreto-Lei n.º 326/87, de 1 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 35/92, de 14 de Março.
+Artigo 1.º - 1 - É revogado o n.º 3) da alínea a) do anexo I ao Decreto-Lei n.º 326/87, de 1 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 35/92, de 14 de Março.
 
 2 - Os artigos 4.º e 5.º do Decreto-Lei n.º 326/87, de 1 de Setembro, alterado pelo Decreto-Lei n.º 35/92, de 14 de Março, passam a ter a seguinte redacção:
 
@@ -185,7 +215,7 @@ b) Permitam o exercício como especialista da actividade em causa em todo o terr
 
 4 - Poderá, todavia, exigir-se que os diplomas, certificados e outros títulos referidos no número anterior sejam acompanhados de um atestado passado pelas autoridades competentes, comprovativo do exercício, como especialista, da actividade em causa durante um período equivalente ao dobro da diferença existente entre a duração da formação especializada no território alemão e a duração mínima da formação estabelecida na Directiva n.º [75/363/CEE](https://data.europa.eu/eli/dir/1975/363/oj?locale=pt), quando aqueles não correspondam a uma formação com a duração mínima da estabelecida nos artigos 4.º e 5.º da Directiva n.º [75/363/CEE](https://data.europa.eu/eli/dir/1975/363/oj?locale=pt).
 
-###### Art. 2.º - 1 - É revogado o segundo parágrafo da alínea a) do anexo II ao Decreto-Lei n.º 332/87, de 1 de Outubro, alterado pelo Decreto-Lei n.º 21/92, de 8 de Fevereiro.
+Art. 2.º - 1 - É revogado o segundo parágrafo da alínea a) do anexo II ao Decreto-Lei n.º 332/87, de 1 de Outubro, alterado pelo Decreto-Lei n.º 21/92, de 8 de Fevereiro.
 
 2 - O artigo 3.º do Decreto-Lei n.º 332/87, de 1 de Outubro, alterado pelo Decreto-Lei n.º 21/92, de 8 de Fevereiro, passa a ter a seguinte redacção:
 
@@ -203,7 +233,7 @@ b) Facultem o exercício das actividades de enfermeiro responsável por cuidados
 
 c) Sejam acompanhados de um atestado passado pelas autoridades competentes, comprovativo de que os interessados se dedicaram, efectiva e licitamente, na Alemanha, às actividades de enfermeiro responsável por cuidados gerais durante, pelo menos, três dos cinco anos que precederam a emissão do atestado, devendo tais actividades ter incluído a responsabilidade total pela programação, organização e administração dos cuidados de enfermagem ao doente.
 
-###### Art. 3.º - 1 - É revogado o n.º 2) da alínea a) do anexo ao Decreto-Lei n.º 327/87, de 2 de Setembro.
+Art. 3.º - 1 - É revogado o n.º 2) da alínea a) do anexo ao Decreto-Lei n.º 327/87, de 2 de Setembro.
 
 2 - O artigo 3.º do Decreto-Lei n.º 327/87, de 2 de Setembro, alterado pelo Decreto-Lei n.º 33/92, de 5 de Março, passa a ter a seguinte redacção:
 
@@ -221,7 +251,7 @@ b) Facultem o exercício das actividades de médico dentista em todo o territór
 
 c) Sejam acompanhados de um atestado passado pelas autoridades competentes, comprovativo de que os interessados se dedicaram, efectiva e licitamente, na Alemanha, às actividades em causa durante, pelo menos, três anos consecutivos dos cinco que precederam a emissão do atestado.
 
-###### Art. 4.º - 1 - É revogado o segundo parágrafo da alínea a) do anexo II do Decreto-Lei n.º 333/87, de 1 de Outubro, alterado pelo Decreto-Lei n.º 15/92, de 4 de Fevereiro.
+Art. 4.º - 1 - É revogado o segundo parágrafo da alínea a) do anexo II do Decreto-Lei n.º 333/87, de 1 de Outubro, alterado pelo Decreto-Lei n.º 15/92, de 4 de Fevereiro.
 
 2 - O artigo 3.º do Decreto-Lei n.º 333/87, de 1 de Outubro, alterado pelo Decreto-Lei n.º 15/92, de 4 de Fevereiro, passa a ter a seguite redacção:
 
@@ -249,12 +279,12 @@ b) Sejam acompanhados de um atestado passado pelas autoridades competentes, comp
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/337/1993/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1993-645877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319441b228948c4401f467b6c7b9e580f586e44f15798fdd6c2eaaaf5fd49a72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58366badbe730a955b123c1fdebc68c54bc4471fcf4837a063243fa3451a82c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
+- type: cites
+  target: pt:dre:183445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639336:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:58Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 11.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 11.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 11.º — [...]
 
@@ -125,16 +133,16 @@ d) A CNB fica sujeita ao regime de instalação até 31 de Dezembro de 1993.
 
 5 - ...
 
-###### Art. 2.º O presente diploma reporta os seus efeitos ao dia 9 de Setembro de 1993.
+Art. 2.º O presente diploma reporta os seus efeitos ao dia 9 de Setembro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1993.**
+Referendado em 8 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

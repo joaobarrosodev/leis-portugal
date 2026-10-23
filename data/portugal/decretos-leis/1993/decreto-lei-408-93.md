@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 286791b5bf528158bc6dcf0a777d71cbe2ab2131caf51888f66a76d113c555ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59aa6c2c31ca20ba228cf2210e4a371f856b1a74e2780903e11ed920e143d806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,90 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Carreira Profissional
+- Contribuições e Impostos
 - Definição de Competências
 - Direcção Distrital de Finanças
-- Carreira Profissional
+- Direcção Geral das Contribuições e Impostos
 - Formas de Provimento
-- Contribuições e Impostos
+- Mobilidade de Pessoal
 - Orgânica
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Repartição de Finanças
-- Mobilidade de Pessoal
-- Direcção Geral das Contribuições e Impostos
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:624873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299463:por
+  label: "Alterado o quadro de pessoal dirigente e de chefia anexo ao presente diploma, pela PORT.663/94.19.07.1994.MF, DR.IS-B\
+    \ [165] de 19.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/663-1994-299463
+  date: '1994-07-19'
+- type: amended_by
+  target: pt:dre:172965:por
+  label: "Alterado o quadro de pessoal pela PORT.225/95.27.03.1995.MF, DR.IS-B [73] de 27.03.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-1995-172965
+  date: '1995-03-27'
+- type: amended_by
+  target: pt:dre:527389:por
+  label: "Alterado o quadro de pessoal dirigente e de chefia da Direcção-Geral das Contribuições e Impostos, constante do\
+    \ mapa anexo ao presente diploma, pela PORT.515/95.31.05.1995.MF, DR.IS-B [126] de 31.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1995-527389
+  date: '1995-05-31'
+- type: amended_by
+  target: pt:dre:672139:por
+  label: "Aditados três lugares de chefe de divisão ao quadro anexo ao presente diploma, pela PORT.1141-A/95.15.09.1995.MF,\
+    \ DR.IS-B [214]Supl de 15.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1141-a-1995-672139
+  date: '1995-09-15'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Determinada a transição para a Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros das seguintes\
+    \ Direcções de Serviços: -Direcção de Serviços de Produção e Suporte Técnico; -Direcção de Serviços de Sistemas de Informação;\
+    \ -Direcção de Serviços de Planeamento, Controlo e Administração de Dados e -Serviço Regional de Informática do Norte,\
+    \ previstas nos arts. 28.º a 31.º do presente diploma, pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0A [204]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:559038:por
+  label: "Alterados os arts 32º, 33º, 36º, 37º, 38º, 39º, 40º, 41º, 42º, 44º, 46º e 55º pelo Dec Lei.42/97.1997.02.07.MF,\
+    \ DR.IS-A [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1997-559038
+  date: '1997-02-07'
+- type: amended_by
+  target: pt:dre:558205:por
+  label: "Extinto o Gabinete de Auditoria Interna, o Centro de Estudos Fiscais e a respectiva Divisão de Documentação e o\
+    \ Centro de Formação, todos da DGCI (cuja Lei Orgânica é aprovada pelo presente diploma), pelo DEC LEI.376/99.1999.09.21.MF,\
+    \ DR.IS-A [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1999-558205
+  date: '1999-09-21'
+- type: amended_by
+  target: pt:dre:448153:por
+  label: "Repristinado, enquanto não for publicada a Portaria a que se refere o art. 24º do Dec Lei 366/99, de 18-Set, os\
+    \ arts. 17º, 18º e 25º, pelo DEC LEI.262/2002.2002.11.25.MF, DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-2002-448153
+  date: '2002-11-25'
+- type: amended_by
+  target: pt:dre:218365:por
+  label: "Alterado o nº 2 do art. 2º do Dec Lei 262/2002 de 25-Nov, na repristinação que efectuou ao presente diploma [incluída\
+    \ agora a repristinação do art. 26º deste diploma] pelo DEC LEI.237/2004.18.12.2004.MFAP, DR.IS-A [295] de 18.12.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
+- type: amended_by
+  target: pt:dre:624873:por
+  label: "Extintos a Direcção de Finanças da Região Autónoma da Madeira e serviços dela dependentes, previstos nos arts. 32º\
+    \ e 33º deste diploma, alterado pelo Dec Lei 366/99 de 18-Set, e transferidos para aquela Região Autónoma as atribuições,\
+    \ competências fiscais e patrimoniais bem como os direitos, obrigações, posições contratuais e direitos de arrendamento\
+    \ dos serviços ora extintos, pelo DEC LEI.18/2005.18.01.2005.MFAP, DR.IS-A [12] de 18.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2005-624873
+  date: '2005-01-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/434/1991/11/08/p/dre
   label: null
@@ -92,16 +157,103 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1992/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1992/05/04/p/dre
+- type: cites
+  target: pt:dre:283367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619281:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165071:por
+  label: "Rectificada a al. a) do n.º 2 do art. 21.º, o n.º 5 do art. 42.º e a al. b) do art. 57.º [esta na revogação que\
+    \ efectuou aos arts. 98.º a 109.º e 111.º a 114.º do DR 42/83, de 20-Mai, onde deve ler-se: \"artigos. 98.º a 104.º, 105.º,\
+    \ excepto o n.º 1, alínea a), 106.º a 109.º e 111.º a 114.º do Decreto Regulamentar nº 42/83 de 20 de Maio\"] pela DECL-RECT.22/94.28.02.1994.PCM,\
+    \ DR.IS-A [49]2ºSupl de 28.02.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-1994-165071
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:218950:por
+  label: "Revogados os arts. 28º a 31º, pelo DEC LEI.51/98.1998.03.11.MF DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1998-218950
+  date: '1998-03-11'
+- type: repealed_by
+  target: pt:dre:229310:por
+  label: "Revogado o nº 2 do art. 35º pelo DEC LEI.357/98.1998.11.18.MF, DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-1998-229310
+  date: '1998-11-18'
+- type: repealed_by
+  target: pt:dre:569887:por
+  label: "Revogado, a partir da entrada em vigor da portaria a que se refere o art. 24º, os arts. 5º a 16º, 19º a 24º, 26º\
+    \ a 31º e 32º a 38º, na redacção dada pelo Dec Lei 42/97 de 07-Fev, DR.IS-A [290], pelo DEC LEI.366/99.1999.09.18.MF DR.IS-A\
+    \ [219] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1999-569887
+  date: '1999-09-18'
+- type: repealed_by
+  target: pt:dre:218365:por
+  label: "Revogado o art. 10º do Dec Lei 187/90 de 07-Jun, com a redacção do presente diploma, pelo DEC LEI.237/2004.18.12.2004.MFAP,\
+    \ DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
 article_structure:
   article_count: 62
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:28Z'
   warnings: []
   errors: []
 ---
@@ -1334,18 +1486,18 @@ j) O [Decreto Regulamentar n.º 10/92](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Jorge Braga de Macedo.
 
-**Promulgado em 23 de Novembro de 1993.**
+Promulgado em 23 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Novembro de 1993.**
+Referendado em 24 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 4 do artigo 38.º
 
 Quadro de pessoal dirigente e chefia tributária da DGCI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf))](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf)

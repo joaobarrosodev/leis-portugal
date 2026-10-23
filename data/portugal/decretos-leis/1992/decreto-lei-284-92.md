@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/284/1992/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1992-623855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46f8fc7c2717a9645436100fd1bf22e020ad834fd516cd4cc82395a832815e7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc69939fb1e6372cb3132614e626f2888f3b159424d99f6e2bd69371e2c6fe9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Mar Territorial
+- Navegação Marítima
 - Regulamento
 - Segurança Marítima
-- Navegação Marítima
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:513979:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:50Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +102,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Regulamento de Balizagem Marítima é aprovado por portaria conjunta dos Ministros da Defesa Nacional e do Mar.
+Artigo 1.º O Regulamento de Balizagem Marítima é aprovado por portaria conjunta dos Ministros da Defesa Nacional e do Mar.
 
-###### Art. 2.º É revogado o Decreto-Lei n.º 43207, de 8 de Outubro de 1960, a partir da data de entrada em vigor da portaria prevista no artigo anterior.
+Art. 2.º É revogado o Decreto-Lei n.º 43207, de 8 de Outubro de 1960, a partir da data de entrada em vigor da portaria prevista no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

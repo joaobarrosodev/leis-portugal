@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1993-665342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b7d709dffd74200730eca2603a7aee3fb94633fadf08b37573bfda14c9e6959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe71d9afef7cbfbcdc2d4d5b6c6cea279e71248caa8fd0afac366e5c9ae48f73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
+- Auditoria Jurídica
 - Departamento da Educação Basica
 - Departamento de Gestão de Recursos Educativos
 - Departamento de Programação e Gestão Financeira
 - Departamento do Ensino Superior
 - Direção Geral da Administração Escolar
+- Direção Geral do Ensino Superior
 - Direcção Geral de Extensão Educativa
 - Gabinete Coordenador do Ingresso no Ensino Superior
 - Gabinete de Educação Tecnológica Artística e Profissional
+- Gabinete de Estudos e Planeamento
 - Gabinete de Gestão Financeira
 - Gabinete de Lançamento e Acompanhamento do ANO Escolar
 - Inspecção Geral de Educação
 - Instituto Camões
 - Instituto do Desporto
 - Instituto dos Assuntos Sociais da Educação
-- Direção Geral do Ensino Superior
-- Gabinete de Estudos e Planeamento
-- Auditoria Jurídica
-- Orgânica
+- Ministério da Educação
 - Ministro da Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:432449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Alterada a orgânica pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102], nos termos do seu art 20º, determinando-se a\
+    \ transição para o Ministério da Ciência e do Ensino Superior dos serviços e organismos referidos no citado artigo \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
   label: null
@@ -106,16 +112,79 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/33/1991/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/33/1991/06/07/p/dre
+- type: cites
+  target: pt:dre:310790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658248:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241672:por
+  label: "Revogadas as als. d) do nº 1 do art. 2º e c) do art. 14º pelo DEC LEI.164/96.1996.09.05.ME, DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-1996-241672
+  date: '1996-09-05'
+- type: repealed_by
+  target: pt:dre:505783:por
+  label: "Revogada a al c) do num 1 do art 6º pelo Dec Lei 47/97.1997.02.25.ME, DR.IS-A [47], revogada ainda o num 2 do art\
+    \ 19º, na parte que respeita ao director do Departamento de Programação e Gestão Financeira, passando o Conselho de Administração\
+    \ da Caixa de Previdência do Ministério da Educação a ser presidido, por inerência, pelo director do DAPP até que se proceda\
+    \ à revisão dos estatutos daquela caixa.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1997-505783
+  date: '1997-02-25'
+- type: repealed_by
+  target: pt:dre:217937:por
+  label: "Revogada a al. c) do nº 1 do art. 4.º e art. 7.º pelo DEC LEI.369/98.1998.11.23.ME DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1998-217937
+  date: '1998-11-23'
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº 2 do art. 35º, pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
 article_structure:
   article_count: 26
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:31Z'
   warnings: []
   errors: []
 ---
@@ -408,12 +477,12 @@ h) O [Decreto Regulamentar n.º 33/91](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

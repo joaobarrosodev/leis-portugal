@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 58/1993, 1º Suplemento, Série I-A de 1993-03-10
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1114-(2) a 1114-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/058a01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/1993/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1993-594967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7452559afccd9563e7c7d80e817afa518658fae23a65ac27ab19513778a7470
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bee61a10b7dbdcdd07ffa1e41eef8d58cc86b4a2dd9987269c273061e3b2b5e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
 - Estatuto
+- Fundação
 - Fundação de são Carlos
 - Orquestra
-- Teatro Nacional de São Carlos
 - Personalidade Jurídica
+- Teatro Nacional de São Carlos
 - Usufruto
 - Utilidade Pública
 relationships:
@@ -78,16 +78,34 @@ relationships:
   target: pt:dre:209019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531396:por
+  label: "Alterado o art. 3º pelo DEC LEI.6/94.1994.01.12.PCM, DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1994-531396
+  date: '1994-01-12'
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209019:por
+  label: "Revogado com a entrada em vigor do DEC LEI.88/98.1998.04.03.MC, DR.IS-A [79], nos termos do seu art. 40º\040º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1998-209019
+  date: '1998-04-03'
 article_structure:
-  article_count: 25
+  article_count: 24
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:33Z'
   warnings: []
   errors: []
 ---
@@ -114,19 +132,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É instituída a Fundação de São Carlos, adiante designada abreviadamente por Fundação.
+Artigo 1.º - 1 - É instituída a Fundação de São Carlos, adiante designada abreviadamente por Fundação.
 
 2 - A Fundação é uma instituição de direito privado e utilidade pública, dotada de personalidade jurídica, que durará por tempo ilimitado.
 
-###### Art. 2.º São aprovados os Estatutos da Fundação, anexos ao presente diploma.
+Art. 2.º São aprovados os Estatutos da Fundação, anexos ao presente diploma.
 
-###### Art. 3.º A fundação é instituída pelo Estado e pelas pessoas colectivas enunciadas no artigo 24.º dos estatutos.
+Art. 3.º A fundação é instituída pelo Estado e pelas pessoas colectivas enunciadas no artigo 24.º dos estatutos.
 
-###### Art. 4.º São constituídos a favor da Fundação os direitos de usufruto, por 30 anos, sobre o imóvel designado «Teatro Nacional de São Carlos» e sobre o respectivo recheio, designadamente dos seus bens móveis de valor cultural, equipamento técnico, arquivo, cenários, maquetas e guarda-roupa, os quais, conjuntamente com os demais bens mencionados no n.º 1 do artigo 4.º dos estatutos, constituem o património da Fundação.
+Art. 4.º São constituídos a favor da Fundação os direitos de usufruto, por 30 anos, sobre o imóvel designado «Teatro Nacional de São Carlos» e sobre o respectivo recheio, designadamente dos seus bens móveis de valor cultural, equipamento técnico, arquivo, cenários, maquetas e guarda-roupa, os quais, conjuntamente com os demais bens mencionados no n.º 1 do artigo 4.º dos estatutos, constituem o património da Fundação.
 
-###### Art. 5.º O membro do Governo responsável pela área da cultura pode requisitar funcionários públicos para o exercício de funções na Fundação, nos termos da legislação aplicável.
+Art. 5.º O membro do Governo responsável pela área da cultura pode requisitar funcionários públicos para o exercício de funções na Fundação, nos termos da legislação aplicável.
 
-###### Art. 6.º - 1 - Constituem causas específicas de extinção da Fundação a alteração dos fins, gerais ou específicos, constantes do artigo 2.º dos respectivos estatutos, a inadequada utilização dos bens objecto do usufruto ou a desconformidade entre a actividade da Fundação e os seus fins.
+Art. 6.º - 1 - Constituem causas específicas de extinção da Fundação a alteração dos fins, gerais ou específicos, constantes do artigo 2.º dos respectivos estatutos, a inadequada utilização dos bens objecto do usufruto ou a desconformidade entre a actividade da Fundação e os seus fins.
 
 2 - Em caso de extinção da Fundação, o seu património reverte integralmente a favor do Estado, a menos que destino diferente seja fixado a determinados bens no título translativo.
 
@@ -134,23 +152,23 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - As alterações referidas no número anterior carecem de aprovação do Governo concedida mediante deliberação do Conselho de Ministros.
 
-###### Art. 7.º As contribuições dos fundadores e os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e no n.º 2 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), da mesma data.
+Art. 7.º As contribuições dos fundadores e os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e no n.º 2 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), da mesma data.
 
-###### Art. 8.º O presente diploma constitui título suficiente para todos os efeitos legais, incluindo os de registo, os quais se farão sem pagamento de quaisquer taxas ou emolumentos.
+Art. 8.º O presente diploma constitui título suficiente para todos os efeitos legais, incluindo os de registo, os quais se farão sem pagamento de quaisquer taxas ou emolumentos.
 
-###### Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 2 de Março de 1993.**
+Promulgado em 2 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1993.**
+Referendado em 8 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da Fundação de São Carlos
 

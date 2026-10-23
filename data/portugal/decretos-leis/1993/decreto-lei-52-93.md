@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/048a00/08320839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1993-657441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71a2a03c81a601a83982a4fd74fbefd4a583e66b47e02327ff14f8b93a358b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94affd06494d32d87088f2203686742de8ac1b87c1020be5b728191245d0e90f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,27 @@ relationships:
   target: pt:dre:261156:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os arts. 19º, 20º e 21º, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os arts. 4º, 6º, 14º, 15º, 18º, 20º e 22º pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção dos art 6º e 22º pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3ºSupl (OE 1997 - Art 37º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 1º, 2º e 6º do Dec Lei 127/90 de 17-Abr, com a redacção conferida pelo presente diploma, pela\
+    \ LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
 - type: cites
   target: celex:31977L0799
   label: null
@@ -107,16 +128,37 @@ relationships:
   target: celex:31992R2719
   label: null
   source: http://data.europa.eu/eli/reg/1992/2719/oj
+- type: repealed_by
+  target: pt:dre:426763:por
+  label: "Revogado o nº 6 do art. 20.º pelo DEC LEI.300/99.1999.08.05.MF DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1999-426763
+  date: '1999-08-05'
+- type: repealed_by
+  target: pt:dre:682986:por
+  label: "Revogado o nº 6 do art. 20º pelo DECLEI.472/99.1999.11.08.MF, DR.IS-A [260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: repealed_by
+  target: pt:dre:662084:por
+  label: Revogado pelo DEC LEI.566/99.1999.12.22.MF, DR.IS-A [296]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/566-1999-662084
+  date: '1999-12-22'
+- type: repealed_by
+  target: pt:dre:261156:por
+  label: "Revogado, a partir de 11.05.2013, o Dec Lei 127/90 de 17-abr, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DEC LEI.61/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2013-261156
+  date: '2013-05-10'
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:03Z'
   warnings: []
   errors: []
 ---
@@ -541,9 +583,9 @@ c) «Voo ou travessia marítima intracomunitária», qualquer transporte, por vi
 
 Os artigos 1.º, 2.º e 6.º do Decreto-Lei n.º 127/90, de 17 de Abril, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [77/799/CEE](https://data.europa.eu/eli/dir/1977/799/oj?locale=pt), do Conselho, de 19 de Dezembro de 1977, com as alterações que lhe foram introduzidas pela Directiva n.º [79/1070/CEE](https://data.europa.eu/eli/dir/1979/1070/oj?locale=pt), do Conselho, de 6 de Dezembro de 1979, e pelo artigo 30.º da Directiva n.º [92/12/CEE](https://data.europa.eu/eli/dir/1992/12/oj?locale=pt), do Conselho, de 25 de Fevereiro de 1992, relativa à assistência mútua das autoridades competentes dos Estados membros no domínio dos impostos directos e indirectos.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [77/799/CEE](https://data.europa.eu/eli/dir/1977/799/oj?locale=pt), do Conselho, de 19 de Dezembro de 1977, com as alterações que lhe foram introduzidas pela Directiva n.º [79/1070/CEE](https://data.europa.eu/eli/dir/1979/1070/oj?locale=pt), do Conselho, de 6 de Dezembro de 1979, e pelo artigo 30.º da Directiva n.º [92/12/CEE](https://data.europa.eu/eli/dir/1992/12/oj?locale=pt), do Conselho, de 25 de Fevereiro de 1992, relativa à assistência mútua das autoridades competentes dos Estados membros no domínio dos impostos directos e indirectos.
 
-###### Art. 2.º - 1 - A autoridade competente em Portugal prestará à autoridade competente de outro Estado membro, relativamente a uma situação concreta, as informações importantes e necessárias à correcta determinação dos impostos sobre o rendimento e sobre o património, bem como dos seguintes impostos indirectos:
+Art. 2.º - 1 - A autoridade competente em Portugal prestará à autoridade competente de outro Estado membro, relativamente a uma situação concreta, as informações importantes e necessárias à correcta determinação dos impostos sobre o rendimento e sobre o património, bem como dos seguintes impostos indirectos:
 
 a) Imposto sobre o valor acrescentado;
 
@@ -557,7 +599,7 @@ d) Imposto especial sobre o consumo de tabacos manufacturados;
 
 3 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - Sem prejuízo do disposto no artigo 8.º do Regulamento (CEE) n.º [218/92](https://data.europa.eu/eli/reg/1992/218/oj?locale=pt), do Conselho, de 27 de Janeiro de 1992, não haverá lugar à notificação prevista no número anterior sempre que a mesma possa prejudicar as investigações sobre fraude e evasão fiscais noutro Estado membro e isso for expressamente solicitado pela autoridade competente desse Estado membro.
 
@@ -581,12 +623,12 @@ O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

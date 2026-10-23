@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19476-1962-156268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a79fa29a5cb46fc74294d9ad832045e486329a2009d5ca2c0302140e69d59e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61f46c0ee2a4543eb41872fc594cb10859fd1c7680e6d7f883f5d2416aeca45a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:368381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:08Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 300.º, n.º 3) «Outros encargos - Vencimentos dos juízes do ultramar que sejam colocados no quadro da magistratura judicial ultramarina. (Despacho ministerial de 26 de Janeiro de 1928, e Diploma Legislativo n.º 594, de 31 de Julho de 1931, suplemento n.º 15 ao Boletim Oficial n.º 29)» ... 2791$60
+Artigo 300.º, n.º 3) «Outros encargos - Vencimentos dos juízes do ultramar que sejam colocados no quadro da magistratura judicial ultramarina. (Despacho ministerial de 26 de Janeiro de 1928, e Diploma Legislativo n.º 594, de 31 de Julho de 1931, suplemento n.º 15 ao Boletim Oficial n.º 29)» ... 2791$60
 
-###### Artigo 302.º, n.º 2), alínea a) «Despesas de comunicação fora da província - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 4000$00
+Artigo 302.º, n.º 2), alínea a) «Despesas de comunicação fora da província - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 4000$00
 
-###### Artigo 304.º, n.º 4), alínea a), 1.ª «Deslocações de pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 15000$00
+Artigo 304.º, n.º 4), alínea a), 1.ª «Deslocações de pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 15000$00
 
-###### Artigo 304.º, n.º 4), alínea b), 1.ª «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole» ... 21000$00
+Artigo 304.º, n.º 4), alínea b), 1.ª «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole» ... 21000$00
 
-###### Artigo 305.º, n.º 12), alínea a) «Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado (artigo 34.º do [Decreto n.º 37141](https://diariodarepublica.pt/dr/detalhe/decreto/37141-1948-368381), de 8 de Novembro de 1948) - Na metrópole» ... 20000$00
+Artigo 305.º, n.º 12), alínea a) «Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado (artigo 34.º do [Decreto n.º 37141](https://diariodarepublica.pt/dr/detalhe/decreto/37141-1948-368381), de 8 de Novembro de 1948) - Na metrópole» ... 20000$00
 
 ... 62791$60
 

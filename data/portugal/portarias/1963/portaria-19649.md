@@ -49,36 +49,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19649-1963-192392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb19c32c5127dea2638cb51ff3f6efec7ad9b6d7daef47299dc6683fe744e1f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2125c4189871d070f0c568e685a4724f60800e9caca3e8605c092e3229239f5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Moçambique
+- Orçamento
+- Reforço de Verbas
+- São Tomé e Príncipe
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:49Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +121,11 @@ a) Reforçar com as quantias que se indicam as seguintes verbas da tabela de des
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 259.º, n.º 15), alínea a) «Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental, lepra, em hospitais, manicómios, casas de saúde, sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - Na metrópole» ... 25000$00
+Artigo 259.º, n.º 15), alínea a) «Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental, lepra, em hospitais, manicómios, casas de saúde, sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - Na metrópole» ... 25000$00
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 265.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 6400$00
+Artigo 265.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 6400$00
 
 ... 31400$00
 
@@ -109,11 +135,11 @@ tomando como contrapartida iguais importâncias a sair das disponibilidades exis
 
 Serviço social
 
-###### Artigo 102.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 25000$00
+Artigo 102.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 25000$00
 
 Polícia Internacional e de Defesa do Estado
 
-###### Artigo 142.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal eventual nos termos do § 4.º do artigo 63.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), com a nova redacção dada pelo [Decreto-Lei n.º 40541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40541-1956-306416), de 27 de Fevereiro de 1956» ... 6400$00
+Artigo 142.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal eventual nos termos do § 4.º do artigo 63.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), com a nova redacção dada pelo [Decreto-Lei n.º 40541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40541-1956-306416), de 27 de Fevereiro de 1956» ... 6400$00
 
 ... 31400$00
 

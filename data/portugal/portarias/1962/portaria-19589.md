@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19589-1962-154782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74328067f7de4aa824a21b941e630fde767d723134781b3d7114df941d1b3e21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdc75569580d78793df344919ae42fa6328ee3562425233ad422aaff4d326d57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:34Z'
   warnings: []
   errors: []
 ---
@@ -88,10 +88,10 @@ Ministério da Educação Nacional, 27 de Dezembro de 1962. - O Ministro da Educ
 
 Regulamento do Prémio Almirante Américo Thomaz
 
-###### Artigo 1.º É instituído pela sociedade Transportes Aéreos Portugueses o Prémio Almirante Américo Thomaz, em comemoração da viagem de S. Ex.ª o Presidente da República à ilha de Porto Santo, distrito do Funchal.
+Artigo 1.º É instituído pela sociedade Transportes Aéreos Portugueses o Prémio Almirante Américo Thomaz, em comemoração da viagem de S. Ex.ª o Presidente da República à ilha de Porto Santo, distrito do Funchal.
 
-###### Art. 2.º O prémio é constituído por uma viagem de avião (ida e volta), por conta daquela sociedade, da ilha do Porto Santo a Lisboa, em cada ano, a favor de um aluno de cada sexo, pertencente às escolas primárias da ilha do Porto Santo, aprovado no exame da 4.ª classe do ensino primário que mais se houver distinguido pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar. Cada aluno poderá ser acompanhado pelos pais.
+Art. 2.º O prémio é constituído por uma viagem de avião (ida e volta), por conta daquela sociedade, da ilha do Porto Santo a Lisboa, em cada ano, a favor de um aluno de cada sexo, pertencente às escolas primárias da ilha do Porto Santo, aprovado no exame da 4.ª classe do ensino primário que mais se houver distinguido pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar. Cada aluno poderá ser acompanhado pelos pais.
 
-###### Art. 3.º A Direcção do Distrito Escolar do Funchal deverá indicar a esta Direcção-Geral, depois da realização dos exames da 4.ª classe, os nomes do aluno e da aluna das escolas primárias da ilha do Porto Santo em condições de beneficiarem daquele prémio e, bem assim, os dos respectivos pais, com indicação das suas moradas.
+Art. 3.º A Direcção do Distrito Escolar do Funchal deverá indicar a esta Direcção-Geral, depois da realização dos exames da 4.ª classe, os nomes do aluno e da aluna das escolas primárias da ilha do Porto Santo em condições de beneficiarem daquele prémio e, bem assim, os dos respectivos pais, com indicação das suas moradas.
 
 Direcção-Geral do Ensino Primário, 27 de Dezembro de 1962. - O Director-Geral, José Gomes Branco.

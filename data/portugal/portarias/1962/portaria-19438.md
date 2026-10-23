@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19438-1962-156674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ce50d03ba6e50887a01884faf424be874ebcf2377e5f29b0b782c3653c37ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afa888064ae43dfe22a14599d2647c80200bcfdb31d17da3f8cf1e1a205560f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,31 @@ relationships:
   target: pt:dre:693198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693198:por
+  label: "Altera a condição 1ª do art. 56º do Regulamento da Polícia Marítima e Fiscal da Província Ultramarina de Macau,\
+    \ aprovado pela Port 6716, de 11-Março de 1961 (do Governo de Macau) e confirmada pela presente portaria, pela PORT.19926.03.07.1963.MU,\
+    \ DG.IS [155] de 03.07.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19926-1963-693198
+  date: '1963-07-03'
+- type: cites
+  target: pt:dre:532241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:19Z'
   warnings: []
   errors: []
 ---

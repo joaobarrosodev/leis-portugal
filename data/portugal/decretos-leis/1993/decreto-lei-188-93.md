@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/120a00/28082812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/1993/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1993-283520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae25fc6601481e049e0a64288791e8199ad9cc0e1e3cc16dfa3f7e2e3d964faa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30604b9a0a2eb18a33bd8fb7928e06a463ff25ce81265a6d6eba2d724e3dba45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Ministério do Ambiente e Recursos Naturais
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:521025:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Secretaria-Geral integrada no agora extinto Ministério das Cidades, Ordenamento do Território e Ambiente, pelo DEC\
+    \ LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:605323:por
+  label: "Determinado que a Secretaria-Geral, cuja orgânica foi aprovada no presente diploma, suceda em todas as suas atribuições\
+    \ e competências à Auditoria Jurídica, que é extinta, pelo DEC LEI.36/2005.17.02.2005.MCALHDR, DR.IS-A [34] de 17.02.2005,\
+    \ nos termos do seu art. 24.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2005-605323
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:584398:por
+  label: "Determinado que a Secretaria-Geral, cuja orgânica consta do presente diploma, continue a garantir as funções de\
+    \ administração geral, gestão de recursos humanos, consulta jurídica, apoio ao processo legislativo e gestão do contencioso\
+    \ ao Ministro do Ambiente e do Ordenamento do Território, até à instalação da Secretaria-Geral do MAOT, pelo DEC LEI.53/2005.25.02.2005.MAOT,\
+    \ DR.IS-A [53] de 25.02.2005, nos termos dos seus art. 26.º e 27.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2005-584398
+  date: '2005-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521025:por
+  label: "Revogado pelo Decreto Regulamentar 52/2007, de 27 de Abril, DR.IS [82], nos termos do artigo 9.º e na data da respectiva\
+    \ entrada em vigor \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/52-2007-521025
+  date: '2007-04-27'
 article_structure:
   article_count: 14
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:37Z'
   warnings: []
   errors: []
 ---
@@ -233,7 +265,9 @@ c) Repartição de Pessoal e Administração Geral;
 
 d) Repartição de Administração Financeira e Patrimonial.
 
-###### Artigo 7.º — Divisão de Planeamento e Gestão
+###### Artigo 7.º
+
+##### Divisão de Planeamento e Gestão
 
 À Divisão de Planeamento e Gestão compete:
 
@@ -253,7 +287,9 @@ g) Estudar, divulgar e acompanhar, a nível do Ministério, a criação de técn
 
 h) Assegurar e coordenar o estudo, a definição e a implantação de soluções informáticas a nível do Ministério e a gestão dos recuros informáticos da Secretaria-Geral.
 
-###### Artigo 8.º — Divisão de Recursos Humanos
+###### Artigo 8.º
+
+##### Divisão de Recursos Humanos
 
 À Divisão de Recursos Humanos compete:
 
@@ -357,7 +393,9 @@ f) Dar parecer sobre quaisquer reclamações ou recursos dirigidos ao Secretári
 
 2 - Para o exercício das suas competências o Gabinete de Apoio Jurídico pode requisitar aos serviços e institutos dependentes do Ministério os processos e demais elementos que considere necessários.
 
-###### Artigo 12.º — Divisão de Relações Públicas, Documentação e Informação
+###### Artigo 12.º
+
+##### Divisão de Relações Públicas, Documentação e Informação
 
 À Divisão de Relações Públicas, Documentação e Informação compete:
 
@@ -397,16 +435,16 @@ c) Contabilidade analítica e sistema de controlo orçamental, a fim de proceder
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/120a00/28082812.pdf))](https://files.diariodarepublica.pt/1s/1993/05/120a00/28082812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/120a00/28082812.pdf)

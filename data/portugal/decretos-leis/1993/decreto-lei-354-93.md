@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/237a00/56705672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/354/1993/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5acefd997b2ba58851a8e18bf8b83d981df5c5e3ed52d7970c02f5adee5d922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9789d47f3764493e26b45906b5cef7667aa95c399f98ee11eb0e4576fb510a41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Porto de Lisboa
-- Sociedade Anónima
-- Comissão Arbitral
-- Ordenamento do Território
-- Expropriação
-- Lisboa
-- ZONA de Intervenção
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Autarquia Local
+- Comissão Arbitral
+- Exposição Internacional de Lisboa de 1998
+- Expropriação
 - Indemnização
 - Licenciamento de Obras
+- Lisboa
 - Loures
-- Exposição Internacional de Lisboa de 1998
+- Ordenamento do Território
 - Parque EXPO 98
 - Plano de Urbanização
+- Sociedade Anónima
 - Transferência de Competências
-- Autarquia Local
 - Utilidade Pública
+- ZONA de Intervenção
 - ZONA Degradada
 - ZONA Urbana
 relationships:
@@ -113,16 +113,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/57/1993/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/57/1993/08/06/p/dre
+- type: cites
+  target: pt:dre:275640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638906:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116090201:por
+  label: Revogado, a partir de 18.08.2018, pelo(a) Decreto-Lei n.º 67/2018 - Diário da República n.º 158/2018, Série I de
+    2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2018-116090201
+  date: '2018-08-17'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:17Z'
   warnings: []
   errors: []
 ---
@@ -261,12 +295,12 @@ Os poderes excepcionais da sociedade Parque EXPO 98, S. A., cessam em 31 de Deze
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota - José Manuel Cardoso Borges Soeiro - Luís Fernando Mira Amaral - Jorge Manuel Mendes Antas - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - João Prates Bebiano.
 
-**Promulgado em 29 de Setembro de 1993.**
+Promulgado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Setembro de 1993.**
+Referendado em 29 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

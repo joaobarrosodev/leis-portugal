@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163a00/38283828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1993-390066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6df84bd04bbbce345652e7680ba68d27fe246f90b943f5dfbcda50de16ef7ad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2418d96dc2d0ca14929683a87961a09cbf963517140d31fe58ee35a6bbdc32c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Câmara Municipal
+- Comércio
 - Comércio a Retalho
 - Feirante
 - Fiscalização
-- Câmara Municipal
-- Comércio
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:247227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL-RECT 153/93 DE 19-AGO DR.IS-A [204]3SUPL DE 31/AGO/1993\0/1993"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-31'
+- type: cites
+  target: pt:dre:219122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575730:por
+  label: "Revogado o art. 17º do Dec Lei 252/86 de 25-Ago, alterado pelo presente diploma, pelo DEC LEI.259/95.1995.09.30.MCT,\
+    \ DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-1995-575730
+  date: '1995-09-30'
+- type: repealed_by
+  target: pt:dre:247227:por
+  label: "Revogado, a partir de 09.05.2008, o Dec Lei 252/86 de 25-Ago, com a alteração constante do presente diploma, pelo\
+    \ DEC LEI.42/2008.10.03.2008.MEI, DR.IS [49] de 10.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2008-247227
+  date: '2008-03-10'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:07Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +141,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 5.º, 15.º e 17.º do [Decreto-Lei n.º 252/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1986-219122), de 25 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º, 15.º e 17.º do [Decreto-Lei n.º 252/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1986-219122), de 25 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — [...]
 
@@ -130,12 +163,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

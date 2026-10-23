@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b36f6da03b8ba512b52d00883d10835e101dbf589cc68d2093a9790113796bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9061f2447cd0ac109b9f5390d43f9e81edbed5f58832013cc628402d530d665
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Conselho Científico
 - Conselho de Direção
-- Ministério da Educação
 - Conselho Pedagógico
 - Definição de Competências
 - Diretor
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Escola Superior
+- Estabelecimento de Ensino
 - Estatuto
 - Estatuto do Ensino Superior Particular e Cooperativo
-- Ação Social
 - Instituto Politécnico
-- Universidade
-- Estabelecimento de Ensino
+- Ministério da Educação
 - Pessoal Docente
-- Ensino Superior
 - Reitor
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:1149265695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:533820:por
+  label: Alterados os arts. 5º, 9º, 14º, 21º, 22º, 53º, 66º e 72º pela LEI.37/94.1994.11.11.AR, DR.IS-A [261]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-1994-533820
+  date: '1994-11-11'
+- type: amended_by
+  target: pt:dre:150335:por
+  label: "Alterada a redacção do artº 34º e aditado o art. 56º-A ao Estatuto aprovado pelo presente diploma, alterado, por\
+    \ ratificação, pela Lei 37/94 de 11-Nov, pelo DEC LEI.94/99.1999.03.23.ME, DR.IS-A [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1999-150335
+  date: '1999-03-23'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671387:por
+  label: "Revogados, com a entrada em vigor do presente diploma, os nºs 1, 2, e 4 do art. 39º, o nº 5 do art. 53º, o nº 1\
+    \ do art. 57º e os arts 58º a 60º, 64º e 67º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.74/2006.24.03.2006.MCTES, DR.IS-A [60] de 24.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2006-671387
+  date: '2006-03-24'
+- type: repealed_by
+  target: pt:dre:640339:por
+  label: "Revogado a partir de 10.10.2007 o Estatuto do Ensino Superior Particular e Cooperativo aprovado pelo presente diploma,\
+    \ alterado, por ratificação, pela Lei 37/94 de 11-Nov, pelo Dec Lei 94/99 de 23-Mar e pelo Dec Lei 74/2006 de 24-Mar,\
+    \ pela LEI.62/2007.10.09.2007.AR, DR.IS [174] de 10.09.2007, que o mantém transitoriamente em vigor, nos termos do estabelecido\
+    \ no nº 4 do art. 182º da mesma lei, em matéria de reconhecimento de interesse público dos estabelecimentos de ensino\
+    \ superior privados, em tudo o que a não contrariar.\0r.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2007-640339
+  date: '2007-09-10'
 article_structure:
   article_count: 79
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:29Z'
   warnings: []
   errors: []
 ---
@@ -166,15 +205,15 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 46/86](https:
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Manuel Dias Loureiro - António Fernando Couto dos Santos.
 
-**Promulgado em 10 de Janeiro de 1994.**
+Promulgado em 10 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatuto do Ensino Superior Particular e Cooperativo
 
@@ -852,7 +891,7 @@ A entidade instituidora requer o registo dos estatutos e suas alterações, inst
 
 ###### Artigo 70.º — Recusa
 
-**O Ministro da Educação recusará o registo nas seguintes situações:**
+O Ministro da Educação recusará o registo nas seguintes situações:
 
 a) Se os estatutos ou as suas alterações forem desconformes com a legalidade ou com o acto constitutivo da entidade instituidora;
 

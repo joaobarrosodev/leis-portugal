@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/222a00/51915195.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/322/1993/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1993-655516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd3815d6cc250ef3bf5a37cf0a4f330eb243c12cd3aee0e811ecd94c999ecc7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c90e202bd62d75328b4e8b16d814a15dcc3105f4fca16d43737ffa2bea23db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
+- Descrição de Funções
 - Escola das Marinhas do Comércio e Pescas
 - Escola de Mestrança e Marinhagem
 - Escola Náutica Infante Dom Henrique
 - Escola Portuguesa de Pesca
 - Estatuto
 - Extinção de Serviços
-- Recrutamento de Pessoal
 - Integração de Trabalhadores
-- Descrição de Funções
 - Pessoal Auxiliar
 - Pessoal Docente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Transferência Patrimonial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS PELO DEC\
+    \ LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL \0266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:476917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinta a Escola das Marinhas do Comércio e Pescas pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
+- type: cites
+  target: pt:dre:238247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574960:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476917:por
+  label: "Revogado pelo DEC LEI.93/97.1997.04.23.MADRP DR.IS [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1997-476917
+  date: '1997-04-23'
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:42Z'
   warnings: []
   errors: []
 ---
@@ -208,15 +243,15 @@ e) A [Portaria n.º 199/88](https://diariodarepublica.pt/dr/detalhe/portaria/199
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - José Albino da Silva Peneda - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 13 de Agosto de 1993.**
+Promulgado em 13 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1993.**
+Referendado em 23 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estatuto da Escola das Marinhas de Comércio e Pescas
 
@@ -540,4 +575,4 @@ c) Técnico-prática.
 
 6 - Os cursos ministrados na EMCP e, bem assim, os respectivos planos curriculares e programas são aprovados por despacho conjunto dos Ministros da Educação e do Mar, mediante proposta fundamentada do director da EMCP, ouvido o conselho pedagógico.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/222a00/51915195.pdf))](https://files.diariodarepublica.pt/1s/1993/09/222a00/51915195.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51915195.pdf)

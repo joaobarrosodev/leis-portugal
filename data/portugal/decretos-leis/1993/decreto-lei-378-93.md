@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/259a00/62126214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/378/1993/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1993-665154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c46319e0d5dfdf1891005e05d775e2c05b1d3d1abef4e37f9ca8799e101d48d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86643ca248c833ede8d33295ba0cf7d912e6c48b399dc11341da2f890d75e6ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento de Elevação
 - Aproximação das Legislações
 - CEE
+- Certificado de Qualidade
 - Contra-ordenação
 - Controlo de Qualidade
-- Segurança no Trabalho
+- Equipamento Agrícola
+- Equipamento de Elevação
+- Equipamento Industrial
 - Indústria Mecânica
-- Máquina-Ferramenta
-- Certificado de Qualidade
 - Instituto Português da Qualidade
+- Máquina-Ferramenta
 - Normas de Segurança
 - Proteção do Consumidor
-- Equipamento Agrícola
-- Equipamento Industrial
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:577359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 1.º, 2.º, 4.º a 7.º, 9.º, 11.º, 12.º e aditado o artigo 13.º-A pelo DEC LEI.139/95.14.06.1995.MIE,\
+    \ DR.IS-A [136] de 14.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterados os arts. 4º, 6º e 8º, com a redacção dada pelo Dec Lei 139/95 de 14-Jun, e aditado o art. 12º-A pelo DEC\
+    \ LEI.374/98.1998.11.24.MECO DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
 - type: cites
   target: celex:31974L0150
   label: null
@@ -97,16 +109,21 @@ relationships:
   target: celex:31991L0368
   label: null
   source: http://data.europa.eu/eli/dir/1991/368/oj
+- type: repealed_by
+  target: pt:dre:577359:por
+  label: "Revogado pelo DEC LEI.320/2001.2001.12.12.MECO DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2001-577359
+  date: '2001-12-12'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:47Z'
   warnings: []
   errors: []
 ---
@@ -259,12 +276,12 @@ b) Com efeitos a partir de 31 de Dezembro de 1995: o Decreto-Lei n.º 47575, de 
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Jorge Manuel Mendes Antas - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

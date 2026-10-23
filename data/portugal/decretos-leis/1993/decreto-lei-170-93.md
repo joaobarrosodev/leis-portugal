@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/109a00/24782480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/1993/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1993-275048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 190da02d489cad6bd33cc871c446b928776355d739084617ed09ac3e11a5af66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03172b706daca1deb6212eb5aadcdef99f80b4fc4e5e51000ef8fa475d520c0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mercado Cambial
 - Divisa
 - Exportação de Capitais
 - Importação de Capitais
+- Mercado Cambial
 - Mercado de Capitais
 - Operação Cambial
 relationships:
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/176/1991/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/1991/05/14/p/dre
+- type: cites
+  target: pt:dre:313848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640952:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:438040:por
+  label: "Revogado pelo DEC LEI.295/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-2003-438040
+  date: '2003-11-21'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:16Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +121,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 15.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 28.º e 29.º do [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, 15.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 28.º e 29.º do [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 11.º — Entidades autorizadas
 
@@ -176,7 +189,7 @@ As operações a que se refere o n.º 1 do artigo anterior podem ser objecto de 
 
 3 - O Banco de Portugal pode determinar, por aviso, que as operações a que se referem os artigos 14.º a 21.º, 23.º e 28.º sejam objecto de declaração e de prestação de informação para fins estatísticos, fixando as respectivas condições.
 
-###### Art. 2.º O artigo 9.º do [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio, passa a ter a seguinte redacção:
+Art. 2.º O artigo 9.º do [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 9.º — Dever de informação
 
@@ -184,7 +197,7 @@ As operações a que se refere o n.º 1 do artigo anterior podem ser objecto de 
 
 2 - O ICEP - Investimentos, Comércio e Turismo de Portugal enviará periodicamente ao Banco de Portugal elementos de informação, designadamente de natureza estatística, relativos ao investimento directo estrangeiro, devendo para o efeito obter a necessária informação a nível nacional.
 
-###### Art. 3.º É aditado ao [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio, o artigo 14.º-A, com a seguinte redacção:
+Art. 3.º É aditado ao [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio, o artigo 14.º-A, com a seguinte redacção:
 
 ###### Artigo 14.º-A — Circunstâncias excepcionais
 
@@ -192,26 +205,26 @@ As operações a que se refere o n.º 1 do artigo anterior podem ser objecto de 
 
 2 - Compete ao Banco de Portugal determinar, por aviso, o âmbito, as condições e a duração das restrições previstas no número anterior.
 
-###### Art. 4.º O artigo 16.º do [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio, passa a ter a seguinte redacção:
+Art. 4.º O artigo 16.º do [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 16.º — Actos notariais e de registo
 
 Os notários e conservadores devem sobrestar na realização dos actos da sua competência em que intervenham não residentes até que os interessados demonstrem ter obtido a adequada intervenção ou decisão da entidade competente, nos termos da legislação em vigor em matéria de investimento estrangeiro.
 
-###### Art. 5.º - 1 - São revogados o n.º 3 do artigo 14.º e os artigos 25.º, 26.º e 27.º do [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, bem como os artigos 5.º, 6.º, 7.º, 8.º, 10.º, 11.º e 12.º do [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio.
+Art. 5.º - 1 - São revogados o n.º 3 do artigo 14.º e os artigos 25.º, 26.º e 27.º do [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, bem como os artigos 5.º, 6.º, 7.º, 8.º, 10.º, 11.º e 12.º do [Decreto-Lei n.º 176/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952), de 14 de Maio.
 
 2 - São revogados os avisos n.os 2, 5 e 6, de 19 de Abril de 1990, bem como os avisos n.os 3, 5, 6, 9 e 13, publicados no Diário da República, 2.ª série, respectivamente de 25 de Março, 4 de Junho, 18 de Outubro e 31 de Dezembro de 1991.
 
-###### Art. 6.º O presente decreto-lei reporta os seus efeitos a 1 de Janeiro de 1993.
+Art. 6.º O presente decreto-lei reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

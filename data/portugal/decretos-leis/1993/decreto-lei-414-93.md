@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/298a00/71327136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/414/1993/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1993-541441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2824f4bdb7d86256f38037bf6563d8493d8bbbb2ccb24034d170479300c1d980
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a9ad3197531fc6eb0c2e897789856eacbac587d85bf6b5099f695e2367d1ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,74 @@ relationships:
   target: pt:dre:636412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165048:por
+  label: "Alterado o art. 24º do Estatuto pelo DEC LEI.136/2001.2001.04.24.MADRP,DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2001-165048
+  date: '2001-04-24'
+- type: amended_by
+  target: pt:dre:518852:por
+  label: "Determinada a sucessão do GPP relativamente às atribuições do IFADAP, no domínio do planeamento de todos os fundos\
+    \ aplicáveis à agricultura e pescas pelo DR.6/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2007-518852
+  date: '2007-02-27'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que as Direcções Regionais de Agricultura e Pescas sucedam, no âmbito das circunscrições territoriais\
+    \ respectivas, nas atribuições dos serviços regionais do IFADAP, cujo estatuto foi aprovado pelo presente diploma, pelo\
+    \ DR.12/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007, nos domínios referidos no nº 6 do art. 11º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: amended_by
+  target: pt:dre:520468:por
+  label: "Determinada a sucessão do IFAP nas atribuições do IFADAP, com excepção das atribuições no domínio dos controlos\
+    \ ex post e do planeamento dos fundos aplicáveis à agricultura e pescas, e revogado o presente diploma a partir de 01.04.2007\
+    \ pelo DEC LEI.87/2007.29.03.2007.MADRP, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2007-520468
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:636412:por
+  label: "Determinada a sucessão da IGAP nas atribuições do IFADAP, no domínio dos controlos ex post das operações de investimento\
+    \ financiadas pelo FEADER, cujo estatuto foi aprovado no presente diploma, pelo DR.79/2007.30.07.2007.MADRP, DR.IS [145]\
+    \ de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/79-2007-636412
+  date: '2007-07-30'
+- type: cites
+  target: pt:dre:223471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:450618:por
+  label: "Revogados a al. a) do art. 6º e os arts. 7º, 8º, 10º e 11º do Estatuto, pelo DEC LEI.250/2002.2002.11.21.MADRP DR.IS-A\
+    \ [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2002-450618
+  date: '2002-11-21'
 article_structure:
-  article_count: 26
+  article_count: 25
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:37Z'
   warnings: []
   errors: []
 ---
@@ -119,13 +177,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º Na data da entrada em vigor do presente diploma cessam todas as situações de licença sem vencimento, de requisição ou de destacamento do pessoal do quadro do IFADAP.
+Art. 2.º Na data da entrada em vigor do presente diploma cessam todas as situações de licença sem vencimento, de requisição ou de destacamento do pessoal do quadro do IFADAP.
 
-###### Art. 3.º A actual comissão directiva do IFADAP mantém-se em funções até à posse do conselho de administração, nomeado nos termos do Estatuto anexo.
+Art. 3.º A actual comissão directiva do IFADAP mantém-se em funções até à posse do conselho de administração, nomeado nos termos do Estatuto anexo.
 
-###### Art. 4.º É revogada toda a legislação que contrarie o disposto no presente decreto-lei e Estatuto anexo, nomeadamente:
+Art. 4.º É revogada toda a legislação que contrarie o disposto no presente decreto-lei e Estatuto anexo, nomeadamente:
 
 a) O [Decreto-Lei n.º 344/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1977-256209), de 19 de Agosto, ratificado, com emendas, pela [Lei n.º 14/78](https://diariodarepublica.pt/dr/detalhe/lei/14-1978-447691), de 23 de Março;
 
@@ -137,15 +195,15 @@ d) O [Decreto-Lei n.º 430/89](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Eduardo Eugénio Castro Azevedo Soares.
 
-**Promulgado em 13 de Dezembro de 1993.**
+Promulgado em 13 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1993.**
+Referendado em 16 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP)
 

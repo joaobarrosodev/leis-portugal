@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/270a00/64346435.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/383/1993/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1993-676426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3db3c7b43c1b7084a47752c62f1b82a34664a9a2e48a320efee3c5e9cd787084
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08a405b487839f4d53590664ceaf43220c5f92844a05ab401c2bb461ad8a8be2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aparelho de Medição
 - Aproximação das Legislações
 - CEE
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
-- Aparelho de Medição
 - Instituto Português da Qualidade
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:106886614:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 2.º, 3.º, 5.º, 6.º, 10.º a 12.º e aditados os artigos 3.º-A e 4.º-A, pelo DEC LEI.139/95.14.06.1995.MIE,\
+    \ DR.IS-A [136] de 14.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterado o art. 2º, com a redacção dada pelo Dec Lei 139/95 de 14-Jun, pelo DEC LEI.374/98.1998.11.24.MECO DR.IS-A\
+    \ [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
 - type: cites
   target: celex:31990L0384
   label: null
   source: http://data.europa.eu/eli/dir/1990/384/oj
+- type: repealed_by
+  target: pt:dre:106886614:por
+  label: Revogado pelo(a) Decreto-Lei n.º 43/2017 - Diário da República n.º 76/2017, Série I de 2017-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2017-106886614
+  date: '2017-04-18'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:53Z'
   warnings: []
   errors: []
 ---
@@ -214,12 +231,12 @@ As aprovações de modelo efectuadas segundo especificações não comunitárias
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.
 
-**Promulgado em 3 de Novembro de 1993.**
+Promulgado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

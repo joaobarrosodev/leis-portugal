@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/1993/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1993-358128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ce6e686a2a8d6db70cb4251cfa2a1d4f7e1d6ac30676cf23ae845ab27153230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0965f4d4fabd8666848b970406b7590fbb5c7c105c65141e33704d8c30efdb94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Indemnização
+- Prédio Urbano
 - Regime Jurídico
 - Renda Condicionada
 - Renda Livre
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:255820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255820:por
+  label: "ALTERADO, POR RATIFICAÇÃO, O ART 81-A, QUE CONFERIU NOVA REDACÇÃO AO REGIME DO ARRENDAMENTO URBANO (APROVADO PELO\
+    \ DEC LEI 312-B/90 DE 15-OUT), PELA LEI 13/94 DE 11-MAI DR.IS-A [109].\0R.IS-A [109]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1994-255820
+  date: '1994-05-10'
+- type: amended_by
+  target: pt:dre:255820:por
+  label: "ALTERADO, POR RATIFICAÇÃO, O ART.2º (NA PARTE EM QUE ADITA O ART. 81º-A AO REGIME DO ARRENDAMENTO URBANO, APROVADO\
+    \ PELO DEC LEI 321-B/90 DE 15-OUT) PELA LEI 13/94.1994.05.11.AR, DR.IS-A [109] DE 11/MAI/1994.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1994-255820
+  date: '1994-05-11'
+- type: amended_by
+  target: pt:dre:155052:por
+  label: "Declarada inconstitucional, com força obrigatória geral, a norma do artº 1º do presente diploma, na parte em que\
+    \ elimina o nº 3 do artº 89º do Regime do Arrendamento Urbano (aprovado pelo Dec Lei 321-B/90 de 15-Out), pelo AC.410/97.1997.05.23.TCS\
+    \ (Proc. nº 153/97) DR.IS-A [155] de 1997.07.08\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/410-1997-155052
+  date: '1997-05-23'
+- type: amended_by
+  target: pt:dre:158379:por
+  label: "Declarada a inconstitucionalidade parcial, com força obrigatória geral, da norma do art. 69º, nº 1, al. a) do Regime\
+    \ do Arrendamento Urbano, aprovado pelo Dec Lei 321-B/90, de 15-Out, na redacção do presente diploma, pelo AC.55/99.1999.01.26.TCS,\
+    \ Dr.IS-A [42] de 19/Fev/1999 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/55-1999-158379
+  date: '1999-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/14/1993/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/1993/05/14/p/dre
+- type: cites
+  target: pt:dre:275855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:42Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +162,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 14/93](https://diariodarepublica.pt/dr/detalhe/lei/14-1993-275855), de 14 de Maio, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 30.º, 31.º, 69.º, 78.º, 89.º e 99.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 30.º, 31.º, 69.º, 78.º, 89.º e 99.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 30.º — [...]
 
@@ -168,7 +206,7 @@ b) ...
 
 2 - Aos mesmos contratos não se aplica o disposto nos artigos 47.º a 49.º, 81.º-A, 89.º-A a 89.º-C, 90.º a 97.º e 102.º a 109.º, bem como, quando tenham um prazo de duração efectiva inferior a oito anos, o n.º 2 do artigo 78.º do presente diploma.
 
-###### Art. 2.º São inseridos no Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, os artigos 81.º-A, 89.º-A, 89.º-B, 89.º-C e 89.º-D, com a seguinte redacção:
+Art. 2.º São inseridos no Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, os artigos 81.º-A, 89.º-A, 89.º-B, 89.º-C e 89.º-D, com a seguinte redacção:
 
 ###### Artigo 81.º-A — Actualização até ao limite da renda condicionada
 
@@ -210,12 +248,12 @@ Art 3.º O montante da indemnização resultante da denúncia efectuada nos term
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1993.**
+Referendado em 30 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

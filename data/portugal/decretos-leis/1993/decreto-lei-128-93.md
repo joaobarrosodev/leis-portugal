@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/094a00/19651967.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1993/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1993-692647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ff9f4fb6fe65f759d2f46938e409bcda5ce7e5ad4b3c28fadac0059fe4c25b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1816f017882666f59c9b54e834690c762268684c2285918f708d256c5cbea66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,30 +70,47 @@ subjects:
 - CEE
 - Contra-ordenação
 - Controlo de Qualidade
-- Política de Saúde
 - Instituto Português da Qualidade
 - Ministério da Indústria e Energia
 - Normas de Segurança
+- Política de Saúde
 - Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:124097548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 1.º, 2.º, 8.º, 9.º e aditados os artigos 3.º-A, 3.º-B, 3.º-C e 9.º-A pelo DEC LEI.139/95.14.06.1995.MIE,\
+    \ DR.IS-A [136] de 14.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterados os arts. 1º, 3º e 5º, com a redacção dada pelo Dec Lei 139/95 de 14-Jun, e aditado o art. 8º-A pelo DEC\
+    \ LEI.374/98.1998.11.24.MECO DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
 - type: cites
   target: celex:31989L0686
   label: null
   source: http://data.europa.eu/eli/dir/1989/686/oj
+- type: repealed_by
+  target: pt:dre:124097548:por
+  label: Revogado pelo(a) Decreto-Lei n.º 118/2019 - Diário da República n.º 159/2019, Série I de 2019-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2019-124097548
+  date: '2019-08-21'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:21Z'
   warnings: []
   errors: []
 ---
@@ -218,12 +235,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte à data da sua publi
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

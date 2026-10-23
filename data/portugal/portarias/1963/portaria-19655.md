@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19655-1963-193233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9d5b32ea896be6c84637f90f5ccc1d891b930ff32833fe90ee294a49a4a0bd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22a0226ca2d12e62820def3d8c7ce72bd9f92c1051715669affb8f2c7fd5f75b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Geral do Ultramar
+- Conselho Ultramarino
+- Hospital do Ultramar
+- Instituto de Medicina Tropical
+- Orçamento
 relationships:
 - type: amended_by
   target: pt:dre:627430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627430:por
+  label: "Alterado o quadro de pessoal, pela PORT.19905.19.06.1963.MU, DG.IS [143] de 19.06.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19905-1963-627430
+  date: '1963-06-19'
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:58Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +124,26 @@ Ministério do Ultramar, 25 de Janeiro de 1963. - O Ministro do Ultramar, Antón
 
 Conselho Ultramarino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
 
 Instituto de Medicina Tropical
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
 
 Hospital do Ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
 
 Jardim e Museu Agrícola do Ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
 
 Agência-Geral do Ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
 
 Núcleo de Documentação Técnica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02100/00610079.pdf)
 
 Direcção-Geral de Fazenda, 25 de Janeiro de 1963. - O Director-Geral, Mário Marques Pinto.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/110a00/24992500.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/1993/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1993-275600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b0095bbc8a026e707cd1a6d6a01eb490dc571d5b16eaaf3809d064834d0702
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9295c116b3a900c008e7115f19e8345fc26ccca91403cea9eb130e9e81dccde8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Animal Reprodutor
 - Aproximação das Legislações
 - CEE
-- Multa
 - Contra-ordenação
 - Gado Suíno
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
+- Multa
 - Política Agrícola Comum
 relationships:
 - type: amended_by
@@ -83,16 +83,21 @@ relationships:
   target: celex:31988L0661
   label: null
   source: http://data.europa.eu/eli/dir/1988/661/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: Revogado, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:22Z'
   warnings: []
   errors: []
 ---
@@ -113,23 +118,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [88/661/CEE](https://data.europa.eu/eli/dir/1988/661/oj?locale=pt), do Conselho, de 19 de Dezembro, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [88/661/CEE](https://data.europa.eu/eli/dir/1988/661/oj?locale=pt), do Conselho, de 19 de Dezembro, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 3.º Para efeitos do presente diploma, a autoridade nacional é o Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), competindo-lhe a orientação e a coordenação das acções a desenvolver no âmbito do presente diploma e respectiva regulamentação, podendo essa competência ser delegada nas direcções regionais.
+Art. 3.º Para efeitos do presente diploma, a autoridade nacional é o Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), competindo-lhe a orientação e a coordenação das acções a desenvolver no âmbito do presente diploma e respectiva regulamentação, podendo essa competência ser delegada nas direcções regionais.
 
-###### Art. 4.º - 1 - A recusa das associações ou organizações de criadores de inscrição nos respectivos livros genealógicos de suínos reprodutores de raça pura provenientes de outros Estados membros que satisfaçam as condições fixadas nos termos do artigo 2.º, bem como a comercialização de suínos reprodutores de raça pura ou híbrida sem o certificado respectivo, constituem contra-ordenações, puníveis com coima, a aplicar pelo presidente do IEADR, cujo montante mínimo é de 10000$00 e o máximo de 500000$00.
+Art. 4.º - 1 - A recusa das associações ou organizações de criadores de inscrição nos respectivos livros genealógicos de suínos reprodutores de raça pura provenientes de outros Estados membros que satisfaçam as condições fixadas nos termos do artigo 2.º, bem como a comercialização de suínos reprodutores de raça pura ou híbrida sem o certificado respectivo, constituem contra-ordenações, puníveis com coima, a aplicar pelo presidente do IEADR, cujo montante mínimo é de 10000$00 e o máximo de 500000$00.
 
 2 - A negligência é punível.
 
 3 - As coimas aplicadas às pessoas colectivas poderão elevar-se até aos montantes máximos de 6000000$00, em caso de dolo, e de 3000000$00, em caso de negligência.
 
-###### Art. 5.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na legislação em vigor.
+Art. 5.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na legislação em vigor.
 
 2 - Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou a renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 6.º O produto das coimas constitui receita:
+Art. 6.º O produto das coimas constitui receita:
 
 a) Em 30%, para o IEADR;
 
@@ -137,16 +142,16 @@ b) Em 10%, para a entidade autuante;
 
 c) Em 60%, para o Estado.
 
-###### Art. 7.º Compete ao IEADR, sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação.
+Art. 7.º Compete ao IEADR, sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1993. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

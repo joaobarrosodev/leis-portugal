@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/242a00/48834888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/1992/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1992-220732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9694c9247ac09e73c1e7991fefcfd5f77c985c0ed25a5534b42cbd785f64615
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d41eb0f6c524c48f20a0ca8d7c2a3633c3f26994dbdc1ba7eb9db386df07186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Exército
+- Forças Armadas
 - Hospital Militar de Belém
 - Hospital Militar Principal
 - Hospital Militar Regional Nº 1
@@ -74,7 +74,7 @@ subjects:
 - Hospital Militar Regional Nº 3
 - Hospital Militar Regional Nº 4
 - Integração de Trabalhadores
-- Forças Armadas
+- Médico
 - Pessoal Civil
 - Quadro de Pessoal
 relationships:
@@ -90,16 +90,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419/1991/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419/1991/05/21/p/dre
+- type: cites
+  target: pt:dre:331851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640093:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507227:por
+  label: Revogado a partir da entrada em vigor da portaria prevista no art. 1º do DEC LEI.177/2004.27.07.2004.MDN, DR.IS-A
+    [175] de 27.07.2004
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2004-507227
+  date: '2004-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:26Z'
   warnings: []
   errors: []
 ---
@@ -120,26 +142,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O quadro do pessoal civil do Exército, aprovado pela [Portaria n.º 419/91](https://diariodarepublica.pt/dr/detalhe/portaria/419-1991-640093), de 21 de Maio, é alterado de acordo com os mapas I, II, III, IV, V e VI anexos ao presente decreto-lei, que dele fazem parte integrante.
+Artigo 1.º O quadro do pessoal civil do Exército, aprovado pela [Portaria n.º 419/91](https://diariodarepublica.pt/dr/detalhe/portaria/419-1991-640093), de 21 de Maio, é alterado de acordo com os mapas I, II, III, IV, V e VI anexos ao presente decreto-lei, que dele fazem parte integrante.
 
-###### Art. 2.º Os médicos civis do Exército, admitidos ao abrigo do artigo 3.º do [Decreto-Lei n.º 524-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-c-1977-331851), de 28 de Dezembro, que exerçam funções em regime de tempo completo transitam para os lugares do quadro anexo ao presente diploma, desde que reúnam os requisitos legalmente estabelecidos para as correspondentes categorias, mantendo-se nos escalões em que foram integrados por força do [Decreto-Lei n.º 143/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1991-615862), de 12 de Abril, sem prejuízo das alterações decorrentes dos 1.º e 2.º descongelamentos de escalões.
+Art. 2.º Os médicos civis do Exército, admitidos ao abrigo do artigo 3.º do [Decreto-Lei n.º 524-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-c-1977-331851), de 28 de Dezembro, que exerçam funções em regime de tempo completo transitam para os lugares do quadro anexo ao presente diploma, desde que reúnam os requisitos legalmente estabelecidos para as correspondentes categorias, mantendo-se nos escalões em que foram integrados por força do [Decreto-Lei n.º 143/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1991-615862), de 12 de Abril, sem prejuízo das alterações decorrentes dos 1.º e 2.º descongelamentos de escalões.
 
-###### Art. 3.º Os médicos de clínica geral mantêm a categoria, a extinguir quando vagar, bem como a remuneração fixada para a categoria de clínico geral prevista no artigo 47.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março.
+Art. 3.º Os médicos de clínica geral mantêm a categoria, a extinguir quando vagar, bem como a remuneração fixada para a categoria de clínico geral prevista no artigo 47.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março.
 
-###### Art. 4.º As disposições legais que vierem a ser publicadas relativamente à carreira médica hospitalar dos serviços e estabelecimentos do Serviço Nacional de Saúde são também aplicáveis ao pessoal médico civil dos serviços departamentais das Forças Armadas.
+Art. 4.º As disposições legais que vierem a ser publicadas relativamente à carreira médica hospitalar dos serviços e estabelecimentos do Serviço Nacional de Saúde são também aplicáveis ao pessoal médico civil dos serviços departamentais das Forças Armadas.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em Viana do Castelo em 25 de Setembro de 1992.**
+Promulgado em Viana do Castelo em 25 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1992.**
+Referendado em 30 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do MAPA I ao MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/242a00/48834888.pdf))](https://files.diariodarepublica.pt/1s/1992/10/242a00/48834888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/242a00/48834888.pdf)

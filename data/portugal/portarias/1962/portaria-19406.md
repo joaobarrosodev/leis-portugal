@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19406-1962-160480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c5a187dbb40bb4dde9fe8c8e41d9553cb0f06e9bedeea9b70d69cabbcba504c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a33e6ffba1e6c768dad8a96db06ca7f09c9c46579c090dd1a35561db02386469
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:38Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +107,7 @@ Nos termos do artigo 3.º do [Decreto-Lei n.º 31913](https://diariodarepublica.
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que o mapa do pessoal não compreendido no quadro de direcção e chefia do Hospital Magalhães de Lemos, aprovado pela [Portaria n.º 17311](https://diariodarepublica.pt/dr/detalhe/portaria/17311-1959-432025), de 26 de Agosto de 1959, passe a ter a seguinte constituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/22400/12971297.pdf))](https://files.diariodarepublica.pt/1s/1962/09/22400/12971297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/22400/12971297.pdf)
 
 Esta portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 

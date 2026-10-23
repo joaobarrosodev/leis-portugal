@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19562-1962-155215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5d1c7136486be79e57be7e3d7e124cd245e65878d59ee07c1e74296a0613af8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5da9c73d8566a7a5d7d7333faeff5d41392820b4e84762129925ee11b9bbda5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:59Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +104,13 @@ I
 
 Dos fins
 
-###### Artigo 1.º O Gabinete de Higiene e Segurança do Trabalho, criado na Junta da Acção Social pela [Portaria n.º 19533](https://diariodarepublica.pt/dr/detalhe/portaria/19533-1962-155427), de 30 de Novembro de 1962, destina-se à investigação, estudo e difusão dos princípios e técnicas da prevenção de acidentes de trabalho e doenças profissionais.
+Artigo 1.º O Gabinete de Higiene e Segurança do Trabalho, criado na Junta da Acção Social pela [Portaria n.º 19533](https://diariodarepublica.pt/dr/detalhe/portaria/19533-1962-155427), de 30 de Novembro de 1962, destina-se à investigação, estudo e difusão dos princípios e técnicas da prevenção de acidentes de trabalho e doenças profissionais.
 
 II
 
 Das atribuições
 
-###### Art. 2.º São atribuições do Gabinete de Higiene e Segurança do Trabalho:
+Art. 2.º São atribuições do Gabinete de Higiene e Segurança do Trabalho:
 
 a) Proceder aos trabalhos de investigação e elaborar os estudos que interessem ao desenvolvimento e a um melhor conhecimento dos princípios e técnicas da higiene e segurança do trabalho;
 
@@ -124,7 +136,7 @@ III
 
 Dos meios de actuação
 
-###### Art. 3.º Para a realização das suas atribuições, o Gabinete disporá dos seguintes meios técnicos:
+Art. 3.º Para a realização das suas atribuições, o Gabinete disporá dos seguintes meios técnicos:
 
 a) Uma biblioteca;
 
@@ -132,7 +144,7 @@ b) Um laboratório;
 
 c) Uma exposição permanente.
 
-###### Art. 4.º Os objectivos conferidos ao Gabinete de Higiene e Segurança do Trabalho serão prosseguidos, designadamente, através dos seguintes meios de acção:
+Art. 4.º Os objectivos conferidos ao Gabinete de Higiene e Segurança do Trabalho serão prosseguidos, designadamente, através dos seguintes meios de acção:
 
 a) Imprensa, rádio e televisão;
 
@@ -154,9 +166,9 @@ IV
 
 Da constituição e funcionamento
 
-###### Art. 5.º O Gabinete de Higiene e Segurança do Trabalho será constituído por um director e por três vogais, nomeados pelo Ministro das Corporações e Previdência Social.
+Art. 5.º O Gabinete de Higiene e Segurança do Trabalho será constituído por um director e por três vogais, nomeados pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 6.º Os serviços do Gabinete são agrupados nos três sectores seguintes, a distribuir pelos vogais:
+Art. 6.º Os serviços do Gabinete são agrupados nos três sectores seguintes, a distribuir pelos vogais:
 
 a) Higiene;
 
@@ -164,13 +176,13 @@ b) Segurança;
 
 c) Divulgação e propaganda.
 
-###### Art. 7.º Incumbe especialmente ao Gabinete:
+Art. 7.º Incumbe especialmente ao Gabinete:
 
 a) Elaborar, até 1 de Dezembro, e submeter à apreciação da Junta da Acção Social o plano de actividades e o orçamento das despesas para o ano seguinte;
 
 b) Elaborar e submeter à apreciação superior, até 31 de Março de cada ano, relatório circunstanciado das actividades do Gabinete no ano anterior.
 
-###### Art. 8.º Compete especialmente ao director:
+Art. 8.º Compete especialmente ao director:
 
 a) Superintender em todos os serviços do Gabinete;
 
@@ -192,7 +204,7 @@ i) Representar o Gabinete em todos os actos em que este tenha de intervir;
 
 j) Tomar todas as demais providências que se tornem necessárias à prossecução dos fins do Gabinete.
 
-###### Art. 9.º Incumbe especialmente aos vogais:
+Art. 9.º Incumbe especialmente aos vogais:
 
 a) Coadjuvar o director no exercício das suas funções e substituí-lo nos seus impedimentos ou quando para o efeito haja delegação de poderes;
 
@@ -206,15 +218,15 @@ e) Elaborar, até 28 de Fevereiro, e submeter ao director relatório circunstanc
 
 f) Velar pela boa ordem dos serviços a seu cargo e pela disciplina do pessoal.
 
-###### Art. 10.º Os estudos e trabalhos elaborados pelo director, pelos vogais ou por qualquer outro colaborador serão apreciados em reunião do Gabinete, que sobre eles dará parecer.
+Art. 10.º Os estudos e trabalhos elaborados pelo director, pelos vogais ou por qualquer outro colaborador serão apreciados em reunião do Gabinete, que sobre eles dará parecer.
 
-###### Art. 11.º A colaboração com a Direcção-Geral do Trabalho e Corporações, nos termos da alínea d) do artigo 2.º, visará o aperfeiçoamento do regime jurídico dos serviços de segurança de empresa e a sua maior eficiência.
+Art. 11.º A colaboração com a Direcção-Geral do Trabalho e Corporações, nos termos da alínea d) do artigo 2.º, visará o aperfeiçoamento do regime jurídico dos serviços de segurança de empresa e a sua maior eficiência.
 
-###### Art. 12.º A acção de divulgação e propaganda a que se refere a alínea e) do artigo 2.º, a executar pela Junta da Acção Social, será planeada, organizada e orientada pelo Gabinete.
+Art. 12.º A acção de divulgação e propaganda a que se refere a alínea e) do artigo 2.º, a executar pela Junta da Acção Social, será planeada, organizada e orientada pelo Gabinete.
 
 § único. O Gabinete submeterá à aprovação da comissão executiva da Junta da Acção Social, até 31 de Outubro, o programa das actividades a realizar no ano seguinte e dará apoio técnico permanente à respectiva execução, não podendo os programas ser divulgados sem a sua informação final.
 
-###### Art. 13.º A preparação das missões, em matéria de prevenção de acidentes de trabalho e doenças profissionais, tanto no que respeita à formação do respectivo pessoal como ao seu apetrechamento, incumbe ao Gabinete.
+Art. 13.º A preparação das missões, em matéria de prevenção de acidentes de trabalho e doenças profissionais, tanto no que respeita à formação do respectivo pessoal como ao seu apetrechamento, incumbe ao Gabinete.
 
 § único. O chefe do serviço de missões da Junta da Acção Social colaborará com o Gabinete na preparação referida no corpo deste artigo.
 
@@ -222,78 +234,78 @@ V
 
 Da cooperação com outras entidades interessadas na prevenção
 
-###### Art. 14.º O Gabinete poderá solicitar da Inspecção do Trabalho, por intermédio da Direcção-Geral do Trabalho e Corporações, elementos de informação de que necessite para cumprimento das suas atribuições.
+Art. 14.º O Gabinete poderá solicitar da Inspecção do Trabalho, por intermédio da Direcção-Geral do Trabalho e Corporações, elementos de informação de que necessite para cumprimento das suas atribuições.
 
-###### Art. 15.º O Gabinete prestará a sua colaboração à Caixa Nacional de Seguros de Doenças Profissionais, para os fins indicados na parte final do artigo 2.º do [Decreto-Lei n.º 44307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44307-1962-516070), de 27 de Abril de 1962, tanto no que respeita à prevenção psicológica como à prevenção técnica das doenças profissionais.
+Art. 15.º O Gabinete prestará a sua colaboração à Caixa Nacional de Seguros de Doenças Profissionais, para os fins indicados na parte final do artigo 2.º do [Decreto-Lei n.º 44307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44307-1962-516070), de 27 de Abril de 1962, tanto no que respeita à prevenção psicológica como à prevenção técnica das doenças profissionais.
 
 § único. Os encargos resultantes desta colaboração serão suportados pela Caixa em conformidade com os acordos celebrados nos termos do § único do artigo 14.º do referido diploma.
 
-###### Art. 16.º O Gabinete cooperará com os organismos corporativos e demais instituições dependentes do Ministério das Corporações e Previdência Social, em tudo que respeite à organização de serviços de segurança, divulgação das regras e técnicas de higiene e segurança do trabalho e à criação e desenvolvimento do espírito de segurança entre os seus membros.
+Art. 16.º O Gabinete cooperará com os organismos corporativos e demais instituições dependentes do Ministério das Corporações e Previdência Social, em tudo que respeite à organização de serviços de segurança, divulgação das regras e técnicas de higiene e segurança do trabalho e à criação e desenvolvimento do espírito de segurança entre os seus membros.
 
-###### Art. 17.º Quando devidamente autorizado, poderá o Gabinete manter relações com organismos congéneres, nacionais ou estrangeiros, tendo em vista uma constante actualização de conhecimentos e o intercâmbio de meios de prevenção.
+Art. 17.º Quando devidamente autorizado, poderá o Gabinete manter relações com organismos congéneres, nacionais ou estrangeiros, tendo em vista uma constante actualização de conhecimentos e o intercâmbio de meios de prevenção.
 
 VI
 
 Da formação e especialização de técnicos de prevenção
 
-###### Art. 18.º Para o cumprimento do disposto na alínea h) do artigo 2.º, o Gabinete recorrerá, designadamente, à realização de cursos de formação ou de especialização de técnicos de prevenção de acidentes de trabalho e doenças profissionais, previstos na alínea g) do artigo 4.º
+Art. 18.º Para o cumprimento do disposto na alínea h) do artigo 2.º, o Gabinete recorrerá, designadamente, à realização de cursos de formação ou de especialização de técnicos de prevenção de acidentes de trabalho e doenças profissionais, previstos na alínea g) do artigo 4.º
 
 § único. Na organização destes cursos ter-se-á em atenção não só a preparação técnica especializada dos respectivos frequentadores, mas também o mais amplo aperfeiçoamento dos seus conhecimentos em matéria de política e doutrina social.
 
-###### Art. 19.º Os cursos serão, em princípio, realizados em colaboração com o Instituto de Formação Social e Corporativa, na parte que a este organismo especialmente compete.
+Art. 19.º Os cursos serão, em princípio, realizados em colaboração com o Instituto de Formação Social e Corporativa, na parte que a este organismo especialmente compete.
 
 § único. Poderão ser convidadas para a regência desses cursos, mediante autorização superior, personalidades de reconhecido mérito, nacionais ou estrangeiras.
 
-###### Art. 20.º O Gabinete submeterá oportunamente à aprovação superior os programas dos cursos que organize.
+Art. 20.º O Gabinete submeterá oportunamente à aprovação superior os programas dos cursos que organize.
 
-###### Art. 21.º A concessão de bolsas de estudo ao abrigo da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, sempre que visem fins de prevenção de acidentes de trabalho e doenças profissionais, carece do parecer do Gabinete.
+Art. 21.º A concessão de bolsas de estudo ao abrigo da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, sempre que visem fins de prevenção de acidentes de trabalho e doenças profissionais, carece do parecer do Gabinete.
 
 VII
 
 Da biblioteca
 
-###### Art. 22.º A biblioteca prevista na alínea a) do artigo 3.º será constituída por uma secção especializada da biblioteca do Instituto Nacional do Trabalho e Previdência e funcionará nas instalações do Gabinete, que proverá à sua guarda, organização e funcionamento.
+Art. 22.º A biblioteca prevista na alínea a) do artigo 3.º será constituída por uma secção especializada da biblioteca do Instituto Nacional do Trabalho e Previdência e funcionará nas instalações do Gabinete, que proverá à sua guarda, organização e funcionamento.
 
 § único. O disposto neste artigo não prejudica a integração da referida secção nas directrizes gerais respeitantes à organização e funcionamento da biblioteca do Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 23.º O Gabinete proporá ao Centro de Estudos Sociais e Corporativos a aquisição das obras nacionais ou estrangeiras que considere de real interesse.
+Art. 23.º O Gabinete proporá ao Centro de Estudos Sociais e Corporativos a aquisição das obras nacionais ou estrangeiras que considere de real interesse.
 
-###### Art. 24.º As obras transferidas para a biblioteca do Gabinete, bem como aquelas que lhe forem posteriormente enviadas, serão prèviamente inventariadas pelo Centro de Estudos, devendo este fornecer, no acto da entrega, um exemplar do inventário ou a nota de remessa.
+Art. 24.º As obras transferidas para a biblioteca do Gabinete, bem como aquelas que lhe forem posteriormente enviadas, serão prèviamente inventariadas pelo Centro de Estudos, devendo este fornecer, no acto da entrega, um exemplar do inventário ou a nota de remessa.
 
-###### Art. 25.º Nenhuma obra poderá, depois de confiada ao Gabinete, sair das respectivas instalações sem autorização prévia do seu director.
+Art. 25.º Nenhuma obra poderá, depois de confiada ao Gabinete, sair das respectivas instalações sem autorização prévia do seu director.
 
 VIII
 
 Do laboratório
 
-###### Art. 26.º O laboratório previsto na alínea b) do artigo 3.º destina-se essencialmente à realização dos trabalhos considerados indispensáveis à investigação e à colaboração que incumbem ao Gabinete.
+Art. 26.º O laboratório previsto na alínea b) do artigo 3.º destina-se essencialmente à realização dos trabalhos considerados indispensáveis à investigação e à colaboração que incumbem ao Gabinete.
 
-###### Art. 27.º A organização e funcionamento do laboratório constarão do regulamento especial a submeter oportunamente à aprovação do presidente da Junta da Acção Social.
+Art. 27.º A organização e funcionamento do laboratório constarão do regulamento especial a submeter oportunamente à aprovação do presidente da Junta da Acção Social.
 
 IX
 
 Do pessoal
 
-###### Art. 28.º O pessoal do Gabinete e respectivas remunerações serão fixados pelo presidente da Junta da Acção Social.
+Art. 28.º O pessoal do Gabinete e respectivas remunerações serão fixados pelo presidente da Junta da Acção Social.
 
 X
 
 Das receitas e despesas
 
-###### Art. 29.º As despesas com a instalação e funcionamento do Gabinete serão satisfeitas por força da dotação consignada no orçamento da Junta da Acção Social.
+Art. 29.º As despesas com a instalação e funcionamento do Gabinete serão satisfeitas por força da dotação consignada no orçamento da Junta da Acção Social.
 
-###### Art. 30.º Quaisquer receitas do Gabinete, designadamente as que forem obtidas em contrapartida da prestação de serviços, serão arrecadadas pelo Fundo de Formação Social e Corporativa.
+Art. 30.º Quaisquer receitas do Gabinete, designadamente as que forem obtidas em contrapartida da prestação de serviços, serão arrecadadas pelo Fundo de Formação Social e Corporativa.
 
-###### Art. 31.º As despesas do Gabinete carecem de autorização do presidente da Junta da Acção Social ou, por delegação, do vice-presidente.
+Art. 31.º As despesas do Gabinete carecem de autorização do presidente da Junta da Acção Social ou, por delegação, do vice-presidente.
 
 XI
 
 Disposições gerais
 
-###### Art. 32.º O Gabinete depende directamente da comissão executiva da Junta da Acção Social e deverá actuar, sempre que possível, através dos organismos e serviços que dependam da mesma Junta.
+Art. 32.º O Gabinete depende directamente da comissão executiva da Junta da Acção Social e deverá actuar, sempre que possível, através dos organismos e serviços que dependam da mesma Junta.
 
-###### Art. 33.º O pessoal do Gabinete é obrigado, sob pena de procedimento disciplinar, a guardar rigoroso sigilo profissional, não podendo em caso algum revelar segredos de fabricação ou comércio, nem quaisquer processos de exploração económica, de que porventura tenha conhecimento no exercício das suas funções.
+Art. 33.º O pessoal do Gabinete é obrigado, sob pena de procedimento disciplinar, a guardar rigoroso sigilo profissional, não podendo em caso algum revelar segredos de fabricação ou comércio, nem quaisquer processos de exploração económica, de que porventura tenha conhecimento no exercício das suas funções.
 
-###### Art. 34.º A resolução das dúvidas suscitadas na interpretação do presente regulamento incumbe ao presidente da Junta da Acção Social.
+Art. 34.º A resolução das dúvidas suscitadas na interpretação do presente regulamento incumbe ao presidente da Junta da Acção Social.
 
 Ministério das Corporações e Previdência Social, 18 de Dezembro de 1962. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

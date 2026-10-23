@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/1992/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1992-144064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8634282a34b63bd9b46031ed9719e7893bf2901a742fb81b5fdaa543f117b247
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6a97fedddbdf37dd5330e006312b3e602a21cbb8e1eb64a19301ab7a13c47da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Centro de Investigação e Formação Maria Cândida Marques de Sousa Beirão da Veiga e Cunha
 - Prorrogação de Prazo
 - Regime de Instalação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:476569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565388:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:31Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +106,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Centro de Investigação e Formação de Maria Cândida Marques de Sousa Beirão da Veiga da Cunha mantém-se em regime de instalação até 31 de Março de 1992.
+Artigo 1.º O Centro de Investigação e Formação de Maria Cândida Marques de Sousa Beirão da Veiga da Cunha mantém-se em regime de instalação até 31 de Março de 1992.
 
-###### Art. 2.º O presente diploma produz efeitos desde o dia 20 de Maio de 1991.
+Art. 2.º O presente diploma produz efeitos desde o dia 20 de Maio de 1991.
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991 - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Janeiro de 1992.**
+Promulgado em 6 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1992.**
+Referendado em 8 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

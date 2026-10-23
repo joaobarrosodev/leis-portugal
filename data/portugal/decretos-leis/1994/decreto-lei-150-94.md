@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1994-269400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8d50a084d4dfff7b2aceff18016c2ea440c5141ce4f05482075dc7072fa6862
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3174dd07d7db4e7dde28734491f1b6a2212fdc45a99b9d38d0871505c4564653
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
-- Desenvolvimento Rural
 - Comissão Consultiva
 - Contrato
 - Criação de Serviços
-- QCA
-- JURO Bonificado
+- Desenvolvimento Rural
 - Exploração Agrícola
 - Exploração Florestal
-- Programa de Apoio à Modernização Agrícola e Florestal
-- Agricultura
+- Financiamento
 - Ifadap
+- JURO Bonificado
+- Programa de Apoio à Modernização Agrícola e Florestal
+- QCA
 - Subsídio a Agricultores
 relationships:
 - type: amended_by
@@ -100,16 +100,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:257589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522859:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257010:por
+  label: "Revogados os nºs 2 e 3 do art. 7º e art. 8º, pelo DEC LEI.16/2013.28.01.2013.MAMAOT, DR.IS [19] de 28.01.2013, na\
+    \ parte em que contrariem o que ele dispõe.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2013-257010
+  date: '2013-01-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:19Z'
   warnings: []
   errors: []
 ---
@@ -126,9 +148,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as condições gerais de aplicação, no território continental, do Programa de Apoio à Modernização Agrícola e Florestal, adiante designado «PAMAF», do quadro comunitário de apoio para o período de 1994 a 1999.
+Artigo 1.º O presente diploma estabelece as condições gerais de aplicação, no território continental, do Programa de Apoio à Modernização Agrícola e Florestal, adiante designado «PAMAF», do quadro comunitário de apoio para o período de 1994 a 1999.
 
-###### Art. 2.º - 1 - O PAMAF tem por objectivos, nomeadamente, o reforço da competitividade do sector agrícola, a viabilização económica das explorações agrícolas e a preservação dos recursos naturais e do ambiente.
+Art. 2.º - 1 - O PAMAF tem por objectivos, nomeadamente, o reforço da competitividade do sector agrícola, a viabilização económica das explorações agrícolas e a preservação dos recursos naturais e do ambiente.
 
 2 - Para prossecução dos objectivos enunciados no número anterior, podem ser concedidas ajudas nos seguintes domínios:
 
@@ -146,13 +168,13 @@ e) Transformação e comercialização de produtos agrícolas e silvícolas.
 
 4 - Sem prejuízo do disposto no [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, o regime das ajudas a conceder no âmbito do presente diploma é objecto de resolução do Conselho de Ministros, excepto quando se trate de ajudas a conceder ao abrigo de regulamentos comunitários de natureza horizontal, caso em que é objecto de portaria do Ministro da Agricultura.
 
-###### Art. 3.º - 1 - As candidaturas às ajudas referidas neste decreto-lei são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos que vierem a ser exigidos no âmbito da regulamentação específica de cada ajuda.
+Art. 3.º - 1 - As candidaturas às ajudas referidas neste decreto-lei são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos que vierem a ser exigidos no âmbito da regulamentação específica de cada ajuda.
 
 2 - Após a recepção dos processos, podem as instituições receptoras solicitar aos candidatos esclarecimentos complementares, os quais devem ser apresentados no prazo máximo de 15 dias úteis, findos os quais a ausência de resposta, excepto quando não imputável ao candidato, significará a desistência das candidaturas.
 
-###### Art. 4.º Sem prejuízo de outras exigências fixadas ao nível da regulamentação específica dos regimes de ajudas, os projectos devem apresentar viabilidade técnica, económica e financeira adequada à sua dimensão e complexidade.
+Art. 4.º Sem prejuízo de outras exigências fixadas ao nível da regulamentação específica dos regimes de ajudas, os projectos devem apresentar viabilidade técnica, económica e financeira adequada à sua dimensão e complexidade.
 
-###### Art. 5.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
+Art. 5.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
 
 a) Bonificação de juros;
 
@@ -164,9 +186,9 @@ c) Subsídio reembolsável.
 
 3 - As condições de atribuição dos apoios financeiros, nomeadamente os seus montantes específicos, serão fixadas em regulamentação específica.
 
-###### Art. 6.º A atribuição das ajudas previstas no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), salvo nos casos em que a resolução do Conselho de Ministros ou a portaria referidas no n.º 4 do artigo 2.º prevejam outra entidade para outorgar em nome do Estado.
+Art. 6.º A atribuição das ajudas previstas no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), salvo nos casos em que a resolução do Conselho de Ministros ou a portaria referidas no n.º 4 do artigo 2.º prevejam outra entidade para outorgar em nome do Estado.
 
-###### Art. 7.º - 1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes do contrato, o IFADAP pode modificar ou rescindir unilateralmente os contratos.
+Art. 7.º - 1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes do contrato, o IFADAP pode modificar ou rescindir unilateralmente os contratos.
 
 2 - Em caso de rescisão do contrato pelo IFADAP, o beneficiário será notificado para, no prazo de 15 dias, proceder à restituição das importâncias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
@@ -180,23 +202,23 @@ c) Subsídio reembolsável.
 
 7 - Nos casos previstos na parte final do artigo anterior, as competências previstas para o IFADAP cabem à entidade então designada.
 
-###### Art. 8.º O beneficiário poderá, mediante requerimento, desistir da ajuda, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
+Art. 8.º O beneficiário poderá, mediante requerimento, desistir da ajuda, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
 
-###### Art. 9.º Todos os apoios financeiros ficam sujeitos à verificação da sua utilização em conformidade com o projecto apresentado, não podendo ser desviados para outros fins, nem colocados, alienados, ou por qualquer forma onerados, no todo ou em parte, os bens com ele adquiridos sem autorização prévia da entidade contratante, até que sejam atingidos os objectivos do investimento.
+Art. 9.º Todos os apoios financeiros ficam sujeitos à verificação da sua utilização em conformidade com o projecto apresentado, não podendo ser desviados para outros fins, nem colocados, alienados, ou por qualquer forma onerados, no todo ou em parte, os bens com ele adquiridos sem autorização prévia da entidade contratante, até que sejam atingidos os objectivos do investimento.
 
-###### Art. 10.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP ou pela entidade que contrate em nome do Estado, nos termos referidos no artigo 6.º
+Art. 10.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP ou pela entidade que contrate em nome do Estado, nos termos referidos no artigo 6.º
 
 2 - As certidões referidas no número anterior devem indicar a entidade que as tiver extraído, a data de emissão, a identificação e o domicílio do devedor, a proveniência da dívida, a indicação por extenso do montante e a data a partir da qual são devidos juros e a importância sobre que incidem.
 
 3 - Para as execuções instauradas ao abrigo do presente diploma é sempre competente o foro cível da comarca de Lisboa.
 
-###### Art. 11.º As ajudas referidas no presente diploma e respectiva legislação complementar não são cumuláveis com quaisquer outras da mesma natureza.
+Art. 11.º As ajudas referidas no presente diploma e respectiva legislação complementar não são cumuláveis com quaisquer outras da mesma natureza.
 
-###### Art. 12.º A cobertura orçamental do PAMAF é assegurada por verbas comunitárias e do Orçamento do Estado.
+Art. 12.º A cobertura orçamental do PAMAF é assegurada por verbas comunitárias e do Orçamento do Estado.
 
-###### Art. 13.º Sem prejuízo do disposto no [Decreto-Lei n.º 94/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1994-257589), de 19 de Abril, a gestão do PAMAF é assegurada pelo Instituto de Estruturas Agrárias e Desenvolvimento Rural.
+Art. 13.º Sem prejuízo do disposto no [Decreto-Lei n.º 94/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1994-257589), de 19 de Abril, a gestão do PAMAF é assegurada pelo Instituto de Estruturas Agrárias e Desenvolvimento Rural.
 
-###### Art. 14.º - 1 - É criada a comissão consultiva do PAMAF, composta pelos dirigentes máximos dos serviços centrais e regionais do Ministério da Agricultura e, ainda, por quatro personalidades de reconhecido mérito ligadas aos sectores agrícola e florestal, designadas por despacho do Ministro da Agricultura.
+Art. 14.º - 1 - É criada a comissão consultiva do PAMAF, composta pelos dirigentes máximos dos serviços centrais e regionais do Ministério da Agricultura e, ainda, por quatro personalidades de reconhecido mérito ligadas aos sectores agrícola e florestal, designadas por despacho do Ministro da Agricultura.
 
 2 - Para além das funções que lhe sejam atribuídas no despacho referido no número anterior, compete à comissão consultiva do PAMAF:
 
@@ -204,7 +226,7 @@ a) Pronunciar-se sobre o funcionamento e execução do PAMAF, tendo em vista a s
 
 b) Dar parecer sobre o impacte dos investimentos efectuados, tendo em vista a avaliação do PAMAF.
 
-###### Art. 15.º São objecto da resolução do Conselho de Ministros ou da portaria referidas no n.º 4 do artigo 2.º, consoante a natureza das ajudas, as normas necessárias à boa execução do disposto no presente diploma, nomeadamente:
+Art. 15.º São objecto da resolução do Conselho de Ministros ou da portaria referidas no n.º 4 do artigo 2.º, consoante a natureza das ajudas, as normas necessárias à boa execução do disposto no presente diploma, nomeadamente:
 
 a) A natureza e os objectivos das ajudas;
 
@@ -218,20 +240,20 @@ e) A natureza, o nível e os limites máximos das ajudas e as condições da sua
 
 f) Os circuitos processuais de acesso às ajudas.
 
-###### Art. 16.º Às medidas florestais referidas no presente diploma aplica-se o disposto nos n.os 2 e 3 do artigo 11.º do [Decreto-Lei n.º 31/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1994-522859), de 5 de Fevereiro.
+Art. 16.º Às medidas florestais referidas no presente diploma aplica-se o disposto nos n.os 2 e 3 do artigo 11.º do [Decreto-Lei n.º 31/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1994-522859), de 5 de Fevereiro.
 
-###### Art. 17.º - 1 - É revogado o [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, relativo à melhoria da eficácia das estruturas agrícolas.
+Art. 17.º - 1 - É revogado o [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, relativo à melhoria da eficácia das estruturas agrícolas.
 
 2 - Sem prejuízo do disposto no número anterior, o [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, aplica-se até à entrada em vigor das medidas equivalentes previstas no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

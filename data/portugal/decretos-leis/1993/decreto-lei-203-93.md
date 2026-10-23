@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/129a00/29882996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/203/1993/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1993-257591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d72679ed2de57620c33577452ef8983da362b2fa4c9a546f1cba676a725b1c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0e0089827ea26aa22f785945a4cd24d0dac28230537e5d8242a4a25395f9782
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Serviço Nacional de Protecção Civil
 - Definição de Competências
 - Orgânica
+- Proteção Civil
+- Serviço Nacional de Protecção Civil
 - Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:667770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331175:por
+  label: "Alterada a redacção dos arts. 7.º, 8.º, 12.º, 15.º, 16.º, 18.º, 19.º, 21.º, 23.º, 24.º, 26.º, 29.º e 35.º e aditados\
+    \ os arts. 29.º-A, 29.º-B e 29.º-C ao presente diploma, pelo DEC LEI.152/99.1999.05.10.MAI DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-1999-331175
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:667770:por
+  label: "Alterado o quadro de pessoal do Exército, constante do mapa publicado em anexo ao presente diploma, passando a existir\
+    \ oito vagas no posto de tenente-general, pelo DEC LEI.60/2006.21.03.2006.MDN, DR.IS-A [57] de 21.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2006-667770
+  date: '2006-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
   label: null
@@ -83,16 +95,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/10/1992/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/10/1992/04/01/p/dre
+- type: cites
+  target: pt:dre:160138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:566791:por
+  label: "Rectificado pela DECL-RECT.145/93.1993.08.19.PCM, DR.IS-A [204]3ºSupl de 31/Ago/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/145-1993-566791
+  date: '1993-08-19'
+- type: repealed_by
+  target: pt:dre:231117:por
+  label: "Revogado, com a redacção dada pelo Dec Lei 152/99 de 10-Mai, pelo DEC LEI.49/2003.2003.03.25.MAI DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2003-231117
+  date: '2003-03-25'
 article_structure:
   article_count: 44
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:01Z'
   warnings: []
   errors: []
 ---
@@ -305,7 +363,9 @@ a) A Divisão de Planeamento e Operações (DPO);
 
 b) A Divisão de Telecomunicações, Aviso e Alerta (DTAA).
 
-###### Artigo 17.º — Divisão de Planeamento e Operações
+###### Artigo 17.º
+
+##### Divisão de Planeamento e Operações
 
 1 - À DPO compete:
 
@@ -331,7 +391,9 @@ j) Promover a realização de exercícios visando testar a operacionalidade dos 
 
 2 - A DPO é dirigida por um chefe de divisão.
 
-###### Artigo 18.º — Divisão de Telecomunicações, Aviso e Alerta
+###### Artigo 18.º
+
+##### Divisão de Telecomunicações, Aviso e Alerta
 
 1 - À DTAA compete:
 
@@ -365,7 +427,9 @@ a) Divisão de Riscos Naturais (DRN);
 
 b) Divisão de Riscos Tecnológicos e da Vida Corrente (DRTVC).
 
-###### Artigo 20.º — Divisão de Riscos Naturais
+###### Artigo 20.º
+
+##### Divisão de Riscos Naturais
 
 1 - Compete à DRN:
 
@@ -379,7 +443,9 @@ d) Manter informação actualizada sobre acidentes graves, catástrofes e calami
 
 2 - A DRN é dirigida por um chefe de divisão.
 
-###### Artigo 21.º — Divisão de Riscos Tecnológicos e da Vida Corrente
+###### Artigo 21.º
+
+##### Divisão de Riscos Tecnológicos e da Vida Corrente
 
 1 - Compete à DRTVC:
 
@@ -475,7 +541,9 @@ b) A Secção de Contabilidade e Tesouraria (SCT);
 
 c) A Secção de Aprovisionamento (SA).
 
-###### Artigo 27.º — Secção de Pessoal e Expediente
+###### Artigo 27.º
+
+#### Secção de Pessoal e Expediente
 
 1 - Compete à SPE:
 
@@ -487,7 +555,9 @@ c) Assegurar os serviços de expediente geral e arquivo.
 
 2 - A SPE é dirigida por um chefe de secção.
 
-###### Artigo 28.º — Secção de Contabilidade e Tesouraria
+###### Artigo 28.º
+
+#### Secção de Contabilidade e Tesouraria
 
 1 - Compete à SCT:
 
@@ -501,7 +571,9 @@ d) Processar a atribuição de subsídios de natureza social concedidos em compe
 
 2 - A SCT é dirigida por um chefe de secção.
 
-###### Artigo 29.º — Secção de Aprovisionamento
+###### Artigo 29.º
+
+#### Secção de Aprovisionamento
 
 1 - Compete à SA:
 
@@ -649,12 +721,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 10 de Maio de 1993.**
+Promulgado em 10 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1993.**
+Referendado em 13 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

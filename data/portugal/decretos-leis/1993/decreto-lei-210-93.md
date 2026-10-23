@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/1993/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1993-265694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26924204139f075686703e9e7afe6c81b51fd07c1b2b66a03bfb81259cdc230d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f598e5b76454dfbe2a1d031bf9095ea3623760e619a826a8698f140c54ab324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,17 @@ relationships:
   target: pt:dre:146876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA SOLIDARIEDADE E SEGURANÇA SOCIAL, COM AFECTAÇÃO PROVISÓRIA DE PESSOAL E\
+    \ PATRIMÓNIO, ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:476916:por
+  label: "Extinta pelo DEC LEI.35/96.02.05.1996.MSSS, DR.IS-A [102] de 02.05.1996, nos termos do seu art. 21.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1996-476916
+  date: '1996-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/1993/06/16/p/dre
   label: null
@@ -84,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:265689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:11Z'
   warnings: []
   errors: []
 ---
@@ -444,12 +467,12 @@ Os quadros de pessoal da Auditoria Jurídica, da Direcção-Geral da Organizaç�
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/1992/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1992-187930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d71018aff5599cb19c7222c660223287f5257b1a0c943e49f2d97423c9042ba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1a8912f6d0436ffca93323f049a928512946bf94ffd2de940b99aac64033358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gado Caprino
 - Contravenção
 - Controlo Sanitário
 - Direcção Geral da Pecuária
 - Gado Bovino
-- Gado Suíno
-- Reprodução Animal
+- Gado Caprino
 - Gado Ovino
+- Gado Suíno
 - Inseminação Artificial
-relationships: []
+- Reprodução Animal
+relationships:
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:15Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +116,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 12.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 12.º a 16.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º Compete ao Ministro da Agricultura aprovar, mediante portaria:
+Art. 2.º Compete ao Ministro da Agricultura aprovar, mediante portaria:
 
 a) ...
 
@@ -130,9 +142,9 @@ j) ...
 
 l) As regras a observar para a colheita e utilização de embriões nas várias espécies e raças de animais.
 
-###### Art. 12.º As competências que no continente são cometidas à Direcção-Geral da Pecuária são exercidas, nas Regiões Autónomas, pelos organismos e serviços das respectivas administrações regionais que prossigam idênticas atribuições.
+Art. 12.º As competências que no continente são cometidas à Direcção-Geral da Pecuária são exercidas, nas Regiões Autónomas, pelos organismos e serviços das respectivas administrações regionais que prossigam idênticas atribuições.
 
-###### Art. 13.º - 1 - A utilização de reprodutores masculinos, a realização de quaisquer operações de colheita, preparação e conservação do sémen, com inobservância do disposto no artigo 3.º, bem como das regras previstas no artigo 2.º, constituem contra-ordenações puníveis com a coima mínima de 500$00 e máxima de 500000$00, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
+Art. 13.º - 1 - A utilização de reprodutores masculinos, a realização de quaisquer operações de colheita, preparação e conservação do sémen, com inobservância do disposto no artigo 3.º, bem como das regras previstas no artigo 2.º, constituem contra-ordenações puníveis com a coima mínima de 500$00 e máxima de 500000$00, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
 
 2 - Nas infracções referidas no número anterior, quando verificadas na utilização de reprodutores masculinos em inseminação artificial, pode ser determinada, como sanção acessória, a apreensão dos reprodutores, do sémen e do material empregue na execução daquelas operações.
 
@@ -148,15 +160,15 @@ b) 3000000$00, em caso de negligência.
 
 6 - A tentativa e a negligência são puníveis.
 
-###### Art. 14.º - 1 - Às contra-ordenações previstas no artigo anterior podem ser aplicadas as demais sanções acessórias previstas no artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
+Art. 14.º - 1 - Às contra-ordenações previstas no artigo anterior podem ser aplicadas as demais sanções acessórias previstas no artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
 
 2 - As apreensões e a efectivação do encerramento dos centros e subcentros de inseminação artificial efectuar-se-ão, quando determinadas, mediante intervenção da Direcção-Geral da Inspecção Económica, dos comandos locais da Guarda Nacional Republicana ou da Polícia de Segurança Pública, consoante os casos, solicitada pela Direcção-Geral da Pecuária.
 
 3 - Quando se proceder ao encerramento dos estabelecimentos acima referidos ou ao cancelamento dos seus serviços, licenças ou alvarás, a sua reabertura ou renovação só terá lugar quando se encontrarem reunidas as condições legais e regulamentares para o seu funcionamento.
 
-###### Art. 15.º A competência para a aplicação das coimas e penas acessórias, previstas no presente diploma, cabe ao director-geral da Pecuária, podendo essa competência ser delegada nos directores regionais de agricultura.
+Art. 15.º A competência para a aplicação das coimas e penas acessórias, previstas no presente diploma, cabe ao director-geral da Pecuária, podendo essa competência ser delegada nos directores regionais de agricultura.
 
-###### Art. 16.º O produto das coimas aplicadas constitui receita dos seguintes organismos ou entidades:
+Art. 16.º O produto das coimas aplicadas constitui receita dos seguintes organismos ou entidades:
 
 a) 20% para a Direcção-Geral da Pecuária;
 
@@ -164,16 +176,16 @@ b) 20% para a entidade autuante;
 
 c) 60% para o Estado.
 
-###### Art. 2.º São revogados os artigos 17.º e 18.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.
+Art. 2.º São revogados os artigos 17.º e 18.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Álvaro dos Santos Amaro - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

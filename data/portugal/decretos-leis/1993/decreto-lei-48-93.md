@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1993-657443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7a738d79a65545206d2c56f21e9d526e3b20000d6e8f5df4f4d6e6226d0639e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5bca456d6381b4714debec2b6995cf0d70196b25219a41470ecbabb04998adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,7 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Assistência aos Tuberculosos das Forças Armadas
 - Centro Militar de Medicina Preventiva
 - Cofre de Previdência das Forças Armadas
@@ -74,13 +74,13 @@ subjects:
 - Criação de Serviços
 - Escola do Serviço de Saúde Militar
 - Estado Maior Coordenador Conjunto
+- Estado Maior General das Forças Armadas
+- Forças Armadas
 - Hospital Militar de Belém
 - Integração de Serviços
-- Forças Armadas
-- Orgânica
 - Madeira.região Autónoma
-- Estado Maior General das Forças Armadas
-- Açores
+- Orgânica
+- Reestruturação de Serviços
 - Transferência de Competências
 - Transferência de Pessoal
 relationships:
@@ -92,16 +92,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571406:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682871:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 40/93, PUBLICADA NO DR.IS-A, 76, 2 SUPL, DE 930331.\0331.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/40-1993-682871
+- type: repealed_by
+  target: pt:dre:489711:por
+  label: "Revogado, a partir de 01.10.2009, com excepção do anexo i, no que se refere ao pessoal militar de posto igual ou\
+    \ inferior a capitão-de-mar-e-guerra ou coronel, e dos anexos ii e iii, mantendo-se todos em vigor até à adopção de legislação\
+    \ própria prevista no artigo 42.º, sendo republicados, extintos o Estado-Maior Coordenador Conjunto, o Centro de Operações\
+    \ das Forças Armadas, a Divisão de Informações Militares, a Divisão de Operações e o Centro de Operações Conjunto, todos\
+    \ previstos no presente diploma, sendo as suas atribuições integradas respectivamente no Estado-Maior Conjunto, no Comando\
+    \ Operacional Conjunto, no Centro de Informações e Segurança Militares, no Comando Operacional Conjunto, no Comando Operacional\
+    \ Conjunto. Reestruturadas a Divisão de Planeamento Estratégico Militar, a Divisão de Comunicações e Sistemas de Informação,\
+    \ a Divisão de Recursos e os orgãos de apoio geral e reestruturados ainda o Comando Operacional dos Açores e o Comando\
+    \ Operacional da Madeira, pelo DEC LEI.234/2009.15.09.2009.MDN, DR.IS [179] de 15.09.2009 - Ver Notas\0s\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2009-489711
+  date: '2009-09-15'
+- type: repealed_by
+  target: pt:dre:65983261:por
+  label: Revogados a partir de 01.01.2015 os anexos I, no que se refere ao pessoal militar de posto igual ou inferior a capitão-de-mar-e-guerra
+    ou coronel, II e III ao presente diploma pelo(a) Decreto-Lei n.º 184/2014 - Diário da República n.º 250/2014, Série I
+    de 2014-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-2014-65983261
+  date: '2014-12-29'
 article_structure:
   article_count: 33
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:58Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +226,9 @@ e) Órgãos de apoio geral.
 
 2 - O adjunto para o planeamento dispõe de um estado-maior pessoal para apoio técnico e administrativo.
 
-###### Artigo 8.º — Divisão de Planeamento Estratégico-Militar
+###### Artigo 8.º
+
+##### Divisão de Planeamento Estratégico-Militar
 
 1 - A DIPLAEM presta apoio de estado-maior no âmbito do planeamento estratégico-militar e das relações internacionais com incidências de natureza militar, sem prejuízo das competências que nessas áreas incumbem ao Ministério da Defesa Nacional.
 
@@ -228,7 +270,9 @@ l) A organização das Forças Armadas;
 
 m) A organização de exposições orais e relatórios sobre a situação geral das Forças Armadas e do EMGFA.
 
-###### Artigo 9.º — Divisão de Comunicações e Sistemas de Informação
+###### Artigo 9.º
+
+##### Divisão de Comunicações e Sistemas de Informação
 
 1 - A DICSI presta apoio de estado-maior no que respeita aos assuntos de comando, controlo, comunicações e informação, sem prejuízo das competências que nessas áreas incumbem ao Ministério da Defesa Nacional.
 
@@ -268,7 +312,9 @@ j) O conhecimento das capacidades e limitações dos organismos civis de telecom
 
 4 - A DICSI superintende tecnicamente no funcionamento dos Centros de Comunicações e de Cifra e de Informática do EMGFA.
 
-###### Artigo 10.º — Divisão de Recursos
+###### Artigo 10.º
+
+##### Divisão de Recursos
 
 1 - A DIREC presta apoio de estado-maior no que respeita às áreas de pessoal, logística e finanças directamente relacionadas com o emprego operacional das Forças Armadas, sem prejuízo das competências do Ministério da Defesa Nacional nessas áreas.
 
@@ -366,7 +412,9 @@ d) Centro de Operações Conjunto (COC).
 
 2 - O adjunto para as operações dispõe de um estado-maior pessoal para apoio técnico e administrativo.
 
-###### Artigo 14.º — Divisão de Informações Militares
+###### Artigo 14.º
+
+##### Divisão de Informações Militares
 
 1 - A DIMIL presta apoio de estado-maior no âmbito das informações e da segurança militares.
 
@@ -404,7 +452,9 @@ i) O aperfeiçoamento da formação e desenvolvimento técnico do seu pessoal;
 
 j) O estabelecimento de um sistema de registos e relatórios, de natureza operacional, do seu âmbito.
 
-###### Artigo 15.º — Divisão de Operações
+###### Artigo 15.º
+
+##### Divisão de Operações
 
 1 - A DIOP presta apoio de estado-maior no que respeita ao planeamento operacional.
 
@@ -502,7 +552,9 @@ a) Dirigir, coordenar e supervisar o trabalho do estado-maior, por forma a asseg
 
 b) Assegurar o funcionamento do COC e a manutenção de bancos de dados actualizados em todas as áreas do quartel-general susceptíveis de virem a ser activadas.
 
-###### Artigo 18.º — Secção de Dados de Situação
+###### Artigo 18.º
+
+#### Secção de Dados de Situação
 
 1 - A Secção de Dados de Situação é o órgão que tem por função manter um banco de dados actualizado no que respeita às áreas do quartel-general não activadas.
 
@@ -682,32 +734,32 @@ A transição dos órgãos e serviços que sejam dotados de quadros próprios da
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em Vila Franca de Xira em 2 de Fevereiro de 1993.**
+Promulgado em Vila Franca de Xira em 2 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1993.**
+Referendado em 4 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo I a que se refere o n.º 1 do artigo 28.º do Decreto-Lei n.º 48/93
+Anexo I a que se refere o n.º 1 do artigo 28.º do Decreto-Lei n.º 48/93
 
 Quadro de pessoal militar do EMGFA
 
 Distribuição por ramos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf))](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf)
 
-## Anexo II a que se refere o n.º 4 do artigo 28.º do Decreto-Lei n.º 48/93
+Anexo II a que se refere o n.º 4 do artigo 28.º do Decreto-Lei n.º 48/93
 
 Quadro de pessoal da UNAVE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf))](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf)
 
-## Anexo III a que se refere o n.º 5 do artigo 28.º do Decreto-Lei n.º 48/93
+Anexo III a que se refere o n.º 5 do artigo 28.º do Decreto-Lei n.º 48/93
 
 Quadro de pessoal em cargos internacionais colocado no EMGFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf))](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/048a00/08070815.pdf)

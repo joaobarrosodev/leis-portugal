@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/097a00/19331933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/1992/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1992-217477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f41f172650deb9bfc68b329b8997a5e916535835ba4797c1eed9197a49396c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d62b77f2c49d0145a010a84a719bbd60761f9bfadc9bb7d149e38d0bc8f937
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/1992/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/1992/02/25/p/dre
+- type: cites
+  target: pt:dre:165037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:198118:por
+  label: "Revogado pelo DEC LEI.78/98.1998.03.27.MADRP, DR.IS-A [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1998-198118
+  date: '1998-03-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:01Z'
   warnings: []
   errors: []
 ---
@@ -110,16 +135,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Sem prejuízo do disposto no [Decreto-Lei n.º 24/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1992-165037), de 25 de Fevereiro, é dispensada a realização de concurso público ou limitado, na realização de despesas respeitantes às acções de intervenção nos mercados agrícolas da competência do INGA - Instituto Nacional de Intervenção e Garantia Agrícola, quando a entrega à intervenção de produtos agrícolas ou pecuários exigir celeridade não compatível com os prazos necessários à realização de concurso público ou limitado, na aquisição de serviços de armazenagem, incluindo locação de instalações, recepção, transporte, movimentação, expedição e análises laboratoriais.
+Artigo único. Sem prejuízo do disposto no [Decreto-Lei n.º 24/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1992-165037), de 25 de Fevereiro, é dispensada a realização de concurso público ou limitado, na realização de despesas respeitantes às acções de intervenção nos mercados agrícolas da competência do INGA - Instituto Nacional de Intervenção e Garantia Agrícola, quando a entrega à intervenção de produtos agrícolas ou pecuários exigir celeridade não compatível com os prazos necessários à realização de concurso público ou limitado, na aquisição de serviços de armazenagem, incluindo locação de instalações, recepção, transporte, movimentação, expedição e análises laboratoriais.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

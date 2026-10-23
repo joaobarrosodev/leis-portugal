@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/095a00/18971901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/1992/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1992-216748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58622bda4d22ddec7bac10a3759cd9fa3378fa39d7fbef05261d61349c6282a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a5d4d210a750190e31731a642eeb3752b21fb7d69b7cc9ccc01e50f7a9b9ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Transporte Aéreo
 - Direcção Geral da Aviação Civil
 - Licenciamento
+- Multa
 - Regime Jurídico
+- Transporte Aéreo
 - Transporte Internacional
 relationships:
 - type: amended_by
   target: pt:dre:177806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480517:por
+  label: "Alterado o art 27º e revogados os arts 28º e 29º do presente diploma pelo DEC LEI.208/2004.19.08.2004.MOPTH, DR.IS-A\
+    \ [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2004-480517
+  date: '2004-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/1991/03/18/p/dre
   label: null
@@ -84,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/339/1991/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/339/1991/09/10/p/dre
+- type: cites
+  target: pt:dre:303672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177806:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 208/2004, de 19-ago, pelo DEC LEI.116/2012.29.05.2012.MEE, DR.IS\
+    \ [104] de 29.05.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2012-177806
+  date: '2012-05-29'
 article_structure:
-  article_count: 22
+  article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:55Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +142,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objecto
 
@@ -138,7 +164,9 @@ d) Rota - ligação aérea entre dois aeroportos, considerando-se como um único
 
 e) Rota efectivamente explorada - rota explorada em transporte aéreo regular com uma oferta de serviço não inferior a uma frequência semanal de ida e volta.
 
-### CAPÍTULO II — Artigo 3.º
+### CAPÍTULO II
+
+###### Artigo 3.º
 
 Licenciamento
 
@@ -162,7 +190,9 @@ O processo administrativo relativo a cada licenciamento será organizado pela Di
 
 As empresas designadas pelo Estado Português, à data da publicação do presente diploma, para exploração de transporte aéreo regular internacional consideram-se licenciadas para a exploração das rotas em que operam, enquanto tais rotas forem efectivamente exploradas.
 
-### CAPÍTULO III — Artigo 7.º
+### CAPÍTULO III
+
+###### Artigo 7.º
 
 Objecto de licenciamento
 
@@ -246,7 +276,9 @@ f) Certidão da acta da assembleia geral em que foram eleitos os titulares dos �
 
 A DGAC dá publicidade, através de aviso publicado na 2.ª série do Diário da República, da pretensão do requerente, para que aqueles que manifestem um interesse legítimo possam, dentro do prazo de 15 dias úteis, pronunciar-se sobre a mesma e ou apresentar candidatura alternativa.
 
-### CAPÍTULO IV — Artigo 11.º
+### CAPÍTULO IV
+
+###### Artigo 11.º
 
 Critérios
 
@@ -276,7 +308,9 @@ b) O número anual mínimo de frequência de serviço.
 
 Quando as especiais características da operação de uma rota exijam, por parte do transportador, um planeamento a prazo e ou a aquisição de equipamento específico e não seja apresentada candidatura que garanta satisfatoriamente a exploração imediata dessa rota, a emissão de licença concedida será deferida condicionalmente, fixando-se prazo adequado para o início da exploração.
 
-### CAPÍTULO V — Artigo 15.º
+### CAPÍTULO V
+
+###### Artigo 15.º
 
 Responsabilidades
 
@@ -318,7 +352,9 @@ As entidades licenciadas devem fornecer à DGAC dados estatísticos sobre o trá
 
 2 - O disposto no número anterior não obsta a que os serviços objecto de uma licença sejam prestados por entidades contratadas pelo seu titular, desde que as mesmas satisfaçam os requisitos constantes do artigo 8.º e seja obtido despacho favorável do ministro com competência na área da aviação civil.
 
-### CAPÍTULO VI — Artigo 21.º
+### CAPÍTULO VI
+
+###### Artigo 21.º
 
 Factos supervenientes
 
@@ -358,7 +394,9 @@ e) Quando a situação que tiver dado origem à suspensão nos termos do artigo 
 
 2 - O titular de uma licença cancelada só poderá candidatar-se a uma nova licença para a mesma rota decorridos dois anos sobre a data do cancelamento.
 
-### CAPÍTULO VII — Artigo 25.º
+### CAPÍTULO VII
+
+###### Artigo 25.º
 
 Taxas
 
@@ -400,12 +438,12 @@ b) 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 30 de Março de 1992.**
+Promulgado em 30 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Abril de 1992.**
+Referendado em 9 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

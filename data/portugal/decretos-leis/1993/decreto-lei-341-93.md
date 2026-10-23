@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/341/1993/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1993-645876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7832fed894a493a00ef2618e184f4bffd2a21af8e877f9d48bde76e68fbce894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd4cefe8678d0c71293aa5cc40c42793a168cd64bf7a961b83d16544e1f313d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,21 @@ relationships:
   target: celex:31986L0188
   label: null
   source: http://data.europa.eu/eli/dir/1986/188/oj
+- type: repealed_by
+  target: pt:dre:629107:por
+  label: "Revogado, a partir de 21.01.2008, pelo DEC LEI.352/2007.23.10.2007.MTSSO, DR.IS [204] de 23.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-2007-629107
+  date: '2007-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:07Z'
   warnings: []
   errors: []
 ---
@@ -116,11 +121,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, adiante designada por Tabela, anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovada a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, adiante designada por Tabela, anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º A incapacidade do sinistrado ou doente é calculada em conformidade com a Tabela, observando-se as instruções gerais e específicas dela constantes e tendo em conta o disposto no artigo 47.º do Decreto n.º 360/71, de 21 de Agosto.
+Art. 2.º A incapacidade do sinistrado ou doente é calculada em conformidade com a Tabela, observando-se as instruções gerais e específicas dela constantes e tendo em conta o disposto no artigo 47.º do Decreto n.º 360/71, de 21 de Agosto.
 
-###### Art. 3.º - 1 - Por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, será constituída uma comissão permanente, à qual incumbirá:
+Art. 3.º - 1 - Por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, será constituída uma comissão permanente, à qual incumbirá:
 
 a) Proceder a estudos conducentes à revisão e actualização da Tabela, mediante a recolha de dados das entidades encarregadas da sua aplicação;
 
@@ -132,23 +137,23 @@ c) Dar parecer, a solicitação dos tribunais ou de outras entidades, sobre dúv
 
 3 - Enquanto não for constituída a comissão prevista no presente artigo mantém-se em funcionamento, com as competências que lhe são legalmente reconhecidas, a comissão constituída pela Portaria n.º 397/83, de 8 de Abril, com as alterações introduzidas pela Portaria n.º 690/88, de 14 de Outubro.
 
-###### Art. 4.º A Tabela aprovada pelo presente diploma aplica-se aos acidentes ocorridos e às doenças profissionais manifestadas após a sua entrada em vigor.
+Art. 4.º A Tabela aprovada pelo presente diploma aplica-se aos acidentes ocorridos e às doenças profissionais manifestadas após a sua entrada em vigor.
 
-###### Art. 5.º É revogado o Decreto n.º 43189, de 23 de Setembro de 1960.
+Art. 5.º É revogado o Decreto n.º 43189, de 23 de Setembro de 1960.
 
-###### Art. 6.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
+Art. 6.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TABELA NACIONAL DE INCAPACIDADES
 
@@ -600,15 +605,15 @@ Nota. - Independentemente do número de costelas, interessa a alteração funcio
 
 3.1 - Partes moles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.1 - Fractura da clavícula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.2 - Luxação da clavícula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.5 - Fracturas da omoplata. - A incapacidade será graduada de acordo com a limitação da mobilidade do ombro (v. n.º 3.2.7.3).
 
@@ -624,7 +629,7 @@ c) Artroplastia total do ombro (a desvalorizar de acordo com as sequelas).
 
 3.2.7.1 - Imobilidade (anquilose):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.2 - Limitação da mobilidade do ombro (rigidez). - Além dos movimentos da articulação escapulumeral, participam nos movimentos do ombro as articulações escapulotorácica e acessoriamente a acromioclavicular e a esternoclavicular.
 
@@ -640,7 +645,7 @@ Flexão (antepulsão) de 0º a 180º;
 
 Extensão (retropulsão) de 0º a 60º;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 No plano coronal (figuras 1 e 3):
 
@@ -648,7 +653,7 @@ Adução de 0º a 45º;
 
 Abdução de 0º a 180º;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 No plano horizontal (figuras 3 e 4):
 
@@ -656,7 +661,7 @@ Flexão horizontal de 0º a 135º;
 
 Extensão horizontal de 0º a 45º.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Se a articulação contralateral for normal, deve servir de termo de comparação, como regra usual para todas as articulações.
 
@@ -666,21 +671,21 @@ A incapacidade será conforme a zona de variação da mobilidade do ombro (ângu
 
 3.2.7.2.1.1 - Na flexão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.2.1.2 - Na extensão (retropulsão):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.2.2 - No plano coronal:
 
 3.2.7.2.2.1 - Adução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.2.2.2 - Abdução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.2.3 - Rotações - os limites das rotações são:
 
@@ -690,19 +695,19 @@ Rotação externa - de 0º a 90º.
 
 3.2.7.2.3.1 - Rotação interna:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.2.3.2 - Rotação externa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.2.7.3 - Limitação conjugada da mobilidade (conjunto das articulações do ombro e cotovelo). - Admitem-se três graus:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3.3 - Perda de segmentos (amputações):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 4 - Braço
 
@@ -710,25 +715,25 @@ Rotação externa - de 0º a 90º.
 
 Quando o posto de trabalho for exigente na integridade da força das massas musculares, a incapacidade será corrigida pelo factor 1,5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 4.2 - Esqueleto:
 
 4.2.1 - Fractura da diáfise umeral, consolidada em posição viciosa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 4.2.2 - Encurtamento do braço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 4.2.3 - Pseudartrose do úmero (sem solução cirúrgica):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 4.3 - Perda de segmentos (amputações):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5 - Cotovelo
 
@@ -740,7 +745,7 @@ A amplitude de flexão vai desde 0º até 145º (flexão completa do antebraço 
 
 As posições de maior valor funcional para o cotovelo são as compreendidas entre 60º e 100º (ângulo favorável) por ser a variação que permite melhor vida de relação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.1 - Partes moles:
 
@@ -748,41 +753,41 @@ As posições de maior valor funcional para o cotovelo são as compreendidas ent
 
 5.1.2 - Epicondilite e epitrocleíte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2 - Esqueleto (lesões ósseas e articulares):
 
 5.2.1 - Deformação do cotovelo em varo ou valgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2.2 - Limitações da mobilidade (rigidez) na flexão-extensão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2.3 - Imobilidade do cotovelo (anquilose umerocubital):
 
 5.2.3.1 - Imobilidade da articulação umerocubital, conservando os movimentos de torção do antebraço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2.3.2 - Imobilidade da articulação do cotovelo e limitação dos movimentos de torção do antebraço. À incapacidade prevista no n.º 5.2.3.1 adicionam-se as incapacidades referentes à pronação-supinação do antebraço (v. «Antebraço» e «Punho», n.os 6.2.1, 7.2.2.3 e 7.2.2.4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2.5 - Ressecção da cabeça do rádio (v. n.º 6.2.7).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2.8 - Prótese total (endoprótese) do cotovelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6 - Antebraço
 
 6.1 - Partes moles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.1.2 - Retracção isquémica dos músculos do antebraço (Volkmann) (a incapacidade será a que resultar da limitação dos movimentos do punho e da mão - v. «Mão», n.º 8.1.4).
 
@@ -794,27 +799,27 @@ As posições de maior valor funcional para o cotovelo são as compreendidas ent
 
 6.2.3 - Imobilidade do antebraço (perda dos movimentos de rotação do antebraço, com a mão imobilizada):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2.4 - Pseudartrose do rádio (sem correcção cirúrgica):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2.5 - Pseudartrose do cúbito (sem correcção cirúrgica):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2.6 - Pseudartrose de dois ossos (sem correcção cirúrgica):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2.7 - Ressecção da cabeça do rádio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2.10 - Perda de segmentos (amputações):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2.11 - Prótese:
 
@@ -840,13 +845,13 @@ Os movimentos de pronação e de supinação fazem-se à custa das articulaçõe
 
 7.2.1 - Factura ou pseudartrose da apófise estilóide do cúbito (não confundir com sesamóide):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 7.2.2 - Limitação da mobilidade (rigidez) do punho (figura 7):
 
 7.2.2.1 - Extensão (dorsiflexão):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 7
 
@@ -854,11 +859,11 @@ Flexão palmar e flexão dorsal
 
 7.2.2.2 - Flexão (flexão palmar):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 7.2.2.3 - Pronação (figura 6):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 6
 
@@ -866,11 +871,11 @@ Pronação-supinação
 
 7.2.2.4 - Supinação (figura 6):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 7.2.2.5 - Limitação axial dos movimentos do punho (figura 8):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 8
 
@@ -884,17 +889,17 @@ Quando a dor for objectivável, a incapacidade será corrigida pelo factor 1,5.
 
 7.2.3.1 - Imobilidade radiocárpica com pronação e supinação livres:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 7.2.3.2 - Imobilidade radiocárpica, com limitação da pronação e supinação. Às incapacidades previstas no n.º 7.2.3.1 adicionam-se as constantes nos n.os 7.2.2.3 e 7.2.2.4, de acordo com o princípio da capacidade restante.
 
 7.2.3.3 - Ressecções ósseas do carpo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 7.2.3.4 - Artrose pós-traumática (a incapacidade será graduada de acordo com o grau de mobilidade do punho (n.º 7.2.2) e a objectivação da dor [v. n.º 7.2.1, alínea b)].
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 7.3 - Sequelas neurológicas do punho (v. «Neurologia», n.os 6.17, 6.18 e 6.19).
 
@@ -908,11 +913,11 @@ Instruções específicas. - A adição de incapacidade, quando for caso disso, 
 
 8.1.2 - Retracção cicatricial do primeiro espaço intermetacárpico (abdução do polegar limitada) (figura 9):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.1.4 - Retracção isquémica de Volkmann:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 9
 
@@ -922,45 +927,45 @@ Abdução do polegar
 
 8.1.5.1 - Secção dos tendões do polegar (1.º dedo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.1.5.2 - Secção dos tendões flexores superficial e profundo (extensão permanente de 2.ª e 3.ª articulações):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.1.5.3 - Secção do tendão flexor profundo (falangeta em extensão com deficiência dinâmica no enrolamento do dedo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.1.5.4 - Secção dos tendões extensores no dorso da mão (falange em semiflexão com possibilidade de extensão das outras falanges por acção dos músculos intrínsecos):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.1.5.5 - Secção do tendão extensor no dorso da 1.ª falange (secção da lingueta média do aparelho extensor que causa tardiamente a «deformidade em botoeira»):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.1.5.6 - Secção do tendão extensor no sector terminal (falangeta em flexão ou «dedo em martelo»):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.2 - Esqueleto. - As incapacidades expressas já contemplam a dor, a impotência funcional, a deformação e a hipomotilidade.
 
 8.2.1 - Fracturas da base do 1.º metacárpio (Bennett e Rolando):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.2.2 - Fractura da diáfise do 1.º metarcápico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.2.3 - A fractura consolidada em posição viciosa do 2.º, 3.º, 4.º ou 5.º metacárpicos (só determina incapacidade quando originar saliência dorsal notória, rotação anormal ou preensão dolorosa):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.2.4 - Fracturas de falanges. - As incapacidades adiante expressas já incluem as alterações da mobilidade, a deformação axial notória e a pseudartrose (a pseudartrose do tufo distal das falangetas, por não se traduzir em diminuição da função para o trabalho, não origina incapacidade, salvo se associada a outra sequela):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3 - Imobilidade (anquilose) (figuras 9 a 17):
 
@@ -976,31 +981,31 @@ As figuras 9 a 17 representam os limites da excursão das articulações atrás 
 
 Flexões das articulações dos dedos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3.1 - Imobilidade (anquilose) no polegar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3.2 - Imobilidade (anquilose) no indicador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3.3 - Imobilidade (anquilose) no médio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3.4 - Imobilidade (anquilose) no anelar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3.5 - Imobilidade (anquilose) no auricular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.3.6 - Imobilidade (anquilose) de todos os dedos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.4 - Limitação da mobilidade (rigidez) dos dedos (figuras 9 a 17):
 
@@ -1022,19 +1027,19 @@ Os movimentos mais úteis nas articulações dos dedos são os que vão da semif
 
 8.4.1 - Limitação da mobilidade (rigidez) do polegar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.4.2 - Limitação da mobilidade (rigidez) do indicador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.4.3 - Limitação da mobilidade (rigidez) do médio ou do anelar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.4.4 - Limitação da mobilidade (rigidez) no mínimo (a atribuir quando for essencial ao desempenho do posto de trabalho):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.5 - Perda de segmentos (amputações). - A polpa que reveste a falange distal é um segmento importante para a discriminação táctil e por isso deve ser valorizada quando a sensibilidade táctil for indispensável ao desempenho do posto de trabalho, como, por exemplo: a cirurgia, os trabalhos de precisão, a avaliação do fino relevo de superfícies, etc.
 
@@ -1048,23 +1053,23 @@ Estas perdas são avaliadas como cicatrizes (v. «Dismorfias», n.º 1.4.7).
 
 8.5.1 - Perdas do polegar (1.º dedo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.5.3 - Perdas no médio (3.º dedo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.5.4 - Perdas no anelar (4.º dedo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.5.5 - Perdas no auricular (5.º dedo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 8.5.6 - Perda dos quatro últimos dedos com ou sem metacárpicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 9 - Bacia
 
@@ -1118,25 +1123,25 @@ Instruções específicas. - O estudo do movimento da articulação da anca faz-
 
 Estudo da flexão (figuras 18 e 19). - Em decúbito dorsal, com a coxa do lado oposto em flexão completa para eliminar a lordose lombar e pôr em evidência eventual deformidade em flexão. O ponto neutro 0º é o plano do leito de exame e a amplitude de flexão vai até 100º/110º, conforme os indivíduos (massas musculares ou adiposas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Anca - flexão
 
 Estudo da extensão (figura 20). - Em decúbito ventral em leito duro horizontal. O membro inferior é elevado, com o joelho em flexão ou extensão, a partir da posição de 0º. A extensão pode ir até 20º/30º.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Anca - extensão
 
 Estudos das rotações (figuras 22 e 23). - Pode ser feita em decúbito ventral (rotações em extensão) ou decúbito dorsal (rotações em extensão e em flexão da anca). A amplitude das rotações é de cerca de 45º para um e outro lado da posição neutra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 22
 
 Anca - rotação externa e interna em decúbito dorsal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 23
 
@@ -1144,7 +1149,7 @@ Anca - rotação em decúbito ventral
 
 Estudo da adução e abdução (figura 21). - Em decúbito dorsal com membros inferiores estendidos e fazendo ângulo recto com uma linha transversal que passa pelas espinhas ilíacas antero-superiores. A partir desta posição neutra de 0º, a abdução vai, em média, até 45º e a adução até 30º (para estudo desta o examinador deve elevar alguns graus a extremidade oposta para que não haja obstáculo ao movimento).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 21
 
@@ -1354,7 +1359,7 @@ b) Com limitação da mobilidade articular (a incapacidade será a soma da alín
 
 12.2.3 - Imobilidade articular (anquilose). - A mobilidade do joelho mede-se a partir da posição anatómica de repouso (perna no prolongamento da coxa), ou seja, o movimento faz-se de 0º a 135º, podendo ir até 145º na flexão passiva. Pode haver uma hiperextensão até 10º (figura 24).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 24
 
@@ -1464,7 +1469,7 @@ Na posição neutra ou posição de repouso o eixo do pé faz um ângulo de 90º
 
 A flexão dorsal vai de 0º a 20º-30º e a flexão plantar de 0º a 40º-50º (figura 25).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Fig. 25
 
@@ -2014,7 +2019,7 @@ b) Com impotência funcional de um membro ... 0,40-0,60
 
 2.11.1 - Hemiplegia ou hemiparesia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 2.11.2 - Monoplegia ou monoparesia:
 
@@ -2022,7 +2027,7 @@ b) Com impotência funcional de um membro ... 0,40-0,60
 
 2.11.2.2 - Membro superior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 3 - Síndromo cérvico-cefálico
 
@@ -2114,7 +2119,7 @@ Nota. - Lesões múltiplas. - A incapacidade total será a adição das incapaci
 
 5.1 - Lesões hemimedulares (síndromo de Brown-Sequard) (análogo ao n.º 2.11.1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 5.2 - Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total):
 
@@ -2188,7 +2193,7 @@ Grau 5 - Força normal.
 
 As incapacidades expressas apresentam uma zona de variação entre mínimas e máximas. Para efeitos de avaliação dos casos concretos, na zona de variação, deve ter-se em conta o esquema proporcional que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Nota. - As dores e alterações tróficas que acompanham eventualmente as paralisias agravam mais ou menos a impotência e legitimam um aumento da taxa proposta, até um acréscimo de 10% do défice neurológico (v. n.º 7). Os défices exclusivamente sensitivos: hipostesias, parestesias, disestesias, quando objectiváveis pela clínica ou exames complementares, poderão ser considerados como funcionalmente análogos a paresia com força grau 4, devendo portanto ser aplicados os valores mínimos previstos para a paralisia do(s) nervo(s) correspondente(s).
 
@@ -2196,11 +2201,11 @@ Em caso de lesão simultânea de vários nervos de um mesmo membro, adicionam-se
 
 6.1 - Membro superior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.1.10 - Algodistrofias do membro superior (dores, alterações tróficas e articulares):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 6.2 - Membro inferior:
 
@@ -2574,7 +2579,7 @@ Por isso X é sempre menor que Y.
 
 Exemplo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Admitindo que o somatório das perdas do ouvido direito é menor que o somatório das perdas do ouvido esquerdo, será:
 
@@ -2588,7 +2593,7 @@ Portanto, a menor soma é multiplicada por 7 e seguidamente o resultado é adici
 
 Exemplificando com valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 X = 7 x (20 + 25 + 30 + 30 = 7 x 105 = 735
 
@@ -4232,7 +4237,7 @@ Parece, pois, que existem razões mais do que suficientes para acabar definitiva
 
 E para terminar este preâmbulo, não se pode deixar de recordar a grande percentagem de leucemias secundárias à exposição às radiações ionizantes e aos derivados benzénicos e anilinas que podem surgir anos após o contacto com estes agentes cancerígenos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
 
 Abaixo destes valores a incapacidade é de 0,65-0,70 para tarefas que não exijam esforço físico importante: empregados de escritório e afins.
 
@@ -4826,4 +4831,4 @@ Apenas como orientações médias referimos:
 
 6) Nos casos da alínea anterior, quando a vida de relação for difícil e a vítima necessitar do apoio de terceira pessoa para os actos diários da vida, a incapacidade será corrigida com a sua multiplicação pelo factor 1,5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230a00/54975539.pdf)

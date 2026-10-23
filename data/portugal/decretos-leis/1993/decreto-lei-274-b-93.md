@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04
   number: '181'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4184-(3) a 4184-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/181a02/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/274-b/1993/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-b-1993-217372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54592b77deda74b0ca35ccc99b2ae2d27ff7c36dd2426097eb2272c7f8f9b503
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dabceb7dda23ec283d29439a06cf1010a1f49f1e11cb8310d81d0b78694a6625
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
+- Combustível
 - Comissão de Análise
 - Contrato de Concessão
-- Combustível
 - Importação
 relationships:
 - type: amended_by
@@ -92,16 +92,22 @@ relationships:
   target: celex:31990L0531
   label: null
   source: http://data.europa.eu/eli/dir/1990/531/oj
+- type: repealed_by
+  target: pt:dre:539238:por
+  label: "Revogado pelo DEC LEI.140/2006.26.07.2006.MEI, DR.IS [143] de 26.07.2006, sem prejuízo do disposto no nº 1 do art.\
+    \ 71º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2006-539238
+  date: '2006-07-26'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:37Z'
   warnings: []
   errors: []
 ---
@@ -346,12 +352,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Maio de 1993. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/1994/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1994-269403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84de71a96a1720b4a29a809bcbb56e9f13fcb6406b71ced9781f4ee54b19dbc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0225477e5dd16c3a7aced90375beff66b00093649a68cc9899202e5e1d6889ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,20 +81,41 @@ relationships:
   target: pt:dre:175481:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523592:por
+  label: "Alterado o art. 1º pelo DEC LEI.144/98.1998.05.23.PCM DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1998-523592
+  date: '1998-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:14Z'
   warnings: []
   errors: []
 ---
@@ -115,20 +136,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O disposto no [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, é aplicável aos técnicos de serviço social titulares de licenciatura em Serviço Social ou em Política Social conferida pelo Instituto Superior de Ciências Sociais e Políticas, da Universidade Técnica de Lisboa.
+Artigo 1.º - 1 - O disposto no [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, é aplicável aos técnicos de serviço social titulares de licenciatura em Serviço Social ou em Política Social conferida pelo Instituto Superior de Ciências Sociais e Políticas, da Universidade Técnica de Lisboa.
 
 2 - Os funcionários integrados na carreira técnica que, estando habilitados com qualquer das licenciaturas referidas no número anterior, desempenhem funções na área de serviço social em serviços ou organismos que tenham atribuições naquele domínio e ou cujos quadros de pessoal prevejam a área funcional de serviço social relativamente àquela carreira transitam para a carreira de técnico superior de serviço social, nos termos de [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto.
 
-###### Art. 2.º O presente diploma reporta os seus efeitos a de 1 de Setembro de 1991 no tocante às transições resultantes da aplicação do artigo 3.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, ficando o processamento dos vencimentos dependente da prévia alteração dos quadros de pessoal.
+Art. 2.º O presente diploma reporta os seus efeitos a de 1 de Setembro de 1991 no tocante às transições resultantes da aplicação do artigo 3.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, ficando o processamento dos vencimentos dependente da prévia alteração dos quadros de pessoal.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

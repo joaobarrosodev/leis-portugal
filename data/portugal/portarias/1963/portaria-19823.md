@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/04/09800/04100412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19823-1963-196734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5de6d977a2c520cc45c3b5435fa978ac70ddda9942d854b7b6b2d65988cd00fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3de39cb26ec071949c3899a5e2038128542954dbbd55dc514308815f69d1188
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carta de Condução
+- Ensino de Condução
+- Escola de Condução
+- Exame de Condução
+- Marinha
+- Militar
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:295378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 17, 19 E 20 PELA PORT 328/78 DE 19-JUN DR.IS [138]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-06-19'
+- type: amended_by
+  target: pt:dre:295378:por
+  label: Alterados os n.ºs 17.º, 19.º e 20.º pelo(a) Portaria n.º 328/78 - Diário da República n.º 138/1978, Série I de 1978-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-1978-295378
+  date: '1978-06-19'
+- type: cites
+  target: pt:dre:195588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232890:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 97/88 DE 11-FEV DR.IS [35]\088 DE 11-FEV DR.IS [35]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-02-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:34Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +147,7 @@ c) Pessoal das restantes reservas prestando serviço efectivo.
 
 10.º O exame complementar, em qualquer dos casos referidos nos n.os 5.º a 8.º desta portaria, não constitui encargo para a Fazenda Nacional e é requerido, pelos interessados, ao chefe do Estado-Maior da Armada.
 
-**O chefe do Estado-Maior da Armada pode delegar no superintendente dos Serviços da Armada a competência para deferimento dos requerimentos para exame complementar.**
+O chefe do Estado-Maior da Armada pode delegar no superintendente dos Serviços da Armada a competência para deferimento dos requerimentos para exame complementar.
 
 11.º Os militares da Armada, para que possam ser sujeitos a exame elementar ou complementar, devem possuir como habilitações literárias mínimas a 4.ª classe, ou equivalente, e obter aprovação num exame psicotécnico apropriado.
 

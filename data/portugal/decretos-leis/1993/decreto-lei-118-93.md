@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/1993/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1993-689622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebc78d5561c56a7f4b8b68dbb44dd039921c7cafb05904268ac4e9e7536b2687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c8faea37bfed1a2099650c51b53c30d62470eee5dee850b705ed90fcb1c3d54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,15 +74,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1986/653/oj
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:08Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +101,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 4.º, 13.º, 16.º, 17.º, 18.º, 22.º, 27.º, 28.º, 33.º e 34.º do Decreto-Lei n.º 178/86, de 3 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 4.º, 13.º, 16.º, 17.º, 18.º, 22.º, 27.º, 28.º, 33.º e 34.º do Decreto-Lei n.º 178/86, de 3 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Noção e forma
 
@@ -199,16 +199,16 @@ c) Três meses, nos restantes casos.
 
 A indemnização de clientela é fixada em termos equitativos, mas não pode exceder um valor equivalente a uma indemnização anual, calculada a partir da média anual das remunerações recebidas pelo agente durante os últimos cinco anos; tendo o contrato durado menos tempo, atender-se-á à média do período em que esteve em vigor.
 
-###### Art. 2.º O regime jurídico ora consagrado aplicar-se-á a partir de 1 de Janeiro de 1994 aos contratos celebrados antes da entrada em vigor do presente diploma.
+Art. 2.º O regime jurídico ora consagrado aplicar-se-á a partir de 1 de Janeiro de 1994 aos contratos celebrados antes da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

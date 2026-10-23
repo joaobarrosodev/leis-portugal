@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19426-1962-156655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82767c4ac1077f08c7dd5a559ff0efd185a29c46d86dfd8d853387ae0c088679
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43c26de7680767d89e7a663446a4d564c2a399d8e9e17a68d65100b15aaa16a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349971:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:03Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Regulamento da Junta Central da Legião Portuguesa
 
 ### CAPÍTULO I — Composição e funcionamento
 
-###### Artigo 1.º A Junta Central da Legião Portuguesa é constituída por:
+Artigo 1.º A Junta Central da Legião Portuguesa é constituída por:
 
 Um presidente.
 
@@ -100,25 +108,25 @@ Um secretário-geral.
 
 Quatro vogais.
 
-###### Art. 2.º O presidente é nomeado pelo Governo, por proposta do Ministro do Interior, de entre indivíduos que tenham prestado relevantes serviços, e dispõe de voto de qualidade nas deliberações da Junta.
+Art. 2.º O presidente é nomeado pelo Governo, por proposta do Ministro do Interior, de entre indivíduos que tenham prestado relevantes serviços, e dispõe de voto de qualidade nas deliberações da Junta.
 
-###### Art. 3.º O comandante-geral é nomeado pelo Governo, por proposta do Ministro do Interior, de entre oficiais generais do activo ou da reserva.
+Art. 3.º O comandante-geral é nomeado pelo Governo, por proposta do Ministro do Interior, de entre oficiais generais do activo ou da reserva.
 
-###### Art. 4.º O secretário-geral é também nomeado pelo Governo, por proposta do Ministro do Interior, de entre oficiais superiores da milícia legionária, de preferência diplomados em Direito, que tenham prestado relevantes serviços à Legião.
+Art. 4.º O secretário-geral é também nomeado pelo Governo, por proposta do Ministro do Interior, de entre oficiais superiores da milícia legionária, de preferência diplomados em Direito, que tenham prestado relevantes serviços à Legião.
 
-###### Art. 5.º Os vogais da Junta Central, igualmente nomeados pelo Governo, sob proposta do Ministro do Interior, serão escolhidos entre indivíduos, civis ou militares, que tenham prestado relevantes serviços à organização.
+Art. 5.º Os vogais da Junta Central, igualmente nomeados pelo Governo, sob proposta do Ministro do Interior, serão escolhidos entre indivíduos, civis ou militares, que tenham prestado relevantes serviços à organização.
 
-###### Art. 6.º A Junta Central deverá reunir, em princípio, uma vez por semana, e, extraordinàriamente, sempre que for convocada pelo presidente.
+Art. 6.º A Junta Central deverá reunir, em princípio, uma vez por semana, e, extraordinàriamente, sempre que for convocada pelo presidente.
 
 § 1.º Para as reuniões, quer ordinárias, quer extraordinárias, os membros da Junta serão convocados por aviso do secretário-geral do qual constará, sempre que possível, a respectiva agenda de trabalhos.
 
 § 2.º Para os efeitos do parágrafo anterior todos os membros da Junta indicarão ao secretário-geral, com a devida antecedência, quaisquer assuntos que pretendam ver tratados na reunião.
 
-###### Art. 7.º Sempre que a Junta assim o entender poderá convocar para assistir às suas reuniões os 2.os comandantes-gerais, os adjuntos militares ou qualquer legionário das diferentes categorias ou escalões.
+Art. 7.º Sempre que a Junta assim o entender poderá convocar para assistir às suas reuniões os 2.os comandantes-gerais, os adjuntos militares ou qualquer legionário das diferentes categorias ou escalões.
 
 Poderá, igualmente, convidar para assistir às suas reuniões qualquer indivíduo cuja presença nelas se reconheça de interesse para a Legião e para os seus desígnios.
 
-###### Art. 8.º A Junta Central poderá reunir e deliberar com a maioria dos seus membros.
+Art. 8.º A Junta Central poderá reunir e deliberar com a maioria dos seus membros.
 
 § 1.º As deliberações da Junta Central serão tomadas por unanimidade ou por maioria dos membros presentes, que podem ditar para a acta declarações de voto.
 
@@ -126,23 +134,23 @@ Poderá, igualmente, convidar para assistir às suas reuniões qualquer indivíd
 
 § 3.º Na falta ou impedimento do presidente, presidirá à reunião um dos membros presentes, escolhido pelos seus pares.
 
-###### Art. 9.º Haverá um livro de actas, com termos de abertura e de encerramento, assinados pelo presidente, e com folhas devidamente numeradas e por aquele e rubricadas, para nele constar tudo o que constitua objecto de discussão ou de deliberação ou transcrever qualquer documento essencial.
+Art. 9.º Haverá um livro de actas, com termos de abertura e de encerramento, assinados pelo presidente, e com folhas devidamente numeradas e por aquele e rubricadas, para nele constar tudo o que constitua objecto de discussão ou de deliberação ou transcrever qualquer documento essencial.
 
 § 1.º As actas serão lavradas por ordem e responsabilidade do secretário-geral, a quem compete a redacção da minuta que será lida no final de cada reunião.
 
 § 2.º Aposta, na minuta, a assinatura do presidente, a acta considera-se aprovada pela Junta.
 
-###### Art. 10.º As actas constituem, normalmente, a única prova das deliberações tomadas pela Junta.
+Art. 10.º As actas constituem, normalmente, a única prova das deliberações tomadas pela Junta.
 
 § 1.º Se houver deliberações a executar pelo comandante-geral, depois de assinadas as actas, ser-lhe-ão entregues cópias destas para aquele efeito.
 
 § 2.º Em caso de reconhecida urgência, a execução das deliberações da Junta poderá ser ordenada pelo comandante-geral, mediante simples notas tomadas por si ou por qualquer membro da Junta, na própria reunião em que tais deliberações tiverem lugar.
 
-###### Art. 11.º Para tomar notas que interessem à redacção das actas poderá assistir às reuniões um oficial da milícia designado pelo secretário-geral, com a anuência do presidente da Junta Central, e que exercerá as funções de secretário da presidência.
+Art. 11.º Para tomar notas que interessem à redacção das actas poderá assistir às reuniões um oficial da milícia designado pelo secretário-geral, com a anuência do presidente da Junta Central, e que exercerá as funções de secretário da presidência.
 
 ### CAPÍTULO II — Da competência da Junta Central
 
-###### Art. 12.º À Junta Central compete dirigir superiormente a Legião e especificadamente:
+Art. 12.º À Junta Central compete dirigir superiormente a Legião e especificadamente:
 
 1.º Definir as directrizes a seguir em fadas as suas actividades, quer civis, quer militares, quer na defesa civil do território;
 
@@ -200,7 +208,7 @@ Poderá, igualmente, convidar para assistir às suas reuniões qualquer indivíd
 
 28.º Julgar os recursos das decisões do comando-geral e das suas próprias decisões em matéria de disciplina.
 
-###### Art. 13.º Compete em especial ao presidente:
+Art. 13.º Compete em especial ao presidente:
 
 1.º Dirigir os trabalhos das reuniões;
 
@@ -220,7 +228,7 @@ Poderá, igualmente, convidar para assistir às suas reuniões qualquer indivíd
 
 9.º Delegar em qualquer dos membros da Junta alguns dos serviços que não sejam da sua competência especial.
 
-###### Art. 14.º Compete, especialmente, ao secretário-geral:
+Art. 14.º Compete, especialmente, ao secretário-geral:
 
 1.º Preparar a agenda de trabalhos para as reuniões ordinárias e extraordinárias, bem como os respectivos processos e documentos;
 
@@ -238,11 +246,11 @@ Poderá, igualmente, convidar para assistir às suas reuniões qualquer indivíd
 
 ### CAPÍTULO III — Do cadastro
 
-###### Art. 15.º O indivíduo que pretender inscrever-se na Legião Portuguesa entregará na sede da unidade legionária mais próxima da sua residência um impresso modelo n.º 1 devidamente preenchido e que assinará conjuntamente com os seus abonadores. Não sabendo ou não podendo escrever, pode o impresso referido ser assinado a rogo.
+Art. 15.º O indivíduo que pretender inscrever-se na Legião Portuguesa entregará na sede da unidade legionária mais próxima da sua residência um impresso modelo n.º 1 devidamente preenchido e que assinará conjuntamente com os seus abonadores. Não sabendo ou não podendo escrever, pode o impresso referido ser assinado a rogo.
 
 § único. Com o impresso modelo n.º 1 o interessado juntará três fotografias de formato usado para fins de identificação, sendo uma delas destinada ao cartão de identidade e as restantes às fichas cadastrais das unidades e do quartel-general.
 
-###### Art. 16.º O impresso de inscrição, depois de verificado pela unidade ou estabelecimento onde foi entregue, é remetido no prazo de 48 horas ao comando distrital competente ou à brigada naval, que procederão pela forma seguinte:
+Art. 16.º O impresso de inscrição, depois de verificado pela unidade ou estabelecimento onde foi entregue, é remetido no prazo de 48 horas ao comando distrital competente ou à brigada naval, que procederão pela forma seguinte:
 
 1.º Verificarão o impresso de inscrição, atribuindo um número distrital ao inscrito, que passará a designar-se por candidato a legionário.
 
@@ -252,7 +260,7 @@ Poderá, igualmente, convidar para assistir às suas reuniões qualquer indivíd
 
 4.º Igualmente remeterão ao quartel-general, para organizarem os processos individuais competentes, as inscrições dos candidatos inspeccionados, sejam aprovados ou não no exame de sanidade a que foram submetidos.
 
-###### Art. 17.º Recebidos na secção de cadastro do quartel-general os impressos de inscrição, as fotografias, os resultados dos exames de sanidade e quaisquer outros documentos que os candidatos tenham feito juntar, proceder-se-á pela forma seguinte:
+Art. 17.º Recebidos na secção de cadastro do quartel-general os impressos de inscrição, as fotografias, os resultados dos exames de sanidade e quaisquer outros documentos que os candidatos tenham feito juntar, proceder-se-á pela forma seguinte:
 
 1.º Organizar-se-á um processo individual com os documentos recebidos e ao qual será dado o número geral a atribuir ao candidato quando passe, definitivamente, a legionário.
 
@@ -270,9 +278,9 @@ c) Quaisquer outros elementos que interessem ao juízo a formar na apreciação 
 
 § único. As informações a que se alude na alínea b) do n.º 2.º deste artigo são solicitadas à Direcção dos Serviços de Segurança e Acção Psicológica.
 
-###### Art. 18.º A Junta Central, em reunião ordinária, aprovará ou rejeitará os candidatos.
+Art. 18.º A Junta Central, em reunião ordinária, aprovará ou rejeitará os candidatos.
 
-###### Art. 19.º São excluídos de direito e, consequentemente, rejeitados os candidatos que:
+Art. 19.º São excluídos de direito e, consequentemente, rejeitados os candidatos que:
 
 a) Tenham sido condenados pela prática de qualquer crime infamante;
 
@@ -284,7 +292,7 @@ c) Os que, comprovadamente, não sigam os ditames da honra e da dignidade.
 
 § 2.º Igual tratamento terão os indivíduos condenados durante o período de menoridade e em relação aos quais haja decorrido o prazo para o cancelamento da respectiva nota no registo criminal.
 
-###### Art. 20.º Logo que o candidato for admitido pela Junta Central, passará a legionário e a secção de cadastro do quartel-general procederá pela forma seguinte:
+Art. 20.º Logo que o candidato for admitido pela Junta Central, passará a legionário e a secção de cadastro do quartel-general procederá pela forma seguinte:
 
 1.º Preencherá três fichas (modelo n.º 2) com todos os elementos de identificação do legionário, apondo em duas delas, no lugar próprio, a sua fotografia.
 
@@ -294,60 +302,60 @@ c) Os que, comprovadamente, não sigam os ditames da honra e da dignidade.
 
 4.º Passará o cartão de identidade, de modelo anexo a este diploma, que remeterá ao comando distrital competente ou à brigada naval, para ser entregue ao legionário.
 
-###### Art. 21.º Nos comandos distritais, na brigada naval e nas unidades deixam de existir processos individuais, devendo toda a documentação deles constante ser remetida ao quartel-general para aproveitamento, pelo cadastro, do que for considerado útil.
+Art. 21.º Nos comandos distritais, na brigada naval e nas unidades deixam de existir processos individuais, devendo toda a documentação deles constante ser remetida ao quartel-general para aproveitamento, pelo cadastro, do que for considerado útil.
 
-###### Art. 22.º O cadastro no quartel-general será constituído com os processos individuais, o registo geral e os índices convenientes.
+Art. 22.º O cadastro no quartel-general será constituído com os processos individuais, o registo geral e os índices convenientes.
 
-###### Art. 23.º Para facilidade de registo e de busca, os processos individuais e as fichas correspondentes deverão arrumar-se por forma a separarem-se ou a conhecerem-se os que respeitam, em cada um dos escalões, aos componentes das forças da milícia.
+Art. 23.º Para facilidade de registo e de busca, os processos individuais e as fichas correspondentes deverão arrumar-se por forma a separarem-se ou a conhecerem-se os que respeitam, em cada um dos escalões, aos componentes das forças da milícia.
 
-###### Art. 24.º A ordem numérica geral é indiferentemente atribuída a todos os inscritos na Legião. Em relação às forças da milícia, cada alistado tem, além do número geral, um número distrital ou da brigada naval, que lhe será dado nos termos do artigo 18.º
+Art. 24.º A ordem numérica geral é indiferentemente atribuída a todos os inscritos na Legião. Em relação às forças da milícia, cada alistado tem, além do número geral, um número distrital ou da brigada naval, que lhe será dado nos termos do artigo 18.º
 
-###### Art. 25.º As fichas, com fotografia, arquivadas no cadastro, servirão de índice onomástico dos respectivos processos, para o que serão convenientemente arrumadas por ordem alfabética de apelidos.
+Art. 25.º As fichas, com fotografia, arquivadas no cadastro, servirão de índice onomástico dos respectivos processos, para o que serão convenientemente arrumadas por ordem alfabética de apelidos.
 
-###### Art. 26.º Nos comandos distritais e da brigada naval e nas unidades serão também convenientemente arrumadas as fichas (modelo n.º 2) dos elementos das forças da milícia, nas quais serão anotadas, à medida que forem publicadas em ordem de serviço, todos as alterações ou modificações da vida do legionário.
+Art. 26.º Nos comandos distritais e da brigada naval e nas unidades serão também convenientemente arrumadas as fichas (modelo n.º 2) dos elementos das forças da milícia, nas quais serão anotadas, à medida que forem publicadas em ordem de serviço, todos as alterações ou modificações da vida do legionário.
 
 § único. Das mesmas fichas constará a distribuição de quaisquer artigos de fardamento ou de equipamento.
 
-###### Art. 27.º Com o cartão de identidade do legionário será remetido o seu emblema com o número geral.
+Art. 27.º Com o cartão de identidade do legionário será remetido o seu emblema com o número geral.
 
-###### Art. 28.º O cartão de identidade será assinado pelo Ministro do Interior quando respeite a membros da Junta e do comando-geral por ele nomeados. Nos demais casos é assinado pelo comandante-geral, salvo se respeitar a elementos do movimento nacional legionário, não pertencentes às forças da milícia, que serão assinados pelo secretário-geral.
+Art. 28.º O cartão de identidade será assinado pelo Ministro do Interior quando respeite a membros da Junta e do comando-geral por ele nomeados. Nos demais casos é assinado pelo comandante-geral, salvo se respeitar a elementos do movimento nacional legionário, não pertencentes às forças da milícia, que serão assinados pelo secretário-geral.
 
 § único. Os cartões de identidade dos elementos da milícia, com excepção dos respeitantes aos oficiais, e os do movimento legionário, podem ser chancelados pelas entidades competentes.
 
-###### Art. 29.º Todos os cartões de identidade levarão o selo branco da Junta Central sobre a fotografia e no seu ângulo inferior direito.
+Art. 29.º Todos os cartões de identidade levarão o selo branco da Junta Central sobre a fotografia e no seu ângulo inferior direito.
 
-###### Art. 30.º Dos elementos colhidos do cadastro poderão ser passadas quaisquer certidões que sejam requeridas e devidamente autorizadas.
+Art. 30.º Dos elementos colhidos do cadastro poderão ser passadas quaisquer certidões que sejam requeridas e devidamente autorizadas.
 
 § 1.º As certidões respeitantes a elementos das forças da milícia serão requeridas ao comandante-geral e passadas pelo adjunto civil do comando-geral.
 
 § 2.º As certidões respeitantes a elementos do movimento nacional legionário serão requeridas ao presidente da Junta e passadas pelo secretário-geral.
 
-###### Art. 31.º No momento da sua inscrição o candidato a legionário prestará por escrito o compromisso a que alude o artigo 46.º do [Decreto-Lei n.º 44062](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44062-1961-185293), de 28 de Novembro de 1961, que ratificará, quando pronto da instrução, se pertencer às forças da milícia, no juramento de bandeira.
+Art. 31.º No momento da sua inscrição o candidato a legionário prestará por escrito o compromisso a que alude o artigo 46.º do [Decreto-Lei n.º 44062](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44062-1961-185293), de 28 de Novembro de 1961, que ratificará, quando pronto da instrução, se pertencer às forças da milícia, no juramento de bandeira.
 
 § 1.º Se o legionário inscrito for dispensado da instrução por já ter sido militar, a ratificação será feita, solenemente, em reunião de oficiais, perante a bandeira da unidade, logo que seja admitido. Neste momento receberá o cartão de identidade e o emblema.
 
 § 2.º O compromisso escrito, a que alude o corpo deste artigo, acompanhará a inscrição e fará parte do processo individual.
 
-###### Art. 32.º Uma vez inscrito, e salvo o caso de sanção disciplinar, o legionário só poderá sair da Legião mediante requerimento, justificado, dirigido à Junta Central, que, julgando o motivo atendível, o poderá deferir, passando o legionário à categoria de licenciado ou dando-lhe baixa se for caso disso.
+Art. 32.º Uma vez inscrito, e salvo o caso de sanção disciplinar, o legionário só poderá sair da Legião mediante requerimento, justificado, dirigido à Junta Central, que, julgando o motivo atendível, o poderá deferir, passando o legionário à categoria de licenciado ou dando-lhe baixa se for caso disso.
 
 § único. O abandono não justificado da actividade da Legião equivalerá à expulsão, nos termos do § único do artigo 20.º do [Decreto-Lei n.º 29233](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29233-1938-349971), de 8 de Dezembro de 1938, com os efeitos indicados no artigo 29.º do [Decreto-Lei n.º 44062](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44062-1961-185293), de 28 de Novembro de 1961.
 
 ### CAPÍTULO IV — Do movimento nacional legionário
 
-###### Art. 33.º O movimento nacional legionário é formado por todos os indivíduos de nacionalidade portuguesa que, independentemente de idade, de sexo, de raça e de condições físicas, desejem lutar pela unidade nacional, integridade do território pátrio, liberdade da terra portuguesa contra o comunismo, anarquismo o outras ideias subversivas contrárias às tradições históricas e aos princípios da ordem e da hierarquia.
+Art. 33.º O movimento nacional legionário é formado por todos os indivíduos de nacionalidade portuguesa que, independentemente de idade, de sexo, de raça e de condições físicas, desejem lutar pela unidade nacional, integridade do território pátrio, liberdade da terra portuguesa contra o comunismo, anarquismo o outras ideias subversivas contrárias às tradições históricas e aos princípios da ordem e da hierarquia.
 
-###### Art. 34.º O movimento nacional legionário é estruturado por forma a colaborar na cobertura moral de toda a Nação e na segurança dos bens e das populações em caso de guerra ou de grave emergência.
+Art. 34.º O movimento nacional legionário é estruturado por forma a colaborar na cobertura moral de toda a Nação e na segurança dos bens e das populações em caso de guerra ou de grave emergência.
 
-###### Art. 35.º A acção do movimento nacional legionário visa a colaboração na educação da juventude, a luta pelos interesses patrimoniais e morais da Nação, a protecção aos humildes, a camaradagem no trabalho, o esclarecimento dos problemas políticos e económicos e o preservamento das populações à penetração insidiosa dos inimigos da Pátria.
+Art. 35.º A acção do movimento nacional legionário visa a colaboração na educação da juventude, a luta pelos interesses patrimoniais e morais da Nação, a protecção aos humildes, a camaradagem no trabalho, o esclarecimento dos problemas políticos e económicos e o preservamento das populações à penetração insidiosa dos inimigos da Pátria.
 
-###### Art. 36.º São elementos do movimento nacional legionário todos os alistados na Legião Portuguesa, façam ou não parte das forças da milícia.
+Art. 36.º São elementos do movimento nacional legionário todos os alistados na Legião Portuguesa, façam ou não parte das forças da milícia.
 
-###### Art. 37.º Os elementos do movimento nacional legionário, pertencentes às forças da milícia, em qualquer dos seus escalões, exercem sempre, e de preferência a qualquer outra, a actividade paramilitar de harmonia com as ordens superiores do comandante-geral da Legião de quem dependem.
+Art. 37.º Os elementos do movimento nacional legionário, pertencentes às forças da milícia, em qualquer dos seus escalões, exercem sempre, e de preferência a qualquer outra, a actividade paramilitar de harmonia com as ordens superiores do comandante-geral da Legião de quem dependem.
 
-###### Art. 38.º A estrutura, fiscalização e actividades político-sociais do movimento nacional legionário dependem da Junta Central da Legião Portuguesa, que, por intermédio do comando-geral, aproveitará os órgãos adequados do quartel-general e dos comandos subordinados para estabelecer a ligação entre todos os membros do movimento e coordenar a sua acção.
+Art. 38.º A estrutura, fiscalização e actividades político-sociais do movimento nacional legionário dependem da Junta Central da Legião Portuguesa, que, por intermédio do comando-geral, aproveitará os órgãos adequados do quartel-general e dos comandos subordinados para estabelecer a ligação entre todos os membros do movimento e coordenar a sua acção.
 
-###### Art. 39.º Instruções especiais providenciarão sobre as regras de conduta dos elementos do movimento nacional legionário para se atingirem os seus fins essenciais.
+Art. 39.º Instruções especiais providenciarão sobre as regras de conduta dos elementos do movimento nacional legionário para se atingirem os seus fins essenciais.
 
-###### Art. 40.º O movimento nacional legionário pode, na sua execução prática, ser designado por outra denominação em que se defina a sua acção essencial da luta nacional anticomunista.
+Art. 40.º O movimento nacional legionário pode, na sua execução prática, ser designado por outra denominação em que se defina a sua acção essencial da luta nacional anticomunista.
 
 Ministério do Interior, 10 de Outubro de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19656-1963-193234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a695a845ee785deda4c2dec9ba959681df987e4c3f6141ba4a086fcb82d4c45e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7d34dec91832868950a5d802f38801d55d7696511fcd5f2af8385abfabf56cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola
+- Orçamento
+- Reforço de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:59Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +121,7 @@ b) Com 1368249$29 a verba do capítulo 12.º, artigo 1440.º, n.º 3), alínea a
 
 a) Um de 61327812$91, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar com as quantias que se indicam as seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 N.º 2), alínea a), n.º 1) «Aproveitamento de recursos - Agricultura, silvicultura e pecuária - Estudo e aproveitamento dos meios de obtenção de água doce» ... 530000$00
 
@@ -137,7 +157,7 @@ b) Um de 768937$82, tomando como contrapartida o imposto das sobrevalorizações
 
 c) Um de 14041668$21, tomando como contrapartida disponibilidades do Fundo de Fomento, consignado ao reforço, com estas quantias, das seguintes verbas da mesma tabela de despesa:
 
-###### Artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 N.º 6) «Melhoramentos locais»:
 

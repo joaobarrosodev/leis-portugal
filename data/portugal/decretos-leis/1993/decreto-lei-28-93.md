@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/1993/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1993-648480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b811b210627361d1322ae9613f26cb0b0995cc797a8da3519db1d175730368a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbbe6d99b6c3db6b71fc27cf047ff9056976afa16a392224b98aff39034dd723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ subjects:
 - Crédito Agrícola de Emergência
 - Dívida Pública
 - Dívidas ao Estado
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:274270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:47Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +117,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nos casos em que não foram celebrados os contratos tipo de conta empréstimo, previstos na [Resolução do Conselho de Ministros n.º 51-A/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-a-1988-274270), de 28 de Dezembro, as responsabilidades decorrentes dos avales prestados nos termos do [Decreto-Lei n.º 251/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081), de 23 de Maio, e legislação complementar, são aceites pelo Estado, sem prejuízo dos direitos de regresso contra os beneficiários finais ou entidades intermediárias.
+Artigo 1.º - 1 - Nos casos em que não foram celebrados os contratos tipo de conta empréstimo, previstos na [Resolução do Conselho de Ministros n.º 51-A/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-a-1988-274270), de 28 de Dezembro, as responsabilidades decorrentes dos avales prestados nos termos do [Decreto-Lei n.º 251/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081), de 23 de Maio, e legislação complementar, são aceites pelo Estado, sem prejuízo dos direitos de regresso contra os beneficiários finais ou entidades intermediárias.
 
 2 - Para os efeitos do disposto no número anterior, devem os credores dos montantes em dívida apresentar os documentos comprovativos.
 
@@ -109,16 +125,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Por despacho conjunto dos Ministros das Finanças e da Agricultura, e sem prejuízo do disposto no n.º 1, serão estabelecidas as condições especiais a praticar para o pagamento voluntário das dívidas e o prazo concedido para o efeito.
 
-###### Art. 2.º Os titulares originários de dívida pública decorrente das nacionalizações e expropriações têm o direito de mobilizar, ao valor nominal, títulos de indemnização para pagamento ao Estado das dívidas aceites nos termos do artigo anterior.
+Art. 2.º Os titulares originários de dívida pública decorrente das nacionalizações e expropriações têm o direito de mobilizar, ao valor nominal, títulos de indemnização para pagamento ao Estado das dívidas aceites nos termos do artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

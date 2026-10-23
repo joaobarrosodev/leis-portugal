@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/269a00/53545358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/258/1992/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f78552fbd403bef26e7610e6b573e81cd5690172720e744b040d3ac5231b35c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1937d442e69d8c3c292aeab7f0b49a319c52889b4cb558e299d3217dba016f22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
-- Direcção Geral da Concorrência e Preços
+- Comércio
 - Comissão de Coordenação Regional
 - Concorrência
+- Direcção Geral da Concorrência e Preços
+- Estabelecimento Comercial
 - Fiscalização Económica
 - Junta Autónoma das Estradas
 - Licenciamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:195799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223400:por
+  label: "Alterados os arts. 1º a 4º, 7º, 9º, 16º e 18º e aditado o anexo III, pelo DEC LEI.83/95.1995.04.26.MCT, DR.IS-A\
+    \ [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1995-223400
+  date: '1995-04-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
@@ -86,16 +92,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/1991/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/1991/01/08/p/dre
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693785:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:195799:por
+  label: "Revogado pelo Dec Lei 218/97.1997.08.20.MECO, DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1997-195799
+  date: '1997-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:11Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +157,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Âmbito
 
-###### Artigo 1.º - 1 - O processo de instalação de grandes superfícies comerciais, quer tais superfícies envolvam edificações a construir de novo, quer edificações já existentes, carece de ratificação pelo ministro que tutela o sector do comércio, a emitir nos termos do presente diploma, sem prejuízo de competências legalmente atribuídas a outras entidades.
+Artigo 1.º - 1 - O processo de instalação de grandes superfícies comerciais, quer tais superfícies envolvam edificações a construir de novo, quer edificações já existentes, carece de ratificação pelo ministro que tutela o sector do comércio, a emitir nos termos do presente diploma, sem prejuízo de competências legalmente atribuídas a outras entidades.
 
 2 - A ratificação do processo de instalação de grandes superfícies comerciais visa assegurar a concorrência efectiva e o desenvolvimento equilibrado das diferentes formas de comércio, tendo em conta a realidade sócio-económica da zona de implantação, salvaguardar as condições que facultem aos consumidores um equipamento comercial diversificado e proporcionar às formas de comércio tradicional o período transitório necessário à sua modernização e concorrencialidade.
 
@@ -132,7 +167,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Nos casos referidos no número anterior, respeitantes a alterações de tipo de actividade e ramo de comércio nas lojas principais ou lojas «âncora» e que ocorram após a ratificação e antes da entrada em funcionamento da grande superfície, devem os interessados apresentar requerimento à Direcção-Geral de Concorrência e Preços (DGCP) com os novos elementos referentes às alterações que se pretendem introduzir, aplicando-se o disposto no artigo 9.º
 
-###### Art. 2.º - 1 - Para efeitos do disposto no presente diploma, entende-se por:
+Art. 2.º - 1 - Para efeitos do disposto no presente diploma, entende-se por:
 
 a) Grandes superfícies comerciais - os estabelecimentos de comércio a retalho ou por grosso que disponham de uma área de venda contínua superior a 2000 m2 ou os conjuntos de estabelecimentos de comércio a retalho ou por grosso que, não dispondo daquela área contínua, integrem no mesmo espaço uma área de venda superior a 3000 m2;
 
@@ -148,7 +183,7 @@ d) Área de venda - toda a área destinada à venda onde os compradores têm ace
 
 ### CAPÍTULO II — Processo anterior ao pedido de informação prévia de licenciamento
 
-###### Art. 3.º - 1 - Quando os interessados na instalação de uma grande superfície comercial pretendam situá-la em área não abrangida por plano de urbanização, plano de pormenor ou alvará de loteamento válido nos termos da lei, devem dirigir um requerimento à comissão de coordenação regional (CCR) da área de implantação, acompanhado, em triplicado, de memória descritiva do empreendimento e dos elementos referidos no anexo I ao presente diploma, de que faz parte integrante.
+Art. 3.º - 1 - Quando os interessados na instalação de uma grande superfície comercial pretendam situá-la em área não abrangida por plano de urbanização, plano de pormenor ou alvará de loteamento válido nos termos da lei, devem dirigir um requerimento à comissão de coordenação regional (CCR) da área de implantação, acompanhado, em triplicado, de memória descritiva do empreendimento e dos elementos referidos no anexo I ao presente diploma, de que faz parte integrante.
 
 2 - Quando se trate de localização em área com impacte em estradas nacionais, a CCR solicitará parecer à Junta Autónoma de Estradas (JAE).
 
@@ -168,7 +203,7 @@ d) Área de venda - toda a área destinada à venda onde os compradores têm ace
 
 10 - O parecer da CCR pode estabelecer parâmetros de efectivação.
 
-###### Art. 4.º - 1 - No parecer a emitir pela CCR atender-se-á à influência das possíveis alterações de tráfego no equilíbrio zonal e regional e às consequências da implantação para um correcto ordenamento do território.
+Art. 4.º - 1 - No parecer a emitir pela CCR atender-se-á à influência das possíveis alterações de tráfego no equilíbrio zonal e regional e às consequências da implantação para um correcto ordenamento do território.
 
 2 - O parecer mencionado no número anterior atenderá aos efeitos da implantação da grande superfície sobre o ambiente, nomeadamente nos seguintes aspectos:
 
@@ -182,7 +217,7 @@ c) Valores de ruído resultantes do funcionamento do estabelecimento, tendo em c
 
 4 - O parecer negativo ou sujeito a condição, desde que homologado pelo Ministro do Planeamento e da Administração do Território, tem carácter vinculativo.
 
-###### Art. 5.º No parecer a emitir pela JAE atender-se-á aos seguintes factores:
+Art. 5.º No parecer a emitir pela JAE atender-se-á aos seguintes factores:
 
 a) Impacte do previsível aumento de tráfego rodoviário na zona de localização da grande superfície comercial;
 
@@ -192,7 +227,7 @@ c) Plano de construção dos acessos e suas ligações à rede rodoviária exist
 
 d) Plano de construção de parques de estacionamento.
 
-###### Art. 6.º - 1 - O parecer positivo da CCR preenche o requisito previsto na parte final do n.º 2 do artigo 48.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, para efeitos de informação prévia.
+Art. 6.º - 1 - O parecer positivo da CCR preenche o requisito previsto na parte final do n.º 2 do artigo 48.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, para efeitos de informação prévia.
 
 2 - Os projectos relativos às grandes superfícies comerciais não podem ser aprovados pela respectiva câmara municipal sem se mostrarem respeitados os parâmetros de efectivação estabelecidos no processo anterior à obtenção de informação prévia, devendo o interessado exibir documento comprovativo do seu cumprimento, emitido pela entidade que os impôs.
 
@@ -200,7 +235,7 @@ d) Plano de construção de parques de estacionamento.
 
 ### CAPÍTULO III — Processo subsequente à obtenção de informação prévia de licenciamento
 
-###### Art. 7.º - 1 - Solicitada informação prévia sobre o empreendimento, nos termos previstos no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, que para o efeito é obrigatória, e obtida deliberação favorável da câmara municipal, deve uma cópia do processo ser enviada à DGCP pelo interessado, acompanhada de uma memória descritiva do empreendimento a construir.
+Art. 7.º - 1 - Solicitada informação prévia sobre o empreendimento, nos termos previstos no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, que para o efeito é obrigatória, e obtida deliberação favorável da câmara municipal, deve uma cópia do processo ser enviada à DGCP pelo interessado, acompanhada de uma memória descritiva do empreendimento a construir.
 
 2 - A memória descritiva do empreendimento deve indicar o prazo previsível de construção e incluir ainda os seguintes elementos:
 
@@ -228,7 +263,7 @@ b) Quando a grande superfície incluir pelo menos um estabelecimento comercial, 
 
 5 - Todos os documentos devem estar numerados, sendo emitido um recibo comprovativo do número de documentos entregues.
 
-###### Art. 8.º - 1 - No parecer a emitir pela DGCP deve atender-se:
+Art. 8.º - 1 - No parecer a emitir pela DGCP deve atender-se:
 
 a) A que a instalação da nova unidade contribua para a modernização e diversificação da oferta comercial na região e aí estimule uma sã concorrência;
 
@@ -240,35 +275,35 @@ c) Às características da estrutura e da actividade comercial da respectiva zon
 
 3 - À DGCP é aplicável o disposto nos n.os 4 e 7 do artigo 3.º
 
-###### Art. 9.º - 1 - Recebido o processo na DGCP, será submetido, com o seu parecer e proposta final, no prazo de 20 dias úteis, salvo o disposto no n.º 3 do artigo anterior, a ratificação do ministro que tutela o sector do comércio.
+Art. 9.º - 1 - Recebido o processo na DGCP, será submetido, com o seu parecer e proposta final, no prazo de 20 dias úteis, salvo o disposto no n.º 3 do artigo anterior, a ratificação do ministro que tutela o sector do comércio.
 
 2 - A decisão deve ser proferida no prazo de 30 dias úteis contados a partir da data da entrada dos elementos na DGCP.
 
 3 - A decisão final será comunicada aos requerentes e às entidades intervenientes, quando as houver, devendo dela constar, quando for o caso, os parâmetros de efectivação estabelecidos para a instalação da grande superfície, com a indicação da entidade que os estabeleceu.
 
-###### Art. 10.º A não emissão de decisão final nos prazos fixados no presente diploma vale como deferimento.
+Art. 10.º A não emissão de decisão final nos prazos fixados no presente diploma vale como deferimento.
 
-###### Art. 11.º O processo de instalação que tenha sido ratificado, nos termos do n.º 1 do artigo 1.º, não pode ser objecto, sob qualquer forma, de transmissão ou de cessão.
+Art. 11.º O processo de instalação que tenha sido ratificado, nos termos do n.º 1 do artigo 1.º, não pode ser objecto, sob qualquer forma, de transmissão ou de cessão.
 
-###### Art. 12.º - 1 - Sem prejuízo do disposto no número seguinte, a ratificação da instalação da grande superfície comercial caduca no prazo de dois anos a contar da sua notificação ao requerente, arquivando-se o respectivo processo se, dentro desse prazo, este não obtiver o respectivo alvará de licença de construção, nos termos do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
+Art. 12.º - 1 - Sem prejuízo do disposto no número seguinte, a ratificação da instalação da grande superfície comercial caduca no prazo de dois anos a contar da sua notificação ao requerente, arquivando-se o respectivo processo se, dentro desse prazo, este não obtiver o respectivo alvará de licença de construção, nos termos do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
 
 2 - O prazo referido no número anterior pode ser prorrogado, por uma única vez, mediante requerimento fundamentado do interessado dirigido ao Ministro do Comércio e Turismo, não podendo a prorrogação exceder o prazo de um ano.
 
 ### CAPÍTULO IV — Vistoria
 
-###### Art. 13.º - 1 - A CCR da área, a DGCP e a JAE, esta nos casos em que se verifique o pressuposto no n.º 2 do artigo 3.º, poderão participar na vistoria camarária que antecede a entrada em funcionamento dos estabelecimentos abrangidos pelo presente diploma.
+Art. 13.º - 1 - A CCR da área, a DGCP e a JAE, esta nos casos em que se verifique o pressuposto no n.º 2 do artigo 3.º, poderão participar na vistoria camarária que antecede a entrada em funcionamento dos estabelecimentos abrangidos pelo presente diploma.
 
 2 - A presença na vistoria das entidades referidas no número anterior tem por objectivo verificar se foram cumpridos os requisitos que fundamentaram a ratificação do processo de instalação.
 
 3 - Para efeitos do disposto no n.º 1, a câmara municipal informará as entidades nele referidas, com a antecedência mínima de 10 dias úteis, da realização da vistoria.
 
-###### Art. 14.º A verificação do não cumprimento dos requisitos que fundamentaram a ratificação do processo de instalação por parte do ministro que tutela o sector do comércio deve constar do auto de vistoria e é impeditiva da entrada em funcionamento do estabelecimento.
+Art. 14.º A verificação do não cumprimento dos requisitos que fundamentaram a ratificação do processo de instalação por parte do ministro que tutela o sector do comércio deve constar do auto de vistoria e é impeditiva da entrada em funcionamento do estabelecimento.
 
 ### CAPÍTULO V — Cadastro
 
-###### Art. 15.º Todas as grandes superfícies comerciais definidas no artigo 2.º devem constar de um cadastro da DGCP, de forma a caracterizarem, em cada caso, a actividade, o dimensionamento e a instalação.
+Art. 15.º Todas as grandes superfícies comerciais definidas no artigo 2.º devem constar de um cadastro da DGCP, de forma a caracterizarem, em cada caso, a actividade, o dimensionamento e a instalação.
 
-###### Art. 16.º - 1 - Para efeitos do artigo anterior, é obrigatório o registo de todas as grandes superfícies, tanto as já existentes como as que venham a ser instaladas.
+Art. 16.º - 1 - Para efeitos do artigo anterior, é obrigatório o registo de todas as grandes superfícies, tanto as já existentes como as que venham a ser instaladas.
 
 2 - O registo é efectuado pela DGCP mediante a entrega pelos interessados de impresso próprio, devidamente preenchido e em duplicado, de modelo a aprovar por despacho do ministro que tutela o sector do comércio.
 
@@ -278,9 +313,9 @@ c) Às características da estrutura e da actividade comercial da respectiva zon
 
 ### CAPÍTULO VI — Fiscalização e sanções
 
-###### Art. 17.º A fiscalização do cumprimento do disposto no presente diploma compete à Direcção-Geral de Inspecção Económica (DGIE) e às CCR, sem prejuízo das competências legalmente atribuídas a outras entidades.
+Art. 17.º A fiscalização do cumprimento do disposto no presente diploma compete à Direcção-Geral de Inspecção Económica (DGIE) e às CCR, sem prejuízo das competências legalmente atribuídas a outras entidades.
 
-###### Art. 18.º - 1 - Constituem contra-ordenações puníveis com as seguintes coimas, quando cometidas por pessoa colectiva:
+Art. 18.º - 1 - Constituem contra-ordenações puníveis com as seguintes coimas, quando cometidas por pessoa colectiva:
 
 a) De 2500 contos a 6000 contos, a infracção ao disposto no n.º 1 do artigo 1.º;
 
@@ -304,29 +339,29 @@ b) 15% para a DGCP;
 
 c) 25% para a respectiva entidade fiscalizadora.
 
-###### Art. 19.º A CCR, quando a sua intervenção for exigida nos termos do presente diploma, é competente para determinar o embargo, a demolição da obra e a reposição do terreno, aplicando-se-lhe, para o efeito, o disposto nos artigos 57.º, 58.º e 59.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
+Art. 19.º A CCR, quando a sua intervenção for exigida nos termos do presente diploma, é competente para determinar o embargo, a demolição da obra e a reposição do terreno, aplicando-se-lhe, para o efeito, o disposto nos artigos 57.º, 58.º e 59.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 20.º - 1 - Os pedidos de autorização prévia de localização entrados na Direcção-Geral do Comércio Interno (DGCI) até à data da entrada em vigor do presente diploma, ao abrigo dos Decretos-Leis n.os [190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779), de 6 de Junho, e [9/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1991-693785), de 8 de Janeiro, serão apreciados de acordo com o regime por eles estabelecido.
+Art. 20.º - 1 - Os pedidos de autorização prévia de localização entrados na Direcção-Geral do Comércio Interno (DGCI) até à data da entrada em vigor do presente diploma, ao abrigo dos Decretos-Leis n.os [190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779), de 6 de Junho, e [9/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1991-693785), de 8 de Janeiro, serão apreciados de acordo com o regime por eles estabelecido.
 
 2 - Em caso de indeferimento dos processos referidos no número anterior, a sua reapreciação será efectuada nos termos do presente diploma.
 
 3 - É dispensada a aprovação da instalação das grandes superfícies não abrangidas pelos Decretos-Leis n.os [190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779), de 6 de Junho, e [9/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1991-693785), de 8 de Janeiro, cujo processo tenha dado entrada na câmara municipal respectiva até à data da entrada em vigor do presente diploma ao abrigo do regime de licenciamento de obras particulares.
 
-###### Art. 21.º Sem prejuízo do disposto no n.º 1 do artigo anterior, são revogados os Decretos-Leis n.os [190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779) e [9/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1991-693785), respectivamente de 6 de Junho e de 8 de Janeiro.
+Art. 21.º Sem prejuízo do disposto no n.º 1 do artigo anterior, são revogados os Decretos-Leis n.os [190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779) e [9/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1991-693785), respectivamente de 6 de Junho e de 8 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 

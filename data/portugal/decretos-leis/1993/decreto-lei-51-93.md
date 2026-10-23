@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/048a00/08270832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1993-657447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e44003ab9385e61fd9dc65290546f5e517682939f959ed9c533e708d2a760b51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0ee4ce5adf8b753d287dfb165f9c23597e67fa82a78a19b2ee19f794cb0093b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,96 @@ subjects:
 - Academia da Força Aérea
 - Campo de Tiro
 - Comissão Histórico-cultural da Força Aérea
-- Força Aérea
 - Conselho Superior da Força Aérea
 - Direcção de Informática
-- Instituto de Altos Estudos da Força Aérea
 - Estado Maior da Força Aérea
-- Junta Superior de Saúde
+- Força Aérea
 - Forças Armadas
+- Instituto de Altos Estudos da Força Aérea
+- Junta Superior de Saúde
+- Madeira.região Autónoma
 - Oficinas Gerais de Material Aeronáutico
 - Orgânica
-- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:489710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475372:por
+  label: "Alterados os artigos 16.º, 17.º, 26.º, 27.º, aditado o artigo 28.º-A e revogados os artigos 20.º e 34.º pelo DEC\
+    \ LEI.148/95.1995.06.24.MDN, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1995-475372
+  date: '1995-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:297036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561628:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522853:por
+  label: "Revogado o art. 34º pelo DEC LEI.27/94.1994.02.05.MDN DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1994-522853
+  date: '1994-02-05'
+- type: repealed_by
+  target: pt:dre:489710:por
+  label: "Revogado, a partir de 01.10.2009 e sem prejuízo dos nºs 2 e 3 do art. 36.º, pelo DEC LEI.232/2009.15.09.2009.MDN,\
+    \ DR.IS [179] de 15.09.2009 (Ver Notas)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-2009-489710
+  date: '2009-09-15'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:03Z'
   warnings: []
   errors: []
 ---
@@ -541,7 +602,7 @@ Salvo o disposto no artigo seguinte, são revogadas todas as disposições em co
 
 [Decreto-Lei n.º 646/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/646-1974-466041), de 21 de Novembro;
 
-###### Artigo 1.º do [Decreto-Lei n.º 526/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1975-312049), de 25 de Setembro;
+Artigo 1.º do [Decreto-Lei n.º 526/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1975-312049), de 25 de Setembro;
 
 [Decreto-Lei n.º 679/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/679-1976-408730), de 2 de Setembro;
 
@@ -565,12 +626,12 @@ Enquanto não forem publicados os regulamentos previstos no presente decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1993.**
+Referendado em 4 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

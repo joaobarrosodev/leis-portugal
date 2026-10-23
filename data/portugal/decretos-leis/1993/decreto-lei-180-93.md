@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/1993/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1993-275597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbc5cf046fda5a8981041972cae5799a20f9d1d5025d828a6a99ffc3819b99a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7a1781ce27f4013fc04fed4ee9e90cd7f0dd09a0d2eebc8a87d6ff446583c7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,25 @@ relationships:
   target: pt:dre:469065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469065:por
+  label: "Alterado o artigo único do presente diploma, pela LEI.59/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2005-469065
+  date: '2005-12-29'
+- type: cites
+  target: pt:dre:609986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:31Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +114,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único - 1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenham as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, podendo progredir até ao 3.º escalão da carreira do pessoal docente do ensino não superior.
+Artigo único - 1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenham as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, podendo progredir até ao 3.º escalão da carreira do pessoal docente do ensino não superior.
 
 2 - No caso de inexistência de vagas, serão criados, nos respectivos quadros de pessoal, através de portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, os lugares necessários à execução do presente diploma, a extinguir quando vagarem.
 
@@ -113,12 +122,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

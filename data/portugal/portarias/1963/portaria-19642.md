@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19642-1963-192842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4e5b841f2607383c069ca0cc7b426c43e36df01e538dc5319da93cfaefe2fc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9011e34a6492bfecf69ae02a0ca80ad1ba200865a264b197ee24e0eda4c07cc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola
+- Orçamento
+- Reforço de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:39Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +97,15 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação» ... 300000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação» ... 300000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 87500$00
+Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 87500$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 5000$00
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 5000$00
 
 ... 392500$00
 
@@ -105,19 +113,19 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 300000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 300000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 65000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 65000$00
 
-###### Artigo 9.º, n.º 2) «Encargos administrativos - Análises de artigos de materiais, de géneros e de matérias-primas» ... 2000$00
+Artigo 9.º, n.º 2) «Encargos administrativos - Análises de artigos de materiais, de géneros e de matérias-primas» ... 2000$00
 
-###### Artigo 9.º, n.º 3), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicação de éditos e de anúncios» ... 5000$00
+Artigo 9.º, n.º 3), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicação de éditos e de anúncios» ... 5000$00
 
-###### Artigo 9.º, n.º 5), alínea a) «Pagamento de serviços e encargos não especificados - Nos serviços gerais» ... 20000$00
+Artigo 9.º, n.º 5), alínea a) «Pagamento de serviços e encargos não especificados - Nos serviços gerais» ... 20000$00
 
-###### Artigo 10.º, n.º 1), alínea a) «Outros encargos - Prémios e condecorações - Prémios de captura de desertores» ... 500$00
+Artigo 10.º, n.º 1), alínea a) «Outros encargos - Prémios e condecorações - Prémios de captura de desertores» ... 500$00
 
 ... 392500$00
 

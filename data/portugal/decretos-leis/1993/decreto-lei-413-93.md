@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/298a00/71307132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/413/1993/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1993-541447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fce5c2a213bbcc808ac04b7222f60f1016eaafec29f6781030b7e5664c08a00d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e7e3ad37c004fa757359a3072f4fa76c6523b2d7a88ca8e35522488f9e6868e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Função Pública
-- Sanção Disciplinar
-- Deontologia Profissional
 - Administração Pública
+- Deontologia Profissional
+- Função Pública
 - Incompatibilidades
+- Sanção Disciplinar
 - Setor Privado
 relationships:
 - type: amended_by
@@ -81,16 +81,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55/1993/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55/1993/08/06/p/dre
+- type: cites
+  target: pt:dre:356537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:33Z'
   warnings: []
   errors: []
 ---
@@ -243,12 +269,12 @@ O presente diploma entra em vigor em 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 9 de Dezembro de 1993.**
+Promulgado em 9 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1993.**
+Referendado em 13 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

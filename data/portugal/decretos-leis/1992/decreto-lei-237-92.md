@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/248a00/49654970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/1992/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1992-220562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b87d9318a78ab3e27a44c225aa06820b29ba430d3b5d69c1f754ab01068a037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74be6989aefdf2c123108fc3baacfcfc6ba651f6cfca2f56142839fde28a4ddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,28 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Saúde Pública
-- Indústria de Brinquedos
 - Certificado de Qualidade
+- Indústria de Brinquedos
+- Normalização
 - Normas de Segurança
 - Proteção do Consumidor
-- Normalização
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:278880:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 4.º, 5.º, 8.º e 15.º e revogado o anexo III pelo DEC LEI.139/95.14.06.1995.MIE, DR.IS-A [136]\
+    \ de 14.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:513673:por
+  label: "Alterado o num 1 do artº 17º pelo DEC LEI.50/97.1997.02.28.MAM DR.IS-A [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1997-513673
+  date: '1997-02-28'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -86,16 +97,22 @@ relationships:
   target: celex:31988L0378
   label: null
   source: http://data.europa.eu/eli/dir/1988/378/oj
+- type: repealed_by
+  target: pt:dre:278880:por
+  label: "Revogado, a partir de 20.07.2011, o presente diploma, na redacção do Dec Lei 139/95, de 14-Jun, e Dec Lei 50/97,\
+    \ de 28-Fev, pelo DEC LEI.43/2011.24.03.2011.MEID, DR.IS [59] de 24.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2011-278880
+  date: '2011-03-24'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:44Z'
   warnings: []
   errors: []
 ---
@@ -346,15 +363,15 @@ São revogados o Decreto-Lei n.º 140/90, de 30 de Abril, e as Portarias n.os 92
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 6 de Outubro de 1992.**
+Promulgado em 6 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1992.**
+Referendado em 7 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — (N.º 3 do artigo 2.º)
 
@@ -522,7 +539,7 @@ Os brinquedos não devem conter elementos ou substâncias radioactivas sob forma
 
 Símbolo da marca CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/248a00/49654970.pdf))](https://files.diariodarepublica.pt/1s/1992/10/248a00/49654970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/248a00/49654970.pdf)
 
 ## ANEXO IV — (N.º 1 do artigo 8.º)
 

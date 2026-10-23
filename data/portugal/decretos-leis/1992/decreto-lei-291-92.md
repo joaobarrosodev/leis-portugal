@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/291/1992/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1992-408773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ab7b8e6893e2eb46c2110ceb0087431caf411434835bce7b00fb8edaa24d20d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56af2d7c801032341dc190455c1ce36d57cb899d03fa22d3f74d9219b167acdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Administração Pública
 - Comissão de Serviço
 - Empresa Pública
-- Administração Pública
-- Sociedade Lisboa 94
+- Funcionário Público
 - Prestação de Serviços
 - Remuneração
 - Requisição de Pessoal
-- Funcionário Público
+- Sociedade Anónima
+- Sociedade Lisboa 94
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/1992/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/145/1992/07/21/p/dre
+- type: cites
+  target: pt:dre:292303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665745:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:56Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +120,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Podem prestar serviços na sociedade Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., adiante designada Sociedade, mediante o seu prévio consentimento, funcionários da administração pública central e local, em regime de comissão de serviço, sem perda de quaisquer direitos ou regalias inerentes ao seu vínculo.
+Artigo 1.º - 1 - Podem prestar serviços na sociedade Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., adiante designada Sociedade, mediante o seu prévio consentimento, funcionários da administração pública central e local, em regime de comissão de serviço, sem perda de quaisquer direitos ou regalias inerentes ao seu vínculo.
 
 2 - A comissão de serviço referida no número anterior carece de autorização, nos termos da lei geral.
 
@@ -116,16 +128,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A remuneração dos funcionários e trabalhadores referidos nos n.os 1 e 3 será paga pela Sociedade, tendo aqueles o direito de optar entre a remuneração fixada pela Sociedade para a categoria para a qual são contratados e a correspondente ao vencimento ou remuneração de origem.
 
-###### Art. 2.º O presente diploma retroage os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 145/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1992-292303), de 21 de Julho.
+Art. 2.º O presente diploma retroage os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 145/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1992-292303), de 21 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1992.**
+Referendado em 15 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

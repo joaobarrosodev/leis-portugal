@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/1992/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1992-168632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b561d6f8a8abb4e3b4a0fd30ef1bf106de1ea5894f55772bbe959ca23570e04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3df681531f8f1a199b97c158232cf02bb0ba57f848686f775fb8ad307b79c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direitos de Importação
 - Indústria de Plásticos
 - Pauta Aduaneira
-- Direitos de Importação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:06Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 37.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São temporariamente reduzidos para o nível dos direitos da Pauta Aduaneira Comum os direitos aduaneiros da Pauta dos Direitos de Importação aplicáveis aos seguintes produtos:
+Artigo 1.º São temporariamente reduzidos para o nível dos direitos da Pauta Aduaneira Comum os direitos aduaneiros da Pauta dos Direitos de Importação aplicáveis aos seguintes produtos:
 
 ex 3901 10 90 - Polietileno de densidade inferior a 0,94:
 
@@ -107,20 +111,20 @@ De densidade superior a 0,926, com exclusão do utilizado em filme agrícola.
 
 ex 3904 22 00 - Policloreto de vinilo misturado com outras substâncias, plastificado, tipo suspensão, grau atóxico, para aplicações médicas.
 
-###### Art. 2.º - 1 - É suspensa, por tempo indeterminado, a cobrança dos direitos de importação aplicáveis aos produtos referidos no artigo anterior, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado Que Institui a Comunidade Económica Europeia.
+Art. 2.º - 1 - É suspensa, por tempo indeterminado, a cobrança dos direitos de importação aplicáveis aos produtos referidos no artigo anterior, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado Que Institui a Comunidade Económica Europeia.
 
 2 - O disposto no número anterior é igualmente aplicável, nos termos dos acordos comerciais e dos respectivos protocolos de adaptação, aos produtos referidos no artigo anterior e originários dos países com os quais a Comunidade Europeia concluiu acordos preferenciais.
 
-###### Art. 3.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1992.
+Art. 3.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1991. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.
 
-**Promulgado em 10 de Fevereiro de 1992.**
+Promulgado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992.**
+Referendado em 17 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

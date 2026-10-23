@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19564-1962-155406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 911694746fb41b6e94af19e37c6ebc7fee6de8203f2f3eb80a441cc2ed3693b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a3f3998fc9403ea8f580359c9d0bfdd673c0a9d6a2063ac87da6a46ae07095b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:03Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +93,17 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício -Pessoal civil assalariado - Eventual» ... 5000$00
+Artigo 1.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício -Pessoal civil assalariado - Eventual» ... 5000$00
 
-###### Artigo 2.º, n.º 1) «Remunerações acidentais - Subsídio de embarque a oficiais, sargentos e praças» ... 120000$00
+Artigo 2.º, n.º 1) «Remunerações acidentais - Subsídio de embarque a oficiais, sargentos e praças» ... 120000$00
 
-###### Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Fatos de trabalho e artigos especiais para cozinheiros, motociclistas, serventes de viaturas motorizadas e blindadas, praças hospitalizadas, etc., ...» ... 2000$00
+Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Fatos de trabalho e artigos especiais para cozinheiros, motociclistas, serventes de viaturas motorizadas e blindadas, praças hospitalizadas, etc., ...» ... 2000$00
 
-###### Artigo 3.º, n.º 6), alínea c) «Outras despesas com o pessoal - Subsídios para renda de casa a praças» ... 50000$00
+Artigo 3.º, n.º 6), alínea c) «Outras despesas com o pessoal - Subsídios para renda de casa a praças» ... 50000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 5) «Material de consumo corrente - Combustíveis e lubrificantes» ... 150000$00
+Artigo 6.º, n.º 5) «Material de consumo corrente - Combustíveis e lubrificantes» ... 150000$00
 
 ... 327000$00
 
@@ -107,13 +111,13 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 252000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 252000$00
 
-###### Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificações por acumulação» ... 6000$00
+Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificações por acumulação» ... 6000$00
 
-###### Artigo 2.º, n.º 4) «Remunerações acidentais - Gratificações para despesas de representação» ... 12000$00
+Artigo 2.º, n.º 4) «Remunerações acidentais - Gratificações para despesas de representação» ... 12000$00
 
-###### Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 57000$00
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 57000$00
 
 ... 327000$00
 

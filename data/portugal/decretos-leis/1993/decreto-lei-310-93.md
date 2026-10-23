@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/310/1993/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1993-661292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6523c7a004586305a30e049548b2825e64e54dac4aeed152b704b6971d6bc42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a4f625df97175c3c15835068dce5d9a757661b5306b563ae4cef1bedcfc79fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Veículo
-- Segurança Rodoviária
 - Equipamento de Veículo
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: cites
   target: celex:31989L0459
   label: null
   source: http://data.europa.eu/eli/dir/1989/459/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:25Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +103,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 3.º do Decreto-Lei n.º 49020, de 23 de Maio de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 3.º do Decreto-Lei n.º 49020, de 23 de Maio de 1969, passam a ter a seguinte redacção:
 
-###### Art. 1.º - 1 - Os automóveis ligeiros e os reboques de peso bruto não superior a 3,5 t não podem transitar na via pública sem que o piso de todos os seus pneumáticos, incluindo o de reserva, quando obrigatório, apresente em toda a circunferência da zona de rolagem desenhos com uma altura de, pelo menos, 1,6 mm nos relevos principais.
+Art. 1.º - 1 - Os automóveis ligeiros e os reboques de peso bruto não superior a 3,5 t não podem transitar na via pública sem que o piso de todos os seus pneumáticos, incluindo o de reserva, quando obrigatório, apresente em toda a circunferência da zona de rolagem desenhos com uma altura de, pelo menos, 1,6 mm nos relevos principais.
 
 2 - Os veículos automóveis e os reboques não abrangidos pelo disposto no número anterior não podem transitar na via pública sem que o piso de todos os seus pneumáticos, incluindo o de reserva, quando obrigatório, apresente em toda a circunferência da zona de rolagem desenhos com uma altura de, pelo menos, 1 mm nos relevos principais.
 
@@ -115,20 +115,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - O presente diploma não se aplica aos veículos que, por fabrico ou imposição legal, não possam exceder a velocidade de 20 km/hora, nem aos reboques que lhes estejam atrelados, não podendo, contudo, os respectivos pneumáticos apresentar à vista qualquer parte das telas.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - Exceptuam-se do regime estabelecido no número anterior os pneumáticos destinados aos veículos referidos no n.º 5 do artigo 1.º, aos velocípedes e ainda aos pneumáticos dos veículos automóveis e dos reboques que estejam nas condições fixadas no n.º 3.1.8 do Regulamento n.º 54 CEE/ONU, anexo ao Decreto n.º 14/89, de 18 de Abril.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Agosto de 1993.**
+Promulgado em 13 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1993.**
+Referendado em 23 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

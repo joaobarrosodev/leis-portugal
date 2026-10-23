@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 256/1992, 1º Suplemento, Série I-A de 1992-11-05
   number: '256'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5144-(2) a 5144-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/256a01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246-a/1992/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-1992-646722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7b7fffb81f24dffebf132700571e5863dc2922b93c19070b1eff605fcfe9d43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88a2c771fd0b6d97dda3f630909904099dae0f7350eae4700d584985590a09a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/140/1991/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/140/1991/04/10/p/dre
+- type: cites
+  target: pt:dre:222248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:55Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +124,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As acções representativas da totalidade do capital social da União de Bancos Portugueses, S. A., criada pelo [Decreto-Lei n.º 351/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1986-222248), de 20 de Outubro, e posteriormente transformada em sociedade anónima de capitais maioritariamente públicos pelo [Decreto-Lei n.º 126/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1989-615227), de 15 de Abril, passam a poder ser detidas na sua totalidade por entidades privadas.
+Artigo 1.º - 1 - As acções representativas da totalidade do capital social da União de Bancos Portugueses, S. A., criada pelo [Decreto-Lei n.º 351/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1986-222248), de 20 de Outubro, e posteriormente transformada em sociedade anónima de capitais maioritariamente públicos pelo [Decreto-Lei n.º 126/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1989-615227), de 15 de Abril, passam a poder ser detidas na sua totalidade por entidades privadas.
 
 2 - O capital social é de 30000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade, sendo representado por 30 milhões de acções do valor nominal de 1000$00 cada uma.
 
 3 - As acções representativas do capital da sociedade poderão ser escriturais e serão obrigatoriamente nominativas ou ao portador em regime de registo.
 
-###### Art. 2.º - 1 - É aprovada a alienação de 18333332 acções de que o Estado é titular, correspondentes a cerca de 61,11% do capital social da União de Bancos Portugueses, S. A.
+Art. 2.º - 1 - É aprovada a alienação de 18333332 acções de que o Estado é titular, correspondentes a cerca de 61,11% do capital social da União de Bancos Portugueses, S. A.
 
 2 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes 2750000 acções, correspondentes a 15% do capital a alienar.
 
@@ -122,7 +142,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - Para os efeitos do n.º 1 deste artigo, entendem-se como trabalhadores as pessoas referidas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar mediante resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.
 
@@ -136,13 +156,13 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - Nos 15 dias seguintes ao termo do processo de reprivatização a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da qualidade de acções de que cada um é titular.
 
-###### Art. 4.º - 1 - O Conselho de Ministros definirá, mediante resolução, preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores, emigrantes e accionistas.
+Art. 4.º - 1 - O Conselho de Ministros definirá, mediante resolução, preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores, emigrantes e accionistas.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de indisponibilidade das acções previsto no n.º 1 do artigo 5.º, nas condições a fixar em resolução do Conselho de Ministros.
 
 3 - A resolução do Conselho de Ministros fixará os preços de alienação, por oferta em bolsa de valores, das acções a que se referem os n.os 4 e 5 do artigo 2.º
 
-###### Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 3.º não conferem aos respectivos titulares o direito de votarem na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.
 
@@ -152,7 +172,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os contratos-promessa, contratos de opção ou semelhantes pelos quais seja convencionada a alienação futura das acções, quando celebrados antes de iniciado ou terminado o período referido no n.º 1.
 
-###### Art. 6.º - 1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 20% do capital da sociedade.
+Art. 6.º - 1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 20% do capital da sociedade.
 
 2 - Quando celebrados antes da aquisição no processo de reprivatização, são nulos:
 
@@ -162,13 +182,13 @@ b) Os acordos pelos quais as entidades portuguesas e estrangeiras se obriguem a,
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
+Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
 
 2 - São nulos os acordos pelos quais, durante o período de indisponibilidade referido no n.º 1 do artigo 5.º, entidades portuguesas adquiram acções da sociedade reprivatizada em nome próprio mas por conta de entidades estrangeiras.
 
 3 - No caso do n.º 1, as acções adquiridas reputam-se, para todos os eleitos, pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 8.º - 1 - Na aquisição e posse por entidades estrangeiras de acções da sociedade reprivatizada observar-se-á o seguinte:
+Art. 8.º - 1 - Na aquisição e posse por entidades estrangeiras de acções da sociedade reprivatizada observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito a voto representativas de mais de 20% do capital social;
 
@@ -178,7 +198,7 @@ c) Nas sociedades ordinárias ou gestoras de participações sociais titulares d
 
 2 - Para efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considerar necessárias.
 
-###### Art. 9.º - 1 - Para efeitos deste diploma, consideram-se entidades estrangeiras:
+Art. 9.º - 1 - Para efeitos deste diploma, consideram-se entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -192,15 +212,15 @@ d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva declarará, por escrito, se se encontra ou não em relação, prevista no número anterior, com outra entidade também concorrente.
 
-###### Art. 10.º - 1 - As acções adquiridas ao abrigo do n.º 3 do artigo 2.º que, em relação a cada um dos respectivos titulares, correspondam a uma percentagem igual ou superior a 0,5% do capital social não poderão ser oneradas nem objecto de negócio jurídico que transmita a sua titularidade, ainda que com eficácia futura, antes de decorridos cinco anos sobre a data da aquisição, sob pena de nulidade do referido negócio.
+Art. 10.º - 1 - As acções adquiridas ao abrigo do n.º 3 do artigo 2.º que, em relação a cada um dos respectivos titulares, correspondam a uma percentagem igual ou superior a 0,5% do capital social não poderão ser oneradas nem objecto de negócio jurídico que transmita a sua titularidade, ainda que com eficácia futura, antes de decorridos cinco anos sobre a data da aquisição, sob pena de nulidade do referido negócio.
 
 2 - A nulidade cominada no número anterior e as previstas nos artigos 5.º, 6.º e 7.º podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado.
 
 3 - Os direitos de aquisição constantes dos n.os 3 e 4 do artigo 2.º são intransmissíveis.
 
-###### Art. 11.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base na avaliação especialmente efectuada por duas entidades independentes, a escolher entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 11.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base na avaliação especialmente efectuada por duas entidades independentes, a escolher entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 12.º - 1 - Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
+Art. 12.º - 1 - Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
 
 2 - No caso de não ser alienada a totalidade das acções referidas no n.º 1 do artigo 2.º, o Governo pode:
 
@@ -210,24 +230,24 @@ b) Se aquelas acções excederem a percentagem de 2,5% do mesmo capital social, 
 
 3 - No caso de o Governo decidir reduzir o número das acções a alienar nesta fase, consoante se prevê na alínea b) do número anterior, as acções sobrantes serão alienadas em fase subsequente de reprivatização do banco.
 
-###### Art. 13.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para, por ajuste directo, contratar a montagem das operações de alienação e oferta pública de subscrição de acções, a tomada firme e respectiva colocação, bem como para determinar as demais condições que se afigurem convenientes.
+Art. 13.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para, por ajuste directo, contratar a montagem das operações de alienação e oferta pública de subscrição de acções, a tomada firme e respectiva colocação, bem como para determinar as demais condições que se afigurem convenientes.
 
-###### Art. 14.º Para efeitos da primeira assembleia geral de accionistas não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Art. 14.º Para efeitos da primeira assembleia geral de accionistas não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
 
-###### Art. 15.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 15.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma, a sociedade deverá proceder às necessárias adaptações estatutárias.
 
-###### Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 31 de Outubro de 1992.**
+Promulgado em 31 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1992.**
+Referendado em 4 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

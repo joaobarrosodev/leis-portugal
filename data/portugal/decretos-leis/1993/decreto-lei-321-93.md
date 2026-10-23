@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/222a00/51845191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/1993/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1993-655515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1154f2fe2cf1cd17f41811c33194522aad5afcb7163535d5be4746e378d4b24c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57680235427008fcb89ead5668e1993d1ab9edf970c5fb9278a57d127f3e8ade
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,56 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Geral de Portos
-- Ministério do MAR
 - Instituto Nacional de Investigação das Pescas
 - Instituto Português de Conservas e Pescado
 - Instituto Português de Investigação Marítima
 - Integração de Trabalhadores
+- Ministério do MAR
 - Orgânica
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS PELO DEC\
+    \ LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL 1\066]SUPL 1"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:476918:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinto o Instituto Português de Investigação Marítima, pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355510:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476918:por
+  label: "Revogado pelo DEC LEI.94/97.1997.04.23.MADRP, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1997-476918
+  date: '1997-04-23'
 article_structure:
   article_count: 29
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:42Z'
   warnings: []
   errors: []
 ---
@@ -384,7 +407,9 @@ c) Proceder ao controlo de todos os encargos com os combustíveis e lubrificante
 
 6 - Adstrita à Repartição Financeira e Patrimonial funciona a tesouraria, coordenada por um tesoureiro.
 
-###### Artigo 11.º — Divisão de Informática
+###### Artigo 11.º
+
+##### Divisão de Informática
 
 A Divisão de Informática é o serviço de apoio técnico em matéria informática, ao qual incumbe:
 
@@ -396,7 +421,9 @@ c) Promover e colaborar no desenvolvimento de um sistema integrado de informaç�
 
 d) Assegurar a manutenção e gestão dos equipamentos e suportes de informação à sua guarda, zelando pela sua segurança e operacionalidade.
 
-###### Artigo 12.º — Divisão de Relações Externas
+###### Artigo 12.º
+
+##### Divisão de Relações Externas
 
 A Divisão de Relações Externas é o serviço de apoio técnico à organização e divulgação das actividades de investigação e desenvolvimento (I&D) e de relações públicas, ao qual incumbe:
 
@@ -410,7 +437,9 @@ d) Divulgar as actividades do IPIMAR e a promoção da sua actividade, a eficien
 
 e) Dinamizar as medidas de modernização administrativa, visando a melhoria da qualidade dos serviços.
 
-###### Artigo 13.º — Divisão de Informação e Documentação Científica e Técnica
+###### Artigo 13.º
+
+##### Divisão de Informação e Documentação Científica e Técnica
 
 A Divisão de Informação e Documentação Científica e Técnica é o serviço de apoio técnico nos domínios da documentação e informação, à qual incumbe:
 
@@ -422,7 +451,9 @@ c) Promover a aquisição e o tratamento da documentação científica e técnic
 
 d) Promover a edição de publicações e a sua divulgação, quer através de permuta, quer através da sua venda, e proporcionar informação técnico-científica aos agentes económicos.
 
-###### Artigo 14.º — Divisão de Navios
+###### Artigo 14.º
+
+##### Divisão de Navios
 
 À Divisão de Navios compete assegurar a execução do plano de cruzeiros técnico-científicos, a operacionalidade dos navios de estudo e outras embarcações do IPIMAR, bem como o apetrechamento e manutenção de todo o seu equipamento, incumbindo-lhe:
 
@@ -620,12 +651,12 @@ O pessoal do IPIMAR, quando embarcado, mantém o direito aos subsídios de embar
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 23 de Julho de 1993.**
+Promulgado em 23 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/187a00/42684274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/1993/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1993-354930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d412254122981efd3dab5f2974a4230a51e69087b5b88137ebb9decd63c275c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d65548aea396487421b2a50f19177f3a9d09cca2c55fac540a6ad72be537f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,23 @@ relationships:
   target: pt:dre:172420961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:224661:por
+  label: "Alterados os art.s 7.º, 8.º, 11.º, 14.º, 15.º, 20.º, 28.º, 31.º e 35.º e o quadro anexo pelo DEC LEI.15/98.1998.01.29.PCM\
+    \ DR.IS-A [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1998-224661
+  date: '1998-01-29'
+- type: amended_by
+  target: pt:dre:349285:por
+  label: "Alterados os arts. 5º, 11º, 28º, 30º e 31º e o quadro anexo e aditados os arts. 31º-A e 31º-B pelo DEC LEI.195/2001.2001.06.27.MREAP,DR.IS-A\
+    \ [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2001-349285
+  date: '2001-06-27'
+- type: amended_by
+  target: pt:dre:569757:por
+  label: "Dada nova redacção ao art. 27º pelo DEC LEI.72-A/2010.18.06.2010.MFAP, DR.IS [117-Supl] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
@@ -83,16 +100,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/73/1992/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/73/1992/02/05/p/dre
+- type: cites
+  target: pt:dre:150974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:172420961:por
+  label: Revogado, a partir de 05.11.2021, o presente diploma, com a redação atual, pelo(a) Decreto-Lei n.º 80/2021 - Diário
+    da República n.º 194/2021, Série I de 2021-10-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2021-172420961
+  date: '2021-10-06'
 article_structure:
   article_count: 38
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:46Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +280,9 @@ b) De Pessoal, Expediente Geral e Arquivo;
 
 c) De Processos.
 
-###### Artigo 12.º — Divisão de Documentação
+###### Artigo 12.º
+
+##### Divisão de Documentação
 
 À Divisão de Documentação compete, em especial:
 
@@ -253,7 +298,9 @@ e) Apoiar todos os serviços da Provedoria em matéria de documentação;
 
 f) Planificar e promover a edição de publicações.
 
-###### Artigo 13.º — Divisão de Informação e Relações Públicas
+###### Artigo 13.º
+
+##### Divisão de Informação e Relações Públicas
 
 À Divisão de Informação e Relações Públicas compete, em especial:
 
@@ -297,7 +344,9 @@ c) Detectar as novas necessidades em meios informáticos e fazer as respectivas 
 
 d) Proceder à prospecção, recolha, tratamento e difusão de elementos informativos de índole quantitativa.
 
-###### Artigo 16.º — Secção de Contabilidade, Património e Economato
+###### Artigo 16.º
+
+#### Secção de Contabilidade, Património e Economato
 
 À Secção de Contabilidade, Património e Economato compete, em especial:
 
@@ -315,7 +364,9 @@ f) Organizar a conta de gerência relativa às despesas do ano anterior;
 
 g) Providenciar, acompanhar e verificar a segurança e o asseio das instalações e equipamentos.
 
-###### Artigo 17.º — Secção de Pessoal, Expediente Geral e Arquivo
+###### Artigo 17.º
+
+#### Secção de Pessoal, Expediente Geral e Arquivo
 
 À Secção de Pessoal, Expediente Geral e Arquivo compete, em especial:
 
@@ -331,7 +382,9 @@ e) Assegurar o serviço de reprografia;
 
 f) Processar os vencimentos e demais abonos e prestações sociais ao pessoal.
 
-###### Artigo 18.º — Secção de Processos
+###### Artigo 18.º
+
+#### Secção de Processos
 
 À Secção de Processos compete, em especial:
 
@@ -507,16 +560,16 @@ São revogados a [Lei n.º 10/78](https://diariodarepublica.pt/dr/detalhe/lei/10
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/187a00/42684274.pdf))](https://files.diariodarepublica.pt/1s/1993/08/187a00/42684274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/187a00/42684274.pdf)

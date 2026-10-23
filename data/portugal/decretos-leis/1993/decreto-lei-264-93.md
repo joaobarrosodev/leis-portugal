@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/177a00/40994103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/1993/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1993-345155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c69ad734e89c29268eed5630023a72ea3f133dc94d417ea85c6532b15aa06906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd4e7c7cecd08ad5a3e12c2af1b31dc586a93d9b8caec5a8e47dd54f1fbab9e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
 - CE Países
 - Comunidade Europeia
-- Portugal
-- Importação Temporária
 - Contribuições e Impostos
-- Isenção Fiscal
-- Veículo
-- Residência
-- Países Terceiros
-- Imposto Automóvel
 - Herança
+- Importação Temporária
+- Imposto Automóvel
+- Isenção Fiscal
+- Países Terceiros
+- Portugal
+- Residência
+- Residência de Estrangeiros
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:226204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os arts. 1º, 8º e 9º pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterados os arts. 13º, 15º e 16º pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A [299]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 7.º, pela LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 13.º e 16.º do presente diploma, na redacção da Lei 30-C/2000, de 29-Dez, pela LEI.55-B/2004.30.12.2004.AR,\
+    \ DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
 - type: cites
   target: celex:31989R1855
   label: null
@@ -91,16 +112,22 @@ relationships:
   target: celex:31991R2249
   label: null
   source: http://data.europa.eu/eli/reg/1991/2249/oj
+- type: repealed_by
+  target: pt:dre:226204:por
+  label: "Revogado a partir de 01.07.2007, com excepção do disposto na al. b) do nº 1 do art. 13º e no art. 14º, que se mantêm\
+    \ em vigor até 31.12.2007, pela LEI.22-A/2007.29.06.2007.AR, DR.IS [124-Supl] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-a-2007-226204
+  date: '2007-06-29'
 article_structure:
   article_count: 24
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:22Z'
   warnings: []
   errors: []
 ---
@@ -349,15 +376,15 @@ O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 1 de Julho de 1993.**
+Promulgado em 1 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1993.**
+Referendado em 2 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Guia de circulação de veículos automóveis
 

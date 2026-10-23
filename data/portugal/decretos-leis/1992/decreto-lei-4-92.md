@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/1992/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1992-144059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a60dfaa8cf4bee2324eb1490aea74aee4a3b916c8ff0afd551898f7bf9133ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3150322ee4cf17cce238a28e8399d4117a6ea72ae5f826c64abeeb3511e105f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Peniche
 - Prorrogação de Prazo
 - Regime de Instalação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:16Z'
   warnings: []
   errors: []
 ---
@@ -116,12 +120,12 @@ b) Sem prejuízo das habilitações legais, para carreira e categoria que integr
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991 - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 6 de Janeiro de 1992.**
+Promulgado em 6 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1992.**
+Referendado em 8 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

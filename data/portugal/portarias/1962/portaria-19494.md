@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19494-1962-156235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d845c8c0f805c90307ba16ace6259982c17c16c6d5ac8b1244ba87a5a6a4df9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceed08efae5a3bc7a14a9eded8e29434d27d892bba918df06ae708946f587293
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189366:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:29Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que:
 
 1.º Ao abrigo do disposto no artigo 239.º do [Decreto n.º 30261](https://diariodarepublica.pt/dr/detalhe/decreto/30261-1940-189366), de 9 de Janeiro de 1940, o artigo 93.º do Regulamento do Corpo de Marinheiros da Armada passe a ter a seguinte redacção:
 
-###### Art. 93.º O Comando do Corpo de Marinheiros da Armada, consideradas superiormente as necessidades do serviço activo e as exigências de manutenção de uma reserva eficiente, designará os primeiros-grumetes que hão-de frequentar cada um dos cursos do 1.º grau. A designação recairá nos que tenham maior valorização na instrução técnica elementar, independentemente da incorporação a que pertençam, melhores informações sobre qualidades militares, classificação de comportamento não inferior à 2.ª classe, sem faltas de carácter grave, e hajam revelado boas qualidades profissionais, tendo em vista o seu aproveitamento na preparação dos graduados.
+Art. 93.º O Comando do Corpo de Marinheiros da Armada, consideradas superiormente as necessidades do serviço activo e as exigências de manutenção de uma reserva eficiente, designará os primeiros-grumetes que hão-de frequentar cada um dos cursos do 1.º grau. A designação recairá nos que tenham maior valorização na instrução técnica elementar, independentemente da incorporação a que pertençam, melhores informações sobre qualidades militares, classificação de comportamento não inferior à 2.ª classe, sem faltas de carácter grave, e hajam revelado boas qualidades profissionais, tendo em vista o seu aproveitamento na preparação dos graduados.
 
 § 1.º Quando o número de primeiros-grumetes for insuficiente, poderão ser designados os segundos-grumetes que satisfaçam às condições indicadas no corpo deste artigo, devendo, contudo, ser respeitada a ordem das incorporações a que pertençam.
 

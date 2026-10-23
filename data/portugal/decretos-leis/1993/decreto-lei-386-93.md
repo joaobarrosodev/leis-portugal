@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/270a00/64406441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/386/1993/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1993-676435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f96ecadadf0d4f23fb7882c689f0831a85b026bd62e1327708023f77fba2288c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fdb413aaa79fcf1acc21a05b4402a6a015fea741831f21f7096c70144f60b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Multa
+- Comércio
 - Etiquetagem
+- Multa
 - Tabaco
 - Tabagismo
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:209590:por
@@ -87,16 +87,21 @@ relationships:
   target: celex:31992L0041
   label: null
   source: http://data.europa.eu/eli/dir/1992/41/oj
+- type: repealed_by
+  target: pt:dre:209590:por
+  label: "Revogado pelo DEC LEI.25/2003.2003.02.04.MS DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2003-209590
+  date: '2003-02-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:58Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +120,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/41/CEE](https://data.europa.eu/eli/dir/1992/41/oj?locale=pt), do Conselho, de 15 de Maio de 1992, relativa à aproximação das disposições legislativas dos Estados membros em matéria de rotulagem e colocação no mercado de determinados produtos do tabaco destinados a uso oral.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/41/CEE](https://data.europa.eu/eli/dir/1992/41/oj?locale=pt), do Conselho, de 15 de Maio de 1992, relativa à aproximação das disposições legislativas dos Estados membros em matéria de rotulagem e colocação no mercado de determinados produtos do tabaco destinados a uso oral.
 
-###### Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se «novos produtos do tabaco para uso oral» os produtos que se destinam a uso oral constituídos total ou parcialmente por tabacos sob a forma de pó ou de partículas finas ou qualquer combinação destas formas, nomeadamente os que se apresentam em doses individuais ou pacotes porosos ou sob forma que evoque um género alimentício com excepção dos produtos para fumar ou mascar.
+Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se «novos produtos do tabaco para uso oral» os produtos que se destinam a uso oral constituídos total ou parcialmente por tabacos sob a forma de pó ou de partículas finas ou qualquer combinação destas formas, nomeadamente os que se apresentam em doses individuais ou pacotes porosos ou sob forma que evoque um género alimentício com excepção dos produtos para fumar ou mascar.
 
 2 - É proibida a introdução no mercado de novos produtos do tabaco para uso oral, tal como definidos no número anterior.
 
 3 - São responsáveis pela inobservância do disposto no n.º 1 o fabricante, o importador e os operadores económicos definidos pelo artigo 3.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, em cujos estabelecimentos sejam detectadas infracções àquela disposição.
 
-###### Art. 3.º - 1 - A infracção ao disposto no n.º 2 do artigo anterior é punível com coima de 150000$00 a 500000$00.
+Art. 3.º - 1 - A infracção ao disposto no n.º 2 do artigo anterior é punível com coima de 150000$00 a 500000$00.
 
 2 - As coimas aplicadas às pessoas colectivas podem elevar-se até ao montante máximo de 4000000$00.
 
@@ -133,24 +138,24 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Com as coimas previstas no presente diploma podem ser aplicadas, como sanções acessórias, a apreensão de objectos ou a suspensão de subsídios ou benefícios de qualquer natureza atribuídos pela Administração Pública, as quais serão cumulativamente aplicadas se a infracção e o agente reunirem as condições que permitam a sua aplicação.
 
-###### Art. 4.º - 1 - A fiscalização do disposto no presente diploma compete à Direcção-Geral da Saúde.
+Art. 4.º - 1 - A fiscalização do disposto no presente diploma compete à Direcção-Geral da Saúde.
 
 2 - A instrução dos processos de contra-ordenação e a aplicação das correspondentes coimas e sanções acessórias compete ao director-geral da Saúde.
 
 3 - O director-geral da Saúde deve dar conhecimento ao Conselho de Prevenção do Tabagismo dos processos instaurados e respectivo seguimento.
 
-###### Art. 5.º O montante das coimas aplicadas reverte em 40% para a Direcção-Geral da Saúde, destinando-se a suportar parte dos encargos com o funcionamento do Conselho de Prevenção do Tagagismo, e em 60% para o Estado.
+Art. 5.º O montante das coimas aplicadas reverte em 40% para a Direcção-Geral da Saúde, destinando-se a suportar parte dos encargos com o funcionamento do Conselho de Prevenção do Tagagismo, e em 60% para o Estado.
 
-###### Art. 6.º As normas técnicas relativas à rotulagem dos produtos de tabaco são objecto de portaria do Ministro da Saúde.
+Art. 6.º As normas técnicas relativas à rotulagem dos produtos de tabaco são objecto de portaria do Ministro da Saúde.
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 3 de Novembro de 1993.**
+Promulgado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

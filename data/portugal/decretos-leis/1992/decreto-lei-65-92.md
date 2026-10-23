@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/1992/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1992-216746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 535867e231e595067dcb2d12557cef6d8f18793c6c3671a3b171a1ddce7fc5ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7b29a181476293399bee99427b4df71f98f3688c34d7b7e817a0d2f66780d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Etiquetagem
-- Indústria da Panificação
 - Farinha
+- Indústria da Panificação
 - Levedura
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/414/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/414/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:219961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642183:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:51Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +203,12 @@ n) [Portaria n.º 414/91](https://diariodarepublica.pt/dr/detalhe/portaria/414-1
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

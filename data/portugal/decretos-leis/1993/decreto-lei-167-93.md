@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/1993/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1993-274244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd8133ea2099295c38fc42749c1c8a00255da70f524bfe34cdc8aeb2a919254e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37163a92378996cb5b2752c6cc13351482eb4ed5d4e44de112a5ad9f66581115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
 subjects:
 - Amortização
 - Crédito à Habitação
+- Habitação
 - Habitação Social
 - Preço
 - Preço de Venda
-- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:466834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:11Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +116,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma tem por objecto o estabelecimento do regime de propriedade resolúvel sobre prédios urbanos ou suas fracções autónomas, adiante designados por fogos, destinados a habitação própria e permanente do adquirente.
+Artigo 1.º - 1 - O presente diploma tem por objecto o estabelecimento do regime de propriedade resolúvel sobre prédios urbanos ou suas fracções autónomas, adiante designados por fogos, destinados a habitação própria e permanente do adquirente.
 
 2 - O regime estabelecido no número anterior é aplicável aos fogos construídos ou adquiridos para habitação social pelo Estado, seus organismos autónomos e institutos públicos, bem como pelas Regiões Autónomas, pelos municípios e pelas instituições particulares de solidariedade social, quando tenham beneficiado de comparticipações a fundo perdido concedidas pelo Estado para a respectiva construção ou aquisição.
 
 3 - Ficam igualmente sujeitos ao regime estabelecido no presente diploma os fogos construídos ou adquiridos para habitação social pelas Regiões Autónomas, quando tenham beneficiado de comparticipações a fundo perdido concedidas pela respectiva Região para construção ou aquisição.
 
-###### Art. 2.º - 1 - Para os efeitos do presente diploma, a propriedade resolúvel constitui-se com a celebração da escritura pública de compra e venda.
+Art. 2.º - 1 - Para os efeitos do presente diploma, a propriedade resolúvel constitui-se com a celebração da escritura pública de compra e venda.
 
 2 - Quando a entrega do fogo seja anterior à celebração da respectiva escritura de compra e venda, os efeitos desta reportam-se à data daquela.
 
@@ -128,7 +132,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Com base no disposto no número anterior, podem os interessados requerer às conservatórias do registo predial os respectivos averbamentos na inscrição do prédio.
 
-###### Art. 3.º - 1 - O preço de venda dos fogos em regime de propriedade resolúvel é fixado pela entidade vendedora, nos termos da legislação aplicável ao programa específico ao abrigo do qual foram os mesmos construídos ou adquiridos.
+Art. 3.º - 1 - O preço de venda dos fogos em regime de propriedade resolúvel é fixado pela entidade vendedora, nos termos da legislação aplicável ao programa específico ao abrigo do qual foram os mesmos construídos ou adquiridos.
 
 2 - Na ausência de legislação específica para a fixação do preço de venda, este não poderá ser superior a 80% do preço máximo admitido para a habitação de custos controlados.
 
@@ -138,7 +142,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Caso a entidade vendedora não cumpra o disposto no n.º 3, consideram-se vencidas todas as prestações fixadas para a amortização do respectivo empréstimo à construção ou à aquisição dos fogos transmitidos.
 
-###### Art. 4.º - 1 - O preço de venda pode ser pago em prestações constantes ou progressivas, até 25 anos, calculadas à taxa de juro que for praticada, a cada momento, pelo Instituto Nacional de Habitação (INH), líquida de bonificação, e aplicada no programa específico a que se refere o n.º 1 do artigo 3.º
+Art. 4.º - 1 - O preço de venda pode ser pago em prestações constantes ou progressivas, até 25 anos, calculadas à taxa de juro que for praticada, a cada momento, pelo Instituto Nacional de Habitação (INH), líquida de bonificação, e aplicada no programa específico a que se refere o n.º 1 do artigo 3.º
 
 2 - As prestações vencem-se no 1.º dia útil do mês a que respeitam e serão calculadas em conformidade com a fórmula aplicável no regime geral de crédito à aquisição de habitação própria e permanente, com as necessárias adaptações.
 
@@ -148,33 +152,33 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Sempre que o pagamento seja feito por débito do respectivo quantitativo na conta bancária do adquirente, é dispensada a emissão do respectivo recibo, desde que a entidade vendedora e a data do pagamento se mostrem identificadas no extracto autenticado pelo modo em uso na instituição de crédito.
 
-###### Art. 5.º - 1 - A entidade vendedora pode exigir a realização de seguro por morte ou invalidez permanente e absoluta do adquirente ou, em sua substituição, fazer acrescer à prestação referida no artigo anterior um quantitativo não superior a 10% do seu valor.
+Art. 5.º - 1 - A entidade vendedora pode exigir a realização de seguro por morte ou invalidez permanente e absoluta do adquirente ou, em sua substituição, fazer acrescer à prestação referida no artigo anterior um quantitativo não superior a 10% do seu valor.
 
 2 - O seguro destina-se a cobrir o pagamento imediato e por uma só vez das prestações em dívida à data da comunicação da ocorrência.
 
-###### Art. 6.º - A falta de pagamento das prestações pelo adquirente no prazo contratualmente fixado dá lugar ao pagamento de juros de mora, à taxa que esteja em vigor para as dívidas de natureza fiscal.
+Art. 6.º - A falta de pagamento das prestações pelo adquirente no prazo contratualmente fixado dá lugar ao pagamento de juros de mora, à taxa que esteja em vigor para as dívidas de natureza fiscal.
 
-###### Art. 7.º - 1 - O adquirente obriga-se a fazer e a manter actualizado um seguro contra o risco de incêndio no fogo a favor da entidade vendedora, pelo valor que esta fixar.
+Art. 7.º - 1 - O adquirente obriga-se a fazer e a manter actualizado um seguro contra o risco de incêndio no fogo a favor da entidade vendedora, pelo valor que esta fixar.
 
 2 - A entidade vendedora pode, a todo o tempo, solicitar ao adquirente a apresentação do documento comprovativo do cumprimento do disposto no número anterior.
 
-###### Art. 8.º - 1 - A realização de obras de conservação e de beneficiação no fogo sujeito ao regime de propriedade resolúvel constitui encargo do adquirente.
+Art. 8.º - 1 - A realização de obras de conservação e de beneficiação no fogo sujeito ao regime de propriedade resolúvel constitui encargo do adquirente.
 
 2 - Em caso de comprovada insuficiência económica do adquirente para a realização das obras, pode a entidade vendedora proceder ao respectivo financiamento.
 
 3 - A amortização do financiamento é integrada nas prestações em dívida, calculadas nos termos do artigo 4.º
 
-###### Art. 9.º - 1 - O adquirente não pode alienar o fogo enquanto este se encontrar sujeito ao regime de propriedade resolúvel.
+Art. 9.º - 1 - O adquirente não pode alienar o fogo enquanto este se encontrar sujeito ao regime de propriedade resolúvel.
 
 2 - Sem prejuízo do disposto no número anterior, o ónus de inalienabilidade não pode ser inferior a 10 anos contados a partir do momento da constituição da propriedade resolúvel.
 
 3 - Os ónus estabelecidos pelo presente artigo estão sujeitos a registo.
 
-###### Art. 10.º - 1 - O adquirente do fogo em regime de propriedade resolúvel pode solicitar o seu resgate à entidade vendedora quando pretenda mudar a sua residência com carácter definitivo.
+Art. 10.º - 1 - O adquirente do fogo em regime de propriedade resolúvel pode solicitar o seu resgate à entidade vendedora quando pretenda mudar a sua residência com carácter definitivo.
 
 2 - No contrato de venda do fogo em regime de propriedade resolúvel, ou em momento posterior por acordo entre as partes, a entidade vendedora e o adquirente estabelecem as condições do resgate, bem como as regras de definição do seu valor mínimo.
 
-###### Art. 11.º - 1 - Para os efeitos do presente diploma, a propriedade resolve-se nos seguintes casos:
+Art. 11.º - 1 - Para os efeitos do presente diploma, a propriedade resolve-se nos seguintes casos:
 
 a) Falta de pagamento de pelo menos seis prestações;
 
@@ -192,7 +196,7 @@ b) Se o adquirente se ausentar por tempo não superior a dois anos, em cumprimen
 
 c) Se permanecerem no prédio o cônjuge ou parentes em linha recta do adquirente ou outros familiares desde que, neste último caso, com ele convivessem há mais de um ano.
 
-###### Art. 12.º - 1 - A resolução da propriedade com fundamento nas circunstâncias previstas nas alíneas a) e b) do n.º 1 do artigo anterior obedece ao seguinte procedimento:
+Art. 12.º - 1 - A resolução da propriedade com fundamento nas circunstâncias previstas nas alíneas a) e b) do n.º 1 do artigo anterior obedece ao seguinte procedimento:
 
 a) A entidade proprietária, por notificação judicial avulsa, comunica ao adquirente a sua pretensão de resolução, bem como o respectivo fundamento, para a morada daquele, caso o valor integral das prestações e juros não sejam pagos no prazo de um mês;
 
@@ -202,16 +206,16 @@ b) Caso o adquirente não proceda ao pagamento do valor referido na alínea ante
 
 3 - O despejo referido no número anterior segue a forma de execução ordinária para entrega de coisa certa.
 
-###### Art. 13.º Na constituição da propriedade resolúvel os encargos notariais e registrais são reduzidos a metade.
+Art. 13.º Na constituição da propriedade resolúvel os encargos notariais e registrais são reduzidos a metade.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

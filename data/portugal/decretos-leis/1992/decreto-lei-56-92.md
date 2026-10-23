@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/1992/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1992-200005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84194432380cd4dcfbd3df3d7b1390da3106865c48a9eb96279c70e8b4a462fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03db1c0f8213e58c9b66553d15b94c0cf81de05aada30285146a608c7978dd95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Segurança Rodoviária
-- Ministro das Obras Públicas Transportes e Comunicações
 - Ministro da Administração Interna
+- Ministro das Obras Públicas Transportes e Comunicações
+- Segurança Rodoviária
 - Transferência de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/1991/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/175/1991/05/11/p/dre
+- type: cites
+  target: pt:dre:548985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:41Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +113,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governa decreta o seguinte:
 
-###### Artigo 1.º - 1 - As competências cometidas ao Ministro das Obras Públicas, Transportes e Comunicações pelo Código da Estrada e seus regulamentos passam a ser exercidas pelo Ministro da Administração Interna.
+Artigo 1.º - 1 - As competências cometidas ao Ministro das Obras Públicas, Transportes e Comunicações pelo Código da Estrada e seus regulamentos passam a ser exercidas pelo Ministro da Administração Interna.
 
 2 - Exceptuam-se do disposto no número anterior as competências previstas nos artigos 2.º, n.º 1, 26.º, n.º 10, e 27.º, n.º 11, do Código da Estrada, que passam a ser exercidas conjuntamente pelos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º São cometidas ao Ministro da Administração Interna as competências atribuídas ao Ministro das Obras Públicas, Transportes e Comunicações pelos seguintes diplomas:
+Art. 2.º São cometidas ao Ministro da Administração Interna as competências atribuídas ao Ministro das Obras Públicas, Transportes e Comunicações pelos seguintes diplomas:
 
 a) [Decreto-Lei n.º 175/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1991-611319), de 11 de Maio;
 
@@ -115,12 +127,12 @@ c) [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 30 de Março de 1992.**
+Promulgado em 30 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Abril de 1992.**
+Referendado em 1 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

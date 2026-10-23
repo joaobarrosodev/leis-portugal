@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/119a00/27442744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/1994/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1994-265545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ce0f9144dccfe9f55782ff142b8e3b11ccb38db3940dd9b4789b6fdadd5972e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f757446e2a87670b85c5b45f31fba2f0a9cedd2299476441bc5569a5a2498bb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,33 @@ subjects:
 - Ensino de Condução
 - Escola de Condução
 - Instrutor de Condução
-- Veículo
 - Livre Circulação de Trabalhadores
 - Trabalhador Comunitário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:209017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209017:por
+  label: "Revogado pelo DEC LEI.86/98.1998.04.03.MAI, DR.IS-A [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1998-209017
+  date: '1998-04-03'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:59Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +112,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 20.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 20.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, passa a ter a seguinte redacção:
 
 ###### Artigo 20.º — [...]
 
@@ -131,12 +140,12 @@ b) Sejam titulares de licença válida ou documento equivalente, emitidos nos re
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - José Manuel Durão Barroso.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

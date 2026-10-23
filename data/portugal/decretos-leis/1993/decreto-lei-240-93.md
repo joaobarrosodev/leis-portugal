@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240/1993/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7981cccfe4459e90c6887fd7135205c9cbfab069a95c272865945924845c96cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcc5cd26dd7c35d7c81d81c3b48b08281dfbfd8fc2f69d83d661845dd95bf4d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
+- Centro de Saúde
+- Estabelecimento Hospitalar
+- Forças Armadas
+- Lisboa
+- Ministério da Saúde
 - Pessoal de Saúde
+- Pessoal Técnico Superior
+- Reestruturação de Carreiras
+- Remuneração
+- Santa Casa da Misericórdia
 - Serviço de Saúde
 - Sistema Retributivo
-- Carreira Profissional
-- Lisboa
-- Centro de Saúde
-- Santa Casa da Misericórdia
-- Forças Armadas
-- Pessoal Técnico Superior
-- Ministério da Saúde
-- Reestruturação de Carreiras
-- Estabelecimento Hospitalar
-- Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:52Z'
   warnings: []
   errors: []
 ---
@@ -110,18 +118,18 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º O presente diploma tem por objectivo a definição do regime legal da carreira dos técnicos superiores de saúde integrados nos serviços pertencentes ao Ministério da Saúde, nas unidades de saúde ou estabelecimentos hospitalares.
+Artigo 1.º O presente diploma tem por objectivo a definição do regime legal da carreira dos técnicos superiores de saúde integrados nos serviços pertencentes ao Ministério da Saúde, nas unidades de saúde ou estabelecimentos hospitalares.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

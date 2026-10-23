@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/1994/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1994-265553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1939c8811ce58d7ba0e0372ee1bbeb6db68df39a3785894730b4a7618c41dd51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f65fe0efd5edb93f88910fcd16ea07b21f469027ce96bf1d84385810e3e175c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/58/1992/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/1992/04/13/p/dre
+- type: cites
+  target: pt:dre:200002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:06Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +119,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), de 13 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), de 13 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 2.º 1 - ...
+Art. 2.º 1 - ...
 
 2 - ...
 
@@ -123,12 +131,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto a aprovado em Conselho de Ministros de 14 de Abril de 1994. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

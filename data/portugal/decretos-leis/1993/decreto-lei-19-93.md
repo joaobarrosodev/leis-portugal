@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/019a00/02710277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9cc6fb7b47b8e3c57cad04ff2908c81fa04fe4a9d4b00d760a865399b51a31e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb0626d5ed3d9e88817fa646f7d1cef5a5bf963d1b9f0feaccc0728b7159f928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,103 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão Directiva
+- Conselho Consultivo
+- Contra-ordenação
+- GNR
 - Guarda Fiscal
 - Ordenamento do Território
-- Comissão Directiva
-- Contra-ordenação
-- Conselho Consultivo
-- GNR
-- Proteção do Ambiente
-- Zona de Proteção
 - Política de Solos
+- Proteção do Ambiente
 - Rede Nacional de Áreas Protegidas
 - Regulamento
 - Serviço Nacional de Parques Reservas e Conservação da Natureza
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:454502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209591:por
+  label: "Alterado os artºs 17º e 19º, pelo DEC LEI.213/97.1997.08.16.MAM DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1997-209591
+  date: '1997-08-16'
+- type: amended_by
+  target: pt:dre:424696:por
+  label: "Aditado o art. 10º-A pelo DEC LEI.227/98.1998.07.17.MAM, DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1998-424696
+  date: '1998-07-17'
+- type: amended_by
+  target: pt:dre:432178:por
+  label: "Alterados os arts. 17&#186; e 20&#186;, com a redac&#231;&#227;o do Dec Lei 213/97 de 16-Ago, pelo DEC LEI.221/2002.2002.10.22.MCOTA,\
+    \ DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2002-432178
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:238020:por
+  label: "Alterados os arts. 17º e 20º do presente diploma, na redacção dos Dec Lei 213/97 de 16-Ago e 221/2002 de 22-Out\
+    \ pelo DEC LEI.117/2005.18.07.2005.MAOTDR, DR.IS-A [136] de 18.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2005-238020
+  date: '2005-07-18'
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475371:por
+  label: "Revogado o n.º 1 do artigo 14.º, os n.ºs 2, 3, 4 e 5 do artigo 15.º e os n.ºs 2 e 4 do artigo 28.º, relativamente\
+    \ aos planos de ordenamento das áreas protegidas, pelo DEC LEI.151/95.24.06.1995.MPLAT, DR.IS-A [144] de 24.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1995-475371
+  date: '1995-06-24'
+- type: repealed_by
+  target: pt:dre:520984:por
+  label: "Revogados os artigos 16.º a 20.º, o n.º 1 do artigo 24.º e o n.º 1 do artigo 25.º do presente diploma, pelo DEC\
+    \ LEI.136/2007.27.04.2007.MAOTDR, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2007-520984
+  date: '2007-04-27'
+- type: repealed_by
+  target: pt:dre:454502:por
+  label: "Revogado, a partir de 29.07.2008, na redacção dos Dec Lei 151/95, de 24-Jun, Dec Lei 213/97, de 16-Ago, Dec Lei\
+    \ 227/98, de 17-Jul, Dec Lei 221/2002, de 22-Out, Dec Lei 117/2005, de 18-Jul, e Dec Lei 136/2007, de 27-Abr, mantendo-se\
+    \ em vigor a classificação das áreas protegidas feita ao abrigo do presente diploma, pelo DEC LEI.142/2008.24.07.2008.MAOTDR,\
+    \ DR.IS [142] de 24.07.2008, sem prejuízo dos nºs 2 e 4 do seu art. 49º.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2008-454502
+  date: '2008-07-24'
 article_structure:
   article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:41Z'
   warnings: []
   errors: []
 ---
@@ -546,12 +616,12 @@ São revogados o [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 22 de Dezembro de 1992.**
+Promulgado em 22 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Janeiro de 1993.**
+Referendado em 4 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

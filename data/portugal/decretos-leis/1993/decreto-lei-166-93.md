@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/106a00/23882390.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/1993/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a9567245351e6b8d8dff94f9b53426c0dacb5b68c630f792bee6d836b7db54d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d97b4b620b8e387e1daf8cfb59cd90a6a2eab245faeaa276ec49b4949d81817
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Habitação Social
 - Renda Apoiada
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:65949853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65949853:por
+  label: Revogado a partir de 01.03.2015 pelo(a) Lei n.º 81/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-2014-65949853
+  date: '2014-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:11Z'
   warnings: []
   errors: []
 ---
@@ -109,17 +118,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma tem por objecto o estabelecimento do regime de renda apoiada.
+Artigo 1.º - 1 - O presente diploma tem por objecto o estabelecimento do regime de renda apoiada.
 
 2 - Ficam sujeitos ao regime de renda apoiada os arrendamentos das habitações do Estado, seus organismos autónomos e institutos públicos, bem como os das adquiridas ou promovidas pelas Regiões Autónomas, pelos municípios e pelas instituições particulares de solidariedade social com comparticipações a fundo perdido concedidas pelo Estado, celebrados após a entrada em vigor do presente diploma.
 
 3 - Ficam igualmente sujeitos ao regime de renda apoiada os arrendamentos das habitações adquiridas ou promovidas pelas Regiões Autónomas, comparticipadas a fundo perdido pela respectiva Região, celebrados após a entrada em vigor do presente diploma.
 
-###### Art. 2.º - 1 - O regime de renda apoiada baseia-se na determinação dos valores de um preço técnico e de uma taxa de esforço, nos termos do presente diploma.
+Art. 2.º - 1 - O regime de renda apoiada baseia-se na determinação dos valores de um preço técnico e de uma taxa de esforço, nos termos do presente diploma.
 
 2 - Da taxa de esforço resulta o valor da renda apoiada, adiante designada por renda.
 
-###### Art. 3.º - 1 - Para os efeitos do presente diploma considera-se:
+Art. 3.º - 1 - Para os efeitos do presente diploma considera-se:
 
 a) «Agregado familiar», o conjunto de pessoas constituído pelo arrendatário, pelo cônjuge ou pessoa que com aquele viva há mais de cinco anos em condições análogas, pelos parentes ou afins na linha recta ou até ao 3.º grau da linha colateral, bem como pelas pessoas relativamente às quais, por força de lei ou de negócio jurídico que não respeite directamente à habitação, haja obrigação de convivência ou de alimentos e ainda outras pessoas a quem a entidade locadora autorize a coabitação com o arrendatário;
 
@@ -133,13 +142,13 @@ e) «Salário mínimo nacional», o fixado para a generalidade dos trabalhadores
 
 2 - Para efeitos do disposto na alínea c) do número anterior, consideram-se rendimentos o valor mensal de todos os ordenados, salários e outras remunerações do trabalho, incluindo diuturnidades, horas extraordinárias e subsídios, e ainda o valor de quaisquer pensões, nomeadamente de reforma, aposentação, velhice, invalidez, sobrevivência, e os provenientes de outras fontes de rendimento, com excepção do abono de família e das prestações complementares.
 
-###### Art. 4.º - 1 - O preço técnico a que se refere o artigo 2.º é calculado nos mesmos termos em que o é a renda condicionada, sendo o seu valor arredondado para a dezena de escudos imediatamente inferior.
+Art. 4.º - 1 - O preço técnico a que se refere o artigo 2.º é calculado nos mesmos termos em que o é a renda condicionada, sendo o seu valor arredondado para a dezena de escudos imediatamente inferior.
 
 2 - Para os efeitos do disposto no número anterior, o valor do fogo será o que tiver sido considerado para cálculo do montante do respectivo financiamento.
 
 3 - Quando não for possível determinar o valor do fogo nos termos do número anterior ou quando esse valor for manifestamente inadequado, é considerado o seu valor actualizado, estabelecido nos termos do regime de renda condicionada, tendo em conta o respectivo nível de conforto, estado de conservação, coeficiente de vetustez e área útil e o preço da habitação por metro quadrado.
 
-###### Art. 5.º - 1 - O valor devido pelo arrendatário é o da renda apoiada.
+Art. 5.º - 1 - O valor devido pelo arrendatário é o da renda apoiada.
 
 2 - O valor da renda é determinado pela aplicação da taxa de esforço (T) ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado às milésimas, que resulta da aplicação da seguinte fórmula:
 
@@ -153,7 +162,7 @@ Smn = Salário mínimo nacional.
 
 3 - O valor da renda é arrendondado para a dezena de escudos imediatamente inferior e não pode exceder o valor do preço técnico nem ser inferior a 1% do salário mínimo nacional.
 
-###### Art. 6.º - 1 - Para a determinação do valor da renda, os arrendatários devem declarar os respectivos rendimentos à entidade locadora anual, bienal ou trienalmente, conforme opção desta.
+Art. 6.º - 1 - Para a determinação do valor da renda, os arrendatários devem declarar os respectivos rendimentos à entidade locadora anual, bienal ou trienalmente, conforme opção desta.
 
 2 - Nos casos em que os rendimentos do agregado familiar tenham carácter incerto, temporário ou variável e não seja apresentada prova bastante que justifique essa natureza, a entidade locadora presumirá que o agregado familiar aufere um rendimento superior ao declarado sempre que um dos seus membros exercer actividade que notoriamente produza rendimentos superiores aos declarados ou seja possuidor de bens não compatíveis com aquela declaração.
 
@@ -165,13 +174,13 @@ Smn = Salário mínimo nacional.
 
 6 - O disposto no número anterior não prejudica, nos termos da lei geral, a eventual responsabilidade criminal do declarante.
 
-###### Art. 7.º - 1 - A renda vence-se no 1.º dia útil do mês a que respeita.
+Art. 7.º - 1 - A renda vence-se no 1.º dia útil do mês a que respeita.
 
 2 - O pagamento da renda é efectuado no local e pelo modo fixado pela entidade locadora.
 
 3 - Sempre que o pagamento seja feito por débito do respectivo quantitativo na conta bancária do arrendatário, é dispensada a emissão do recibo de renda, desde que a entidade locadora e a data do pagamento se mostrem identificadas no extracto autenticado pelo modo em uso na instituição de crédito.
 
-###### Art. 8.º - 1 - O preço técnico actualiza-se, anual e automaticamente, pela aplicação do coeficiente de actualização dos contratos de arrendamento em regime de renda condicionada.
+Art. 8.º - 1 - O preço técnico actualiza-se, anual e automaticamente, pela aplicação do coeficiente de actualização dos contratos de arrendamento em regime de renda condicionada.
 
 2 - O montante da renda actualiza-se, também anual e automaticamente, em função da variação do rendimento mensal corrigido do agregado familiar, salvo o disposto no n.º 4.
 
@@ -183,19 +192,19 @@ Smn = Salário mínimo nacional.
 
 6 - A entidade locadora deve, com a antecedência mínima de 30 dias, comunicar por escrito ao arrendatário qualquer alteração aos valores do preço técnico ou da respectiva renda.
 
-###### Art. 9.º - 1 - Compete à entidade locadora a organização dos processos tendentes à determinação do montante da renda.
+Art. 9.º - 1 - Compete à entidade locadora a organização dos processos tendentes à determinação do montante da renda.
 
 2 - A entidade locadora pode, a todo o tempo, solicitar aos arrendatários quaisquer documentos e esclarecimentos necessários para a instrução e ou actualização dos respectivos processos, fixando-lhes para o efeito um prazo de resposta não inferior a 30 dias.
 
 3 - O incumprimento injustificado pelo arrendatário do disposto no número anterior dá lugar ao pagamento por inteiro do respectivo preço técnico.
 
-###### Art. 10.º - 1 - É proibida a hospedagem, a sublocação, total ou parcial, ou a cedência a qualquer título das habitações sujeitas ao regime de renda estabelecido pelo presente diploma.
+Art. 10.º - 1 - É proibida a hospedagem, a sublocação, total ou parcial, ou a cedência a qualquer título das habitações sujeitas ao regime de renda estabelecido pelo presente diploma.
 
 2 - Nos casos de subocupação da habitação arrendada, a entidade locadora pode determinar a transferência do arrendatário e do respectivo agregado familiar para habitação de tipologia adequada dentro da mesma localidade.
 
 3 - O incumprimento pelo arrendatário, no prazo de 90 dias, da determinação referida no número anterior dá lugar ao pagamento por inteiro do respectivo preço técnico.
 
-###### Art. 11.º - 1 - O regime de renda apoiada estabelecido nos artigos anteriores pode ser aplicado pelas entidades referidas no artigo 1.º às habitações, adquiridas ou promovidas com o apoio financeiro do Estado, que se encontrem arrendadas para fins habitacionais à data da entrada em vigor do presente diploma.
+Art. 11.º - 1 - O regime de renda apoiada estabelecido nos artigos anteriores pode ser aplicado pelas entidades referidas no artigo 1.º às habitações, adquiridas ou promovidas com o apoio financeiro do Estado, que se encontrem arrendadas para fins habitacionais à data da entrada em vigor do presente diploma.
 
 2 - No acto de adopção do regime de renda apoiada deve a entidade locadora definir:
 
@@ -213,12 +222,12 @@ c) O mecanismo utilizado para a actualização das rendas nos termos do artigo 8
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/060a00/11491150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/1993/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1993-634939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0adb21b50f30efde45723f78aea94fba0953997648b2d9e75e4fbe4a2a0127a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e4bc6d4b405fe8d0c489a06a5852ca2ff47d1166c3ee48c71b3f87020d54946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional
-- Formação Profissional
-- Definição de Competências
 - Conselho Consultivo
+- Definição de Competências
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:638534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638534:por
+  label: "Revogado a partir de 01.06.2007 pelo DEC LEI.213/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2007-638534
+  date: '2007-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:33Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +111,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Junto de cada centro de formação profissional gerido directamente pelo Instituto do Emprego e Formação Profissional funciona um conselho consultivo de base tripartida.
+Artigo 1.º Junto de cada centro de formação profissional gerido directamente pelo Instituto do Emprego e Formação Profissional funciona um conselho consultivo de base tripartida.
 
-###### Art. 2.º Cada conselho consultivo tem a seguinte composição:
+Art. 2.º Cada conselho consultivo tem a seguinte composição:
 
 a) O director do centro, que preside;
 
@@ -114,13 +123,13 @@ c) Quatro representantes das confederações patronais;
 
 d) Quatro representantes das confederações sindicais.
 
-###### Art. 3.º Os representantes referidos no artigo anterior são designados por despacho do Ministro do Emprego e da Segurança Social, após indicação:
+Art. 3.º Os representantes referidos no artigo anterior são designados por despacho do Ministro do Emprego e da Segurança Social, após indicação:
 
 a) Pelos dirigentes dos serviços da administração central com competências na área de actividade desenvolvida pelo centro e, quanto aos representantes da administração local, pelo município onde se encontra localizado o centro e pelos municípios da área de influência deste;
 
 b) Pelas confederações patronais e sindicais com assento na Comissão Permanente de Concertação Social do Conselho Económico e Social.
 
-###### Art. 4.º - 1 - Compete ao conselho consultivo:
+Art. 4.º - 1 - Compete ao conselho consultivo:
 
 a) Emitir parecer sobre o plano anual e o orçamento do centro de formação;
 
@@ -144,22 +153,22 @@ d) Promoção da difusão de inovações tecnológicas e apoio às empresas;
 
 e) Análise da integração dos ex-formandos no mercado de emprego.
 
-###### Art. 5.º - 1 - O conselho reunirá, ordinariamente, uma vez por trimestre e, extraordinariamente, sempre que o presidente o convoque, por sua iniciativa ou a solicitação de um terço dos seus membros.
+Art. 5.º - 1 - O conselho reunirá, ordinariamente, uma vez por trimestre e, extraordinariamente, sempre que o presidente o convoque, por sua iniciativa ou a solicitação de um terço dos seus membros.
 
 2 - O conselho poderá reunir desde que esteja presente a maioria dos seus membros, sendo os respectivos pareceres ou propostas aprovados por maioria simples.
 
 3 - Mediante proposta de qualquer membro, ou por sua iniciativa, o presidente pode, ouvido o conselho, convidar a participar nas reuniões, sem direito de voto, entidades relacionadas com o domínio da formação profissional.
 
-###### Art. 6.º O montante das senhas de presença a atribuir aos membros do conselho consultivo pela participação nas reuniões é fixado por despacho conjunto dos Ministros das Finanças e do Emprego e da Segurança Social e abonado pelo Instituto do Emprego e Formação Profissional.
+Art. 6.º O montante das senhas de presença a atribuir aos membros do conselho consultivo pela participação nas reuniões é fixado por despacho conjunto dos Ministros das Finanças e do Emprego e da Segurança Social e abonado pelo Instituto do Emprego e Formação Profissional.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - José Albino da Silva Peneda.
 
-**Promulgado em 16 de Fevereiro de 1993.**
+Promulgado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1993.**
+Referendado em 18 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

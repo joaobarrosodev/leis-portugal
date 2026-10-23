@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/288/1993/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78e60dbef848f1f26c0acaa0f174f7b3f08967485595804d89b1cf08a9975008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f2674c226efa331fc6b15e29227b7ca7c8314706ab98ea2bc15aca5150f0bb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,20 +80,58 @@ relationships:
   target: pt:dre:456492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os arts 4º e 10º do Dec Lei 141/88, de 22-Abr, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/45/1992/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/1992/01/27/p/dre
+- type: cites
+  target: pt:dre:145197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:52Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +150,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 10.º e 20.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 10.º e 20.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Regime de alienação
 
@@ -238,15 +276,15 @@ c) Venda por execução de dívidas contraídas com a compra do próprio fogo e 
 
 2 - O disposto no número anterior aplica-se à alienação de prédios ou suas fracções, bem como à transmissão de direitos e obrigações relativos a fracções em regime de propriedade resolúvel, previstas n.os 2 e 3 do artigo 2.º e no n.º 1 do artigo 3.º
 
-###### Art. 2.º - 1 - Os moradores que adquiram, por contrato, direitos e obrigações de fogos em regime de propriedade resolúvel podem requerer a sua conversão em contratos de compra e venda sem condição resolutiva.
+Art. 2.º - 1 - Os moradores que adquiram, por contrato, direitos e obrigações de fogos em regime de propriedade resolúvel podem requerer a sua conversão em contratos de compra e venda sem condição resolutiva.
 
 2 - À alienação dos fogos referidos no número anterior aplica-se o regime constante do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, e legislação complementar.
 
 3 - No caso de conversão, os moradores adquirentes ficam desonerados do pagamento das prestações vincendas emergentes do respectivo contrato de propriedade resolúvel, bem como dos juros de mora relativos às prestações vencidas e não pagas.
 
-###### Art. 3.º Nos casos do património do IGAPHE transferido para os municípios, os valores de alienação resultantes da aplicação do presente diploma constituem valores máximos, podendo os municípios fixar, genericamente, valores inferiores.
+Art. 3.º Nos casos do património do IGAPHE transferido para os municípios, os valores de alienação resultantes da aplicação do presente diploma constituem valores máximos, podendo os municípios fixar, genericamente, valores inferiores.
 
-###### Art. 4.º - 1 - Ao ónus previsto no artigo 8.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro, aplicam-se os n.os 4 e 5 do artigo 10.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 27 de Abril.
+Art. 4.º - 1 - Ao ónus previsto no artigo 8.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro, aplicam-se os n.os 4 e 5 do artigo 10.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 27 de Abril.
 
 2 - No regime especial de pagamento previsto no [Decreto-Lei n.º 260/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1984-381749), de 31 de Julho, o disposto no número anterior pode ser aplicável se o preço, incluindo o preço complementar, estiver integralmente pago.
 
@@ -256,20 +294,20 @@ c) Venda por execução de dívidas contraídas com a compra do próprio fogo e 
 
 5 - O disposto no n.º 4 do artigo 10.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, aplica-se retroactivamente aos contratos celebrados antes da entrada em vigor do presente diploma, podendo o ónus ser cancelado mediante simples declaração do instituto alienante confirmando que já decorreu o respectivo prazo.
 
-###### Art. 5.º Até à entrada em vigor das portarias previstas no n.º 2 do artigo 4.º e no n.º 14 do artigo 8.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, na redacção que lhes é dada pelo presente diploma, mantém-se a vigência das Portarias n.os [1063/90](https://diariodarepublica.pt/dr/detalhe/portaria/1063-1990-565579), de 19 de Outubro, e [45/92](https://diariodarepublica.pt/dr/detalhe/portaria/45-1992-145197), de 27 de Janeiro.
+Art. 5.º Até à entrada em vigor das portarias previstas no n.º 2 do artigo 4.º e no n.º 14 do artigo 8.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, na redacção que lhes é dada pelo presente diploma, mantém-se a vigência das Portarias n.os [1063/90](https://diariodarepublica.pt/dr/detalhe/portaria/1063-1990-565579), de 19 de Outubro, e [45/92](https://diariodarepublica.pt/dr/detalhe/portaria/45-1992-145197), de 27 de Janeiro.
 
-###### Art. 6.º São revogados os Decretos-Leis n.os [172/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), de 30 de Maio, e [342/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), de 30 de Outubro.
+Art. 6.º São revogados os Decretos-Leis n.os [172/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), de 30 de Maio, e [342/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), de 30 de Outubro.
 
-###### Art. 7.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 7.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - José Manuel Mendes Antas - José Albino da Silva Peneda.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

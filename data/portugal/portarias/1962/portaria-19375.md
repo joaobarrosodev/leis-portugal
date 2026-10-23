@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19375-1962-159568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70506c468e1cda5772bc7582f32973a9319b307f69e5a499abc96395121a3e0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1767edb16ef12ff63801c2448ab7d7bfd9d280a3acf5ec33cb962ffce292bba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:247425:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:01Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +90,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Reforçar, com as importâncias que adiante se indicam, as seguintes verbas do orçamento privativo do Hospital do Ultramar para o corrente ano:
 
-###### Artigo 7.º, n.º 1) «Despesas com o material - Material de consumo corrente - Artigos de expediente, impressos, livros para escrituração, etc.» ... 20000$00
+Artigo 7.º, n.º 1) «Despesas com o material - Material de consumo corrente - Artigos de expediente, impressos, livros para escrituração, etc.» ... 20000$00
 
-###### Artigo 8.º, n.º 3) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e outras despesas» ... 40000$00
+Artigo 8.º, n.º 3) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e outras despesas» ... 40000$00
 
-###### Artigo 8.º, n.º 4) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 300000$00
+Artigo 8.º, n.º 4) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 300000$00
 
 ... 360000$00
 
@@ -98,7 +102,7 @@ tomando como contrapartida as disponibilidades existentes nas seguintes verbas d
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 205000$00
 
@@ -108,7 +112,7 @@ N.º 2), alínea b) «Pessoal contratado - Quadro de cirurgiões e especialistas
 
 N.º 2), alínea c) «Pessoal contratado - Serviços gerais - Vencimentos» ... 13000$00
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações - Ao pessoal coadjuvante do Centro de Estudos de Alta Cultura (artigo 5.º do [Decreto-Lei n.º 40408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40408-1955-247425), de 24 de Novembro de 1955)» ... 15000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações - Ao pessoal coadjuvante do Centro de Estudos de Alta Cultura (artigo 5.º do [Decreto-Lei n.º 40408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40408-1955-247425), de 24 de Novembro de 1955)» ... 15000$00
 
 ... 360000$00
 
@@ -116,7 +120,7 @@ N.º 2), alínea c) «Pessoal contratado - Serviços gerais - Vencimentos» ... 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 2) «Pessoal contratado»:
 

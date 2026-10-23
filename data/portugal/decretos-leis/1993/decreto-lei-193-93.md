@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/120a00/28372843.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/193/1993/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e079276b91a8f56248dc66dc75cea268bf7ac05f82a7815b493414c4a3f9cfaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 460fced4cbc5ce222e1f667bb9b629b7aabecba6d5fb473dd82484671147db51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA de Paisagem Protegida de Sintra Cascais
-- Pessoal Dirigente
 - Definição de Competências
 - Instituto da Conservação da Natureza
 - Integração de Serviços
@@ -74,15 +73,82 @@ subjects:
 - Ministro do Ambiente e Recursos Naturais
 - Orgânica
 - Parque Nacional da Peneda-Gerês
-- Zona de Proteção
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Nacional de Parques Reservas e Conservação da Natureza
 - Transferência de Competências
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:520984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138549:por
+  label: "Alterado o quadro do pessoal dirigente, constante do anexo ao presente diploma, pela PORT.113/95.03.02.1995.MF,\
+    \ DR.IS-B [29] de 03.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1995-138549
+  date: '1995-02-03'
+- type: amended_by
+  target: pt:dre:219475:por
+  label: "Alterados os arts. 4º e 11º e substítuido o quadro do pessoal dirigente do ICN constante do anexo ao presente diploma\
+    \ pelo DEC LEI.169/96.1996.09.18.MAM, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1996-219475
+  date: '1996-09-18'
+- type: amended_by
+  target: pt:dre:1878585:por
+  label: "Alterado o quadro de pessoal dirigente pela PORT.732/97(2ªSÉRIE).1997.08.25.PCM, MF e MAM, DR.IIS [221] de 1997.09.24\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/732-1997-1878585
+  date: '1997-08-25'
+- type: amended_by
+  target: pt:dre:685043:por
+  label: "Alterado o quadro de pessoal dirigente constante do anexo, com a redacção que lhe foi conferida no Dec Lei 169/96\
+    \ de 18-Set, pelo DR.46/97.17.11.1997.MAM, DR.IS-B [266] de 17.11.1997\097\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-1997-685043
+  date: '1997-11-17'
+- type: amended_by
+  target: pt:dre:694207:por
+  label: "Aditado um lugar de presidente da comissão directiva, equiparado a director de serviços, ao quadro de pessoal aprovado\
+    \ em anexo ao presente diploma, com a redacção conferida no Dec Lei 169/96 de 18-Set, pelo DR.49/97.1997.11.20.MAM, DR.IS-B\
+    \ [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1997-694207
+  date: '1997-11-20'
+- type: amended_by
+  target: pt:dre:694208:por
+  label: "Aditado um lugar de presidente da comissão directiva, equiparado a director de serviços, ao quadro pessoal dirigente\
+    \ aprovado em anexo ao presente diploma, com a redacção conferida no Dec Lei 169/96 de 18-Set, pelo DR.50/97.1997.11.20.MAM,\
+    \ DR.IS-B [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-1997-694208
+  date: '1997-11-20'
+- type: amended_by
+  target: pt:dre:186280:por
+  label: "Aditado um lugar de presidente da comissão directiva (equiparado a director de serviços) ao quadro de pessoal dirigente,\
+    \ constante do anexo deste diploma, na redacção do Dec Lei 169/96 de 18-Set, pelo DR.30/98.1998.12.23.MAM DR.IS-B [295]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-1998-186280
+  date: '1998-12-23'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Ambiente e do Ordenamento do Território do Instituto da Conservação\
+    \ da Natureza (integrado no agora extinto Ministério das Cidades, Ordenamento do Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:239049:por
+  label: "Aditado um lugar de presidente da comissão directiva ao quadro de pessoal dirigente do ICN constante do anexo ao\
+    \ presente diploma, na redacção do Dec Lei 169/96 de 18-Set, pelo DR.6/2005.21.06.2005.MAOTDR, DR.IS-B [139] de 21.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2005-239049
+  date: '2005-06-21'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Determinada a reestruturação do Instituto da Conservação da Natureza, cuja orgânica consta do presente diploma,\
+    \ pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do respectivo art. 29º, passando a designar-se\
+    \ Instituto da Conservação da Natureza e da Biodiversidade\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
@@ -91,16 +157,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520984:por
+  label: "Revogado pelo Decreto-Lei 136/2007, de 27 de Abril, DR.IS [82], determinando a sucessão do ICNB, I.P., nas atribuições,\
+    \ direitos obrigações e competências do Instituto da Conservação da Natureza\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2007-520984
+  date: '2007-04-27'
 article_structure:
   article_count: 18
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:47Z'
   warnings: []
   errors: []
 ---
@@ -487,7 +571,9 @@ h) Manter actualizada uma relação das normas relativas ao direito da conserva�
 
 i) Prestar oralmente informação jurídica aos particulares em matérias relacionadas com as atribuições do ICN.
 
-###### Artigo 10.º — Divisão de Informática
+###### Artigo 10.º
+
+##### Divisão de Informática
 
 Compete à Divisão de Informática:
 
@@ -607,16 +693,16 @@ São revogadas todas as normas que incidam sobre matérias objecto do presente d
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/120a00/28372843.pdf))](https://files.diariodarepublica.pt/1s/1993/05/120a00/28372843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/120a00/28372843.pdf)

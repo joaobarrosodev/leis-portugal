@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/1992/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1992-226628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23c95bf8f0f9a080f2d2869153b0a106c416e3e6726ad8f3ae160c5dfe60abd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d43de07d7930a6d23226e201bb039f13c3290056afb5c0e1fc458fed366b3d0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - CASA Museu de Vieira Natividade
 - Criação de Serviços
 - Museu de Alcobaça
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178102:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:15Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +105,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada, na dependência técnica e administrativa do Museu de Alcobaça, a Casa-Museu de Vieira Natividade.
+Artigo 1.º - 1 - É criada, na dependência técnica e administrativa do Museu de Alcobaça, a Casa-Museu de Vieira Natividade.
 
 2 - A Casa-Museu fica instalada no edifício onde viveu Manuel Vieira Natividade.
 
-###### Art. 2.º - 1 - Na Casa-Museu serão mantidas e expostas ao público, com carácter de permanência, as colecções doadas ao Estado, através do actual Instituto Português do Património Arquitectónico e Arqueológico, por Leocádia Garcês Natividade e Irene Pires de Sá Vieira Natividade.
+Art. 2.º - 1 - Na Casa-Museu serão mantidas e expostas ao público, com carácter de permanência, as colecções doadas ao Estado, através do actual Instituto Português do Património Arquitectónico e Arqueológico, por Leocádia Garcês Natividade e Irene Pires de Sá Vieira Natividade.
 
 2 - As colecções referidas no número anterior só podem sair da Casa-Museu para integrarem exposições temporárias ou serem objecto de trabalhos de restauro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em Viana do Castelo em 25 de Setembro de 1992.**
+Promulgado em Viana do Castelo em 25 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1992.**
+Referendado em 30 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

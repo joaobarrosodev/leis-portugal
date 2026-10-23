@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/1994/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 880657374012dfb170f5b180a12cfb6c70bd52a96ee6552068f079e77a06a0de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2b1bf865ac799c94de2a9635277a2994966116fe77633c66158fd9f65247859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,109 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Rodoviário
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
 - Direcção Geral dos Transportes Terrestres
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
-- Veículo
-- Transporte de Mercadorias
 - Regulamento
-- Direcção Geral das Contribuições e Impostos
 - Transferência de Competências
+- Transporte de Mercadorias
+- Transporte Rodoviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:226204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218496:por
+  label: "Alterado o art. 2º do diploma preambular bem como os art.s 9º, 19º e 20º do Regulamento dos Impostos de Circulação\
+    \ e Camionagem e revogado o anexo ao Regulamento , pelo DEC LEI.214/94.1994.08.19.MF, DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1994-218496
+  date: '1994-08-19'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterado o art. 6º do Regulamento, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterado o art. 7º, bem como os arts.4º, 6º, 8º e 9º do regulamento pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:213801:por
+  label: "Alterado o nº 5 do art. 1º do Regulamento aprovado pelo presente diploma, pelo DEC LEI.185/96.1996.09.27.MF, DR.IS-A\
+    \ [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1996-213801
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:165664:por
+  label: "Alterados os arts 6º, 7º e os arts. 1º, 3º, 4º, 5º, 6º, 8º, 9º, 11º, 12º, 18º e 19º do Regulamento anexo ao presente\
+    \ diploma, pelo DEC LEI.89/98.1998.04.06.MF DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1998-165664
+  date: '1998-04-06'
+- type: amended_by
+  target: pt:dre:423032:por
+  label: "Alterados os arts. 3º, 6º, 9º, 19º e 20º e aditado o art. 11º-A do Regulamento aprovado pelo presente diploma, republicado\
+    \ pelo Dec Lei 89/98 de 06-Abr, pelo DEC LEI.322/99.1999.08.12.MF, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1999-423032
+  date: '1999-08-12'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados o art. 4º e o nº 1 do art. 12º do Regulamento pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o nº 1 do art. 8º e o nº 6 do art. 9º do Regulamento dos Impostos de Circulação e Camionagem pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A\
+    \ [299]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o nº 2 do art. 2º do Regulamento dos Impostos de Circulação e Camionagem, com a redacção dada pelo Dec\
+    \ Lei 89/98 de 06-Abr, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 6.º do Regulamento dos Impostos de Circulação e Camionagem, aprovado pelo presente diploma, republicado\
+    \ pelo Dec Lei 89/98, de 06-Abr, pela LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 6º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo presente diploma, republicado\
+    \ pelo Dec Lei 89/98 de 06-Abr, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301]2ºSupl de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 3º e 6º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo presente diploma\
+    \ - alterado e republicado pelo Dec Lei 89/98 de 06-Abr, bem como com as alterações introduzidas pelo Dec Lei 322/99 de\
+    \ 12-Ago e pelas Leis 32-B/2002 de 30-Dez, e 107-B/2003 de 31-Dez - pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl]\
+    \ de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 6º do Regulamento dos Impostos de Circulação e Camionagem, aprovado pelo presente diploma, alterado\
+    \ e republicado pelo Dec Lei 89/98 de 06-Abr e com as alterações das Leis 39-B/94 de 27-Dez, 10-B/96 de 23-Mar, Dec Lei\
+    \ 322/99 de 12-Ago, Lei 32-B/2002 de 30-Dez, Lei 107-B/2003 de 31-Dez e Lei 60-A/2005 de 30-Dez, pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:226204:por
+  label: "Determinada a abolição do imposto de circulação e do imposto de camionagem em 01.01.2008 pela Lei 22-A/2007.29.06.2007.AR,\
+    \ DR.IS [124-Supl] de 29.06.2007, que manteve a aplicação do respectivo regime legal durante o ano de 2007 em relação\
+    \ a todos os veículos tributáveis, com excepção dos veículos da categoria B matriculados ou registados a partir da entrada\
+    \ em vigor (01.07.2007) da citada lei, que procedeu à revogação do presente diploma a partir de 01.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-a-2007-226204
+  date: '2007-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/394/1993/11/24/p/dre
   label: null
@@ -88,16 +176,79 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:161084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:345972:por
+  label: "Rectificado pela DECL-RECT.82/94.1994.06.30.PCM, DR.IS-A [149]3ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/82-1994-345972
+  date: '1994-06-30'
+- type: corrected_by
+  target: pt:dre:214528:por
+  label: "Rectificado o art. 35º da Lei 32-B/2002, de 30-Dez, na parte que altera o nº 1 do art. 6º do Regulamento dos Impostos\
+    \ de Circulação e Camionagem aprovado pelo presente diploma, pela DECL-RECT.2/2003.15.03.2003.AR, DR.IS-A [63] de 15.03.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2003-214528
+  date: '2003-03-15'
+- type: corrected_by
+  target: pt:dre:206417:por
+  label: "Rectificado o art. 40º da Lei 107-B/2003, de 31-Dez, na parte que altera o art. 6º do Regulamento dos Impostos de\
+    \ Circulação e Camionagem aprovado pelo presente diploma, pela DECL-RECT.26-A/2004.28.02.2004.AR, DR.IS-A [50-Supl] de\
+    \ 28.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-a-2004-206417
+  date: '2004-02-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:23Z'
   warnings: []
   errors: []
 ---
@@ -124,15 +275,15 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 45.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento dos Impostos de Circulação e Camionagem, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento dos Impostos de Circulação e Camionagem, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º Os modelos dos dísticos previstos no Regulamento referido no artigo anterior serão aprovados por portaria do Ministro das Finanças.
+Art. 2.º Os modelos dos dísticos previstos no Regulamento referido no artigo anterior serão aprovados por portaria do Ministro das Finanças.
 
-###### Art. 3.º À Direcção-Geral de Transportes Terrestres compete, em relação ao período anterior a 1 de Janeiro de 1994, a liquidação adicional dos impostos de circulação e camionagem devida por erro ou omissão, a apreciação das reclamações correspondentes ao mesmo período, o processamento das respectivas restituições de receitas através de reembolsos, bem como a resolução de todos os processos pendentes.
+Art. 3.º À Direcção-Geral de Transportes Terrestres compete, em relação ao período anterior a 1 de Janeiro de 1994, a liquidação adicional dos impostos de circulação e camionagem devida por erro ou omissão, a apreciação das reclamações correspondentes ao mesmo período, o processamento das respectivas restituições de receitas através de reembolsos, bem como a resolução de todos os processos pendentes.
 
-###### Art. 4.º O produto da cobrança dos impostos de circulação e de camionagem constitui receita da Junta Autónoma de Estradas, quando liquidados no continente, e das Regiões Autónomas, quando liquidados nessas Regiões.
+Art. 4.º O produto da cobrança dos impostos de circulação e de camionagem constitui receita da Junta Autónoma de Estradas, quando liquidados no continente, e das Regiões Autónomas, quando liquidados nessas Regiões.
 
-###### Art. 5.º São revogadas as seguintes disposições legais:
+Art. 5.º São revogadas as seguintes disposições legais:
 
 a) Os artigos 6.º a 21.º, 25.º a 27.º, 30.º e 32.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963;
 
@@ -146,25 +297,25 @@ e) O artigo 33.º do [Decreto-Lei n.º 15/88](https://diariodarepublica.pt/dr/de
 
 f) O artigo 23.º do [Decreto-Lei n.º 366/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1990-564672), de 24 de Novembro.
 
-###### Art. 6.º - 1 - Todas as competências em matéria de impostos de circulação e camionagem da Direcção-Geral de Transportes Terrestres transitam para a Direcção-Geral das Contribuições e Impostos, com excepção das que se encontram previstas no artigo 3.º
+Art. 6.º - 1 - Todas as competências em matéria de impostos de circulação e camionagem da Direcção-Geral de Transportes Terrestres transitam para a Direcção-Geral das Contribuições e Impostos, com excepção das que se encontram previstas no artigo 3.º
 
 2 - A cobrança dos impostos de circulação e camionagem é da competência da Direcção-Geral do Tesouro.
 
-###### Art. 7.º São de aplicação subsidiária aos impostos de circulação e camionagem as normas de cobrança previstas no Regulamento do Imposto Municipal sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho.
+Art. 7.º São de aplicação subsidiária aos impostos de circulação e camionagem as normas de cobrança previstas no Regulamento do Imposto Municipal sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho.
 
-###### Art. 8.º - 1 - O Regulamento dos Impostos de Circulação e Camionagem reporta os seus efeitos a 1 de Janeiro de 1994, com excepção da parte contra-ordenacional.
+Art. 8.º - 1 - O Regulamento dos Impostos de Circulação e Camionagem reporta os seus efeitos a 1 de Janeiro de 1994, com excepção da parte contra-ordenacional.
 
 2 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado, no Porto, em 12 de Abril de 1994.**
+Promulgado, no Porto, em 12 de Abril de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1994.**
+Referendado em 14 de Abril de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
@@ -172,7 +323,7 @@ Regulamento dos Impostos de Circulação e Camionagem
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º - 1 - O imposto de circulação (ICi) incide sobre o uso e fruição dos veículos afectos ao transporte de mercadorias por conta própria ou à actividade de aluguer de veículos sem condutor, quando os mesmos se destinem ao transporte particular.
+Artigo 1.º - 1 - O imposto de circulação (ICi) incide sobre o uso e fruição dos veículos afectos ao transporte de mercadorias por conta própria ou à actividade de aluguer de veículos sem condutor, quando os mesmos se destinem ao transporte particular.
 
 2 - O imposto de camionagem (ICa) incide sobre o uso e fruição dos veículos afectos ao transporte público rodoviário de mercadorias ou à actividade de aluguer de veículos sem condutor quando os mesmos se destinem exclusivamente ao transporte público.
 
@@ -192,17 +343,17 @@ c) Conjuntos formados por veículo-reboque ou tractor-semi-reboque, destinados a
 
 7 - Para efeitos do presente Regulamento, apenas são considerados os veículos registados no território do continente e nas Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 2.º - 1 - São sujeitos passivos do ICi e do ICa os proprietários dos veículos, presumindo-se como tais, até prova em contrário, as pessoas singulares ou colectivas em nome das quais os mesmos se encontrem registados.
+Art. 2.º - 1 - São sujeitos passivos do ICi e do ICa os proprietários dos veículos, presumindo-se como tais, até prova em contrário, as pessoas singulares ou colectivas em nome das quais os mesmos se encontrem registados.
 
 2 - Para efeitos do disposto no número anterior, são equiparados a proprietários os locatários financeiros.
 
-###### Art. 3.º - 1 - O montante do imposto será determinado em função do peso bruto dos respectivos veículos.
+Art. 3.º - 1 - O montante do imposto será determinado em função do peso bruto dos respectivos veículos.
 
 2 - Tratando-se de veículos articulados, ou de conjuntos formados por veículo automóvel-reboque, o peso bruto a considerar, para efeitos de cálculo do imposto, é o peso bruto máximo que o veículo automóvel está autorizado a deslocar.
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 4.º - 1 - Estão isentos do ICi:
+Art. 4.º - 1 - Estão isentos do ICi:
 
 a) O Estado e qualquer dos seus serviços, organismos e estabelecimentos, ainda que personalizados, compreendidos os órgãos de coordenação e assistência;
 
@@ -234,7 +385,7 @@ b) No ano do abate, os veículos cuja matrícula seja cancelada até 30 de Junho
 
 4 - As isenções a que se referem as alíneas c) a g) do n.º 1 serão reconhecidas mediante despacho do director-geral das Contribuições e Impostos, sobre requerimento das entidades interessadas, devidamente documentado, sendo dispensado este condicionalismo relativamente a isenções reconhecidas em anos anteriores.
 
-###### Art. 5.º - 1 - A isenção do imposto será normalmente comprovada pela exibição do exemplar n.º 3 do impresso referido no n.º 1 do artigo 10.º
+Art. 5.º - 1 - A isenção do imposto será normalmente comprovada pela exibição do exemplar n.º 3 do impresso referido no n.º 1 do artigo 10.º
 
 2 - O disposto no número anterior não é aplicável relativamente aos veículos pertencentes ao Estado, aos afectos às Forças Armadas e militarizadas e, bem assim, aos veículos pertencentes às corporações de bombeiros que ostentem quaisquer indicações que os identifiquem exteriormente como propriedade daquelas entidades.
 
@@ -242,27 +393,27 @@ b) No ano do abate, os veículos cuja matrícula seja cancelada até 30 de Junho
 
 ### CAPÍTULO III — Taxas
 
-###### Art. 6.º - 1 - As taxas anuais do ICi são as seguintes:
+Art. 6.º - 1 - As taxas anuais do ICi são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf))](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf)
 
 2 - As taxas anuais do ICa são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf))](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf)
 
 3 - Os veículos sujeitos ao ICa destinados ao transporte de grandes objectos ficam sujeitos a 20% das taxas anuais estabelecidas no número anterior.
 
 ### CAPÍTULO IV — Liquidação e cobrança
 
-###### Art. 7.º Os impostos de circulação e camionagem são devidos por inteiro em cada ano civil.
+Art. 7.º Os impostos de circulação e camionagem são devidos por inteiro em cada ano civil.
 
-###### Art. 8.º - 1 - Os impostos serão normalmente liquidados e pagos durante os meses de Setembro e Outubro de cada ano.
+Art. 8.º - 1 - Os impostos serão normalmente liquidados e pagos durante os meses de Setembro e Outubro de cada ano.
 
 2 - Sem prejuízo do disposto no artigo 4.º, tratando-se de veículos que não se encontravam sujeitos a imposto e que tenham sido adquiridos posteriormente a 31 de Outubro, o respectivo imposto será pago nos oito dias seguintes à data de aquisição, quando devidamente documentada.
 
 3 - Fora dos prazos previstos nos números anteriores, os impostos poderão ser pagos nos mesmos termos em que é pago, fora de prazo, o imposto sobre veículos.
 
-###### Art. 9.º - 1 - Os impostos serão liquidados e pagos, mediante a aquisição de dísticos da taxa correspondente e o preenchimento em triplicado dos impressos que se publicam em anexo ao presente Regulamento e que dele fazem parte integrante.
+Art. 9.º - 1 - Os impostos serão liquidados e pagos, mediante a aquisição de dísticos da taxa correspondente e o preenchimento em triplicado dos impressos que se publicam em anexo ao presente Regulamento e que dele fazem parte integrante.
 
 2 - Os proprietários dos veículos abrangidos pelas alíneas c) a g) do n.º 1 do artigo 4.º, embora isentos do ICi, estão obrigados ao preenchimento e entrega anual do impresso referido no número anterior e à aquisição de dísticos para veículos isentos.
 
@@ -280,17 +431,17 @@ c) O exemplar n.º 3 ao sujeito passivo, depois de devidamente autenticado pela 
 
 6 - Os dísticos serão afixados de forma bem visível, com o rosto para o exterior, no canto superior do pára-brisas do veículo, do lado oposto ao do volante.
 
-###### Art. 10.º Para pagamento do imposto referido no presente Regulamento a Fazenda Pública goza de privilégio mobiliário especial sobre o veículo que deu origem à colecta, mesmo que tenha sido transmitido a terceiros antes ou depois da liquidação, salvo se a transmissão se tiver operado por venda judicial ou extrajudicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
+Art. 10.º Para pagamento do imposto referido no presente Regulamento a Fazenda Pública goza de privilégio mobiliário especial sobre o veículo que deu origem à colecta, mesmo que tenha sido transmitido a terceiros antes ou depois da liquidação, salvo se a transmissão se tiver operado por venda judicial ou extrajudicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
 
 ### CAPÍTULO V — Fiscalização
 
-###### Art. 11.º - 1 - O cumprimento das obrigações impostas por este Regulamento será fiscalizado, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, das Alfândegas e de Transportes Terrestres, da Guarda Nacional Republicana e da Polícia de Segurança Pública.
+Art. 11.º - 1 - O cumprimento das obrigações impostas por este Regulamento será fiscalizado, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, das Alfândegas e de Transportes Terrestres, da Guarda Nacional Republicana e da Polícia de Segurança Pública.
 
 2 - Sempre que verifiquem qualquer infracção às normas constantes deste Regulamento, os funcionários a quem incumbe a fiscalização prevista no número anterior, quando para tal tenham competência, deverão levantar o respectivo auto de notícia, que, nos termos e para os efeitos do Código de Processo Tributário, será remetido à repartição de finanças que deva instruir o processo.
 
 3 - À participação por funcionário sem competência para levantar auto de notícia, bem como à denúncia feita por qualquer pessoa, é aplicável o regime estabelecido nos artigos 188.º e 189.º do Código de Processo Tributário.
 
-###### Art. 12.º - 1 - O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 2 do artigo 5.º, será obrigatoriamente portador do exemplar referido na alínea c) do n.º 5 do artigo 10.º ou do documento comprovativo da aquisição do veículo, conforme o caso, até ao cumprimento das correspondentes obrigações no ano seguinte àquele a que respeitam.
+Art. 12.º - 1 - O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 2 do artigo 5.º, será obrigatoriamente portador do exemplar referido na alínea c) do n.º 5 do artigo 10.º ou do documento comprovativo da aquisição do veículo, conforme o caso, até ao cumprimento das correspondentes obrigações no ano seguinte àquele a que respeitam.
 
 2 - Os documentos referidos no número anterior deverão ser exibidos sempre que tal seja solicitado por qualquer das entidades referidas no artigo anterior.
 
@@ -300,30 +451,30 @@ c) O exemplar n.º 3 ao sujeito passivo, depois de devidamente autenticado pela 
 
 ### CAPÍTULO VI — Garantias dos contribuintes
 
-###### Art. 13.º Os sujeitos passivos, bem como as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto, gozam de todos os meios de defesa consignados no Código de Processo Tributário.
+Art. 13.º Os sujeitos passivos, bem como as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto, gozam de todos os meios de defesa consignados no Código de Processo Tributário.
 
 ### CAPÍTULO VII — Das sanções
 
-###### Art. 14.º - 1 - Ao não cumprimento do disposto no presente Regulamento aplicar-se-á o Regime Jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo [Decreto-Lei n.º 20-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1990-248175), de 15 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 394/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1993-674024), de 24 de Novembro, salvo o disposto no presente Regulamento.
+Art. 14.º - 1 - Ao não cumprimento do disposto no presente Regulamento aplicar-se-á o Regime Jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo [Decreto-Lei n.º 20-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1990-248175), de 15 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 394/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1993-674024), de 24 de Novembro, salvo o disposto no presente Regulamento.
 
 2 - Nas contra-ordenações previstas neste diploma a negligência é sempre punível.
 
-###### Art. 15.º Constitui contra-ordenação, punível com coima de 10000$00 a 1000000$00, a utilização de qualquer veículo compreendido no artigo 1.º sem o pagamento do imposto, quando devido.
+Art. 15.º Constitui contra-ordenação, punível com coima de 10000$00 a 1000000$00, a utilização de qualquer veículo compreendido no artigo 1.º sem o pagamento do imposto, quando devido.
 
-###### Art. 16.º Constitui contra-ordenação, punível com coima de 5000$00 a 250000$00, a falta de apresentação, no prazo de oito dias, à entidade fiscalizadora, da prova do pagamento ou de isenção do imposto, quando a situação tributária do veículo se encontrar devidamente regularizada.
+Art. 16.º Constitui contra-ordenação, punível com coima de 5000$00 a 250000$00, a falta de apresentação, no prazo de oito dias, à entidade fiscalizadora, da prova do pagamento ou de isenção do imposto, quando a situação tributária do veículo se encontrar devidamente regularizada.
 
-###### Art. 17.º Independentemente das sanções previstas nos artigos anteriores, a falta de pagamento do imposto devido, nos prazos legalmente fixados, implicará a apreensão do veículo e respectiva documentação até ao pagamento do imposto em dívida, sem prejuízo do pagamento de quaisquer outros impostos respeitantes ao mesmo veículo enquanto se mantiver apreendido.
+Art. 17.º Independentemente das sanções previstas nos artigos anteriores, a falta de pagamento do imposto devido, nos prazos legalmente fixados, implicará a apreensão do veículo e respectiva documentação até ao pagamento do imposto em dívida, sem prejuízo do pagamento de quaisquer outros impostos respeitantes ao mesmo veículo enquanto se mantiver apreendido.
 
-###### Art. 18.º Sempre que no processo contra-ordenacional vier a provar-se que o arguido não é proprietário do veículo aquando da verificação da infracção, o procedimento seguirá os seus termos contra o proprietário do veículo naquela altura.
+Art. 18.º Sempre que no processo contra-ordenacional vier a provar-se que o arguido não é proprietário do veículo aquando da verificação da infracção, o procedimento seguirá os seus termos contra o proprietário do veículo naquela altura.
 
 ### CAPÍTULO VIII — Disposições finais
 
-###### Art. 19.º Quando se verifique extravio, furto ou inutilização do exemplar referido na alínea c) do n.º 5 do artigo 10.º, poderá ser requerida à Direcção-Geral das Contribuições e Impostos certidão comprovativa da isenção ou do pagamento do imposto, a qual substituirá para todos os efeitos o documento respectivo.
+Art. 19.º Quando se verifique extravio, furto ou inutilização do exemplar referido na alínea c) do n.º 5 do artigo 10.º, poderá ser requerida à Direcção-Geral das Contribuições e Impostos certidão comprovativa da isenção ou do pagamento do imposto, a qual substituirá para todos os efeitos o documento respectivo.
 
-###### Art. 20.º - 1 - No caso de extravio, furto ou inutilização dos dísticos poderá ser concedido, mediante requerimento à Direcção-Geral das Contribuições e Impostos, um dístico especial.
+Art. 20.º - 1 - No caso de extravio, furto ou inutilização dos dísticos poderá ser concedido, mediante requerimento à Direcção-Geral das Contribuições e Impostos, um dístico especial.
 
 2 - Os dísticos especiais serão fornecidos pelas tesourarias da Fasenda Pública a pedido do contribuinte e mediante prova de deferimento do requerimento referido no número anterior.
 
 ## ANEXO — (artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem, aprovado pelo Decreto-Lei n.º 116/94, de 3 de Maio.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf))](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/102a00/21912194.pdf)

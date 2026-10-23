@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/281/1992/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1992-623857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ce7b3c19894aac52709fd7c45fd3f493920fe1c4fe4b715597dc3afca3930e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64077abf30ecadd4d45602ead597aa7cf82f951db6e58d35bb629e1df90bee79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação Bonificada
-- RDP
-- Empresa Pública
 - Caixa Geral de Aposentações
+- Empresa Pública
+- RDP
 - Reforma Antecipada
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:45Z'
   warnings: []
   errors: []
 ---
@@ -103,28 +127,28 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os trabalhadores da Radiodifusão Portuguesa, E. P., que sejam subscritores da Caixa Geral de Aposentações podem aposentar-se, independentemente de submissão a junta médica, desde que contem, ou venham a contar, durante o ano de 1992, pelo menos, 25 anos de serviço e 50 de idade, ou 20 anos de serviço e 60 de idade.
+Artigo 1.º - 1 - Os trabalhadores da Radiodifusão Portuguesa, E. P., que sejam subscritores da Caixa Geral de Aposentações podem aposentar-se, independentemente de submissão a junta médica, desde que contem, ou venham a contar, durante o ano de 1992, pelo menos, 25 anos de serviço e 50 de idade, ou 20 anos de serviço e 60 de idade.
 
 2 - A submissão dos requerimentos à apreciação da Caixa Geral de Aposentações depende de parecer favorável do conselho de administração da Radiodifusão Portuguesa, E. P., o qual não poderá proceder, por recrutamento externo, à substituição dos requerentes.
 
-###### Art. 2.º - 1 - A pensão a atribuir aos trabalhadores referidos no artigo anterior é determinada em função do número de anos e de meses de serviço contados para aposentação e com base nas remunerações relevantes para o efeito, vigentes à data do pedido de aposentação.
+Art. 2.º - 1 - A pensão a atribuir aos trabalhadores referidos no artigo anterior é determinada em função do número de anos e de meses de serviço contados para aposentação e com base nas remunerações relevantes para o efeito, vigentes à data do pedido de aposentação.
 
 2 - A pensão referida no número anterior beneficiará de uma bonificação de 20%, não podendo em caso algum ser superior à correspondente a 36 anos de serviço.
 
-###### Art. 3.º - 1 - Os acordos de cessação dos contratos de trabalho celebrados pela Radiodifusão Portuguesa, E. P., com trabalhadores beneficiários do regime geral de segurança social consideram-se compreendidos na alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março.
+Art. 3.º - 1 - Os acordos de cessação dos contratos de trabalho celebrados pela Radiodifusão Portuguesa, E. P., com trabalhadores beneficiários do regime geral de segurança social consideram-se compreendidos na alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março.
 
 2 - É aplicável à Radiodifusão Portuguesa, E. P., o regime de pré-reforma previsto no artigo 12.º do [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Junho.
 
-###### Art. 4.º O presente diploma caduca em 31 de Janeiro de 1993.
+Art. 4.º O presente diploma caduca em 31 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 4 de Dezembro de 1992.**
+Promulgado em 4 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Dezembro de 1992.**
+Referendado em 9 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

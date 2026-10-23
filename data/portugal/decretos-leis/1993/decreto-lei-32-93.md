@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/036a00/05880588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/1993/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1993-648484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f0225e7cf4d691309142e01cf4748b6171c0fa9bdf9fd581325e6e63dd63aea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff6c3c0b0be221f25dc85292b6c311aa3b137f86e5ee03d36995f91b7baccd82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,12 @@ subjects:
 - CE Países
 - CEE
 - Contra-ordenação
-- Definição de Competências
 - Controlo Sanitário
+- Definição de Competências
 - Direcção Geral da Pecuária
+- Gado Equino
 - Importação
 - Política Agrícola Comum
-- Gado Equino
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
@@ -85,16 +85,21 @@ relationships:
   target: celex:31990L0426
   label: null
   source: http://data.europa.eu/eli/dir/1990/426/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogado, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:37Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +114,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para o direito interno a Directiva n.º [90/426/CEE](https://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho, de 26 de Junho, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros.
+Artigo 1.º O presente diploma transpõe para o direito interno a Directiva n.º [90/426/CEE](https://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho, de 26 de Junho, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 3.º - 1 - A circulação de equídeos com desrespeito pelas normas técnicas a que se refere o artigo anterior constitui contra-ordenação.
+Art. 3.º - 1 - A circulação de equídeos com desrespeito pelas normas técnicas a que se refere o artigo anterior constitui contra-ordenação.
 
 2 - A contra-ordenação referida no número anterior é punível pelo director-geral da Pecuária com coima cujo montante mínimo é de 500$00 e o máximo de 500000$00.
 
@@ -135,16 +140,16 @@ b) Em 20% para a entidade autuante;
 
 c) Em 60% para os cofres do Estado.
 
-###### Art. 4.º Compete à Direcção-Geral da Pecuária a fiscalização do cumprimento das normas constantes deste diploma e respectiva legislação complementar.
+Art. 4.º Compete à Direcção-Geral da Pecuária a fiscalização do cumprimento das normas constantes deste diploma e respectiva legislação complementar.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

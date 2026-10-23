@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163a00/38293829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/252/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1993-390064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9855c75121396abf6ba55a8f7aee36bcdc777ee381b91446d64e504fa715767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e245d6d6884db00eaa92e70a8f4beb4c456c347af454bc9f45578063cbc27bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Câmara Municipal
+- Comércio
 - Comércio a Retalho
 - Contra-ordenação
 - Fiscalização
-- Câmara Municipal
-- Comércio
+- Multa
 - Venda Ambulante
 relationships:
 - type: amended_by
   target: pt:dre:260444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239225:por
+  label: "Alterados os arts. 4º e 22º do Dec Lei 122/79 de 08-Mai, com a redacção do presente diploma, pelo DEC LEI.9/2002.2002.01.24.PCM\
+    \ DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2002-239225
+  date: '2002-01-24'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260444:por
+  label: "Revogado a partir de 12.05.2013 o Dec Lei 122/79, de 08-mai, na redação do presente diploma, pela LEI.27/2013.12.04.2013.AR,\
+    \ DR.IS [72] de 12.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2013-260444
+  date: '2013-04-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:07Z'
   warnings: []
   errors: []
 ---
@@ -109,21 +129,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º, 19.º e 22.º do [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 19.º e 22.º do [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - É proibido no exercício da venda ambulante a actividade de comércio por grosso.
 
 3 - (Antigo n.º 2.)
 
-###### Art. 19.º - 1 - ...
+Art. 19.º - 1 - ...
 
 2 - ...
 
 3 - As câmaras municipais ficam obrigadas a enviar o duplicado do impresso a que se refere o n.º 10 do artigo anterior à Direcção-Geral do Comércio, no caso de primeira inscrição, devendo, nos casos de renovação sem alterações, remeter uma relação de onde constem tais renovações no prazo de 30 dias contado a partir da data da inscrição ou renovação.
 
-###### Art. 22.º - 1 - As infracções ao disposto no presente diploma e nos regulamentos municipais no mesmo previstos constituem contra-ordenações puníveis com coima de 5000$00 a 500000$00 em caso de dolo e de 2500$00 a 250000$00 em caso de negligência.
+Art. 22.º - 1 - As infracções ao disposto no presente diploma e nos regulamentos municipais no mesmo previstos constituem contra-ordenações puníveis com coima de 5000$00 a 500000$00 em caso de dolo e de 2500$00 a 250000$00 em caso de negligência.
 
 2 - Para além das sanções acessórias que venham a ser previstas, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, nos regulamentos municipais a que se refere o número anterior, poderá ainda ser aplicada a sanção acessória da apreensão de bens a favor do município nas seguintes situações:
 
@@ -133,12 +153,12 @@ b) Venda, exposição ou simples detenção para venda de mercadorias proibidas 
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

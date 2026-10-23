@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1993-680643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0ca80f5ead4c94b39d9dc864bce7939578fa36a67b369aa94aec4e9e19accee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1827bf2405106bfa8d72f2bef5f6bdd2168ee58e522a0a25d758c4f253a840d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral das Florestas
 - Instituto Florestal
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência Patrimonial
@@ -79,20 +79,35 @@ relationships:
   target: pt:dre:553668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinto o Instituto Florestal, pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o art 46º pelo Dec-Lei.224-A/96. 1996.11.26.MJ - Aprova o Código das Custas Judiciais - , DR.IS-A\
+    \ [274]2ºSupl\0A [274]2ºSupl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:41Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +256,9 @@ c) Repartição de Pessoal, Expediente Geral e Arquivo;
 
 d) Repartição Financeira e Patrimonial.
 
-###### Artigo 9.º — Divisão de Programação e Gestão Financeira
+###### Artigo 9.º
+
+##### Divisão de Programação e Gestão Financeira
 
 À Divisão de Programação e Gestão Financeira compete:
 
@@ -253,7 +270,9 @@ c) Elaborar o plano anual de actividades, com uma clara discriminação dos obje
 
 d) Exercer o controlo orçamental e a avaliação das actividades desenvolvidas pelo serviços, com recurso a metodologias de eficácia e eficiência.
 
-###### Artigo 10.º — Divisão de Organização e Gestão dos Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Organização e Gestão dos Recursos Humanos
 
 À Divisão de Organização e Gestão dos Recursos Humanos compete:
 
@@ -359,7 +378,9 @@ b) Divisão de Estatística e Estudos Económicos;
 
 c) Divisão do Inventário Florestal.
 
-###### Artigo 14.º — Divisão de Planeamento
+###### Artigo 14.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -373,7 +394,9 @@ d) Proceder à análise dos estudos de impacte ambiental e instruir os processos
 
 e) Coordenar a aplicação dos diferentes programas existentes e conceber e propor novos programas, assegurando a adequada articulação dos diferentes instrumentos financeiros com a política florestal e com os vários organismos intervenientes no processo.
 
-###### Artigo 15.º — Divisão de Estatística e Estudos Económicos
+###### Artigo 15.º
+
+##### Divisão de Estatística e Estudos Económicos
 
 À Divisão de Estatística e Estudos Económicos compete:
 
@@ -383,7 +406,9 @@ b) Tratar e actualizar a informação sobre a produção, transformação e come
 
 c) Elaborar estudos com vista ao diagnóstico, avaliação e perspectiva do sector.
 
-###### Artigo 16.º — Divisão do Inventário Florestal
+###### Artigo 16.º
+
+##### Divisão do Inventário Florestal
 
 À Divisão do Inventário Florestal compete:
 
@@ -393,7 +418,9 @@ b) Promover a elaboração de cartografia temática florestal;
 
 c) Apoiar a elaboração de inventários regionais e locais.
 
-###### Artigo 17.º — Divisão de Documentação, Informação e Relações Públicas
+###### Artigo 17.º
+
+##### Divisão de Documentação, Informação e Relações Públicas
 
 À Divisão de Documentação, Informação e Relações Públicas, dependente directamente do presidente, compete:
 
@@ -451,7 +478,9 @@ b) Divisão de Protecção e Vigilância dos Ecossistemas Florestais e Inspecç�
 
 c) Divisão de Apoio à Gestão do Património Florestal Público e Comunitário.
 
-###### Artigo 21.º — Divisão de Protecção da Floresta contra Incêndios
+###### Artigo 21.º
+
+##### Divisão de Protecção da Floresta contra Incêndios
 
 À Divisão de Protecção da Floresta contra Incêndios compete:
 
@@ -483,7 +512,9 @@ f) Promover, assegurar e gerir, a nível nacional, a estrutura de inspecção fi
 
 g) Assegurar os procedimentos legais a respeitar na utilização dos produtos e substâncias químicas com aplicação no âmbito florestal.
 
-###### Artigo 23.º — Divisão de Apoio à Gestão do Património Florestal Público e Comunitário
+###### Artigo 23.º
+
+##### Divisão de Apoio à Gestão do Património Florestal Público e Comunitário
 
 À Divisão de Apoio à Gestão do Património Florestal Público e Comunitário compete:
 
@@ -505,7 +536,9 @@ b) Divisão de Apoio à Gestão da Propriedade Florestal Privada;
 
 c) Divisão de Formação Profissional e Segurança no Trabalho.
 
-###### Artigo 25.º — Divisão de Ordenamento Florestal e Silvo-Pastorícia
+###### Artigo 25.º
+
+##### Divisão de Ordenamento Florestal e Silvo-Pastorícia
 
 À Divisão de Ordenamento Florestal e Silvo-Pastorícia compete:
 
@@ -515,7 +548,9 @@ b) Desenvolver e fomentar o aproveitamento racional em regime silvo-pastoril dos
 
 c) Coordenar as acções de selecção, recolha e distribuição de sementes e as técnicas de gestão e produção de plantas nos viveiros do Instituto.
 
-###### Artigo 26.º — Divisão de Apoio à Gestão da Propriedade Florestal Privada
+###### Artigo 26.º
+
+##### Divisão de Apoio à Gestão da Propriedade Florestal Privada
 
 À Divisão de Apoio à Gestão da Propriedade Florestal Privada compete:
 
@@ -527,7 +562,9 @@ c) Promover o associativismo e outras formas organizativas dos produtores flores
 
 d) Promover a racionalização das técnicas de arborização, condução e exploração das matas com especial atenção para a mecanização florestal.
 
-###### Artigo 27.º — Divisão de Formação Profissional e Segurança no Trabalho
+###### Artigo 27.º
+
+##### Divisão de Formação Profissional e Segurança no Trabalho
 
 À Divisão de Formação Profissional e Segurança no Trabalho compete:
 
@@ -557,7 +594,9 @@ c) Divisão de Ordenamento dos Recursos Aquícolas;
 
 d) Divisão de Apicultura e Outros Recursos Silvestres.
 
-###### Artigo 29.º — Divisão de Ordenamento dos Recursos Cinegéticos
+###### Artigo 29.º
+
+##### Divisão de Ordenamento dos Recursos Cinegéticos
 
 À Divisão de Ordenamento dos Recursos Cinegéticos compete:
 
@@ -577,7 +616,9 @@ g) Promover a avaliação dos prejuízos causados por espécies cinegéticas, de
 
 h) Estudar e propor superiormente a regulamentação para o exercício venatório, o transporte, a detenção e o comércio de caça, bem como assegurar a difusão dos referidos regulamentos.
 
-###### Artigo 30.º — Divisão de Apoio à Actividade Cinegética
+###### Artigo 30.º
+
+##### Divisão de Apoio à Actividade Cinegética
 
 À Divisão de Apoio à Actividade Cinegética compete:
 
@@ -591,7 +632,9 @@ d) Apoiar a Divisão de Documentação, Informação e Relações Públicas nas 
 
 e) Tratar e analisar os processos de contra-ordenação e proceder administrativamente quanto aos processos-crimes por infracção à Lei da Caça.
 
-###### Artigo 31.º — Divisão de Ordenamento dos Recursos Aquícolas
+###### Artigo 31.º
+
+##### Divisão de Ordenamento dos Recursos Aquícolas
 
 À Divisão de Ordenamento dos Recursos Aquícolas compete:
 
@@ -613,7 +656,9 @@ h) Analisar e organizar os processos referentes ao licenciamento de exploraçõe
 
 i) Apoiar tecnicamente o Centro Aquícola do Rio Ave e o Centro Aquícola da Azambuja.
 
-###### Artigo 32.º — Divisão de Apicultura e Outros Recursos Silvestres
+###### Artigo 32.º
+
+##### Divisão de Apicultura e Outros Recursos Silvestres
 
 À Divisão de Apicultura e Outros Recursos Silvestres compete:
 
@@ -777,16 +822,16 @@ São transferidos para o Instituto Florestal todos os direitos e obrigações, i
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 43.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/16951703.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/16951703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/16951703.pdf)

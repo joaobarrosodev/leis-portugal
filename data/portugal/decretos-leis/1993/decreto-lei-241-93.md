@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/1993/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1993-375437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 428fa0836e7a2cf440af65f0ad22dbc673faf3d70f0a921b1fac42c9fe014f19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3f784dfb2822686e57acd032a24b029ccf65d055802be0f62bd27272873730b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contribuições e Impostos
 - Dívidas ao Estado
 - Execução Fiscal
-- Contribuições e Impostos
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:52Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +97,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Serão declaradas em falhas, sem dependência de outras formalidades legais, as dívidas de impostos já abolidos cujo valor não exceda 30000$00, desde que não gozem de qualquer privilégio ou garantia real.
+Artigo 1.º - 1 - Serão declaradas em falhas, sem dependência de outras formalidades legais, as dívidas de impostos já abolidos cujo valor não exceda 30000$00, desde que não gozem de qualquer privilégio ou garantia real.
 
 2 - O disposto no número anterior aplica-se aos processos já instaurados ou a instaurar.
 
 3 - A todo o tempo, salvo prescrição, prosseguirá a cobrança se se apurar que os executados possuem bens penhoráveis para solver, no todo ou em parte, a dívida exequenda e acrescida.
 
-###### Art. 2.º O disposto no artigo anterior aplica-se às restantes dívidas de valor não superior a 30000$00 cobradas mediante processo de execução fiscal instaurado até à entrada em vigor do presente diploma.
+Art. 2.º O disposto no artigo anterior aplica-se às restantes dívidas de valor não superior a 30000$00 cobradas mediante processo de execução fiscal instaurado até à entrada em vigor do presente diploma.
 
-###### Art. 3.º - 1 - O processo de execução fiscal passa a aplicar-se exclusivamente à cobrança coerciva das dívidas ao Estado e a outras pessoas de direito público.
+Art. 3.º - 1 - O processo de execução fiscal passa a aplicar-se exclusivamente à cobrança coerciva das dívidas ao Estado e a outras pessoas de direito público.
 
 2 - O disposto no número anterior não se aplica aos processos pendentes à data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1993.**
+Referendado em 22 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

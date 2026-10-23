@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/1994/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1994-265560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae09bf4fe594af45ffdbf1aa1b2abf36e873acdbf7c24a0ee7ccf9e66b8b25c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df420e416d2b2e5964754ecd8f1df452eafcb50143f573dee13da0b1c39b5477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Sociedade Comercial
 - Código das Sociedades Comerciais
 - Contabilidade
 - Controlo Financeiro
+- Empresa
 - Plano Oficial de Contabilidade
 - Prestação de Contas
 - Prorrogação de Prazo
+- Sociedade Comercial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/238/1991/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/238/1991/07/02/p/dre
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:13Z'
   warnings: []
   errors: []
 ---
@@ -108,18 +112,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As empresas obrigadas por lei à consolidação de contas, nos termos do [Decreto-Lei n.º 238/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1991-649958), de 2 de Julho, e das disposições aplicáveis do Código das Sociedades Comerciais, poderão apresentar e apreciar, até 31 de Maio de 1994, os documentos respeitantes à prestação das contas consolidadas relativamente ao exercício social do ano de 1993.
+Artigo 1.º As empresas obrigadas por lei à consolidação de contas, nos termos do [Decreto-Lei n.º 238/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1991-649958), de 2 de Julho, e das disposições aplicáveis do Código das Sociedades Comerciais, poderão apresentar e apreciar, até 31 de Maio de 1994, os documentos respeitantes à prestação das contas consolidadas relativamente ao exercício social do ano de 1993.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Abril de 1993.
+Art. 2.º O presente diploma produz efeitos desde 1 de Abril de 1993.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 31 de Março de 1994.**
+Promulgado em 31 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1994.**
+Referendado em 6 de Abril de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

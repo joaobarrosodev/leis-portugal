@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20502056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1993-665345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4443a07e93a77e7e5a058564428a319f4100b120d9db90cb96a77574a37fb1d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a144b4139dd0190d70109d469c8914bd11a0ace6ba96af4c84d24165e401e23f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direcção Geral dos Desportos
 - Extinção de Serviços
 - Fundo de Fomento do Desporto
-- Direcção Geral dos Desportos
 - Instituto do Desporto
 - Integração de Serviços
 - Integração de Trabalhadores
@@ -80,16 +80,75 @@ relationships:
   target: pt:dre:525618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:528067:por
+  label: "Alterados os arts. 2.º, 8.º, 18.º e o quadro de pessoal anexo ao presente diploma, e aditado ao mesmo diploma o\
+    \ art. 10.º-A, pelo DEC LEI.115/95.1995.05.29.ME DR.IS-A [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1995-528067
+  date: '1995-05-29'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Instituto do Desporto, com excepção da área\
+    \ do desporto escolar e das construções desportivas em recintos escolares, pelo DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A\
+    \ [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:151892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654509:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:616589:por
+  label: "Rectificado pelo DECL-RECT.132/93.30.07.1993.PCM, DR.IS-A [178]Supl de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/132-1993-616589
+  date: '1993-07-30'
+- type: repealed_by
+  target: pt:dre:241672:por
+  label: "Revogada a al. l) do nº 2 do art. 2º, alterada a redacção da al. h) do nº 2 do art. 2º, a al. m) do nº 2 do art.\
+    \ 2 passa a designar-se al. l), alterada a redacção do nº 3 do art. 2º, revogada a al. c) do art. 8º, as als. d), e),\
+    \ f), g), h), i) e j) do art. 8º passam respectivamente a al. c), d), e), f), g), h) e i) do mesmo art., revogado o art.\
+    \ 10º-A, na redacção dada pelo Dec Lei 115/95 de 29-Mai, pelo DEC LEI.164/96.1996.09.05.ME, DR.IS-A [206]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-1996-241672
+  date: '1996-09-05'
+- type: repealed_by
+  target: pt:dre:525618:por
+  label: "Revogado pelo Dec Lei.62/97.1997.03.26.PCM, DR.IS-A [72], alterado pelo Dec Lei 115/95 de 29-Mai\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1997-525618
+  date: '1997-03-26'
 article_structure:
   article_count: 35
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:42Z'
   warnings: []
   errors: []
 ---
@@ -362,7 +421,9 @@ d) Colaborar em acções de formação e investigação, no âmbito da dopagem e
 
 3 - O apoio administrativo necessário ao funcionamento do Complexo Desportivo de Lamego é prestado pelos serviços competentes do INDESP, através de pessoal do respectivo quadro, de acordo com as dotações a estabelecer pelo presidente.
 
-###### Artigo 15.º — Divisão de Apoio à Gestão
+###### Artigo 15.º
+
+##### Divisão de Apoio à Gestão
 
 À Divisão de Apoio à Gestão compete apoiar a direcção do INDESP na coordenação da gestão dos recursos humanos, financeiros, materiais e patrimoniais e, em especial;
 
@@ -584,12 +645,12 @@ d) O [Decreto Regulamentar n.º 36/85](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

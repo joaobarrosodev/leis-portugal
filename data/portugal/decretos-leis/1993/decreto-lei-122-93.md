@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1993/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1993-690983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 829e0d9cbf9c848631327a2c0beeb2f0a89aa797c34c48b868e7553b113701a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0f95eda3df1ca9e4cd26f313fc5d683d1854e82a4c7b691aa269345ce210d5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,41 @@ reuse:
 subjects:
 - Criação de Serviços
 - Direcção Geral de Geologia e Minas
-- Recursos Geológicos
 - Instituto Geológico e Mineiro
 - Ministério da Indústria e Energia
 - Orgânica
+- Recursos Geológicos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:551646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\066]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:434008:por
+  label: "Alterado o art. 5.º pelo DEC LEI.334/99.1999.08.20.MECO DR.IS-A [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1999-434008
+  date: '1999-08-20'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo\
+    \ a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro\
+    \ da Ciência e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:654681:por
+  label: "Extinto o Instituto Geológico e Mineiro criado pelo presente diploma, o qual é revogado, com excepção das als. a),\
+    \ b), c), e), f), g), h), j) e l) do art. 3º pelo DEC LEI.186/2003.2003.08.20.MECO DR.IS-A [191], que faz suceder a Direcção\
+    \ Geral de Geologia e Energia ao IGM nas áreas de intervenção referidas nas als. a), b), c) e l) do citado art. 3º, bem\
+    \ como o INETI ao IGM nas áreas de intervenção referidas nas als. e), f), g), h) e j) do mesmo art.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -89,16 +114,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/371-a/1991/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/371-a/1991/04/30/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603045:por
+  label: "Revogadas as als. a), b), c) e l) do art. 3.º, pelo DEC LEI.15/2004.14.01.2004.MECO, DR.IS-A [11] de 14.01.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2004-603045
+  date: '2004-01-14'
+- type: repealed_by
+  target: pt:dre:551646:por
+  label: "Revogadas a partir de 4 de Março de 2004 as als. e), f), g), h) e j) do art. 3º pelo DEC LEI.45/2004.03.03.2004.MECO,\
+    \ DR.IS-A [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2004-551646
+  date: '2004-03-03'
 article_structure:
-  article_count: 37
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 38
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:16Z'
   warnings: []
   errors: []
 ---
@@ -583,7 +660,9 @@ d) Prestar aos órgãos da Administração Pública a informação do âmbito ge
 
 e) Proceder à divulgação, junto dos utentes, de material documental e informativo existente no IGM.
 
-###### Artigo 23.º — Divisão de Geofísica
+###### Artigo 23.º
+
+##### Divisão de Geofísica
 
 A Divisão de Geofísica visa desenvolver e aplicar métodos geofísicos com vista à melhoria do conhecimento geológico de subsuperfície e à revelação de recursos geológicos, competindo-lhe:
 
@@ -597,7 +676,9 @@ d) Promover estudos de variação secular e das causas das perturbações do cam
 
 e) Elaborar a cartografia geofísica.
 
-###### Artigo 24.º — Divisão de Sondagens
+###### Artigo 24.º
+
+##### Divisão de Sondagens
 
 A Divisão de Sondagens visa realizar trabalhos de sondagem para a melhoria do conhecimento geológico da subsuperfície e para a descoberta e reconhecimento de jazidas e massas minerais, competindo-lhe:
 
@@ -633,7 +714,9 @@ b) Participar e promover trocas de informação e conhecimento, nos domínios da
 
 c) Participar em associações ou outras entidades nacionais e internacionais, cujo objectivo seja de interesse para prossecução das suas atribuições, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, que definirá as condições que a mesma reveste.
 
-### CAPÍTULO IV — Artigo 27.º
+### CAPÍTULO IV
+
+###### Artigo 27.º
 
 Património
 
@@ -723,12 +806,12 @@ Com a entrada em vigor do presente diploma são dadas por findas as comissões d
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/1992/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1992-217929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1887cd50aaa582ca16b2765f7047ad2f9b0ffea58c692386834331eae39415fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ce96763cf9db54574e98c603b074819ecf9298805e981d77d86044e0049e05f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
 subjects:
 - Conselho CE
 - Moeda Comemorativa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:51Z'
   warnings: []
   errors: []
 ---
@@ -95,34 +103,34 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa da primeira presidência portuguesa do Conselho da Comunidade Europeia, com o valor facial de 200$00.
+Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa da primeira presidência portuguesa do Conselho da Comunidade Europeia, com o valor facial de 200$00.
 
 2 - A moeda referida no número anterior será cunhada em liga de cuproníquel 75/25, com 36 mm de diâmetro e 21 g de peso, com uma tolerância de mais ou menos 1,5% no título e no peso, e bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso apresenta, no lado esquerdo do campo, o escudo das armas nacionais, no lado direito do campo, o valor facial «200 escudos», em duas linhas, e, na orla inferior, a legenda «República Portuguesa», tendo como fundo um campo de elementos simétricos ondulados, alternadamene lisos e cheios, simbolizando a superfície do mar.
+Art. 2.º - 1 - A gravura do anverso apresenta, no lado esquerdo do campo, o escudo das armas nacionais, no lado direito do campo, o valor facial «200 escudos», em duas linhas, e, na orla inferior, a legenda «República Portuguesa», tendo como fundo um campo de elementos simétricos ondulados, alternadamene lisos e cheios, simbolizando a superfície do mar.
 
 2 - A gravura do reverso apresenta, no lado direito do campo, as 12 estrelas da Comunidade Europeia em fundo liso, simbolizando um sol de estrelas, na orla inferior, a legenda «Presidência da Comunidade Europeia - 1992» iniciada pelo astrolábio-logótipo da primeira presidência portuguesa, tendo como fundo um campo de elementos simétricos ondulados, alternadamente lisos e cheios, simbolizando a superfície do mar.
 
-###### Art. 3.º - 1 - O limite de emissão desta moeda comemorativa é fixado em 210000000$00.
+Art. 3.º - 1 - O limite de emissão desta moeda comemorativa é fixado em 210000000$00.
 
 2 - Dentro do limite estabelecido no número anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 20000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC) e até 30000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados a comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 3 - Os espécimes numismáticos de prata referidos no número anterior serão cunhados em liga de prata 925/1000, com o diâmetro de 36 mm, peso de 26,5 g e bordo serrilhado, sendo as tolerâncias, no peso e na liga, de mais ou menos 1%.
 
-###### Art. 4.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 4.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 5.º As moedas cunhadas ao abrigo do presente diploma têm curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 10000$00 nesta moeda.
+Art. 5.º As moedas cunhadas ao abrigo do presente diploma têm curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 10000$00 nesta moeda.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/093a00/18701871.pdf))](https://files.diariodarepublica.pt/1s/1992/04/093a00/18701871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/093a00/18701871.pdf)

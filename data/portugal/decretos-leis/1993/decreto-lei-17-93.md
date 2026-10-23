@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/1993/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1993-584782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4df37fdc7abdeb8045214c9a0f0718b3d1cc69cc6b731e350e561cc8110d9b91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31bfef6e33179e89298c5d9df3c9f1feaf7ddfaee908d2608153ee36e6fe218d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério do Planeamento e da Administração do Território
 - Governo XII
-- Secretário de Estado do Ensino Superior
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
-- Ministro do MAR
-- Orgânica
-- Secretário de Estado da Administração Local e Ordenamento do Território
+- Ministério do Planeamento e da Administração do Território
 - Ministro da Educação
+- Ministro do MAR
+- Ministro dos Negócios Estrangeiros
+- Orgânica
 - Secretário de Estado Adjunto e das Pescas
+- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado da Ciência e Tecnologia
 - Secretário de Estado da Cooperação
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Pescas
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Planeamento e Desenvolvimento Regional
 - Secretário de Estado dos Recursos Educativos
+- Secretário de Estado para os Assuntos Europeus
 - Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros
 - Subsecretário de Estado Adjunto do Secretário de Estado da Cultura
 relationships:
@@ -88,6 +88,12 @@ relationships:
   target: pt:dre:626218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626218:por
+  label: "Alterado o art. 16º do Dec Lei 451/91, de 04-dez, na redação do presente diploma, pelo DEC LEI.258/94.22.10.1994.PCM,\
+    \ DR.IS-A [245] de 22.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1994-626218
+  date: '1994-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
@@ -96,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/77/1992/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/77/1992/05/06/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:16Z'
   warnings: []
   errors: []
 ---
@@ -120,28 +134,28 @@ Assim:
 
 Nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 13.º, 16.º e 22.º do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 77/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1992-500417), de 6 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, 13.º, 16.º e 22.º do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 77/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1992-500417), de 6 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 11.º O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional, pelo Secretário de Estado da Ciência e Tecnologia e pelo Secretário de Estado da Administração Local e do Ordenamento do Território.
+Art. 11.º O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional, pelo Secretário de Estado da Ciência e Tecnologia e pelo Secretário de Estado da Administração Local e do Ordenamento do Território.
 
-###### Art. 13.º O Ministro dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Europeus, pelo Secretário de Estado da Cooperação, pelo Secretário de Estado das Comunidades Portuguesas e pelo Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
+Art. 13.º O Ministro dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Europeus, pelo Secretário de Estado da Cooperação, pelo Secretário de Estado das Comunidades Portuguesas e pelo Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
 
-###### Art. 16.º O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Recursos Educativos, pelo Secretário de Estado do Ensino Superior e pelo Secretário de Estado dos Ensinos Básico e Secundário.
+Art. 16.º O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Recursos Educativos, pelo Secretário de Estado do Ensino Superior e pelo Secretário de Estado dos Ensinos Básico e Secundário.
 
-###### Art. 22.º O Ministro do Mar é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas.
+Art. 22.º O Ministro do Mar é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas.
 
-###### Art. 2.º São extintos os cargos de Subsecretário de Estado Adjunto do Secretário de Estado da Cultura e de Secretário de Estado das Pescas.
+Art. 2.º São extintos os cargos de Subsecretário de Estado Adjunto do Secretário de Estado da Cultura e de Secretário de Estado das Pescas.
 
-###### Art. 3.º O presente diploma produz efeitos desde o dia 12 de Novembro de 1992.
+Art. 3.º O presente diploma produz efeitos desde o dia 12 de Novembro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - Álvaro dos Santos Amaro - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - António José Fernandes de Sousa - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 6 de Janeiro de 1993.**
+Promulgado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1993.**
+Referendado em 8 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

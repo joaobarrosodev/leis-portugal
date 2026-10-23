@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/141a00/32723275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/1993/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1993-268847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ce1e973d6d9bba10a4b0d11b6eaacfdad5e548d1ad273379fbcc246445e57c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9611d4e3a0bf938eb3fbca26ee145791beaa7c6d898f0a4cc78b74a9812805ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
+- Autarquia Local
 - Centro Distrital de Operações de Emergência de Protecção Civil
 - Centro Municipal de Operações de Emergência de Protecção Civil
 - Centro Nacional de Operações de Emergência de Protecção Civil
-- Serviço Nacional de Protecção Civil
 - Definição de Competências
 - Governo Civil
-- Autarquia Local
+- Proteção Civil
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:537862:por
@@ -83,16 +83,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:383001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563404:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:537862:por
+  label: "Revogado pela LEI.27/2006.03.07.2006.AR, DR.IS [126] de 03.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2006-537862
+  date: '2006-07-03'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:27Z'
   warnings: []
   errors: []
 ---
@@ -329,12 +350,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugênio Castro de Azevedo Soares - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

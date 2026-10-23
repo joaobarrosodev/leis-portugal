@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc39f7720f12ae8a05d986cb2f787621817cdb5ad843a607f99709466ec4691f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c76cab6e0f0a44dd5fe594fa80f24ed0220100b72d00cba907bec4d77d1ccf00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,34 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
-- Educação Pré-escolar
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:522638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621296:por
+  label: "Alterados os art.s 5º, 6º e 15º, pelo DEC LEI.16/96.1996.03.08.ME DR.IS-A [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1996-621296
+  date: '1996-03-08'
+- type: amended_by
+  target: pt:dre:352900:por
+  label: "Alterados os arts. 5º e 14º pelo DEC LEI.15-A/99.1999.01.19.ME, DR.IS-A [15]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-a-1999-352900
+  date: '1999-01-19'
+- type: amended_by
+  target: pt:dre:544667:por
+  label: "Mantidos em vigor os arts. 1º e 14º deste diploma pelo DEC LEI.20/2006.31.01.2006.ME, DR.IS-A [22] de 31.01.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2006-544667
+  date: '2006-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
   label: null
@@ -96,16 +112,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/185/1993/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/185/1993/08/06/p/dre
+- type: cites
+  target: pt:dre:259057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534604:por
+  label: "Revogada a al. d) do art. 5º, na redacção do Dec Lei 16/96, de 08-Mar e do Dec Lei 15-A/99, de 19-Jan, pelo DEC\
+    \ LEI.5-A/2001.2001.01.12.ME, DR.IS-A [10]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-2001-534604
+  date: '2001-01-12'
+- type: repealed_by
+  target: pt:dre:186123:por
+  label: "Revogado pelo DEC LEI.35/2003.2003.02.27.ME DR.IS-A [49] com excep&#231;&#227;o dos arts 1&#186; e 14&#186;\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2003-186123
+  date: '2003-02-27'
+- type: repealed_by
+  target: pt:dre:522638:por
+  label: "Revoga o art. 14º pelo DEC LEI.15/2007.19.01.2007.ME, DR.IS [14] de 19.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:57Z'
   warnings: []
   errors: []
 ---
@@ -328,12 +396,12 @@ O presente diploma reporta os seus efeitos a 1 de Setembro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 11 de Novembro de 1993.**
+Promulgado em 11 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1993.**
+Referendado em 12 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

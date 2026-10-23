@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/10/24800/14061408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19462-1962-156467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e778863e786ce8bee3b5c30487423c52e0c889d4f501223fe74bc34cbf0918c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2abf0396d2118441de5ad23233b4b5b910b481d6b6d07d527187745b8e14111c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Condutor
+- Descanso Semanal
+- Horário de Trabalho
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:177088817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:345122:por
+  label: "Revogado o nº 19 pela LEI.114/99.1999.08.03.AR, DR.IS-A [179] de 03.08.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-1999-345122
+  date: '1999-08-03'
+- type: repealed_by
+  target: pt:dre:177088817:por
+  label: Revogada, a partir de 01.01.2022, pelo(a) Portaria n.º 7/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-2022-177088817
+  date: '2022-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:48Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +216,7 @@ b) Demoras provocadas pelo embarque e desembarque de mercadorias nos cais marít
 
 9.º Para registo do trabalho prestado no dia de descanso semanal, no caso de horário prèviamente fixado, e de todo o trabalho efectuado, no caso de o horário ser móvel, cada condutor terá uma caderneta do modelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/24800/14061408.pdf))](https://files.diariodarepublica.pt/1s/1962/10/24800/14061408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/24800/14061408.pdf)
 
 § 1.º Os verbetes terão as dimensões de 39,3 cm por 14,8 cm, devendo os rectângulos destinados à inscrição do trabalho prestado, em número de 23 para cada dia da semana, ter as dimensões mínimas de 1,5 cm por 1 cm.
 

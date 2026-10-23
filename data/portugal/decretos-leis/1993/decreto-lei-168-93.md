@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/109a00/24742476.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/1993/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1993-275053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c257acaddb011446b529e669b8c11e84ad7d5443ae7ffd91ffadfa3c47742ddd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73614d7cb0934f9115c3efeaf815b6679ba91c7bef56f747934b84ef8d140339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política de Cooperação
-- Definição de Competências
 - Ação Social
-- Voluntariado
-- Jovem
+- Definição de Competências
 - Instituto da Juventude
+- Jovem
+- Política de Cooperação
 - Proteção Social
+- Voluntariado
 relationships:
 - type: amended_by
   target: pt:dre:226063:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:226063:por
+  label: "Revogado pelo DEC LEI.198/96.1996.10.17.PCM, DR.IS-A [241, continuando a ser aplicável quanto às candidaturas apresentadas\
+    \ antes da entrada em vigor deste último diploma e nos programas em fase de execução.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1996-226063
+  date: '1996-10-17'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:12Z'
   warnings: []
   errors: []
 ---
@@ -247,12 +253,12 @@ As normas técnicas de execução do presente diploma serão aprovadas por porta
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

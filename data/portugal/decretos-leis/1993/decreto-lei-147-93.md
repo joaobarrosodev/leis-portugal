@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/102a00/22202224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/1993/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1993-300009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22aeb8f47b9088acf24d9683536733eb1f91f23db94fecd5aec1877889089d71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f59238ff846b6e075f788f04d467b93dabec5aa0ad04f46c4ee676f9a6a8df82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:354698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:641999:por
+  label: "Alterados os art 2º, 4º, 9º, 11º, 16º e 17º e aditado um art 18º-A pelo Dec Lei.227/97.1997.08.30.PCM, DR.IS-A [200]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1997-641999
+  date: '1997-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/49/1992/04/07/p/dre
   label: null
@@ -89,16 +95,95 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/902/1991/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/902/1991/09/04/p/dre
+- type: cites
+  target: pt:dre:139064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615850:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571072:por
+  label: "Revogado o nº. 2 do art 4º. (integra o Gabinete da Apoio á Imprensa na Secretaria-Geral do Presidência do Conselho\
+    \ de Ministros, criado pelo Dec-Lei 49/92, de 7-Abr), e o art 15º. pelo Dec-Lei 34/97.1997.01.31.PCM DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1997-571072
+  date: '1997-01-31'
+- type: repealed_by
+  target: pt:dre:354698:por
+  label: "Revogado pelo DEC LEI.272/99.1999.07.22.PCM DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1999-354698
+  date: '1999-07-22'
 article_structure:
   article_count: 20
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:46Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +350,9 @@ a) A Divisão de Documentação e Informação Legislativa;
 
 b) A Divisão de Relações Públicas.
 
-###### Artigo 10.º — Divisão de Documentação e Informação Legislativa
+###### Artigo 10.º
+
+##### Divisão de Documentação e Informação Legislativa
 
 1 - Compete à Divisão de Documentação e Informação Legislativa:
 
@@ -285,7 +372,9 @@ g) Dar parecer sobre assuntos da sua competência.
 
 2 - Compete, ainda, à Divisão de Documentação e Informação Legislativa assegurar a criação e manutenção da PCM LEX - base de dados de informação legislativa - no âmbito do DIGESTO - sistema integrado para o tratamento da informação jurídica, em articulação com as bases sectoriais a desenvolver por outros serviços da Administração Pública, promovendo a colaboração com outras bases de dados jurídicas, nacionais e internacionais, e procedendo ao tratamento da documentação considerada pertinente para o respectivo desenvolvimento.
 
-###### Artigo 11.º — Divisão de Relações Públicas
+###### Artigo 11.º
+
+##### Divisão de Relações Públicas
 
 Compete à Divisão de Relações Públicas:
 
@@ -429,12 +518,12 @@ O presente diploma, com excepção do seu artigo 17.º, entra em vigor no dia 1 
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 15 de Abril de 1993.**
+Promulgado em 15 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1993.**
+Referendado em 15 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/1993/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1993-682991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 258adb0ba050d3d66648b74dc90e2a42f1e97fb6f81e591207982a1141385e1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2d1dd65eb4a6414af1cc5ec52cacc79dd1d4bee22bb403407e028a2aa85ddbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,17 +75,25 @@ subjects:
 - Rodoviária do Alentejo
 - Rodoviária do TEJO
 - Rodoviária Nacional Investimentos e Participações
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:313844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:46Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +112,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social das sociedades Rodoviária do Alentejo, S. A., Rodoviária do Tejo, S. A., Rodoviária da Beira Interior, S. A., e Rodoviária da Beira Litoral, S. A., de que é única titular a RNIP - Rodoviária Nacional - Investimentos e Participações, S. A.
+Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social das sociedades Rodoviária do Alentejo, S. A., Rodoviária do Tejo, S. A., Rodoviária da Beira Interior, S. A., e Rodoviária da Beira Litoral, S. A., de que é única titular a RNIP - Rodoviária Nacional - Investimentos e Participações, S. A.
 
 2 - A reprivatização referida no número anterior realizar-se-á segundo o modelo uniforme disciplinado no presente diploma.
 
-###### Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 25% do capital social de cada sociedade a alienar.
+Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 25% do capital social de cada sociedade a alienar.
 
 2 - Será efectuada a alienação em bloco de um lote de acções correspondente a, pelo menos, 75% do capital social de cada sociedade a alienar em leilão competitivo.
 
@@ -116,7 +124,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - Para efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades máximas e mínimas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio em função do número de subscritores, se disso for caso.
 
@@ -128,7 +136,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - Nos 15 dias seguintes ao termo do processo de reprivatização, cada sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um seja titular.
 
-###### Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
+Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
 
 2 - Exceptuadas as transmissões entre os accionistas que compõem o bloco, as acções adquiridas nos termos do n.º 2 do artigo 2.º são indisponíveis durante cinco anos.
 
@@ -138,7 +146,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas.
 
-###### Art. 5.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
+Art. 5.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções, previsto no número seguinte, em condições a fixar na resolução do Conselho de Ministros.
 
@@ -152,26 +160,26 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - As acções adquiridas por pequenos subscritores ou emigrantes não conferem o direito de voto durante o período de indisponibilidade.
 
-###### Art. 6.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 6.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 7.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
+Art. 7.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
 
-###### Art. 8.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Art. 8.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
 
-###### Art. 9.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membos dos órgãos sociais.
+Art. 9.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membos dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma, cada sociedade deverá proceder às necessárias adaptações estatutárias.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

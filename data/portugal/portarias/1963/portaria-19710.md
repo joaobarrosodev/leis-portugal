@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19710-1963-193426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b34afc4f67133e44b9e3cb076d55fcd6af5281cc433c8a1b6f27daa25fd60a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f4e413101a3ba5702ecd1d77e4b1181408d365f161a01b089f19f022a81e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:217753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:05Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +101,9 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 100000$00
+Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 100000$00
 
-###### Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diversos materiais não especificados» ... 20000$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diversos materiais não especificados» ... 20000$00
 
 ... 120000$00
 
@@ -99,7 +111,7 @@ tomando como contrapartida a seguinte disponibilidade da mesma tabela de despesa
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 120000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 120000$00
 
 Esta portaria anula a [Portaria n.º 19629](https://diariodarepublica.pt/dr/detalhe/portaria/19629-1963-217753), de 11 de Janeiro de 1963.
 

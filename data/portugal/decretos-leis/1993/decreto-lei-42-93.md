@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/1993/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1993-656431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e08885fd8f9fb37c646f20d57338d546652f415786e59d358a0429e48cc10067
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ff1d75638f5448966b057e308b4ef59a3d9c6562945021ba4696500a2df033e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/100/1992/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/100/1992/05/28/p/dre
+- type: cites
+  target: pt:dre:515600:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:43Z'
   warnings: []
   errors: []
 ---
@@ -105,18 +109,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - A comissão liquidatária do Centro Coordenador do Trabalho Portuário de Lisboa, instituída pelo [Decreto-Lei n.º 100/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1992-515600), de 28 de Maio, mantém-se em funções até à apresentação da conta final de liquidação, o que deverá ocorrer até 31 de Dezembro de 1993.
+Artigo único. - 1 - A comissão liquidatária do Centro Coordenador do Trabalho Portuário de Lisboa, instituída pelo [Decreto-Lei n.º 100/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1992-515600), de 28 de Maio, mantém-se em funções até à apresentação da conta final de liquidação, o que deverá ocorrer até 31 de Dezembro de 1993.
 
 2 - O presente diploma reporta os seus efeitos a 31 de Dezembro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/286a00/56865687.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/1992/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1992-616446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d205104a93619e902a49b094dc8143ab1c60b572c5110b7c78490fad8addb7ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c58a3d998015eabeb7fbdc498294e7f3c8b93591fe6f1983edabb62e46d8f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral da Saúde
-- Ministro da Saúde
 - Conselho de Prevenção do Tabagismo
+- Direção Geral da Saúde
 - Fiscalização
+- Ministro da Saúde
 - Orgânica
 - Tabagismo
 relationships:
@@ -76,20 +76,59 @@ relationships:
   target: pt:dre:636938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241406:por
+  label: "Alterado o art. 2º do Dec Lei 226/83 de 27-Mai, na redacção dada pelo presente diploma, pelo DEC LEI.283/98.1998.09.17.MEPAT,\
+    \ DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/283-1998-241406
+  date: '1998-09-17'
+- type: amended_by
+  target: pt:dre:209590:por
+  label: "Alterado o art. 1º do Dec Lei 226/83 de 27-Mai, com a redacção deste diploma, pelo DEC LEI.25/2003.2003.02.04.MS\
+    \ DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2003-209590
+  date: '2003-02-04'
+- type: amended_by
+  target: pt:dre:538997:por
+  label: "Alterado o art. 9º-B do Dec Lei 226/83 de 27-Mai, com a redacção conferida pelo presente diploma, pelo DEC LEI.14/2006.20.01.2006.MS,\
+    \ DR.IS-A [15] de 20.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2006-538997
+  date: '2006-01-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682867:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 44/93, PUBLICADA NO DR.IS-A, 76, 2 SUPL, DE 930331.\0331.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/44-1993-682867
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:36Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +145,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 9.º-B, 9.º-C, 13.º, 14.º, 15.º e 17.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 393/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1988-358361), de 8 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º-B, 9.º-C, 13.º, 14.º, 15.º e 17.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 393/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1988-358361), de 8 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º-B — Competência
 
@@ -166,16 +205,16 @@ d) Apoiar a actividade dos serviços públicos em matéria de estudos, inquérit
 
 As despesas resultantes da execução do presente diploma são satisfeitas pelas dotações orçamentais da Direcção-Geral de Saúde.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1993.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - Carlos Alberto Diogo Soares Borrego - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19380-1962-159679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 940b7fe6f4b36b275af60bf6949821da05b67dcd38fa3abb3d01489b580f3592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cb50963bf2d7abdb6ff65636e8f2fff0e3ad2d94377c29c3130ab48e37e47a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:07Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +104,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1424.º «Deslocações do pessoal»:
+Artigo 1424.º «Deslocações do pessoal»:
 
 N.º 4) «Passagens de ou para o exterior por motivo de licença graciosa»:
 
 a) «A pagar na metrópole» ... 500000$00
 
-###### Artigo 1425.º «Diversas despesas»:
+Artigo 1425.º «Diversas despesas»:
 
 N.º 13) «Despesas com valores selados»:
 
@@ -118,7 +130,7 @@ Direcção dos Serviços das Alfândegas
 
 Despesas com o pessoal:
 
-###### Artigo 759.º «Remunerações certas ao pessoal em exercício»:
+Artigo 759.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 130000$00
 
@@ -130,7 +142,7 @@ Comarca do Lobito
 
 Diversos encargos:
 
-###### Artigo 1010.º «Encargos de instalações»:
+Artigo 1010.º «Encargos de instalações»:
 
 N.º 1) «Rendas de casa» ... 170000$00
 
@@ -140,13 +152,13 @@ Serviço de aeronáutica civil
 
 Despesas com o pessoal:
 
-###### Artigo 1338.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1338.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 319000$00
 
 Serviço meteorológico
 
-###### Artigo 1347.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1347.º «Remunerações certas ao pessoal em exercício»:
 
 2) «Pessoal contratado - Vencimentos» ... 1000$00
 
@@ -156,7 +168,7 @@ Direcção dos Serviços de Marinha
 
 Diversos encargos:
 
-###### Artigo 1371.º «Encargos administrativos»:
+Artigo 1371.º «Encargos administrativos»:
 
 N.º 4) «Subsídio pelo serviço marítimo entre Santo António do Zaire e Cabinda» ... 181000$00
 

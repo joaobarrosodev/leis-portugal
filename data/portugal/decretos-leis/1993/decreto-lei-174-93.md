@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/1993/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1993-275603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf68e6be3e44b6cf7c4904ce9ea510d44487f03d68dc703a0f3f3363d8b2235b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2dc1f6e585f4a932b8b19606a98658cbc66434e21e8cc4c7ea8fa351a8c2aff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral dos Serviços Prisionais
 - Conselho Superior da Guarda Prisional
 - Criação de Serviços
 - Definição de Competências
+- Direcção Geral dos Serviços Prisionais
 - Estatuto
-- Sistema Retributivo
 - Guarda Prisional
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:124500724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417038:por
+  label: "Alterados os artigos 12.º, 13.º e 28.º pelo DEC LEI.100/96.23.07.1996.MJ, DR.IS-A [169] de 23.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1996-417038
+  date: '1996-07-23'
+- type: amended_by
+  target: pt:dre:666773:por
+  label: "Alterado o art. 7.º pelo DEC LEI.403/99.1999.10.14.MJ DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1999-666773
+  date: '1999-10-14'
+- type: amended_by
+  target: pt:dre:661159:por
+  label: "Alterado o quadro de pessoal pela PORT.1106/99.1999.12.23.MF DR.IS-B [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1106-1999-661159
+  date: '1999-12-23'
+- type: amended_by
+  target: pt:dre:319898:por
+  label: "Alterados os arts. 5º, 11º a 16º, 18º, 19º, 28º, 35º e 36º, aditados os arts. 15º-A, 15º-B e 46º e revogados os\
+    \ arts. 20º, 37º, 38º e 39º pelo DEC LEI.33/2001.2001.02.08.MJ,DR.IS-A [33]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2001-319898
+  date: '2001-02-08'
+- type: amended_by
+  target: pt:dre:476927:por
+  label: "Alterado o artigo 17.º pelo DEC LEI.391-C/2007.24.12.2007.MJ, DR.IS [247]2ºSupl de 24.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-c-2007-476927
+  date: '2007-12-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/295/1992/12/30/p/dre
   label: null
@@ -86,16 +112,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/1991/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/1991/01/18/p/dre
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606115:por
+  label: "Revogado, a partir de 01.02.2014, o presente diploma, na redação do Dec Lei 100/96, de 8-fev, do Dec Lei 403/99,\
+    \ de 14-out, do Dec Lei 33/2001, de 08-fev, e na redação do Dec Lei 391-C/2007, de 24-dez, pelo DEC LEI.3/2014.09.01.2014.MJ,\
+    \ DR.IS [7] de 09.01.2014\014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2014-606115
+  date: '2014-01-09'
 article_structure:
   article_count: 45
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:21Z'
   warnings: []
   errors: []
 ---
@@ -582,20 +647,20 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Gomes de Carvalho.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf))](https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf)
 
 ## ANEXO II — Mapa a que se refere o n.º 2 do artigo 12.º do Decreto-Lei n.º 174/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf))](https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/110a00/24912498.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/243a00/49004901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/1992/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1992-221361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25853a4ce864374be6f60b5c9dee76350873a3a5bbd4b6d211fdaf73c92b7fbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df49d165e045baf3ddb6a33fd0a4ff1837deba7eb43bc902472bfd6c4db850d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- CEE
-- Reprodução Animal
 - Banco de Órgãos
-- Política Agrícola Comum
-- Pecuária
+- CEE
 - Comércio
+- Pecuária
+- Política Agrícola Comum
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:200907657:por
@@ -94,16 +94,22 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:200907657:por
+  label: Revogado, a partir de 01.01.2023, o presente diploma, pelo(a) Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022,
+    Série I de 2022-09-13 e nos termos do seu art. 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2022-200907657
+  date: '2022-09-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:30Z'
   warnings: []
   errors: []
 ---
@@ -124,19 +130,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/174/CEE](https://data.europa.eu/eli/dir/1991/174/oj?locale=pt), do Conselho, de 25 de Março, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/174/CEE](https://data.europa.eu/eli/dir/1991/174/oj?locale=pt), do Conselho, de 25 de Março, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por animal de raça todo o animal de criação abrangido pelo anexo II do [Tratado da CEE](https://diariodarepublica.pt/application/external/tratado), cujas trocas comerciais não sejam objecto de regulamentação comunitária zootécnica específica e que esteja inscrito ou registado num livro ou registo genealógico mantido por uma organização ou associação de criadores reconhecida.
+Art. 2.º Para efeitos do presente diploma, entende-se por animal de raça todo o animal de criação abrangido pelo anexo II do [Tratado da CEE](https://diariodarepublica.pt/application/external/tratado), cujas trocas comerciais não sejam objecto de regulamentação comunitária zootécnica específica e que esteja inscrito ou registado num livro ou registo genealógico mantido por uma organização ou associação de criadores reconhecida.
 
-###### Art. 3.º - 1 - A comercialização de animais de raça e do seu esperma, óvulos e embriões não pode ser proibida, limitada ou dificultada por razões zootécnicas ou genealógicas.
+Art. 3.º - 1 - A comercialização de animais de raça e do seu esperma, óvulos e embriões não pode ser proibida, limitada ou dificultada por razões zootécnicas ou genealógicas.
 
 2 - As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
 3 - Até à data da entrada em vigor da portaria referida no número anterior, continua a aplicar-se a legislação nacional vigente.
 
-###### Art. 4.º Até ao início da aplicação de regulamentação comunitária sobre a matéria, as condições aplicáveis às importações de animais de raça, seu esperma, óvulos e embriões provenientes de países terceiros não podem ser mais favoráveis do que as que regem as trocas comerciais intracomunitárias.
+Art. 4.º Até ao início da aplicação de regulamentação comunitária sobre a matéria, as condições aplicáveis às importações de animais de raça, seu esperma, óvulos e embriões provenientes de países terceiros não podem ser mais favoráveis do que as que regem as trocas comerciais intracomunitárias.
 
-###### Art. 5.º - 1 - Constituem contra-ordenações as infracções ao disposto no n.º 1 do artigo 3.º e às normas técnicas referidas no n.º 2 do mesmo artigo.
+Art. 5.º - 1 - Constituem contra-ordenações as infracções ao disposto no n.º 1 do artigo 3.º e às normas técnicas referidas no n.º 2 do mesmo artigo.
 
 2 - As contra-ordenações referidas no número anterior são puníveis com coima, a aplicar pelo director-geral da Pecuária, cujo montante mínimo é de 500$00 e máximo de 500000$00.
 
@@ -144,9 +150,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A negligência é punível.
 
-###### Art. 6.º Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
+Art. 6.º Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 7.º O produto das coimas reverte:
+Art. 7.º O produto das coimas reverte:
 
 a) Em 20% para a Direcção-Geral da Pecuária;
 
@@ -154,16 +160,16 @@ b) Em 20% para a entidade autuante;
 
 c) Em 60% para o Estado.
 
-###### Art. 8.º Compete à Direcção-Geral da Pecuária a fiscalização das normas constantes do presente diploma e respectiva regulamentação, sem prejuízo das competências atribuídas por lei a outras entidades.
+Art. 8.º Compete à Direcção-Geral da Pecuária a fiscalização das normas constantes do presente diploma e respectiva regulamentação, sem prejuízo das competências atribuídas por lei a outras entidades.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Outubro de 1992.**
+Promulgado em 6 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1992.**
+Referendado em 7 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

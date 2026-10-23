@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/049a00/11131113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/1992/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1992-165062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdca4e27192b170dd46474c85af1ced06e24ea359b9db075c74233354d66a06b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba7587e5ef2310c15f134cebed042d0e6a43e2eeddc1a4be228c4141b85b42d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,21 @@ relationships:
   target: celex:31990L0423
   label: null
   source: http://data.europa.eu/eli/dir/1990/423/oj
+- type: repealed_by
+  target: pt:dre:233086:por
+  label: "Revogado, pelo DEC LEI.108/2005.05.07.2005.MADRP, DR.IS-A [127] de 05.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2005-233086
+  date: '2005-07-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:56Z'
   warnings: []
   errors: []
 ---
@@ -113,24 +118,24 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica proibida, fora das condições previstas no artigo seguinte, a vacinação contra a febre aftosa, bem como a comercialização do imunogénio.
+Artigo 1.º Fica proibida, fora das condições previstas no artigo seguinte, a vacinação contra a febre aftosa, bem como a comercialização do imunogénio.
 
-###### Art. 2.º - 1 - Quando esteja confirmada a presença da febre aftosa serão determinadas medidas sanitárias de prevenção e controlo da evolução da doença e, quando exista a possibilidade de tomar carácter extensivo, pode ser determinada a realização de uma vacinação de emergência, segundo regras técnicas que garantam aos animais uma total imunidade.
+Art. 2.º - 1 - Quando esteja confirmada a presença da febre aftosa serão determinadas medidas sanitárias de prevenção e controlo da evolução da doença e, quando exista a possibilidade de tomar carácter extensivo, pode ser determinada a realização de uma vacinação de emergência, segundo regras técnicas que garantam aos animais uma total imunidade.
 
 2 - O modo de concretização dessa vacinação bem como as demais normas técnicas necessárias à execução do presente diploma serão estabelecidas por portaria do Ministro da Agricultura.
 
-###### Art. 3.º Para efeitos do presente diploma e da legislação comunitária aplicável, considera-se autoridade sanitária nacional no continente a Direcção-Geral da Pecuária e nas Regiões Autónomas dos Açores e da Madeira os serviços das administrações regionais com idênticas atribuições e competências.
+Art. 3.º Para efeitos do presente diploma e da legislação comunitária aplicável, considera-se autoridade sanitária nacional no continente a Direcção-Geral da Pecuária e nas Regiões Autónomas dos Açores e da Madeira os serviços das administrações regionais com idênticas atribuições e competências.
 
-###### Art. 4.º São revogados os Decretos-Leis n.os 473/80, de 14 de Outubro, e 244/82, de 22 de Junho.
+Art. 4.º São revogados os Decretos-Leis n.os 473/80, de 14 de Outubro, e 244/82, de 22 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Arlindo Marques da Cunha.
 
-**Promulgado em 7 de Fevereiro de 1992.**
+Promulgado em 7 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Fevereiro de 1992.**
+Referendado em 13 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

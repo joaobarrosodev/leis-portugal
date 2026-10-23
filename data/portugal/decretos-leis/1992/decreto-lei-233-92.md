@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/244a00/49174918.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/1992/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1992-221149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaed92d91186d20817ac0ed1c86c0d8a951d04cec05eb2cdd30648e86d647a9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c22bd4498b3db194a0ed9b731d40356a23921bffeb60bd70169db777c5a0c0de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Produto Alimentar
 - Inspecção dos Alimentos
+- Produto Alimentar
 - Proteção Fitossanitária
 - Vegetais
 relationships:
@@ -75,16 +75,25 @@ relationships:
   target: pt:dre:300984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355567:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300984:por
+  label: "Revogado pelo DEC LEI.154/94.1994.05.28.MA, DR.IS-A [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1994-300984
+  date: '1994-05-28'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:40Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +110,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto-Lei n.º 348/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1988-355567), de 30 de Setembro, um capítulo VI, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto-Lei n.º 348/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1988-355567), de 30 de Setembro, um capítulo VI, com a seguinte redacção:
 
 ### CAPÍTULO VI — Acordo de Schengen
 
@@ -117,18 +126,18 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - O disposto nos números anteriores só se aplica quando à importação pelos Estados em causa de vegetais, produtos vegetais e outros objectos originários ou provenientes de Portugal seja aplicado idêntico regime.
 
-###### Art. 2.º É revogado o n.º 2 do artigo 36.º do [Decreto-Lei n.º 348/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1988-355567), de 30 de Setembro.
+Art. 2.º É revogado o n.º 2 do artigo 36.º do [Decreto-Lei n.º 348/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1988-355567), de 30 de Setembro.
 
-###### Art. 3.º O capítulo VI do [Decreto-Lei n.º 348/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1988-355567), de 30 de Setembro, passa a capítulo VII, com a mesma epígrafe.
+Art. 3.º O capítulo VI do [Decreto-Lei n.º 348/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1988-355567), de 30 de Setembro, passa a capítulo VII, com a mesma epígrafe.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - António José Fernandes de Sousa.
 
-**Promulgado em 4 de Outubro de 1992.**
+Promulgado em 4 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

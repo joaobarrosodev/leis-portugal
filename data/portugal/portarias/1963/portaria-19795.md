@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19795-1963-194827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba8db087edbbbf89ec58cdbcac680b90eb885bd29a6a7186ce1b7bed8b3bd03d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88f98b39bd4c2e0e05bfa4be0dd64ce850a85e6c95c76e7209c12fe7b5f59f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Moçambique.Colónia Portuguesa
+- Orçamento
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:163408:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:59Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +96,21 @@ Tendo em atenção a autorização dada pelo Conselho de Ministros para os Assun
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos da alínea c) do n.º 5.º do n.º I da base XI da Lei Orgânica do Ultramar Português, fixar nas seguintes quantias as receitas previstas nas rubricas que se indicam do orçamento da receita extraordinária do orçamento geral em vigor na província de Moçambique:
 
-### Capítulo 9.º «Receita extraordinária»:
+Capítulo 9.º «Receita extraordinária»:
 
-###### Artigo 178.º «Importância da parte dos saldos das contas de exercícios findos a aplicar a»:
+Artigo 178.º «Importância da parte dos saldos das contas de exercícios findos a aplicar a»:
 
 22) «II Plano de Fomento» ... 50000000$00
 
-###### Artigo 180.º «Imposto das sobrevalorizações a aplicar a»:
+Artigo 180.º «Imposto das sobrevalorizações a aplicar a»:
 
 1) «II Plano de Fomento» ... 8000000$00
 
-###### Artigo 181.º «Comparticipação dos serviços dos portos, caminhos de ferro e transportes a aplicar a»:
+Artigo 181.º «Comparticipação dos serviços dos portos, caminhos de ferro e transportes a aplicar a»:
 
 1) «II Plano de Fomento» ... 45100000$00
 
-###### Artigo 182.º «Produto de empréstimos a aplicar a»:
+Artigo 182.º «Produto de empréstimos a aplicar a»:
 
 1) «II Plano de Fomento» ... 476900000$00
 

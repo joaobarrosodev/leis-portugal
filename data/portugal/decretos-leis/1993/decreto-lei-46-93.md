@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/1993/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1993-656820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa8c3b964cf42d25e9a5688a1d0c97d365aedb17148c22262c60775ba05fe4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a148fc64ca2d3c2d7652d4aab36f07f76303f1c9145bb1685aad56b3e2d29b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,6 +83,17 @@ relationships:
   target: pt:dre:546202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544611:por
+  label: "Mantido em vigor pelo DEC LEI.119/99.1999.04.14.MTS, DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1999-544611
+  date: '1999-04-14'
+- type: amended_by
+  target: pt:dre:546202:por
+  label: "Determinada a manutenção em vigor do presente diploma, pelo DEC LEI.220/2006.03.11.2006.MTSSO, DR.IS [212] de 03.11.2006,\
+    \ nos termos do art. 83.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2006-546202
+  date: '2006-11-03'
 - type: cites
   target: celex:31971R1408
   label: null
@@ -90,13 +101,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:57Z'
   warnings: []
   errors: []
 ---
@@ -165,12 +176,12 @@ Se o beneficiário, mesmo com o recurso à totalização dos períodos de seguro
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

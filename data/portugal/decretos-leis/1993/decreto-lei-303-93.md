@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/303/1993/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1993-633534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 667239da7f43cd8da5fbdaa08f9239ece573823dd93e42763c78285a38e47778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c15340d7873c38400c8caa88b3e3c5581557127448e5aed357f478ff4a431a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
 subjects:
 - Código da SISA e do Imposto sobre Sucessões e Doações
 - Código de Processo Tributário
-- Sisa
 - Imposto sobre Sucessões e Doações
 - Operações de Tesouraria
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:176554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176554:por
+  label: "Alterado o art. 327º do Código de Processo Tributário, aprovado pelo Dec Lei 154/91 de 23-Abr, na redacção constante\
+    \ do presente diploma, pelo DEC LEI.47/95.1995.03.10.MF, DR.IS-A [59]\0-A [59]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1995-176554
+  date: '1995-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
@@ -83,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:12Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +133,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Os artigos 105.º e 127.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passam a ter a seguinte redacção:
 
-###### Art. 105.º ...
+Art. 105.º ...
 
 § único. O pagamento dos salários e transporte dos louvados será suportado pelo Estado, por conta da competente dotação orçamental; quando reembolsadas pelo contribuinte, as importâncias respectivas serão escrituradas em receita do Estado, ficando consignadas ao serviço ou organismo que suportou a respectiva despesa.
 
-###### Art. 127.º Para efeitos do disposto no artigo 121.º, o chefe da repartição de finanças fará a liquidação do desconto no processo e emitirá o correspondente documento de cobrança pela receita líquida, com prazo limite de pagamento, cuja não observância dará origem à emissão de novo documento de cobrança sem desconto.
+Art. 127.º Para efeitos do disposto no artigo 121.º, o chefe da repartição de finanças fará a liquidação do desconto no processo e emitirá o correspondente documento de cobrança pela receita líquida, com prazo limite de pagamento, cuja não observância dará origem à emissão de novo documento de cobrança sem desconto.
 
 ###### Artigo 2.º — Alterações ao Código de Processo Tributário
 
@@ -197,12 +215,12 @@ Ficam expressamente revogados pelo presente diploma os artigos 113.º, 114.º e 
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

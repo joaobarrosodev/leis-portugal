@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a48918fb8a8b01e6cf4a0ae573a778fdc2524aa41bd59c2f22fd757c15ff8f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 850a526304428b72c950cb0845b1e8cdcd59aeb51eca5a6644e7189bab54167c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Medicina Pedagógica
-- Pessoal Dirigente
-- Ministério da Educação
 - Delegação Escolar
 - Direcção Escolar
+- Direcção Regional de Educação
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação do Alentejo
 - Direcção Regional de Educação do Algarve
 - Direcção Regional de Educação do Centro
 - Direcção Regional de Educação do Norte
 - Extinção de Serviços
-- Direcção Regional de Educação
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência de Pessoal
@@ -86,6 +86,36 @@ relationships:
   target: pt:dre:432449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299451:por
+  label: "Alterado o quadro transitório constante do anexo II, pelo DN.520/94.19.07.1994.MF, DR.IS-B [165] de 19.07.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/520-1994-299451
+  date: '1994-07-19'
+- type: amended_by
+  target: pt:dre:225444:por
+  label: "Alterado o quadro transitório constante do anexo II, pelo DN.601/94.12.08.1994.MF, DR.IS-B [186] de 12.08.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/601-1994-225444
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:219374:por
+  label: "Alterado o art. 8º e substítuido o quadro do pessoal dirigente de cada DRE constante do anexo I ao presente diploma\
+    \ pelo DEC LEI.168/96.1996.09.18.ME, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-1996-219374
+  date: '1996-09-18'
+- type: amended_by
+  target: pt:dre:523595:por
+  label: "Alterado o nº 1 do art. 8º e substituído o quadro de pessoal constante do anexo ao presente diploma, com as alterações\
+    \ introduzidas pelo Dec Lei 168/96 de 18-Set, pelo DEC LEI.148/98.1998.05.23.ME DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1998-523595
+  date: '1998-05-23'
+- type: amended_by
+  target: pt:dre:377891:por
+  label: "Transferido o pessoal médico e de enfermagem oriundo dos ex-centros de medicina pedagógica, integrado no quadro\
+    \ de pessoal constante do anexo II deste diploma, pelo DEC LEI.210/2001.2001.07.28.MS DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2001-377891
+  date: '2001-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
@@ -94,16 +124,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+- type: cites
+  target: pt:dre:227046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:616597:por
+  label: "Rectificada a alínea j) do artigo 3.º e n.º 3 do artigo 19.º pela DECL-RECT.140/93.31.07.1993.PCM, DR.IS-A [178]Supl\
+    \ de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/140-1993-616597
+  date: '1993-07-31'
+- type: repealed_by
+  target: pt:dre:401911:por
+  label: "Revogada a al. h) do art. 6º pelo DEC LEI.143/96.1996.08.26.ME, DR.IS-A [197]\097]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1996-401911
+  date: '1996-08-26'
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº 2 do art. 35º, pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:41Z'
   warnings: []
   errors: []
 ---
@@ -428,7 +506,9 @@ b) Secção de Pessoal, Expediente e Arquivo.
 
 3 - As secções da RAG exercem as suas competências em articulação com a Secretaria-Geral do Ministério.
 
-###### Artigo 17.º — Secção de Administração Financeira e Patrimonial
+###### Artigo 17.º
+
+#### Secção de Administração Financeira e Patrimonial
 
 À Secção de Administração Financeira e Patrimonial compete:
 
@@ -456,7 +536,9 @@ l) Organizar os concursos públicos e a celebração de contratos para aquisiç�
 
 m) Assegurar a gestão dos serviços de economato, procedendo ao apetrechamento dos serviços.
 
-###### Artigo 18.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 18.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 À Secção de Pessoal, Expediente e Arquivo compete:
 
@@ -544,16 +626,16 @@ e) O [Decreto-Lei n.º 386/90](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf)

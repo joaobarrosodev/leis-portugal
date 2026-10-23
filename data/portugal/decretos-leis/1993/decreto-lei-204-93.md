@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/204/1993/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1993-257595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd62feaf3f266ab560e592045bb0aa286458fec03926e9f6adc9088363ba52bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9188e57364a57b36a840fab1a0fb24e95109bf44b420d967ac64d510b7e31d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Acidente Ecológico
 - Acidente Nuclear
-- Atividade Industrial
 - Aproximação das Legislações
-- Proteção Civil
+- Atividade Industrial
 - Autoridade Técnica de Riscos Indústriais Graves
+- Catástrofe
 - CEE
 - Contra-ordenação
-- Acidente Ecológico
 - Estabelecimento Industrial
-- Segurança no Trabalho
 - Fiscalização
-- Catástrofe
-- Proteção do Ambiente
 - Plano de Emergência
 - Política Social
+- Proteção Civil
+- Proteção do Ambiente
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:340234:por
@@ -94,16 +94,22 @@ relationships:
   target: celex:31988L0610
   label: null
   source: http://data.europa.eu/eli/dir/1988/610/oj
+- type: repealed_by
+  target: pt:dre:340234:por
+  label: "Revogado pelo DEC LEI.164/2001.2001.05.23.MAOT DR.IS-A [119], sem prejuízo do disposto no nº 2 do art. 50º daquele\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2001-340234
+  date: '2001-05-23'
 article_structure:
   article_count: 23
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:01Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +130,7 @@ Assim, procede-se à substituição de conceitos anteriormente adoptados, design
 
 Por sua vez, o resultado da experiência de aplicação colhida demonstrou a necessidade de, atempadamente, melhor identificar o universo das actividades industriais e, agora, de armazenagem de substâncias e ou preparações perigosas genericamente abrangidas, bem como de prever a possibilidade de uma mais adequada e ampla prevenção dos riscos de acidentes industriais graves no que concerne às obrigações da notificação da segurança.
 
-# Parte importante da matéria inovadora respeita ao dever de notificar, aos elementos da notificação da segurança, às obrigações do responsável pela actividade, às informações sobre estabelecimentos licenciados, à informação das populações e à comunicação de acidentes industriais graves.
+Parte importante da matéria inovadora respeita ao dever de notificar, aos elementos da notificação da segurança, às obrigações do responsável pela actividade, às informações sobre estabelecimentos licenciados, à informação das populações e à comunicação de acidentes industriais graves.
 
 Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e Madeira.
 
@@ -472,15 +478,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Manuel Dias Loureiro - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estabelecimentos industriais considerados no artigo 2.º
 
@@ -548,19 +554,19 @@ Em todo o caso, tais quantidades aplicam-se a cada conjunto de armazéns pertenc
 
 As quantidades a considerar são as quantidades máximas que estejam ou possam estar armazenadas em qualquer momento.
 
-# PARTE I — Substâncias designadas
+## PARTE I — Substâncias designadas
 
 Quando uma substância (ou grupo de substâncias) mencionada na parte I for igualmente abrangida por uma categoria da parte II, devem ser tomadas em consideração as quantidades fixadas na parte I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf))](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
 
-# PARTE II — Categorias de substâncias e de preparações não especificadas na parte I
+## PARTE II — Categorias de substâncias e de preparações não especificadas na parte I
 
 As quantidades das várias substâncias e preparações (1) de uma mesma categoria são cumulativas.
 
 Sempre que houver mais de uma categoria especificada no mesmo número, as quantidades de todas as substâncias e preparações das categorias especificadas nesse número devem ser adicionadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf))](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
 
 ## ANEXO III — Lista de substâncias para aplicação dos artigos 7.º, 8.º, 11.º e 12.º
 
@@ -568,7 +574,7 @@ Sempre que houver mais de uma categoria especificada no mesmo número, as quanti
 
 2 - Em todo o caso, estas quantidades consideram-se como pertencendo a um conjunto de instalações do mesmo industrial se a distância entre elas for inferior a 500 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf))](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
 
 ## ANEXO IV — Critérios indicadores
 
@@ -578,11 +584,11 @@ a) As substâncias que correspondem à primeira linha do quadro;
 
 b) As substâncias que correspondem à segunda linha do quadro, que, devido às suas propriedades físicas e químicas, podem ocasionar riscos de acidentes graves análogos aos ocasionados pelas substâncias da primeira linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf))](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
 
 2 - Outras substâncias tóxicas - as substâncias que apresentam os valores seguintes de toxicidade aguda e que têm propriedades físicas e químicas, podendo causar riscos de acidentes graves:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf))](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/129a00/29963007.pdf)
 
 3 - Substâncias inflamáveis:
 

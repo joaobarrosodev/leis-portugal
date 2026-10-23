@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 288/1992, 1º Suplemento, Série I-A de 1992-12-15
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5776-(2) a 5776-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/288a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/277/1992/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1992-532052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d8706d8b286ba2540ac67746518ebe642a023b5a200283d8fee40a6edab0e60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed576312b3dd05616381bca6d280b64c49d3c362102e8c4070a9ae01fb6dd213
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- CTT
 - Cisão de Empresas
-- Telecom Portugal
-- Serviço Público
 - Comunicações
+- CTT
+- Reestruturação de Serviços
+- Serviço Público
+- Telecom Portugal
 - Transferência de Pessoal
 relationships:
 - type: amended_by
@@ -90,16 +90,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
+- type: cites
+  target: pt:dre:522187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264277:por
+  label: "Revogado pelo DEC LEI.122/94.1994.05.14.MOPTC, DR.IS-A [112], a partir da data da produção de efeitos da fusão prevista\
+    \ naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1994-264277
+  date: '1994-05-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:36Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +164,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Telecom Portugal, S. A., a criar por cisão dos Correios e Telecomunicações de Portugal, S. A. (CTT, S. A.), tem por objecto o estabelecimento, a gestão e a exploração, das infra-estruturas e do serviço público de telecomunicações, bem como, directamente ou através da constituição ou participação em sociedades, o exercício de quaisquer actividades que sejam complementares, subsidiárias ou acessórias daquelas.
+Artigo 1.º - 1 - A Telecom Portugal, S. A., a criar por cisão dos Correios e Telecomunicações de Portugal, S. A. (CTT, S. A.), tem por objecto o estabelecimento, a gestão e a exploração, das infra-estruturas e do serviço público de telecomunicações, bem como, directamente ou através da constituição ou participação em sociedades, o exercício de quaisquer actividades que sejam complementares, subsidiárias ou acessórias daquelas.
 
 2 - Até à celebração do respectivo contrato de concessão, a Telecom Portugal, S. A., continuará a prestar o serviço público de telecomunicações referido no número anterior, nos mesmos termos em que vinha a ser prestado pelos CTT, S. A.
 
 3 - Os direitos e obrigações emergentes para os CTT, S. A., da [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro, do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, do [Decreto-Lei n.º 147/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1991-615857), de 12 de Abril, e do [Decreto-Lei n.º 329/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1990-565415), de 23 de Outubro, continuam a produzir todos os seus efeitos na esfera jurídica da Telecom Portugal, S. A.
 
-###### Art. 2.º - 1 - A cisão concretiza-se com a deliberação da assembleia geral que a aprovar, sendo todos os actos necessários à mesma, designadamente o prévio aumento de capital social, bem como a constituição da Telecom Portugal, S. A., e a consequente alteração dos estatutos dos CTT, S. A., apenas documentados, sem outros formalismos, pelas actas das respectivas deliberações da assembleia geral, as quais constituem título suficiente para os necessários registos.
+Art. 2.º - 1 - A cisão concretiza-se com a deliberação da assembleia geral que a aprovar, sendo todos os actos necessários à mesma, designadamente o prévio aumento de capital social, bem como a constituição da Telecom Portugal, S. A., e a consequente alteração dos estatutos dos CTT, S. A., apenas documentados, sem outros formalismos, pelas actas das respectivas deliberações da assembleia geral, as quais constituem título suficiente para os necessários registos.
 
 2 - É aplicável o disposto no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, a todas as operações e actos relacionados com a cisão dos CTT, S. A., no quadro do respectivo processo de privatização.
 
@@ -138,7 +180,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras ou outras que celebraram contratos com os CTT, E. P., as mesmas relações de suporte, relativamente àqueles que venham a ser transmitidos para a Telecom Portugal, S. A., não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 3.º - 1 - Os trabalhadores e pensionistas dos CTT, S. A., oriundos dos CTT, E. P., transferidos por efeito da cisão para a Telecom Portugal, S. A., mantêm, perante esta, todos os direitos e obrigações de que eram titulares na empresa cindida, ficando a Telecom Portugal, S. A., obrigada a assegurar a manutenção do fundo de Pensões a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, na quota-parte respectiva.
+Art. 3.º - 1 - Os trabalhadores e pensionistas dos CTT, S. A., oriundos dos CTT, E. P., transferidos por efeito da cisão para a Telecom Portugal, S. A., mantêm, perante esta, todos os direitos e obrigações de que eram titulares na empresa cindida, ficando a Telecom Portugal, S. A., obrigada a assegurar a manutenção do fundo de Pensões a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, na quota-parte respectiva.
 
 2 - Os regimes jurídicos definidos na legislação aplicável ao pessoal dos CTT, S. A., oriundo dos CTT, E. P., continuarão a produzir efeitos relativamente aos trabalhadores, pensionistas e beneficiários abrangidos por esses regimes e transferidos para a Telecom Portugal, S. A.
 
@@ -152,12 +194,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Dezembro de 1992.**
+Referendado em 14 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

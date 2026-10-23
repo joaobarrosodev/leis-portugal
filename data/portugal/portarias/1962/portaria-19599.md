@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19599-1962-154806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60ca66a97060605f953174d7de2a55b46bfb194b189ec992b60a2dce1c6c93c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac2961c7b32306943d6e0edb2b61fcb687d98505b7852a14fddacae3b393c922
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,28 @@ relationships:
   target: pt:dre:687631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687630:por
+  label: "Alterada, na parte respeitante à missão diplomática em Copenhaga, pela PORT.20129.21.10.1963.MNE, DG.IS [247] de\
+    \ 21.10.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20129-1963-687630
+  date: '1963-10-21'
+- type: amended_by
+  target: pt:dre:687631:por
+  label: "Alterada, na parte respeitante à missão diplomática em Pretória, pela PORT.20130.21.10.1963.MNE, DG.IS [247] de\
+    \ 21.10.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20130-1963-687631
+  date: '1963-10-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:48Z'
   warnings: []
   errors: []
 ---

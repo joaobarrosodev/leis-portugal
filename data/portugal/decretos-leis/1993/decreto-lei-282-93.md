@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/282/1993/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91c074d4d0aa11318fcefcac462b3e1c6174f65bb7276f3435e9ccd3febe248d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25335c44a69a74124ecd9f330c1b59a36eaa56094a34b1c8006e61d822b1c0b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - Atividade Industrial
 - Autoridade Técnica de Riscos Indústriais Graves
-- Multa
-- Ordenamento do Território
-- Higiene do Trabalho
 - Contra-ordenação
 - Estabelecimento Industrial
-- Segurança no Trabalho
 - Fiscalização
+- Higiene do Trabalho
 - Licenciamento
-- Proteção do Ambiente
+- Multa
+- Ordenamento do Território
 - Poluição Industrial
+- Proteção do Ambiente
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:520846:por
@@ -98,16 +98,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:257595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226807:por
+  label: "Revogado o Dec Lei 109/91 de 15-Mar, alterado pelo presente diploma, pelo DEC LEI.69/2003.2003.04.10.MECO, DR.IS-A\
+    \ [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2003-226807
+  date: '2003-04-10'
 article_structure:
-  article_count: 39
+  article_count: 38
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:47Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +190,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º, 3.º, 9.º a 11.º, 14.º a 16.º, 19.º, 20.º e 24.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 3.º, 9.º a 11.º, 14.º a 16.º, 19.º, 20.º e 24.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -234,15 +300,15 @@ Os estabelecimentos industriais existentes sem licença ou cujo processo de lice
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Republicação do texto integral do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março
 

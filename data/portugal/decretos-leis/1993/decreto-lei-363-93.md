@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/363/1993/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1993-669122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0630a74232031118985af575153069d84cd2f47b9cd2643d25a20cbd021d15aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb8676e64ba2393dbf49da073f05754dd6c15602d17ec9b203e0a1b488c72d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Ponte de Vasco da GAMA
-- Lisboa
-- RIO TEJO
-- Ponte
 - ÁREA NON Aedificandi
+- Lisboa
+- Ordenamento do Território
+- Ponte
+- Ponte de Vasco da GAMA
+- RIO TEJO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/243/1992/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/243/1992/10/29/p/dre
+- type: cites
+  target: pt:dre:217699:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:28Z'
   warnings: []
   errors: []
 ---
@@ -103,20 +107,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A planta a que se refere o artigo 1.º do [Decreto-Lei n.º 243/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1992-217699), de 29 de Outubro, é substituída pela planta anexa ao presente diploma, que dele faz parte integrante.
+Artigo 1.º A planta a que se refere o artigo 1.º do [Decreto-Lei n.º 243/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1992-217699), de 29 de Outubro, é substituída pela planta anexa ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º O Gabinete da Travessia do Tejo em Lisboa (GATTEL) remeterá às entidades mencionadas no artigo 6.º do [Decreto-Lei n.º 243/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1992-217699), de 29 de Outubro, e no prazo de 15 dias, contado a partir da data da entrada em vigor do presente diploma, os elementos, designadamente topográficos, à escala adequada, que permitam a rigorosa identificação das alterações introduzidas pelo artigo anterior.
+Art. 2.º O Gabinete da Travessia do Tejo em Lisboa (GATTEL) remeterá às entidades mencionadas no artigo 6.º do [Decreto-Lei n.º 243/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1992-217699), de 29 de Outubro, e no prazo de 15 dias, contado a partir da data da entrada em vigor do presente diploma, os elementos, designadamente topográficos, à escala adequada, que permitam a rigorosa identificação das alterações introduzidas pelo artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 28 de Setembro de 1993.**
+Promulgado em 28 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1993.**
+Referendado em 2 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/246a00/59045905.pdf))](https://files.diariodarepublica.pt/1s/1993/10/246a00/59045905.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/246a00/59045905.pdf)

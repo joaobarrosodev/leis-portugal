@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/282/1992/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1992-623858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a2e7c266fa2958012f6dd85b3e60526228d434f501ca6f674da5dfccf24f745
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6395c39c636a3c5ac5dbcd72b15c7788453eb0e65a52ec1ac3783780d408a340
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Código de Processo Tributário
+- Modernização Administrativa
 - Registos e Notariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:46Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +105,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 106.º do Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 106.º do Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, passa a ter a seguinte redacção:
 
 ###### Artigo 106.º — [...]
 
@@ -111,12 +115,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

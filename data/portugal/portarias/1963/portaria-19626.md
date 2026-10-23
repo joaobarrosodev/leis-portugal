@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19626-1963-217748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 275969bc75ab60a9b85d9e2f7ee301d5f0fdf61fde1b02584b27b9ec4cc4a42b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d054c69977febf91a7ef2429312e9c6494c5b4e6ff721d8551893061288ef5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Despesas Públicas
+- Gestão Orçamental
+- Macau.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:19Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +100,11 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 22000$00
+Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 22000$00
 
-###### Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 10911$60
+Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 10911$60
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 6000$00
+Artigo 13.º «Despesas de anos económicos findos» ... 6000$00
 
 ... 38911$60
 
@@ -101,15 +112,15 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 6000$00
+Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 6000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Despesas gerais com o recrutamento» ... 5000$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Despesas gerais com o recrutamento» ... 5000$00
 
-###### Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais» ... 17000$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais» ... 17000$00
 
-###### Artigo 10.º, n.º 6), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 10911$60
+Artigo 10.º, n.º 6), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 10911$60
 
 ... 38911$60
 

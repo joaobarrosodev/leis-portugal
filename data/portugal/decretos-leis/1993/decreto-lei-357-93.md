@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/357/1993/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1993-668323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 468219d4a5cf024ad03fed4a57cce9908d598b793c9345b1892d629cdf5e5f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c484dfd04151420b8a02f14c0da9fe43b6b40a4ec2a6b5c0594b5c4e685cd3a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Administração Pública
 - Caixa Geral de Aposentações
-- Macau
+- Função Pública
 - Integração de Trabalhadores
+- Macau
 - Pensão de Aposentação
 - Pensão de Preço de Sangue
 - Quadro de Efectivos Interdepartamentais
@@ -78,16 +78,33 @@ relationships:
   target: pt:dre:533782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL-RECT 198/93 DE 15-OUT DA PCM DR.IS-A [244]SUPL DE 18/OUT/1993\0UT/1993"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-18'
+- type: amended_by
+  target: pt:dre:372062:por
+  label: "Prorrogado o prazo previsto nos n.º 1 e 2 do art. 10.º, pelo DEC LEI.246/99.1999.07.01.MF DR.IS-A [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1999-372062
+  date: '1999-07-01'
+- type: amended_by
+  target: pt:dre:533782:por
+  label: "Alterado o presente diploma (na parte relativa à data relevante para efeitos de determinação da carreira e categoria\
+    \ de integração dos funcionários de Macau aos serviços da República Portuguesa, pelo DEC LEI.346/99.1999.08.27.PCM DR.IS-A\
+    \ [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/346-1999-533782
+  date: '1999-08-27'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:22Z'
   warnings: []
   errors: []
 ---
@@ -232,12 +249,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1993. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - Domingos Manuel Martins Jerónimo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 29 de Setembro de 1993.**
+Promulgado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Setembro de 1993.**
+Referendado em 29 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

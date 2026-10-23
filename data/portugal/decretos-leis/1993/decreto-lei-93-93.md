@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/1993/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1993-643682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e60fadb99564084d46fed46bc0b0ffe2136faced5d9b4f690495321b6abe8b22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb5fe1bb3d2752cf24e688f61a2480bb93eddb61bbac4da5dffe4a104b1ea966
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AGA
-- Sociedade Anónima
 - Capital Social
 - Empresa Pública
 - Estatuto
 - Personalidade Jurídica
 - Privatização
+- Sociedade Anónima
 - Sociedade Instaladora de Mercados Abastecedores
 - Transferência Patrimonial
 relationships:
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:575728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575728:por
+  label: "Clarificada a identificação cadastral do prédio rústico referido na última linha do anexo III, pelo DEC LEI.258/95.1995.09.30.MCT,\
+    \ DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1995-575728
+  date: '1995-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1992/06/22/p/dre
   label: null
@@ -88,16 +94,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/1991/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/1991/05/15/p/dre
+- type: cites
+  target: pt:dre:218931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641424:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:53Z'
   warnings: []
   errors: []
 ---
@@ -128,29 +182,29 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I
 
-###### Artigo 1.º - 1 - Por destaque do património da AGA - Administração-Geral do Açúcar e do Álcool, E. P., dos elementos constantes do anexo I ao presente diploma, nos termos dos n.os 2 e 3 do artigo 40.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, é criada uma nova empresa pública, com a denominação de Sociedade Instaladora de Mercados Abastecedores (SIMAB), E. P.
+Artigo 1.º - 1 - Por destaque do património da AGA - Administração-Geral do Açúcar e do Álcool, E. P., dos elementos constantes do anexo I ao presente diploma, nos termos dos n.os 2 e 3 do artigo 40.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, é criada uma nova empresa pública, com a denominação de Sociedade Instaladora de Mercados Abastecedores (SIMAB), E. P.
 
 2 - São igualmente integrados no património inicial da SIMAB, E. P., os bens constantes dos anexos II e III ao presente diploma, que para esse efeito são transferidos do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) e do Estado, respectivamente.
 
 3 - A SIMAB, E. P., rege-se pelos estatutos constantes do anexo IV, pelo presente diploma, pela legislação aplicável às empresas públicas e pela legislação especial que lhe seja aplicável em razão do seu objecto.
 
-###### Art. 2.º O capital estatutário da SIMAB, E. P., é de 3000000000$00.
+Art. 2.º O capital estatutário da SIMAB, E. P., é de 3000000000$00.
 
-###### Art. 3.º Os poderes de tutela do Governo sobre a SIMAB, E. P., são exercidos pelos Ministros das Finanças e do Comércio e Turismo.
+Art. 3.º Os poderes de tutela do Governo sobre a SIMAB, E. P., são exercidos pelos Ministros das Finanças e do Comércio e Turismo.
 
 ### CAPÍTULO II — Art. 4.º A SIMAB, E. P., é transformada em sociedade anónima, com a denominação social de SIMAB - Sociedade Instaladora de Mercados Abastecedores, S. A.
 
-###### Art. 5.º A SIMAB, S. A., sucede, automática e globalmente, à empresa pública SIMAB, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 5.º A SIMAB, S. A., sucede, automática e globalmente, à empresa pública SIMAB, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
-###### Art. 6.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de gerência da SIMAB, E. P., ou do conselho de administração da sociedade anónima em que ela se transformará nos termos do presente diploma.
+Art. 6.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de gerência da SIMAB, E. P., ou do conselho de administração da sociedade anónima em que ela se transformará nos termos do presente diploma.
 
 2 - As transmissões de bens operadas nos termos do presente diploma e os correspondentes registos estão isentos de emolumentos e de outros encargos legais que se mostrem devidos.
 
-###### Art. 7.º - 1 - São aprovados os estatutos da SIMAB, S. A., constantes do anexo V, que não carecem de redução a escritura pública e produzem efeitos relativamente a terceiros independentemente de registo, o qual, no entanto, deve ser efectuado oficiosamente, com isenção de taxas ou emolumentos, nos 60 dias seguintes à entrada em vigor deste diploma, com base no Diário da República em que hajam sido publicados.
+Art. 7.º - 1 - São aprovados os estatutos da SIMAB, S. A., constantes do anexo V, que não carecem de redução a escritura pública e produzem efeitos relativamente a terceiros independentemente de registo, o qual, no entanto, deve ser efectuado oficiosamente, com isenção de taxas ou emolumentos, nos 60 dias seguintes à entrada em vigor deste diploma, com base no Diário da República em que hajam sido publicados.
 
 2 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 8.º - 1 - O capital social inicial da SIMAB, S. A., é integralmente subscrito e realizado pelo Estado com os valores integrantes do património da Sociedade.
+Art. 8.º - 1 - O capital social inicial da SIMAB, S. A., é integralmente subscrito e realizado pelo Estado com os valores integrantes do património da Sociedade.
 
 2 - As acções de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
@@ -158,35 +212,35 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - No capital social da SIMAB, S. A., podem vir a participar outras entidades do sector público ou privado, quer por alienação das acções detidas pelo Estado, quer por aumento de capital.
 
-###### Art. 9.º - 1 - É por esta forma convocada a assembleia geral da SIMAB, S. A., a qual reunirá na sede da Sociedade às 17 horas do dia imediato ao da entrada em vigor do presente artigo ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 9.º - 1 - É por esta forma convocada a assembleia geral da SIMAB, S. A., a qual reunirá na sede da Sociedade às 17 horas do dia imediato ao da entrada em vigor do presente artigo ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Até à tomada de posse dos membros eleitos nos termos do número anterior, os membros do conselho de gerência e da comissão de fiscalização da AGA - Administração-Geral do Açúcar e do Álcool, E. P., em funções à data da publicação do presente diploma, exercerão as funções, respectivamente, de membros do conselho de gerência da SIMAB, E. P., e do conselho de administração da SIMAB, S. A., e da comissão de fiscalização da SIMAB, E. P., e do conselho fiscal da SIMAB, S. A.
 
 ### CAPÍTULO III
 
-###### Art. 10.º - 1 - A AGA - Administração-Geral do Açúcar e do Álcool, E. P., com o património remanescente do destaque referido no n.º 1 do artigo 1.º, é transformada em sociedade anónima, com a denominação de AGA - Álcool e Géneros Alimentares, S. A.
+Art. 10.º - 1 - A AGA - Administração-Geral do Açúcar e do Álcool, E. P., com o património remanescente do destaque referido no n.º 1 do artigo 1.º, é transformada em sociedade anónima, com a denominação de AGA - Álcool e Géneros Alimentares, S. A.
 
 2 - A AGA, S. A., reger-se-á pelo presente diploma, pelos estatutos constantes do anexo VI, pelas normas aplicáveis às sociedades anónimas e por legislação especial que lhe seja aplicável em razão do seu objecto.
 
 3 - A AGA, S. A., sucede automática e globalmente à empresa pública AGA - Administração-Geral do Açúcar e do Álcool, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação, com ressalva do destaque referido no n.º 1 do artigo 1.º
 
-###### Art. 11.º - 1 - O capital social da AGA, S. A., é de 750000000$00, totalmente subscrito e realizado pelo Estado com os valores integrantes do património da sociedade.
+Art. 11.º - 1 - O capital social da AGA, S. A., é de 750000000$00, totalmente subscrito e realizado pelo Estado com os valores integrantes do património da sociedade.
 
 2 - As acções de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
 3 - Os direitos do Estado como accionista da sociedade serão exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo, salvo quando a gestão tenha sido cometida a outra entidade, nos termos do número anterior.
 
-###### Art. 12.º - 1 - O presente diploma constitui título bastante para a execução e comprovação do disposto nos artigos 10.º e 11.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação ou requerimento subscrito por dois membros do conselho de administração da AGA, S. A.
+Art. 12.º - 1 - O presente diploma constitui título bastante para a execução e comprovação do disposto nos artigos 10.º e 11.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação ou requerimento subscrito por dois membros do conselho de administração da AGA, S. A.
 
 2 - São aprovados os estatutos da AGA, S. A., constantes do anexo VI, que não carecem de redução a escritura pública e produzem efeitos relativamente a terceiros independentemente de registo, o qual, no entanto, deve ser efectuado oficiosamente, com isenção de taxas ou emolumentos, nos 60 dias seguintes à entrada em vigor deste diploma, com base no Diário da República em que hajam sido publicados.
 
 3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 13.º É por esta forma convocada a assembleia geral da AGA, S. A., a qual reunirá na sede da sociedade às 18 horas do dia subsequente à entrada em vigor do presente diploma ou no 1.º dia útil imediato, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 13.º É por esta forma convocada a assembleia geral da AGA, S. A., a qual reunirá na sede da sociedade às 18 horas do dia subsequente à entrada em vigor do presente diploma ou no 1.º dia útil imediato, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
 
-###### Art. 14.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a AGA - Administração-Geral do Açúcar e do Álcool, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ou os seus efeitos ser considerados como alteração de circunstâncias para efeito dos referidos contratos.
+Art. 14.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a AGA - Administração-Geral do Açúcar e do Álcool, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ou os seus efeitos ser considerados como alteração de circunstâncias para efeito dos referidos contratos.
 
-###### Art. 15.º - 1 - Os trabalhadores e os pensionistas da AGA - Administração-Geral do Açúcar e do Álcool, E. P., mantêm perante a AGA, S. A., todos os direitos e obrigações que detinham à data da entrada em vigor do presente diploma.
+Art. 15.º - 1 - Os trabalhadores e os pensionistas da AGA - Administração-Geral do Açúcar e do Álcool, E. P., mantêm perante a AGA, S. A., todos os direitos e obrigações que detinham à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na AGA, S. A., ou na SIMAB, S. A., ou nas sociedades cuja constituição esta venha a promover em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo a antiguidade, a reforma e outros que usufruiriam se tivessem permanecido no serviço de origem.
 
@@ -196,25 +250,25 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - O processo de transferência referido no número anterior operar-se-á nos termos a acordar entre as administrações das duas empresas.
 
-###### Art. 16.º - 1 - A alienação das acções da empresa AGA, S. A., será regulada, nos termos da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, e do [Decreto-Lei n.º 328/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1988-355521), de 27 de Setembro, por resolução do Conselho de Ministros.
+Art. 16.º - 1 - A alienação das acções da empresa AGA, S. A., será regulada, nos termos da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, e do [Decreto-Lei n.º 328/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1988-355521), de 27 de Setembro, por resolução do Conselho de Ministros.
 
 2 - O processo de alienação será precedido de uma avaliação feita, pelo menos, por duas entidades independentes, escolhidas de entre as pré-qualificadas no concurso realizado pelo Ministério das Finanças para efeito de avaliação das empresas a reprivatizar.
 
-###### Art. 17.º As transmissões de bens utilizadas para execução do presente diploma estão isentas do pagamento de sisa, nos termos do [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, de emolumentos e de outros encargos legais, incluindo os de registo, no âmbito do respectivo processo de privatização.
+Art. 17.º As transmissões de bens utilizadas para execução do presente diploma estão isentas do pagamento de sisa, nos termos do [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, de emolumentos e de outros encargos legais, incluindo os de registo, no âmbito do respectivo processo de privatização.
 
-###### Art. 18.º O presente diploma produz efeitos no dia imediato ao da sua publicação, com excepção dos seus artigos 4.º a 9.º, cuja vigência se inicia no 15.º dia após aquela mesma data.
+Art. 18.º O presente diploma produz efeitos no dia imediato ao da sua publicação, com excepção dos seus artigos 4.º a 9.º, cuja vigência se inicia no 15.º dia após aquela mesma data.
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Álvaro dos Santos Amaro - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 9 Março de 1993.**
+Promulgado em 9 Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1993.**
+Referendado em 10 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Bens a destacar do património da AGA - Administração-Geral do Açúcar e do Álcool, E. P., para a Sociedade Instaladora dos Mercados Abastecedores (SIMAB), E. P.
 
@@ -270,73 +324,73 @@ Prédio rústico denominado «Quinta do Alvito», sito em Alenquer.
 
 ## ANEXO IV — Estatutos da SIMAB, E. P.
 
-###### Artigo 1.º A SIMAB, E. P., é uma empresa pública, criada por cisão da AGA - Administração-Geral do Açúcar e do Álcool, E. P., nos termos do Decreto-Lei n.º 93/93, de 24 de Março.
+Artigo 1.º A SIMAB, E. P., é uma empresa pública, criada por cisão da AGA - Administração-Geral do Açúcar e do Álcool, E. P., nos termos do Decreto-Lei n.º 93/93, de 24 de Março.
 
-###### Art. 2.º A sede da SIMAB, E. P., é em Lisboa.
+Art. 2.º A sede da SIMAB, E. P., é em Lisboa.
 
-###### Art. 3.º A SIMAB, E. P., tem por objecto a promoção, construção, instalação, exploração e gestão, directa ou indirectamente, de mercados destinados ao comércio por grosso de produtos alimentares e não alimentares e actividades complementares.
+Art. 3.º A SIMAB, E. P., tem por objecto a promoção, construção, instalação, exploração e gestão, directa ou indirectamente, de mercados destinados ao comércio por grosso de produtos alimentares e não alimentares e actividades complementares.
 
-###### Art. 4.º O capital estatutário da SIMAB, E. P., é de 3000000000$00 e encontra-se totalmente realizado com os bens transferidos para o seu património nos termos do Decreto-Lei n.º 93/93, de 24 de Março.
+Art. 4.º O capital estatutário da SIMAB, E. P., é de 3000000000$00 e encontra-se totalmente realizado com os bens transferidos para o seu património nos termos do Decreto-Lei n.º 93/93, de 24 de Março.
 
-###### Art. 5.º Pelas dívidas da SIMAB, E. P., responde exclusivamente o seu património.
+Art. 5.º Pelas dívidas da SIMAB, E. P., responde exclusivamente o seu património.
 
-###### Art. 6.º Os poderes de tutela do Governo sobre a SIMAB, E. P., são exercidos pelos Ministros das Finanças e do Comércio e Turismo.
+Art. 6.º Os poderes de tutela do Governo sobre a SIMAB, E. P., são exercidos pelos Ministros das Finanças e do Comércio e Turismo.
 
-###### Art. 7.º São órgãos da SIMAB, E. P.:
+Art. 7.º São órgãos da SIMAB, E. P.:
 
 a) O conselho de gerência;
 
 b) A comissão de fiscalização.
 
-###### Art. 8.º O conselho de gerência é composto por três membros.
+Art. 8.º O conselho de gerência é composto por três membros.
 
-###### Art. 9.º A comissão de fiscalização é composta por três membros.
+Art. 9.º A comissão de fiscalização é composta por três membros.
 
-###### Art. 10.º A todas as matérias que não se encontram expressamente reguladas nestes estatutos aplica-se o disposto na lei geral.
+Art. 10.º A todas as matérias que não se encontram expressamente reguladas nestes estatutos aplica-se o disposto na lei geral.
 
 ## ANEXO V — Estatutos da SIMAB - Sociedade Instaladora de Mercados Abastecedores, S. A.
 
 ### CAPÍTULO I — Denominação, sede, objecto e duração da Sociedade
 
-###### Artigo 1.º A sociedade anónima que, por força do Decreto-Lei n.º 93/93, de 24 de Março, continua a personalidade jurídica da empresa pública SIMAB, E. P., adopta a denominação de SIMAB - Sociedade Instaladora de Mercados Abastecedores, S. A.
+Artigo 1.º A sociedade anónima que, por força do Decreto-Lei n.º 93/93, de 24 de Março, continua a personalidade jurídica da empresa pública SIMAB, E. P., adopta a denominação de SIMAB - Sociedade Instaladora de Mercados Abastecedores, S. A.
 
-###### Art. 2.º - 1 - A Sociedade tem sede em Lisboa.
+Art. 2.º - 1 - A Sociedade tem sede em Lisboa.
 
 2 - O conselho de administração poderá mudar a sede da Sociedade dentro do concelho de Lisboa ou para concelho limítrofe.
 
-###### Art. 3.º - 1 - A Sociedade tem por objecto a promoção, construção, instalação, exploração e gestão, directa ou indirectamente, de mercados destinados ao comércio por grosso de produtos alimentares e não alimentares e actividades complementares e, bem assim, a prossecução de quaisquer outras actividades complementares ou subsidiárias, incluindo a gestão de participações sociais e a organização e gestão de serviços relacionados com o seu objecto principal.
+Art. 3.º - 1 - A Sociedade tem por objecto a promoção, construção, instalação, exploração e gestão, directa ou indirectamente, de mercados destinados ao comércio por grosso de produtos alimentares e não alimentares e actividades complementares e, bem assim, a prossecução de quaisquer outras actividades complementares ou subsidiárias, incluindo a gestão de participações sociais e a organização e gestão de serviços relacionados com o seu objecto principal.
 
 2 - Por deliberação do conselho de administração, a Sociedade pode participar no capital social de quaisquer outras sociedades, mesmo que reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico.
 
-###### Art. 4.º A Sociedade durará por tempo indeterminado.
+Art. 4.º A Sociedade durará por tempo indeterminado.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 5.º O capital social é de 3000000000$00, está integralmente realizado e é representado por 3000000 de acções com o valor nominal de 1000$00 cada uma.
+Art. 5.º O capital social é de 3000000000$00, está integralmente realizado e é representado por 3000000 de acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 6.º - 1 - As acções são nominativas, podendo ser emitidos títulos de 1, 5, 10, 100, 1000 ou múltiplos de 1000 acções.
+Art. 6.º - 1 - As acções são nominativas, podendo ser emitidos títulos de 1, 5, 10, 100, 1000 ou múltiplos de 1000 acções.
 
 2 - Os títulos são assinados por dois administradores, podendo ambas as assinaturas ser de chancela.
 
 3 - As acções podem ser escriturais nos termos da legislação aplicável.
 
-###### Art. 7.º Por deliberação da assembleia geral, a Sociedade pode emitir obrigações e outros títulos de dívida.
+Art. 7.º Por deliberação da assembleia geral, a Sociedade pode emitir obrigações e outros títulos de dívida.
 
 ### CAPÍTULO III — Órgãos da Sociedade
 
-###### Art. 8.º São órgãos da Sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º São órgãos da Sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
-###### Art. 9.º As remunerações dos membros dos órgãos sociais e, bem assim, os regimes de segurança social e reforma e outras eventuais prestações suplementares a eles aplicáveis serão fixados pela assembleia geral ou por uma comissão de accionistas por ela designada.
+Art. 9.º As remunerações dos membros dos órgãos sociais e, bem assim, os regimes de segurança social e reforma e outras eventuais prestações suplementares a eles aplicáveis serão fixados pela assembleia geral ou por uma comissão de accionistas por ela designada.
 
-###### Art. 10.º Os mandatos dos membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal serão de três anos, sendo permitida a reeleição uma ou mais vezes.
+Art. 10.º Os mandatos dos membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal serão de três anos, sendo permitida a reeleição uma ou mais vezes.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 11.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto. A cada 100 acções corresponde um voto.
+Art. 11.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto. A cada 100 acções corresponde um voto.
 
 2 - A assembleia geral elegerá um presidente e um secretário para a mesa da assembleia geral, os quais podem não ser accionistas.
 
-###### Art. 12.º - 1 - A assembleia geral pode deliberar em primeira convocação sobre quaisquer matérias desde que estejam presentes ou representados accionistas que representem pelo menos 51% do capital social.
+Art. 12.º - 1 - A assembleia geral pode deliberar em primeira convocação sobre quaisquer matérias desde que estejam presentes ou representados accionistas que representem pelo menos 51% do capital social.
 
 2 - Devem ser aprovadas pelos votos representativos de pelo menos 51% do capital social as deliberações sobre as seguintes matérias:
 
@@ -350,15 +404,15 @@ d) Eleição dos membros do conselho de administração, do conselho fiscal e da
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 13.º - 1 - O conselho de administração é composto por um presidente e dois, quatro ou seis vogais, conforme deliberação da assembleia geral que proceder à eleição.
+Art. 13.º - 1 - O conselho de administração é composto por um presidente e dois, quatro ou seis vogais, conforme deliberação da assembleia geral que proceder à eleição.
 
 2 - O presidente, que terá o direito a voto de qualidade, é designado pela assembleia geral.
 
 3 - Por deliberação da assembleia geral, os administradores podem ser dispensados da prestação de caução.
 
-###### Art. 14.º O conselho de administração poderá delegar em um ou mais dos seus membros poderes e competências de gestão e representação social e, ainda, a gestão corrente da Sociedade, devendo estabelecer os limites dessa delegação e o modo do seu exercício quando a delegação seja feita em mais do que um membro.
+Art. 14.º O conselho de administração poderá delegar em um ou mais dos seus membros poderes e competências de gestão e representação social e, ainda, a gestão corrente da Sociedade, devendo estabelecer os limites dessa delegação e o modo do seu exercício quando a delegação seja feita em mais do que um membro.
 
-###### Art. 15.º - 1 - A Sociedade obriga-se pela assinatura:
+Art. 15.º - 1 - A Sociedade obriga-se pela assinatura:
 
 a) De dois administradores;
 
@@ -370,13 +424,13 @@ c) De mandatário ou mandatários constituídos, no âmbito dos correspondentes 
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 16.º - 1 - O conselho fiscal é composto por três membros efectivos e um suplente, sendo o presidente designado pela assembleia geral que proceder à eleição.
+Art. 16.º - 1 - O conselho fiscal é composto por três membros efectivos e um suplente, sendo o presidente designado pela assembleia geral que proceder à eleição.
 
 2 - Um dos membros efectivos e o suplente serão revisores oficiais de contas.
 
 ### CAPÍTULO IV — Aplicação de resultados
 
-###### Art. 17.º Os resultados positivos apurados em cada exercício terão a seguinte aplicação:
+Art. 17.º Os resultados positivos apurados em cada exercício terão a seguinte aplicação:
 
 a) Um mínimo de 10% para constituição ou reintegração da reserva legal, até atingir o mínimo legalmente exigível;
 
@@ -384,7 +438,7 @@ b) O remanescente conforme for deliberado pela assembleia geral, podendo o monta
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 18.º - 1 - A Sociedade dissolve-se nos casos e termos legais.
+Art. 18.º - 1 - A Sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da Sociedade reger-se-á pelas disposições legais aplicáveis e pelas deliberações da assembleia geral.
 
@@ -392,23 +446,23 @@ b) O remanescente conforme for deliberado pela assembleia geral, podendo o monta
 
 ### CAPÍTULO I — Denominação, sede, objecto e duração da sociedade
 
-###### Artigo 1.º A sociedade anónima que, por força do Decreto-Lei n.º 93/93, de 24 de Março, continua a personalidade jurídica da empresa pública AGA - Administração-Geral do Açúcar e do Álcool, E. P., adopta a denominação de AGA - Álcool e Géneros Alimentares, S. A.
+Artigo 1.º A sociedade anónima que, por força do Decreto-Lei n.º 93/93, de 24 de Março, continua a personalidade jurídica da empresa pública AGA - Administração-Geral do Açúcar e do Álcool, E. P., adopta a denominação de AGA - Álcool e Géneros Alimentares, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem a sua sede em Lisboa, na Rua de Castilho, 14-C, 5.º
+Art. 2.º - 1 - A sociedade tem a sua sede em Lisboa, na Rua de Castilho, 14-C, 5.º
 
 2 - O conselho de administração pode mudar a sede da sociedade dentro do concelho de Lisboa ou para concelho limítrofe.
 
-###### Art. 3.º - 1 - O objecto da sociedade é o comércio de álcool e produtos alimentares nos mercados interno e internacional, podendo também desenvolver outras actividades afins ou complementares.
+Art. 3.º - 1 - O objecto da sociedade é o comércio de álcool e produtos alimentares nos mercados interno e internacional, podendo também desenvolver outras actividades afins ou complementares.
 
 2 - Por deliberação do conselho de administração, a sociedade pode participar no capital social de quaisquer outras sociedades, mesmo que reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico.
 
-###### Art. 4.º A sociedade durará por tempo indeterminado.
+Art. 4.º A sociedade durará por tempo indeterminado.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 5.º O capital social é de 750000000$00, está integralmente realizado e é representado por 750000 acções com o valor nominal de 1000$00 cada uma.
+Art. 5.º O capital social é de 750000000$00, está integralmente realizado e é representado por 750000 acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 6.º - 1 - As acções são nominativas ou ao portador, reciprocamente convertíveis a todo o tempo.
+Art. 6.º - 1 - As acções são nominativas ou ao portador, reciprocamente convertíveis a todo o tempo.
 
 2 - As acções podem revestir forma escritural, nos termos da legislação aplicável.
 
@@ -418,27 +472,27 @@ b) O remanescente conforme for deliberado pela assembleia geral, podendo o monta
 
 5 - A sociedade pode emitir acções preferenciais sem voto.
 
-###### Art. 7.º Por deliberação da assembleia geral, a sociedade pode emitir obrigações e outros títulos de dívida.
+Art. 7.º Por deliberação da assembleia geral, a sociedade pode emitir obrigações e outros títulos de dívida.
 
 ### CAPÍTULO III — Órgãos da sociedade
 
-###### Art. 8.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
-###### Art. 9.º As remunerações dos órgãos sociais e, bem assim, os regimes de segurança social e reforma e outras eventuais prestações suplementares a eles aplicáveis serão fixados pela assembleia geral ou por uma comissão de accionistas por ela designada.
+Art. 9.º As remunerações dos órgãos sociais e, bem assim, os regimes de segurança social e reforma e outras eventuais prestações suplementares a eles aplicáveis serão fixados pela assembleia geral ou por uma comissão de accionistas por ela designada.
 
-###### Art. 10.º Os membros da assembleia geral, do conselho de administração e do conselho fiscal exercem as suas funções por períodos de três anos, renováveis.
+Art. 10.º Os membros da assembleia geral, do conselho de administração e do conselho fiscal exercem as suas funções por períodos de três anos, renováveis.
 
-###### Art. 11.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto. A cada 100 acções corresponde um voto.
+Art. 11.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto. A cada 100 acções corresponde um voto.
 
 2 - A assembleia geral elegerá um presidente, um vice-presidente e um secretário para a mesa da assembleia geral, os quais podem não ser accionistas.
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente e dois vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente e dois vogais.
 
 2 - O presidente, que terá direito a voto de qualidade, é designado pela assembleia geral que proceder à eleição.
 
 3 - Por deliberação da assembleia geral, os administradores podem ser dispensados da prestação de caução.
 
-###### Art. 13.º - 1 - A sociedade obriga-se pela assinatura:
+Art. 13.º - 1 - A sociedade obriga-se pela assinatura:
 
 a) De dois administradores;
 
@@ -448,13 +502,13 @@ c) De mandatário ou mandatários constituídos, no âmbito dos correspondentes 
 
 2 - Em assuntos de mero expediente bastará a assinatura de um administrador.
 
-###### Art. 14.º - 1 - O conselho fiscal é composto por três membros efectivos e um suplente, sendo o presidente designado pela assembleia geral que proceder à eleição.
+Art. 14.º - 1 - O conselho fiscal é composto por três membros efectivos e um suplente, sendo o presidente designado pela assembleia geral que proceder à eleição.
 
 2 - Um dos membros efectivos e o suplente serão revisores oficiais de contas.
 
 ### CAPÍTULO IV — Aplicação de resultados
 
-###### Art. 15.º Os resultados positivos apurados em cada exercício terão a seguinte aplicação:
+Art. 15.º Os resultados positivos apurados em cada exercício terão a seguinte aplicação:
 
 a) Um mínimo de 10% para constituição ou reintegração da reserva legal, até atingir o mínimo legalmente exigível;
 
@@ -462,6 +516,6 @@ b) O remanescente conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 16.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 16.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições legais aplicáveis e pelas deliberações da assembleia geral.

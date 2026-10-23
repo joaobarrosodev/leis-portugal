@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1993-646301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf979be379186482ca1d55cd9a255239a1c89c34112449cef1d37959d057c9fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7924a845f0b003aa0b9de3196c75674c760685113ab57ee7f29738dc59919b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Chiado
-- Renovação Urbana
-- Prorrogação de Prazo
+- Financiamento
 - Prédio Urbano
+- Prorrogação de Prazo
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:414405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DOS ART 2, 3 E 12 DO DEC LEI 356/88 DE 13-OUT, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO\
+    \ DEC LEI 161/95 DE 06-JUL DR.IS-A [154]\0S-A [154]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:463664:por
+  label: "Dada nova redacção ao art. 12º do Dec Lei 356/88 de 13-Out, alterado pelo presente diploma, pelo DEC LEI.161/95.06.07.1995.MF,\
+    \ DR.IS-A [154] de 06.07.1995 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1995-463664
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:213800:por
+  label: "Dada nova redacção ao art. 2º do Dec Lei 356/88, de 13-Out, alterado pelo presente diploma, pelo DEC LEI.184/96.27.09.1996.MF,\
+    \ DR.IS-A [225] de 27.09.1996 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1996-213800
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:229285:por
+  label: "Dada nova redacção aos arts. 2º, 3º e 12º do Dec Lei 356/88, de 13-Out, alterados pelo presente diploma, pelo DEC\
+    \ LEI.26/98.1998.02.10.MF, DR.IS-A [34]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1998-229285
+  date: '1998-02-10'
+- type: cites
+  target: pt:dre:355098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:07Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +140,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º e 12.º do [Decreto-Lei n.º 356/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098), de 13 de Outubro, alterado pelo [Decreto-Lei n.º 174/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1990-574762), de 4 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º e 12.º do [Decreto-Lei n.º 356/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098), de 13 de Outubro, alterado pelo [Decreto-Lei n.º 174/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1990-574762), de 4 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -162,18 +194,18 @@ h) Obras de conservação e beneficiação de edifícios particulares e de remod
 
 2 - ...
 
-###### Art. 2.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
+Art. 2.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a00/55425543.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a00/55425543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a00/55425543.pdf)

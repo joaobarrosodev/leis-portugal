@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1994/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1994-262838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dfa9e404f9073a325087fe242ca83fc3f23e6953c70a2c077e298a6961553b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89649490d23b0bb22e1450d9db849aaac1ae4acc0f67082856ffcf00826b3e3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - BASE Aérea
 - Exército
-- Força Aérea
 - Extinção de Serviços
+- Força Aérea
 - Integração de Trabalhadores
 - Museu do Ar
 - Transferência Patrimonial
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/51/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657447:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:48Z'
   warnings: []
   errors: []
 ---
@@ -105,34 +113,34 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a Base Aérea n.º 3 (BA3), sediada em Tancos.
+Artigo 1.º - 1 - É extinta a Base Aérea n.º 3 (BA3), sediada em Tancos.
 
 2 - São integrados no Exército, nos termos das disposições seguintes, o pessoal civil a prestar serviço na BA3, o material e as infra-estruturas afectos à BA3.
 
-###### Art. 2.º - 1 - O pessoal pertencente ao quadro geral de pessoal civil da Força Aérea transita, nos termos da lei geral, para o quadro de pessoal civil do Exército, mediante portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
+Art. 2.º - 1 - O pessoal pertencente ao quadro geral de pessoal civil da Força Aérea transita, nos termos da lei geral, para o quadro de pessoal civil do Exército, mediante portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
 
 2 - A transição do pessoal referido no número anterior é acompanhada da respectiva dotação orçamental.
 
-###### Art. 3.º O material da Força Aérea atribuído à BA3 é integrado no Exército, nos termos a definir por despacho conjunto dos Chefes dos Estados-Maiores do Exército e da Força Aérea.
+Art. 3.º O material da Força Aérea atribuído à BA3 é integrado no Exército, nos termos a definir por despacho conjunto dos Chefes dos Estados-Maiores do Exército e da Força Aérea.
 
-###### Art. 4.º Mantêm-se em vigor as servidões militares e aeronáuticas relativas às infra-estruturas transferidas para o Exército.
+Art. 4.º Mantêm-se em vigor as servidões militares e aeronáuticas relativas às infra-estruturas transferidas para o Exército.
 
-###### Art. 5.º - 1 - A Força Aérea presta colaboração ao Exército no âmbito da operação dos sistemas e da manutenção das instalações de apoio à actividade aérea.
+Art. 5.º - 1 - A Força Aérea presta colaboração ao Exército no âmbito da operação dos sistemas e da manutenção das instalações de apoio à actividade aérea.
 
 2 - A cobertura dos encargos decorrentes do disposto no número anterior é objecto de despacho conjunto dos Chefes dos Estados-Maiores do Exército e da Força Aérea.
 
-###### Art. 6.º O Museu do Ar é depositário do património histórico da extinta BA3.
+Art. 6.º O Museu do Ar é depositário do património histórico da extinta BA3.
 
-###### Art. 7.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1994.
+Art. 7.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1994.
 
 Visto a aprovado em Conselho de Ministros de 24 de Março de 1994. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

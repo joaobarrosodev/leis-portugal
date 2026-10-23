@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/294/1993/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1993-325900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b100624fb433ca1b4a58a4a8abc118806140a7e5de9d8c1444fd5b9d67ae8087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f815c91a0d401bd3e34332ebcbfcd9851b03c5408b5e230494e5c77e674c6168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Conta Poupança-habitação
 - Crédito à Habitação
-- IRS
 - Habitação
-- Benefícios Fiscais
+- IRS
 relationships:
 - type: amended_by
   target: pt:dre:583436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429399:por
+  label: "Alterada a redacção do art. 12º do Dec Lei 328/89 de 06-Nov, na redacção dada pelo presente diploma, pelo DEC LEI.211/95.1995.08.17.MF,\
+    \ DR.IS-A [189]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1995-429399
+  date: '1995-08-17'
+- type: cites
+  target: pt:dre:550178:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:566793:por
+  label: "RECTIFICADO PELA DECL-RECT 148/93 DR.IS-A [204]3SUPL DE 31/AGO/1993\0/1993"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/148-1993-566793
+  date: '1993-08-31'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:01Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 11.º e 12.º do [Decreto-Lei n.º 382/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178), de 6 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 11.º e 12.º do [Decreto-Lei n.º 382/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178), de 6 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -145,20 +160,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - ...
 
-###### Art. 2.º Durante o corrente ano, os encargos decorrentes da atribuição dos prémios previstos no artigo 12.º do [Decreto-Lei n.º 382/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178), de 6 de Novembro, na redacção dada pelo presente diploma, são suportados pelo orçamento do Instituto Nacional de Habitação.
+Art. 2.º Durante o corrente ano, os encargos decorrentes da atribuição dos prémios previstos no artigo 12.º do [Decreto-Lei n.º 382/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178), de 6 de Novembro, na redacção dada pelo presente diploma, são suportados pelo orçamento do Instituto Nacional de Habitação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Contas poupança-habitação (CPH)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/199a00/45064507.pdf))](https://files.diariodarepublica.pt/1s/1993/08/199a00/45064507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/199a00/45064507.pdf)

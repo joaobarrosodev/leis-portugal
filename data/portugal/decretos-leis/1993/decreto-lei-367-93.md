@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/367/1993/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1993-664553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d07a59282875917c62c6b0ca88c98bd8be09acb5f76953846c66d5dbf29093c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7717e1ae0d55a41c069e11851b08b99b4fb3ecf90714f38c420455fd8b7cd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,45 @@ reuse:
 subjects:
 - ADSE
 - Caixa Geral de Aposentações
+- Comissão Vitivinícola Regional
 - Instituto do Vinho do Porto
 - Integração de Trabalhadores
-- Comissão Vitivinícola Regional
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:33Z'
   warnings: []
   errors: []
 ---
@@ -108,32 +132,32 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinto, decorrido um ano a partir da data da publicação do presente diploma, o quadro de pessoal do Instituto do Vinho do Porto (IVP), a que se referem as Portarias n.os [140/89](https://diariodarepublica.pt/dr/detalhe/portaria/140-1989-612244), de 25 de Fevereiro, e [474/90](https://diariodarepublica.pt/dr/detalhe/portaria/474-1990-575363), de 27 de Junho.
+Artigo 1.º É extinto, decorrido um ano a partir da data da publicação do presente diploma, o quadro de pessoal do Instituto do Vinho do Porto (IVP), a que se referem as Portarias n.os [140/89](https://diariodarepublica.pt/dr/detalhe/portaria/140-1989-612244), de 25 de Fevereiro, e [474/90](https://diariodarepublica.pt/dr/detalhe/portaria/474-1990-575363), de 27 de Junho.
 
-###### Art. 2.º - 1 - Os funcionários integrados no quadro do IVP referido no artigo anterior poderão ser admitidos nos quadros de pessoal das comissões vitivinícolas onde prestam serviço, com sujeição ao regime de contrato individual de trabalho, de acordo com as necessidades destas e tendo em conta, nomeadamente, os conhecimentos, capacidade, experiência e qualificações profissionais demonstrados no exercício das respectivas funções e considerados adequados à exigência dos postos de trabalho a preencher.
+Art. 2.º - 1 - Os funcionários integrados no quadro do IVP referido no artigo anterior poderão ser admitidos nos quadros de pessoal das comissões vitivinícolas onde prestam serviço, com sujeição ao regime de contrato individual de trabalho, de acordo com as necessidades destas e tendo em conta, nomeadamente, os conhecimentos, capacidade, experiência e qualificações profissionais demonstrados no exercício das respectivas funções e considerados adequados à exigência dos postos de trabalho a preencher.
 
 2 - A admissão prevista no número anterior depende da prévia anuência dos funcionários, formalizada através de documento escrito, e deve ser precedida da cessação do vínculo à função pública.
 
 3 - Aos funcionários que não forem integrados nos quadros de pessoal das comissões vitivinícolas, nos termos do n.º 1, aplica-se a lei geral.
 
-###### Art. 3.º Para cômputo da antiguidade dos funcionários admitidos pelas comissões vitivinícolas, nos termos do artigo anterior, releva a totalidade do tempo de serviço prestado aos ex-organismos de coordenação económica e à função pública e, se se encontrarem inscritos na Caixa Geral de Aposentações e na ADSE, poderão optar pela manutenção do mesmo regime, devendo esta opção constar do documento referido no n.º 2 do artigo anterior.
+Art. 3.º Para cômputo da antiguidade dos funcionários admitidos pelas comissões vitivinícolas, nos termos do artigo anterior, releva a totalidade do tempo de serviço prestado aos ex-organismos de coordenação económica e à função pública e, se se encontrarem inscritos na Caixa Geral de Aposentações e na ADSE, poderão optar pela manutenção do mesmo regime, devendo esta opção constar do documento referido no n.º 2 do artigo anterior.
 
-###### Art. 4.º - 1 - As comissões vitivinícolas deduzirão às remunerações do pessoal integrado nos seus quadros e que se mantenha abrangido pelo regime de previdência da função pública as quotizações legalmente fixadas, devendo as respeitantes à Caixa Geral de Aposentações ser remetidas a esta instituição no prazo fixado no n.º 1 do artigo 7.º do Estatuto da Aposentação.
+Art. 4.º - 1 - As comissões vitivinícolas deduzirão às remunerações do pessoal integrado nos seus quadros e que se mantenha abrangido pelo regime de previdência da função pública as quotizações legalmente fixadas, devendo as respeitantes à Caixa Geral de Aposentações ser remetidas a esta instituição no prazo fixado no n.º 1 do artigo 7.º do Estatuto da Aposentação.
 
 2 - As comissões vitivinícolas participam no financiamento da Caixa Geral de Aposentações com uma contribuição mensal de montante igual ao das quotas deduzidas nas remunerações do pessoal, a qual será remetida a esta instituição juntamente com as quotas a que se refere o número anterior.
 
 3 - As transferências do Orçamento do Estado para as comissões vitivinícolas servirão de garantia relativamente às dívidas vencidas e constituídas a favor da Caixa Geral de Aposentações e da ADSE.
 
-###### Art. 5.º Para efeitos de aplicação do presente diploma, consideram-se serviços de origem as comissões vitivinícolas.
+Art. 5.º Para efeitos de aplicação do presente diploma, consideram-se serviços de origem as comissões vitivinícolas.
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

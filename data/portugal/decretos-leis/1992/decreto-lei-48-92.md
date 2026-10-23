@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1992-198546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d37df3eb9f95f18a71977e9254bcf2283ce20fcdb11dbcacb7b9ae12a26e622
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ffebbd22b786f7ac421da70ef66bc766cc3fb164ff4e492e63464e368ff459f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
-- Extinção de Serviços
-- Secretaria Geral
-- GAI
 - Direcção Geral da Comunicação Social
+- Extinção de Serviços
+- GAI
 - Ministério da Justiça
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Presidência do Conselho de Ministros
-- Ministério dos Negócios Estrangeiros
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -81,16 +81,37 @@ relationships:
   target: pt:dre:158042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682863:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571072:por
+  label: "Revogadas as als. b) e c) do nº 2 do art. 1º, pelo DEC LEI.34/97.1997.01.31.PCM DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1997-571072
+  date: '1997-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:30Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +136,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a Direcção-Geral da Comunicação Social.
+Artigo 1.º - 1 - É extinta a Direcção-Geral da Comunicação Social.
 
 2 - As atribuições não extintas pelo presente diploma são transferidas nos termos seguintes:
 
@@ -125,7 +146,7 @@ b) A competência atribuída à Direcção-Geral da Comunicação Social para pr
 
 c) As atribuições e competências conferidas à Direcção-Geral da Comunicação Social no âmbito das acções respeitantes à respectiva representação em órgãos, aos apoios à comunicação social, bem como à coordenação das campanhas de publicidade da administração central são transferidas para a Secretaria-Geral da Presidência do Conselho de Ministros.
 
-###### Art. 2.º - 1 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre provido no quadro da Direcção-Geral da Comunicação Social bem como os funcionários que se encontrem nas situações de licença sem vencimento são constituídos em excedentes, atendendo às características e qualificações profissionais e às exigências inerentes aos postos de trabalho, nos termos do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
+Art. 2.º - 1 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre provido no quadro da Direcção-Geral da Comunicação Social bem como os funcionários que se encontrem nas situações de licença sem vencimento são constituídos em excedentes, atendendo às características e qualificações profissionais e às exigências inerentes aos postos de trabalho, nos termos do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
 2 - Os funcionários da Direcção-Geral da Comunicação Social que se encontrem nas situações de requisição ou de destacamento podem optar pela integração nos quadros dos organismos junto dos quais exercem funções, desde que estes manifestem o seu interesse.
 
@@ -133,18 +154,18 @@ c) As atribuições e competências conferidas à Direcção-Geral da Comunicaç
 
 4 - As requisições e os destacamentos de funcionários ou agentes que se encontrem a exercer funções na Direcção-Geral da Comunicação Social são dados por findos a partir da data da entrada em vigor do presente diploma, regressando os mesmos aos respectivos lugares de origem.
 
-###### Art. 3.º São dadas por findas as comissões de serviço do pessoal dirigente da Direcção-Geral da Comunicação Social.
+Art. 3.º São dadas por findas as comissões de serviço do pessoal dirigente da Direcção-Geral da Comunicação Social.
 
-###### Art. 4.º O património da Direcção-Geral da Comunicação Social, incluindo todos os seus direitos e obrigações, nomeadamente a biblioteca, a hemeroteca e a fototeca, é afecto à Secretaria-Geral da Presidência do Conselho de Ministros, sem dependência de quaisquer formalidades.
+Art. 4.º O património da Direcção-Geral da Comunicação Social, incluindo todos os seus direitos e obrigações, nomeadamente a biblioteca, a hemeroteca e a fototeca, é afecto à Secretaria-Geral da Presidência do Conselho de Ministros, sem dependência de quaisquer formalidades.
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - João de Deus Rogado Salvador Pinheiro - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

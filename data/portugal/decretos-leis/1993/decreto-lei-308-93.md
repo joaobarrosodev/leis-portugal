@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/206a00/46184626.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/1993/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1993-633151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f8ed5a73fee2189a555f42e42fae8b642b1ad129c86e0443cc54082853d0140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d531db2305a881c10d1c4e1c971abe56959cdba0730b2b1e1bc21b1b0952232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Saúde
 - Conselho de Administração
 - Definição de Competências
 - Instituto de Gestão Informática e Financeira da Saúde
+- Ministro da Saúde
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:321520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:410917:por
+  label: "Alterado o nº 1 do art. 6º pelo DEC LEI.32/2000.2000.03.13.MS DR.IS-A [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2000-410917
+  date: '2000-03-13'
+- type: amended_by
+  target: pt:dre:276462:por
+  label: "Repristinada pelo DEC LEI.203-A/2001.2001.07.21.MS DR.IS-A [168]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-a-2001-276462
+  date: '2001-07-21'
+- type: amended_by
+  target: pt:dre:321520:por
+  label: "Extinta a delegação de Coimbra do IGIF criada pelo presente diploma, pelo DEC LEI.325-A/2003.29.12.2003.MS, DR.IS-A\
+    \ [299-Supl] de 29.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-a-2003-321520
+  date: '2003-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -83,16 +99,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361949:por
+  label: "Revogado pelo DEC LEI.194/2001.2001.06.26.MS,DR.IS-A [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2001-361949
+  date: '2001-06-26'
+- type: repealed_by
+  target: pt:dre:321520:por
+  label: "Revogado pelo DEC LEI.325-A/2003.29.12.2003.MS, DR.IS-A [299-Supl] de 29.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-a-2003-321520
+  date: '2003-12-29'
 article_structure:
   article_count: 33
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:17Z'
   warnings: []
   errors: []
 ---
@@ -635,7 +669,9 @@ l) Promover a elaboração gráfica e a divulgação do relatório do orçamento
 
 4 - As delegações são dirigidas por directores de delegação equiparados, para todos os efeitos legais, a director de serviços.
 
-###### Artigo 25.º — Divisão de Sistemas de Informação e de Apoio Técnico
+###### Artigo 25.º
+
+##### Divisão de Sistemas de Informação e de Apoio Técnico
 
 1 - À Divisão de Sistemas de Informação e de Apoio Técnico compete:
 
@@ -647,7 +683,9 @@ c) Assegurar nas áreas de registo e controlo de dados e de exploração os trab
 
 2 - Sem prejuízo do disposto no número anterior, à Divisão de Sistemas de Informação e de Apoio Técnico compete ainda o exercício das competências previstas nos artigos 16.º e 17.º, dentro da área de actuação de cada delegação.
 
-###### Artigo 26.º — Secção de Pessoal e Contabilidade
+###### Artigo 26.º
+
+#### Secção de Pessoal e Contabilidade
 
 À Secção de Pessoal e Contabilidade incumbe, em cada delegação:
 
@@ -753,14 +791,14 @@ São revogados os Decretos-Leis n.º 513-T1/79, de 27 de Dezembro, e n.º 285/89
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/206a00/46184626.pdf))](https://files.diariodarepublica.pt/1s/1993/09/206a00/46184626.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/206a00/46184626.pdf)

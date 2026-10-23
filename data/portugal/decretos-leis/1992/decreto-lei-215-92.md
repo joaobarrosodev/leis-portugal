@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/236a00/47744778.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/1992/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8841f0ef325afe076ca7c8b05a59b18cfaa8352c42c7b748b589ec2c502463c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41192fccefaf2bbe6fc0d7041fd1b6afa94d972b0bdc4fab9b4c0f8c777cea3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Turismo
-- Desenvolvimento Regional
 - Apoio ao Investimento
-- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Desenvolvimento Regional
+- Financiamento
 - Infraestrutura Turística
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:419396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 193/92, DA PCM, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-A, 277, 2SUPL,\
+    \ DE 921130.\0 921130."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-11-30'
+- type: amended_by
+  target: pt:dre:496132:por
+  label: "Alterado o art. 4.º pelo DEC LEI.19/94.1994.01.25.MOPTC DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1994-496132
+  date: '1994-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22-a/1992/02/17/p/dre
   label: null
@@ -85,16 +96,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/70/1991/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/70/1991/01/28/p/dre
+- type: cites
+  target: pt:dre:314639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612869:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:238975:por
+  label: "Revogado pelo DEC LEI.178/94.1994.06.28.MCT, DR.IS-A [147]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1994-238975
+  date: '1994-06-28'
 article_structure:
   article_count: 21
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:15Z'
   warnings: []
   errors: []
 ---
@@ -347,7 +391,7 @@ O regulamento de aplicação do SIFIT (II) será estabelecido por portaria conju
 
 O artigo 9.º do [Decreto-Lei n.º 439/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1988-357114), de 30 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 9.º O acesso ao Sistema de Incentivos Financeiros ao Investimento no Turismo - SIFIT (II), criado pelo Decreto-Lei n.º 215/92, de 13 de Outubro, deve processar-se da seguinte forma:
+Art. 9.º O acesso ao Sistema de Incentivos Financeiros ao Investimento no Turismo - SIFIT (II), criado pelo Decreto-Lei n.º 215/92, de 13 de Outubro, deve processar-se da seguinte forma:
 
 a) Os processos de candidatura relativos a projectos a realizar na Região Autónoma da Madeira serão entregues no departamento competente do respectivo órgão do Governo Regional;
 
@@ -369,12 +413,12 @@ São revogados o [Decreto-Lei n.º 420/87](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em Viana do Castelo em 26 de Setembro de 1992.**
+Promulgado em Viana do Castelo em 26 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1992.**
+Referendado em 30 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

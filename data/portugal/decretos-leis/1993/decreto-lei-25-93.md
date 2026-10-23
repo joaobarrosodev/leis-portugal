@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/1993/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1993-645721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b94feab4feddc909ebf9bf65538910b259f4d019f015d5c8f3d1fc6bc742766
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572c038671d7648ae6f4233e845d7a674e8f2c9a653e439a664a39509e813c56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Despachante Oficial
+- Formação Profissional
 - Indemnização
+- Instituto do Emprego e Formação Profissional
 - Mercado Interno CE
-- Reforma Antecipada
 - Pensão de Velhice
 - Prestação de Pré-reforma
 - Prestações da Segurança Social
 - Proteção no Desemprego
 - Reconversão Profissional
+- Reforma Antecipada
 - Responsabilidade Financeira
 - Segurança Social
 - Subsídio de Desemprego
@@ -86,6 +86,18 @@ relationships:
   target: pt:dre:554783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196965:por
+  label: "Prorrogado por 12 meses, a contar de 1 de Janeiro de 1995 a vigência do presente diploma pelo DEC LEI.46/95.1995.03.03.MF,\
+    \ DR.IS-A [53]\053]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1995-196965
+  date: '1995-03-03'
+- type: amended_by
+  target: pt:dre:554783:por
+  label: "Prorrogada a vigência por mais seis meses a contar de 1 de Janeiro de 1996, pelo DEC LEI.31/96.1996.04.11.MQE, DR.IS-A\
+    \ [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1996-554783
+  date: '1996-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
   label: null
@@ -94,16 +106,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/923/1992/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/923/1992/09/24/p/dre
+- type: cites
+  target: pt:dre:226861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:06Z'
   warnings: []
   errors: []
 ---
@@ -330,12 +390,12 @@ Os apoios concedidos no âmbito deste diploma não são acumuláveis com outros 
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Janeiro de 1993.**
+Referendado em 31 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

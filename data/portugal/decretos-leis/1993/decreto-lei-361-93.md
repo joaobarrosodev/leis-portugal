@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/242a00/57985802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/361/1993/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1993-668520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e38f6b2a1457f425f76da2effd88a7cd4f398299267cd183f6036fd4b1b0b892
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94a94bf6315b44c7b3995e5fabb7afe4433afa8e8e2821558be04f530dab84f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Geral das Instalações e Equipamentos de Saúde
 - Direcção Regional das Instalações e Equipamentos da Saúde
-- Orgânica
-- Quadro de Pessoal
 - Ministério da Saúde
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:671045:por
@@ -84,16 +84,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+- type: cites
+  target: pt:dre:157036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671045:por
+  label: "Revogado este diploma e extintas a Direcções Regionais das Instalações e Equipamentos da Saúde, pelo DEC LEI.158/2003.2003.07.18.MS\
+    \ DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2003-671045
+  date: '2003-07-18'
 article_structure:
   article_count: 22
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:27Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +208,9 @@ b) A Divisão de Engenharia;
 
 c) A Divisão de Equipamento Médico e Geral.
 
-###### Artigo 5.º — Divisão de Arquitectura
+###### Artigo 5.º
+
+##### Divisão de Arquitectura
 
 À Divisão de Arquitectura compete desenvolver, aperfeiçoar e actualizar conhecimentos em matéria de tipologias de instalações de serviços e instituições da saúde e dos respectivos esquemas funcionais e, em especial:
 
@@ -208,7 +232,9 @@ h) Prestar apoio aos serviços regionais;
 
 i) Promover a elaboração ou apreciação de projectos de novas instalações, ampliações, remodelações e beneficiações de serviços e instituições da saúde.
 
-###### Artigo 6.º — Divisão de Engenharia
+###### Artigo 6.º
+
+##### Divisão de Engenharia
 
 À Divisão de Engenharia compete desenvolver, aperfeiçoar e actualizar os conhecimentos que se mostrem necessários no âmbito das instalações dos serviços e instituições da saúde e, em especial:
 
@@ -236,7 +262,9 @@ l) Prestar apoio aos serviços regionais;
 
 m) Promover a elaboração ou apreciação de projectos de novas instalações, ampliações, remodelações e beneficiações dos serviços e instituições da saúde.
 
-###### Artigo 7.º — Divisão de Equipamento Médico e Geral
+###### Artigo 7.º
+
+##### Divisão de Equipamento Médico e Geral
 
 À Divisão de Equipamento Médico e Geral compete desenvolver, aperfeiçoar e actualizar os conhecimentos que se mostrem necessários no âmbito dos equipamentos médico e geral dos serviços e instituições da saúde e, em especial:
 
@@ -400,7 +428,9 @@ b) A Divisão de Estudos e Planeamento;
 
 c) A Secção Administrativa.
 
-###### Artigo 15.º — Divisão de Projectos e Obras
+###### Artigo 15.º
+
+##### Divisão de Projectos e Obras
 
 À Divisão de Projectos e Obras compete:
 
@@ -414,7 +444,9 @@ d) Elaborar projectos e estudos relativos a instalações e equipamentos da saú
 
 e) Dar parecer sobre os planos de urbanização no âmbito das atribuições da DGIES e submetê-los à aprovação superior.
 
-###### Artigo 16.º — Divisão de Estudos e Planeamento
+###### Artigo 16.º
+
+##### Divisão de Estudos e Planeamento
 
 À Divisão de Estudos e Planeamento compete:
 
@@ -428,7 +460,9 @@ d) Elaborar o planeamento de execução coordenada das diferentes fases dos empr
 
 e) Assegurar a recolha, sistematização e divulgação de dados estatísticos, bem como proceder à análise de custos dos empreendimentos.
 
-###### Artigo 17.º — Secção Administrativa
+###### Artigo 17.º
+
+#### Secção Administrativa
 
 À Secção Administrativa compete:
 
@@ -478,16 +512,16 @@ São revogados o n.º 1 do artigo 36.º da [Lei n.º 56/79](https://diariodarepu
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1993.**
+Referendado em 8 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/242a00/57985802.pdf))](https://files.diariodarepublica.pt/1s/1993/10/242a00/57985802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/242a00/57985802.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/036a00/05880589.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/1993/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1993-648481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3157ba81c4842769b9db982af6beb1ec03c957c66d9144b6de5022cc905f86e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99c103036b7b965a81d944565f4d9dab2891fad5bb3faeb6cb48f3dc57862e47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,25 @@ subjects:
 - Aproximação das Legislações
 - Árvore
 - CEE
+- Comércio
 - Controlo de Qualidade
 - Materiais de Viveiro
+- Plantula
 - Política Agrícola Comum
 - Produção Agrícola
-- Plantula
 - Produção Vegetal
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:641704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541592:por
+  label: "Determinada a aplicabilidade das disposições do Dec Lei 277/91 de 08-Ago, alterado pelo presente diploma, somente\
+    \ aos materiais de propagação vegetativa de fruteiras, de morangueiro, citrícolas e jovens plantas hortícolas, pelo DEC\
+    \ LEI.194/2006.27.09.2006.MADRP, DR.IS [187] de 27.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2006-541592
+  date: '2006-09-27'
 - type: cites
   target: celex:31991L0682
   label: null
@@ -97,16 +104,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/277/1991/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/277/1991/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:641704:por
+  label: "Revogado pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:52Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +137,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 3.º, 4.º, 20.º, 22.º, 23.º e 27.º do Decreto-Lei n.º 277/91, de 8 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º, 4.º, 20.º, 22.º, 23.º e 27.º do Decreto-Lei n.º 277/91, de 8 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -199,12 +211,12 @@ h) Declaração oficial - a declaração emanada da entidade oficial responsáve
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

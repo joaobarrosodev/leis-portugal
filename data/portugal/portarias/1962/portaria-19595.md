@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19595-1962-154822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9da59ed5c8de1628e410b96c9b7843d7ce337e906460e1721bd57e31e117a99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d150f62bff94625d9b86c05076831dfe1316971271f89f041ebc4481bbefa72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:43Z'
   warnings: []
   errors: []
 ---
@@ -87,37 +95,37 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 1.º — Impostos directos gerais
 
-###### Artigo 1.º «Contribuição comercial e industrial»:
+Artigo 1.º «Contribuição comercial e industrial»:
 
 a) «Industrial (por meio de licenças)» ... 1586508$88
 
-###### Artigo 2.º «Contribuição predial»:
+Artigo 2.º «Contribuição predial»:
 
 a) «Urbana» ... 4551959$70
 
-###### Artigo 4.º «Imposto sobre as sucessões e doações» ... 181472$00
+Artigo 4.º «Imposto sobre as sucessões e doações» ... 181472$00
 
-###### Artigo 11.º «Impostos directos extintos» ... 1460115$78
+Artigo 11.º «Impostos directos extintos» ... 1460115$78
 
 ### CAPÍTULO 2.º — Impostos indirectos
 
-###### Artigo 19.º «Imposto do selo»:
+Artigo 19.º «Imposto do selo»:
 
 f) «Selo especial de conhecimento» ... 1172107$44
 
 ### CAPÍTULO 3.º — Indústrias em regime tributário especial
 
-###### Artigo 32.º «Imposto de consumo»:
+Artigo 32.º «Imposto de consumo»:
 
 a) «Classe A - Sobre automóveis, motocicletas e bicicletas» ... 3204390$30
 
 ### CAPÍTULO 4.º — Taxas - Rendimentos de diversos serviços
 
-###### Artigo 57.º «Imposto de justiça cível» ... 978250$90
+Artigo 57.º «Imposto de justiça cível» ... 978250$90
 
 ### Capítulo 7.º — Reembolsos e reposições
 
-###### Artigo 115.º «Emolumentos»:
+Artigo 115.º «Emolumentos»:
 
 a) «De bilhetes de residência» ... 625195$00
 

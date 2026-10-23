@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/012a00/01260129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47803c6788717d8d55d4d896d8023a4449156bdd38cde875e7f2ba8600e672bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad84219e930e3ff8eefcf5e48d115399358f32291ed1282c7e4fbdf3b4eb21c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,111 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro de Estudos do Medicamento
-- INEM
-- Infarmed
 - Comissão Inter-hospitalar
-- Direção Geral da Saúde
-- Direcção Geral dos Hospitais
+- Conselho Nacional de Saúde
+- Departamento de Estudos e Planeamento da Saúde
 - Departamento de Gestão Financeira dos Serviços de Saúde
 - Departamento de Recursos Humanos da Saúde
+- Direção Geral da Saúde
 - Direcção Geral das Instalações e Equipamentos de Saúde
 - Direcção Geral de Assuntos Farmacêuticos
 - Direcção Geral dos Cuidados de Saúde Primários
-- Serviço Nacional de Saúde
+- Direcção Geral dos Hospitais
 - Extinção de Serviços
-- Secretaria Geral
+- INEM
+- Infarmed
 - Inspecção Geral de Saúde
 - Instituto de Gestão Informática e Financeira da Saúde
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Instituto Português de Sangue
 - Integração de Serviços
-- Conselho Nacional de Saúde
-- Departamento de Estudos e Planeamento da Saúde
-- Orgânica
-- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Ministério da Saúde
+- Orgânica
+- Reestruturação de Serviços
+- Secretaria Geral
 - Serviço de Informática do Ministério da Saúde
 - Serviço de Prevenção e Tratamento da Toxicodependência
+- Serviço Nacional de Saúde
 - Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:545638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Transitada para a dependência conjunta do Ministro da Saúde (cuja Lei Orgânica do respectivo Ministério conta do\
+    \ presente diploma) e do Ministro do Trabalho e da Solidariedade a Santa Casa da Misericórdia de Lisboa (Leis Orgânicas\
+    \ constantes do Dec Lei 40397, de 24-Nov 1955 e do Dec lei 692/70, de 31-Dez), pelo DEC LEI.55/98.1998.03.16.PCM DR.IS-A\
+    \ [63]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:611883:por
+  label: "Alterados os arts. b), c) e d) e revogada a al. f) do art. 5º e alterdo o art. 17º pelo DEC LEI.257/2001.2001.09.22.MS,\
+    \ DR.IS-A [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2001-611883
+  date: '2001-09-22'
+- type: amended_by
+  target: pt:dre:287653:por
+  label: "Alterados os arts. 5º (na redacção dos Dec lei 257/2001 de 22-Set e 122/97 de 20-Mai) e 7º do presente diploma,\
+    \ pelo DR.3-A/2005.31.05.2005.MS, DR.IS-B [104-Supl] de 31.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-a-2005-287653
+  date: '2005-05-31'
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682870:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 43/93, PUBLICADA NO DR.IS-A, 76, 2 SUPL, DE 930331.\0331.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/43-1993-682870
+- type: repealed_by
+  target: pt:dre:398541:por
+  label: "Revogada a al e) do art 5º e o art 11º pelo DEC LEI.122/97.1997.05.20.MS, DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1997-398541
+  date: '1997-05-20'
+- type: repealed_by
+  target: pt:dre:684845:por
+  label: "Revogado o nº 2 do art. 13º pelo DEC LEI.495/99.1999.11.18.MS DR.IS-A [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/495-1999-684845
+  date: '1999-11-18'
+- type: repealed_by
+  target: pt:dre:361949:por
+  label: "Revogada a al f) do nº 1 do art. 6º e o art. 14º pelo DEC LEI.194/2001.2001.06.26.MS,DR.IS-A [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2001-361949
+  date: '2001-06-26'
+- type: repealed_by
+  target: pt:dre:321520:por
+  label: "Revogado o n.º 2 do artigo 14.º , pelo DEC LEI.325-A/2003.29.12.2003.MS, DR.IS-A [299-Supl] de 29.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-a-2003-321520
+  date: '2003-12-29'
+- type: repealed_by
+  target: pt:dre:227398:por
+  label: "Revogada a al. g) do nº 1 do art. 6º pelo DR.4/2005.09.06.2005.MS, DR.IS-B [111] de 09.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2005-227398
+  date: '2005-06-09'
+- type: repealed_by
+  target: pt:dre:545638:por
+  label: "Revogado o presente diploma e determinada a extinção, sendo objecto de fusão, do Instituto de Gestão Informática\
+    \ e Financeira da Saúde, cuja orgânica consta do Dec Lei 325-A/2003, de 29-Dez, sendo as respectivas integradas na Secretaria-Geral\
+    \ e na Administração Central do Sistema de Saúde, I.P., nos termos da al. b) do n.º 2 do art. 26.º, e a reestruturação\
+    \ do Instituto Nacional da Farmácia e do Medicamento, cuja orgânica foi aprovada pelo Dec Lei 495/99, de 18-Nov, que passa\
+    \ a designar-se INFARMED-Autoridade Nacional do Medicamento e Produtos de Saúde, I.P., nos termos da al. b) do n.º 3 do\
+    \ art. 26.º, pelo DEC LEI.212/2006.27.10.2006.MS, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
 article_structure:
   article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:41Z'
   warnings: []
   errors: []
 ---
@@ -313,16 +376,16 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1992.**
+Referendado em 15 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012a00/01260129.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012a00/01260129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012a00/01260129.pdf)

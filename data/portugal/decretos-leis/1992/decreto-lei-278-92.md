@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 288/1992, 1º Suplemento, Série I-A de 1992-12-15
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5776-(3) a 5776-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/288a01/00030003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/1992/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1992-532053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dde79bd540f09f79917ee9ae4d5d9d3aa26fc79bdc932d7d9e15a6269c2c083b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e3dd426b8241c5a355d5d33e0c73292c06685416857666c27309d47f052f5dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87/1992/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87/1992/05/14/p/dre
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522189:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:40Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +110,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É o Ministro das Obras Públicas, Transportes e Comunicações autorizado a alterar o artigo 3.º do contrato de concessão celebrado com a Companhia Portuguesa Rádio Marconi em 8 de Novembro de 1922 e alterado posteriormente pelos acordos publicados no Diário da Governo e no Diário da República, de 1 de Maio de 1930, de 3 de Dezembro de 1956, de 25 de Agosto de 1966, de 28 de Julho de 1973, de 19 de Junho de 1976, de 10 de Julho de 1976 e de 2 de Outubro de 1980, nos termos constantes do anexo ao presente diploma e que dele faz parte integrante.
+Artigo único. É o Ministro das Obras Públicas, Transportes e Comunicações autorizado a alterar o artigo 3.º do contrato de concessão celebrado com a Companhia Portuguesa Rádio Marconi em 8 de Novembro de 1922 e alterado posteriormente pelos acordos publicados no Diário da Governo e no Diário da República, de 1 de Maio de 1930, de 3 de Dezembro de 1956, de 25 de Agosto de 1966, de 28 de Julho de 1973, de 19 de Junho de 1976, de 10 de Julho de 1976 e de 2 de Outubro de 1980, nos termos constantes do anexo ao presente diploma e que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Dezembro de 1992.**
+Referendado em 14 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Alteração a introduzir no contrato de concessão da Companhia Portuguesa Rádio Marconi
 
@@ -122,4 +130,4 @@ Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1992. - Aníbal A
 
 O conselho de administração da Companhia é eleito pela assembleia geral, nos termos definidos pelo Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, e pelos estatutos da sociedade.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.

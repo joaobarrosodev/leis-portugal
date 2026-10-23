@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/1992/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1992-187932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5d69067f9a46c48f891032cd256a2339b07b1065321c04df52f48aa6932711f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39a1c7bc9bf73a2dbf7d49d01e1dec8733440a89c0662faefb80787c2ae13d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,72 @@ relationships:
   target: pt:dre:211499215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1881264:por
+  label: "Protelada, até 28.04.1995, a exigibilidade da prova de observância dos requisitos previstos n.º 2 do artigo 14.º\
+    \ pelo DC.DDC186.30.12.1994.MAI, DR.IIS [301] de 30.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1994-1881264
+  date: '1994-12-30'
+- type: amended_by
+  target: pt:dre:1854481:por
+  label: "Protelada, até 28.07.1995, a exigibilidade da prova de observância dos requisitos previstos n.º 2 do artigo 14.º\
+    \ pelo DC.DDC48.28.04.1995.MAI, DR.IIS [99]2ºSupl de 28.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1995-1854481
+  date: '1995-04-28'
+- type: amended_by
+  target: pt:dre:3071379:por
+  label: "Protelada, até 31.12.1995, a exigibilidade da prova de observância dos requisitos previstos n.º 2 do artigo 14.º\
+    \ pelo DC.DDC180.25.07.1995.MAI, DR.IIS [170]Supl de 25.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1995-3071379
+  date: '1995-07-25'
+- type: amended_by
+  target: pt:dre:3309275:por
+  label: "Protelada, até 31.07.1996, a exigibilidade da prova de observância dos requisitos previstos n.º 2 do artigo 14.º\
+    \ pelo DC.DDC11.18.01.1996.MAI, DR.IIS [15] de 18.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1996-3309275
+  date: '1996-01-18'
+- type: amended_by
+  target: pt:dre:1780313:por
+  label: "Prorrogado por 180 dias a exigibilidade de prova de obserância dos requisitos previstos no num 2 do art 14º pelo\
+    \ DC.DDC249/96.1996.07.29.SEAI-MAI, DR.IIS [176]Supl de 1996.07.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1996-1780313
+  date: '1996-07-29'
+- type: amended_by
+  target: pt:dre:1932510:por
+  label: "Protelada por 180 dias a exigibilidade de prova de observância dos requisitos definidos no num 2 do art 14º pelo\
+    \ DC.DDC80/97.1997.01.23.MAI e MS DR.IIS [19]Supl de 1997.01.23\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1997-1932510
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:211499215:por
+  label: Alterados, a partir de 07.04.2023, os arts. 5.º, 6.º, 8.º, 11.º, 12.º, 13.º e 14.º, aditados os arts. 12.º-A e 12.º-B
+    e revogada a al. e) do n.º 3 e o n.º 4 do art. 6.º, o art. 7.º e os n.ºs 2 e 3 do art. 12.º do presente diploma, que é
+    republicado, pelo(a) Decreto-Lei n.º 24/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06 com os efeitos previstos
+    no art. 6.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2023-211499215
+  date: '2023-04-06'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:16Z'
   warnings: []
   errors: []
 ---
@@ -277,12 +333,12 @@ As competências conferidas pelo presente diploma serão exercidas, nas Regiões
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Manuel Dias Lourenço - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

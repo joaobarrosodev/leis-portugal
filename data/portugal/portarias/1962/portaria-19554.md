@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 281/1962, 1º Suplemento, Série I de 1962-12-07
   number: '281'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1679 - 1696
   pdf_url: https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19554-1962-552985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeae70c06e83582e4d38c540873ab5db14aa63b24f8b68a828613fe56838a2d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfc81f165a3a34fa9640cb7da9e79517dd4bb5cf76c913211d58e086594679f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:193233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193233:por
+  label: "Anulados os orçamentos de receita e despesa, e aprovada a sua substituição, pela PORT.19655.25.01.1963.MU, DG.IS\
+    \ [21] de 25.01.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19655-1963-193233
+  date: '1963-01-25'
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:49Z'
   warnings: []
   errors: []
 ---
@@ -95,62 +109,62 @@ Conselho Ultramarino
 
 Orçamento da receita para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da despesa para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Instituto de Medicina Tropical
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da despesa para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da receita para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Hospital do Ultramar
 
 Orçamento da receita para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da despesa para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Jardim e Museu Agrícola do Ultramar
 
 Orçamento da receita para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da despesa para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Agência-Geral do Ultramar
 
 Orçamento da receita para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da despesa para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Núcleo de Documentação Técnica
 
 Orçamento da receita para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Orçamento da despesa para o ano económico de 1963
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf))](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28101/16791696.pdf)
 
 Direcção-Geral de Fazenda, 7 de Dezembro de 1962. - O Director-Geral, Mário Marques Pinto.

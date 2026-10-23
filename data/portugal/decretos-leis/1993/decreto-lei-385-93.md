@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/385/1993/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1993-676430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57b6279a64c76277763f99016cf7cd71026d1121ebd6e4f1ad15c79edc3181aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7374ae637a068466cb028c19253d2ce1ce8276bff08cecc8d796852712c30049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Saúde Pública
-- Etiquetagem
 - Embalagem
+- Etiquetagem
 - Pesticida
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31967L0548
@@ -84,15 +84,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1991/410/oj
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:57Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +109,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 6.º do Decreto-Lei n.º 294/88, de 24 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 6.º do Decreto-Lei n.º 294/88, de 24 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -141,16 +141,16 @@ e) ...
 
 f) Os recipientes que contenham pesticidas destinados a uso doméstico têm de ser munidos de fechos de segurança para crianças conformes à norma ISO 8317.
 
-###### Art. 2.º O presente diploma entra em vigor em 1 de Janeiro de 1994.
+Art. 2.º O presente diploma entra em vigor em 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Luís Filipe da Conceição Pereira - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

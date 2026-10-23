@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/158a00/37653765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/1993/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1993-375428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68920ec7a0a2ca634255c1ffe86b9a953ad56df914eab5b1d383638b79df119d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78acc75754e36ee10ee7c4bc915b991ff697f94f2837d238ff2d7621f5baf375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Educação
 - Criação de Serviços
 - Definição de Competências
 - Gabinete dos Assuntos Europeus
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:456865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221503:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456865:por
+  label: "Revogado pelo DEC LEI.56/96.1996.05.22.ME, DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1996-456865
+  date: '1996-05-22'
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:02Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +139,9 @@ e) Proceder à análise da documentação proveniente dos serviços comunitário
 
 O GAE desenvolve a sua actividade em conjugação com os demais serviços do Ministério da Educação e, bem assim, com os serviços competentes do Ministério dos Negócios Estrangeiros e de outros departamentos da Administração Pública.
 
-###### Artigo 5.º — Secção administrativa
+###### Artigo 5.º
+
+#### Secção administrativa
 
 O GAE dispõe de uma secção de apoio administrativo, à qual compete assegurar os serviços de expediente geral, de contabilidade, de economato e de administração de pessoal, sem prejuízo das competências da Secretaria-Geral do Ministério.
 
@@ -142,12 +153,12 @@ O GAE dispõe de uma secção de apoio administrativo, à qual compete assegurar
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
 Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/1994/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1994-263239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 266d71fd0ade2e74ab127d36c0ca0702cd3e2887ad756b1252d2c1f890968f83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0be4e2a9183ce0f11aae37405c08dc938636bd45907f56033ae20ed2b7ee6aef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:632408:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:53Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +101,20 @@ Considerando o disposto no n.º 2 do artigo 12.º e no n.º 6 do artigo 19.º da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os membros da Comissão de Acesso aos Documentos Administrativos (CADA) não podem ser prejudicados na estabilidade do seu emprego, na sua carreira profissional, nomeadamente nas promoções a que entretanto tenham adquirido direito, nem nos concursos públicos a que se submetam e ainda no regime de segurança social de que beneficiem à data do início do mandato.
+Artigo 1.º Os membros da Comissão de Acesso aos Documentos Administrativos (CADA) não podem ser prejudicados na estabilidade do seu emprego, na sua carreira profissional, nomeadamente nas promoções a que entretanto tenham adquirido direito, nem nos concursos públicos a que se submetam e ainda no regime de segurança social de que beneficiem à data do início do mandato.
 
-###### Art. 2.º Os membros da CADA têm direito a uma remuneração equivalente a 20% do valor do índice 100 da escala salarial do pessoal dirigente.
+Art. 2.º Os membros da CADA têm direito a uma remuneração equivalente a 20% do valor do índice 100 da escala salarial do pessoal dirigente.
 
-###### Art. 3.º Os encargos financeiros da reprodução de documentos, correspondentes ao custo dos materiais envolvidos e do serviço prestado, não podem ultrapassar o valor médio praticado no mercado por serviço correspondente e são objecto de despacho do Ministro das Finanças, ouvida a CADA.
+Art. 3.º Os encargos financeiros da reprodução de documentos, correspondentes ao custo dos materiais envolvidos e do serviço prestado, não podem ultrapassar o valor médio praticado no mercado por serviço correspondente e são objecto de despacho do Ministro das Finanças, ouvida a CADA.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

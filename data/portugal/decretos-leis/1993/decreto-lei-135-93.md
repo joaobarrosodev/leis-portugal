@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20312033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1993-665340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9748ce7807daef6051c097b2e17e14b8420ed88d803df8f08c5c86a5d13cc8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a6979ca62f777512a2083fd60e4cd34dd0a246f1cb785deb8eb2b562a7df039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Departamento de Programação e Gestão Financeira
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -79,16 +79,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:310434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686834:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:505783:por
+  label: "Revogado pelo Dec Lei 47/97.1997.02.25.ME, DR.IS-A [47].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1997-505783
+  date: '1997-02-25'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:31Z'
   warnings: []
   errors: []
 ---
@@ -239,14 +260,14 @@ São revogados os Decretos-Leis n.os [485/72](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a00/20312033.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a00/20312033.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20312033.pdf)

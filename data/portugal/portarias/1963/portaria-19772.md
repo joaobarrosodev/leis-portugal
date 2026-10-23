@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19772-1963-194060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a346a9936319c2b81e10afe2933cc9287813de083c476c4277fc8d0738422efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 479a2068f0b5bfb7ff29aa1eb6a363a6a10b0ac5f12537b7b92aa14a84958c31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Junta Autónoma dos Portos
+- Junta Central de Portos
+- Pessoal Assalariado
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:29Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +99,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, o se
 
 Ministério das Comunicações, 21 de Março de 1963. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/03/06800/02880288.pdf))](https://files.diariodarepublica.pt/1s/1963/03/06800/02880288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/03/06800/02880288.pdf)
 
 Ministério das Comunicações, 21 de Março de 1963. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

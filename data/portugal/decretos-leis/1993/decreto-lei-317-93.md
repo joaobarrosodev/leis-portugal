@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/317/1993/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1993-655526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d83afeeb62255c4c723b678fad1202dabcac13335ef59608ec80327d1e6c4c22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fa434197edba6abadc2f713366f0ae28a82d7173caec87740600d65a82162b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,34 @@ subjects:
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A SECRETARIA-GERAL E ATRIBUIDA A SUA LIQUIDAÇÃO AO MINISTRO DO EQUIPAMENTO SOCIAL, PELO DEC LEI 296-A/95\
+    \ DE 17-NOV DR.IS-A [266]SUPL\0A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
+- type: cites
+  target: pt:dre:287387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:37Z'
   warnings: []
   errors: []
 ---
@@ -441,12 +455,12 @@ O quadro de pessoal da DSATA, aprovado pelo [Decreto Regulamentar n.º 11/88](ht
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Eduardo Eugénio Castro Azevedo Soares.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

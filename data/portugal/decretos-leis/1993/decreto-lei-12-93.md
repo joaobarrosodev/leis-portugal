@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/1993/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1993-586008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca485472c27be156b7414de9d1b421ae61d11e590a7973c5325a70ba8c8b0c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceab2ea41cc07f7cf80fb6879cbf615a4d10daa27233ae58ee1952dbb8ce95c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ subjects:
 - Gestão Hospitalar
 - Intervenção do Estado
 - Serviço de Utilização Comum dos Hospitais
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:160292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:09Z'
   warnings: []
   errors: []
 ---
@@ -121,12 +141,12 @@ Nos serviços de utilização comum criados de acordo com o [Decreto-Lei n.º 46
 
 Visto e aprovado em Conselho de Ministros de 15 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 21 de Dezembro de 1992.**
+Promulgado em 21 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Dezembro de 1992.**
+Referendado em 23 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

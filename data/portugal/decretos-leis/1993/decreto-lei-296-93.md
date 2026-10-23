@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/199a00/45094512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/1993/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1993-325899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 297e464723170a2ff54f4bb6880f96d5b607927c928c12f2abcd0cc0bbd03af2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 955aafc891bea0705a626a9a1e7c857bc3ca9aa6d39d463fd40990287600c342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Departamento de Recursos Humanos da Saúde
-- Orgânica
 - Ministério da Saúde
+- Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:611883:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667939:por
+  label: "Alterado o art. 2º pelo DEC LEI.1-B/2000.2000.01.22.MS DR.IS-A [18]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-b-2000-667939
+  date: '2000-01-22'
+- type: cites
+  target: pt:dre:147383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620896:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611883:por
+  label: Revogado pelo DEC LEI.257/2001.2001.09.22.MS, DR.IS-A [221].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2001-611883
+  date: '2001-09-22'
 article_structure:
   article_count: 14
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:02Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +271,9 @@ g) Dar parecer quando solicitado sobre os processos de atribuição de bolsas e 
 
 2 - O Centro de Formação e Aperfeiçoamento Profissional é dirigido por um director de serviços.
 
-###### Artigo 7.º — Divisão de Ensino
+###### Artigo 7.º
+
+##### Divisão de Ensino
 
 À Divisão de Ensino compete:
 
@@ -341,16 +373,16 @@ c) O [Decreto-Lei n.º 210/89](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 Mapa a que se refere o n.º 2 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/199a00/45094512.pdf))](https://files.diariodarepublica.pt/1s/1993/08/199a00/45094512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/199a00/45094512.pdf)

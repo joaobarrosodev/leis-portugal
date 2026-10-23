@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/226a00/53955397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/332/1993/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1993-653129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52525b7927c8cb9fc878b329a03bb93e6488e95efc54bd4c0777813fd9a38d1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 632a2028c28641294f0959d081bb05090a1078d64e66513cc16975904c870d3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Crime
-- Multa
 - Definição de Competências
 - Empresa Privada
 - Empresa Pública
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Ministério do Emprego e da Segurança Social
+- Multa
 - Quadro de Pessoal
 - Regime Jurídico
 relationships:
@@ -80,16 +80,49 @@ relationships:
   target: pt:dre:502399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 8.º, pela LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:370865:por
+  label: "Alterados os arts. 1º, 2º, 3º e 5º, com a redacção conferida pelo Dec Lei 118/99 de 11-Ago, pelo DEC LEI.123/2002.2002.05.06.MTS\
+    \ DR.IS-A [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2002-370865
+  date: '2002-05-06'
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502399:por
+  label: "Revogado, sem prejuízo do previsto no nº 2 do art. 21.º do Código do Trabalho, pela LEI.35/2004.29.07.2004.AR, DR.IS-A\
+    \ [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2004-502399
+  date: '2004-07-29'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:52Z'
   warnings: []
   errors: []
 ---
@@ -204,12 +237,12 @@ São revogados o [Decreto-Lei n.º 380/80](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1993. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/105a00/21162116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/1992/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1992-500044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 703b0cdc778e3375db242f913e5905c2b4fd6fe5e25daf7dab5032bd015cd1c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da908b459088c61e66e6d674bad6f97c44a230600bef702f90ee7cec346d1d61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,38 @@ relationships:
   target: pt:dre:150763:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150763:por
+  label: "Revogado pelo Dec Lei.173/97.1997.07.16.MADRP, DR.IS-A [162], que no entanto mantém em vigor as taxas fixadas pelo\
+    \ presente diploma até à publicação das portarias previstas no num 1 do seu art 9º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1997-150763
+  date: '1997-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:16Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +131,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As taxas previstas nas alíneas a) e b) do artigo 25.º do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, são as seguintes:
+Artigo 1.º - 1 - As taxas previstas nas alíneas a) e b) do artigo 25.º do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, são as seguintes:
 
 a) Taxas incidentes sobre o vinho do Porto destinado à comercialização, quer em garrafa quer a granel, a cobrar dos agentes económicos inscritos no registo do IVP;
 
@@ -121,9 +143,9 @@ b) Taxa incidente sobre a aguardente vínica destinada à beneficiação dos mos
 
 4 - O produto global anual apurado em resultado da cobrança da taxa incidente sobre a aguardente será repartido, na razão de uma percentagem a fixar anualmente, entre este organismo e a Casa do Douro, devendo cada uma destas entidades devolver à outra, até 31 de Dezembro, o respectivo montante.
 
-###### Art. 2.º Os valores das taxas e percentagens referidas no artigo anterior são fixados por portaria do Ministro da Agricultura, mediante proposta do IVP.
+Art. 2.º Os valores das taxas e percentagens referidas no artigo anterior são fixados por portaria do Ministro da Agricultura, mediante proposta do IVP.
 
-###### Art. 3.º Quando se verifique a falta de pagamento, no prazo fixado, das taxas previstas no presente diploma, o IVP emitirá uma certidão, com valor de título executivo, da qual devem constar os seguintes elementos:
+Art. 3.º Quando se verifique a falta de pagamento, no prazo fixado, das taxas previstas no presente diploma, o IVP emitirá uma certidão, com valor de título executivo, da qual devem constar os seguintes elementos:
 
 a) Nome ou denominação e domicílio ou sede do devedor;
 
@@ -133,16 +155,16 @@ c) Data a partir da qual são devidos juros de mora;
 
 d) Data e assinatura da entidade emitente, devidamente autenticada com selo branco ou carimbo do serviço respectivo.
 
-###### Art. 4.º São revogados o n.º 19 do artigo 18.º do [Decreto n.º 7934](https://diariodarepublica.pt/dr/detalhe/decreto/7934-1921-579512), de 10 de Dezembro de 1921, o artigo 19.º do [Decreto-Lei n.º 23984](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23984-1934-464846), de 8 de Junho de 1934, e as alíneas a) e b) do artigo 1.º e o artigo 3.º do [Decreto-Lei n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1987-663293), de 28 de Janeiro.
+Art. 4.º São revogados o n.º 19 do artigo 18.º do [Decreto n.º 7934](https://diariodarepublica.pt/dr/detalhe/decreto/7934-1921-579512), de 10 de Dezembro de 1921, o artigo 19.º do [Decreto-Lei n.º 23984](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23984-1934-464846), de 8 de Junho de 1934, e as alíneas a) e b) do artigo 1.º e o artigo 3.º do [Decreto-Lei n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1987-663293), de 28 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 22 de Abril de 1992.**
+Promulgado em 22 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Abril de 1992.**
+Referendado em 24 de Abril de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira Ministro da Presidência.

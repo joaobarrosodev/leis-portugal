@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/1993/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1993-626805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f436b3ed66bde3d869238b2b9802eb5b8507ac46a9dd589e568616ba1a42a2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1678f50176952b3ddd58f1c4dc4a89253c3231770643c202f7bc4bcc7b6c49fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:08Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas a) e b) do artigo 36.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 7.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 75/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1992-497426), de 4 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 7.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 75/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1992-497426), de 4 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 7.º — [...]
 
@@ -118,18 +130,18 @@ a) Elemento específico - 1452$00;
 
 b) ...
 
-###### Art. 2.º É consignado ao Ministério da Saúde 1% do valor global da receita fiscal dos tabacos, até ao limite de 1 milhão de contos, tendo em vista o desenvolvimento de acções no domínio de rastreio, detecção precoce, diagnóstico, prevenção e tratamento do cancro.
+Art. 2.º É consignado ao Ministério da Saúde 1% do valor global da receita fiscal dos tabacos, até ao limite de 1 milhão de contos, tendo em vista o desenvolvimento de acções no domínio de rastreio, detecção precoce, diagnóstico, prevenção e tratamento do cancro.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em Setúbal em 5 de Fevereiro de 1993.**
+Promulgado em Setúbal em 5 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1993.**
+Referendado em 9 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 108/1994, 1º Suplemento, Série I-A de 1994-05-10
   number: '108'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2428-(2) a 2428-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/108a01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/1994/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1994-517408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2b9c7f9afb8fba132e09de37e0f4fa1c96dd4d6e843709912f88f1803d9d4f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0242b7f45d9ab856659a87966f314aee1d4e6054ed27e826b213db8d42c03d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
 - Cimpor
 - Oferta Pública de Aquisição
 - OPV
 - Privatização
 - Sistema de Incentivos Financeiros ao Investimento no Turismo
-relationships: []
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:33Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +110,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a reprivatização parcial do capital da sociedade CIMPOR - Cimentos de Portugal, S. A., a qual será realizada por fases.
+Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a reprivatização parcial do capital da sociedade CIMPOR - Cimentos de Portugal, S. A., a qual será realizada por fases.
 
 2 - A primeira fase rege-se pelo presente diploma e pela resolução do Conselho de Ministros prevista no artigo 5.º
 
-###### Art. 2.º A primeira fase do processo de reprivatização da CIMPOR - Cimentos de Portugal, S. A., consiste na alienação de 14000000 de acções, correspondentes a 20% do respectivo capital social, a realizar mediante oferta pública de venda de acções em bolsa de valores, sem prejuízo do disposto no artigo seguinte.
+Art. 2.º A primeira fase do processo de reprivatização da CIMPOR - Cimentos de Portugal, S. A., consiste na alienação de 14000000 de acções, correspondentes a 20% do respectivo capital social, a realizar mediante oferta pública de venda de acções em bolsa de valores, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 3.º - 1 - É reservado, para aquisição por trabalhadores da CIMPOR e da sua participada Banco de Fomento e Exterior, S. A., pequenos subscritores e emigrantes, um lote de acções correspondentes a 25% do capital social a alienar nesta fase.
+Art. 3.º - 1 - É reservado, para aquisição por trabalhadores da CIMPOR e da sua participada Banco de Fomento e Exterior, S. A., pequenos subscritores e emigrantes, um lote de acções correspondentes a 25% do capital social a alienar nesta fase.
 
 2 - Se a procura dos destinatários referidos no número anterior exceder o total das acções do lote que lhes é reservado, aquele lote poderá ser acrescido até 35% do capital a alienar nesta fase.
 
@@ -120,7 +124,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - As acções respeitantes à reserva de que tratam os números anteriores, que não sejam alienadas ao abrigo das disposições do presente artigo, acrescerão às acções que serão objecto da oferta pública prevista no artigo 2.º
 
-###### Art. 4.º - 1 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo do presente diploma, mais de 5% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excederem.
+Art. 4.º - 1 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo do presente diploma, mais de 5% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excederem.
 
 2 - A titularidade, directa ou indirecta, de acções da sociedade SECIL - Companhia Geral de Cal e Cimento, S. A., bem como da CMP - Cimentos de Maceira e Pataias, S. A., constitui causa impeditiva da participação, directa ou indirecta, nas operações de reprivatização da CIMPOR reguladas pelo presente diploma.
 
@@ -130,19 +134,19 @@ a) Como a mesma entidade, duas ou mais entidades que detenham entre si relaçõe
 
 b) Titularidade ou participação indirecta, as que ocorrerem por interposta pessoa, nos casos mencionados no n.º 2 do artigo 579.º do Código Civil, ou por intermédio de sociedade em cujo capital social se detenha participação igual ou superior a 5%.
 
-###### Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução do presente diploma.
+Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução do presente diploma.
 
 2 - A referida resolução fixará o preço de alienação das acções contempladas no artigo 2.º, bem como os preços especiais para as acções a adquirir, nos termos do artigo 3.º, por trabalhadores, pequenos subscritores e emigrantes.
 
 3 - A mesma resolução poderá prever que o pagamento das acções adquiridas por trabalhadores, ao abrigo da reserva referida no artigo 3.º, possa ser fraccionado ao longo do período de um ano.
 
-###### Art. 6.º - 1 - A aquisição de acções por trabalhadores será sujeita a quantias mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no artigo 5.º
+Art. 6.º - 1 - A aquisição de acções por trabalhadores será sujeita a quantias mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no artigo 5.º
 
 2 - A aquisição de acções por pequenos subscritores e emigrantes será sujeita a quantidades mínimas e máximas, a fixar na mesma resolução, procedendo-se a rateio, em função do número de subscritores, se for caso disso.
 
-###### Art. 7.º Nos 15 dias seguintes ao termo da primeira fase do processo de reprivatização a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas cuja participação atinja 1% do capital social, indicando a quantidade de acções de que cada um é titular.
+Art. 7.º Nos 15 dias seguintes ao termo da primeira fase do processo de reprivatização a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas cuja participação atinja 1% do capital social, indicando a quantidade de acções de que cada um é titular.
 
-###### Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de três meses a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio, com excepção das adquiridas por trabalhadores que optem pelo seu pagamento fraccionado, conforme previsto no n.º 3 do artigo 5.º, caso em que o período acima mencionado será de um ano.
+Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de três meses a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio, com excepção das adquiridas por trabalhadores que optem pelo seu pagamento fraccionado, conforme previsto no n.º 3 do artigo 5.º, caso em que o período acima mencionado será de um ano.
 
 2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas por força da titularidade daquelas a que o mesmo número se refere.
 
@@ -154,40 +158,40 @@ b) Titularidade ou participação indirecta, as que ocorrerem por interposta pes
 
 6 - As acções adquiridas por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade.
 
-###### Art. 9.º As nulidades cominadas no artigo anterior podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria sociedade.
+Art. 9.º As nulidades cominadas no artigo anterior podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria sociedade.
 
-###### Art. 10.º Nas deliberações tomadas em assembleia geral da CIMPOR, contar-se-ão como pertencentes a um só accionista os votos das acções detidas por quaisquer entidades que se encontrem nas situações previstas, com as necessárias adaptações, no artigo 530.º do Código do Mercado de Valores Mobiliários.
+Art. 10.º Nas deliberações tomadas em assembleia geral da CIMPOR, contar-se-ão como pertencentes a um só accionista os votos das acções detidas por quaisquer entidades que se encontrem nas situações previstas, com as necessárias adaptações, no artigo 530.º do Código do Mercado de Valores Mobiliários.
 
-###### Art. 11.º - 1 - Os accionistas da CIMPOR têm o dever de prestar ao conselho de administração da sociedade, por forma escrita, verdadeira, completa e elucidativa, e de forma satisfatória para este, todas as informações que o mesmo lhes solicitar sobre factos que lhes digam respeito e que tenham a ver com as previsões dos n.os 2 e 3 do artigo 525.º e do artigo 530.º do Código do Mercado de Valores Mobiliários.
+Art. 11.º - 1 - Os accionistas da CIMPOR têm o dever de prestar ao conselho de administração da sociedade, por forma escrita, verdadeira, completa e elucidativa, e de forma satisfatória para este, todas as informações que o mesmo lhes solicitar sobre factos que lhes digam respeito e que tenham a ver com as previsões dos n.os 2 e 3 do artigo 525.º e do artigo 530.º do Código do Mercado de Valores Mobiliários.
 
 2 - A falta de cumprimento deste dever até à data da realização da primeira reunião da assembleia geral da sociedade posterior ao pedido de informação implica a confissão, pelo accionista em causa, dos factos que lhe são imputados pelo conselho de administração.
 
 3 - Os acordos parassociais relativos à CIMPOR devem ser comunicados, na íntegra, ao conselho de administração da sociedade, nos 30 dias posteriores à sua celebração, pelos accionistas que o tenham subscrito, sob pena de ineficácia dos mesmos.
 
-###### Art. 12.º - 1 - Independentemente do número de acções da sociedade de que o Estado seja titular, o Governo terá sempre o direito de nomear, nos termos da respectiva legislação, um administrador, sem prejuízo da participação dos votos do Estado na eleição de outros administradores, nos termos gerais.
+Art. 12.º - 1 - Independentemente do número de acções da sociedade de que o Estado seja titular, o Governo terá sempre o direito de nomear, nos termos da respectiva legislação, um administrador, sem prejuízo da participação dos votos do Estado na eleição de outros administradores, nos termos gerais.
 
 2 - Não se consideram tomadas, contra o voto expresso correspondente às acções pertencentes ao Estado, as deliberações sobre alteração do contrato da sociedade, fusão, cisão, transformação, dissolução, limitação do direito de preferência dos accionistas ou outras para as quais o contrato de sociedade exija maioria qualificada.
 
-###### Art. 13.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da instituição, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas para o efeito.
+Art. 13.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da instituição, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas para o efeito.
 
-###### Art. 14.º - 1 - Nos 30 dias seguintes à conclusão da oferta pública de venda prevista no artigo 2.º, o conselho de administração convocará a assembleia geral de accionistas, para reunir no prazo mínimo previsto por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 14.º - 1 - Nos 30 dias seguintes à conclusão da oferta pública de venda prevista no artigo 2.º, o conselho de administração convocará a assembleia geral de accionistas, para reunir no prazo mínimo previsto por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Enquanto não tiverem lugar as fases subsequentes do processo de reprivatização da CIMPOR, os accionistas privados da sociedade terão o direito de designar até dois administradores, que serão escolhidos, por meio de eleição isolada, entre pessoas propostas em listas subscritas por grupos que representem um mínimo de 10% do capital social.
 
-###### Art. 15.º Para a realização das operações de alienação de acções de que trata o presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado Adjunto e das Finanças, poderes para contratar, por ajuste directo, a respectiva montagem, bem como a tomada firme e colocação das acções, e ainda para determinar todas as demais condições que se afigurem convenientes.
+Art. 15.º Para a realização das operações de alienação de acções de que trata o presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado Adjunto e das Finanças, poderes para contratar, por ajuste directo, a respectiva montagem, bem como a tomada firme e colocação das acções, e ainda para determinar todas as demais condições que se afigurem convenientes.
 
-###### Art. 16.º A escritura pública de alteração do contrato de sociedade da CIMPOR que inclua as modificações decorrentes do disposto no presente decreto-lei ficará isenta do pagamento de quaisquer taxas ou emolumentos.
+Art. 16.º A escritura pública de alteração do contrato de sociedade da CIMPOR que inclua as modificações decorrentes do disposto no presente decreto-lei ficará isenta do pagamento de quaisquer taxas ou emolumentos.
 
-###### Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Abril de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

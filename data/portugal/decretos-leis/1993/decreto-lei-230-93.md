@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/1993/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99410dc503cbac8b139890efb26057587d1560aede69ea7b813434090ea61842
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d500d43b414a33f13120bba1772251b98dd2737ab63cb3b5f33a6c4accd2eaca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aposentação Bonificada
 - Brigada Fiscal
-- Direcção Geral dos Serviços Prisionais
-- Guarda Fiscal
 - Comissão Liquidatária
 - Criação de Serviços
+- Direcção Geral dos Serviços Prisionais
 - Equiparação de Cargos
 - Extinção de Serviços
-- Integração de Trabalhadores
 - GNR
-- Serviço de Estrangeiros e Fronteiras
+- Guarda Fiscal
+- Integração de Trabalhadores
 - Pessoal Civil
 - Pessoal Militarizado
+- PSP
 - Quadro Paralelo
 - Reforma
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:225206:por
@@ -90,16 +90,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/120/1993/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/120/1993/04/16/p/dre
+- type: cites
+  target: pt:dre:177446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690982:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:37Z'
   warnings: []
   errors: []
 ---
@@ -432,21 +456,21 @@ O presente diploma entra em vigor no dia imediato ao da data de publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Maio de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 17 de Junho de 1993.**
+Promulgado em 17 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1993.**
+Referendado em 18 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Mapa a que se refere o artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf))](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
 
 MAPA II
 
@@ -454,16 +478,16 @@ Mapa a que se refere o artigo 24.º
 
 Tabela de correspondências entre postos da Guarda Fiscal e situação de supranumerário ao quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf))](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
 
 MAPA III
 
 Quadro paralelo da Direcção-Geral dos Serviços Prisionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf))](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
 
 MAPA IV
 
 Tabela de correspondência entre postos da Guarda Fiscal e categorias do quadro paralelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf))](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/148a00/34883493.pdf)

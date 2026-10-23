@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/112a00/25432549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1994-264276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeac9c9eb102852c0ede0b4c78f9f0522b7531687564672a29c2d790ebb946ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21f4c804c09796ff775825053b90aa6063ef631beba5ab05d34f351e5a1cb885
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- ANA
 - Definição de Competências
 - Direcção Geral da Aviação Civil
-- Recrutamento de Pessoal
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- ANA
+- Recrutamento de Pessoal
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:522380:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1902947:por
+  label: "Cessados os efeitos transitórios da al. d) do nº 6 do art. 3.º do Dec Lei 246/79 de 25-Jul, na redacção do presente\
+    \ diploma pelo DESP.18873/99(2ªSÉRIE).1999.09.14.SETR-MEPAT DR.IIS [229] DE 30/SET/1999\099\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18873-1999-1902947
+  date: '1999-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
@@ -99,16 +105,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978-a/1992/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978-a/1992/10/13/p/dre
+- type: cites
+  target: pt:dre:240067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522380:por
+  label: "Revogado, sem prejuízo da aplicação das disposições de natureza transitória previstas no DEC LEI.133/98.1998.05.15.MEPAT,\
+    \ pelo mesmo diploma, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1998-522380
+  date: '1998-05-15'
 article_structure:
-  article_count: 21
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 22
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:33Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +187,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Natureza
 
@@ -433,7 +495,9 @@ d) Participar na instrução dos inquéritos dos acidentes e incidentes aeronáu
 
 3 - O GPSA é dirigido por um coordenador, equiparado, para todos os efeitos legais, a director de serviços.
 
-###### Artigo 13.º — Divisão de Organização e Estatística
+###### Artigo 13.º
+
+##### Divisão de Organização e Estatística
 
 À Divisão de Organização e Estatística compete, em especial:
 
@@ -449,7 +513,9 @@ e) Promover as acções de formação de pessoal adequadas à satisfação das n
 
 f) Propor medidas tendentes à racionalização e normalização de instalações e equipamentos dos serviços.
 
-###### Artigo 14.º — Divisão de Documentação e Informação
+###### Artigo 14.º
+
+##### Divisão de Documentação e Informação
 
 À Divisão de Documentação e Informação compete, em especial:
 
@@ -519,7 +585,7 @@ A DGAC utilizará para identificação de bens, documentos e tudo o mais que se 
 
 O artigo 3.º do [Decreto-Lei n.º 246/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295), de 25 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -559,13 +625,13 @@ h) Concretizar e fiscalizar as medidas de facilitação de tráfego nos terminai
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado no Porto em 12 de Abril de 1994.**
+Promulgado no Porto em 12 de Abril de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1994.**
+Referendado em 14 de Abril de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
@@ -573,4 +639,4 @@ Mapa a que se refere o n.º 1 do artigo 15.º
 
 Quadro de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/112a00/25432549.pdf))](https://files.diariodarepublica.pt/1s/1994/05/112a00/25432549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/112a00/25432549.pdf)

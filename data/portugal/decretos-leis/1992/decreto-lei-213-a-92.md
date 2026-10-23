@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 235/1992, 1º Suplemento, Série I-A de 1992-10-12
   number: '235'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4762-(2) a 4762-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/235a01/00020006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213-a/1992/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-a-1992-298784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85782630f49d6abe2ba4c5131e1813a36da95b0d07b7d76e051aa116d1064205
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f3af972ba910cd257f9e16c5d479890a5a3c4491c0d2398a14cd0c801006a06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria de Carnes
-- Sociedade Anónima
 - Capital Social
 - Criação de Empresas
 - Estatuto
+- Indústria de Carnes
 - Iroma
 - PEC-Produtos Pecuários e Alimentação
+- Sociedade Anónima
 - Transferência Patrimonial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213-b/1992/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213-b/1992/10/12/p/dre
+- type: cites
+  target: pt:dre:298785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:10Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +123,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada, com efeitos a partir da data de entrada em vigor do presente decreto-lei, uma sociedade anónima com a denominação de PEC - Produtos Pecuários e Alimentação, S. A., com o capital social de 9100000000$00, integralmente subscrito e realizado pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), sendo 9039215000$00 realizados em espécie e 60785000$00 em numerário.
+Artigo 1.º É criada, com efeitos a partir da data de entrada em vigor do presente decreto-lei, uma sociedade anónima com a denominação de PEC - Produtos Pecuários e Alimentação, S. A., com o capital social de 9100000000$00, integralmente subscrito e realizado pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), sendo 9039215000$00 realizados em espécie e 60785000$00 em numerário.
 
-###### Art. 2.º - 1 - São transferidas da titularidade do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a da sociedade PEC - Produtos Pecuários e Alimentação, S. A., as participações que este Instituto detém nas sociedades enumeradas nas alíneas seguintes, as quais constituirão a parte do capital social realizada em espécie da sociedade ora constituída:
+Art. 2.º - 1 - São transferidas da titularidade do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para a da sociedade PEC - Produtos Pecuários e Alimentação, S. A., as participações que este Instituto detém nas sociedades enumeradas nas alíneas seguintes, as quais constituirão a parte do capital social realizada em espécie da sociedade ora constituída:
 
 a) PEC-Nordeste - Indústria de Produtos Pecuários do Norte, S. A.: 1150000 acções, com o valor nominal de 1000$00 cada uma, a que é atribuído o valor total de 1150000000$00;
 
@@ -159,13 +167,13 @@ t) Mercado Abastecedor do Porto, S. A.: 38305 acções, com o valor nominal de 1
 
 2 - Nos casos em que os estatutos das sociedades referidas nas alíneas do número anterior prevejam preferências a favor dos seus sócios na transmissão de acções a terceiros, se essas preferências vierem a ser exercidas total ou parcialmente, as participações preferidas serão substituídas no capital social da sociedade criada pelo presente decreto-lei pelo valor em dinheiro resultante da sua aquisição pelos preferentes.
 
-###### Art. 3.º São aprovados os estatutos da sociedade PEC - Produtos Pecuários e Alimentação, S. A., que se publicam em anexo ao presente decreto-lei.
+Art. 3.º São aprovados os estatutos da sociedade PEC - Produtos Pecuários e Alimentação, S. A., que se publicam em anexo ao presente decreto-lei.
 
-###### Art. 4.º - 1 - No prazo de 90 dias após a constituição da empresa, serão definidas as condições da respectiva privatização, nos termos da lei vigente, e tomando em consideração a especificidade própria do sector agro-pecuário nacional.
+Art. 4.º - 1 - No prazo de 90 dias após a constituição da empresa, serão definidas as condições da respectiva privatização, nos termos da lei vigente, e tomando em consideração a especificidade própria do sector agro-pecuário nacional.
 
 2 - Independentemente do disposto no n.º 1, é permitido ao conselho de administração, com prévio parecer favorável do conselho fiscal, alienar por troca, através de negociação particular, parte das participações que esta sociedade detém nas sociedades PEC-Nordeste - Indústria de Produtos Pecuários do Norte, S. A., PEC-Lusa - Indústria de Produtos Pecuários de Aveiro, Coimbra e Viseu, S. A., PEC-Tejo - Indústria de Produtos Pecuários de Lisboa e Setúbal, S. A., e PEC-BAL - Indústria de Produtos Pecuários da Beira e Alentejo, S. A., num total que não exceda 300000 contos, em contrapartida da aquisição para a sociedade de bens imóveis de superior interesse para a actividade da sociedade ora constituída e das suas participadas.
 
-###### Art. 5.º Enquanto o IROMA detiver, pelo menos, 5% do capital da sociedade:
+Art. 5.º Enquanto o IROMA detiver, pelo menos, 5% do capital da sociedade:
 
 a) O IROMA poderá designar um dos membros do conselho de administração;
 
@@ -173,29 +181,29 @@ b) Sem prejuízo do disposto na lei comerial quanto à prestação de informaç�
 
 c) O conselho fiscal enviará trimestralmente aos Ministérios das Finanças e da Agricultura um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 6.º - 1 - Nos termos do regime estabelecido no n.º 3 do artigo 23.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, os funcionários do Estado e de institutos públicos, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na sociedade ora criada, em regime de requisição, conservando todos os direitos e regalias inerentes aos seus quadros de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naqueles quadros.
+Art. 6.º - 1 - Nos termos do regime estabelecido no n.º 3 do artigo 23.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, os funcionários do Estado e de institutos públicos, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na sociedade ora criada, em regime de requisição, conservando todos os direitos e regalias inerentes aos seus quadros de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naqueles quadros.
 
 2 - Sem prejuízo da renovação, nos termos da lei, das requisições entretanto efectuadas, a faculdade prevista no número anterior cessa decorrido um ano sobre a data de entrada em vigor do presente diploma.
 
-###### Art. 7.º A primeira assembleia geral da sociedade deve reunir-se na sua sede, no dia em que entrar em vigor o presente decreto-lei, a fim de proceder à eleição dos seus órgãos sociais, nos termos estatutários.
+Art. 7.º A primeira assembleia geral da sociedade deve reunir-se na sua sede, no dia em que entrar em vigor o presente decreto-lei, a fim de proceder à eleição dos seus órgãos sociais, nos termos estatutários.
 
-###### Art. 8.º O presente decreto-lei constitui título bastante para a constituição da sociedade PEC - Produtos Pecuários e Alimentação, S. A., e para a transferência da propriedade das participações sociais descritas no n.º 1 do artigo 2.º, e respectivos registos.
+Art. 8.º O presente decreto-lei constitui título bastante para a constituição da sociedade PEC - Produtos Pecuários e Alimentação, S. A., e para a transferência da propriedade das participações sociais descritas no n.º 1 do artigo 2.º, e respectivos registos.
 
-###### Art. 9.º A sociedade reger-se-á pelas normas do presente decreto-lei e dos respectivos estatutos, aplicando-se-lhe, em tudo o mais, o direito comum respeitante às sociedades comerciais.
+Art. 9.º A sociedade reger-se-á pelas normas do presente decreto-lei e dos respectivos estatutos, aplicando-se-lhe, em tudo o mais, o direito comum respeitante às sociedades comerciais.
 
-###### Art. 10.º O presente diploma entra em vigor oito dias após a sua publicação.
+Art. 10.º O presente diploma entra em vigor oito dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 8 de Outubro de 1992.**
+Promulgado em 8 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da PEC - Produtos Pecuários e Alimentação, S. A.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/084a00/18031806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/1993/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1993-688801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd10828ffb33b0843414d9f518922b59ac1119c43c5b93dfd24b47ef3f9dd451
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00cc574d225c2b46af64d09a3a30f2d35f84558fb7bbc82d81b3b12fa6113ca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Certificado de Qualidade
 - Construção Civil
 - Contra-ordenação
 - Controlo de Qualidade
-- Laboratório Nacional de Engenharia Civil
-- Certificado de Qualidade
 - Instituto Português da Qualidade
+- Laboratório Nacional de Engenharia Civil
 - Material de Construção
+- Multa
 - Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:500018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 3.º a 6.º, 12.º e 13.º pelo DEC LEI.139/95.14.06.1995.MIE, DR.IS-A [136] de 14.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterados os arts. 5º, 6º e 13º, com a redacção dada pelo Dec Lei 139/95 de 14-Jun, pelo DEC LEI.374/98.1998.11.24.MECO\
+    \ DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
+- type: amended_by
+  target: pt:dre:262089:por
+  label: "Alterados os arts. 1º a 13º do presente diploma, com a redacção conferida nos Dec Lei 139/95 de 14-Jun e 374/98\
+    \ de 24-Nov, e aditados os anexos I a IV a este mesmo diploma, pelo DEC LEI.4/2007.08.01.2007.MEI, DR.IS [5] de 08.01.2007,\
+    \ que o republicou com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2007-262089
+  date: '2007-01-08'
 - type: cites
   target: celex:31989L0106
   label: null
@@ -89,16 +107,22 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:500018:por
+  label: "Revogado, a partir de 11.09.2013, o presente diploma, com as alterações introduzidas pelos Dec Lei 139/95 de 14-jun,\
+    \ 374/98 de 24-nov e 4/2007 de 08-jan, pelo DEC LEI.130/2013.10.09.2013.MECO, DR.IS [174] de 10.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2013-500018
+  date: '2013-09-10'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:56Z'
   warnings: []
   errors: []
 ---
@@ -275,12 +299,12 @@ c) Dar conhecimento dessas aprovações técnicas às demais entidades que const
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 19 de Março de 1993.**
+Promulgado em 19 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1993.**
+Referendado em 22 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

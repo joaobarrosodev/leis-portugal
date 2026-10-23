@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 8/1993, 1º Suplemento, Série I-A de 1993-01-11
   number: '8'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 86-(2) a 86-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/008a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72ee8864453761f68897d7d6fa0fe04109770c7afae45b05a049a0d323a438a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d9aa4c52a1307de321f1aca4b38408859b8c8843366bce1ac76004c59bf36fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,13 @@ relationships:
   target: pt:dre:117008017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466831:por
+  label: "Determinada, a transferência para as AMT das atribuições e competências conferidas pelo presente diploma e respectiva\
+    \ legislação complementar, pelo DEC LEI.268/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003, nos termos do seu art.\
+    \ 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2003-466831
+  date: '2003-10-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/18/1992/02/01/p/dre
   label: null
@@ -84,16 +91,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/993/1992/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/993/1992/10/22/p/dre
+- type: cites
+  target: pt:dre:149822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352316:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67442930:por
+  label: Revogado pelo(a) Lei n.º 52/2015 - Diário da República n.º 111/2015, Série I de 2015-06-09 nos termos dos arts 16.º
+    e 17.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2015-67442930
+  date: '2015-06-09'
+- type: repealed_by
+  target: pt:dre:117008017:por
+  label: Revogada, nos termos da al. a ) do art. 15.º, da presente Portaria, pelo(a) Portaria n.º 298/2018 - Diário da República
+    n.º 222/2018, Série I de 2018-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2018-117008017
+  date: '2018-11-19'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:38Z'
   warnings: []
   errors: []
 ---
@@ -218,15 +257,15 @@ Os preços dos transportes colectivos urbanos explorados directamente pelos muni
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Janeiro de 1993.**
+Promulgado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1993.**
+Referendado em 8 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Lista a que se refere o n.º 2 do artigo 10.º
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/1993/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1993-274239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc12c3ee2e6d5108556f702b1a4e27198556dc8d7d015de6e5fcbb80dd92d0a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92238bca7a226816bc727b7e434a209e30bf936e6576d82f38503e77ad739fc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Fogos
+- Arrendamento Urbano para Habitação
 - Cooperativa de Habitação
 - Crédito à Habitação
 - Crédito Bonificado
 - Habitação Social
 - Instituto Nacional de Habitação
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:358963:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358963:por
+  label: "Alterados os art 4.º a 7.º pelo DEC LEI.145/97.1997.06.11.MEPAT DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1997-358963
+  date: '1997-06-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163/1992/08/05/p/dre
   label: null
@@ -86,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/183/1992/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/183/1992/08/22/p/dre
+- type: cites
+  target: pt:dre:258130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:06Z'
   warnings: []
   errors: []
 ---
@@ -120,13 +145,13 @@ Assim:
 
 Nos termos da alínea a) do n.º do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os fogos construídos com financiamentos ao abrigo do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, ficam sujeitos ao regime de intransmissibilidade previsto no presente diploma.
+Artigo 1.º Os fogos construídos com financiamentos ao abrigo do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, ficam sujeitos ao regime de intransmissibilidade previsto no presente diploma.
 
-###### Art. 2.º - 1 - O regime de intransmissibilidade de fogos destinados à habitação própria permanente tem a duração de cinco anos e conta-se a partir da data de aquisição ou da emissão da respectiva licença de utilização, se esta for posterior.
+Art. 2.º - 1 - O regime de intransmissibilidade de fogos destinados à habitação própria permanente tem a duração de cinco anos e conta-se a partir da data de aquisição ou da emissão da respectiva licença de utilização, se esta for posterior.
 
 2 - No caso de habitações destinadas a arrendamento, nos termos do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, o regime de intransmissibilidade conta-se a partir da data de emissão da licença de utilização.
 
-###### Art. 3.º - 1 - Dentro do respectivo prazo, o regime de intransmissibilidade está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do cooperador ou do respectivo cônjuge.
+Art. 3.º - 1 - Dentro do respectivo prazo, o regime de intransmissibilidade está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do cooperador ou do respectivo cônjuge.
 
 2 - O regime de intransmissibilidade não prejudica a possibilidade de alienação do fogo ao arrendatário, no caso de este se encontrar arrendado ao abrigo do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, mantendo-se, contudo, o decurso do respectivo prazo.
 
@@ -134,28 +159,28 @@ Nos termos da alínea a) do n.º do artigo 201.º da Constituição, o Governo d
 
 4 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda do fogo perante documento emitido, para o efeito, pelo INH.
 
-###### Art. 4.º - 1 - A cooperativa só pode receber dos sócios, a título de sinal e ou início de pagamento, as importâncias correspondentes à fracção do valor do fogo que não é financiado pelo INH.
+Art. 4.º - 1 - A cooperativa só pode receber dos sócios, a título de sinal e ou início de pagamento, as importâncias correspondentes à fracção do valor do fogo que não é financiado pelo INH.
 
 2 - As importâncias que excedam o montante referido no número anterior são obrigatoriamente afectas à imediata amortização dos financiamentos em dívida.
 
-###### Art. 5.º As cooperativas ficam obrigadas a divulgar, nos termos a fixar por portaria do Ministro das Obras Públicas, Transportes e Comunicações, os elementos referentes ao projecto e ao financiamento, os valores de venda iniciais e previsíveis dos respectivos fogos e os demais que se mostrem adequados ao correcto conhecimento das condições de aquisição.
+Art. 5.º As cooperativas ficam obrigadas a divulgar, nos termos a fixar por portaria do Ministro das Obras Públicas, Transportes e Comunicações, os elementos referentes ao projecto e ao financiamento, os valores de venda iniciais e previsíveis dos respectivos fogos e os demais que se mostrem adequados ao correcto conhecimento das condições de aquisição.
 
-###### Art. 6.º - 1 - A violação do disposto nos artigos 4.º e 5.º pode dar lugar à imediata suspensão do financiamento à cooperativa, para além da inibição de acesso ao crédito bonificado por um período de dois anos.
+Art. 6.º - 1 - A violação do disposto nos artigos 4.º e 5.º pode dar lugar à imediata suspensão do financiamento à cooperativa, para além da inibição de acesso ao crédito bonificado por um período de dois anos.
 
 2 - Sem prejuízo do disposto no número anterior, a violação do artigo 4.º e dos preços máximos de venda fixados constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 7.º - 1 - Para efeitos do disposto no artigo 1.º do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, as cooperativas podem adjudicar, por ajuste directo, as obras de valor inferior ao limite de competência para autorização de despesas com dispensa de concurso legalmente definido para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.
+Art. 7.º - 1 - Para efeitos do disposto no artigo 1.º do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, as cooperativas podem adjudicar, por ajuste directo, as obras de valor inferior ao limite de competência para autorização de despesas com dispensa de concurso legalmente definido para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.
 
 2 - As normas técnicas de execução do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, designadamente no tocante à padronização de cadernos de encargos, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/217a00/49914995.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/313/1993/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1993-659959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b49426cd4ef57fe8ac8fae9b1c73f3b2a62fcf2963e42e2be8f1d4c04582b47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 174e940789d3ee9af6756e57e2deaa18f31f75b0352ff0d416a3584a9d6939a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,40 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Instituição de Crédito
+- Branqueamento de Capitais
 - CEE
-- Multa
+- Companhia de Seguros
 - Contra-ordenação
 - Definição de Competências
-- Lisboa
-- Branqueamento de Capitais
-- Ministro das Finanças
-- Seguro
-- Mercado de Capitais
-- Sociedade Gestora de Fundos de Pensões
-- Companhia de Seguros
-- Instituição Financeira
 - Empresa Estrangeira
+- Instituição de Crédito
+- Instituição Financeira
+- Lisboa
+- Mercado de Capitais
+- Ministro das Finanças
+- Multa
+- Seguro
+- Sociedade Gestora de Fundos de Pensões
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:210422:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterados os art.s 3º, 4º, 24º e 25º (o último na redacção da Decl-Rect 231/93, de 30-Nov), pelo DEC LEI.323/2001.2001.12.17.MJ\
+    \ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
 - type: cites
   target: celex:31991L0308
   label: null
   source: http://data.europa.eu/eli/dir/1991/308/oj
+- type: corrected_by
+  target: pt:dre:428843:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 231/93, DE 17 DE NOVEMBRO, PUBLICADA NO DR.IS-A, 280 3SUPL, DE 931130.\0\
+    31130.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/231-1993-428843
+- type: repealed_by
+  target: pt:dre:210422:por
+  label: "Revogado pela LEI.11/2004.27.03.2004.AR, DR.IS-A [74] de 27.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2004-210422
+  date: '2004-03-27'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:32Z'
   warnings: []
   errors: []
 ---
@@ -351,12 +367,12 @@ Compete ao Tribunal Judicial da Comarca de Lisboa apreciar o recurso de impugna�
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

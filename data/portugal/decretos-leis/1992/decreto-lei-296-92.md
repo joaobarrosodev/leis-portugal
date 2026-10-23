@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a00/60246025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/1992/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1992-408878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e84bbb62e8900b7dcb55fe5e7423398aba31a416c9ac3ac3a44dd5b9c11423c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a50ece36acea1ed38a855eeaa4b3198eb27b6516247a91b4fd15137cdd78c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,41 @@ relationships:
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516028:por
+  label: "Alterado o nº 1 do art. 5º pelo DEC LEI.113/98.1998.05.04.MEPAT, DR.IS-A [102] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1998-516028
+  date: '1998-05-04'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogado a partir da mesma data, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:01Z'
   warnings: []
   errors: []
 ---
@@ -142,12 +167,12 @@ O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1992.**
+Referendado em 15 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

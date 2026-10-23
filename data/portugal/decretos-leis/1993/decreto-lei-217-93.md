@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/139a00/32163222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/1993/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1993-265697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 458ed57727f6a19bbae9daf26d3e7f8e6aa5794b8343a981027849320c26d48b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dc828b83836e926d2e5b96860ed24b23bbd1db82daa38e0fe20660f32a356f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral da Segurança Social
 - Definição de Competências
 - Departamento de Planeamento da Segurança Social
 - Direcção Geral da Acção Social
 - Direcção Geral da Organização e Recursos Humanos
+- Direcção Geral da Segurança Social
 - Integração de Trabalhadores
 - Ministério do Emprego e da Segurança Social
 - Orgânica
 - Transferência Patrimonial
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA SOLIDARIEDADE E SEGURANÇA SOCIAL ATRAVES DO DEC LEI 296-A/95\
+    \ DE 17-NOV DR.IS-A [266]SUPL\0 [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:638546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476916:por
+  label: "Determinado pelo DEC LEI.35/96.02.05.1996.MSSS, DR.IS-A [102] de 02.05.1996, nos termos dos arts. 22.º e 23.º, que\
+    \ as competências consultivas da extinta Comissão Nacional para a Política de Terceira Idade, criada pela Res 15/88, de\
+    \ 23-Abr, passem para o Conselho Nacional para a Política de Terceira Idade, transmitindo-se as outras competências, direitos\
+    \ e deveres para a Direcção-Geral da Acção Social, cuja orgânica foi aprovada no presente diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1996-476916
+  date: '1996-05-02'
+- type: amended_by
+  target: pt:dre:474696:por
+  label: "Extinta a presente Direcção-Geral, e determinado que a Direcção-Geral de Solidariedade e Segurança Social lhe suceda\
+    \ em matéria de acção social, pelo DEC LEI.45-A/2000.22.03.2000.MTS, DR.IS-A [69]Supl de 22.03.2000, na redacção dada\
+    \ ao Dec Lei 115/98, de 04-Maio\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-a-2000-474696
+  date: '2000-03-22'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinado pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004, que a Direcção-Geral da Segurança\
+    \ Social, sucede nos direitos e obrigações, à Direcção-Geral da Solidariedade e Segurança Social, cujas competências se\
+    \ encontram definidas no presente diploma e no Dec Lei 216/93, de 16-Jun \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:457199:por
+  label: "Determinado pelo DEC LEI.5/2005.05.01.2005.MSSFC, DR.IS-A [3] de 05.01.2005, que a Direcção-Geral da Segurança Social\
+    \ da Família e da Criança, sucede nos direitos e obrigações, à Direcção-Geral da Segurança Social, cujas competências\
+    \ se encontram definidas no presente diploma e no Dec Lei 216/93, de 16-Jun\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638546:por
+  label: "Revogado, a partir de 01.06.2007 e nos termos do art. 5º do Dec Lei 201/2006, de 27 de Outubro, pelo DR.64/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-2007-638546
+  date: '2007-05-29'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:17Z'
   warnings: []
   errors: []
 ---
@@ -399,12 +447,12 @@ Transita para a DGAS o património afecto às Direcções-Gerais da Segurança S
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

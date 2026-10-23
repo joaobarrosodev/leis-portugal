@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/078a00/17121718.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1993-680644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0342fbfebcb32fde481a12e40c26a6ba05112da44cf7475ab9560273fbbaebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2f43feb77f89d05ce5a5c66d4b6f278fa2dbfa94ff1fb4c14e474e758b63112
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,39 @@ relationships:
   target: pt:dre:476876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:460999:por
+  label: "Alterados os arts. 5.º e 8.º pelo DEC LEI.331-B/95.1995.12.22.MF,DR.IS-A [294]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-b-1995-460999
+  date: '1995-12-22'
+- type: amended_by
+  target: pt:dre:476876:por
+  label: "Totalmente revogado pelo DEC LEI.99/97.1997.04.26.MADRP, DR.IS-A [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1997-476876
+  date: '1997-04-26'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:142122:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 69/93, DE 28 DE ABRIL, PUBLICADA NO DR.IS-A, 101, 2SUPL, DE 930430.\0\
+    30430.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/69-1993-142122
 article_structure:
   article_count: 32
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:45Z'
   warnings: []
   errors: []
 ---
@@ -477,12 +500,12 @@ Os móveis e imóveis afectos às delegações regionais que se mostrem necessá
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

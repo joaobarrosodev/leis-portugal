@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/060a00/11501155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/1993/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1993-634940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9757e19acfdcdccfc34dd6f048b49597af92676c5c9015ee1aba8ab698b4de79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00a2d5cb179c328f6697d7ef1d9ae0ebb043955f81a1b2e7bde0da10e0e80500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Estatuto
 - Região de Turismo da Serra do Marão
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:249827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584859:por
+  label: "Alterados os arts. 2º, 4º e 12º dos Estatutos pelo DEC LEI.5/2002.2002.01.04.MECO DR.IS-A [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2002-584859
+  date: '2002-01-04'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrada no Ministério do Turismo a Região de Turismo da Serra do Marão, cujos estatutos foram aprovados pelo presente\
+    \ diploma, alterado pelo Dec Lei 5/2002 de 04-Jan, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/1991/08/09/p/dre
   label: null
@@ -85,16 +97,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:312857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680630:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:490030:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 105/93, DE 30 DE JUNHO, PUBLICADA NO DR.IS-A, 151, 4SUPL, DE 930630.\0\
+    30630.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/105-1993-490030
+- type: repealed_by
+  target: pt:dre:249827:por
+  label: "Revogado o presente diploma, alterado pelo Dec Lei 5/2002 de 04-Jan, pelo DEC LEI.67/2008.10.04.2008.MEI, DR.IS\
+    \ [71] de 10.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2008-249827
+  date: '2008-04-10'
 article_structure:
-  article_count: 40
+  article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:33Z'
   warnings: []
   errors: []
 ---
@@ -111,21 +150,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos da Região de Turismo da Serra do Marão, em anexo ao presente diploma, do qual fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos da Região de Turismo da Serra do Marão, em anexo ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 2.º É revogada a [Portaria n.º 428/83](https://diariodarepublica.pt/dr/detalhe/portaria/428-1983-312857), de 14 de Abril.
+Art. 2.º É revogada a [Portaria n.º 428/83](https://diariodarepublica.pt/dr/detalhe/portaria/428-1983-312857), de 14 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - António Fernando Couto dos Santos - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em Setúbal em 5 de Fevereiro de 1993.**
+Promulgado em Setúbal em 5 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1993.**
+Referendado em 15 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da Região de Turismo da Serra do Marão
 

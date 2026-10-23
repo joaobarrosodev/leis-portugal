@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/105a00/23492355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/1993/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1993-274404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6b29fcf55eca83503fcbb8e89a0e6fe66573f4939e5bb985694a422dd4e307e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 017e887658230505add937b7baca2d750f16d9fe910c1b7e46947b8bd0fa2f34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região de Turismo
 - Estatuto
+- Região de Turismo
 - Região de Turismo do Ribatejo
 - Ribatejo
 relationships:
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:249827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:263684:por
+  label: "Alterado o art. 2º dos Estatutos (passando a integrar os municípios de Abrantes e Vila Nova da Barquinha) pelo DEC\
+    \ LEI.64/2002.2002.03.20.MECO DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2002-263684
+  date: '2002-03-20'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrada no Ministério do Turismo a Região de Turismo do Ribatejo, cujos estatutos constam do presente diploma,\
+    \ alterado pelo Dec Lei 64/2002 de 20-Mar, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/1991/08/09/p/dre
   label: null
@@ -82,16 +94,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:182978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249827:por
+  label: "Revogado o presente diploma, alterado pelo Dec Lei 64/2002 de 20-Mar, pelo DEC LEI.67/2008.10.04.2008.MEI, DR.IS\
+    \ [71] de 10.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2008-249827
+  date: '2008-04-10'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:01Z'
   warnings: []
   errors: []
 ---
@@ -108,21 +146,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos da Região de Turismo do Ribatejo, em anexo ao presente diploma, do qual fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos da Região de Turismo do Ribatejo, em anexo ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 2.º São revogadas as Portarias n.os [432/85](https://diariodarepublica.pt/dr/detalhe/portaria/432-1985-182978), de 6 de Julho, [37/87](https://diariodarepublica.pt/dr/detalhe/portaria/37-1987-663477), de 17 de Janeiro, e [796/88](https://diariodarepublica.pt/dr/detalhe/portaria/796-1988-356519), de 30 de Novembro.
+Art. 2.º São revogadas as Portarias n.os [432/85](https://diariodarepublica.pt/dr/detalhe/portaria/432-1985-182978), de 6 de Julho, [37/87](https://diariodarepublica.pt/dr/detalhe/portaria/37-1987-663477), de 17 de Janeiro, e [796/88](https://diariodarepublica.pt/dr/detalhe/portaria/796-1988-356519), de 30 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - António Fernando Couto dos Santos - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1993.**
+Referendado em 12 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da Região de Turismo do Ribatejo
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/01/00400/00070009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19621-1963-217729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 134c89ed55ec0bd5d8fda155d1fc3777fbb06a7730e3b84a7ae4e9c36f0aea0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 459282a90bfc177637ab4078d320f66db2a71f2cf6ee7d8c3398f81dd27c7ec1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Naval
+- Definição de Competências
+- Marinha
+- Normalização
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:473364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472488:por
+  label: Alterados os n.ºs 5.º, 6,º e 15.º e acrescentados os n.ºs 14.º-A e 14.º-B pelo(a) Portaria n.º 20526 - Diário do
+    Governo n.º 96/1964, Série I de 1964-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20526-1964-472488
+  date: '1964-04-22'
+- type: amended_by
+  target: pt:dre:238817:por
+  label: Aditado o n.º 15.º-A e alterado o n.º 23.º pelo(a) Portaria n.º 21120 - Diário do Governo n.º 43/1965, Série I de
+    1965-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21120-1965-238817
+  date: '1965-02-20'
+- type: cites
+  target: pt:dre:170534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473364:por
+  label: Revogada pelo(a) Portaria n.º 22021 - Diário do Governo n.º 127/1966, Série I de 1966-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22021-1966-473364
+  date: '1966-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:14Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +155,7 @@ b) Operações;
 
 c) Logística.
 
-**O chefe do estado-maior poderá ser auxiliado no desempenho das suas funções por um subchefe do estado-maior, no qual delegará as tarefas que julgar conveniente.**
+O chefe do estado-maior poderá ser auxiliado no desempenho das suas funções por um subchefe do estado-maior, no qual delegará as tarefas que julgar conveniente.
 
 4.º Os serviços centrais são chefiados por oficiais superiores e a sua acção exerce-se, no respectivo âmbito, em relação a todos os órgãos, forças e unidades do comando.
 
@@ -218,6 +249,6 @@ O serviço referido na alínea b) será designado por serviço de transportes qu
 
 Ministério da Marinha, 5 de Janeiro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/00400/00070009.pdf))](https://files.diariodarepublica.pt/1s/1963/01/00400/00070009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/00400/00070009.pdf)
 
 Ministério da Marinha, 5 de Janeiro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

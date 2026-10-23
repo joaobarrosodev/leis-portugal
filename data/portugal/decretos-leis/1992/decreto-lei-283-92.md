@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/283/1992/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1992-623854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a358c482a379d754b4eea88234f399c53601ce40008e9da695e458cd9e02eea3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e005a64be93a9b732b24a83a408b108af1a9c677df82720eb41b7a2d9cea06d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Garantia
-- Empresa
-- Modernização Administrativa
-- Garantia Bancária
 - Doença Profissional
-relationships: []
+- Empresa
+- Garantia
+- Garantia Bancária
+- Modernização Administrativa
+relationships:
+- type: cites
+  target: pt:dre:437415:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:46Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +106,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 71.º do [Decreto n.º 10634](https://diariodarepublica.pt/dr/detalhe/decreto/10634-1925-437415), de 20 de Março de 1925, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 71.º do [Decreto n.º 10634](https://diariodarepublica.pt/dr/detalhe/decreto/10634-1925-437415), de 20 de Março de 1925, passa a ter a seguinte redacção:
 
-###### Art. 71.º As companhias, sociedades, bancos, Montepio Geral e quaisquer estabelecimentos de crédito referidos neste decreto apresentarão nas repartições de finanças relações certificadas das acções, obrigações, cédulas, amortizações, dividendos, juros, depósitos de todas as classes, contas correntes e caixas e gavetas fechadas que se achem abandonados.
+Art. 71.º As companhias, sociedades, bancos, Montepio Geral e quaisquer estabelecimentos de crédito referidos neste decreto apresentarão nas repartições de finanças relações certificadas das acções, obrigações, cédulas, amortizações, dividendos, juros, depósitos de todas as classes, contas correntes e caixas e gavetas fechadas que se achem abandonados.
 
-###### Art. 2.º O artigo 70.º do Decreto-Lei n.º 360/71, de 21 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º O artigo 70.º do Decreto-Lei n.º 360/71, de 21 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 70.º — [...]
 
@@ -122,12 +126,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

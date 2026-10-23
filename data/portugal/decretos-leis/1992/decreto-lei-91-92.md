@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/119a00/24642465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/1992/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1992-523411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00681a010dcf3070681517ed285f8d7ca50f8691f5ad2274dd6d4f770f5ca7ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e87a63969909bb29ac8d7c36b68aa3ced0723894eab8bf03d9e8e17494acdbf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tribunal Constitucional
 - Orgânica
 - Serviços de Apoio ao Tribunal Constitucional
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:633292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:384422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633292:por
+  label: "Revogadas as disposições ainda em vigor pelo DEC LEI.545/99.1999.12.14.PCM, DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/545-1999-633292
+  date: '1999-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:26Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +119,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 6.º, 7.º, 9.º e 11.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 6.º, 7.º, 9.º e 11.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - A secção de expediente e contabilidade é dirigida por um secretário judicial, podendo ser-lhe ainda afectado um escrivão de direito, cuja competência específica, que poderá abranger funções de chefia relativas a um ou mais sectores de actividade da secção, será determinada por despacho do Presidente.
 
 3 - As secções de processos são dirigidas por escrivães de direito.
 
-###### Art. 6.º - 1 - Compete ao secretário judicial dirigir a secção de expediente, sem prejuízo do disposto no n.º 2 do artigo 4.º, e coadjuvar nas suas funções o secretário de tribunal superior.
+Art. 6.º - 1 - Compete ao secretário judicial dirigir a secção de expediente, sem prejuízo do disposto no n.º 2 do artigo 4.º, e coadjuvar nas suas funções o secretário de tribunal superior.
 
 2 - Compete aos escrivães de direito, para além do disposto no n.º 2 do artigo 4.º, a chefia das secções de processos.
 
@@ -114,13 +135,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - ...
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - Nos seus impedimentos ou faltas o secretário judicial e os escrivães de direito são substituídos, respectivamente, pelo escrivão de direito referido no n.º 2 do artigo 4.º e pelo escrivão-adjunto mais antigo.
 
 3 - O disposto nos números anteriores é aplicável no caso de vacatura dos respectivos lugares.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - Os concursos de provimento em lugares do quadro de pessoal da secretaria serão organizados pelos serviços do Tribunal e despachados pelo Presidente, não lhes sendo aplicável o regime de movimentos previsto no decreto-lei referido no número anterior.
 
@@ -128,7 +149,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os despachos de nomeação respeitantes a funcionários de justiça são comunicados, no mais breve prazo, à Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - O Presidente pode delegar no chefe do seu gabinete poderes de superintendência relativamente aos serviços da secretaria do Tribunal.
 
@@ -154,16 +175,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 13 - O Presidente do Tribunal pode recorrer à requisição de funcionários e agentes da administração directa e indirecta do Estado, incluindo empresas públicas, bem como da administração regional e local, para o exercício de funções de apoio técnico e administrativo ao respectivo gabinete, ou recorrer a contratos em regime de prestação de serviços, os quais caducam automaticamente com a sua cessação de funções.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 327/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1989-548206), de 26 de Setembro.
+Art. 2.º É revogado o [Decreto-Lei n.º 327/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1989-548206), de 26 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - António Fernando Couto dos Santos.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

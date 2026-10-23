@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/076a00/14981498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/1992/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1992-190597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c5137f562b4934fafd56587a1e87b6023be5ec5792c8f53d2d54cf6676b9d7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d44a7596b693948cfe0cebe33b7643cd0b8a0bd9a2825a7da794a73c6fbe71e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Desporto
+- Gado Equino
 - Hipismo
 - Política Agrícola Comum
-- Gado Equino
-- Desporto
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -82,16 +82,21 @@ relationships:
   target: celex:31990L0428
   label: null
   source: http://data.europa.eu/eli/dir/1990/428/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: Revogado, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:16Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +113,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva do Conselho n.º [90/428/CEE](https://data.europa.eu/eli/dir/1990/428/oj?locale=pt), de 26 de Junho de 1990, relativa às trocas de equídeos destinados a concursos e às condições de participação nesses concursos.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva do Conselho n.º [90/428/CEE](https://data.europa.eu/eli/dir/1990/428/oj?locale=pt), de 26 de Junho de 1990, relativa às trocas de equídeos destinados a concursos e às condições de participação nesses concursos.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma serão aprovadas por portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma serão aprovadas por portaria do Ministro da Agricultura.
 
-###### Art. 3.º - 1 - Constituem contra-ordenações as infracções às seguintes regras de trocas de equídeos destinados a concursos e de condições de participação nesses concursos:
+Art. 3.º - 1 - Constituem contra-ordenações as infracções às seguintes regras de trocas de equídeos destinados a concursos e de condições de participação nesses concursos:
 
 a) Discriminação, nas regras do concurso, entre os equídeos originários ou registados em Portugal e os equídeos registados ou originários de outro Estado membro, em especial no que respeita aos critérios, mínimos e máximos de inscrição, às classificações e aos ganhos ou benefício; eventualmente resultantes do concurso;
 
@@ -128,7 +133,7 @@ c) Não comunicação por escrito, em caso de recusa da inscrição para concurs
 
 5 - A negligência é punível.
 
-###### Art. 4.º - 1 - Podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
+Art. 4.º - 1 - Podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
 
 a) Interdição de exercer uma profissão ou actividade;
 
@@ -142,16 +147,16 @@ d) Encerramento do estabelecimento ou cancelamento de serviços, licenças ou al
 
 3 - Quando seja aplicada a sanção prevista na alínea d) do n.º 1, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 5.º Sem prejuízo das competências cometidas a outras entidades, a fiscalização do disposto no presente diploma e na respectiva regulamentação cabe à Direcção-Geral da Pecuária.
+Art. 5.º Sem prejuízo das competências cometidas a outras entidades, a fiscalização do disposto no presente diploma e na respectiva regulamentação cabe à Direcção-Geral da Pecuária.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

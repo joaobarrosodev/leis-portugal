@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/254a00/60966105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/371/1993/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0259b1ee90ebc6c6fee85ae593391da0f04938e94c14ca5cfe4c64661414c94e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c7f0eb9546ac601acd1b7bc3aaf7c48ee57d907306c3152e9f1d86f92536127
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajudas de Custo
-- Multa
+- Comércio
+- Concorrência
 - Conselho da Concorrência
 - Definição de Competências
 - Direcção Geral da Concorrência e Preços
-- Direito de Associação
-- Concorrência
-- Fusão de Empresas
-- Fiscalização
 - Direito Comercial
+- Direito de Associação
+- Fiscalização
+- Fusão de Empresas
+- Multa
 - Remuneração
 - Sanção Económica
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:683219:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 4/94, DE 31 DE JANEIRO, PUBLICADA NO DR.IS-A, 25, SUPL.\0 SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-31'
+- type: amended_by
+  target: pt:dre:196220:por
+  label: "Alterado o art. 28.º pela LEI.3/99.1999.01.13.AR DR.IS-A [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1999-196220
+  date: '1999-01-13'
 - type: cites
   target: celex:31989R4064
   label: null
   source: http://data.europa.eu/eli/reg/1989/4064/oj
+- type: repealed_by
+  target: pt:dre:176336:por
+  label: "Revogados os arts. 12.º a 27.º, 32.º, 33.º, 35.º, 39.º e os n.ºs 1 e 2 do art. 34.º e o art. 28.º (na redacção do\
+    \ Dec Lei 3/99, de 13-Jan), pelo DEC LEI.10/2003.2003.01.18.MECO DR.IS-A [15], nos termos do n.º 1 do art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2003-176336
+  date: '2003-01-18'
+- type: repealed_by
+  target: pt:dre:683219:por
+  label: "Revogado pela LEI.18/2003.2003.06.11.AR DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2003-683219
+  date: '2003-06-11'
 article_structure:
   article_count: 42
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:38Z'
   warnings: []
   errors: []
 ---
@@ -639,12 +660,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 12 de Outubro de 1993.**
+Promulgado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1993.**
+Referendado em 14 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

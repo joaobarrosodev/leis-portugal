@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1992-598157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8b5996b19ddcdd286b5b71c4dbe833f943223e0a72cda9a81fcf3fb8f9b9221
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2f1e9d969bc13b7e11f8ce84d857b4ea7286a4cac02cabf18f030dca71fb01e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Definição de Competências
 - Departamento Central de Planeamento
 - Departamento de Acompanhamento e Avaliação
-- Extinção de Serviços
-- Ministério do Planeamento e da Administração do Território
-- Integração de Trabalhadores
 - Direcção Geral do Desenvolvimento Regional
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Ministério do Planeamento e da Administração do Território
 - Orgânica
 - Quadro de Pessoal
 relationships:
@@ -79,20 +79,52 @@ relationships:
   target: pt:dre:574942:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606525:por
+  label: "Alterados os art.s 20º, 21º e 22º, na redação do presente diploma, pelo DEC LEI.243/94.1994.09.26.MPLAT, DR.IS-A\
+    \ [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1994-606525
+  date: '1994-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681593:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:302929:por
+  label: "19930227 - RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 26/93, PUBLICADA NO DR.IS-A, 49. I\09. I"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-1993-302929
+- type: repealed_by
+  target: pt:dre:574942:por
+  label: "Revogado o mapa anexo VII ao Dec Lei 272/91 de 07-Ago, com as alterações introduzidas pelo presente diploma, pelo\
+    \ DEC LEI.312/94.1994.12.23.MPLAT, DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-1994-574942
+  date: '1994-12-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:21Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +151,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É extinto o Departamento de Acompanhamento e Avaliação, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho.
+Artigo 1.º - 1 - É extinto o Departamento de Acompanhamento e Avaliação, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho.
 
 2 - São revogados a alínea h) do n.º 1 do artigo 1.º e os artigos 23.º, 24.º e 25.º do diploma referido no número anterior, com a redacção introduzida pelos Decretos-Leis n.os [23/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1990-333557), de 16 de Janeiro, e [409/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1990-543710), de 31 de Dezembro.
 
-###### Art. 2.º Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, alterados pelos Decretos-Leis n.os [23/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1990-333557), de 16 de Janeiro, e [409/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1990-543710), de 31 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, alterados pelos Decretos-Leis n.os [23/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1990-333557), de 16 de Janeiro, e [409/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1990-543710), de 31 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o serviço incumbido de estudar e promover a política de desenvolvimento regional, de coordenar as intervenções dos fundos estruturais comunitários e de preparar e acompanhar a execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER).
+Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o serviço incumbido de estudar e promover a política de desenvolvimento regional, de coordenar as intervenções dos fundos estruturais comunitários e de preparar e acompanhar a execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER).
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 a) ...
 
@@ -151,7 +183,7 @@ j) Promover a avaliação do impacte e dos efeitos das intervenções operaciona
 
 l) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 22.º - 1 - A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, e compreende os seguintes serviços:
+Art. 22.º - 1 - A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, e compreende os seguintes serviços:
 
 a) Núcleo de Política Regional;
 
@@ -167,9 +199,9 @@ f) Direcção de Serviços de Informação e Controlo.
 
 2 - O Núcleo de Política Regional tem a natureza de direcção de serviços.
 
-###### Art. 3.º Todas as posições jurídicas activas ou passivas de que, por força de lei, regulamento, contrato ou acto administrativo, no âmbito do Ministério do Planeamento e da Administração do Território, era titular o Departamento de Acompanhamento e Avaliação são transferidas para a Direcção-Geral do Desenvolvimento Regional.
+Art. 3.º Todas as posições jurídicas activas ou passivas de que, por força de lei, regulamento, contrato ou acto administrativo, no âmbito do Ministério do Planeamento e da Administração do Território, era titular o Departamento de Acompanhamento e Avaliação são transferidas para a Direcção-Geral do Desenvolvimento Regional.
 
-###### Art. 4.º - 1 - É extinto o quadro de pessoal privativo do Departamento de Acompanhamento e Avaliação do Ministério do Planeamento e da Administração do Território, criado pelo [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, e constante do mapa VIII anexo àquele diploma.
+Art. 4.º - 1 - É extinto o quadro de pessoal privativo do Departamento de Acompanhamento e Avaliação do Ministério do Planeamento e da Administração do Território, criado pelo [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, e constante do mapa VIII anexo àquele diploma.
 
 2 - O pessoal do serviço extinto pelo número anterior transita para o quadro de pessoal do Departamento Central de Planeamento e da Direcção-Geral do Desenvolvimento Regional.
 
@@ -191,23 +223,23 @@ b) Sem prejuízo das habilitações legais, para carreira e categoria que integr
 
 9 - As requisições e os destacamentos de funcionários ou agentes que se encontrem a exercer funções no Departamento de Acompanhamento e Avaliação são dados por findos a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 5.º Aos quadros do Departamento Central de Planeamento e da Direcção-Geral do Desenvolvimento Regional previstos nos anexos VI e VII do [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, são acrescentados os lugares constantes dos mapas anexos ao presente diploma e que dele fazem parte integrante.
+Art. 5.º Aos quadros do Departamento Central de Planeamento e da Direcção-Geral do Desenvolvimento Regional previstos nos anexos VI e VII do [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, são acrescentados os lugares constantes dos mapas anexos ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 6.º O património do Departamento de Acompanhamento e Avaliação será afecto por auto de transferência à Direcção-Geral do Desenvolvimento Regional e ao Departamento Central de Planeamento.
+Art. 6.º O património do Departamento de Acompanhamento e Avaliação será afecto por auto de transferência à Direcção-Geral do Desenvolvimento Regional e ao Departamento Central de Planeamento.
 
-###### Art. 7.º Os encargos financeiros resultantes da aplicação do presente diploma são suportados, no presente ano económico, pelas verbas orçamentais que estavam destinadas ao Departamento de Acompanhamento e Avaliação mediante as correspondentes transferências de verbas.
+Art. 7.º Os encargos financeiros resultantes da aplicação do presente diploma são suportados, no presente ano económico, pelas verbas orçamentais que estavam destinadas ao Departamento de Acompanhamento e Avaliação mediante as correspondentes transferências de verbas.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Setembro de 1992.**
+Promulgado em 11 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1992.**
+Referendado em 15 de Setembro de 1992.
 
-**O Primeiro-ministro Aníbal António Cavaco Silva.**
+O Primeiro-ministro Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -217,7 +249,7 @@ Lugares acrescentados ao quadro do Departamento Central de Planeamento
 
 (anexo VI do [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/272a00/53925395.pdf))](https://files.diariodarepublica.pt/1s/1992/11/272a00/53925395.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/272a00/53925395.pdf)
 
 MAPA II
 
@@ -227,4 +259,4 @@ Lugar acrescentado ao quadro da Direcção-Geral do Desenvolvimento Regional
 
 (anexo VII do [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/272a00/53925395.pdf))](https://files.diariodarepublica.pt/1s/1992/11/272a00/53925395.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/272a00/53925395.pdf)

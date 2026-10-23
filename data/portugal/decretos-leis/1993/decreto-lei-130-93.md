@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/094a00/19721973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/1993/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1993-692658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc801f190eef0f0d6520b308391750d0a6d78a9efccf86f6a2c74b69553b125e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18cabad7287cf6b984d3f325ac1a2d47769f92ae1da1c67d0482a628e8e11c5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Brisa
 - Multa
-- Auto-estrada
 - Portagem
 relationships:
 - type: amended_by
   target: pt:dre:357348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671934:por
+  label: "Alterado o art. 5º, pelo DEC LEI.294/97.1997.10.24.MF DR.IS-A [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1997-671934
+  date: '1997-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/1991/01/10/p/dre
   label: null
@@ -87,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:234915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694035:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357348:por
+  label: Revogado pela LEI.25/2006.30.06.2006.AR, DR.IS-A [125] de 30.06.2006, a partir da sua entrada em vigor
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-2006-357348
+  date: '2006-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:26Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +137,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As condições de utilização de títulos de trânsito em auto-estradas que integram a concessão da BRISA - Auto-Estradas de Portugal, S. A., designadamente as condições de validade dos títulos, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações, mediante proposta da concessionária.
+Artigo 1.º As condições de utilização de títulos de trânsito em auto-estradas que integram a concessão da BRISA - Auto-Estradas de Portugal, S. A., designadamente as condições de validade dos títulos, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações, mediante proposta da concessionária.
 
-###### Art. 2.º Ao processamento e tramitação dos autos de notícia levantados nos termos e para os efeitos dos n.os 7 e seguintes da base XVIII anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, é aplicável, com as adaptações que se mostrem necessárias, o regime definido no [Decreto-Lei n.º 17/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1991-694035), de 10 de Janeiro.
+Art. 2.º Ao processamento e tramitação dos autos de notícia levantados nos termos e para os efeitos dos n.os 7 e seguintes da base XVIII anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, é aplicável, com as adaptações que se mostrem necessárias, o regime definido no [Decreto-Lei n.º 17/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1991-694035), de 10 de Janeiro.
 
-###### Art. 3.º - 1 - Os portageiros da entidade concessionária podem, no exercício da competência que lhes é conferida pelo n.º 10 da base XVIII anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, exigir a identificação dos utentes faltosos.
+Art. 3.º - 1 - Os portageiros da entidade concessionária podem, no exercício da competência que lhes é conferida pelo n.º 10 da base XVIII anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, exigir a identificação dos utentes faltosos.
 
 2 - A identificação referida no número antecedente é feita mediante a apresentação do bilhete de identidade ou outro documento que permita a identificação ou, na sua falta, através de uma testemunha identificada nos mesmos termos.
 
-###### Art. 4.º - 1 - Sempre que não for possível identificar os condutores dos veículos que passarem a portagem sem procederem ao pagamento da respectiva taxa é notificado o proprietário, o adquirente com reserva de propriedade, o usufrutuário ou o locatário em regime de locação financeira do veículo para, no prazo de 10 dias, proceder a essa identificação.
+Art. 4.º - 1 - Sempre que não for possível identificar os condutores dos veículos que passarem a portagem sem procederem ao pagamento da respectiva taxa é notificado o proprietário, o adquirente com reserva de propriedade, o usufrutuário ou o locatário em regime de locação financeira do veículo para, no prazo de 10 dias, proceder a essa identificação.
 
 2 - O proprietário, o adquirente com reserva de propriedade, o usufrutuário ou o locatário em regime de locação financeira é obrigado a proceder à identificação do condutor, salvo se se provar utilização abusiva do veículo.
 
@@ -131,9 +153,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Na falta de cumprimento do disposto nos números anteriores é responsável, consoante os casos, pelo pagamento das multas a aplicar o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor.
 
-###### Art. 5.º Para os efeitos da aplicação do artigo antecedente a concessionária pode solicitar, a partir da matrícula dos veículos, à Guarda Nacional Republicana a identificação do proprietário, do adquirente, do usufrutuário ou do locatário em regime de locação financeira, com base no terminal informático da Conservatória do Registo Automóvel.
+Art. 5.º Para os efeitos da aplicação do artigo antecedente a concessionária pode solicitar, a partir da matrícula dos veículos, à Guarda Nacional Republicana a identificação do proprietário, do adquirente, do usufrutuário ou do locatário em regime de locação financeira, com base no terminal informático da Conservatória do Registo Automóvel.
 
-###### Art. 6.º - 1 - As multas e as taxas de portagem em dívida podem ser pagas, perante a concessionária, no centro de assistência e manutenção responsável pela barreira de portagem onde o pagamento daquelas taxas deveria ter sido efectuado ou na sede da concessionária, no prazo de 15 dias a contar da data da notificação a que se refere o n.º 4 do presente artigo.
+Art. 6.º - 1 - As multas e as taxas de portagem em dívida podem ser pagas, perante a concessionária, no centro de assistência e manutenção responsável pela barreira de portagem onde o pagamento daquelas taxas deveria ter sido efectuado ou na sede da concessionária, no prazo de 15 dias a contar da data da notificação a que se refere o n.º 4 do presente artigo.
 
 2 - O pagamento voluntário, seja perante a concessionária, seja perante o tribunal, só pode ser efectuado se simultaneamente for liquidada a multa e a taxa de portagem em dívida.
 
@@ -143,7 +165,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Findo o prazo a que se refere o n.º 1, e sempre que o autuado não tenha procedido ao pagamento, será o original do auto enviado ao tribunal da comarca do lugar da barreira de portagem onde o pagamento da taxa em dívida deveria ter sido efectuado, no prazo de 15 dias.
 
-###### Art. 7.º - 1 - O pagamento das multas perante a concessionária é feito contra entrega de recibo.
+Art. 7.º - 1 - O pagamento das multas perante a concessionária é feito contra entrega de recibo.
 
 2 - O produto das multas reverte em 60% para o Estado e em 40% para a concessionária.
 
@@ -151,12 +173,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

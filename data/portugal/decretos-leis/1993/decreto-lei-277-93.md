@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/186a00/42604262.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/277/1993/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1993-358127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73987ff4097d2fb73e62657cd0992f9bc78631530e27cbc1eb373ae38f4023fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dee3246f1fe0b8a06029bfdbefb76d7392a7d98ce450d6d59d1bb1c7afa0e3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
+- Caixa Geral de Aposentações
 - Caixa Geral de Depósitos
 - Definição de Competências
-- Caixa Geral de Aposentações
 - Montepio dos Servidores do Estado
 - Orgânica
 - Regime Jurídico
@@ -78,16 +78,57 @@ relationships:
   target: pt:dre:520455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214534:por
+  label: "Criado um Conselho Consultivo junto da Caixa Geral de Aposentações, pelo DEC LEI.181/96.26.09.1996.PCM, DR.IS-A\
+    \ [224] de 26.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1996-214534
+  date: '1996-09-26'
+- type: amended_by
+  target: pt:dre:242046:por
+  label: "Determinado nos termos do art. 1.º que a Caixa Geral de Aposentações (CGA) cujo regime jurídico foi estabelecido\
+    \ pelo presente diploma passa a ser responsável pelos encargos com as pensões de aposentação do pessoal da Caixa Geral\
+    \ de Depósitos, S.A. (CGD) cujos estatutos foram aprovados pelo Dec Lei 287/93, de 20-Ago DR.IS-A [195], pelo DEC LEI.240-A/2004.29.12.2004.MFAP,\
+    \ DR.IS-A [303-Supl] de 29.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-a-2004-242046
+  date: '2004-12-29'
+- type: amended_by
+  target: pt:dre:242047:por
+  label: "Determinada nos termos do art. 1.º a transferência dos encargos com as pensões de aposentação do pessoal da ANA\
+    \ cujos estatutos foram aprovados pelo Dec Lei 404/98, de 18-Dez para a CGA cujo regíme jurídico foi estabelecido pelo\
+    \ presente diploma, pelo DEC LEI.240-B/2004.29.12.2004.MFAP, DR.IS-A [303-Supl] de 29.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-b-2004-242047
+  date: '2004-12-29'
+- type: amended_by
+  target: pt:dre:242048:por
+  label: "Determina nos termos do n.º 1 a transferência dos encargos com as pensões de aposentação do pessoal da NAV Portugal\
+    \ criada pelo Dec Lei 404/98, de 18-Dez, para a CGA cujo regime jurídico foi estabelecido pelo presente diploma, pelo\
+    \ DEC LEI.240-C/2004.29.12.2004.MFAP, DR.IS-A [303-Supl] de 29.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-c-2004-242048
+  date: '2004-12-29'
+- type: amended_by
+  target: pt:dre:690441:por
+  label: "Determinado nos termos do art. 1.º que a Caixa Geral de Aposentações (CGA) cujo regime jurídico foi estabelecido\
+    \ pelo presente diploma, passe a ser responsável pelos encargos do pessoal relativamente ao tempo de serviço prestado\
+    \ à empresa entre 1 de Janeiro de 1992 e 31 de Dezembro de 2000 da Caixa Geral de Depósitos cujos estatutos foram aprovados\
+    \ pelo Dec Lei 287/93, de 20-Ago, pelo DEC LEI.241-A/2004.30.12.2004.MFAP, DR.IS-A [304-3ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-a-2004-690441
+  date: '2004-12-30'
+- type: repealed_by
+  target: pt:dre:520455:por
+  label: "Revogado pelo DEC LEI.84/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2007-520455
+  date: '2007-03-29'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:42Z'
   warnings: []
   errors: []
 ---
@@ -192,12 +233,12 @@ O presente diploma entra em vigor no dia 1 de Setembro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1993.**
+Referendado em 29 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

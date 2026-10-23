@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/229a00/54535457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1993-651703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31252602d4d4fa2387a57c47d355c5f77e5bef782c4d95359fddbd92f6c24457
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83953bdeb486d926956d7ee7cf3d0deae3365be159630cdc6209897fc4258ed0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,8 +73,8 @@ subjects:
 - Definição de Competências
 - Extinção de Serviços
 - Fórum da Juventude
-- Instituto Português da Juventude
 - Instituto da Juventude
+- Instituto Português da Juventude
 - Orgânica
 - Serviço Regional
 - Transferência Patrimonial
@@ -83,16 +83,32 @@ relationships:
   target: pt:dre:545641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete do Serviço Cívico dos Objectores de Consciência, criado no Dec Lei 91/87,\
+    \ de 27-Fev, sendo as suas atribuições integradas no Instituto, criado no presente diploma, pelo DEC LEI.202/2006.27.10.2006.PCM,\
+    \ DR.IS [208] de 27.10.2006, nos termos dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:312837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437780:por
+  label: "Revogado pelo DEC LEI.70/96.1996.06.04.PCM DR.IS.A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1996-437780
+  date: '1996-06-04'
 article_structure:
   article_count: 29
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:53Z'
   warnings: []
   errors: []
 ---
@@ -453,12 +469,12 @@ São revogados o [Decreto-Lei n.º 483/88](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Setembro de 1993.**
+Referendado em 13 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

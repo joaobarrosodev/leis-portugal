@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1993-634688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb7afb331615af5160c99e20a3362bf373231a7735e06833ef9aa694e7bda53e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68e42472dc8d438157fe8149557b21780164ee1056fb9382da99d104d2c43a5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,13 @@ relationships:
   target: pt:dre:593710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:593710:por
+  label: "Prorrogado, até 31 de Agosto de 1994, ou até á conclusão dos concursos de ingresso do pessoal não docente nos quadros\
+    \ distritais de vinculação, o prazo referido no nº 7 do art. 23º pela LEI.71/93.1993.11.25.AR, DR.IS-A [277]Supl, de 26/Nov/1993\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-1993-593710
+  date: '1993-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -88,16 +95,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:43Z'
   warnings: []
   errors: []
 ---
@@ -398,12 +509,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 2 de Março de 1993.**
+Promulgado em 2 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1993.**
+Referendado em 4 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

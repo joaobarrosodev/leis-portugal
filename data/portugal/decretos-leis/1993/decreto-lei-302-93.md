@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/302/1993/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1993-633962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e931a208e193005c406a31eb65f6b2952358b4683b35b9b8d49b4cbf9e1e360
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f67ab9c33ad6025a98244e459128c3013b64536ab3215f53be8eb4770bb654e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
+- Estoril
 - Promoção Turística
 - Região de Turismo
-- Estoril
 - ZONA de JOGO
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:382243:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:11Z'
   warnings: []
   errors: []
 ---
@@ -108,18 +112,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - As importâncias a pagar pela concessionária da exploração permanente da zona de jogo do Estoril, pela forma prevista na alínea g) do n.º 1 do artigo 6.º do [Decreto Regulamentar n.º 56/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1984-382243), de 9 de Agosto, poderão destinar-se, até ao limite de 15%, a subsidiar acções de promoção turística dos municípios de Cascais, Mafra, Oeiras e Sintra.
+Artigo único. - 1 - As importâncias a pagar pela concessionária da exploração permanente da zona de jogo do Estoril, pela forma prevista na alínea g) do n.º 1 do artigo 6.º do [Decreto Regulamentar n.º 56/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1984-382243), de 9 de Agosto, poderão destinar-se, até ao limite de 15%, a subsidiar acções de promoção turística dos municípios de Cascais, Mafra, Oeiras e Sintra.
 
 2 - À determinação dos subsídios a conceder, bem como às condições e prazos da sua utilização, aplica-se o disposto nos n.os 3 e 4 do artigo 5.º do diploma referido no número anterior.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1993. - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1993.**
+Referendado em 29 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

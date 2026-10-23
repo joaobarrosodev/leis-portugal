@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/021a00/02960296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/1993/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1993-601287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fd092c22c59286d317f6ae0cccb77691c2d1082df03ac4e26d361c1780cf3f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49c3324cddf7a7db8188b8d7e9a1ceeae6d4c9e3f1bed81b948a28abf86ced63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Equiparação de Cargos
-- Estatuto
-- Universidade
-- Estabelecimento de Ensino
 - Ensino Superior
+- Equiparação de Cargos
+- Estabelecimento de Ensino
+- Estatuto
+- Pessoal Dirigente
 - Serviços Administrativos
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:115312061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:401035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600356:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115312061:por
+  label: Revogado, a partir de 16.05.2018, pelo(a) Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:22Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +119,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O cargo de secretário das escolas, faculdades ou institutos de ensino superior universitário dotados de autonomia administrativa e financeira é equiparado, para todos os efeitos legais, ao de director de serviços, designadamente em matérias de recrutamento e vencimento.
+Artigo 1.º - 1 - O cargo de secretário das escolas, faculdades ou institutos de ensino superior universitário dotados de autonomia administrativa e financeira é equiparado, para todos os efeitos legais, ao de director de serviços, designadamente em matérias de recrutamento e vencimento.
 
 2 - O cargo de secretário dos restantes estabelecimentos de ensino superior é equiparado, para todos os efeitos legais, ao de chefe de divisão.
 
 3 - O cargo de secretário do Instituto de Ciências Sociais da Universidade de Lisboa, criado pelo [Decreto-Lei n.º 46/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1982-600356), de 10 de Fevereiro, é equiparado, para todos os efeitos legais, ao de director de serviços.
 
-###### Art. 2.º A designação do secretário é feita de acordo com o definido nos estatutos das respectivas universidades e estabelecimentos de ensino.
+Art. 2.º A designação do secretário é feita de acordo com o definido nos estatutos das respectivas universidades e estabelecimentos de ensino.
 
-###### Art. 3.º Sem prejuízo do disposto nos estatutos das respectivas universidades e estabelecimentos de ensino, compete, em especial, ao secretário:
+Art. 3.º Sem prejuízo do disposto nos estatutos das respectivas universidades e estabelecimentos de ensino, compete, em especial, ao secretário:
 
 a) Orientar e coordenar a actividade dos serviços administrativos e superintender no seu funcionamento;
 
@@ -128,18 +141,18 @@ e) Dirigir o pessoal não docente nem investigador, sob a orientação do órgã
 
 f) Corresponder-se com serviços e entidades públicas ou privadas, no âmbito da sua competência.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro, com excepção do respectivo artigo 4.º
+Art. 4.º É revogado o [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro, com excepção do respectivo artigo 4.º
 
-###### Art. 5.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
+Art. 5.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 6 de Janeiro de 1993.**
+Promulgado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1993.**
+Referendado em 9 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

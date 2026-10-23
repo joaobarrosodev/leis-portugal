@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/139a00/32253237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1993-265699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 700c4ef96c04fa91d0074498794e10960150813a9044ee7eaa638a3171950414
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8ced3ddaf4f517d924212745ce7983023c1ac9a8d7b96dcb59d3933a7e687f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
 - Direcção Geral das Condições de Trabalho
 - Direcção Geral das Relações Colectivas de Trabalho
 - Direcção Geral do Trabalho
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Inspecção do Trabalho
 - Inspecção Geral do Trabalho
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Ministério do Emprego e da Segurança Social
 - Orgânica
 - Pessoal de Inspecção
 - Quadro de Pessoal
-- Condições de Higiene e Segurança no Trabalho
 - Transferência de Pessoal
 - Transferência Patrimonial
 relationships:
@@ -84,6 +84,28 @@ relationships:
   target: pt:dre:398496:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO PARA A QUALIFICAÇÃO E O EMPREGO ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A\
+    \ [266]SUPL\0[266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Extinto o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho criado pelo presente diploma, na redacção\
+    \ dos Dec Lei 296-A/95 de 17-Nov, 102/2000, de 02-Jun e 266/2002, de 26-Nov, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A\
+    \ [167] de 17.07.2004; e determinada a sucessão, nos direitos e obrigações, da Inspecção-Geral do Trabalho e do Instituto\
+    \ para a Segurança, Higiene e Saúde no Trabalho ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho,\
+    \ em termos a fixar por despacho do MSST\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:398496:por
+  label: "Determinada a sucessão da Autoridade para as Condições do Trabalho (ACT) nas atribuições do Instituto para a Segurança\
+    \ Higiene e Saúde no Trabalho (ISHST) - sucessor do IDICT - constantes do presente diploma, que é revogado a partir de\
+    \ 01.10.2007, pelo DEC LEI.326-B/2007.28.09.2007.MTSSO, DR.IS [188-Supl] de 28.09.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-b-2007-398496
+  date: '2007-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/1993/06/16/p/dre
   label: null
@@ -92,16 +114,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:182225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:291655:por
+  label: "Revogados os arts. 12º a 14º pelo DEC LEI.102/2000.2000.06.02.MTS,DR.IS-A [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2000-291655
+  date: '2000-06-02'
+- type: repealed_by
+  target: pt:dre:447915:por
+  label: "Revogada a al. d) do nº 2 do art. 10º e o art. 17º pelo DEC LEI.266/2002.2002.11.26.MSST DR.IS-A [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-2002-447915
+  date: '2002-11-26'
 article_structure:
   article_count: 57
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:22Z'
   warnings: []
   errors: []
 ---
@@ -940,15 +1004,15 @@ As secções administrativas comuns à IGT e à DGRCT passam a ser secções adm
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 10 de Maio de 1993.**
+Promulgado em 10 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1993.**
+Referendado em 13 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Delegações e subdelegações do IDICT
 
@@ -1026,4 +1090,4 @@ Vila Nova de Famalicão.
 
 ## ANEXO II — Mapa a que se refere o artigo 39.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/139a00/32253237.pdf))](https://files.diariodarepublica.pt/1s/1993/06/139a00/32253237.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/139a00/32253237.pdf)

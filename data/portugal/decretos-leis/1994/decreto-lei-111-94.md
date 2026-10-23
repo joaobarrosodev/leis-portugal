@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/098a00/20512052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/1994/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1994-265683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24dd5e82b93f43101b2a6d73958f746674d45e2816e437140a14153fa323fc3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67c45e1ffa4dcd2b1f9560d522da65a9dee1d8ba59e77ca9f3aa19b3bebcdfe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidadão Estrangeiro
+- Equivalência de Diplomas
 - Farmacêutico
 - Nacional das Comunidades
 - Ordem dos Farmacêuticos
 - Regulamento
 - Regulamento CE
-- Equivalência de Diplomas
 relationships:
 - type: amended_by
   target: pt:dre:607724:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31991R2194
   label: null
   source: http://data.europa.eu/eli/reg/1991/2194/oj
+- type: repealed_by
+  target: pt:dre:607724:por
+  label: "Revogado pelo DEC LEI.288/2001.2001.11.10.MS, DR.IS-A [261] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-2001-607724
+  date: '2001-11-10'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:18Z'
   warnings: []
   errors: []
 ---
@@ -118,21 +123,21 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 76/93, de 31 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento para Inscrição de Farmacêuticos Nacionais dos Estados Membros da Comunidade Europeia e de Países Terceiros na Ordem dos Farmacêuticos, anexo ao presente diploma e do qual faz parte integrante.
+Artigo 1.º É aprovado o Regulamento para Inscrição de Farmacêuticos Nacionais dos Estados Membros da Comunidade Europeia e de Países Terceiros na Ordem dos Farmacêuticos, anexo ao presente diploma e do qual faz parte integrante.
 
-###### Art. 2.º Os titulares de diplomas, certificados ou outros títulos em farmácia concedidos por um país terceiro, que hajam obtido equivalência, nos termos do Decreto-Lei n.º 283/83, de 21 de Junho, aos graus ministrados em Portugal, podem excercer a actividade farmacêutica nos mesmos termos e condições em que são autorizados, pelo Decreto-Lei n.º 31/88, de 3 de Fevereiro, os nacionais de Estados membros da Comunidade Europeia, salvo no que respeita à obrigatoriedade de as entidades empregadoras os aceitarem ao seu serviço em plano de igualdade com cidadãos portugueses.
+Art. 2.º Os titulares de diplomas, certificados ou outros títulos em farmácia concedidos por um país terceiro, que hajam obtido equivalência, nos termos do Decreto-Lei n.º 283/83, de 21 de Junho, aos graus ministrados em Portugal, podem excercer a actividade farmacêutica nos mesmos termos e condições em que são autorizados, pelo Decreto-Lei n.º 31/88, de 3 de Fevereiro, os nacionais de Estados membros da Comunidade Europeia, salvo no que respeita à obrigatoriedade de as entidades empregadoras os aceitarem ao seu serviço em plano de igualdade com cidadãos portugueses.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1994. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 31 de Março de 1994.**
+Promulgado em 31 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1994.**
+Referendado em 6 de Abril de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento para Inscrição de Farmacêuticos Nacionais dos Estados Membros da Comunidade Europeia e de Países Terceiros na Ordem dos Farmacêuticos.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19527-1962-155442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa8dab220f95f396efee956d95f1e6614dff4987244408ebd2819f47b3a63b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e644d4eca46a437a34d61d4d28a1647d3fc02efeeedf8c0dd3fe6c9b759414c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Serviços de instrução
 
 Despesas com o pessoal:
 
-###### Artigo 128.º «Remunerações certas ao pessoal em exercício»:
+Artigo 128.º «Remunerações certas ao pessoal em exercício»:
 
 1) «Pessoal dos quadros aprovados por lei»:
 
@@ -116,17 +128,17 @@ Escolas Técnicas Elementares de João Belo, Tete e Vila Cabral
 
 Despesas com o pessoal:
 
-###### Artigo 134.º-D «Remunerações acidentais - Gratificações» ... 182700$00
+Artigo 134.º-D «Remunerações acidentais - Gratificações» ... 182700$00
 
 Despesas com o material:
 
-###### Artigo 136.º-B «Aquisições de utilização permanente - Móveis» ... 900000$00
+Artigo 136.º-B «Aquisições de utilização permanente - Móveis» ... 900000$00
 
-###### Artigo 137.-A «Despesas de conservação e aproveitamento - De móveis» ... 7500$00
+Artigo 137.-A «Despesas de conservação e aproveitamento - De móveis» ... 7500$00
 
-###### Artigo 138.º-B «Material de consumo corrente» ... 90000$00
+Artigo 138.º-B «Material de consumo corrente» ... 90000$00
 
-###### Artigo 139.º-B «Pagamento de serviços - Despesas de higiene, saúde e conforto»:
+Artigo 139.º-B «Pagamento de serviços - Despesas de higiene, saúde e conforto»:
 
 1) «Aquisição, conserto e lavagem de roupas» ... 15000$00
 
@@ -138,7 +150,7 @@ Diversos encargos
 
 Encargos administrativos:
 
-###### Artigo 140.º-A «Subsídios às caixas escolares» ... 7500$00
+Artigo 140.º-A «Subsídios às caixas escolares» ... 7500$00
 
 ... 1238700$00
 

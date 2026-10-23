@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/269a00/53505351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1992-584257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3582ad3a52121249550d5fc78012e286a06f74a32bb28dfef481d98cda6b9205
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7bd01fa9a63eda615d948be04884f1c43fb0c984de4dc6b6effb2e1427a98f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,40 @@ reuse:
 subjects:
 - Direcção Geral de Viação
 - Inspecção de Veículos
-- Veículo
 - Prevenção Rodoviária Portuguesa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:655940:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548985:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655940:por
+  label: "Revogado pelo DEC LEI.550/99.1999.12.15.MAI,DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-1999-655940
+  date: '1999-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:06Z'
   warnings: []
   errors: []
 ---
@@ -106,35 +123,35 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma aprova o regime das inspecções periódicas para verificação das condições de segurança dos veículos e sua conformidade com o modelo aprovado.
+Artigo 1.º - 1 - O presente diploma aprova o regime das inspecções periódicas para verificação das condições de segurança dos veículos e sua conformidade com o modelo aprovado.
 
 2 - Ficam sujeitos a inspecção periódica obrigatória os veículos que pertençam às categorias que vierem a ser fixadas por portaria do Ministro da Administração Interna.
 
-###### Art. 2.º - 1 - Compete à Direcção-Geral de Viação a realização das inspecções periódicas obrigatórias de veículos.
+Art. 2.º - 1 - Compete à Direcção-Geral de Viação a realização das inspecções periódicas obrigatórias de veículos.
 
 2 - Para efeitos do disposto no número anterior, poderão as inspecções periódicas ser efectuadas directamente pelo pessoal técnico da Direcção-Geral de Viação ou através de entidades autorizadas para o efeito, nos termos do presente diploma.
 
-###### Art. 3.º - 1 - A autorização para o exercício da actividade de inspecção, nos termos do n.º 2 do artigo anterior, será concedida, mediante proposta da Direcção-Geral de Viação, por despacho do Ministro da Administração Interna, a publicar no Diário da República.
+Art. 3.º - 1 - A autorização para o exercício da actividade de inspecção, nos termos do n.º 2 do artigo anterior, será concedida, mediante proposta da Direcção-Geral de Viação, por despacho do Ministro da Administração Interna, a publicar no Diário da República.
 
 2 - A autorização referida no número anterior não poderá ser concedida a empresas que se dediquem ao fabrico, importação, comercialização ou reparação de veículos a motor, seus reboques e componentes ou acessórios para os mesmos.
 
-###### Art. 4.º - 1 - A realização de inspecções periódicas pelas entidades autorizadas efectuar-se-á em centros de inspecção aprovados e com pessoal credenciado, nos termos definidos no presente diploma.
+Art. 4.º - 1 - A realização de inspecções periódicas pelas entidades autorizadas efectuar-se-á em centros de inspecção aprovados e com pessoal credenciado, nos termos definidos no presente diploma.
 
 2 - As inspecções realizadas obedecerão a todas as disposições técnicas legais e regulamentares em vigor para as inspecções periódicas obrigatórias de veículos.
 
-###### Art. 5.º As observações e verificações a realizar nas inspecções periódicas de veículos serão fixadas por portaria do Ministro da Administração Interna.
+Art. 5.º As observações e verificações a realizar nas inspecções periódicas de veículos serão fixadas por portaria do Ministro da Administração Interna.
 
-###### Art. 6.º - 1 - As inspecções efectuar-se-ão com observância dos prazos estabelecidos no regulamento das inspecções periódicas obrigatórias de veículos, a aprovar por portaria do Ministro da Administração Interna.
+Art. 6.º - 1 - As inspecções efectuar-se-ão com observância dos prazos estabelecidos no regulamento das inspecções periódicas obrigatórias de veículos, a aprovar por portaria do Ministro da Administração Interna.
 
 2 - A responsabilidade da apresentação do veículo para inspecção cabe ao proprietário, usufrutuário, adquirente com reserva de propriedade ou locatário financeiro do mesmo à data em que a inspecção se realiza.
 
-###### Art. 7.º - 1 - A comprovação da realização das inspecções periódicas a um veículo será efectuada através de uma ficha de inspecção, a qual deve acompanhar o veículo sempre que este transite nas vias públicas.
+Art. 7.º - 1 - A comprovação da realização das inspecções periódicas a um veículo será efectuada através de uma ficha de inspecção, a qual deve acompanhar o veículo sempre que este transite nas vias públicas.
 
 2 - O modelo da ficha bem como as condições para a sua emissão serão aprovados por despacho do Ministro da Administração Interna.
 
-###### Art. 8.º Os centros de inspecção devem manter-se aptos à realização de inspecções durante o horário do seu funcionamento, não podendo recusar qualquer pedido de inspecção.
+Art. 8.º Os centros de inspecção devem manter-se aptos à realização de inspecções durante o horário do seu funcionamento, não podendo recusar qualquer pedido de inspecção.
 
-###### Art. 9.º - 1 - As inspecções serão efectuadas por inspectores devidamente habilitados, licenciados pela Direcção-Geral de Viação.
+Art. 9.º - 1 - As inspecções serão efectuadas por inspectores devidamente habilitados, licenciados pela Direcção-Geral de Viação.
 
 2 - São requisitos mínimos para a obtenção da licença referida no número anterior:
 
@@ -142,7 +159,7 @@ a) Titularidade de licença de condução que habilite a conduzir veículos lige
 
 b) Ensino secundário completo ou equivalente e experiência comprovada na reparação ou construção de automóveis, a avaliar nos termos a fixar por despacho do director-geral de Viação, ou frequência com aproveitamento de cursos de formação especialmente promovidos para o efeito, com currículos, avaliações e duração homologados pela Direcção-Geral de Viação.
 
-###### Art. 10.º A Direcção-Geral de Viação licenciará os candidatos a inspectores que preencham os requisitos mínimos previstos no n.º 2 do artigo anterior sempre que lhes seja reconhecida capacidade e idoneidade para as funções e desde que não se encontrem nas condições a seguir tipificadas:
+Art. 10.º A Direcção-Geral de Viação licenciará os candidatos a inspectores que preencham os requisitos mínimos previstos no n.º 2 do artigo anterior sempre que lhes seja reconhecida capacidade e idoneidade para as funções e desde que não se encontrem nas condições a seguir tipificadas:
 
 a) Tenham sido condenados por qualquer dos crimes seguintes, enquanto não forem reabilitados nos termos da lei:
 
@@ -160,7 +177,7 @@ b) Tenham sido declarados delinquentes habituais ou por tendência;
 
 c) Sejam proprietários, sócios ou trabalhadores de empresas transportadoras ou que se dediquem ao fabrico, importação, comercialização ou reparação de veículos a motor e seus reboques, bem como de equipamento e acessórios para os mesmos.
 
-###### Art. 11.º Constitui dever das entidades autorizadas assegurar que o pessoal que exerce as funções de inspecção observe os seguintes requisitos:
+Art. 11.º Constitui dever das entidades autorizadas assegurar que o pessoal que exerce as funções de inspecção observe os seguintes requisitos:
 
 a) Cumprir escrupulosamente, na realização das inspecções, as normas legais que disciplinam aquela actividade;
 
@@ -168,7 +185,7 @@ b) Usar de total isenção nas verificações efectuadas;
 
 c) Usar de inteira correcção nas relações com o público.
 
-###### Art. 12.º - 1 - O início da actividade de inspecção por entidades autorizadas para o efeito fica dependente da aprovação das instalações, equipamentos e capacidade técnica dos centros de inspecção.
+Art. 12.º - 1 - O início da actividade de inspecção por entidades autorizadas para o efeito fica dependente da aprovação das instalações, equipamentos e capacidade técnica dos centros de inspecção.
 
 2 - A aprovação mencionada no presente artigo é precedida de certificação do sistema de qualidade pelo Instituto Português da Qualidade, no âmbito do Sistema Nacional de Gestão da Qualidade, estabelecido no [Decreto-Lei n.º 165/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1983-311467), de 27 de Abril.
 
@@ -176,15 +193,15 @@ c) Usar de inteira correcção nas relações com o público.
 
 4 - Qualquer alteração de um centro de inspecção aprovado nos termos do número anterior carece de prévia aprovação pela Direcção-Geral de Viação, sem prejuízo do disposto no n.º 2 do presente artigo.
 
-###### Art. 13.º - 1 - As tarifas incidentes sobre as inspecções e reinspecções obrigatórias são fixadas anualmente por portaria conjunta dos Ministros da Administração Interna e do Comércio e Turismo.
+Art. 13.º - 1 - As tarifas incidentes sobre as inspecções e reinspecções obrigatórias são fixadas anualmente por portaria conjunta dos Ministros da Administração Interna e do Comércio e Turismo.
 
 2 - As entidades autorizadas obrigam-se a constituir um fundo, para o qual reverterá uma quantia igual a 5% da receita bruta mensal, destinado a custear as despesas de fiscalização e acções de promoção e implementação de segurança rodoviária, nos termos a fixar por portaria do Ministro da Administração Interna.
 
-###### Art. 14.º - 1 - O controlo e a fiscalização das actividades das entidades autorizadas serão efectuados por técnicos fiscalizadores da Direcção-Geral de Viação e da Direcção-Geral de Inspecção Económica.
+Art. 14.º - 1 - O controlo e a fiscalização das actividades das entidades autorizadas serão efectuados por técnicos fiscalizadores da Direcção-Geral de Viação e da Direcção-Geral de Inspecção Económica.
 
 2 - Para o exercício da actividade de controlo e fiscalização será facultado aos respectivos agentes livre acesso a todas as instalações.
 
-###### Art. 15.º - 1 - Os centros de inspecção deverão processar informaticamente toda a informação relativa às inspecções, devendo as entidades autorizadas manter actualizados todos os dados relativos aos veículos inspeccionados, de onde constem, nomeadamente, a data e o resultado de cada inspecção efectuada e os elementos que se mostrem relevantes para esclarecimento das decisões tomadas.
+Art. 15.º - 1 - Os centros de inspecção deverão processar informaticamente toda a informação relativa às inspecções, devendo as entidades autorizadas manter actualizados todos os dados relativos aos veículos inspeccionados, de onde constem, nomeadamente, a data e o resultado de cada inspecção efectuada e os elementos que se mostrem relevantes para esclarecimento das decisões tomadas.
 
 2 - A Direcção-Geral de Viação fixará a estrutura de dados cuja informatização será obrigatória, bem como as normas técnicas a que deverá obedecer a respectiva informatização, tendo em vista o disposto no n.º 4.
 
@@ -194,7 +211,7 @@ c) Usar de inteira correcção nas relações com o público.
 
 5 - A Direcção-Geral de Viação poderá solicitar às entidades autorizadas quaisquer outras informações necessárias ao seu esclarecimento.
 
-###### Art. 16.º - 1 - Constituem contra-ordenações, puníveis com coima de:
+Art. 16.º - 1 - Constituem contra-ordenações, puníveis com coima de:
 
 a) 10000$00 a 50000$00, o não cumprimento do disposto no n.º 1 do artigo 7.º e nos n.os 1 e 5 do artigo 15.º;
 
@@ -214,26 +231,26 @@ b) 200000$00 a 1000000$00, o não cumprimento do disposto nos artigos 3.º, 4.º
 
 6 - Se, no caso previsto no número anterior, a entidade autorizada não cumprir as suas obrigações, haverá lugar ao cancelamento da autorização concedida.
 
-###### Art. 17.º O produto das coimas aplicadas nos termos do artigo anterior reverterá:
+Art. 17.º O produto das coimas aplicadas nos termos do artigo anterior reverterá:
 
 a) 60% para o Orçamento do Estado;
 
 b) 40% para a Direcção-Geral de Viação.
 
-###### Art. 18.º A instrução dos processos por contra-ordenação e a aplicação das coimas são da competência da Direcção-Geral de Viação.
+Art. 18.º A instrução dos processos por contra-ordenação e a aplicação das coimas são da competência da Direcção-Geral de Viação.
 
-###### Art. 19.º - 1 - É revogado o [Decreto-Lei n.º 352/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1989-548985), de 13 de Outubro.
+Art. 19.º - 1 - É revogado o [Decreto-Lei n.º 352/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1989-548985), de 13 de Outubro.
 
 2 - Os diplomas regulamentares publicados em execução do [Decreto-Lei n.º 154/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1985-546820), de 9 de Maio, mantêm-se em vigor até à sua substituição pelos diplomas a publicar em execução do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Fernando Miral Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/1992/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e8cf1c842fe1dfefd0683d3db446d66b9f4b06bbea156ce93989808364b528b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 152b26d2393cdd382cc140e7f8e2ab59c93dd7c36d984bd918fc5ac09cc47f53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Extinção de Serviços
-- Universidade do Algarve
 - Faro
 - Instituto Politécnico
 - Transferência de Pessoal
 - Transferência Patrimonial
-relationships: []
+- Universidade do Algarve
+relationships:
+- type: cites
+  target: pt:dre:354169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:49Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +107,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinto o Instituto Politécnico de Faro, criado pelo [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), de 26 de Dezembro.
+Artigo 1.º É extinto o Instituto Politécnico de Faro, criado pelo [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), de 26 de Dezembro.
 
-###### Art. 2.º - 1 - O pessoal em serviço no Instituto Politécnico de Faro à data da entrada em vigor do presente diploma transita para a Universidade do Algarve, independentemente de quaisquer formalidades.
+Art. 2.º - 1 - O pessoal em serviço no Instituto Politécnico de Faro à data da entrada em vigor do presente diploma transita para a Universidade do Algarve, independentemente de quaisquer formalidades.
 
 2 - A transição faz-se na categoria e com tipo de vinculação que o pessoal tenha nesta mesma data.
 
-###### Art. 3.º - 1 - O património próprio do Instituto Politécnico de Faro transita para a titularidade da Universidade do Algarve, constituindo este diploma título bastante para todos os efeitos legais, incluindo os de registo.
+Art. 3.º - 1 - O património próprio do Instituto Politécnico de Faro transita para a titularidade da Universidade do Algarve, constituindo este diploma título bastante para todos os efeitos legais, incluindo os de registo.
 
 2 - O património afecto ao Instituto Politécnico de Faro passa a considerar-se afecto à Universidade do Algarve, independentemente de quaisquer formalidades.
 
-###### Art. 4.º A Universidade do Algarve continua a dispor do quadro de pessoal constante do mapa anexo ao [Decreto-Lei n.º 373/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1988-354169), de 17 de Outubro.
+Art. 4.º A Universidade do Algarve continua a dispor do quadro de pessoal constante do mapa anexo ao [Decreto-Lei n.º 373/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1988-354169), de 17 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 8 de Outubro de 1992.**
+Promulgado em 8 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

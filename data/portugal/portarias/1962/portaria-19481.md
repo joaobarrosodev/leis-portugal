@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19481-1962-156375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b57077c0056b8d1fcf8319b55824679cfbdf1708cef9a59f47bdb77122926a9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33bc677871939e5e730b857619e7b9ecd74017f12b9f758e2d904eaed1978473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:13Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +110,13 @@ a) Reforçar com a quantia de 10408$30 a verba do capítulo 10.º, artigo 259.º
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 255.º, n.º 3) «Outros encargos - Vencimentos dos juízes que sejam colocados no quadro da magistratura do ultramar» ... 1908$30
+Artigo 255.º, n.º 3) «Outros encargos - Vencimentos dos juízes que sejam colocados no quadro da magistratura do ultramar» ... 1908$30
 
-###### Artigo 257.º, n.º 3), alínea a) «Despesas de comunicações - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 35000$00
+Artigo 257.º, n.º 3), alínea a) «Despesas de comunicações - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 35000$00
 
-###### Artigo 258.º, n.º 5), alínea a) «Deslocação de pessoal - Subsídio de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 4000$00
+Artigo 258.º, n.º 5), alínea a) «Deslocação de pessoal - Subsídio de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 4000$00
 
-###### Artigo 259.º, n.º 4), alínea a) «Diversas despesas - Despesas com papel selado e valores selados - A pagar na metrópole» ... 1000$00
+Artigo 259.º, n.º 4), alínea a) «Diversas despesas - Despesas com papel selado e valores selados - A pagar na metrópole» ... 1000$00
 
 ... 10408$30
 
@@ -108,17 +124,17 @@ b) Reforçar, com a importância de 60895$80 a verba do capítulo 10.º, artigo 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 285.º, n.º 3) «Outros encargos - Vencimentos dos juízes das províncias que sejam colocados no quadro da magistratura judicial ultramarina (Despacho ministerial de 26 de Janeiro de 1928)» ... 895$80
+Artigo 285.º, n.º 3) «Outros encargos - Vencimentos dos juízes das províncias que sejam colocados no quadro da magistratura judicial ultramarina (Despacho ministerial de 26 de Janeiro de 1928)» ... 895$80
 
-###### Artigo 288.º, n.º 2), alínea a) «Despesas de comunicações fora da província - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 20000$00
+Artigo 288.º, n.º 2), alínea a) «Despesas de comunicações fora da província - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 20000$00
 
-###### Artigo 289.º, n.º 5), alínea a) «Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na metrópole» ... 4000$00
+Artigo 289.º, n.º 5), alínea a) «Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na metrópole» ... 4000$00
 
-###### Artigo 290.º, n.º 1), alínea a) «Diversas despesas - Repatriação e socorros a indigentes - A pagar na metrópole» ... 6000$00
+Artigo 290.º, n.º 1), alínea a) «Diversas despesas - Repatriação e socorros a indigentes - A pagar na metrópole» ... 6000$00
 
-###### Artigo 290.º, n.º 8), alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 15000$00
+Artigo 290.º, n.º 8), alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 15000$00
 
-###### Artigo 290.º, n.º 17), alínea a) «Diversas despesas - Despesas com valores postais - A pagar na metrópole» ... 15000$00
+Artigo 290.º, n.º 17), alínea a) «Diversas despesas - Despesas com valores postais - A pagar na metrópole» ... 15000$00
 
 ... 60895$80
 

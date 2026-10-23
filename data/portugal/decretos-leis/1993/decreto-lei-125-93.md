@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/1993/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1993-692265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 807e40d675041438d2ad0889b42842651712dab1073b3fabd327b632017c7881
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 477f90f787ff3061e09a9f3960aabd1ddb39e03c6e151b60f34704099e62c08b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
 subjects:
 - Adjudicação
 - Ajuste Direto
-- Embarcação
 - Arsenal do Alfeite
+- Conservação e Restauro
+- Embarcação
 - Exposição Internacional de Lisboa de 1998
 - Obras Públicas
-- Conservação e Restauro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:21Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +101,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica o Arsenal do Alfeite autorizado, a título excepcional, a adjudicar as obras necessárias para a restauração da fragata D. Fernando II e Glória, por ajuste directo, com dispensa de concurso público ou limitado, até ao limite de 388600000$00.
+Artigo 1.º Fica o Arsenal do Alfeite autorizado, a título excepcional, a adjudicar as obras necessárias para a restauração da fragata D. Fernando II e Glória, por ajuste directo, com dispensa de concurso público ou limitado, até ao limite de 388600000$00.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

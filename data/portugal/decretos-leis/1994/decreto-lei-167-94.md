@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/136a00/30713072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/1994/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1994-304095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296037d375028ab4f9734ffb3a85b2b904017b066e241fada64a7cc456945ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 039ec293211dbb910f15458362ba0939a3dd37a04f8025ffb869b05bba217ecf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Férias Judiciais
-- Pessoal de Justiça
-- Oficial de Justiça
+- Gestão de Recursos Humanos
 - Horário de Funcionamento
 - Magistrado do Ministério Público
 - Magistrado Judicial
+- Oficial de Justiça
 - Organização Judiciária
-- Gestão de Recursos Humanos
+- Pessoal de Justiça
 - Trabalho por Turnos
-- Tribunal Judicial
 - Tribunal
+- Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:428653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterada a redacção dada pelo presente diploma ao art. 3º do Dec Lei 376/87 de 11-Dez, pela LEI.44/96.1996.09.03.AR,\
+    \ DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/312/1993/09/15/p/dre
   label: null
@@ -97,16 +103,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666745:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241228:por
+  label: "Revogado o presente diploma a partir da data referida no nº 2 do art. 6º pela LEI.44/96.1996.09.03.AR, DR.IS-A [204]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: repealed_by
+  target: pt:dre:428653:por
+  label: "Revogado pelo DEC LEI.343/99.1999.08.26.MJ,DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1999-428653
+  date: '1999-08-26'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:34Z'
   warnings: []
   errors: []
 ---
@@ -125,13 +190,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, alterada pelas Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/lei/49-1988-285159), de 19 de Abril, e [52/88](https://diariodarepublica.pt/dr/detalhe/lei/52-1988-373603), de 4 de Maio, pela [Lei n.º 24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto, e pela [Lei n.º 24/92](https://diariodarepublica.pt/dr/detalhe/lei/24-1992-259072), de 20 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos do disposto no n.º 1 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, e no n.º 1 do artigo 21.º-A do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, em todos os tribunais judiciais de 1.ª instância organizam-se turnos de magistrados para o serviço urgente durante as férias judiciais.
+Artigo 1.º - 1 - Para efeitos do disposto no n.º 1 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, e no n.º 1 do artigo 21.º-A do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, em todos os tribunais judiciais de 1.ª instância organizam-se turnos de magistrados para o serviço urgente durante as férias judiciais.
 
 2 - Para efeitos do disposto no n.º 1 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, no n.º 2 do artigo 21.º-A e no artigo 22.º-A, ambos do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, nos tribunais judiciais de 1.ª instância determinados por portaria conjunta dos Ministros das Finanças e da Justiça organizam-se turnos de magistrados aos sábados, domingos e feriados, por forma a assegurar o serviço urgente previsto no Código de Processo Penal e na Organização Tutelar de Menores.
 
 3 - Nos tribunais que não constem da portaria pevista no número anterior, o serviço urgente aí referido que deva ser prestado aos sábados, domingos e feriados é assegurado pelos magistrados designados, conforme os casos, pelo presidente da Relação ou pelo procurador-geral-adjunto no distrito judicial, em conjugação.
 
-###### Art. 2.º - 1 - Na organização dos turnos referidos nos n.os 1 e 2 do artigo anterior observam-se as seguintes regras:
+Art. 2.º - 1 - Na organização dos turnos referidos nos n.os 1 e 2 do artigo anterior observam-se as seguintes regras:
 
 a) Funcionam nos tribunais que asseguram o serviço em causa;
 
@@ -157,7 +222,7 @@ c) A duração diária dos turnos coincide com a do funcionamento das secretaria
 
 d) O suplemento remuneratório devido pelos turnos é fixado em despacho conjunto dos Ministros das Finanças e da Justiça.
 
-###### Art. 3.º Na designação referida no n.º 3 do artigo 1.º obervam-se as seguintes regras:
+Art. 3.º Na designação referida no n.º 3 do artigo 1.º obervam-se as seguintes regras:
 
 a) Para cada círculo judicial ou, excepcionalmente, para cada comarca ou conjunto de comarcas, são designados um juiz e um magistrado do Ministério Público de entre os que exerçam funções em tribunais com sede em tais circunscrições;
 
@@ -169,7 +234,7 @@ d) Os magistrados designados asseguram a possibilidade de contacto permanente;
 
 e) Os magistrados designados executam o serviço urgente previsto no Código de Processo Penal e na Organização Tutelar de Menores de qualquer dos tribunais com sede, conforme os casos, no círculo judicial, na comarca ou no conjunto de comarcas.
 
-###### Art. 4.º O artigo 3.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, alterado pelos Decretos-Leis n.os [167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, [270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, [378/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1991-288235), de 9 de Outubro, e [364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), de 22 de Outubor, passa a ter a seguinte redacção:
+Art. 4.º O artigo 3.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, alterado pelos Decretos-Leis n.os [167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, [270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, [378/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1991-288235), de 9 de Outubro, e [364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), de 22 de Outubor, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Horário de funcionamento
 
@@ -207,12 +272,12 @@ e) Os funcionários designados executam o serviço urgente das secretarias de qu
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 18 de Maio de 1994.**
+Promulgado em 18 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Maio de 1994.**
+Referendado em 23 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

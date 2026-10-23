@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/1993/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1993-373975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13059dbeb0224c8380a6fa1d6eb664a1aec18140bb8ac5b654fabe195a4b4cdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edc38354f4dd96045ba18cc11737920eb6e715e7807908e5b7cdfbe6390c6c23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,39 @@ relationships:
   target: pt:dre:212015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterado o art. 91.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.39-B/94.27.12.1994.AR, DR.IS-A [298-2ºSupl] de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:276219:por
+  label: "Alterada a redacção do art. 91.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado\
+    \ pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma, pelo DEC LEI.257-B/96.31.12.1996.MF, DR.IS-A [302-Supl]\
+    \ de 31.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-b-1996-276219
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterado o art. 91.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:41Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 91.º do Código do IRS, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 91.º do Código do IRS, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 91.º — Retenção na fonte - Regras gerais
 
@@ -119,16 +142,16 @@ c) ...
 
 5 - ...
 
-###### Art. 2.º A transição das entidades referidas no artigo anterior para o regime de entregas mensais ocorrerá no primeiro mês subsequente à data da publicação do presente diploma.
+Art. 2.º A transição das entidades referidas no artigo anterior para o regime de entregas mensais ocorrerá no primeiro mês subsequente à data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1993.**
+Referendado em 22 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

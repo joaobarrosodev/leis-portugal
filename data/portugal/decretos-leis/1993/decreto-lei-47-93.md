@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1993-657446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edfe5f40349f14126cd302c2f535fcbb7ff8dcc7df93ce6045b35ba72f9012dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b858240d105680398fb7051339816ddce83dae40e8dbd061996fb4ade58025c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,151 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Sistema de Autoridade Marítima
+- Auditoria Jurídica
 - Autoridade Nacional de Segurança
-- Ministério da Defesa Nacional
 - Comissão de Direito Marítimo Internacional
-- Conselho de Ciência e Tecnologia de Defesa
 - Conselho de Chefes de Estado Maior
+- Conselho de Ciência e Tecnologia de Defesa
 - Conselho Superior Militar
+- Direção Geral de Política de Defesa Nacional
 - Direcção Geral de Armamento e Equipamentos de Defesa
 - Direcção Geral de Infra-estruturas
 - Direcção Geral de Pessoal
-- Direção Geral de Política de Defesa Nacional
-- Secretaria Geral
+- Forças Armadas
 - Inspecção Geral das Forças Armadas
 - Instituto de Defesa Nacional
-- Auditoria Jurídica
-- Forças Armadas
+- Ministério da Defesa Nacional
 - Orgânica
 - Polícia Judiciária Militar
+- Reestruturação de Serviços
+- Secretaria Geral
 - Serviços Sociais
+- Sistema de Autoridade Marítima
 - Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:65983260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505186:por
+  label: "Extintas a Comissão Executiva de Infra-Estruturas OTAN, a Comissão de Manutenção de Infra-Estruturas OTAN e a Comissão\
+    \ Coordenadora de Informática das Forças Armadas, pelo DR.11/95.1995.05.23.MDN, DR.IS-B [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1995-505186
+  date: '1995-05-23'
+- type: amended_by
+  target: pt:dre:505187:por
+  label: "Extinto o Centro de Catalogação das Forças Armadas e a Comissão Técnica Permanente de Munições e Substâncias Explosivas\
+    \ das Forças Armadas, pelo DR.12/95.1995.05.23.MDN, DR.IS-B [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1995-505187
+  date: '1995-05-23'
+- type: amended_by
+  target: pt:dre:534795:por
+  label: "Integrada a Comissão Portuguesa de História Militar (anteriormente na dependência do Ministro da Cultura, criada\
+    \ pela Port 247/89, de 04-Abr, que aprovou também a sua orgânica) no Ministério da Defesa Nacional, cuja orgânica consta\
+    \ do presente diploma, pelo DEC LEI.23/96.1996.03.20.PCM DR.IS-A [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1996-534795
+  date: '1996-03-20'
+- type: amended_by
+  target: pt:dre:661562:por
+  label: "Alterado o art 14º e revogada a al c) do num 2 do art 9º e o art 18º pelo Dec Lei 263/97.1997.10.02.MDN, DR.IS-A\
+    \ [228] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1997-661562
+  date: '1997-10-02'
+- type: amended_by
+  target: pt:dre:615042:por
+  label: "Alterados os arts. 9º e 12º e o quadro de pessoal anexo referido no nº 2 do art. 20º do presente diploma, na redacção\
+    \ dada pelos Dec Lei 211/97 de 16-Ago, 217/97 de 20-Ago e 263/97 de 02-Out, pelo DEC LEI.290/2000.2000.11.14.MDN DR.IS-A\
+    \ [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2000-615042
+  date: '2000-11-14'
+- type: amended_by
+  target: pt:dre:145184:por
+  label: "Mantidos em vigor os arts. 21.º e 22.º, até à revisão do Estatuto dos Militares das Forças Armadas, pelo DEC LEI.122/2011.29.12.2011.MDN,\
+    \ DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2011-145184
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:65983260:por
+  label: Mantidos em vigor, até à revisão do Estatuto dos Militares da Forças Armadas (aprovado pelo Dec Lei 236/99 de 25-jun)
+    os arts. 21.º e 22.º do presente diploma pelo(a) Decreto-Lei n.º 183/2014 - Diário da República n.º 250/2014, Série I
+    de 2014-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2014-65983260
+  date: '2014-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
+- type: cites
+  target: pt:dre:196765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209592:por
+  label: "Revogada a al d) do nº 2 do artº 9º e o artº 19, pelo DEC LEI.211/97.1997.08.16.MDN DR.IS-A [188]1\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1997-209592
+  date: '1997-08-16'
+- type: repealed_by
+  target: pt:dre:195802:por
+  label: "Revogado o art 15º pelo Dec Lei 217/97.1997.08.20.MDN, DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1997-195802
+  date: '1997-08-20'
+- type: repealed_by
+  target: pt:dre:197362:por
+  label: "Revogado o nº 3 do art 14º do presente diploma, na redacção dada pelo Dec Lei 263/97, de 02-Out, pelo Dec Lei 171/2002\
+    \ de 25-Jul, DR IS-A (170) 2002.07.25.MDN \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2002-197362
+  date: '2002-07-25'
+- type: repealed_by
+  target: pt:dre:655675:por
+  label: "Revogado o presente diploma, na redacção dos Decretos-Leis n.ºs 211/97, de 16 de Agosto, 217/97, de 20 de Agosto,\
+    \ 263/97, de 2 de Outubro, 290/2000, de 14 de Novembro, e 171/2002, de 25 de Julho, DEC LEI.154-A/2009.06.07.2009.MDN,\
+    \ DR.IS [128]2ºSupl de 06.07.2009, com excepção dos artigos 21.º e 22.º, que permanecem em vigor nos termos do n.º 2 do\
+    \ seu artigo 34.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
 article_structure:
   article_count: 30
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:58Z'
   warnings: []
   errors: []
 ---
@@ -435,7 +540,7 @@ d) A sensibilização da população para os problemas da defesa nacional, em es
 
 2 - Ao CCTD compete, no âmbito da defesa nacional:
 
-a) Contribuir para a definição da política de I&D;
+a) Contribuir para a definição da política de I&D
 
 b) Promover o debate dos grandes problemas ligados à defesa no âmbito da ciência e tecnonologia;
 
@@ -443,7 +548,7 @@ c) Assegurar a articulação entre as diversas estruturas do MDN e os órgãos r
 
 d) Estudar e propor as prioridades da I&D e acompanhar o desenvolvimento dos programas de médio e longo prazo delas decorrentes;
 
-e) Propor os critérios e formas de financiamento dos projectos aprovados e apoiar os serviços competentes na preparação do orçamento anual da I&D;
+e) Propor os critérios e formas de financiamento dos projectos aprovados e apoiar os serviços competentes na preparação do orçamento anual da I&D
 
 f) Dar parecer sobre a representação portuguesa em órgãos e actividades internacionais no âmbito da I&D.
 
@@ -565,16 +670,16 @@ Os órgãos e serviços dependentes do Chefe do Estado-Maior-General das Forças
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em Vila Franca de Xira em 2 de Fevereiro de 1993.**
+Promulgado em Vila Franca de Xira em 2 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1993.**
+Referendado em 4 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 2 do artigo 20.º do Decreto-Lei n.º 47/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/048a00/08010807.pdf))](https://files.diariodarepublica.pt/1s/1993/02/048a00/08010807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/048a00/08010807.pdf)

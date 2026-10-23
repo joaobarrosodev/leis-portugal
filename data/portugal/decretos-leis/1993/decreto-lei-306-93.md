@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/306/1993/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1993-633537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c9d3d878cab02b4d116074bca6b2b8b208c4d0054e3ce578225aebf2b22370c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 316f47b1ed603cad41cb13492a724456a37e17c3c73261b3de8b209851447d53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,57 @@ reuse:
 subjects:
 - Equivalência de Categorias
 - Escola Superior de Belas-artes
-- Lisboa
-- Universidade de Lisboa
 - Integração de Trabalhadores
+- Lisboa
 - Pessoal Docente
+- Universidade de Lisboa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1991/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/20/1991/01/10/p/dre
+- type: cites
+  target: pt:dre:327661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:17Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +135,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A transição dos docentes da Escola Superior de Belas-Artes de Lisboa para as categorias constantes do artigo 2.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, alterado, por ratificação, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, é feita:
+Artigo 1.º - 1 - A transição dos docentes da Escola Superior de Belas-Artes de Lisboa para as categorias constantes do artigo 2.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, alterado, por ratificação, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, é feita:
 
 a) Da categoria de assistente eventual para a de assistente estagiário;
 
@@ -117,22 +149,22 @@ e) Da categoria de professor para a de professor catedrático, de nomeação def
 
 2 - O pessoal docente especialmente contratado como equiparado a assistente transita para a categoria de assistente convidado.
 
-###### Art. 2.º O tempo de serviço prestado nas actuais categorias da Escola Superior de Belas-Artes de Lisboa conta para efeitos de promoção e de progressão na carreira docente universitária.
+Art. 2.º O tempo de serviço prestado nas actuais categorias da Escola Superior de Belas-Artes de Lisboa conta para efeitos de promoção e de progressão na carreira docente universitária.
 
-###### Art. 3.º O provimento nas novas categorias é feito em comissão de serviço, até à fixação do quadro da Escola Superior de Belas-Artes de Lisboa da Universidade de Lisboa, sempre que se trate de docentes com nomeação definitiva na carreira actual.
+Art. 3.º O provimento nas novas categorias é feito em comissão de serviço, até à fixação do quadro da Escola Superior de Belas-Artes de Lisboa da Universidade de Lisboa, sempre que se trate de docentes com nomeação definitiva na carreira actual.
 
-###### Art. 4.º Os titulares da categoria de primeiro-assistente da Escola Superior de Belas-Artes que possuam, à data da entrada em vigor do presente diploma, o título de professor agregado pela referida Escola e que transitem para a categoria de professor auxiliar podem apresentar-se a concurso para professor associado.
+Art. 4.º Os titulares da categoria de primeiro-assistente da Escola Superior de Belas-Artes que possuam, à data da entrada em vigor do presente diploma, o título de professor agregado pela referida Escola e que transitem para a categoria de professor auxiliar podem apresentar-se a concurso para professor associado.
 
-###### Art. 5.º Os docentes referidos no artigo anterior podem prestar provas para obtenção do título de agregado, nos termos do [Decreto n.º 301/72](https://diariodarepublica.pt/dr/detalhe/decreto/301-1972-605815), de 14 de Agosto, com dispensa de apresentação e discussão da dissertação aí prevista.
+Art. 5.º Os docentes referidos no artigo anterior podem prestar provas para obtenção do título de agregado, nos termos do [Decreto n.º 301/72](https://diariodarepublica.pt/dr/detalhe/decreto/301-1972-605815), de 14 de Agosto, com dispensa de apresentação e discussão da dissertação aí prevista.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

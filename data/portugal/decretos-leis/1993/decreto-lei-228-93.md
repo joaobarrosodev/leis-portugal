@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/144a00/34173422.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/1993/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1993-268601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4e7623d356e6597dc606b6d6397019a07f632a43f04c36a49d4b160c0656fac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21e19fd1d84def4869f78bb5745a86226286f013a1cbfb757ac258b0d0c7fdb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Multa
+- Certificado de Qualidade
+- Comércio
+- Comunicações
 - Contra-ordenação
 - Controlo de Qualidade
-- Marca
 - Equipamento
 - Instituto das Comunicações de Portugal
-- Certificado de Qualidade
-- Comunicações
-- Comércio
+- Marca
+- Multa
 - Normalização
 relationships:
 - type: amended_by
@@ -92,16 +92,22 @@ relationships:
   target: celex:31991L0263
   label: null
   source: http://data.europa.eu/eli/dir/1991/263/oj
+- type: repealed_by
+  target: pt:dre:324969:por
+  label: "Revogado pelo DEC LEI.192/2000.2000.08.18.MES DR.IS-A [190]; revogadas ainda as demais disposições regulamentares\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2000-324969
+  date: '2000-08-18'
 article_structure:
   article_count: 30
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:32Z'
   warnings: []
   errors: []
 ---
@@ -404,15 +410,15 @@ Por portaria do membro do Governo responsável pela área das comunicações, s�
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1993. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Modelo de declaração previsto no artigo 20.º, n.º 2, alínea b)
 

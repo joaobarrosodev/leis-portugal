@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/09/20500/11891189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19384-1962-159686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476f1824119ccababdf34fd176cef9645dfef07f5377ffa390d8a34d7c9bc0f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c94e617d4c41b4a7fd9e5c273cf666921089d24984e5d3777329c27460a2c337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Marinha
+- Militar
+- Reserva
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:473510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642563:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:686265:por
+  label: "Revogada a Portaria n.º 18710, de 4 de Setembro de 1961, alterada pelo presente diploma, pela PORT.20062.07.09.1963.MMAR,\
+    \ DG.IS [211] de 07.09.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20062-1963-686265
+  date: '1963-09-07'
+- type: repealed_by
+  target: pt:dre:473510:por
+  label: "Revogada a Portaria n.º 18938, de 4 de Janeiro de 1962, alterada pelo presente diploma, pela PORT.22020.30.05.1966.MMAR,\
+    \ DG.IS [126] de 30.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22020-1966-473510
+  date: '1966-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:12Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/084a00/18021803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/1993/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1993-688803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ee10e71026873b0ba154ea59ba167f33547a0f2af086c396f14f65e565cc39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 661f40c715c9ae691284cbfb1a13c36f554238f755a71e3f0c041473a36c0ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,10 +72,10 @@ subjects:
 - Carne de AVES de Capoeira
 - CE Países
 - CEE
-- Multa
 - Contra-ordenação
 - Controlo Sanitário
 - Importação
+- Multa
 - Política Agrícola Comum
 - Troca Intracomunitária
 relationships:
@@ -87,16 +87,21 @@ relationships:
   target: celex:31991L0494
   label: null
   source: http://data.europa.eu/eli/dir/1991/494/oj
+- type: repealed_by
+  target: pt:dre:315153:por
+  label: "Revogado pelo DEC LEI.20/2001.2001.01.30.MADRP,DR.IS-A [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2001-315153
+  date: '2001-01-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:56Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +120,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/494/CEE](https://data.europa.eu/eli/dir/1991/494/oj?locale=pt), do Conselho, de 26 de Junho, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações provenientes de países terceiros de carnes frescas de aves de capoeira.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/494/CEE](https://data.europa.eu/eli/dir/1991/494/oj?locale=pt), do Conselho, de 26 de Junho, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações provenientes de países terceiros de carnes frescas de aves de capoeira.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-###### Art. 3.º - 1 - Constitui contra-ordenação a circulação no âmbito do comércio intracomunitário e das importações provenientes de países terceiros de carnes frescas de aves de capoeira com desrespeito pelas regras relativas a polícia sanitária estabelecidas nos termos previstos no artigo anterior.
+Art. 3.º - 1 - Constitui contra-ordenação a circulação no âmbito do comércio intracomunitário e das importações provenientes de países terceiros de carnes frescas de aves de capoeira com desrespeito pelas regras relativas a polícia sanitária estabelecidas nos termos previstos no artigo anterior.
 
 2 - As contra-ordenações previstas no número anterior são puníveis com coima, a aplicar pelo director-geral da Pecuária, cujo montante mínimo é de 10000$00 e o máximo de 500000$00.
 
@@ -127,11 +132,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A negligência é punível.
 
-###### Art. 4.º - 1 - Podem ser aplicadas simultaneamente com a coima as sanções acessórias previstas na legislação em vigor.
+Art. 4.º - 1 - Podem ser aplicadas simultaneamente com a coima as sanções acessórias previstas na legislação em vigor.
 
 2 - Quando seja aplicada a sanção acessória de encerramento de estabelecimento ou cancelamento de serviços, licenças e alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares para o seu normal funcionamento.
 
-###### Art. 5.º O produto das coimas reverte:
+Art. 5.º O produto das coimas reverte:
 
 a) Em 30% para a Direcção-Geral da Pecuária;
 
@@ -139,16 +144,16 @@ b) Em 10% para a entidade autuante;
 
 c) Em 60% para o Estado.
 
-###### Art. 6.º Compete à Direcção-Geral da Pecuária e às direcções regionais de agricultura a fiscalização da observância das normas constantes do presente diploma e respectiva regulamentação.
+Art. 6.º Compete à Direcção-Geral da Pecuária e às direcções regionais de agricultura a fiscalização da observância das normas constantes do presente diploma e respectiva regulamentação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

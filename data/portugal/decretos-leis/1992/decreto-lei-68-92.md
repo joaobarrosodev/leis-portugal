@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/1992/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1992-217478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f0c94252fe4273e864b8f805cd0950ffa98d47945f0917a300348152ba4c328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe0844e7a46baa20cfb304a7f7fc3a168ef267c988b3d19c9b46f0cb97f18859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
+- Companhia de Seguros
 - Cosec
 - Privatização
-- Companhia de Seguros
-relationships: []
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550979:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:56Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +118,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação de 735000 das acções do capital social da COSEC - Companhia de Seguro de Créditos, S. A., de que o Estado é titular, correspondentes a 49% do respectivo capital social.
+Artigo 1.º É aprovada a alienação de 735000 das acções do capital social da COSEC - Companhia de Seguro de Créditos, S. A., de que o Estado é titular, correspondentes a 49% do respectivo capital social.
 
-###### Art. 2.º - 1 - Na operação de alienação das acções a que se refere o artigo 1.º observar-se-á o seguinte:
+Art. 2.º - 1 - Na operação de alienação das acções a que se refere o artigo 1.º observar-se-á o seguinte:
 
 a) Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um lote de acções correspondente a 4% do capital da sociedade;
 
@@ -130,15 +142,15 @@ f) As acções eventualmente remanescentes serão objecto de venda directa ao ac
 
 5 - Para efeitos do disposto na alínea d) do n.º 1, consideram-se instituições financeiras os bancos e instituições especiais de crédito com sede em Portugal e as seguradoras não vida com estatuto de sociedade anónima e com sede em Portugal.
 
-###### Art. 3.º O preço de venda das acções a que se refere o artigo anterior será fixado por resolução do Conselho de Ministros, podendo o Governo estabelecer preços especiais para as aquisições por trabalhadores, pequenos subscritores e emigrantes.
+Art. 3.º O preço de venda das acções a que se refere o artigo anterior será fixado por resolução do Conselho de Ministros, podendo o Governo estabelecer preços especiais para as aquisições por trabalhadores, pequenos subscritores e emigrantes.
 
-###### Art. 4.º - 1 - O pagamento das acções adquiridas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade estabelecido neste diploma, em condições a fixar por resolução do Conselho de Ministros.
+Art. 4.º - 1 - O pagamento das acções adquiridas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade estabelecido neste diploma, em condições a fixar por resolução do Conselho de Ministros.
 
 2 - A mesma resolução fixará, ainda, as quantidades individuais máximas a que terá de obedecer a aquisição por trabalhadores e as quantidades mínimas e máximas, bem como as condições de rateio, quando necessário, respeitantes à aquisição por pequenos subscritores e emigrantes.
 
-###### Art. 5.º Para efeitos do presente diploma, consideram-se como trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+Art. 5.º Para efeitos do presente diploma, consideram-se como trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 6.º - 1 - As acções adquiridas ao abrigo da alínea a) do n.º 1 do artigo 2.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+Art. 6.º - 1 - As acções adquiridas ao abrigo da alínea a) do n.º 1 do artigo 2.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do presente diploma não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no número anterior.
 
@@ -146,7 +158,7 @@ f) As acções eventualmente remanescentes serão objecto de venda directa ao ac
 
 4 - As acções adquiridas por pequenos subscritores ou emigrantes, ao abrigo do presente diploma, não conferem aos respectivos titulares direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no n.º 1.
 
-###### Art. 7.º - 1 - As acções adquiridas ao abrigo das reservas constantes das alíneas b) a e) do n.º 1 do artigo 2.º não podem, nos três anos subsequentes à data da respectiva aquisição, ser alienadas ou oneradas, sob pena de nulidade dos actos praticados, salvo nos casos previstos nos n.os 3 e 4.
+Art. 7.º - 1 - As acções adquiridas ao abrigo das reservas constantes das alíneas b) a e) do n.º 1 do artigo 2.º não podem, nos três anos subsequentes à data da respectiva aquisição, ser alienadas ou oneradas, sob pena de nulidade dos actos praticados, salvo nos casos previstos nos n.os 3 e 4.
 
 2 - As acções que venham a ser atribuídas ou subscritas por efeito da titularidade das que tenham sido adquiridas ao abrigo das reservas referidas no número anterior serão também indisponíveis até ao termo do período de indisponibilidade destas últimas, salvo nos casos previstos nos n.os 3 e 4.
 
@@ -154,9 +166,9 @@ f) As acções eventualmente remanescentes serão objecto de venda directa ao ac
 
 4 - Durante o período de indisponibilidade a que se refere o n.º 1, e no caso de cisão, fusão ou liquidação de qualquer adquirente, as acções só poderão ser transmitidas com autorização do Ministro das Finanças e consentimento da sociedade, nos termos e condições a definir no caderno de encargos que irá reger as operações de venda directa das acções.
 
-###### Art. 8.º São nulos os contratos-promessa, contratos de opção ou outros, celebrados depois da entrada em vigor do presente diploma e antes de terminado o período de indisponibilidade fixado no artigo anterior, pelos quais os titulares das acções fiquem obrigados à sua alienação futura.
+Art. 8.º São nulos os contratos-promessa, contratos de opção ou outros, celebrados depois da entrada em vigor do presente diploma e antes de terminado o período de indisponibilidade fixado no artigo anterior, pelos quais os titulares das acções fiquem obrigados à sua alienação futura.
 
-###### Art. 9.º - 1 - Na operação de reprivatização observar-se-á o seguinte:
+Art. 9.º - 1 - Na operação de reprivatização observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções representativas de mais de 35% do capital social;
 
@@ -166,7 +178,7 @@ c) Nas sociedades ordinárias ou gestoras de participações sociais, titulares 
 
 2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento das acções as informações e provas que considerar necessárias.
 
-###### Art. 10.º Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 10.º Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -176,26 +188,26 @@ c) As sociedades ou entidades equiparáveis constituídas ao abrigo da lei estra
 
 d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Código das Sociedades Comerciais, sejam dominadas, directa ou indirectamente, por entidades referidas nas alíneas anteriores.
 
-###### Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma, incluindo o ou os cadernos de encargos respeitantes às previstas operações de venda directa e a lista de potenciais compradores, bem como a escolha final dos adquirentes.
+Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma, incluindo o ou os cadernos de encargos respeitantes às previstas operações de venda directa e a lista de potenciais compradores, bem como a escolha final dos adquirentes.
 
-###### Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com autorização para subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo entre as entidades a que se refere o artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a montagem das operações de alienação de acções, a garantia de colocação, se tal for conveniente, e, bem assim, para determinar as demais condições que se afigurarem convenientes.
+Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com autorização para subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo entre as entidades a que se refere o artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a montagem das operações de alienação de acções, a garantia de colocação, se tal for conveniente, e, bem assim, para determinar as demais condições que se afigurarem convenientes.
 
-###### Art. 13.º Nos 90 dias seguintes à conclusão da operação prevista no presente diploma, a sociedade deverá proceder às adaptações estatutárias que se afigurarem necessárias, de acordo com o previsto na lei comercial e demais legislação aplicável.
+Art. 13.º Nos 90 dias seguintes à conclusão da operação prevista no presente diploma, a sociedade deverá proceder às adaptações estatutárias que se afigurarem necessárias, de acordo com o previsto na lei comercial e demais legislação aplicável.
 
-###### Art. 14.º As acções da COSEC que, à data da entrada em vigor do presente decreto-lei, pertençam a entidades que não tenham sido reprivatizadas só poderão ser alienadas com obediência do disposto na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+Art. 14.º As acções da COSEC que, à data da entrada em vigor do presente decreto-lei, pertençam a entidades que não tenham sido reprivatizadas só poderão ser alienadas com obediência do disposto na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 15.º Ficam revogadas as disposições do [Decreto-Lei n.º 411/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1989-550979), de 23 de Novembro, que contrariem o disposto no presente diploma.
+Art. 15.º Ficam revogadas as disposições do [Decreto-Lei n.º 411/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1989-550979), de 23 de Novembro, que contrariem o disposto no presente diploma.
 
-###### Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

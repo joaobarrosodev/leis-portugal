@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/1992/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1992-144015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9996245ba5b096fd3a66e1ccf20c1b056442caa5ab49568f901fce2dab5982f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d3ee3bbd502be4f22c17ccf1f6fdd9b5438cd6d6de969959f278b927d9f48c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Balanço Social
-- Empresa
-- Departamento de Estatística
 - Associação Patronal
 - Associação Sindical
+- Balanço Social
+- Departamento de Estatística
+- Empresa
 - Inspecção Geral do Trabalho
 - Ministério do Emprego e da Segurança Social
 - Parceiros Sociais
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171917:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:26Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +106,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º e 4.º da [Lei n.º 141/85](https://diariodarepublica.pt/dr/detalhe/lei/141-1985-171917), de 14 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º e 4.º da [Lei n.º 141/85](https://diariodarepublica.pt/dr/detalhe/lei/141-1985-171917), de 14 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Âmbito de aplicação
 
@@ -120,7 +124,7 @@ A informação a incluir no balanço social é a prevista no formulário anexo a
 
 3 - O Departamento de Estatística do Ministério do Emprego e da Segurança Social enviará cópia do balanço social à Inspecção-Geral do Trabalho.
 
-###### Art. 2.º É aditado à [Lei n.º 141/85](https://diariodarepublica.pt/dr/detalhe/lei/141-1985-171917), de 14 de Novembro, o artigo 4.º-A, com a seguinte redacção:
+Art. 2.º É aditado à [Lei n.º 141/85](https://diariodarepublica.pt/dr/detalhe/lei/141-1985-171917), de 14 de Novembro, o artigo 4.º-A, com a seguinte redacção:
 
 ###### Artigo 4.º-A — Impressão e distribuição dos impressos e sua substituição
 
@@ -128,18 +132,18 @@ A informação a incluir no balanço social é a prevista no formulário anexo a
 
 2 - O director-geral do Departamento de Estatística poderá autorizar, a requerimento das empresas a utilização de suporte informático, mediante instruções a fornecer pelo Departamento de Estatística, em substituição dos impressos referidos no número anterior.
 
-###### Art. 3.º O presente decreto-lei produz efeitos desde 1 de Janeiro de 1992.
+Art. 3.º O presente decreto-lei produz efeitos desde 1 de Janeiro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1991. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Janeiro de 1992.**
+Promulgado em 6 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1992.**
+Referendado em 8 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/018a00/04390441.pdf))](https://files.diariodarepublica.pt/1s/1992/01/018a00/04390441.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/018a00/04390441.pdf)

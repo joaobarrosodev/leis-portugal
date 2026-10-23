@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 259/1992, 1º Suplemento, Série I-A de 1992-11-09
   number: '259'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5176-(3) a 5176-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/259a01/00030010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/1992/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1992-676050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cd69939f1ddf94131f9fb6f382a8bc20bf274498d0b539923d2e8503bd98439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 821675f1eb515a4f4d1cd531ae9698c0b67b5b961dfe319808ea0b48cfe093bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,94 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Educação Pré-escolar
+- Ensino Básico
 - Formação de Professores
 - Pessoal Docente
-- Ensino Básico
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:570766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324485:por
+  label: "Alterados os arts. 6º, 11º, 15º, 18º, 24º, 27º, 31º, 32º, 38º, 39º, 40º e 50º pela LEI.60/93.1993.08.20.AR, DR.IS-A\
+    \ [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-1993-324485
+  date: '1993-08-20'
+- type: amended_by
+  target: pt:dre:621539:por
+  label: "Alterados os art.s 5,º 6º, 11º (os dois últimos na redação, por ratificação, da Lei 60/93, de 20-ago), 13º, 14º,\
+    \ 15º, 18º (os dois últimos na redação, por ratificação, da Lei 60/93, de 20-ago), 21º, 25º, 29º, 30º, 31º (o último na\
+    \ redação, por ratificação, da Lei 60/93, de 20-ago), 34º, 35º, 37º, 38º, 39º, 40º (os três últimos na redação, por ratificação,\
+    \ da Lei 60/93, de 20-ago), 42º, 44º, 45º, 46º e 49º bem como as epígrafes da secção I do cap. II e a do cap. VI e revogados\
+    \ o art. 8º, nº 6 do art.15º, nº 2 do art. 16º, nº 2 do art. 27º e art.s 32º, 33º e 41º do regime jurídico da formação\
+    \ contínua de professores, pelo DEC LEI.274/94.1994.10.28.ME, DR.IS-A [250]\00]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-1994-621539
+  date: '1994-10-28'
+- type: amended_by
+  target: pt:dre:179307:por
+  label: "Alterados os arts. 3º, 4º, 5º, 6º, 7º, 8º, 13º, 14º, 15º, 18º, 19º, 20º, 24º, 25º, 26º, 27º, 28º, 29º, 30º, 31º,\
+    \ 34º, 35º, 36º, 37º, 38º, 40º, 41º, 43º, 44º, 45º, 46º, 48º, 49º e 50º, bem como a epígrafe da secção IV do capítulo\
+    \ III do regime jurídico da formação contínua de professores (com as alterações que lhe foram introduzidas pela Lei 60/93\
+    \ de 20-Ago e pelo Dec Lei 274/94 de 28-Out); aditado ao mesmo regime os arts. 25º-A, 27º-A e 27º-B e revoga a al. d)\
+    \ do nº 2 do art. 29º, o nº 5 do art. 34º e os arts. 39º e 42º do citado regime, cuja versão consolidada pública em anexo,\
+    \ peloDEC LEI.207/96.1996.11.02.ME, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1996-179307
+  date: '1996-11-02'
+- type: amended_by
+  target: pt:dre:331178:por
+  label: "Alterados os arts. 27.º, 27.º-A, 28.º e 39.º, com as alterações introduzidas pela Lei 60/93 de 20-Ago, pelo Dec\
+    \ Lei 274/94 de 28-Out e pelo Dec Lei 207/96 de 02-Nov, pelo DEC LEI.155/99.1999.05.10.ME DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1999-331178
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterados os arts. 4º, 5º, 6º, 7º, 9º, 13º, 14º, 27º e 33º, revogados o n.º 5 do artigo 13.º, o n.º 4 do artigo\
+    \ 27.º e o artigo 27.º-A e suspensa pelo periodo de cinco anos, a aplicação aos centros de formação das associações profissionais\
+    \ ou cientificas, do disposto no nº 1 do art. 27º do Regime Jurídico da Formação Contínua de Professores, aprovado pelo\
+    \ presente diploma, na redacção da Lei 60/93 de 20-Ago e dos Dec Lei 274/94 de 28-Out, 207/96 de 02-Nov e 155/99 de 10-Mai,\
+    \ pelo DEC LEI.15/2007.19.01.2007.ME, DR.IS [14] de 19.01.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:520607:por
+  label: "Repristinado desde a entrada em vigor do Dec Lei 15/2007 de 19-Jan (20.01.2007) o nº 4 do art. 27º do Regime Jurídico\
+    \ da Formação Contínua aprovado pelo presente diploma, com a redacção introduzida pela Lei 60/93 de 20-Ago e pelos Dec\
+    \ Lei 207/96 de 02-Nov, 155/99 de 10-Mai e 15/2007 de 19-Jan, pelo DEC LEI.200/2007.22.05.2007.ME, DR.IS [98] de 22.05.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2007-520607
+  date: '2007-05-22'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548826:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570766:por
+  label: Revogado, a partir de 16.02.2014, o presente diploma, alterado pela Lei 60/923 de 20-ago e pelos Dec Lei 274/94 de
+    28-out, 207/96 de 02-nov, 155/99 de 10-mai, 15/2007 de 19-jan e 200/2007 de 22-mai, pelo DEC LEI.22/2014.11.02.2014.MECI,
+    DR.IS [29] de 11.02.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2014-570766
+  date: '2014-02-11'
 article_structure:
-  article_count: 51
+  article_count: 52
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:00Z'
   warnings: []
   errors: []
 ---
@@ -125,15 +193,15 @@ No ano lectivo de 1992-1993 devem ser criadas as estruturas necessárias ao sist
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos - José Albino da Silva Peneda.
 
-**Promulgado em 31 de Outubro de 1992.**
+Promulgado em 31 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1992.**
+Referendado em 4 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regime Jurídico da Formação Contínua de Professores
 
@@ -325,7 +393,9 @@ c) Coeficiente 15, no caso de acções de nível de especialização.
 
 ### CAPÍTULO III — Entidades formadoras
 
-#### SECÇÃO I — Artigo 15.º
+#### SECÇÃO I
+
+###### Artigo 15.º
 
 Entidades formadoras
 

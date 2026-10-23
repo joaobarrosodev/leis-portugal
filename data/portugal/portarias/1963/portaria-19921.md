@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19921-1963-693226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4109975b7d62eb966fe2a31ae9252ce6416aa3336e19294a8bd71d311aea28ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffa4f0653562f4113733bf84a366edbb2d64609339a2622777efe678e05c0613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho do Governo
+- Conselho Ultramarino
+- Funcionário Ultramarino
+- Governador
+- Ministro do Ultramar
+- Orçamento
+- Orgânica
+- Secretário Provincial
+- Serviço Militar
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:627390:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:41Z'
   warnings: []
   errors: []
 ---
@@ -367,7 +381,7 @@ II - As funções executivas, nestas províncias, serão exercidas pelo governad
 
 III - Os secretários provinciais serão nomeados e exonerados, para cada secretaria, pelo Ministro do Ultramar, sob proposta do governador-geral.
 
-**O secretário provincial que tiver a seu cargo os serviços de administração civil denominar-se-á secretário-geral, será escolhido entre funcionários e exercerá o cargo em comissão.**
+O secretário provincial que tiver a seu cargo os serviços de administração civil denominar-se-á secretário-geral, será escolhido entre funcionários e exercerá o cargo em comissão.
 
 Os demais secretários provinciais em funções à data do termo da comissão ou exoneração do governador-geral só se manterão no exercício dos seus cargos até à posse do novo governador-geral, se entretanto não forem exonerados.
 
@@ -671,7 +685,7 @@ III - A câmara municipal é o corpo administrativo do concelho e é de natureza
 
 O seu presidente é designado pelo governador nos termos do estatuto de cada província, podendo a designação, quando circunstâncias especiais o justifiquem, recair no administrador do respectivo concelho. No primeiro caso, o cargo poderá ser remunerado.
 
-**O presidente é o órgão executor das deliberações da câmara, nos termos da lei.**
+O presidente é o órgão executor das deliberações da câmara, nos termos da lei.
 
 IV - Poderá haver comissões municipais nas circunscrições administrativas. Poderá havê-las também, nos termos que a lei definir, nos concelhos em que não puder constituir-se a câmara por falta ou nulidade da eleição ou enquanto o número de eleitores inscritos for inferior ao mínimo estabelecido.
 

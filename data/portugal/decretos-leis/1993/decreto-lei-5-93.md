@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/1993/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1993-283560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0ff47202abc2aed992f3bf8ce7d3df3d3ad2e865d0968e1ac068cce4f00ed36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173f96f7a81d51f0e50646d0637c4ebdda061a91b7fb85bc7e5d9ce782379506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direitos de Importação
 - Importação
 - Pauta Aduaneira
 - Pauta dos Direitos de Importação
-- Direitos de Importação
 relationships:
 - type: cites
   target: celex:31966R0136
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/19/1992/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1992/02/05/p/dre
+- type: corrected_by
+  target: pt:dre:302491:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 2/93, PUBLICADA NO DR.IS-A, 25, SUPL, DE 930130.\0130.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-1993-302491
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:03Z'
   warnings: []
   errors: []
 ---
@@ -110,29 +114,29 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 43.º da Lei n.º 2/92, de 9 de Março, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Pauta dos Direitos de Importação de 1992, aprovada pelo Decreto-Lei n.º 19/92, de 5 de Fevereiro, é alterada em conformidade com o mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º A Pauta dos Direitos de Importação de 1992, aprovada pelo Decreto-Lei n.º 19/92, de 5 de Fevereiro, é alterada em conformidade com o mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º Com excepção dos produtos compreendidos no mapa anexo referido no artigo anterior, as importações de países terceiros estão sujeitas aos direitos da Pauta Aduaneira Comum.
+Art. 2.º Com excepção dos produtos compreendidos no mapa anexo referido no artigo anterior, as importações de países terceiros estão sujeitas aos direitos da Pauta Aduaneira Comum.
 
-###### Art. 3.º As disposições preliminares contidas na Pauta dos Direitos de Importação de 1992 mantêm-se em vigor.
+Art. 3.º As disposições preliminares contidas na Pauta dos Direitos de Importação de 1992 mantêm-se em vigor.
 
-###### Art. 4.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
+Art. 4.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 21 de Dezembro de 1992.**
+Promulgado em 21 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Dezembro de 1992.**
+Referendado em 23 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/007a00/00720072.pdf))](https://files.diariodarepublica.pt/1s/1993/01/007a00/00720072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/007a00/00720072.pdf)
 
 Alteração das notas dos capítulos
 

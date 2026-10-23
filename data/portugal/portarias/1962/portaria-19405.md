@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19405-1962-160492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ae191ee57c1739292603989307216dbae6d9f55e560971fe91089f8148e0992
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a02641c90942340e24e949e5513037aeeac0ad27071a6d8025ae1a8b27f39c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:245716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:38Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +128,7 @@ I
 
 Da abertura dos concursos e da constituição dos júris
 
-###### Artigo 1.º A realização dos concursos de admissão e de promoção do pessoal da Direcção-Geral dos Serviços Pecuários será determinada pelo Secretário de Estado da Agricultura, mediante proposta do director-geral com indicação dos lugares a prover, dos prazos de abertura e validade dos concursos e da constituição dos júris.
+Artigo 1.º A realização dos concursos de admissão e de promoção do pessoal da Direcção-Geral dos Serviços Pecuários será determinada pelo Secretário de Estado da Agricultura, mediante proposta do director-geral com indicação dos lugares a prover, dos prazos de abertura e validade dos concursos e da constituição dos júris.
 
 § 1.º Os júris, cuja presidência compete ao director-geral, serão sempre constituídos por número ímpar de membros, contando o presidente.
 
@@ -110,7 +142,7 @@ II
 
 Da documentação
 
-###### Art. 2.º Para os concursos de admissão são exigidos os seguintes documentos, a entregar na Repartição dos Serviços Administrativos da Direcção-Geral dos Serviços Pecuários durante o respectivo prazo de abertura:
+Art. 2.º Para os concursos de admissão são exigidos os seguintes documentos, a entregar na Repartição dos Serviços Administrativos da Direcção-Geral dos Serviços Pecuários durante o respectivo prazo de abertura:
 
 a) Requerimento do candidato, dirigido ao Secretário de Estado da Agricultura, solicitando admissão ao concurso e contendo: nome completo, data do nascimento, filiação, naturalidade, estado civil, número e data do bilhete de identidade, residência, indicação do lugar a que pretende concorrer, data e assinatura;
 
@@ -142,25 +174,25 @@ g) Declaração a que se refere o [Decreto n.º 26341](https://diariodarepublica
 
 § 2.º No caso de o candidato ser funcionário público até à data de encerramento do concurso, é dispensada a apresentação dos documentos a que se refere este artigo, desde que se substituam por certificado, passado pela repartição onde aquele presta serviço, donde conste a existência em arquivo de documentos que satisfaçam as exigências prescritas.
 
-###### Art. 3.º Os candidatos aos concursos de promoção em que não haja oposição obrigatória serão a eles admitidos mediante requerimento, dirigido ao Secretário de Estado da Agricultura, manifestando a sua pretensão.
+Art. 3.º Os candidatos aos concursos de promoção em que não haja oposição obrigatória serão a eles admitidos mediante requerimento, dirigido ao Secretário de Estado da Agricultura, manifestando a sua pretensão.
 
 III
 
 Do processo
 
-###### Art. 4.º A organização dos processos de concurso incumbe à Repartição dos Serviços Administrativos.
+Art. 4.º A organização dos processos de concurso incumbe à Repartição dos Serviços Administrativos.
 
 § único. Sempre que se reconheça a possibilidade de os candidatos suprirem, dentro do prazo de abertura de concurso, deficiências sanáveis verificadas na documentação apresentada, serão os mesmos avisados do facto directamente ou pelo correio, correndo em seu prejuízo as contingências que possam resultar desta última via.
 
-###### Art. 5.º Ultimados os processos de concurso dentro dos oito dias seguintes ao termo do respectivo prazo de abertura, serão imediatamente enviadas ao Diário do Governo, para publicação, as listas provisórias, ordenadas alfabèticamente, dos candidatos admitidos e excluídos, indicando-se quanto a estes o motivo da exclusão.
+Art. 5.º Ultimados os processos de concurso dentro dos oito dias seguintes ao termo do respectivo prazo de abertura, serão imediatamente enviadas ao Diário do Governo, para publicação, as listas provisórias, ordenadas alfabèticamente, dos candidatos admitidos e excluídos, indicando-se quanto a estes o motivo da exclusão.
 
 § único. Desta lista provisória poderão reclamar os próprios no prazo de oito dias, a contar da publicação.
 
-###### Art. 6.º Findo o prazo para as reclamações e não as havendo, ou nos três dias imediatos ao do conhecimento pela Repartição dos Serviços Administrativos da decisão proferida sobre as que tenham sido apresentadas, elaborar-se-á lista definitiva dos candidatos, que será enviada, no prazo de cinco dias, ao Diário do Governo para publicação. No caso de não haver alterações à lista provisória, publicar-se-á apenas declaração de conversão desta em definitiva.
+Art. 6.º Findo o prazo para as reclamações e não as havendo, ou nos três dias imediatos ao do conhecimento pela Repartição dos Serviços Administrativos da decisão proferida sobre as que tenham sido apresentadas, elaborar-se-á lista definitiva dos candidatos, que será enviada, no prazo de cinco dias, ao Diário do Governo para publicação. No caso de não haver alterações à lista provisória, publicar-se-á apenas declaração de conversão desta em definitiva.
 
 § único. Nos concursos que não sejam exclusivamente de provas documentais indicar-se-á, conjuntamente com a lista definitiva ou com a declaração de conversão da lista provisória, o dia, local e hora para a realização das provas que forem fixados pelo presidente do respectivo júri.
 
-###### Art. 7.º Os processos de concurso serão remetidos ao presidente do júri no dia imediato ao da publicação a que se refere o artigo anterior.
+Art. 7.º Os processos de concurso serão remetidos ao presidente do júri no dia imediato ao da publicação a que se refere o artigo anterior.
 
 § único. Dos processos de concurso farão sempre parte o registo biográfico dos concorrentes e as informações de serviço.
 
@@ -168,11 +200,11 @@ IV
 
 Dos programas e das provas
 
-###### Art. 8.º Os programas, depois de aprovados pelo Secretário de Estado da Agricultura, deverão ser publicados no Diário do Governo com antecedência nunca inferior a 60 dias em relação à data da abertura do concurso a que respeitam.
+Art. 8.º Os programas, depois de aprovados pelo Secretário de Estado da Agricultura, deverão ser publicados no Diário do Governo com antecedência nunca inferior a 60 dias em relação à data da abertura do concurso a que respeitam.
 
-###### Art. 9.º O presidente do júri determinará a elaboração dos pontos escritos, que, uma vez numerados e encerrados em sobrescritos seguidamente lacrados e rubricados pelos membros do júri, ficarão na sua posse.
+Art. 9.º O presidente do júri determinará a elaboração dos pontos escritos, que, uma vez numerados e encerrados em sobrescritos seguidamente lacrados e rubricados pelos membros do júri, ficarão na sua posse.
 
-###### Art. 10.º As provas do concurso para a categoria de investigador, a que se refere o § único do artigo 74.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
+Art. 10.º As provas do concurso para a categoria de investigador, a que se refere o § único do artigo 74.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
 
 a) Uma exposição oral sobre assunto à escolha do candidato, a qual será argumentada por um dos membros do júri;
 
@@ -194,7 +226,7 @@ d) Apreciação e discussão, durante um período não superior a uma hora, dos 
 
 § 6.º A apreciação e discussão dos trabalhos e a argumentação da prova ficarão a cargo dos membros do júri que o presidente designar.
 
-###### Art. 11.º As provas de admissão na categoria de estagiário de 3.ª classe, a que se refere o artigo 74.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
+Art. 11.º As provas de admissão na categoria de estagiário de 3.ª classe, a que se refere o artigo 74.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
 
 a) Prova prática versando assunto de um ponto tirado à sorte no início da prova, de entre dez afixados com quinze dias de antecedência. Finda a prova, o candidato elaborará o respectivo relatório, que entregará no prazo de duas horas;
 
@@ -206,25 +238,25 @@ b) Prova oral, constando de interrogatório pelos membros do júri designados pe
 
 § 3.º Os candidatos que possuam o grau de doutor em Ciências Veterinárias, com dissertação na especialidade a que disser respeito o concurso, serão dispensados da prova oral.
 
-###### Art. 12.º As provas para médico veterinário de 3.ª classe, a que se refere o artigo 75.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
+Art. 12.º As provas para médico veterinário de 3.ª classe, a que se refere o artigo 75.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
 
 a) Prova prática, versando assunto de um ponto tirado à sorte no início da prova, de entre dez afixados quinze dias antes. Finda a prova, o candidato elaborará o respectivo relatório, que entregará no prazo de duas horas;
 
 b) Prova oral, constando de interrogatório feito por dois membros do júri designados pelo presidente, durante um período não excedente a uma hora no total, sobre ponto tirado à sorte quatro horas antes, de entre dez afixados com a antecipação de quinze dias.
 
-###### Art. 13.º As provas para regente agrícola de 3.ª classe, a que se refere o artigo 75.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
+Art. 13.º As provas para regente agrícola de 3.ª classe, a que se refere o artigo 75.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
 
 a) Prova escrita, com a duração máxima de duas horas, versando assunto de um ponto tirado à sorte no início da prova, de entre dois presentes no acto;
 
 b) Prova oral, com a duração máxima de 30 minutos, que consistirá em interrogatório a realizar por membro do júri a designar pelo presidente.
 
-###### Art. 14.º As provas a que se referem os artigos 70.º, 71.º e 73.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), para o provimento dos lugares de inspector e de chefe de secção do quadro do pessoal administrativo, são:
+Art. 14.º As provas a que se referem os artigos 70.º, 71.º e 73.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), para o provimento dos lugares de inspector e de chefe de secção do quadro do pessoal administrativo, são:
 
 a) Prova escrita, com duração não superior a quatro horas, consistindo no desenvolvimento de um ponto tirado por escolha de entre dois presentes no início do acto;
 
 b) Prova oral, constando de interrogatório durante um período máximo de 30 minutos, feito por dois membros do júri designados pelo presidente.
 
-###### Art. 15.º As provas para ingresso na categoria de aspirante e escriturário de 2.ª classe, referidas no artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
+Art. 15.º As provas para ingresso na categoria de aspirante e escriturário de 2.ª classe, referidas no artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
 
 a) Prova prática, pelo tempo de 30 minutos, consistindo em cópia à máquina de um trecho impresso ou dactilografado em português e, para os candidatos a escriturário, ainda um ditado, por tempo não excedente a dez minutos;
 
@@ -244,7 +276,7 @@ Para escriturários - vinte.
 
 3) Máximo de quatro erros no ditado.
 
-###### Art. 16.º As provas para a categoria de dactilógrafo, a que se refere o artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são práticas e das seguintes modalidades:
+Art. 16.º As provas para a categoria de dactilógrafo, a que se refere o artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são práticas e das seguintes modalidades:
 
 a) Prova de destreza dactilográfica, pelo tempo de 20 minutos, consistindo em cópia à máquina de um trecho impresso ou dactilografado em português;
 
@@ -260,71 +292,71 @@ c) Prova de ditado dactilografado, com duração de 10 minutos.
 
 3) Máximo de seis erros no ditado.
 
-###### Art. 17.º As provas para o provimento dos lugares de químico-analista, analista e preparador, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
+Art. 17.º As provas para o provimento dos lugares de químico-analista, analista e preparador, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são as seguintes:
 
 a) Prova prática, consistindo na resolução de um ponto tirado à sorte no início da prova, de entre dez afixados quinze dias antes da data da sua realização. Os candidatos poderão ser interrogados durante a execução da prova e sobre o relatório que dentro das duas horas imediatas ao termo da prova terão de apresentar;
 
 b) Prova oral, com a duração máxima total de uma hora, constando de interrogatório feito por um membro do júri designado pelo presidente, sobre um ponto tirado à sorte com quatro horas de antecedência, de entre dez afixados com a antecipação de quinze dias da data do início da prova.
 
-###### Art. 18.º As provas para o provimento dos lugares de ajudante de laboratório e de auxiliar de laboratório, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
+Art. 18.º As provas para o provimento dos lugares de ajudante de laboratório e de auxiliar de laboratório, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
 
 a) Prova prática, com a duração máxima de uma hora, consistindo na enumeração e descrição utilitária do material de laboratório presente no acto;
 
 b) Prova oral, que constará de interrogatório feito por um dos membros do júri designado pelo presidente, durante o período máximo de uma hora, sobre um ponto tirado à sorte com uma hora de antecedência, de entre dez afixados quinze dias antes do início da prova.
 
-###### Art. 19.º As provas para o provimento do lugar de equitador, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
+Art. 19.º As provas para o provimento do lugar de equitador, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
 
 a) Prova prática, consistindo numa demonstração em picadeiro e outra em obstáculos, finda a qual o candidato elaborará relatório sobre o grau de ensino dos cavalos que lhe foram distribuídos e que deverá ser entregue ao presidente do júri até às 15 horas do dia imediato. Durante a realização da prova o candidato poderá ser interrogado pelos membros do júri;
 
 b) Prova oral, que consistirá em interrogatório, durante um período máximo de uma hora, por um membro do júri designado pelo presidente, sobre o relatório apresentado e sobre a higiene do cavalo.
 
-###### Art. 20.º As provas para o provimento do lugar de ajudante de pecuária de 3.ª classe, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
+Art. 20.º As provas para o provimento do lugar de ajudante de pecuária de 3.ª classe, a que se refere o artigo 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), constam de:
 
 a) Prova escrita, com a duração máxima de duas horas, versando assunto de um ponto tirado à sorte no início da prova, de entre dois presentes no acto;
 
 b) Prova prática, com a duração máxima de 30 minutos, que versará assunto apresentado pelo júri no início da prova. Os candidatos poderão ser interrogados pelos membros do júri durante a execução da prova ou no fim desta.
 
-###### Art. 21.º A admissão de tirocinantes com o fim de preparar técnicos para a Direcção-Geral dos Serviços Pecuários, a que se refere o artigo 80.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), far-se-á por concurso documental.
+Art. 21.º A admissão de tirocinantes com o fim de preparar técnicos para a Direcção-Geral dos Serviços Pecuários, a que se refere o artigo 80.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), far-se-á por concurso documental.
 
 § único. Esta admissão será feita dentro dos limites das dotações orçamentais para os tirocinantes remunerados e de acordo com as possibilidades do serviço para os não remunerados.
 
-###### Art. 22.º Desde que o número de candidatos a tirocínio exceda o número de vagas disponíveis, é dada preferência aos médicos veterinários que:
+Art. 22.º Desde que o número de candidatos a tirocínio exceda o número de vagas disponíveis, é dada preferência aos médicos veterinários que:
 
 a) Tenham melhor classificação de curso;
 
 b) Tenham antecedência de licenciatura.
 
-###### Art. 23.º O tirocínio dos candidatos ao grupo dos médicos veterinários e ao grupo do pessoal de investigação da Direcção-Geral dos Produtos Pecuários terá, respectivamente, a duração de seis e doze meses.
+Art. 23.º O tirocínio dos candidatos ao grupo dos médicos veterinários e ao grupo do pessoal de investigação da Direcção-Geral dos Produtos Pecuários terá, respectivamente, a duração de seis e doze meses.
 
 § 1.º Aos tirocinantes candidatos ao grupo do pessoal de investigação que hajam obtido a classificação mínima de 14 valores nas provas prestadas poderá ser prorrogado, até ao total de três anos, o período de tirocínio.
 
 § 2.º No final dos tirocínios, ou da sua prorrogação, os candidatos serão submetidos a provas de aptidão e aproveitamento.
 
-###### Art. 24.º O tirocínio dos candidatos a veterinário municipal far-se-á nos termos do Código Administrativo, sendo no final submetidos a provas.
+Art. 24.º O tirocínio dos candidatos a veterinário municipal far-se-á nos termos do Código Administrativo, sendo no final submetidos a provas.
 
-###### Art. 25.º Aos tirocinantes a que se refere o § 3.º do artigo 80.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851) será igualmente aplicado o disposto neste regulamento para os tirocinantes remunerados.
+Art. 25.º Aos tirocinantes a que se refere o § 3.º do artigo 80.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851) será igualmente aplicado o disposto neste regulamento para os tirocinantes remunerados.
 
-###### Art. 26.º As promoções dos funcionários do quadro do pessoal técnico são feitas por concurso documental, podendo ser opositores os funcionários da classe imediatamente inferior que nela contem mais de três anos de serviço.
+Art. 26.º As promoções dos funcionários do quadro do pessoal técnico são feitas por concurso documental, podendo ser opositores os funcionários da classe imediatamente inferior que nela contem mais de três anos de serviço.
 
 § único. Quando nestes concursos para promoção não houver candidatos em número suficiente para preencher as vagas, poderão ser opositores, em novo concurso, os funcionários da mesma categoria dos candidatos anteriormente admitidos, sem exigência de tempo de serviço.
 
-###### Art. 27.º É aplicável às provas escritas e orais dos concursos de promoção aos lugares do quadro do pessoal administrativo, descritos na alínea b) do artigo 84.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), o estabelecido nas alíneas b) e c) do artigo 15.º deste regulamento.
+Art. 27.º É aplicável às provas escritas e orais dos concursos de promoção aos lugares do quadro do pessoal administrativo, descritos na alínea b) do artigo 84.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), o estabelecido nas alíneas b) e c) do artigo 15.º deste regulamento.
 
-###### Art. 28.º As promoções no grupo dos ajudantes de pecuária do quadro do pessoal auxiliar, a que se refere a alínea c) do artigo 84.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são efectuadas mediante concurso documental, nos termos do artigo 87.º e § único do mesmo diploma, com a nova redacção dada pelo [Decreto-Lei n.º 44246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44246-1962-516723), de 21 de Março de 1962:
+Art. 28.º As promoções no grupo dos ajudantes de pecuária do quadro do pessoal auxiliar, a que se refere a alínea c) do artigo 84.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), são efectuadas mediante concurso documental, nos termos do artigo 87.º e § único do mesmo diploma, com a nova redacção dada pelo [Decreto-Lei n.º 44246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44246-1962-516723), de 21 de Março de 1962:
 
 V
 
 Da prestação de provas
 
-###### Art. 29.º As provas deverão ter início até ao 60.º dia após a publicação da lista definitiva dos candidatos admitidos ou da declaração de conversão da lista provisória.
+Art. 29.º As provas deverão ter início até ao 60.º dia após a publicação da lista definitiva dos candidatos admitidos ou da declaração de conversão da lista provisória.
 
-###### Art. 30.º No dia, hora e local designados para a prestação de provas o júri procederá à chamada dos concorrentes pela lista definitiva, publicada no Diário do Governo, identificando pelo bilhete de identidade os que não sejam conhecidos.
+Art. 30.º No dia, hora e local designados para a prestação de provas o júri procederá à chamada dos concorrentes pela lista definitiva, publicada no Diário do Governo, identificando pelo bilhete de identidade os que não sejam conhecidos.
 
-###### Art. 31.º A escolha dos pontos que sejam tirados à sorte no início da prova cabe ao primeiro candidato que figurar na lista e presente no acto.
+Art. 31.º A escolha dos pontos que sejam tirados à sorte no início da prova cabe ao primeiro candidato que figurar na lista e presente no acto.
 
-###### Art. 32.º Extraído o ponto, o presidente do júri dará conhecimento do mesmo, marcando o início da contagem de tempo para a prestação das provas.
+Art. 32.º Extraído o ponto, o presidente do júri dará conhecimento do mesmo, marcando o início da contagem de tempo para a prestação das provas.
 
-###### Art. 33.º Durante a prova são motivos de exclusão do candidato:
+Art. 33.º Durante a prova são motivos de exclusão do candidato:
 
 a) Resolver ou tentar resolver com irregularidade os pontos;
 
@@ -332,55 +364,55 @@ b) Sair do local onde se estão a realizar as provas sem autorização do júri;
 
 c) Apresentar as provas escritas em papel diferente do que lhe foi fornecido pelo júri.
 
-###### Art. 34.º Os candidatos poderão apresentar, por escrito, no acto da prova, reclamações ou queixas referentes a irregularidades cometidas durante a mesma.
+Art. 34.º Os candidatos poderão apresentar, por escrito, no acto da prova, reclamações ou queixas referentes a irregularidades cometidas durante a mesma.
 
 § único. As reclamações que não possam ser imediatamente resolvidas pelo presidente do júri serão apresentadas superiormente, depois de informadas. Da decisão proferida não haverá recurso.
 
-###### Art. 35.º Terminado o tempo regulamentar, o júri dará por findos os trabalhos e recolherá as provas.
+Art. 35.º Terminado o tempo regulamentar, o júri dará por findos os trabalhos e recolherá as provas.
 
-###### Art. 36.º Os trabalhos escritos, uma vez rubricados pelo júri, e sempre que se não possa proceder à sua imediata classificação, serão encerrados em sobrescritos lacrados, que só em reunião conjunta daquele poderão ser devassados.
+Art. 36.º Os trabalhos escritos, uma vez rubricados pelo júri, e sempre que se não possa proceder à sua imediata classificação, serão encerrados em sobrescritos lacrados, que só em reunião conjunta daquele poderão ser devassados.
 
 VI
 
 Da classificação dos candidatos e dos recursos
 
-###### Art. 37.º Os candidatos aos concursos de admissão e de promoção são classificados de 0 a 20 valores, com base nas provas prestadas, sendo de 10 valores o limite mínimo para aprovação.
+Art. 37.º Os candidatos aos concursos de admissão e de promoção são classificados de 0 a 20 valores, com base nas provas prestadas, sendo de 10 valores o limite mínimo para aprovação.
 
 § 1.º Em caso de igualdade de classificação dos concorrentes aos concursos documentais e de provas práticas para admissão, a que se referem os artigos 70.º e 73.º a 77.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), será dada preferência aos que tiverem melhor nota de curso ou mais alta classificação na habilitação exigida, ou ainda maior número de habilitações de interesse para o cargo a prover, se forem iguais as notas de curso e as classificações.
 
 § 2.º Em igualdade de classificação nos concursos para aspirante do quadro do pessoal administrativo terão preferência, em primeiro lugar, os candidatos a que se refere o § 1.º do artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), e, depois destes, os que tiverem maiores habilitações.
 
-###### Art. 38.º Nos concursos documentais de admissão e de promoção os concorrentes serão classificados tendo em conta os elementos relativos ao seu passado profissional constantes do processo de cadastro.
+Art. 38.º Nos concursos documentais de admissão e de promoção os concorrentes serão classificados tendo em conta os elementos relativos ao seu passado profissional constantes do processo de cadastro.
 
-###### Art. 39.º Nos concursos documentais o prazo para a deliberação do júri e apresentação das classificações não deverá exceder vinte dias, contados da entrega dos processos pela Repartição dos Serviços Administrativos. Nos concursos documentais e de provas práticas o mesmo prazo conta-se a partir do dia da realização das últimas provas, salvo caso de prorrogação autorizada pelo Secretário de Estado da Agricultura.
+Art. 39.º Nos concursos documentais o prazo para a deliberação do júri e apresentação das classificações não deverá exceder vinte dias, contados da entrega dos processos pela Repartição dos Serviços Administrativos. Nos concursos documentais e de provas práticas o mesmo prazo conta-se a partir do dia da realização das últimas provas, salvo caso de prorrogação autorizada pelo Secretário de Estado da Agricultura.
 
-###### Art. 40.º Dos actos de prestação de provas e das sessões do júri serão lavradas actas, das quais constem circunstanciadamente casos especiais ocorridos e deliberações tomadas.
+Art. 40.º Dos actos de prestação de provas e das sessões do júri serão lavradas actas, das quais constem circunstanciadamente casos especiais ocorridos e deliberações tomadas.
 
-###### Art. 41.º As deliberações do júri serão tomadas por maioria.
+Art. 41.º As deliberações do júri serão tomadas por maioria.
 
-###### Art. 42.º Classificados os candidatos, o director-geral mandará publicar no Diário do Governo, no prazo máximo de dez dias, contado da data da deliberação do júri, a respectiva lista, ordenada segundo as classificações.
+Art. 42.º Classificados os candidatos, o director-geral mandará publicar no Diário do Governo, no prazo máximo de dez dias, contado da data da deliberação do júri, a respectiva lista, ordenada segundo as classificações.
 
-###### Art. 43.º Da deliberação do júri nos concursos documentais cabe recurso para o Secretário de Estado da Agricultura, interposto no prazo de cinco dias, a contar da data da publicação referida no artigo anterior.
+Art. 43.º Da deliberação do júri nos concursos documentais cabe recurso para o Secretário de Estado da Agricultura, interposto no prazo de cinco dias, a contar da data da publicação referida no artigo anterior.
 
-###### Art. 44.º Os recursos relativos à inobservância das normas processuais serão resolvidos pelo Secretário de Estado da Agricultura, sob parecer da Procuradoria-Geral da República.
+Art. 44.º Os recursos relativos à inobservância das normas processuais serão resolvidos pelo Secretário de Estado da Agricultura, sob parecer da Procuradoria-Geral da República.
 
-###### Art. 45.º Das decisões dos recursos serão os recorrentes notificados individualmente, mediante carta com aviso de recepção, para a residência constante do processo do concurso.
+Art. 45.º Das decisões dos recursos serão os recorrentes notificados individualmente, mediante carta com aviso de recepção, para a residência constante do processo do concurso.
 
-###### Art. 46.º Os recursos a que se referem os artigos 43.º e 44.º do presente regulamento têm efeito suspensivo.
+Art. 46.º Os recursos a que se referem os artigos 43.º e 44.º do presente regulamento têm efeito suspensivo.
 
 VII
 
 Disposições gerais
 
-###### Art. 47.º As dúvidas quanto à execução deste regulamento serão resolvidas por portaria do Secretário de Estado da Agricultura.
+Art. 47.º As dúvidas quanto à execução deste regulamento serão resolvidas por portaria do Secretário de Estado da Agricultura.
 
-###### Art. 48.º Quando se verifique impedimento legal ou incompatibilidade de qualquer dos membros do júri, poderá o Secretário de Estado da Agricultura, sob proposta do director-geral dos Serviços Pecuários, autorizar a sua substituição.
+Art. 48.º Quando se verifique impedimento legal ou incompatibilidade de qualquer dos membros do júri, poderá o Secretário de Estado da Agricultura, sob proposta do director-geral dos Serviços Pecuários, autorizar a sua substituição.
 
-###### Art. 49.º Em caso de falta por motivo justificado de qualquer concorrente poderá a prestação da sua prova ser adiada pelo período máximo de quinze dias, se assim for requerido ao director-geral dos Serviços Pecuários antes do início da prova.
+Art. 49.º Em caso de falta por motivo justificado de qualquer concorrente poderá a prestação da sua prova ser adiada pelo período máximo de quinze dias, se assim for requerido ao director-geral dos Serviços Pecuários antes do início da prova.
 
 § único. Consideram-se motivos justificados para o efeito deste artigo: a doença do candidato impeditiva da prestação de provas, o falecimento do cônjuge, ou de parente ou afim no primeiro e segundo grau da linha recta e no segundo e terceiro da linha transversal, em dia de provas ou nos dois dias que as antecedem, ou ainda caso reconhecido como de força maior.
 
-###### Art. 50.º Nos concursos de oposição obrigatória, a falta do requerimento a que se refere o artigo antecedente tem os mesmos efeitos da reprovação em concurso.
+Art. 50.º Nos concursos de oposição obrigatória, a falta do requerimento a que se refere o artigo antecedente tem os mesmos efeitos da reprovação em concurso.
 
 Secretaria de Estado da Agricultura, 25 de Setembro de 1962. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos.
 

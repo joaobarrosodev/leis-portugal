@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/01/00900/00190020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19629-1963-217753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fb50f0852545f68a88d0b5fdfca9311789da152e96b930951abd314dea00bc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19a5a1e304dccd4c352c6baaafedea1d1266add62ce732eaf0d70c331b2e722b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Despesas Públicas
+- Gestão Orçamental
+- Orçamento
+- Reforço de Verbas
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:193426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193426:por
+  label: "Anulada pela PORT.19710.18.02.1963.PC, DG.IS [41] de 18.02.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19710-1963-193426
+  date: '1963-02-18'
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:24Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +109,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 120000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 120000$00
 
 tomando como contrapartida as seguintes disponibilidades da mesma tabela de despesa:
 
-###### Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento de material - De imóveis» ... 100000$00
+Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento de material - De imóveis» ... 100000$00
 
-###### Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diversos materiais não especificados» ... 20000$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diversos materiais não especificados» ... 20000$00
 
 ... 120000$00
 

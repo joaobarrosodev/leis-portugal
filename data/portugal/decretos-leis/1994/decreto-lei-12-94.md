@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/1994/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e728141ca47af31691ecb2408b9dbf52c602975a6b3968b46fc8d3a214994cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 241ae76322ea046734a9a3e00c9db45453ebd6d4ba5120991330077ef1f2fefd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Cartão de Identificação
-- Formação Profissional
-- Pessoal do MAR
-- Multa
 - Contra-ordenação
 - Equipamento
-- Carreira Profissional
+- Formação Profissional
 - Licença de Trabalho
 - Mergulhador
+- Multa
 - Normas de Segurança
+- Pessoal do MAR
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:56384930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56384930:por
+  label: Revogado, a partir de 06.09.2014, o presente diploma pelo(a) Lei n.º 70/2014 - Diário da República n.º 167/2014,
+    Série I de 2014-09-01, que manteve, contudo, transitoriamente em vigor, nos termos do disposto nos arts. 7.º e 9.º daquele
+    diploma, os arts. 33º a 39º do presente.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/70-2014-56384930
+  date: '2014-09-01'
 article_structure:
-  article_count: 42
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 41
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:29Z'
   warnings: []
   errors: []
 ---
@@ -109,29 +144,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Mergulho Profissional, que, com os seus anexos, faz parte integrante do presente decreto-lei.
+Artigo 1.º É aprovado o Regulamento do Mergulho Profissional, que, com os seus anexos, faz parte integrante do presente decreto-lei.
 
-###### Art. 2.º - 1 - É revogada toda a legislação que contrarie o presente diploma, nomeadamente o [Decreto n.º 25592](https://diariodarepublica.pt/dr/detalhe/decreto/25592-1935-582467), de 5 de Julho de 1935, o [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, e o [Decreto n.º 44022](https://diariodarepublica.pt/dr/detalhe/decreto/44022-1961-181406), de 11 de Novembro de 1961.
+Art. 2.º - 1 - É revogada toda a legislação que contrarie o presente diploma, nomeadamente o [Decreto n.º 25592](https://diariodarepublica.pt/dr/detalhe/decreto/25592-1935-582467), de 5 de Julho de 1935, o [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, e o [Decreto n.º 44022](https://diariodarepublica.pt/dr/detalhe/decreto/44022-1961-181406), de 11 de Novembro de 1961.
 
 2 - São ainda revogadas as alíneas d), e) e f) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 104/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1989-615193), de 6 de Abril, e o artigo 58.º da [Portaria n.º 251/89](https://diariodarepublica.pt/dr/detalhe/portaria/251-1989-615194), de 6 de Abril.
 
-###### Art. 3.º - 1 - Os mergulhadores de 1.ª, de 2.ª e de 3.ª classes existentes à data da entrada em vigor do presente diploma ingressam automaticamente nas categorias com a mesma designação.
+Art. 3.º - 1 - Os mergulhadores de 1.ª, de 2.ª e de 3.ª classes existentes à data da entrada em vigor do presente diploma ingressam automaticamente nas categorias com a mesma designação.
 
 2 - Os mergulhadores-apanhadores provisórios a que se refere o [Decreto n.º 48008](https://diariodarepublica.pt/dr/detalhe/decreto/48008-1967-388644), de 27 de Outubro de 1967, que, à data da entrada em vigor do presente diploma, se encontram a exercer a actividade de apanha submersa de espécies biológicas marinhas podem requerer, durante um período de três anos, a renovação da respectiva licença.
 
-###### Art. 4.º O presente diploma entra em vigor 180 dias após a data da sua publicação.
+Art. 4.º O presente diploma entra em vigor 180 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento do Mergulho Profissional
 
@@ -379,7 +414,9 @@ b) A possibilitar a atribuição de equivalência dos certificados de mergulhado
 
 3 - Dos vogais, um é mergulhador com categoria igual ou superior àquela a que o examinando se candidata.
 
-###### Artigo 17.º — Livro de termos de exame
+###### Artigo 17.º
+
+## Livro de termos de exame
 
 1 - Os exames são registados em livros de termos de exame na escola onde são realizados.
 
@@ -809,7 +846,7 @@ Fls. 52/53 a 58/59 - problemas clínicos.
 
 Fls. 60/61 - disposições de interesse e instruções de preenchimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf))](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf)
 
 Disposições de interesse
 
@@ -835,8 +872,8 @@ Em caso de extravio desta caderneta, deverá o seu detentor solicitar à escola 
 
 ## ANEXO B — Cartão de mergulhador profissional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf))](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf)
 
 ## ANEXO C — Tabelas de descompressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf))](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/012a00/01780189.pdf)

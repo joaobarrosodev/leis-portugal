@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/1992/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1992-151970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f39307df67d00de77781bf858c12ae77a33db14bc5084db12df28f06a37fa613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4907eebed7e9e80677de491a01c9b6add6729976c2695397605d0b111c00acc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282518:por
+  label: "Alterado o art. 3.º e revoga o 2.º parágrafo da al. a) do anexo II ao Dec Lei 332/87 de 01-Out, na redacção do presente\
+    \ diploma, pelo DEC LEI.186/93.22.05.1993.MS, DR.IS-A [119] de 22.05.1993\093\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1993-282518
+  date: '1993-05-22'
+- type: amended_by
+  target: pt:dre:652698:por
+  label: "É substituído o anexo II ao Dec Lei 332/87, de 01-Out, na redacção do presente diploma e do Dec Lei 186/93, de 22-Mai,\
+    \ pelo DEC LEI.175/2003.2003.08.02.MS DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2003-652698
+  date: '2003-08-02'
 - type: cites
   target: celex:31977L0452
   label: null
@@ -88,16 +100,27 @@ relationships:
   target: celex:31989L0594
   label: null
   source: http://data.europa.eu/eli/dir/1989/594/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O SEGUNDO PARÁGRAFO DA ALÍNEA A) DO ANEXO II E ALTERADO O ARTIGO 3 DO DECRETO LEI 332/87, DE 871001, NA\
+    \ REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DECRETO LEI 186/93, PUBLICADO NO DR.IS-A, 119, DE 930522. PUBLICADO NO\
+    \ DR.IS-A, 119, DE 930522.\019, DE 930522.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:05Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +139,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Resolução da Assembleia da República n.º 22/85, de 18 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do Decreto-Lei n.º 332/87, de 1 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do Decreto-Lei n.º 332/87, de 1 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Direitos adquiridos
 
@@ -124,7 +147,7 @@ No desenvolvimento do regime jurídico estabelecido pela Resolução da Assemble
 
 2 - Quando os diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais conferidos por Estados membros das Comunidades Europeias não correspondam às denominações constantes do anexo II ao presente decreto-lei, só poderão ser reconhecidos em Portugal, com os efeitos previstos no artigo 2.º, se forem acompanhados de certificado emitido pelas autoridades ou organismos competentes, atestando que esses diplomas, certificados ou outros títulos de enfermeiro responsável por cuidados gerais sancionam uma formação conforme às disposições da Directiva n.º [77/453/CEE](https://data.europa.eu/eli/dir/1977/453/oj?locale=pt) e que são equiparados pelo Estado membro que os emitiu àqueles cujas denominações figuram no anexo II ao presente decreto-lei.
 
-###### Art. 2.º Aos anexos I e II do Decreto-Lei n.º 332/87, de 1 de Outubro, são introduzidas as seguintes alterações:
+Art. 2.º Aos anexos I e II do Decreto-Lei n.º 332/87, de 1 de Outubro, são introduzidas as seguintes alterações:
 
 ## ANEXO I — [...]
 
@@ -146,7 +169,7 @@ Nos Países Baixos - ...
 
 No Reino Unido - «state registered nurse» ou «registered general nurse»;
 
-Na Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf))](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf)
+Na Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf)
 
 Em Espanha - ...
 
@@ -174,13 +197,13 @@ i) No Reino Unido - um «statement of registration as a registered general nurse
 
 j) Na Grécia:
 
-O [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf))](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (diploma de enfermeira de cuidados gerais da Escola Superior dos Enfermeiros Responsáveis por Cuidados Gerais), autenticado pelo Ministério dos Serviços Sociais ou pelo Ministério da Saúde e da Previdência; ou
+O [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (diploma de enfermeira de cuidados gerais da Escola Superior dos Enfermeiros Responsáveis por Cuidados Gerais), autenticado pelo Ministério dos Serviços Sociais ou pelo Ministério da Saúde e da Previdência; ou
 
-O [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf))](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (licença de enfermeiro da secção de enfermagem das escolas paramédicas dos centros de ensino superior técnico e profissional), emitida pelo Ministério da Educação Nacional e dos Assuntos Religiosos; ou
+O [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (licença de enfermeiro da secção de enfermagem das escolas paramédicas dos centros de ensino superior técnico e profissional), emitida pelo Ministério da Educação Nacional e dos Assuntos Religiosos; ou
 
-O [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf))](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (licença de enfermeiro dos estabelecimentos de ensino tecnológico) do Ministério da Educação Nacional e dos Assuntos Religiosos; ou
+O [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (licença de enfermeiro dos estabelecimentos de ensino tecnológico) do Ministério da Educação Nacional e dos Assuntos Religiosos; ou
 
-O [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf))](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (licença de enfermeiro da Faculdade de Ciências da Saúde, Secção de Enfermagem, da Universidade de Atenas);
+O [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/033a00/07730775.pdf) (licença de enfermeiro da Faculdade de Ciências da Saúde, Secção de Enfermagem, da Universidade de Atenas);
 
 k) Em Espanha - o «título de diplomado en Enfermería» (título de diplomado universitário em enfermagem), emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade;
 
@@ -188,12 +211,12 @@ l) ...
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1991. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho.
 
-**Promulgado em 21 de Janeiro de 1992.**
+Promulgado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

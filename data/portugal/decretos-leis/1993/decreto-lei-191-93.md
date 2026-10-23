@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/120a00/28232829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/191/1993/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1993-283522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b8e2d8f77379cb413b9aa7dcbb40f9b1cd86c8039bf03422944785e732210bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0593bb6d164723e5e0a02a8b06f91b390605fb29c07d885ce2cb7abd28f0a0fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Pessoal Dirigente
 - Definição de Competências
+- Instituto da ÁGUA
 - Ministério do Ambiente e Recursos Naturais
 - Ministro do Ambiente e Recursos Naturais
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -78,20 +78,69 @@ relationships:
   target: pt:dre:1051282290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383440:por
+  label: Alterado o art 5.º e acrescentado um art 18.º-A (que determina a transição para o Instituto da Água (INAG) da delegação
+    da Direção-Geral de Recursos Naturais -DGRN, em Santo André e do Centro de Estudos de Geologia e Geotecnia de Santo André,
+    criados pelo Decreto-Lei n.º 115/89 de 14-Abr, mantendo a estrutura e funcionamento constantes daquele diploma) pelo Dec
+    Lei 110/97.1997.05.08.MAM, DR.IS-A [106]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-1997-383440
+  date: '1997-05-08'
+- type: amended_by
+  target: pt:dre:332748:por
+  label: Determinada a transição para a sociedade Águas de Santo André, S.A., ora criada, com excepção da barragem de Morgavel
+    e respectivos órgãos de segurança, do sistema para captação, tratamento e distribuição de água, para recolha, tratamento
+    e rejeição de efluentes e para recolha, tratamento e destino final de resíduos sólidos (com a nova denominação de sistema
+    de abastecimento de água, de saneamento e de resíduos sólidos de Santo André), transmitido para o Estado, no âmbito da
+    Direcção-Geral de Recursos Naturais em Santo André, pelo Dec Lei 115/89 de 14-Abr, posteriormente transitado para o Instituto
+    da Água (INAG), pelo presente diploma, pelo(a) Decreto-Lei n.º 171/2001 - Diário da República n.º 121/2001, Série I-A
+    de 2001-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2001-332748
+  date: '2001-05-25'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Ambiente e do Ordenamento do Território do Instituto da Água (integrado\
+    \ no extinto Ministério das Cidades, Ordenamento do Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:616575:por
+  label: "Rectificado o n.º 2 do artigo 17.º pela DECL-RECT.141-A/93.31.07.1993.PCM, DR.IS-A [178]3ºSupl de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/141-a-1993-616575
+  date: '1993-07-31'
+- type: corrected_by
+  target: pt:dre:616596:por
+  label: "Rectificado o n.º 3 do artigo 5.º pela DECL-RECT.135/93.31.07.1993.PCM, DR.IS-A [178]Supl de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/135-1993-616596
+  date: '1993-07-31'
+- type: repealed_by
+  target: pt:dre:520983:por
+  label: "Revogado pelo DEC LEI.135/2007.27.04.2007.MAOTDR, DR.IS [82] de 27.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2007-520983
+  date: '2007-04-27'
 article_structure:
   article_count: 19
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:46Z'
   warnings: []
   errors: []
 ---
@@ -484,7 +533,9 @@ e) Acompanhar os processos graciosos e contenciosos;
 
 f) Instruir os processos disciplinares.
 
-###### Artigo 12.º — Divisão de Informática
+###### Artigo 12.º
+
+##### Divisão de Informática
 
 Compete à Divisão de Informática:
 
@@ -502,7 +553,9 @@ f) Definir os projectos informáticos de utilização geral, no que respeita ao 
 
 g) Promover as diligências conducentes à criação e exploração de bases de dados no âmbito dos recursos hídricos e colaborar no estabelecimento da compatibilidade e comunicação com os demais ficheiros e bases de dados de outras entidades relacionadas com o INAG.
 
-###### Artigo 13.º — Divisão de Documentação e Informação
+###### Artigo 13.º
+
+##### Divisão de Documentação e Informação
 
 Compete à Divisão de Documentação e Informação:
 
@@ -576,16 +629,16 @@ São revogadas todas as normas que incidam sobre matérias que sejam objecto do 
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/120a00/28232829.pdf))](https://files.diariodarepublica.pt/1s/1993/05/120a00/28232829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/120a00/28232829.pdf)

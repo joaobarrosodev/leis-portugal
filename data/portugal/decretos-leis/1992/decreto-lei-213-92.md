@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/235a00/47594762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4de6ad55855a5cbaf1b98636040d576f44cb0a3ff405cbf367fec2fe4bb7f81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bccb0e461954edfbc35783e12a19d0c166549611da091214ae9167c28729a7c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
+- Comissão da Reserva Ecológica Nacional
 - Definição de Competências
 - Gestão dos Recursos
 - Ministério do Ambiente e Recursos Naturais
+- Ordenamento do Território
 - Proteção do Ambiente
-- Comissão da Reserva Ecológica Nacional
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223811:por
+  label: "Alterado o artigo 3.º do Decreto-Lei n.º 93/90, de 19 de Março, na redacção do presente diploma, pelo DEC LEI.79/95.20.04.1995.MARN,\
+    \ DR.IS-A [93] de 20.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1995-223811
+  date: '1995-04-20'
+- type: amended_by
+  target: pt:dre:539979:por
+  label: "Alterados os arts 3º, 4º, 10º e 14º do Dec Lei 93/90 de 19-Mar, na redacção do presente diploma, pelo DEC LEI.180/2006.06.09.2006.MAOTDR,\
+    \ DR.IS [172] de 06.09.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2006-539979
+  date: '2006-09-06'
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453518:por
+  label: "Revogado, a partir de 21.09.2008, o Dec Lei 93/90, de 19-Mar, com as alterações introduzidas pelo presente diploma,\
+    \ revogado na mesma data, pelo DEC LEI.166/2008.22.08.2008.MAOTDR, DR.IS [162] de 22.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2008-453518
+  date: '2008-08-22'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:10Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +137,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 7.º, 8.º, 9.º, 10.º, 11.º, 13.º, 14.º, 17.º e 21.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com a redacção dada pelo [Decreto-Lei n.º 316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 7.º, 8.º, 9.º, 10.º, 11.º, 13.º, 14.º, 17.º e 21.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com a redacção dada pelo [Decreto-Lei n.º 316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -261,18 +291,18 @@ b) 40% repartido, em partes iguais, pelo município da área e pela entidade aut
 
 O regime estabelecido no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo da sua adequação à especificidade regional a introduzir por decreto legislativo regional.
 
-###### Art. 2.º - 1 - Os representantes na Comissão da REN, criada ao abrigo do artigo 8.º, com a redacção dada pelo artigo anterior, são nomeados no prazo de 30 dias contados a partir da data da publicação do presente diploma.
+Art. 2.º - 1 - Os representantes na Comissão da REN, criada ao abrigo do artigo 8.º, com a redacção dada pelo artigo anterior, são nomeados no prazo de 30 dias contados a partir da data da publicação do presente diploma.
 
 2 - Até à entrada em funções da Comissão a que se refere o número anterior, mantém-se em funções a actual Comissão da REN.
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Setembro de 1992.**
+Referendado em 24 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

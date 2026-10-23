@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/1992/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1992-596901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c543b5b2be7feb04a82a249f83864258abda8be8c2d936ec95e2dd8f1508cbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14dcaca4e82c68bbda026e264c9a54573078604d3639949141eedd15a243701d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Cartão de Identificação
 - Definição de Competências
 - Inspecção Geral da Segurança Social
-- Inspetor Geral
 - Inspector Geral da Segurança Social
+- Inspetor Geral
 - Integração de Trabalhadores
 - Ministério do Emprego e da Segurança Social
 - Orgânica
@@ -86,16 +86,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:302928:por
+  label: RECTIFICADO PELA DECL-RECT 24/93 DR.IS-A [29] DE 27/FEV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/24-1993-302928
+  date: '1993-02-27'
+- type: repealed_by
+  target: pt:dre:371872:por
+  label: "Revogado, à excepção do art. 27º, pelo DEC LEI.80/2001.2001.03.06.MTS,DR.IS-A [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2001-371872
+  date: '2001-03-06'
 article_structure:
   article_count: 38
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:30Z'
   warnings: []
   errors: []
 ---
@@ -502,15 +532,15 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Conteúdo funcional das carreiras e categorias previstas no quadro de pessoal da inspecção Geral da Segurança Social
 
@@ -542,6 +572,6 @@ Carreira de operador de reprografia
 
 Operador de reprografia. - Compete ao operador de reprografia efectuar a reprodução de documentos por fotocópia, podendo reduzi-los ou ampliá-los, operando com as máquinas copiadoras ou duplicadores, e zelar pela limpeza e conservação do equipamento de reprografia.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf))](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf))](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)

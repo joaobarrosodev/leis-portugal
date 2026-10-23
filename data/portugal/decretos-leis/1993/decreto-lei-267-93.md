@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/178a00/41414143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/1993/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1993-345092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1661a6a37326d4da9eeb49ddfd20c532c5428de9cb78a0fc60c4c809ab7f48df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 214c61ec3a2c002206f363379b9bed709ea3d9fbe57145b68d7435d7545a9af8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
 - Código do Registo Comercial
 - Definição de Competências
-- Registos e Notariado
 - Notário
 - Pessoa Coletiva
 - Registo Nacional de Pessoas Coletivas
+- Registos e Notariado
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:191168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 45º e 48º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterados os 45º e 48º do Código Registo Comercial aprovado pelo Dec Lei 403/86 de 03-Dez, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterados os art.s 45º e 48º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção\
+    \ do presente diploma, peloDEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:191168:por
+  label: "Alterados a partir de 03.12.2012 os arts. 45º e 48º do Código do Registo Comercial aprovado pelo Dec Lei 403/86,\
+    \ de 03-dez, na redação do presente diploma, pelo DEC LEI.250/2012.23.11.2012.MJ, DR.IS [227] de 23.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2012-191168
+  date: '2012-11-23'
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:487360:por
+  label: "Revogado pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:27Z'
   warnings: []
   errors: []
 ---
@@ -227,12 +264,12 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 7 de Julho de 1993.**
+Promulgado em 7 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Julho de 1993.**
+Referendado em 11 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

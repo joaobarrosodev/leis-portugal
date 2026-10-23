@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/1993/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1993-655518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d1b4d07fba2e33ae83b07cf5e6410e69f8f341c98897785d1ff963490a8810d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ef5a482d7b27a7df2e5908e77134c9a64547082b7118da22205e5d06006d061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal do MAR
 - Direcção Geral das Pescas
-- Sistema Retributivo
 - Gabinete de Estudos e Planeamento das Pescas
-- Ministério do MAR
 - Inspecção Geral das Pescas
 - Instituto Português de Conservas e Pescado
 - Integração de Trabalhadores
+- Ministério do MAR
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal do MAR
 - Quadro de Pessoal
 - Serviço Regional
+- Sistema Retributivo
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:382200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 229/93 DE 10-NOV DR.IS-A [280]3SUPL DE 30/NOV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS, PELO DEC LEI 296-A/95\
+    \ DE 17-NOV DR.IS-A [266]SUPL\0.IS-A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:460999:por
+  label: "Alterado o art. 2.º pelo DEC LEI.331-B/95.1995.12.22.MF, DR.IS-A [294]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-b-1995-460999
+  date: '1995-12-22'
+- type: amended_by
+  target: pt:dre:228409:por
+  label: "Extintas as delegações do ex-Instituto Português de Conservas e Pescado nas Regiões Autónomas dos Açores e da Madeira,\
+    \ previstas no Dec Lei 266/86, de 03-Set, e que transitaram do Instituto Português de Conservas e Pescado para a Direcção-Geral\
+    \ das Pescas por força do disposto no nº 2 do art. 29º do presente diploma, pelo DEC LEI.196/96.16.10.1996.MADRP, DR.IS-B\
+    \ [240] de 16.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1996-228409
+  date: '1996-10-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
@@ -91,16 +115,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:286536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382200:por
+  label: "Revogado pelo DR.12/97.1997.05.02.MADRP, DR.IS-B [101], excepto o nº 4 do art 23º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1997-382200
+  date: '1997-05-02'
 article_structure:
   article_count: 34
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:42Z'
   warnings: []
   errors: []
 ---
@@ -695,23 +756,23 @@ Os quadros de pessoal da DGP, do IPCP, do GEPP e da IGP mantêm-se em vigor até
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Eduardo Eugénio Castro Azevedo Soares.
 
-**Promulgado em 3 de Agosto de 1993.**
+Promulgado em 3 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1993.**
+Referendado em 3 de Agosto de 1993.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 ## ANEXO I — Estrutura remuneratória da carreira técnica de inspecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf))](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)
 
 ## ANEXO II — Estrutura remuneratória da carreira de verificador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf))](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)
 
 ## ANEXO III — Conteúdos funcionais
 

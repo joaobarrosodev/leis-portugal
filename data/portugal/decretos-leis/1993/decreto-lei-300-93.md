@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/300/1993/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1993-633943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a06b02415e943947cd9f486dd219923e1d57cc334715d46fe734d3df9006a5ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1e0d23c0b74529e21a9cea22731a33e2265ef37086890f8b8840d4649e8724
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
 subjects:
 - Comissão de Serviço
 - Conservador
-- Serviços de Registo e Notariado
 - Conservatória dos Registos Centrais
 - Formas de Provimento
 - Orgânica
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:07Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +107,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 34.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 34.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 34.º
 
@@ -113,11 +117,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - Ao provimento dos lugares de conservador auxiliar da Conservatória dos Registos Centrais é aplicável o disposto no n.º 1 do artigo 30.º do presente diploma.
 
-###### Art. 2.º - 1 - O conservador e os conservadores-adjuntos da Conservatória dos Registos Centrais que, à data da entrada em vigor do presente diploma, se encontrem no exercício efectivo de funções passam ao regime de comissão de serviço.
+Art. 2.º - 1 - O conservador e os conservadores-adjuntos da Conservatória dos Registos Centrais que, à data da entrada em vigor do presente diploma, se encontrem no exercício efectivo de funções passam ao regime de comissão de serviço.
 
 2 - A comissão de serviço referida no número anterior cessa no prazo de 30 dias a contar da data da entrada em vigor do presente diploma, se não for confirmada por despacho do Ministro da Justiça.
 
-###### Art. 3.º - 1 - A cessação da comissão de serviço, independentemente do momento em que ocorrer, confere ao conservador e aos conservadores-adjuntos da Conservatória dos Registos Centrais que se encontrem nomeados definitivamente, à data da entrada em vigor do presente diploma, o direito ao provimento em lugares de conservador do registo civil de 1.ª classe, mantendo as respectivas classes pessoais, na Conservatória dos Registos Centrais e o direito à participação emolumentar correspondente à média dos últimos 12 meses anteriores à data da cessação da comissão de serviço, ou à do lugar do provimento conforme opção do próprio.
+Art. 3.º - 1 - A cessação da comissão de serviço, independentemente do momento em que ocorrer, confere ao conservador e aos conservadores-adjuntos da Conservatória dos Registos Centrais que se encontrem nomeados definitivamente, à data da entrada em vigor do presente diploma, o direito ao provimento em lugares de conservador do registo civil de 1.ª classe, mantendo as respectivas classes pessoais, na Conservatória dos Registos Centrais e o direito à participação emolumentar correspondente à média dos últimos 12 meses anteriores à data da cessação da comissão de serviço, ou à do lugar do provimento conforme opção do próprio.
 
 2 - O pessoal provido nos termos do número anterior é concorrente obrigatório aos lugares de conservador do registo civil de 1.ª classe, em Lisboa, nos concursos que se realizarem após a cessação da comissão de serviço, considerando-se em igualdade com conservadores de classe pessoal correspondente à do lugar a concurso.
 
@@ -125,18 +129,18 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os lugares criados, necessários à execução deste diploma, serão extintos à medida que vagarem.
 
-###### Art. 4.º São revogados os n.os 4 e 5 do artigo 28.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
+Art. 4.º São revogados os n.os 4 e 5 do artigo 28.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
 
-###### Art. 5.º O presente diploma entra em vigor no 1.º dia do mês imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no 1.º dia do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1993.**
+Referendado em 30 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/299a00/71477152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/418/1993/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1993-541979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1eec9682c169a1df6dcc852ec12a9d334deb62c15cd741405455f9033837630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c790437b5e9a0b7132fd1455eb3abfeeb821a0e3dd487a36f73555f6f9cb87c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,45 @@ relationships:
   target: pt:dre:544611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456868:por
+  label: "Alterado o art. 24.º do Dec Lei 79-A/89 de 13-Mar DR.IS [60]Supl, bem o art. 25.º com a redacção que lhe foi dada\
+    \ pelo art. 1.º do presente diploma pelo DEC LEI.57/96.1996.05.22.MSSS DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1996-456868
+  date: '1996-05-22'
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:665095:por
+  label: "Rectificado o 9.º parágrafo do preâmbulo, o n.º 1 do artigo 30.º e a epígrafe do artigo 54.º-A, pelo DECL-RECT.1/94.31.01.1994.PCM,\
+    \ DR.IS-A [25]Supl de 31.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-1994-665095
+  date: '1994-01-31'
+- type: repealed_by
+  target: pt:dre:544611:por
+  label: "Revogado pelo DEC LEI.119/99.1999.04.14.MTS, DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1999-544611
+  date: '1999-04-14'
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:42Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +157,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 10.º, 13.º, 16.º, 17.º, 20.º, 25.º, 26.º, 29.º, 30.º, 32.º, 36.º, 37.º, 41.º, 42.º, 44.º, 45.º, 47.º, 50.º, 51.º, 52.º, 54.º, 55.º e 56.º do [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 10.º, 13.º, 16.º, 17.º, 20.º, 25.º, 26.º, 29.º, 30.º, 32.º, 36.º, 37.º, 41.º, 42.º, 44.º, 45.º, 47.º, 50.º, 51.º, 52.º, 54.º, 55.º e 56.º do [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Desemprego involuntário
 
@@ -356,7 +385,7 @@ e) Verificar o cumprimento, pelo beneficiário, dos deveres estabelecidos no art
 
 2 - ...
 
-###### Art. 2.º Ao [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março, são aditados os artigos 25.º-A, 26.º-A, 28.º-A, 41.º-A e 54.º-A, com a seguinte redacção:
+Art. 2.º Ao [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março, são aditados os artigos 25.º-A, 26.º-A, 28.º-A, 41.º-A e 54.º-A, com a seguinte redacção:
 
 ###### Artigo 25.º-A — Situações especiais de prolongamento do subsídio social de desemprego
 
@@ -392,18 +421,18 @@ c) A partir da data do conhecimento oficioso pela instituição de segurança so
 
 O exercício de actividade normalmente remunerada durante o período de tempo em que estejam a ser concedidas as prestações de desemprego, ainda que se não prove o pagamento da correspondente remuneração, bem como a contratação de um trabalhador nestas condições constituem contra-ordenações puníveis com coima de 50000$00 a 220000$00.
 
-###### Art. 3.º - 1 - O presente diploma entra em vigor no dia 1 do segundo mês seguinte ao da sua publicação, com ressalva do disposto no número seguinte.
+Art. 3.º - 1 - O presente diploma entra em vigor no dia 1 do segundo mês seguinte ao da sua publicação, com ressalva do disposto no número seguinte.
 
 2 - O preceituado no artigo 17.º do [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), na redacção que lhe foi dada pelo presente diploma, entra em vigor a partir do 4.º mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Dezembro de 1993.**
+Promulgado em 9 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1993.**
+Referendado em 13 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

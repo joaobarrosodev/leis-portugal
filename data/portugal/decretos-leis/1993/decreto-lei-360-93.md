@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/360/1993/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1993-668322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e5cc3524539f9040f65d46623256f666ea560285bcd054fc0685dc4ddfd32cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572bf55fe95134ed60b403ff8f0ca86d0f49fb9cd50c84f3b2f04d18eadb2f2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Definição de Competências
 - Gestão do Património
+- Gestão Financeira
 - Instituto de Oftalmologia do DR GAMA Pinto
 - Orgânica
 relationships:
@@ -75,6 +75,22 @@ relationships:
   target: pt:dre:544432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o art 39º pelo Dec-Lei.224-A/96,MJ.1996.11.26( aprova o Código das Custas Judiciais), DR.IS-A [274]2ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:544432:por
+  label: "Transferidas para o Instituto de Oftalmologia do Dr. Gama Pinto as competências relativas ao serviço de especialidade\
+    \ de Oftalmologia, que integra a Unidade de Recursos Assistenciais Partilhados (URAP) - designado usualmente como Centro\
+    \ Oftalmológico de Lisboa - do Agrupamento de Centros de Saúde da Grande Lisboa III-Lisboa Central (criado pela Port 276/2009\
+    \ de 18-Mar e cujo regulamento interno foi publicado pela Delib 1083/2011 de 02-Mai) pela PORT.20/2012.23.01.2012.MF,\
+    \ DR.IS [16] de 23.01.2012,que determinou a sucessão pelo Instituto na universalidade dos direitos e obrigações detidos\
+    \ pelo referido ACES, na parte relativa ao COL.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2012-544432
+  date: '2012-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1992/10/21/p/dre
   label: null
@@ -87,16 +103,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 40
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:27Z'
   warnings: []
   errors: []
 ---
@@ -719,12 +775,12 @@ São revogados os Decretos-Leis n.os [226/78](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota - António Fernando Couto dos Santos - José Albino da Silva Peneda - Arlindo Gomes de Carvalho.
 
-**Promulgado em 29 de Setembro de 1993.**
+Promulgado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1993.**
+Referendado em 2 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

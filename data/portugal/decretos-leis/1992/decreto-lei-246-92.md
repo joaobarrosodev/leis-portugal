@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/251a00/50255033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/1992/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1992-217683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e12944e948c27d2b3aa89eae79ee422f6b4358e534c3dc2e62ff4e64d8d58dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e84586329f8baebdd568cc18379e9b6bc5eb22d952d1ff4a3bf1b2140a770da0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
-- Combustível
 - ÁREA de Serviço
-- Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis
-- Regulamento
+- Combustível
 - Posto de Abastecimento de Combustíveis
+- Regulamento
+- Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis
 relationships:
 - type: amended_by
   target: pt:dre:566837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:691777:por
+  label: "Alterado o art. 4º pelo DEC LEI.302/95.1995.11.18.MIE, DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-1995-691777
+  date: '1995-11-18'
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566837:por
+  label: Revogado o presente diploma, com a entrada em vigor da portaria prevista no n.º 2 do art. 1.º do DL 302/2001 de 23-nov,
+    com exceção do art. 2.º que se mantém em vigor até à entrada em vigor do diploma que aprove o novo regime jurídico do
+    licenciamento de postos de combustíveis, pelo(a) Decreto-Lei n.º 302/2001 - Diário da República n.º 272/2001, Série I-A
+    de 2001-11-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-2001-566837
+  date: '2001-11-23'
 article_structure:
   article_count: 58
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:54Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +159,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Luís Fernando Mira Amaral - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 4 de Outubro de 1992.**
+Promulgado em 4 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Construção e Exploração de Postos da Abastecimento de Combustíveis
 
@@ -728,4 +749,4 @@ b) Em 40% da delegação regional do Ministério da Indústria e Energia.
 
 Do ANEXO I ao ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/251a00/50255033.pdf))](https://files.diariodarepublica.pt/1s/1992/10/251a00/50255033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/251a00/50255033.pdf)

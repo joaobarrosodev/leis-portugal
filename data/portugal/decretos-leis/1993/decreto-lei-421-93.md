@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/301a00/71827183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/421/1993/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1993-168777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6db6dfde4363c4c9874414aef6e00353f81006a817a85afc9f9aa12741f2ed29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b598341b50c6f8bdd5c44eccd32e1ba1c2ac824bc8c3bea85957d882ca2d39ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Superior Militar
 - Conselho do Ensino Superior
 - Criação de Serviços
 - Definição de Competências
-- Ensino Superior Politécnico
 - Ensino Superior
+- Ensino Superior Militar
+- Ensino Superior Politécnico
 - Ministro da Educação
 relationships:
 - type: amended_by
   target: pt:dre:657223:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:657223:por
+  label: "Revogado pelo DEC LEI.205/2002.2002.10.07.MCES DR.IS-A [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2002-657223
+  date: '2002-10-07'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:47Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +174,7 @@ l) Três personalidades de reconhecido mérito designadas pelo Ministro da Educa
 
 ###### Artigo 6.º — Presidência
 
-**O Ministro da Educação preside ao Conselho do Ensino Superior, com faculdade de delegação no membro do Governo responsável pela área do ensino superior.**
+O Ministro da Educação preside ao Conselho do Ensino Superior, com faculdade de delegação no membro do Governo responsável pela área do ensino superior.
 
 ###### Artigo 7.º — Vogais designados
 
@@ -203,12 +208,12 @@ O Conselho do Ensino Superior elabora e aprova o seu próprio regimento.
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - António Fernando Couto dos Santos - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Dezembro de 1993.**
+Promulgado em 9 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1993.**
+Referendado em 13 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

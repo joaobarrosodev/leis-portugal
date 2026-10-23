@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20662068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/1993/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33b2ef4e124277b27c3bb96a91ac606cb09b4aae5b0b3800f30354dcce7d5368
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a925259d2033af2b739500fc2277b3831528bef12a16eba59fdb31d538fc0cac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,48 @@ reuse:
 subjects:
 - Atleta Amador
 - Atleta de ALTA Competição
+- Desporto
 - Desporto Amador
 - Desporto de ALTA Competição
 - Organização Desportiva
 - Seguro Desportivo
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:397323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666156:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:616590:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 134/93, DE 30 DE JULHO, PUBLICADA NO DR.IS-A, 178, SUPL, DE 930731.\0\
+    30731.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/134-1993-616590
+- type: repealed_by
+  target: pt:dre:397323:por
+  label: "Revogado, a partir de 01.02.2009, pelo DEC LEI.10/2009.12.01.2009.PCM, DR.IS [7] de 12.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2009-397323
+  date: '2009-01-12'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:46Z'
   warnings: []
   errors: []
 ---
@@ -223,12 +245,12 @@ O presente diploma entra em vigor para cada uma das modalidades na época despor
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 9 de Março de 1993.**
+Promulgado em 9 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1993.**
+Referendado em 10 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

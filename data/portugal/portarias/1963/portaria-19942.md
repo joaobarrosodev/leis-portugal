@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19942-1963-693057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 125302de1d86a1e3379d8e25cd7137c273650a17bd077e93ece7c004243b2d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6969570951b82704b2391ed7e18c72ef29a932c5c602de33d9ed4119d84e33b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Guiné.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:14Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +112,7 @@ Tendo em vista a autorização concedida, em 26 de Junho findo, pelo Conselho de
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), 13.º e 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo da Guiné abra, tomando como contrapartida disponibilidades do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961, um crédito especial de 4000000$00, destinado a reforçar com esta importância as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 313.º «Plano de Fomento - Programa da 2.ª fase, 1963»:
+Capítulo 12.º, artigo 313.º «Plano de Fomento - Programa da 2.ª fase, 1963»:
 
 I) «Aproveitamento de recursos»:
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/092a00/19221926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/1993/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1993-692262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29175ef7f203c7a7f289be8074e21d9db1156124c10ac6b3381e021fcf9897dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dd25f7a94b652553454616fec704a674998d2a288aaf3e3e82191fb0b04aea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,33 @@ subjects:
 - Aproximação das Legislações
 - Biotecnologia
 - CEE
-- Multa
-- Organismo Geneticamente Modificado
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral da Saúde
 - Direcção Geral da Qualidade do Ambiente
-- Saúde Pública
 - Importação
-- Proteção do Ambiente
 - Instituto Nacional de Saúde Dr Ricardo Jorge
-- Comércio
+- Multa
+- Organismo Geneticamente Modificado
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:226806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152529:por
+  label: "Alterado pelo DEC LEI.63/99.1999.03.02.MAM, DR.IS-A [51]: Introduzida a epígrafe \"Disposições Gerais\" ao Cap.I;\
+    \ Aditado um nº 4 ao art. 2º e alterada a redacção dos nºs 1 e 2 do mesmo artigo; Aditados os nºs 8 e 9 ao art. 4º; Aditada\
+    \ a al. f) do nº 1 do art. 5º e alterada a redacção das als. b) e e) do mesmo art.; Aditada a al. d) ao nº 1 do art. 6º\
+    \ e a al. e) corresponde à antiga al. d); Aditados os nºs 7 e 8 ao art. 8º; Aditada a al. a) ao nº 1 do art. 10º e as\
+    \ als. a), b), c), d) e e) passam a b), c), d), e), f) respectivamente; Aditados os nºs 3 e 4 ao art. 11º e alterada a\
+    \ redacção do art. 2º do mesmo art.; Aditados os nºs 4, 9 e 10 ao art. 12º e os nºs 4, 5, 6 e 7 passam a 5, 6, 7 e 8 respectivamente;\
+    \ Alteradas as als. a), b) e d) do art. 14º; Aditado o art. 14º-A.\0art. 14º-A.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-1999-152529
+  date: '1999-03-02'
 - type: cites
   target: celex:31990L0219
   label: null
@@ -92,16 +103,26 @@ relationships:
   target: celex:31990L0220
   label: null
   source: http://data.europa.eu/eli/dir/1990/220/oj
+- type: repealed_by
+  target: pt:dre:235307:por
+  label: "Revogados os arts. 1º a 6º pelo DEC LEI.2/2001.2001.01.04.MAOT,DR.IS-A [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2001-235307
+  date: '2001-01-04'
+- type: repealed_by
+  target: pt:dre:226806:por
+  label: "Revogado pelo DEC LEI.72/2003.2003.04.10.MCOTA, DR.IS-A [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2003-226806
+  date: '2003-04-10'
 article_structure:
-  article_count: 17
+  article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:21Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +143,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objecto
 
@@ -338,12 +361,12 @@ Compete à DGQA a fiscalização das normas constantes do presente diploma e res
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/120a00/28062808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1993-283521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf5335ee864fa9982cc702bcd84345d4cb91a68c2f221870fe55bc3dcdf0a79a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31da65ca1c41ec0ddbd26feb951cdbd8fda3e421c47d8a97d6dd273f76fb0a27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Instituto Nacional da ÁGUA
-- Instituto Nacional de Meteorologia e Geofísica
+- Auditoria Jurídica
 - Comissão Consultiva do Ambiente
 - Comissão Nacional contra a Poluição do MAR
 - Comissão para a Segurança de Serviços e BENS de Consumo
@@ -80,13 +78,15 @@ subjects:
 - Gabinete de Estudos e Planeamento do Ambiente e Recursos Naturais
 - Gabinete de Protecção e Segurança Nuclear
 - Gabinete dos Assuntos Europeus
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
+- Instituto de Meteorologia
 - Instituto de Promoção Ambiental
 - Instituto do Consumidor
+- Instituto Nacional da ÁGUA
 - Instituto Nacional de Defesa do Consumidor
-- Instituto de Meteorologia
+- Instituto Nacional de Meteorologia e Geofísica
 - Instituto Nacional do Ambiente
-- Auditoria Jurídica
 - Ministério do Ambiente e Recursos Naturais
 - Orgânica
 - Serviço Nacional de Parques Reservas e Conservação da Natureza
@@ -98,20 +98,73 @@ relationships:
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195800:por
+  label: "Extinta, com a entrada em funcionamento do Conselho, a Comissão Consultiva do Ambiente (CCA), prevista no num 1\
+    \ do art 4º pelo Dec Lei 221/97.1997.08.20.MAM, DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-1997-195800
+  date: '1997-08-20'
+- type: amended_by
+  target: pt:dre:585216:por
+  label: "Extintos a Direcção-Geral do Ambiente e o Instituto de Promoção Ambiental, pelo DEC LEI.8/2002.2002.01.09.MAOT DR.IS-A\
+    \ [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2002-585216
+  date: '2002-01-09'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Determinada a reestruturação do Instituto da Conservação da Natureza, criado no presente diploma e cuja orgânica\
+    \ consta do Dec lei 193/93 de 24-Mai, pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do\
+    \ respectivo art. 29º, passando a designar-se Instituto da Conservação da Natureza e da Biodiversidade\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Reestruturado o Instituto do Consumidor previsto no presente diploma, e que sucede ao Instituto Nacional de Defesa\
+    \ do Consumiodor criado pela Lei 29/81, de 22-Ago, que passa a integrar a administração directa do Estado, ficando a designar-se\
+    \ Direcção-Geral do Consumidor, pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto o Instituto da Água, criado pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de\
+    \ 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/294/1991/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/294/1991/08/13/p/dre
+- type: cites
+  target: pt:dre:333292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641998:por
+  label: "Revogado pelo Dec Lei.230/97.1997.08.30.MAM, DR.IS-A [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1997-641998
+  date: '1997-08-30'
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:37Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +359,12 @@ m) A Comissão Nacional contra a Poluição no Mar.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

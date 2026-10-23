@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 128fbfef47f6f9f7519e1d6763e0dfb19207e761011183ae4a4e3710acaa9ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 986ddb434156a9e0c0f5ede363ee7b6c105bb38c051534032bfa3c50bd8371e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Comunicações
 - Comunicações Nacionais
 - Criação de Empresas
 - CTT
-- Fusão de Empresas
-- Teledifusora de Portugal
-- Portugal Telecom
-- Pensionista
-- Telecom Portugal
-- Serviço Público
-- Comunicações
-- Segurança Social
 - Equipamento de Transmissão
+- Fusão de Empresas
+- Pensionista
+- Portugal Telecom
+- Segurança Social
+- Serviço Público
+- Sociedade Anónima
+- Telecom Portugal
+- Teledifusora de Portugal
 - TLP
 - Trabalhador
 - Transferência de Competências
@@ -88,6 +88,19 @@ relationships:
   target: pt:dre:617130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a PT-Portugal Telecom, S.A., a que se refere o presente\
+    \ diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:617130:por
+  label: "Cessada, com efeitos desde 01.12.2010, a obrigação da PT Comunicações, S. A. (PTC) de manutenção do Fundo de Pensões\
+    \ PT/CGA prevista no art. 5º do presente diploma, pelo DEC LEI.140-B/2010.30.12.2010.MFAP, DR.IS [252-2ºSupl] de 30.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-b-2010-617130
+  date: '2010-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/1991/04/08/p/dre
   label: null
@@ -108,16 +121,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:33Z'
   warnings: []
   errors: []
 ---
@@ -140,17 +205,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece os termos em que a Telecom Portugal, S. A. (Telecom), os Telefones de Lisboa e Porto, S. A. (TLP), e a Teledifusora de Portugal, S. A. (TDP), criarão, por fusão, a Portugal Telecom, S. A. (Portugal Telecom).
+Artigo 1.º O presente diploma estabelece os termos em que a Telecom Portugal, S. A. (Telecom), os Telefones de Lisboa e Porto, S. A. (TLP), e a Teledifusora de Portugal, S. A. (TDP), criarão, por fusão, a Portugal Telecom, S. A. (Portugal Telecom).
 
-###### Art. 2.º - 1 - A fusão reporta os seus efeitos à data da deliberação da assembleia geral da CN - Comunicações Nacionais, SGPS, S. A. (CN), que ratifique as deliberações das assembleias gerais das empresas objecto de fusão.
+Art. 2.º - 1 - A fusão reporta os seus efeitos à data da deliberação da assembleia geral da CN - Comunicações Nacionais, SGPS, S. A. (CN), que ratifique as deliberações das assembleias gerais das empresas objecto de fusão.
 
 2 - A deliberação a que se refere o número anterior produz de imediato os efeitos aí referidos, designadamente os previstos nas alíneas a) e b) do artigo 112.º do Código das Sociedades Comerciais, adiante designado por CSC.
 
 3 - É aplicável o disposto no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, a todas as operações e actos relacionados com a fusão e consequente constituição da Portugal Telecom, no quadro do respectivo processo de privatização.
 
-###### Art. 3.º A Portugal Telecom terá por objecto o estabelecimento, gestão e exploração das infra-estruturas de telecomunicações, prestação do serviço público de telecomunicações, os serviços de transporte e difusão de sinal das telecomunicações de difusão, bem como o exercício de quaisquer actividades que sejam complementares, subsidiárias ou acessórias daquelas, directamente ou através da constituição ou participação em sociedades.
+Art. 3.º A Portugal Telecom terá por objecto o estabelecimento, gestão e exploração das infra-estruturas de telecomunicações, prestação do serviço público de telecomunicações, os serviços de transporte e difusão de sinal das telecomunicações de difusão, bem como o exercício de quaisquer actividades que sejam complementares, subsidiárias ou acessórias daquelas, directamente ou através da constituição ou participação em sociedades.
 
-###### Art. 4.º - 1 - O capital social inicial da Portugal Telecom será o que vier a ser definido no projecto de fusão aprovado nos termos do n.º 1 do artigo 2.º, realizando-se com a transmissão dos activos líquidos das sociedades fundidas.
+Art. 4.º - 1 - O capital social inicial da Portugal Telecom será o que vier a ser definido no projecto de fusão aprovado nos termos do n.º 1 do artigo 2.º, realizando-se com a transmissão dos activos líquidos das sociedades fundidas.
 
 2 - Os direitos sujeitos a registo que se encontrem na titularidade da extinta Administração-Geral dos Correios, Telégrafos e Telefones e que, por força da cisão dos CTT, S. A., deviam ter sido registados em nome da Telecom sê-lo-ão em nome da Portugal Telecom, considerando-se, em caso de dúvida quanto àquela titularidade, título bastante para a transferência a confirmação pela Direcção-Geral do Património do Estado que aqueles bens se incluem no património da referida Administração-Geral.
 
@@ -160,7 +225,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras ou outras que celebraram contratos com as empresas fundidas as mesmas relações de suporte, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 5.º - 1 - Os trabalhadores e pensionistas da Telecom mantêm, nos termos do presente diploma, perante a Portugal Telecom todos os direitos e obrigações de que forem titulares na data da fusão, ficando esta sociedade obrigada a assegurar a manutenção do fundo de pensões a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, na quota-parte respectiva.
+Art. 5.º - 1 - Os trabalhadores e pensionistas da Telecom mantêm, nos termos do presente diploma, perante a Portugal Telecom todos os direitos e obrigações de que forem titulares na data da fusão, ficando esta sociedade obrigada a assegurar a manutenção do fundo de pensões a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, na quota-parte respectiva.
 
 2 - Do fundo referido no número anterior serão autonomizadas as responsabilidades dos CTT - Correios de Portugal, S. A. (CTT), e da Telecom, substituindo-se a CN a esta última sociedade na sua responsabilidade solidária decorrente da cisão dos CTT - Correios e Telecomunicações de Portugal, S. A., nos termos do n.º 2 do artigo 122.º do CSC.
 
@@ -168,27 +233,27 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - As relações entre a Caixa Geral de Aposentações e a Portugal Telecom regem-se pelo artigo 25.º do [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de 24 de Novembro de 1947, relativamente aos trabalhadores da Portugal Telecom oriundos dos CTT, E. P.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas dos TLP mantêm, nos termos do presente diploma, perante a Portugal Telecom todos os direitos e obrigações de que forem titulares na data da fusão.
+Art. 6.º - 1 - Os trabalhadores e pensionistas dos TLP mantêm, nos termos do presente diploma, perante a Portugal Telecom todos os direitos e obrigações de que forem titulares na data da fusão.
 
 2 - Os trabalhadores e pensionistas a que se refere o número anterior mantêm, perante a Caixa de Previdência do Pessoal dos Telefones de Lisboa e Porto, os direitos inerentes à posição de beneficiários.
 
 3 - A Portugal Telecom fica obrigada a assegurar, relativamente aos trabalhadores e pensionistas referidos no n.º 1, o complemento de pensão de reforma ou de sobrevivência existente, bem como a manutenção do respectivo fundo de pensões.
 
-###### Art. 7.º - 1 - Os trabalhadores e pensionistas da TDP mantêm, nos termos do presente diploma, perante a Portugal Telecom todos os direitos e obrigações de que eram titulares naquela sociedade à data da fusão.
+Art. 7.º - 1 - Os trabalhadores e pensionistas da TDP mantêm, nos termos do presente diploma, perante a Portugal Telecom todos os direitos e obrigações de que eram titulares naquela sociedade à data da fusão.
 
 2 - A Portugal Telecom fica obrigada a assegurar, relativamente aos trabalhadores e pensionistas referidos no número anterior, o complemento de reforma existente, bem como a manutenção do respectivo fundo de pensões.
 
-###### Art. 8.º Sem prejuízo do disposto nos artigos 5.º a 7.º, a Portugal Telecom tomará as medidas que forem adequadas à progressiva harmonização do regime e das condições de trabalho, bem como dos esquemas de protecção social complementares dos assegurados pelos sistemas públicos, aplicáveis aos trabalhadores da Telecom, dos TLP e da TDP.
+Art. 8.º Sem prejuízo do disposto nos artigos 5.º a 7.º, a Portugal Telecom tomará as medidas que forem adequadas à progressiva harmonização do regime e das condições de trabalho, bem como dos esquemas de protecção social complementares dos assegurados pelos sistemas públicos, aplicáveis aos trabalhadores da Telecom, dos TLP e da TDP.
 
-###### Art. 9.º - 1 - O disposto no artigo 8.º do [Decreto-Lei n.º 88/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187), de 14 de Maio, e nos n.os 4 e 5 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, é aplicável aos trabalhadores da Portugal Telecom.
+Art. 9.º - 1 - O disposto no artigo 8.º do [Decreto-Lei n.º 88/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187), de 14 de Maio, e nos n.os 4 e 5 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, é aplicável aos trabalhadores da Portugal Telecom.
 
 2 - O disposto no artigo 28.º do [Decreto-Lei n.º 283/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1989-618499), de 23 de Agosto, é ainda aplicável aos trabalhadores da Portugal Telecom que sejam oriundos dos CTT, E. P.
 
-###### Art. 10.º - 1 - A associação sem fins lucrativos constituída na sequência do processo de cisão dos CTT - Correios e Telecomunicações de Portugal, S. A., para assegurar a manutenção dos direitos conferidos aos trabalhadores dos CTT, S. A., e da Telecom oriundos dos CTT, E. P., ao abrigo do artigo 30.º do anexo ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, nos termos definidos pelos n.os 1 e 2 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, e do artigo 3.º do [Decreto-Lei n.º 277/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1992-532052), de 15 de Dezembro, será equiparada a instituição particular de solidariedade social, sem dependência do registo a que se refere o artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, para todos os efeitos legais, com excepção dos previstos no artigo 4.º do mesmo Estatuto e na base XXXVIII da [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto.
+Art. 10.º - 1 - A associação sem fins lucrativos constituída na sequência do processo de cisão dos CTT - Correios e Telecomunicações de Portugal, S. A., para assegurar a manutenção dos direitos conferidos aos trabalhadores dos CTT, S. A., e da Telecom oriundos dos CTT, E. P., ao abrigo do artigo 30.º do anexo ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, nos termos definidos pelos n.os 1 e 2 do artigo 9.º do [Decreto-Lei n.º 87/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1992-522189), de 14 de Maio, e do artigo 3.º do [Decreto-Lei n.º 277/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1992-532052), de 15 de Dezembro, será equiparada a instituição particular de solidariedade social, sem dependência do registo a que se refere o artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, para todos os efeitos legais, com excepção dos previstos no artigo 4.º do mesmo Estatuto e na base XXXVIII da [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto.
 
 2 - O âmbito de actuação da entidade a que se refere o número anterior poderá ser alargado a trabalhadores da Portugal Telecom, S. A., e dos CTT não abrangidos pelas disposições nele mencionadas, designadamente aos oriundos das empresas que nela forem integrados, em condições a definir por convénios a homologar pelo Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 11.º - 1 - As administrações da Telecom, dos TLP e da TDP elaborarão conjuntamente um projecto de fusão donde constem, de entre os elementos indicados nas alíneas b), d), f), g) e i) do n.º 1 do artigo 98.º do CSC, todos os que se revelarem necessários à protecção dos credores, obrigacionistas e portadores de outros títulos dessas sociedades.
+Art. 11.º - 1 - As administrações da Telecom, dos TLP e da TDP elaborarão conjuntamente um projecto de fusão donde constem, de entre os elementos indicados nas alíneas b), d), f), g) e i) do n.º 1 do artigo 98.º do CSC, todos os que se revelarem necessários à protecção dos credores, obrigacionistas e portadores de outros títulos dessas sociedades.
 
 2 - O projecto de fusão deve ser registado, aplicando-se, sem prejuízo do número seguinte, o disposto no n.º 3 do artigo 100.º e no artigo 101.º do CSC.
 
@@ -200,7 +265,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - A inscrição da fusão no registo comercial deve ser requerida nos 90 dias seguintes à ratificação a que se refere o n.º 1 do artigo 2.º
 
-###### Art. 12.º - 1 - Publicada a notícia de ter sido efectuado o registo do projecto de fusão, será de 30 dias o prazo para a oposição de credores, o qual se contará da data da publicação.
+Art. 12.º - 1 - Publicada a notícia de ter sido efectuado o registo do projecto de fusão, será de 30 dias o prazo para a oposição de credores, o qual se contará da data da publicação.
 
 2 - A oposição de credores não suspende a fusão, mas, quando resolvida favoravelmente ao credor, a Portugal Telecom ficará responsável pelo pagamento do crédito, gozando este de preferência sobre os de natureza idêntica constituídos após a fusão.
 
@@ -208,31 +273,31 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Aos portadores de títulos que não sejam acções é aplicável o disposto no artigo 110.º do CSC.
 
-###### Art. 13.º Na data da ratificação do projecto de fusão pela assembleia geral da CN e após esta reunirá a assembleia geral da Portugal Telecom para eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 13.º Na data da ratificação do projecto de fusão pela assembleia geral da CN e após esta reunirá a assembleia geral da Portugal Telecom para eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
-###### Art. 14.º Até à celebração do respectivo contrato de concessão, a Portugal Telecom continuará a explorar o serviço público de telecomunicações nos mesmos termos em que vinha a ser explorado pela Telecom e pelos TLP.
+Art. 14.º Até à celebração do respectivo contrato de concessão, a Portugal Telecom continuará a explorar o serviço público de telecomunicações nos mesmos termos em que vinha a ser explorado pela Telecom e pelos TLP.
 
-###### Art. 15.º A partir da data da produção de efeitos da fusão, são revogados:
+Art. 15.º A partir da data da produção de efeitos da fusão, são revogados:
 
 a) Os Decretos-Leis n.os [277/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1992-532052), de 16 de Dezembro, e [138/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1991-239669), de 8 de Abril, e o n.º 5 do artigo 3.º do [Decreto-Lei n.º 88/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187), de 14 de Maio;
 
 b) Os Decretos-Leis n.os 49368, de 10 de Novembro de 1969, e o respectivo anexo I, na parte aplicável à Telecom, e 147/89, de 6 de Maio, com excepção das normas que se devam ter por aplicáveis por força do disposto no artigo anterior.
 
-###### Art. 16.º - 1 - Com efeito a partir da data da fusão, o n.º 2 do artigo 13.º, o n.º 2 do artigo 20.º e o artigo 25.º dos estatutos da CN, aprovados pelo [Decreto-Lei n.º 88/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187), de 14 de Maio, passam a ter a seguinte redacção:
+Art. 16.º - 1 - Com efeito a partir da data da fusão, o n.º 2 do artigo 13.º, o n.º 2 do artigo 20.º e o artigo 25.º dos estatutos da CN, aprovados pelo [Decreto-Lei n.º 88/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187), de 14 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - Os presidentes dos conselhos de administração das empresas operadoras do serviço público de telecomunicações e dos Correios de Portugal (CTT), S. A., serão, por inerência, vogais sem funções executivas e em tempo parcial do conselho de administração da sociedade Comunicações Nacionais, SGPS, S. A.
 
 ...
 
-###### Art. 20.º - 1 - ...
+Art. 20.º - 1 - ...
 
 2 - É aplicável à CN o disposto no n.º 3 do artigo 10.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
 
 ...
 
-###### Art. 25.º - 1 - Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 25.º - 1 - Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 a) Uma percentagem não inferior a 10% será destinada à constituição da reserva legal, até atingir o montante exigível;
 
@@ -244,22 +309,22 @@ c) O remanescente será afecto aos fins definidos pela assembleia geral.
 
 2 - As alterações dos estatutos da CN aprovadas no número anterior não carecem de redução a escritura pública, devendo o respectivo registo ser feito com base no Diário da República em que hajam sido publicadas.
 
-###### Art. 17.º - 1 - A taxa de acesso às redes de transporte e difusão do sinal de televisão a que se refere o artigo 4.º do [Decreto-Lei n.º 401/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1990-563581), de 20 de Dezembro, é acordada por convenção a estabelecer entre a administração central, representada pelo Gabinete de Apoio à Imprensa da Presidência do Conselho de Ministros e pela Direcção-Geral da Concorrência e Preços, o Instituto das Comunicações de Portugal e a Portugal Telecom, ouvidos os operadores do serviço de televisão.
+Art. 17.º - 1 - A taxa de acesso às redes de transporte e difusão do sinal de televisão a que se refere o artigo 4.º do [Decreto-Lei n.º 401/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1990-563581), de 20 de Dezembro, é acordada por convenção a estabelecer entre a administração central, representada pelo Gabinete de Apoio à Imprensa da Presidência do Conselho de Ministros e pela Direcção-Geral da Concorrência e Preços, o Instituto das Comunicações de Portugal e a Portugal Telecom, ouvidos os operadores do serviço de televisão.
 
 2 - À convenção referida no número anterior são aplicáveis as regras contidas no [Decreto-Lei n.º 207/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310), de 2 de Outubro.
 
 3 - A ratificação da convenção a que se refere o presente artigo opera-se mediante despacho conjunto dos Ministros responsáveis pelas áreas das comunicações, do comércio e da comunicação social.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19496-1962-156237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0a31c07b3900edb3fa69c185dc6174603ec9a5f0e82fe44eed654142e162355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb1407b28d5a9ce4bf8873d4d4f4eaacdf1d054ec303065e5b342448c070bb0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:313248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:33Z'
   warnings: []
   errors: []
 ---
@@ -156,9 +160,9 @@ Secretaria de Estado da Agricultura, 10 de Novembro de 1962. - O Secretário de 
 
 Regulamento do Concurso Nacional de Explorações do Ovinos Produtores de Carne
 
-###### Artigo 1.º A inscrição para o concurso deve fazer-se até ao dia 15 de Fevereiro de cada ano. A fase final, compreendendo a apreciação de carcaças, efectuar-se-á no decorrer da 1.ª quinzena do mesmo mês do ano seguinte, em data a fixar com antecedência de três meses.
+Artigo 1.º A inscrição para o concurso deve fazer-se até ao dia 15 de Fevereiro de cada ano. A fase final, compreendendo a apreciação de carcaças, efectuar-se-á no decorrer da 1.ª quinzena do mesmo mês do ano seguinte, em data a fixar com antecedência de três meses.
 
-###### Art. 2.º Podem concorrer a este certame todas as explorações privadas nacionais que disponham de rebanhos, obedecendo cada um deles às seguintes condições:
+Art. 2.º Podem concorrer a este certame todas as explorações privadas nacionais que disponham de rebanhos, obedecendo cada um deles às seguintes condições:
 
 1. Efectivo feminino não inferior a 50 ovelhas de ventre, pertencentes a um mesmo agrupamento étnico;
 
@@ -172,11 +176,11 @@ Regulamento do Concurso Nacional de Explorações do Ovinos Produtores de Carne
 
 § único. Quando os animais se não encontrem inscritos em livro genealógico, o júri deliberará sobre as condições referidas nos n.os 1 e 2.
 
-###### Art. 3.º Cada uma das explorações poderá fazer-se representar com mais de um rebanho, desde que se verifiquem, entre os rebanhos, diferenças de natureza étnica, quanto a machos ou a fêmeas.
+Art. 3.º Cada uma das explorações poderá fazer-se representar com mais de um rebanho, desde que se verifiquem, entre os rebanhos, diferenças de natureza étnica, quanto a machos ou a fêmeas.
 
 § único. Para efeito deste regulamento, considera-se «rebanho» um conjunto de animais constituído por fêmeas e os machos que as beneficiarem, segundo um emparelhamento prèviamente adoptado [alínea b) do n.º 1 do artigo 4.º].
 
-###### Art. 4.º Os interessados em fazer participar as suas explorações ovinas neste concurso obrigam-se, em relação a cada um dos rebanhos com que se inscrevam a:
+Art. 4.º Os interessados em fazer participar as suas explorações ovinas neste concurso obrigam-se, em relação a cada um dos rebanhos com que se inscrevam a:
 
 1. Enviar à Direcção-Geral dos Serviços Pecuários, devidamente preenchidos, os seguintes impressos, fornecidos por este organismo:
 
@@ -204,7 +208,7 @@ f) Declaração de morte de qualquer produto registado na declaração de nascim
 
 7. Não alienar, antes da última pesagem a que se refere o n.º 5, qualquer dos produtos que figurem na declaração de nascimentos.
 
-###### Art. 5.º O concurso comportará as seguintes operações:
+Art. 5.º O concurso comportará as seguintes operações:
 
 1) Observação do rebanho no local da exploração para verificação das condições a que se refere o artigo 2.º;
 
@@ -214,7 +218,7 @@ f) Declaração de morte de qualquer produto registado na declaração de nascim
 
 4) Apreciação das carcaças no Matadouro Frigorífico de Lisboa, no decorrer da 1.ª quinzena do mês de Fevereiro.
 
-###### Art. 6.º As explorações serão classificadas mediante a seguinte tabela:
+Art. 6.º As explorações serão classificadas mediante a seguinte tabela:
 
 I) Apreciação em vida:
 
@@ -262,7 +266,7 @@ Total ... 100
 
 § único. A atribuição de pontos relativos a cada um dos considerandos será apoiada em tabelas auxiliares a elaborar pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 7.º A classificação final das explorações resulta da síntese das pontuações obtidas, sendo os totais multiplicados pelos seguintes factores:
+Art. 7.º A classificação final das explorações resulta da síntese das pontuações obtidas, sendo os totais multiplicados pelos seguintes factores:
 
 A) Produção de lã ... 0,1
 
@@ -272,13 +276,13 @@ C) Índice de consumo ... 0,16
 
 D) Qualidade da carcaça ... 0,24
 
-###### Art. 8.º Para efeito da atribuição dos prémios a que se refere o artigo 16.º, utilizar-se-á o total da pontuação obtida para a qualidade da carcaça [D) da tabela do artigo anterior] adicionado do número de pontos relativos ao considerando:
+Art. 8.º Para efeito da atribuição dos prémios a que se refere o artigo 16.º, utilizar-se-á o total da pontuação obtida para a qualidade da carcaça [D) da tabela do artigo anterior] adicionado do número de pontos relativos ao considerando:
 
 ... Número máximo de pontos
 
 Precocidade em relação ao peso da carcaça ... 30
 
-###### Art. 9.º Para efeito de apreciação dos considerandos A)-a), A)-b) e B)-b), o efectivo básico será reportado a 100 fêmeas de ventre.
+Art. 9.º Para efeito de apreciação dos considerandos A)-a), A)-b) e B)-b), o efectivo básico será reportado a 100 fêmeas de ventre.
 
 § único. Na apreciação destes considerandos ter-se-á em conta:
 
@@ -294,7 +298,7 @@ e) Na viabilidade dos produtos, a diferença entre os totais de pontos atribuíd
 
 f) Na precocidade, a média dos aumentos diários de peso vivo.
 
-###### Art. 10.º A determinação do índice de consumo será feita nos quatro borregos a que se refere o n.º 6 do artigo 4.º
+Art. 10.º A determinação do índice de consumo será feita nos quatro borregos a que se refere o n.º 6 do artigo 4.º
 
 § 1.º Para a determinação deste índice, os grupos de borregos serão instalados em celas separadas, onde dispõem de uma ração composta por:
 
@@ -310,7 +314,7 @@ Concentrados.
 
 § 4.º Na apreciação do índice do consumo considerar-se-á o número de U. F. necessárias para aumento de 1 kg de peso vivo; nesta apreciação os animais de cada um dos grupos serão considerados em bloco.
 
-###### Art. 11.º O exame no Matadouro Frigorífico de Lisboa incidirá sobre um lote de quatro borregos, escolhidos pelo criador de entre os referidos na alínea e) do n.º 1 do artigo 4.º
+Art. 11.º O exame no Matadouro Frigorífico de Lisboa incidirá sobre um lote de quatro borregos, escolhidos pelo criador de entre os referidos na alínea e) do n.º 1 do artigo 4.º
 
 § 1.º Para a realização desta fase do concurso os animais serão apresentados às 10 horas da manhã do dia anunciado e submetidos a jejum até à matança, a qual terá lugar no dia imediato, à mesma hora.
 
@@ -340,11 +344,11 @@ g) Na precocidade, a que se refere o artigo 8.º, a relação «peso da carcaça
 
 § 5.º A apreciação dos considerandos a que dizem respeito as alíneas b), c), f) e g) incidirá no conjunto das quatro carcaças inteiras; a referente aos considerandos a), d) e e) no conjunto das carcaças desmanchadas.
 
-###### Art. 12.º O júri deste concurso será único e nomeado pela Direcção-Geral dos Serviços Pecuários.
+Art. 12.º O júri deste concurso será único e nomeado pela Direcção-Geral dos Serviços Pecuários.
 
 § único. A Direcção-Geral dos Serviços Pecuários providenciará para que sejam agregados ao júri os peritos que julgar necessários à execução das diferentes operações do concurso.
 
-###### Art. 13.º Compete ao júri:
+Art. 13.º Compete ao júri:
 
 A) Organizar todo o processo do concurso, e em particular:
 
@@ -368,26 +372,26 @@ b) Os animais sejam convenientemente alojados ao darem entrada no matadouro.
 
 B) Classificar as explorações segundo as tabelas aprovadas e atribuir os respectivos prémios.
 
-###### Art. 14.º Neste concurso será disputado o Prémio Engenheiro Quartin Graça, representado pela miniatura de um carneiro, de ouro, no valor de 70000$00, oferta do lavrador Sr. João Lopes Fernandes, o qual será entregue à exploração que consiga obter a primeira classificação em três anos consecutivos ou cinco alternados.
+Art. 14.º Neste concurso será disputado o Prémio Engenheiro Quartin Graça, representado pela miniatura de um carneiro, de ouro, no valor de 70000$00, oferta do lavrador Sr. João Lopes Fernandes, o qual será entregue à exploração que consiga obter a primeira classificação em três anos consecutivos ou cinco alternados.
 
 § 1.º À exploração que obtenha a maior classificação, em cada um dos anos, será atribuída uma reprodução do primeiro prémio, em metal menos precioso.
 
 § 2.º Quando uma exploração concorra com mais de um rebanho, será considerado, para efeitos de atribuição deste prémio e dos referidos no artigo seguinte, aquele que obtiver a maior classificação final.
 
-###### Art. 15.º Serão atribuídas taças de prata às explorações que tenham sido classificadas em 2.º, 3.º e 4.º lugares.
+Art. 15.º Serão atribuídas taças de prata às explorações que tenham sido classificadas em 2.º, 3.º e 4.º lugares.
 
-###### Art. 16.º Serão conferidas medalhas de ouro, prata e cobre a todos os grupos de animais apresentados no Matadouro Frigorífico de Lisboa ao exame post mortem (4.ª operação referida no artigo 5.º) e que tenham obtido, respectivamente, os mínimos de 110, 95 e 85 pontos.
+Art. 16.º Serão conferidas medalhas de ouro, prata e cobre a todos os grupos de animais apresentados no Matadouro Frigorífico de Lisboa ao exame post mortem (4.ª operação referida no artigo 5.º) e que tenham obtido, respectivamente, os mínimos de 110, 95 e 85 pontos.
 
-###### Art. 17.º O júri poderá, se o entender, instituir prémios suplementares, e bem assim distribuir os troféus de que disponha.
+Art. 17.º O júri poderá, se o entender, instituir prémios suplementares, e bem assim distribuir os troféus de que disponha.
 
-###### Art. 18.º Os borregos destinados à determinação dos índices de consumo são adquiridos pela Direcção-Geral dos Serviços Pecuários ao preço corrente do mercado de Lisboa, na base de 50 por cento de rendimento em carne limpa, calculado em face do peso vivo à entrada na Estação Zootécnica Nacional.
+Art. 18.º Os borregos destinados à determinação dos índices de consumo são adquiridos pela Direcção-Geral dos Serviços Pecuários ao preço corrente do mercado de Lisboa, na base de 50 por cento de rendimento em carne limpa, calculado em face do peso vivo à entrada na Estação Zootécnica Nacional.
 
-###### Art. 19.º As despesas a realizar com o transporte dos animais, quer para a Estação Zootécnica Nacional, quer para o Matadouro Frigorífico de Lisboa, são de conta dos concorrentes.
+Art. 19.º As despesas a realizar com o transporte dos animais, quer para a Estação Zootécnica Nacional, quer para o Matadouro Frigorífico de Lisboa, são de conta dos concorrentes.
 
-###### Art. 20.º As carcaças dos animais abatidos, pertencentes aos criadores, serão entregues à Junta Nacional dos Produtos Pecuários para efeito da sua colocação no mercado.
+Art. 20.º As carcaças dos animais abatidos, pertencentes aos criadores, serão entregues à Junta Nacional dos Produtos Pecuários para efeito da sua colocação no mercado.
 
-###### Art. 21.º Este regulamento poderá, em anos futuros, sofrer as alterações de ordem técnica que a Direcção-Geral dos Serviços Pecuários entenda propor à consideração superior.
+Art. 21.º Este regulamento poderá, em anos futuros, sofrer as alterações de ordem técnica que a Direcção-Geral dos Serviços Pecuários entenda propor à consideração superior.
 
-###### Art. 22.º O júri resolverá os casos omissos neste regulamento e das suas decisões não haverá recurso.
+Art. 22.º O júri resolverá os casos omissos neste regulamento e das suas decisões não haverá recurso.
 
 Secretaria de Estado da Agricultura, 10 de Novembro de 1962. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/243a00/49024904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/1992/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1992-221362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 233354a5b4d2de2c61c074800d1a7a20ea9d6ff1d7e43c83392d88fd4ab37e16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 916aa2f94c71b510280b945ac4dd9f8bdb8d1ea839d072c965e19da08f46016c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Autorização de Transporte
-- Empresa
 - CEE
-- Transporte Terrestre
-- Transporte Rodoviário
+- Empresa
 - Transporte de Passageiros
 - Transporte Público
+- Transporte Rodoviário
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:239247:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31985L0579
   label: null
   source: http://data.europa.eu/eli/dir/1985/579/oj
+- type: repealed_by
+  target: pt:dre:239247:por
+  label: Revogado o presente diploma e respectiva legislação complentar pelo DEC LEI.3/2001.2001.01.10.MES, DR.IS-A [8]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2001-239247
+  date: '2001-01-10'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:34Z'
   warnings: []
   errors: []
 ---
@@ -226,12 +231,12 @@ Os requisitos de acesso à profissão constantes do presente diploma não se apl
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Jorge Manuel Mendes Antas - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Outubro de 1992.**
+Promulgado em 6 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1992.**
+Referendado em 7 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

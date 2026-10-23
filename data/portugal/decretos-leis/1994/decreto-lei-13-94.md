@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/012a00/01890191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/1994/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1994-509198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6b5c439db89cf59bf4ca20ed8560813741b643842540830510dfa3d0675b564
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae209624b93847a8aaecc0038caa2e34e324e27b3533b7182bdbca685cabe9f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Estrada
+- ÁREA NON Aedificandi
 - Contra-ordenação
 - Definição de Competências
+- Estrada
 - Junta Autónoma das Estradas
+- Multa
 - Utilidade Pública
-- ÁREA NON Aedificandi
 relationships:
 - type: amended_by
   target: pt:dre:67085601:por
@@ -81,16 +81,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/136/1991/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/136/1991/04/04/p/dre
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, pelo(a) Lei n.º 34/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:48Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +142,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma aplica-se às estradas nacionais constantes do Plano Rodoviário Nacional.
+Artigo 1.º - 1 - O presente diploma aplica-se às estradas nacionais constantes do Plano Rodoviário Nacional.
 
 2 - Exceptua-se do disposto no número anterior a construção de áreas de serviço, de repouso ou outros equipamentos de apoio à estrada ou aos seus utentes.
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) Estradas nacionais - as rodovias integradas nos itinerários principais (IP) da rede fundamental e nos itinerários complementares (IC) e nas outras estradas (OE) da rede complementar, de acordo com o Plano Rodoviário Nacional;
 
@@ -129,7 +158,7 @@ d) Eixo da estrada - a linha de separação dos dois sentidos do trânsito ou, n
 
 e) Planos de alinhamento - o conjunto de elementos escritos e desenhados que resultam de estudo elaborado com a finalidade de definir as distâncias ao eixo da estrada nacional a que os novos edifícios e as novas vedações podem ser construídas na travessia de zonas urbanizadas.
 
-###### Art. 3.º - 1 - As faixas de terreno de 200 m situadas em cada lado do eixo da estrada, bem como o solo situado num círculo de 1300 m de diâmetro centrado em cada nó de ligação, são consideradas zonas de servidão non aedificandi de protecção à estrada a construir ou reconstruir.
+Art. 3.º - 1 - As faixas de terreno de 200 m situadas em cada lado do eixo da estrada, bem como o solo situado num círculo de 1300 m de diâmetro centrado em cada nó de ligação, são consideradas zonas de servidão non aedificandi de protecção à estrada a construir ou reconstruir.
 
 2 - A servidão a que se refere o número anterior é constituída com a publicação, no Diário da República, da aprovação de estudo prévio de uma estrada nacional ou de documento equivalente, nomeadamente estudos de viabilidade ou plantas à escala e esboços corográficos devidamente cotados, desde que superiormente aprovados.
 
@@ -137,9 +166,9 @@ e) Planos de alinhamento - o conjunto de elementos escritos e desenhados que res
 
 4 - A servidão manter-se-á até à publicação, nos termos do Código das Expropriações, do acto declarativo de utilidade pública dos terrenos e da respectiva planta parcelar.
 
-###### Art. 4.º Quando existam planos de alinhamento devidamente aprovados pela JAE, nas zonas referidas no artigo anterior, pode aquela entidade autorizar a redução dos limites indicados no n.º 1 daquela disposição.
+Art. 4.º Quando existam planos de alinhamento devidamente aprovados pela JAE, nas zonas referidas no artigo anterior, pode aquela entidade autorizar a redução dos limites indicados no n.º 1 daquela disposição.
 
-###### Art. 5.º Após a publicação da planta parcelar para o caso dos novos IP, IC e OE, bem como para as estradas nacionais já existentes, ficam estabelecidas as seguintes zonas de servidão non aedificandi:
+Art. 5.º Após a publicação da planta parcelar para o caso dos novos IP, IC e OE, bem como para as estradas nacionais já existentes, ficam estabelecidas as seguintes zonas de servidão non aedificandi:
 
 a) Para os IP: 50 m para cada lado do eixo da estrada e nunca a menos de 20 m da zona da estrada;
 
@@ -147,11 +176,11 @@ b) Para os IC: 35 m para cada lado do eixo da estrada e nunca a menos de 15 m da
 
 c) Para as OE: 20 m para cada lado do eixo da estrada e nunca a menos de 5 m da zona da estrada.
 
-###### Art. 6.º - 1 - No caso dos ramos dos nós de ligação, ramais de acesso, cruzamentos e entroncamentos das estradas nacionais entre si ou com estradas não nacionais, a distância a considerar na determinação dos terrenos que integram as zonas de servidão non aedificandi será a distância correspondente à categoria da estrada nacional onde nasce o ramo ou o ramal.
+Art. 6.º - 1 - No caso dos ramos dos nós de ligação, ramais de acesso, cruzamentos e entroncamentos das estradas nacionais entre si ou com estradas não nacionais, a distância a considerar na determinação dos terrenos que integram as zonas de servidão non aedificandi será a distância correspondente à categoria da estrada nacional onde nasce o ramo ou o ramal.
 
 2 - A marcação da distância a que se refere o número anterior prolongar-se-á, com valor constante, até ao perfil transversal do ponto de tangência do ramo ou ramal com a via secundária, não se considerando, em consequência, zona de transição entre as faixas de servidão non aedificandi referentes a cada uma das estradas ligadas pelo ramo ou ramal.
 
-###### Art. 7.º - 1 - As servidões a estabelecer nos termos do presente diploma não prejudicam a possibilidade de construção de vedações dos terrenos, desde que não excedam a altura de 2,5 m, podendo as mesmas ser cheias até 0,9 m de altura, contada da conformação natural do solo, nos seguintes termos:
+Art. 7.º - 1 - As servidões a estabelecer nos termos do presente diploma não prejudicam a possibilidade de construção de vedações dos terrenos, desde que não excedam a altura de 2,5 m, podendo as mesmas ser cheias até 0,9 m de altura, contada da conformação natural do solo, nos seguintes termos:
 
 a) No caso dos IP e IC, a uma distância mínima de 7 m da zona da estrada;
 
@@ -159,7 +188,7 @@ b) No caso das OE, a uma distância mínima de 5 m da zona da estrada.
 
 2 - A construção das vedações carece de autorização da JAE, a conceder no prazo máximo de 30 dias após a recepção do pedido, e será recusada quando se verifique que da mesma resultam inconvenientes para a manutenção das condições de circulação e de segurança da estrada, designadamente ao nível de visibilidade.
 
-###### Art. 8.º - 1 - Nos IP e IC é proibida a ocupação da zona da estrada a título definitivo ou precário, com excepção de equipamentos ou serviços de telecomnicações relacionados com a exploração e, em especial, com a segurança das rodovias.
+Art. 8.º - 1 - Nos IP e IC é proibida a ocupação da zona da estrada a título definitivo ou precário, com excepção de equipamentos ou serviços de telecomnicações relacionados com a exploração e, em especial, com a segurança das rodovias.
 
 2 - Quaisquer outras infra-estruturas ou equipamentos, afectos ou não a concessão de serviço público, podem ser implantados ou instalados ao longo da faixa de 7 m integrante do domínio público marginal à zona de estrada, mediante aprovação da JAE, salvo se existirem impedimentos de natureza técnica, devidamente justificados, e havendo sempre lugar ao pagamento de uma taxa.
 
@@ -171,23 +200,23 @@ b) No caso das OE, a uma distância mínima de 5 m da zona da estrada.
 
 6 - No tocante às infra-estruturas ou equipamentos afectos à concessão de serviço público, a aprovação da JAE, nos termos do n.º 2, será obtida no âmbito do respectivo processo de licenciamento.
 
-###### Art. 9.º Nas OE, a implantação ou instalação das infra-estruturas e equipamentos a que se refere o artigo anterior deve fazer-se fora dos limites da plataforma da estrada, admitindo-se, em caso de interesse público de especial relevo, devidamente comprovado, o atravessamento perpendicular ao eixo da estrada, nos exactos termos definidos para as restantes estradas nacionais, mediante aprovação da JAE em conformidade com o n.º 5 daquele artigo.
+Art. 9.º Nas OE, a implantação ou instalação das infra-estruturas e equipamentos a que se refere o artigo anterior deve fazer-se fora dos limites da plataforma da estrada, admitindo-se, em caso de interesse público de especial relevo, devidamente comprovado, o atravessamento perpendicular ao eixo da estrada, nos exactos termos definidos para as restantes estradas nacionais, mediante aprovação da JAE em conformidade com o n.º 5 daquele artigo.
 
-###### Art. 10.º - 1 - Ficam proibidos os acessos directos aos IP e IC por parte de propriedades públicas ou privadas e de vias municipais não classificadas.
+Art. 10.º - 1 - Ficam proibidos os acessos directos aos IP e IC por parte de propriedades públicas ou privadas e de vias municipais não classificadas.
 
 2 - A JAE promoverá o levantamento das situações existentes que se não conformem com o disposto no número anterior, devendo proceder ao estudo de soluções que tendam à sua eliminação, as quais submeterá à aprovação do Ministro das Obras Públicas, Transportes e Comunicações.
 
 3 - Não são igualmente permitidos os acessos directos de propriedades públicas ou privadas e de vias municipais não classificadas aos novos traçados das OE, para além dos estritamente necessários e previstos nos respectivos projectos de execução.
 
-###### Art. 11.º Os actos praticados em violação do disposto no presente diploma são nulos.
+Art. 11.º Os actos praticados em violação do disposto no presente diploma são nulos.
 
-###### Art. 12.º - 1 - Verificada a violação do disposto no presente diploma por execução de obras de qualquer natureza, designadamente de ampliação de edificações existentes ou alteração dos solos, deve a JAE proceder ao imediato embargo das mesmas, intimando o proprietário para a sua demolição, para a qual fixará prazo razoável.
+Art. 12.º - 1 - Verificada a violação do disposto no presente diploma por execução de obras de qualquer natureza, designadamente de ampliação de edificações existentes ou alteração dos solos, deve a JAE proceder ao imediato embargo das mesmas, intimando o proprietário para a sua demolição, para a qual fixará prazo razoável.
 
 2 - No caso de incumprimento da intimação no prazo referido no número anterior, pode a JAE substituir-se ao infractor e executar os trabalhos a expensas deste.
 
 3 - O reembolso das despesas efectuadas com a demolição deverá ser feito pelo infractor no prazo máximo de 60 dias após notificação para o efeito, e, em caso de não cumprimento voluntário, será coercivamente cobrado pelo tribunal comum competente, servindo de título executivo bastante a prova documental das despesas efectuadas pela JAE, por si ou por entidade para o efeito contratada.
 
-###### Art. 13.º - 1 - A violação do disposto nos artigos 7.º, 8.º, 9.º e 10.º do presente diploma constitui contra-ordenação punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo tratando-se de pessoa colectiva.
+Art. 13.º - 1 - A violação do disposto nos artigos 7.º, 8.º, 9.º e 10.º do presente diploma constitui contra-ordenação punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo tratando-se de pessoa colectiva.
 
 2 - As contra-ordenações podem, ainda, determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -201,20 +230,20 @@ b) A interdição, até ao máximo de dois anos, do exercício da profissão ou 
 
 5 - O produto das coimas reverte em 40% para a JAE e em 60% para o Estado.
 
-###### Art. 14.º As competências genericamente atribuídas à JAE pelo presente diploma são exercidas pelo seu presidente, sendo susceptíveis de delegação nos vice-presidentes ou nos dirigentes dos serviços.
+Art. 14.º As competências genericamente atribuídas à JAE pelo presente diploma são exercidas pelo seu presidente, sendo susceptíveis de delegação nos vice-presidentes ou nos dirigentes dos serviços.
 
-###### Art. 15.º Enquanto não for publicado o diploma regulamentador da rede municipal, a que se refere o [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro, serão aplicáveis as disposições da [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, a todas as estradas que, não constando do Plano Rodoviário Nacional em vigor, tenham sido classificadas como estradas nacionais em anteriores planos rodoviários.
+Art. 15.º Enquanto não for publicado o diploma regulamentador da rede municipal, a que se refere o [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro, serão aplicáveis as disposições da [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, a todas as estradas que, não constando do Plano Rodoviário Nacional em vigor, tenham sido classificadas como estradas nacionais em anteriores planos rodoviários.
 
-###### Art. 16.º São revogados os Decretos-Leis n.os [64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro, [341/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1986-222460), de 7 de Outubro, e [136/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1991-622126), de 4 de Abril.
+Art. 16.º São revogados os Decretos-Leis n.os [64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro, [341/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1986-222460), de 7 de Outubro, e [136/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1991-622126), de 4 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

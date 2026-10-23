@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/273/1993/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14aa40740fcb99292d804c4ff2f61ce26ef1541acdba3a700ef67560573d2e09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a27a8fefd03ed48ad3b2cfbf132ef5152885daf9c54b8f68ff82f14b3cc28f44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Aeroporto
 - ANAM
-- Sociedade Anónima
 - Empreitada de Obras Públicas
+- Madeira.região Autónoma
 - Ministério das Finanças
 - Obras Públicas
-- Madeira.região Autónoma
 - Regime Jurídico
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/58/1992/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/1992/04/13/p/dre
+- type: cites
+  target: pt:dre:200002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:36Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +121,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -121,20 +129,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - A contracção de empréstimos pela ANAM, S. A., é precedida de autorização do Ministério das Finanças.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, um artigo 8.º, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, um artigo 8.º, com a seguinte redacção:
 
-###### Art. 8.º As obras a realizar nos aeroportos da Região Autónoma da Madeira pela ANAM, S. A., estão sujeitas ao regime jurídico das empreitadas de obras públicas.
+Art. 8.º As obras a realizar nos aeroportos da Região Autónoma da Madeira pela ANAM, S. A., estão sujeitas ao regime jurídico das empreitadas de obras públicas.
 
-###### Art. 3.º A assembleia geral da ANAM, S. A., reúne no prazo máximo de 30 dias, a contar da data da entrada em vigor do presente diploma, para proceder às alterações estatutárias decorrentes da sua entrada em vigor.
+Art. 3.º A assembleia geral da ANAM, S. A., reúne no prazo máximo de 30 dias, a contar da data da entrada em vigor do presente diploma, para proceder às alterações estatutárias decorrentes da sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1993. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/229a00/54605466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1993-651705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeaf2bdac0e116f06556c009fe09ec446a04093942e4e5052bcad98c8c1e65af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55baf261d8b9d87a6e299e065b6daaac82bbeacbe9d6c06f0513ba10c4fe74a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão Concelhia de Saúde
 - Administração Regional de Saúde
-- Política de Saúde
+- Centro de Saúde
+- Comissão Concelhia de Saúde
 - Extinção de Serviços
 - Integração de Trabalhadores
-- Centro de Saúde
 - Ministério da Saúde
+- Política de Saúde
 - Regime de Instalação
 - Regulamento
 - Serviço Regional
@@ -81,6 +81,32 @@ relationships:
   target: pt:dre:638525:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198732:por
+  label: "Prorrogado o regime de instalação a que se refere o nº 1 do art. 29º pelo DEC LEI.30/95.1995.02.09.MS, DR.IS-A [34]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1995-198732
+  date: '1995-02-09'
+- type: amended_by
+  target: pt:dre:468393:por
+  label: "Prorrogado até 31 de Dezembro de 1996, o Regime de Instalação das Administrações Regionais de Saúde a que se refere\
+    \ o nº 1 do art. 29.º pelo DEC LEI.45/96.1996.05.11.MS DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1996-468393
+  date: '1996-05-11'
+- type: amended_by
+  target: pt:dre:331179:por
+  label: "Alterado o art. 30.º pelo DEC LEI.157/99.1999.05.10.MS DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1999-331179
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:671045:por
+  label: "Transferidas as atribuições, bens, direitos e obrigações tutelados pela DGIES e afectos ou inerentes às atribuições\
+    \ das Direcções Regionais das Instalações e Equipamentos da Saúde do Norte, do Centro, de Lisboa e Vale do Tejo e do Algarve,\
+    \ para as Administrações Regionais da Saúde (ARS) com a mesma delimitação geográfica; e criados, até à reestruturação\
+    \ destas, novos serviços nas ARS do Algarve, do Alentejo, do Norte e do Centro, tudo pelo DEC LEI.158/2003.2003.07.18.MS\
+    \ DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2003-671045
+  date: '2003-07-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -89,16 +115,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:331072:por
+  label: "Revogado o n.º 2 do art. 13.º e os art.s 18.º a 21.º do presente diploma, com efeitos á data da entrada em vigor\
+    \ das Portarias conjuntas previstas no n.º 3 do art. 16.º do presente diploma; revoga os arts. 9.º e 10.º com efeitos:\
+    \ a) à data da criação do último SLS numa determinada sub-região de saúde; b)findo o período de três anos referido no\
+    \ n.º 2 do art. 16.º, no caso de a sub-região de saúde ser integralmente abrangida por um único SLS, pelo DEC LEI.156/99.1999.05.10.MS\
+    \ DR.IS-A [108]\008]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-1999-331072
+  date: '1999-05-10'
+- type: repealed_by
+  target: pt:dre:352956:por
+  label: "Revogado o nº 5 do art. 18º pelo DEC LEI.286/99.1999.07.27.MS, DR.IS-A [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1999-352956
+  date: '1999-07-27'
+- type: repealed_by
+  target: pt:dre:638525:por
+  label: Revogado, a partir de 01.06.2007 e sem prejuízo do disposto no nº 6 do art. 17º, mantendo-se em vigor até à extinção
+    definitiva de todas as sub-regiões de saúde, a al. c) do nº 2 do art. 4º, os arts. 9º e 10º, o nº 2 do art. 13º, os artigos
+    18º a 21º e o art. 30º, determinado que são desde já extintas (nos termos do nº 6 do art. 26º do Dec Lei 212/2006 de 27-Out),
+    as sub-regiões de saúde correspondentes às áreas dos distritos do continente que coincidam com as sedes das ARS, IP, transferindo-se
+    as suas atribuições para as ARS,IP, determinado ainda que é extinta, na sequência do disposto no art. 1º do Dec Lei 50-B/2007
+    de 28-Fev, a sub-região de saúde de Portalegre, todas elas previstas no presente diploma, bem como na Base XVIII da Lei
+    de Bases da Saúde, aprovada pela Lei 48/90 de 24-Ago, regulamentada pelo Dec Lei 11/93 de 15-Jan, pelo DEC LEI.222/2007.29.05.2007.MS,
+    DR.IS [103] de 29.05.2007�7
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2007-638525
+  date: '2007-05-29'
 article_structure:
   article_count: 33
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:57Z'
   warnings: []
   errors: []
 ---
@@ -527,7 +607,9 @@ l) Avaliar a gestão das instituições ou serviços, dentro da sua área de com
 
 3 - A Direcção de Serviços de Administração Geral compreende as Divisões de Gestão de Recursos Humanos e de Gestão Financeira, com as competências previstas nas alíneas a) a c) e d) a l) do número anterior, respectivamente.
 
-###### Artigo 20.º — Divisão de Apoio Técnico
+###### Artigo 20.º
+
+##### Divisão de Apoio Técnico
 
 À Divisão de Apoio Técnico compete, em especial:
 
@@ -649,12 +731,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Martins Nunes.
 
-**Promulgado em 9 de Setembro de 1993.**
+Promulgado em 9 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1993.**
+Referendado em 10 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

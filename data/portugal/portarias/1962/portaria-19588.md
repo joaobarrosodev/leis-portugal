@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19588-1962-154781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dcef5cd26ece51fc7cc2bcfd8bfaddf086a9f17c1fb345d09926189158d784c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cacc509e361430668bb9b8508b82432fe4879a710f1dc8e23df19ad23fb1f404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:33Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +108,9 @@ a) Reforçar com a quantia de 30000$00 a verba do capítulo 10.º, artigo 289.º
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 289.º, n.º 5), alínea b) «Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na província» ... 10000$00
+Artigo 289.º, n.º 5), alínea b) «Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na província» ... 10000$00
 
-###### Artigo 290.º «Diversas despesas»:
+Artigo 290.º «Diversas despesas»:
 
 N.º 4), alínea a) «Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Primeiras passagens» ... 10000$00
 
@@ -106,11 +122,11 @@ b) Reforçar com a quantia de 40000$00 a verba do capítulo 10.º, artigo 289.º
 
 ### CAPÍTULO 7.º — Serviços de transportes aéreos
 
-###### Artigo 243.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 10000$00
+Artigo 243.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 10000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 290.º, n.º 35) «Diversas despesas - Aquisição de viaturas com motor» ... 30000$00
+Artigo 290.º, n.º 35) «Diversas despesas - Aquisição de viaturas com motor» ... 30000$00
 
 ... 40000$00
 

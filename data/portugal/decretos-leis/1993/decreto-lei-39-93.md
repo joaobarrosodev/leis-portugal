@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/1993/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1993-648137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64ab5ddc02f7f7d3d96dd6c5509b67e535ca5d55eb95f98ff0ee569e10fe44bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69c1ba08742c53ba7e11423092f988f199626ea05db1af678a9d72566bfa2cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Sociedade Anónima
 - Capital Social
 - Criação de Empresas
-- Portucel
 - Estatuto
-- Setor Empresarial do Estado
-- Reestruturação Industrial
+- Gestão de Recursos Humanos
+- Portucel
 - Portucel SGPS
 - Reestruturação de Empresas
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
+- Reestruturação Industrial
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Transferência Patrimonial
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:03Z'
   warnings: []
   errors: []
 ---
@@ -109,19 +133,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., procederá à constituição de novas sociedades, cujo capital social será realizado por entradas em espécie mediante transmissão do seu património, ficando a pertencer, para todos os efeitos, à PORTUCEL as acções representativas do capital das novas sociedades.
+Artigo 1.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., procederá à constituição de novas sociedades, cujo capital social será realizado por entradas em espécie mediante transmissão do seu património, ficando a pertencer, para todos os efeitos, à PORTUCEL as acções representativas do capital das novas sociedades.
 
 2 - Das sociedades constituídas nos termos do número anterior poderão ainda destacar-se patrimónios e com eles constituir-se novas sociedades, de acordo com o plano de reestruturação previsto no artigo 4.º
 
-###### Art. 2.º - 1 - Para efeitos do disposto no artigo anterior, o conselho de administração da PORTUCEL promoverá a avaliação do respectivo património, designadamente o imobilizado e as plantações, ou a actualização de avaliação já anteriormente efectuada.
+Art. 2.º - 1 - Para efeitos do disposto no artigo anterior, o conselho de administração da PORTUCEL promoverá a avaliação do respectivo património, designadamente o imobilizado e as plantações, ou a actualização de avaliação já anteriormente efectuada.
 
 2 - A avaliação a efectuar nos termos previstos no número anterior será feita por entidade escolhida de entre as previamente qualificadas pelo Ministério das Finanças e será submetida pelo conselho de administração à aprovação da assembleia geral.
 
-###### Art. 3.º - 1 - A transmissão de património, designadamente o imobilizado e as plantações, para as sociedades a constituir, como entradas em espécie, para realização do seu capital social, ou a título de suprimentos, será efectuada pelos valores patrimoniais resultantes da avaliação prevista no artigo anterior.
+Art. 3.º - 1 - A transmissão de património, designadamente o imobilizado e as plantações, para as sociedades a constituir, como entradas em espécie, para realização do seu capital social, ou a título de suprimentos, será efectuada pelos valores patrimoniais resultantes da avaliação prevista no artigo anterior.
 
 2 - As mais-valias resultantes da avaliação, transmitidas nos termos do número anterior, consideram-se aplicações financeiras, nos termos e para os efeitos do disposto no artigo 18.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho.
 
-###### Art. 4.º - 1 - O conselho de administração da PORTUCEL submeterá à aprovação da assembleia geral, acompanhado da avaliação referida no artigo 2.º, o plano geral das novas sociedades a criar e do património a destacar para cada uma delas, com menção e justificação, designadamente, dos seguintes pontos para cada uma das sociedades cuja constituição esteja prevista:
+Art. 4.º - 1 - O conselho de administração da PORTUCEL submeterá à aprovação da assembleia geral, acompanhado da avaliação referida no artigo 2.º, o plano geral das novas sociedades a criar e do património a destacar para cada uma delas, com menção e justificação, designadamente, dos seguintes pontos para cada uma das sociedades cuja constituição esteja prevista:
 
 a) Definição da sua actividade;
 
@@ -133,41 +157,41 @@ d) Contratos de trabalho a transmitir.
 
 2 - O estatuto referido na alínea c) do número anterior deverá respeitar o modelo tipo que consta do anexo ao presente diploma.
 
-###### Art. 5.º Não é aplicável ao Estado, relativamente à PORTUCEL, nem a esta, relativamente às sociedades constituídas ao abrigo dos n.os 1 e 2 do artigo 1.º, o disposto nos artigos 501.º a 504.º do Código das Sociedades Comerciais.
+Art. 5.º Não é aplicável ao Estado, relativamente à PORTUCEL, nem a esta, relativamente às sociedades constituídas ao abrigo dos n.os 1 e 2 do artigo 1.º, o disposto nos artigos 501.º a 504.º do Código das Sociedades Comerciais.
 
-###### Art. 6.º - 1 - Cada uma das novas sociedades terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado a esse título.
+Art. 6.º - 1 - Cada uma das novas sociedades terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado a esse título.
 
 2 - A cobertura do capital das novas sociedades pela parte do património destacado será certificada por um revisor oficial de contas.
 
-###### Art. 7.º A constitutição das novas sociedades previstas neste diploma será documentada apenas pelas actas das assembleias gerais de onde constem as respectivas deliberações, as quais constituem título suficiente para os necessários registos.
+Art. 7.º A constitutição das novas sociedades previstas neste diploma será documentada apenas pelas actas das assembleias gerais de onde constem as respectivas deliberações, as quais constituem título suficiente para os necessários registos.
 
-###### Art. 8.º - 1 - São transmitidas para as sociedades constituídas nos termos do presente diploma as posições jurídicas em contratos celebrados pela PORTUCEL, nomeadamente de arrendamento e de trabalho, relativamente aos interesses que passam a ser prosseguidos por aquelas, sem prejuízo da manutenção das garantias a elas inerentes.
+Art. 8.º - 1 - São transmitidas para as sociedades constituídas nos termos do presente diploma as posições jurídicas em contratos celebrados pela PORTUCEL, nomeadamente de arrendamento e de trabalho, relativamente aos interesses que passam a ser prosseguidos por aquelas, sem prejuízo da manutenção das garantias a elas inerentes.
 
 2 - Os trabalhadores cujos contratos sejam transmitidos nos termos do número anterior mantêm perante a nova sociedade a que ficam afectos os direitos e regalias que possuíam na PORTUCEL.
 
-###### Art. 9.º A PORTUCEL e as sociedades a constituir nos termos do presente diploma beneficiam, para efeitos do respectivo processo de privatização, das isenções estabelecidas no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, designadamente de sisa, imposto do selo e emolumentos notariais e de registo comercial, predial e automóvel, e da possibilidade de transferência de prejuízos fiscais prevista no n.º 6 do artigo 62.º do Código do IRC.
+Art. 9.º A PORTUCEL e as sociedades a constituir nos termos do presente diploma beneficiam, para efeitos do respectivo processo de privatização, das isenções estabelecidas no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, designadamente de sisa, imposto do selo e emolumentos notariais e de registo comercial, predial e automóvel, e da possibilidade de transferência de prejuízos fiscais prevista no n.º 6 do artigo 62.º do Código do IRC.
 
-###### Art. 10.º As sociedades constituídas nos termos deste diploma podem emitir obrigações, nos termos estabelecidos na lei, desde o momento da sua constituição.
+Art. 10.º As sociedades constituídas nos termos deste diploma podem emitir obrigações, nos termos estabelecidos na lei, desde o momento da sua constituição.
 
-###### Art. 11.º - 1 - Depois de efectuadas as operações previstas no artigo 1.º do presente diploma, a PORTUCEL passará a ter por objecto único a gestão de participações sociais, devendo modificar os seus estatutos e adaptar a sua firma nos termos do artigo 2.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
+Art. 11.º - 1 - Depois de efectuadas as operações previstas no artigo 1.º do presente diploma, a PORTUCEL passará a ter por objecto único a gestão de participações sociais, devendo modificar os seus estatutos e adaptar a sua firma nos termos do artigo 2.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
 
 2 - A modificação referida no número anterior será titulada pela acta da assembleia geral de onde conste essa deliberação, a qual constituirá título suficiente para efeitos de registo, com isenção de emolumentos.
 
 3 - As acções das sociedades criadas nos termos deste dipoma poderão ser total ou parcialmente alienadas, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, sem por isso ser afectada a PORTUCEL como sociedade gestora de participações sociais (SGPS).
 
-###### Art. 12.º - A PORTUCEL, SGPS, deverá enviar trimestralmente aos Ministérios das Finanças e da Indústria e Energia elementos relativos à situação económica e financeira das sociedades participadas e ao controlo dessas mesmas sociedades, até ao termo dos respectivos processos de reprivatização.
+Art. 12.º - A PORTUCEL, SGPS, deverá enviar trimestralmente aos Ministérios das Finanças e da Indústria e Energia elementos relativos à situação económica e financeira das sociedades participadas e ao controlo dessas mesmas sociedades, até ao termo dos respectivos processos de reprivatização.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.
 
-**Promulgado em 15 de Janeiro de 1993.**
+Promulgado em 15 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Janeiro de 1993.**
+Referendado em 20 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 
@@ -175,13 +199,13 @@ Projecto dos estatutos das sociedades a criar por destaque de património da POR
 
 ### CAPÍTULO I — Firma, sede e objecto
 
-###### Artigo 1.º Por destaque do património da ..., nos termos do Decreto-Lei n.º 39/93, de 13 de Fevereiro, e de harmonia com a deliberação tomada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
+Artigo 1.º Por destaque do património da ..., nos termos do Decreto-Lei n.º 39/93, de 13 de Fevereiro, e de harmonia com a deliberação tomada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
 
-###### Art. 2.º - 1 - A sociedade tem a sua sede social em ...
+Art. 2.º - 1 - A sociedade tem a sua sede social em ...
 
 2 - Por deliberação do conselho de administração, a sociedade poderá criar e manter, em qualquer ponto do território nacional ou fora dele, agências, delegações ou qualquer outra forma de representação, bem como, ouvido o conselho fiscal, deslocar a sua sede dentro do concelho de ... ou para concelho limítrofe.
 
-###### Art. 3.º - 1 - O objecto social consiste ...
+Art. 3.º - 1 - O objecto social consiste ...
 
 2 - A sociedade pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais, industriais e financeiras relacionadas, directa e indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
 
@@ -189,29 +213,29 @@ Projecto dos estatutos das sociedades a criar por destaque de património da POR
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de ... e está integralmente realizado, em conformidade com o disposto no Decreto-Lei n.º 39/93, de 13 de Fevereiro.
+Art. 4.º - 1 - O capital social é de ... e está integralmente realizado, em conformidade com o disposto no Decreto-Lei n.º 39/93, de 13 de Fevereiro.
 
 2 - O capital é dividido em ... acções, com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções representativas do capital inicial da sociedade são nominativas e emitidas como acções escriturais.
+Art. 5.º - 1 - As acções representativas do capital inicial da sociedade são nominativas e emitidas como acções escriturais.
 
 2 - As acções podem ser tituladas a pedido e à custa dos interessados, podendo, nessa hipótese, haver títulos de 1 até 10000 acções.
 
-###### Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções, na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
+Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções, na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-###### Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos membros dos órgãos da sociedade é de três anos e é renovável.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
+Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
 
 2 - Compete essencialmente à assembleia geral:
 
@@ -227,31 +251,31 @@ e) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, pa
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 10.º - 1 - As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais.
+Art. 10.º - 1 - As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais.
 
 2 - Relativamente a accionistas titulares de acções nominativas, é sempre indispensável a convocação por carta registada.
 
-###### Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar em primeira convocação é indispensável a presença ou representação de accionistas que detenham pelo menos 51% do capital social.
+Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar em primeira convocação é indispensável a presença ou representação de accionistas que detenham pelo menos 51% do capital social.
 
 2 - Tanto em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação ou dissolução da sociedade, aquisição ou alienação de acções próprias ou de participações noutras sociedades ou em agrupamentos complementares de empresas devem ser aprovadas por 51% dos votos correspondentes ao capital social, sem qualquer dedução no caso de existirem impedimentos de voto.
 
-###### Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á um voto por cada 100 acções e só os accionistas titulares de direito de voto poderão participar na assembleia.
+Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á um voto por cada 100 acções e só os accionistas titulares de direito de voto poderão participar na assembleia.
 
-###### Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
+Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
 
 2 - A mesa é eleita pela própria assembleia, de entre os accionistas, ou de entre outras pessoas, sendo as suas faltas supridas nos termos da lei comercial.
 
-###### Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem pelo menos 5% do capital social.
+Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem pelo menos 5% do capital social.
 
 #### SECÇÃO II — Administração
 
-###### Art. 15.º - 1 - O conselho de administração é composto por três ou cinco administradores, eleitos pela assembleia geral.
+Art. 15.º - 1 - O conselho de administração é composto por três ou cinco administradores, eleitos pela assembleia geral.
 
 2 - É aplicável o disposto nos n.os 6 e 7 do artigo 392.º do Código das Sociedades Comerciais.
 
 3 - Não estando fixado expressamente pela assembleia geral o número de administradores, entender-se-á que tal número é o dos administradores efectivamente eleitos.
 
-###### Art. 16.º Ao conselho de administração compete especialmente:
+Art. 16.º Ao conselho de administração compete especialmente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -265,11 +289,11 @@ e) Estabelecer a organização técnico-administrativa da sociedade e as normas 
 
 f) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer.
 
-###### Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou ainda, se os administradores forem cinco, numa comissão executiva constituída por três administradores.
+Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou ainda, se os administradores forem cinco, numa comissão executiva constituída por três administradores.
 
 2 - A aquisição e alienação de participações sociais, embora autorizadas pela assembleia geral, não se incluem nos poderes delegáveis.
 
-###### Art. 18.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 18.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -281,7 +305,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -293,27 +317,27 @@ c) Pela assinatura dos mandatários constituídos, nos termos dos correspondente
 
 3 - Os títulos, provisórios ou definitivos, representativos das acções da sociedade devem ter a assinatura de dois administradores, podendo uma delas ser substituída por reprodução mecânica ou chancela.
 
-###### Art. 20.º - 1 - O conselho de administração deve reunir pelo menos uma vez em cada quinzena.
+Art. 20.º - 1 - O conselho de administração deve reunir pelo menos uma vez em cada quinzena.
 
 2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros em exercício.
 
 3 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 21.º As remunerações dos administradores, que podem ser diferenciadas, são fixadas pela assembleia geral.
+Art. 21.º As remunerações dos administradores, que podem ser diferenciadas, são fixadas pela assembleia geral.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 22.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
+Art. 22.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
 
 2 - Os membros efectivos e os suplentes serão eleitos pela assembleia geral, que designará o presidente e fixará as remunerações.
 
-###### Art. 23.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei comercial.
+Art. 23.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei comercial.
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
 ### CAPÍTULO IV — Distribuição dos resultados
 
-###### Art. 24.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
+Art. 24.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
 
 a) À constituição e, eventualmente, à reintegração da reserva legal;
 
@@ -323,6 +347,6 @@ c) A dividendos a distribuir pelos accionistas.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 25.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 25.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

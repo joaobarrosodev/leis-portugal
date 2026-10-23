@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/1992/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1992-500417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14296f43cc3c9e3d1ef2e57cf8320b9e9e0f31a3f56364f7ab29f5defb126bdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d957dd82a970d8b386fb5dc2a53269b8801d71283035f029be0556ba5d7e230b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,20 +80,36 @@ relationships:
   target: pt:dre:626218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584782:por
+  label: "Alterado o 16.º do Decreto-Lei n.º 451/91, de 4 de Dezembro, na redacção do presente diploma, pelo DEC LEI.17/93.23.01.1993.PCM,\
+    \ DR.IS-A [19] de 23.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1993-584782
+  date: '1993-01-23'
+- type: amended_by
+  target: pt:dre:626218:por
+  label: "Alterado o art. 16º do Dec Lei 451/91, de 04-dez, na redação do presente diploma, pelo DEC LEI.258/94.22.10.1994.PCM,\
+    \ DR.IS-A [245] de 22.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1994-626218
+  date: '1994-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:10Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +124,9 @@ Assim:
 
 Nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º, 6.º, 8.º, 16.º e 26.º do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 4.º, 6.º, 8.º, 16.º e 26.º do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º Integram o Governo, os seguintes ministros:
+Art. 2.º Integram o Governo, os seguintes ministros:
 
 a) Ministro da Presidência;
 
@@ -146,7 +162,7 @@ q) Ministro do Mar;
 
 r) Ministro Adjunto.
 
-###### Art. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência e do Ministro Adjunto e ainda os serviços e organismos nela integrados por diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
+Art. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência e do Ministro Adjunto e ainda os serviços e organismos nela integrados por diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
 
 2 - ...
 
@@ -170,7 +186,7 @@ i) Subsecretário de Estado Adjunto do Secretário de Estado da Cultura.
 
 3 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros.
 
@@ -180,7 +196,7 @@ a) A Comissão Nacional para as Comemorações dos Descobrimentos Portugueses;
 
 b) O Comissariado de Portugal para a Exposição Universal de Sevilha de 1992.
 
-###### Art. 8.º - 1 - Ao Ministro Adjunto compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Art. 8.º - 1 - Ao Ministro Adjunto compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - O Ministro Adjunto é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Parlamentares, pelo Secretário de Estado da Juventude e pelo Subsecretário de Estado Adjunto do Ministro Adjunto.
 
@@ -190,11 +206,11 @@ a) O Instituto da Juventude;
 
 b) O Gabinete do Serviço Cívico dos Objectores de Consciência.
 
-###### Art. 16.º - 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Ensino Superior, pelo Secretário de Estado dos Recursos Educativos e pelo Secretário de Estado dos Ensinos Básico e Secundário.
+Art. 16.º - 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Ensino Superior, pelo Secretário de Estado dos Recursos Educativos e pelo Secretário de Estado dos Ensinos Básico e Secundário.
 
 2 - ...
 
-###### Art. 26.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo, o Ministro do Ambiente e Recursos Naturais, o Ministro do Mar e o Ministro Adjunto.
+Art. 26.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo, o Ministro do Ambiente e Recursos Naturais, o Ministro do Mar e o Ministro Adjunto.
 
 2 - ...
 
@@ -214,12 +230,12 @@ Art.º 2.º O presente diploma produz efeitos desde o dia 19 de Março de 1992.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Duarte Ivo Cruz - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro Azevedo Soares - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 22 de Abril de 1992.**
+Promulgado em 22 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1992.**
+Referendado em 27 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/171a00/39823988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/260/1993/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1993-346485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ef790fa89df2dcd748573c9584507d732d7bab4a0e6a6c7d928c13113d340a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 992e353e2564fd0a83514feaa7ad284b9f425c297dbfbd409608686bd0f4ffe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- ÁREA de Jurisdição
 - Aveiro
+- Beja
 - Braga
+- Bragança
+- Castelo Branco
 - Centro Regional de Segurança Social
 - Centro Regional de Segurança Social de Lisboa e VALE do TEJO
-- Centro Regional de Segurança Social do Norte
 - Centro Regional de Segurança Social do Alentejo
 - Centro Regional de Segurança Social do Algarve
 - Centro Regional de Segurança Social do Centro
+- Centro Regional de Segurança Social do Norte
+- Coimbra
 - Definição de Competências
+- Évora
 - Extinção de Serviços
 - Faro
-- Lisboa
+- Guarda
 - Integração de Trabalhadores
-- ÁREA de Jurisdição
 - Leiria
+- Lisboa
 - Ministério do Emprego e da Segurança Social
 - Orgânica
-- Setúbal
-- Beja
-- Castelo Branco
-- Vila Real
-- Coimbra
 - Portalegre
+- Porto
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Regime de Instalação
 - Regime Jurídico
 - Santarém
-- Bragança
-- Évora
-- Porto
-- Guarda
+- Setúbal
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:325765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA SOLIDARIEDADE E SEGURANÇA SOCIAL ATRAVES DO DEC LEI 296-A/95 DE 17-NOV\
+    \ DR.IS-A [266]SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:325765:por
+  label: "Extintos os Centros Regionais de Segurança Social e revogado o presente diploma, pelo DEC LEI.316-A/2000.2000.12.07.MTS\
+    \ DR.IS-A [282]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-a-2000-325765
+  date: '2000-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1992/05/30/p/dre
   label: null
@@ -112,16 +124,87 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/208/1991/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/208/1991/06/07/p/dre
+- type: cites
+  target: pt:dre:180588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658225:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:566795:por
+  label: "Rectificado o artigo 11.º pela DECL-RECT.151/93.31.08.1993.PCM, DR.IS-A [204]3ºSupl de 31.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/151-1993-566795
+  date: '1993-08-31'
+- type: repealed_by
+  target: pt:dre:604208:por
+  label: "Revogada a norma do nº 2 do art. 2º pelo DEC LEI.4/96.1996.01.27.MSSS, DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1996-604208
+  date: '1996-01-27'
+- type: repealed_by
+  target: pt:dre:516029:por
+  label: "Revogado o nº 5 do art. 10º pelo DEC LEI.115/98.1998.05.04.MTS, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1998-516029
+  date: '1998-05-04'
 article_structure:
   article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:25:17Z'
   warnings: []
   errors: []
 ---
@@ -604,12 +687,12 @@ O presente diploma entra em vigor no dia 1 de Setembro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 7 de Julho de 1993.**
+Promulgado em 7 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Julho de 1993.**
+Referendado em 11 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

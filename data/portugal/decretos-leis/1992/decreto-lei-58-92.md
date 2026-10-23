@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/1992/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34221b730a7d233d8ca6cc00efea47dd77f0ac9af56232b09a7192e738a710fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d54b05750d50ef8d0caa6bcda1454e3054c7826d6cdc82c1681107c1f7cbb49f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,35 @@ relationships:
   target: pt:dre:265553:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265553:por
+  label: "Alterado o art. 2º do Dec Lei 453/91 de 11-Dez, na redação do presente diploma, pelo DEC LEI.142/94.1994.05.23.MOPTC,\
+    \ DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1994-265553
+  date: '1994-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre
+- type: cites
+  target: pt:dre:392016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:623464:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 102/92, PUBLICADA NO DR.IS-A, 175 3SUPL, DE 920731.\020731."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/102-1992-623464
+  date: '1992-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:41Z'
   warnings: []
   errors: []
 ---
@@ -108,26 +123,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - O capital social da ANAM, S. A, é de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 60%, pela Região Autónoma da Madeira (RAM), em 20%, e pela ANA - Aeroportos e Navegação Aérea, E. P., em 20%.
+Art. 2.º - 1 - O capital social da ANAM, S. A, é de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 60%, pela Região Autónoma da Madeira (RAM), em 20%, e pela ANA - Aeroportos e Navegação Aérea, E. P., em 20%.
 
 2 - ...
 
 3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º O artigo 4.º dos Estatutos da ANAM, S. A., constantes do anexo ao [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 4.º dos Estatutos da ANAM, S. A., constantes do anexo ao [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º O capital social é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 30000000$00, pela Região Autónoma da Madeira, no montante de 10000000$00, e pela ANA - Aeroportos e Navegação Aérea, E. P., no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.
+Art. 4.º O capital social é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 30000000$00, pela Região Autónoma da Madeira, no montante de 10000000$00, e pela ANA - Aeroportos e Navegação Aérea, E. P., no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1992. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 2 de Abril de 1992.**
+Promulgado em 2 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Abril de 1992.**
+Referendado em 4 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

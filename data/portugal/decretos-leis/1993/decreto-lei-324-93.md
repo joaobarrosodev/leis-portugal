@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f50e9b60b6f0e90b1a8d3fff175a1044c1bbb41986665cbae493f8acef94905
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5447aab66bce218e754fd2342599fa2820d6e0418eff96f7be5024d0505fbb2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,67 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
+- ÁREA de Jurisdição
 - Conselho Técnico Aduaneiro
 - Criação de Serviços
 - Definição de Competências
+- Descrição de Funções
 - Deslocação em Serviço
 - Direcção Geral das Alfândegas
 - Formas de Provimento
+- Inspeção Geral de Finanças
 - Integração de Trabalhadores
-- ÁREA de Jurisdição
+- Mobilidade de Pessoal
 - Orgânica
-- Tabaco
-- Descrição de Funções
 - Pessoal de Chefia
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Mobilidade de Pessoal
 - Serviços Periféricos
 - Subsídio de Deslocação
 - Subsídio de Transporte
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:124324704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265761:por
+  label: "Alterado o quadro de pessoal constante dos anexos III e IV, pela PORT.224/94.14.04.1994.MF, DR.IS-B [87] de 14.04.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-1994-265761
+  date: '1994-04-14'
+- type: amended_by
+  target: pt:dre:534657:por
+  label: "Alterado o art. 44º, pelo DEC LEI.286/94.1994.11.14.MF, DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1994-534657
+  date: '1994-11-14'
+- type: amended_by
+  target: pt:dre:513056:por
+  label: "Alterado o quadro de pessoal dirigente constante da Portaria 531-A/93, de 20 de Maio, na redacção do anexo III ao\
+    \ presente diploma, pela PORT.395/95.03.05.1995.MF, DR.IS-B [102] de 03.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1995-513056
+  date: '1995-05-03'
+- type: amended_by
+  target: pt:dre:436420:por
+  label: "Alterado o quadro de pessoal constante do anexo III do presente diploma, pela PORT.203/96.07.06.1996.PCM, DR.IS-B\
+    \ [132] de 07.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-1996-436420
+  date: '1996-06-07'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Determinada a transição para a Direcção Geral de Informática e Apoio aos serviços Tributários e Aduaneiros da Direcção\
+    \ de Serviços de Sistemas de Informação, previstas no art. 16.º do presente diploma, pelo DEC LEI.158/96.1996.09.03.MF\
+    \ DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:321679:por
+  label: "Ratificado o anexo I a que se refere o art. 40º do presente diploma, pela PORT.1279/97.1997.12.31.MF DR.IS-B [301]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1279-1997-321679
+  date: '1997-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -111,16 +147,105 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/531-a/1993/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/531-a/1993/05/20/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:265762:por
+  label: Rectificado o anexo I a que se refere o artigo 40.º, pela PORT.225/94.14.04.1994.MF, DR.IS-B [87] de 14.04.1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-1994-265762
+  date: '1994-04-14'
+- type: corrected_by
+  target: pt:dre:363904:por
+  label: Rectificados os anexos I e II a que se referem os artigos 40.º e 41.º pela PORT.5/95.04.01.1995.MF, DR.IS-B [3] de
+    04.01.1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-1995-363904
+  date: '1995-01-04'
+- type: corrected_by
+  target: pt:dre:185490:por
+  label: Rectificado o anexo I a que se refere o artigo 40.º pela PORT.193/95.17.03.1995.MF, DR.IS-B [65] de 17.03.1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-1995-185490
+  date: '1995-03-17'
+- type: repealed_by
+  target: pt:dre:218950:por
+  label: "Revogados os arts. 16º a 19º, pelo DEC LEI.51/98.1998.03.11.MF DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1998-218950
+  date: '1998-03-11'
+- type: repealed_by
+  target: pt:dre:354699:por
+  label: "Revogados os arts. 64.º a 66.º, pelo DEC LEI.273/99.1999.07.22.MF DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1999-354699
+  date: '1999-07-22'
+- type: repealed_by
+  target: pt:dre:570293:por
+  label: "Revogados os arts. 1º, 2º, 5º, 8º e 12º pelo DEC LEI.360/99.1999.09.16.MF,DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1999-570293
+  date: '1999-09-16'
+- type: repealed_by
+  target: pt:dre:520466:por
+  label: "Revogados os n.ºs 4 e 5 do artigo 53.º e os artigos 69.º e 70.º do presente diploma, pelo DEC LEI.82/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2007-520466
+  date: '2007-03-29'
+- type: repealed_by
+  target: pt:dre:164404:por
+  label: "Revogado o Dec Lei 281/91 de 09-ago, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: repealed_by
+  target: pt:dre:124324704:por
+  label: Revogados, a partir de 01.01.2020, os n.ºs 1, 2 e 3 do art. 53.º e os arts. 54.º, 55.º, 56.º, 57.º, 58.º, 60.º e
+    61.º do presente diplomam, pelo(a) Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2019-124324704
+  date: '2019-08-30'
 article_structure:
   article_count: 71
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:47Z'
   warnings: []
   errors: []
 ---
@@ -317,7 +442,9 @@ a) Divisão de Gestão de Recursos Humanos;
 
 b) Divisão de Formação.
 
-###### Artigo 11.º — Divisão de Gestão de Recursos Humanos
+###### Artigo 11.º
+
+##### Divisão de Gestão de Recursos Humanos
 
 1 - À Divisão de Gestão de Recursos Humanos compete:
 
@@ -335,7 +462,9 @@ f) Elaborar o balanço social.
 
 2 - A Divisão de Gestão de Recursos Humanos é dirigida por um chefe de divisão.
 
-###### Artigo 12.º — Divisão de Formação
+###### Artigo 12.º
+
+##### Divisão de Formação
 
 1 - À Divisão de Formação compete:
 
@@ -411,7 +540,9 @@ b) A Secção do Património, com as competências estabelecidas nas alíneas h)
 
 4 - As secções previstas no número anterior são dirigidas por chefes de secção.
 
-###### Artigo 15.º — Divisão dos Recursos Próprios Comunitários e da Receita Nacional
+###### Artigo 15.º
+
+##### Divisão dos Recursos Próprios Comunitários e da Receita Nacional
 
 1 - À Divisão dos Recursos Próprios Comunitários e da Receita Nacional compete:
 
@@ -449,7 +580,9 @@ b) Divisão de Concepção de Sistemas Informáticos;
 
 c) Divisão de Exploração e Comunicações.
 
-###### Artigo 17.º — Divisão de Organização e Desenvolvimento Tecnológico
+###### Artigo 17.º
+
+##### Divisão de Organização e Desenvolvimento Tecnológico
 
 1 - À Divisão de Organização e Desenvolvimento Tecnológico compete:
 
@@ -469,7 +602,9 @@ g) Proceder à uniformização de conceitos e normalização de suportes e proce
 
 2 - A Divisão de Organização e Desenvolvimento Tecnológico é dirigida por um chefe de divisão.
 
-###### Artigo 18.º — Divisão de Concepção de Sistemas Informáticos
+###### Artigo 18.º
+
+##### Divisão de Concepção de Sistemas Informáticos
 
 1 - À Divisão de Concepção de Sistemas Informáticos compete:
 
@@ -485,7 +620,9 @@ e) Garantir a produção e qualidade dos produtos informacionais resultantes do 
 
 2 - A Divisão de Concepção de Sistemas Informáticos é dirigida por um chefe de divisão.
 
-###### Artigo 19.º — Divisão de Exploração e Comunicações
+###### Artigo 19.º
+
+##### Divisão de Exploração e Comunicações
 
 1 - À Divisão de Exploração e Comunicações compete:
 
@@ -567,7 +704,9 @@ a) Divisão de Nomenclatura e Gestão Pautal;
 
 b) Divisão de Origens e Valor Aduaneiro.
 
-###### Artigo 23.º — Divisão de Nomenclatura e Gestão Pautal
+###### Artigo 23.º
+
+##### Divisão de Nomenclatura e Gestão Pautal
 
 1 - À Divisão de Nomenclatura e Gestão Pautal compete:
 
@@ -593,7 +732,9 @@ j) Proceder ao exame sumário dos autos em processos de contestação sobre clas
 
 2 - A Divisão de Nomenclatura e Gestão Pautal é dirigida por um chefe de divisão.
 
-###### Artigo 24.º — Divisão de Origens e Valor Aduaneiro
+###### Artigo 24.º
+
+##### Divisão de Origens e Valor Aduaneiro
 
 1 - À Divisão de Origens e Valor Aduaneiro compete:
 
@@ -623,7 +764,9 @@ a) Divisão de Circulação de Mercadorias;
 
 b) Divisão de Regimes Aduaneiros.
 
-###### Artigo 26.º — Divisão de Circulação de Mercadorias
+###### Artigo 26.º
+
+##### Divisão de Circulação de Mercadorias
 
 1 - À Divisão de Circulação de Mercadorias compete:
 
@@ -653,7 +796,9 @@ m) Analisar e emitir pareceres ou informações sobre questões relacionadas com
 
 2 - A Divisão de Circulação de Mercadorias é dirigida por um chefe de divisão.
 
-###### Artigo 27.º — Divisão de Regimes Aduaneiros
+###### Artigo 27.º
+
+##### Divisão de Regimes Aduaneiros
 
 1 - À Divisão de Regimes Aduaneiros compete:
 
@@ -679,7 +824,9 @@ a) Divisão do Imposto sobre os Óleos Minerais;
 
 b) Divisão do Imposto sobre os Veículos Automóveis.
 
-###### Artigo 29.º — Divisão do Imposto sobre os Óleos Minerais
+###### Artigo 29.º
+
+##### Divisão do Imposto sobre os Óleos Minerais
 
 1 - À Divisão do Imposto sobre os Óleos Minerais compete:
 
@@ -703,7 +850,9 @@ i) Colaborar com outros organismos do Estado no controlo da utilização dos pro
 
 2 - A Divisão do Imposto sobre os Óleos Minerais é dirigida por um chefe de divisão.
 
-###### Artigo 30.º — Divisão do Imposto sobre os Veículos Automóveis
+###### Artigo 30.º
+
+##### Divisão do Imposto sobre os Veículos Automóveis
 
 1 - À Divisão do Imposto sobre os Veículos Automóveis compete:
 
@@ -731,7 +880,9 @@ a) Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas;
 
 b) Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado.
 
-###### Artigo 32.º — Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas
+###### Artigo 32.º
+
+##### Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas
 
 1 - À Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas compete:
 
@@ -747,7 +898,9 @@ e) Colaborar com os serviços competentes na execução da política fiscal defi
 
 2 - A Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas é dirigida por um chefe de divisão.
 
-###### Artigo 33.º — Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado
+###### Artigo 33.º
+
+##### Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado
 
 1 - À Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado compete:
 
@@ -781,7 +934,9 @@ b) Divisão de Fiscalização.
 
 4 - A Direcção de Serviços de Prevenção e Repressão da Fraude exerce as suas actividades privilegiadamente através de programas matriciais, desenvolvidos em pluridisciplinaridade com os restantes serviços centrais e periféricos da DGA.
 
-###### Artigo 35.º — Divisão de Informação
+###### Artigo 35.º
+
+##### Divisão de Informação
 
 1 - À Divisão de Informação compete:
 
@@ -801,7 +956,9 @@ g) Elaborar manuais de operações relacionados com a fiscalização aduaneira e
 
 2 - A Divisão de Informação é dirigida por um chefe de divisão.
 
-###### Artigo 36.º — Divisão de Fiscalização
+###### Artigo 36.º
+
+##### Divisão de Fiscalização
 
 1 - À Divisão de Fiscalização compete:
 
@@ -941,13 +1098,17 @@ b) Divisão de Apoio à Prevenção e Repressão da Fraude.
 
 3 - Os directores das Direcções das Alfândegas de Lisboa e do Porto serão substituídos nas suas faltas e impedimentos pelo chefe de divisão que para o efeito designarem.
 
-###### Artigo 49.º — Divisão dos Procedimentos Aduaneiros e Fiscais
+###### Artigo 49.º
+
+##### Divisão dos Procedimentos Aduaneiros e Fiscais
 
 1 - À Divisão dos Procedimentos Aduaneiros e Fiscais compete, em especial, o desenvolvimento das actividades necessárias ao exercício das competências previstas nas alíneas a), b) e c) do n.º 1 do artigo 48.º
 
 2 - A Divisão dos Procedimentos Aduaneiros e Fiscais é dirigida por um chefe de divisão.
 
-###### Artigo 50.º — Divisão de Apoio à Prevenção e Repressão da Fraude
+###### Artigo 50.º
+
+##### Divisão de Apoio à Prevenção e Repressão da Fraude
 
 1 - A Divisão de Apoio à Prevenção e Repressão da Fraude funciona de acordo com objectivos formalizados em planos e programas desenvolvidos pela Direcção de Serviços de Prevenção e Repressão da Fraude e coordena as actividades de fiscalização das alfândegas na respectiva área de jurisdição.
 
@@ -1145,7 +1306,7 @@ Mantêm-se válidos os concurso e os estágios a decorrer à data da entrada em 
 
 Os artigos 2.º e 3.º do [Decreto-Lei n.º 281/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1991-679824), de 9 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -1157,7 +1318,7 @@ d) Quatro representantes da Direcção-Geral das Alfândegas;
 
 e) ...
 
-###### Art. 3.º - 1 - Dos representantes da Direcção-Geral das Alfândegas, três são vogais permanentes do Conselho, sendo o outro o director de serviços da área em que se insere a matéria em contestação.
+Art. 3.º - 1 - Dos representantes da Direcção-Geral das Alfândegas, três são vogais permanentes do Conselho, sendo o outro o director de serviços da área em que se insere a matéria em contestação.
 
 2 - ...
 
@@ -1195,33 +1356,33 @@ c) O produto da venda de outros serviços a terceiros.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo I a que se refere o artigo 40.º
+Anexo I a que se refere o artigo 40.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf))](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
 
-## Anexo II a que se refere o artigo 41.º
+Anexo II a que se refere o artigo 41.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf))](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
 
-## Anexo III a que se refere o artigo 63.º
+Anexo III a que se refere o artigo 63.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf))](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
 
-## Anexo IV a que se refere o artigo 65.º
+Anexo IV a que se refere o artigo 65.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf))](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
 
-## Anexo V a que se refere o n.º 3 do artigo 66.º
+Anexo V a que se refere o n.º 3 do artigo 66.º
 
 Conteúdo funcional
 

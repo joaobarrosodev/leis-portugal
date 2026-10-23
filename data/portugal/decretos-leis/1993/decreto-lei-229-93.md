@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/147a00/34733475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/1993/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1993-266616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b4f30cba06e4dc5ba1895f7fb930ae6e755a7f1833c7ba9460da23a33eacb24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15d595c3e1124f44421078ed8baed4e2cda967f2a89917543f93d4af4f7fd490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Capital Social
 - Alienação de Solos
 - CAÇA
+- Capital Social
 - Criação de Serviços
 - Destacamento de Pessoal
 - Elvas
 - Endac
-- Ministério da Agricultura
 - Estatuto
+- Exploração Agrícola
 - Gestão Agrícola
 - Gestão do Património
 - Hasta Pública
-- Santiago do Cacém
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Mafra
+- Ministério da Agricultura
 - Montijo
 - Moura
-- Exploração Agrícola
 - Palmela
-- Setúbal
 - Prédio Rústico
 - Propriedade de BENS
 - Requisição de Pessoal
+- Santiago do Cacém
+- Setúbal
 - Tapada Nacional de Mafra
 - Transferência Patrimonial
 - ZONA de CAÇA
@@ -102,16 +102,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:549461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680645:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197527:por
+  label: "Revogado pelo DEC LEI.64/98.1998.03.17.MADRP, DR.IS-A [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1998-197527
+  date: '1998-03-17'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:36Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +145,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os imóveis que sejam da propriedade ou que se encontrem afectos aos serviços ou institutos dependentes do Ministério da Agricultura e que não se revelem necessários à prossecução das respectivas atribuições devem ser objecto de alienação, nos termos da lei.
+Artigo 1.º Os imóveis que sejam da propriedade ou que se encontrem afectos aos serviços ou institutos dependentes do Ministério da Agricultura e que não se revelem necessários à prossecução das respectivas atribuições devem ser objecto de alienação, nos termos da lei.
 
-###### Art. 2.º É desde já autorizada a alienação em regime de hasta pública, sem prejuízo das preferências legalmente estabelecidas, das seguintes propriedades:
+Art. 2.º É desde já autorizada a alienação em regime de hasta pública, sem prejuízo das preferências legalmente estabelecidas, das seguintes propriedades:
 
 a) Herdade do Pontal - prédio rústico e urbano sito na freguesia de Canha, município do Montijo;
 
@@ -148,11 +161,11 @@ e) Herdade da Quinta do Poço do Mouro - prédio rústico e urbano sito na fregu
 
 f) Herdade do Monte da Fava e Moinho Velho - prédio rústico e urbano sito na freguesia de Ermidas do Sado e Abela, município de Santiago do Cacém.
 
-###### Art. 3.º - 1 - Com o objectivo de assegurar a gestão dos imóveis referidos nos artigos anteriores enquanto não forem objecto de alienação, é criada a ENDAC - Empresa Nacional de Desenvolvimento Agrícola e Cinegético, S. A., à qual incumbe ainda contribuir para o estudo das técnicas de gestão cinegética e para o desenvolvimento dos modelos de exploração que garantam a correcta compatibilização entre a actividade cinegética e a actividade agrícola.
+Art. 3.º - 1 - Com o objectivo de assegurar a gestão dos imóveis referidos nos artigos anteriores enquanto não forem objecto de alienação, é criada a ENDAC - Empresa Nacional de Desenvolvimento Agrícola e Cinegético, S. A., à qual incumbe ainda contribuir para o estudo das técnicas de gestão cinegética e para o desenvolvimento dos modelos de exploração que garantam a correcta compatibilização entre a actividade cinegética e a actividade agrícola.
 
 2 - A identificação dos imóveis cuja gestão é cometida à ENDAC, nos termos do número anterior, é efectuada por despacho do Ministro da Agricultura, no caso de imóveis cuja propriedade pertença aos institutos dele dependentes, e por despacho conjunto dos Ministros das Finanças e da Agricultura, nos restantes casos.
 
-###### Art. 4.º - 1 - A ENDAC tem o capital social de 350000000$00, integralmente subscrito e realizado em espécie pelo Estado.
+Art. 4.º - 1 - A ENDAC tem o capital social de 350000000$00, integralmente subscrito e realizado em espécie pelo Estado.
 
 2 - O capital social da ENDAC será aumentado gradualmente de forma a permitir a entrada de capital privado.
 
@@ -162,7 +175,7 @@ f) Herdade do Monte da Fava e Moinho Velho - prédio rústico e urbano sito na f
 
 5 - Enquanto a totalidade das acções da ENDAC pertencer ao Estado, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, basta que o representante do Estado exare a deliberação no livro de actas da assembleia geral.
 
-###### Art. 5.º - 1 - Os direitos de propriedade dos imóveis que constituem a exploração agrícola designada «Herdade dos Lameirões», sita no município de Moura, são transferidos do Instituto de Estruturas Agrárias e Desenvolvimento Rural, que, nos termos do artigo 62.º do [Decreto-Lei n.º 97/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1993-680645), de 2 de Abril, sucedeu nesses direitos à extinta Direcção-Geral de Hidráulica e Engenharia Agrícola, para a ENDAC, constituindo o capital em espécie a que se refere o n.º 1 do artigo anterior.
+Art. 5.º - 1 - Os direitos de propriedade dos imóveis que constituem a exploração agrícola designada «Herdade dos Lameirões», sita no município de Moura, são transferidos do Instituto de Estruturas Agrárias e Desenvolvimento Rural, que, nos termos do artigo 62.º do [Decreto-Lei n.º 97/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1993-680645), de 2 de Abril, sucedeu nesses direitos à extinta Direcção-Geral de Hidráulica e Engenharia Agrícola, para a ENDAC, constituindo o capital em espécie a que se refere o n.º 1 do artigo anterior.
 
 2 - A exploração agrícola a que se refere o número anterior é constituída pelos seguintes prédios rústicos:
 
@@ -174,21 +187,21 @@ Prédio rústico sito na freguesia de Sobral da Adiça, concelho de Moura, com a
 
 Prédio rústico sito nas freguesias de Safara e Sobral da Adiça, município de Moura, com a área de 306,1250 ha, descrito na Conservatória do Registo Predial de Moura sob o n.º 12365, a fl. 35 do livro B-32, e inscrito sob os artigos 1 da secção D da freguesia de Safara e 1 da secção D da freguesia de Sobral da Adiça.
 
-###### Art. 6.º - 1 - É atribuída à ENDAC, durante o prazo de 15 anos, a concessão da Zona de Caça Nacional da Tapada de Mafra, criada pelo [Decreto-Lei n.º 378/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1989-549461), de 26 de Outubro, incluindo as instalações e equipamentos aí existentes e actualmente afectos ao Instituto Florestal.
+Art. 6.º - 1 - É atribuída à ENDAC, durante o prazo de 15 anos, a concessão da Zona de Caça Nacional da Tapada de Mafra, criada pelo [Decreto-Lei n.º 378/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1989-549461), de 26 de Outubro, incluindo as instalações e equipamentos aí existentes e actualmente afectos ao Instituto Florestal.
 
 2 - A concessão referida no número anterior admite a faculdade de celebrar contratos de subconcessão.
 
-###### Art. 7.º É concedida à ENDAC, pelo prazo de 15 anos, uma zona de caça turística que abrange os imóveis referidos no artigo 5.º
+Art. 7.º É concedida à ENDAC, pelo prazo de 15 anos, uma zona de caça turística que abrange os imóveis referidos no artigo 5.º
 
-###### Art. 8.º A ENDAC, durante um prazo de três anos, pode solicitar o destacamento ou a requisição, nos termos da lei, de funcionários do Estado, de institutos públicos e de trabalhadores de empresas públicas, os quais mantêm os direitos do seu lugar de origem.
+Art. 8.º A ENDAC, durante um prazo de três anos, pode solicitar o destacamento ou a requisição, nos termos da lei, de funcionários do Estado, de institutos públicos e de trabalhadores de empresas públicas, os quais mantêm os direitos do seu lugar de origem.
 
-###### Art. 9.º - 1 - São aprovados os estatutos da ENDAC, que constam do anexo ao presente diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
+Art. 9.º - 1 - São aprovados os estatutos da ENDAC, que constam do anexo ao presente diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
 
 2 - As futuras alterações aos estatutos far-se-ão nos termos da lei comercial.
 
 3 - A ENDAC rege-se pelo presente diploma, seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 10.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração deve enviar aos Ministros das Finanças e da Agricultura, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 10.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração deve enviar aos Ministros das Finanças e da Agricultura, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -196,21 +209,21 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal deve enviar semestralmente aos Ministros das Finanças e da Agricultura um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 11.º Fica desde já convocada a assembleia geral da ENDAC para o 20.º dia seguinte à entrada em vigor do presente diploma ou no 1.º dia útil subsequente.
+Art. 11.º Fica desde já convocada a assembleia geral da ENDAC para o 20.º dia seguinte à entrada em vigor do presente diploma ou no 1.º dia útil subsequente.
 
-###### Art. 12.º O presente diploma constitui título suficiente para a constituição ou transferência dos direitos referidos nos artigos 3.º, 4.º e 5.º e respectivos registos, estando os correspondentes actos isentos de quaisquer taxas ou emolumentos.
+Art. 12.º O presente diploma constitui título suficiente para a constituição ou transferência dos direitos referidos nos artigos 3.º, 4.º e 5.º e respectivos registos, estando os correspondentes actos isentos de quaisquer taxas ou emolumentos.
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha.
 
-**Promulgado em 17 de Junho de 1993.**
+Promulgado em 17 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1993.**
+Referendado em 18 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da ENDAC - Empresa Nacional de Desenvolvimento Agrícola e Cinegético, S. A.
 

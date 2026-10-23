@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/236a00/47724774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/1992/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1992-225814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c7ff140e9d9c9077b86cea3482298d095224d8c3ee4cd13eb444e2eba59e6d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3ec7aa1643df276d53afb5edd2f2134b4dfab3dcde20541ecadca78ab69b51f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
+- Desenvolvimento Económico
 - Empresa
-- Internacionalização Empresarial
 - Fundo de Investimento Mobiliário
 - Fundo de Reestruturação e Internacionalização Empresarial
-- Apoio ao Investimento
+- Internacionalização Empresarial
 - Investimento
 - Reestruturação Industrial
-- Desenvolvimento Económico
 relationships:
 - type: amended_by
   target: pt:dre:152527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:645770:por
+  label: "ALTERADO O ARTIGO 2 PELO DECRETO LEI 338/93, DE 30 DE SETEMBRO, PUBLICADO NO DR.IS-A, 230, DE 930930.\0930.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1993-645770
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152527:por
+  label: "Revogado pelo DEC LEI.58/99.1999.03.02.MF, DR.IS-A [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1999-152527
+  date: '1999-03-02'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:14Z'
   warnings: []
   errors: []
 ---
@@ -224,12 +249,12 @@ As sociedades de capital de risco e as demais entidades que estão autorizadas a
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 11 de Setembro de 1992.**
+Promulgado em 11 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1992.**
+Referendado em 15 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

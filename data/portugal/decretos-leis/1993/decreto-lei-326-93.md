@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/226a00/53625364.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/326/1993/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1993-653121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5065f940e97ca00c04b47ea0404c233ddb8e1814db07344182272e268acdcc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 448f12a4d2634235ad9cb2aaaf187a1dfd498a8e823b268daa58b793828059ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,41 @@ relationships:
   target: pt:dre:311252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618524:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311252:por
+  label: "Revogado pelo DEC LEI.200/99.1999.06.08.MTS, DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1999-311252
+  date: '1999-06-08'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:47Z'
   warnings: []
   errors: []
 ---
@@ -167,18 +192,18 @@ Os princípios estabelecidos neste diploma são aplicáveis, nos termos que fore
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Luís Campos Vieira de Castro.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Desagregação contributiva com base na taxa de 35,5%
 
 Regime geral de segurança social dos trabalhadores por conta de outrem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/226a00/53625364.pdf))](https://files.diariodarepublica.pt/1s/1993/09/226a00/53625364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53625364.pdf)

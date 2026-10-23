@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a00/60176021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/293/1992/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1992-408880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fd267e7bfe21cd6f1d671ab1c4ac2c0d0415bb3dadf7f1d2ce974733f76726a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6980912b80faeddf3754d823acd729a05fdb278e442da82c9e4287f077ec95d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,93 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Definição de Competências
-- Carreira Profissional
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Bombeiro
-- Estágio de Formação
-- Promoção Profissional
 - Administração Local
-- Regime Jurídico
+- Bombeiro
+- Carreira Profissional
+- Definição de Competências
+- Estágio de Formação
+- Formação Profissional
+- Formas de Provimento
 - Horário de Trabalho
+- Promoção Profissional
+- Recrutamento de Pessoal
+- Regime Jurídico
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:303237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390061:por
+  label: "Alterados os arts. 13º, 14º e 23º e aditado um art. 19º-A, pelo LEI.52/93.1993.07.14.AR, DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-1993-390061
+  date: '1993-07-14'
+- type: amended_by
+  target: pt:dre:463653:por
+  label: "Alterada a redacção do art. 19.º pelo DEC LEI.158/95.1995.07.06.MAI DR.IS-A [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1995-463653
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:417395:por
+  label: "Alterado o art. 26º, na redacção da Lei 52/93, de 14-Jul, pelo DEC LEI.359/97.1997.12.17.MAI, DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/359-1997-417395
+  date: '1997-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/409/1991/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/409/1991/10/17/p/dre
+- type: cites
+  target: pt:dre:245328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303237:por
+  label: "Revogado pelo DEC LEI.106/2002.2002.04.13.MAOT DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2002-303237
+  date: '2002-04-13'
 article_structure:
   article_count: 29
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:00Z'
   warnings: []
   errors: []
 ---
@@ -358,12 +414,12 @@ O presente diploma entra em vigor no prazo de 60 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1992.**
+Referendado em 15 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

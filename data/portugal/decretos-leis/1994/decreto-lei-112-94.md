@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/1994/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1994-252404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1184fdf4ebdf0f2996b63b0b4194ebbb8baee01af168c6a2536056f0ee73ebc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c665305175707ad0e2a192bf56537c703d2366902eeb48e0332da8adee937485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Museu do Chiado
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:269783:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:30:18Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +103,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Museu Nacional de Arte Contemporânea passa a designar-se Museu do Chiado.
+Artigo 1.º - 1 - O Museu Nacional de Arte Contemporânea passa a designar-se Museu do Chiado.
 
 2 - Para todos os efeitos legais, consideram-se feitas ao Museu do Chiado todas as referências efectuadas ao Museu Nacional de Arte Contemporânea, constantes da lei ou de negócio jurídico.
 
-###### Art. 2.º O regulamento interno e o quadro de pessoal do Museu do Chiado são objecto de portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
+Art. 2.º O regulamento interno e o quadro de pessoal do Museu do Chiado são objecto de portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
 
-###### Art. 3.º É revogado o [Decreto n.º 3026](https://diariodarepublica.pt/dr/detalhe/decreto/3026-1917-269783), de 14 de Março de 1917, a partir da data da entrada em vigor da portaria referida no artigo anterior.
+Art. 3.º É revogado o [Decreto n.º 3026](https://diariodarepublica.pt/dr/detalhe/decreto/3026-1917-269783), de 14 de Março de 1917, a partir da data da entrada em vigor da portaria referida no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 31 de Março de 1994.**
+Promulgado em 31 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1994.**
+Referendado em 6 de Abril de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

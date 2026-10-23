@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/1992/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54992f1ed4ad713679cdc587bc87b8fb2f4fbfa64388b1a5b5c3c6ae56c590ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0897f7ed49e1c46f15dc9733c77b6a3d8a9ec40f59dee76d204595e62857825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral de Hidráulica e Engenharia Agrícola
-- Reserva Agrícola Nacional
 - Aproveitamento Hidroagrícola
-- Política de Solos
+- Direcção Geral de Hidráulica e Engenharia Agrícola
 - Política Agrícola
+- Política de Solos
+- Reserva Agrícola Nacional
 relationships:
 - type: amended_by
   target: pt:dre:303136:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303136:por
+  label: "Revogados os arts. 14º, 15º, 16º, 50º, 51º, 53º, 54º, 60º, 76º-A, 82º a 90º, 92º e 93º do Dec Lei 269/86 de 10-Jul\
+    \ com a redacção do presente diploma, pelo DEC LEI.86/2002.2002.04.06.MADRP DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2002-303136
+  date: '2002-04-06'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:56Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +113,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, o artigo 76.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, o artigo 76.º-A, com a seguinte redacção:
 
 ###### Artigo 76.º-A
 
@@ -113,16 +123,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - Para a fixação do montante compensatório, que constitui receita própria da DGHEA, ter-se-á em atenção o custo, por hectare beneficiado, das obras de fomento hidroagrícola e das obras subsidiárias, devidamente actualizado em função do índice de preços no consumidor estabelecido pelo Instituto Nacional de Estatística.
 
-###### Art. 2.º O regime de regularização das ocupações urbanas de solos integrados nos perímetros de rega, ocorridas em momento anterior à data da entrada em vigor do presente diploma, será definido por decreto regulamentar.
+Art. 2.º O regime de regularização das ocupações urbanas de solos integrados nos perímetros de rega, ocorridas em momento anterior à data da entrada em vigor do presente diploma, será definido por decreto regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1992. - Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

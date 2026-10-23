@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/237a00/56785681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/355/1993/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1993-669805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e71a6a3c499fbae59c436d648321bf4eae9f6144b3a81415c057e998a1c43c65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02aad3ab2461cbc2a69996c99a03f7292b4ff2bfa533d83e589e6ae22f852a0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Multa
 - Contra-ordenação
+- Embarcação
 - Lotação
+- Multa
 - Normas de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:584020:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344965:por
+  label: Revogado, a partir de 29.03.2001, o art. 12.º do presente diploma pelo(a) Decreto-Lei n.º 98/2001 - Diário da República
+    n.º 74/2001, Série I-A de 2001-03-28 nos termos do art. 6.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2001-344965
+  date: '2001-03-28'
+- type: repealed_by
+  target: pt:dre:584020:por
+  label: "Revogado, bem como a respectiva regulamentação, pelo DEC LEI.280/2001.2001.10.23.MES DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-2001-584020
+  date: '2001-10-23'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:18Z'
   warnings: []
   errors: []
 ---
@@ -263,12 +302,12 @@ São revogados o [Decreto-Lei n.º 168/88](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - José Manuel Durão Barroso - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

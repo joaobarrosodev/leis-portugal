@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/078a00/17031712.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1993-680640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc39f4b9a1c612066d261c2204dc0c3c5a665ca16301e567388d1ea54c477a6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2135868bb073dd6fe4a2d32f00039bb8c1b0db1ff0a557194892d9df2484ff80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Centro Nacional de Protecção da Produção Agrícola
 - Centro Nacional de Reconhecimento e Ordenamento Agrário
-- Pessoal Dirigente
 - Direcção Geral de Estruturas Agrárias e Desenvolvimento Rural
 - Estação Nacional de Tecnologia dos Produtos Agrários
 - Extinção de Serviços
+- Instituto Nacional de Investigação Agrária
 - Laboratório Químico Agrícola Rebelo da Silva
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Instituto Nacional de Investigação Agrária
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -82,20 +82,42 @@ relationships:
   target: pt:dre:628851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento\
+    \ Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida\
+    \ em articulação com o Ministro da Ciência e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628851:por
+  label: "Revogado, a partir de 01.11.2007, e determinado que o Instituto Nacional de Recursos Biológicos, I. P. suceda nas\
+    \ atribuições do Instituto Nacional de Investigação Agrária e Pescas, I. P., pelo . DEC LEI.356/2007.29.10.2007.MADRP,\
+    \ DR.IS [208] de 29.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-2007-628851
+  date: '2007-10-29'
 article_structure:
   article_count: 43
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:21:41Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +232,7 @@ e) Representar o INIA.
 
 ###### Artigo 6.º — Vice-presidente
 
-**O presidente do INIA é coadjuvado por um vice-presidente, equiparado para todos os efeitos a subdirector-geral, que o substitui nas suas ausências e impedimentos e exerce as competências por ele delegadas ou subdelegadas.**
+O presidente do INIA é coadjuvado por um vice-presidente, equiparado para todos os efeitos a subdirector-geral, que o substitui nas suas ausências e impedimentos e exerce as competências por ele delegadas ou subdelegadas.
 
 ###### Artigo 7.º — Conselho geral
 
@@ -322,7 +344,9 @@ b) Divisão de Formação Pós-Graduada;
 
 c) Divisão de Divulgação Técnica e Científica.
 
-###### Artigo 11.º — Divisão de Planeamento
+###### Artigo 11.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -340,7 +364,9 @@ f) Elaborar o relatório anual sobre a gestão efectuada, com uma rigorosa discr
 
 g) Assegurar as necessárias ligações com os serviços de planeamento exteriores ao INIA.
 
-###### Artigo 12.º — Divisão de Formação Pós-Graduada
+###### Artigo 12.º
+
+##### Divisão de Formação Pós-Graduada
 
 À Divisão de Formação Pós-Graduada compete:
 
@@ -352,7 +378,9 @@ c) Assegurar o apoio logístico ao desenvolvimento dos cursos de formação prof
 
 d) Coordenar a elaboração do plano de formação do pessoal do INIA.
 
-###### Artigo 13.º — Divisão de Divulgação Técnica e Científica
+###### Artigo 13.º
+
+##### Divisão de Divulgação Técnica e Científica
 
 À Divisão de Divulgação Técnica e Científica compete:
 
@@ -374,7 +402,9 @@ b) Divisão de Organização e Recursos Humanos;
 
 c) Repartição Administrativa.
 
-###### Artigo 15.º — Divisão de Programação e Gestão Financeira
+###### Artigo 15.º
+
+##### Divisão de Programação e Gestão Financeira
 
 À Divisão de Programação e Gestão Financeira compete:
 
@@ -390,7 +420,9 @@ e) Organizar e manter uma contabilidade analítica de gestão que permita um ade
 
 f) Assegurar a gestão integrada dos recursos financeiros, tendo em conta a sua conformidade legal e regularidade financeira.
 
-###### Artigo 16.º — Divisão de Organização e Recursos Humanos
+###### Artigo 16.º
+
+##### Divisão de Organização e Recursos Humanos
 
 À Divisão de Organização e Recursos Humanos compete:
 
@@ -422,7 +454,9 @@ c) Secção de Património e Aprovisionamento, à qual compete manter actualizad
 
 d) Secção de Conservação de Bens e Assuntos Gerais, à qual compete zelar pela conservação dos edifícios e outras instalações, pela eficiência das redes de comunicação interna, assegurar a gestão e o serviço de manutenção e conservação do parque de viaturas afecto ao INIA e coordenar a actividade do pessoal auxiliar, assegurando a eficácia dos serviços de limpeza e vigilância.
 
-###### Artigo 18.º — Divisão de Informação e Relações Públicas
+###### Artigo 18.º
+
+##### Divisão de Informação e Relações Públicas
 
 À Divisão de Informação e Relações Públicas, dependente directamente do presidente, compete:
 
@@ -450,7 +484,7 @@ a) Dar cumprimento aos objectivos superiormente definidos de acordo com a polít
 
 b) Apoiar a execução das acções de desenvolvimento experimental e de demonstração a cargo dos serviços do Ministério da Agricultura;
 
-c) Participar em programas integrados de I&D;
+c) Participar em programas integrados de I&D
 
 d) Assegurar a divulgação do conhecimento original produzido pelo seu pessoal ou do conhecimento científico e técnico disponível;
 
@@ -526,9 +560,9 @@ e) Apreciar qualquer outro assunto que lhe seja apresentado pelo seu presidente.
 
 3 - Ao conselho consultivo compete:
 
-a) Veicular e analisar a informação sobre as necessidades de aspiração das entidades interessadas nas actividades de I&D;
+a) Veicular e analisar a informação sobre as necessidades de aspiração das entidades interessadas nas actividades de I&D
 
-b) Pronunciar-se sobre o plano de actividades de I&D;
+b) Pronunciar-se sobre o plano de actividades de I&D
 
 c) Propor a adopção das medidas que considere convenientes no âmbito das actividades da estação;
 
@@ -574,7 +608,9 @@ i) Pronunciar-se sobre qualquer outro assunto que, no âmbito das suas competên
 
 2 - Os responsáveis por cada departamento são designados, de entre o pessoal da carreira de investigação, pelo presidente do INIA, sob proposta dos directores de cada estação nacional.
 
-###### Artigo 27.º — Divisão de Formação Profissional Pós-Graduada
+###### Artigo 27.º
+
+##### Divisão de Formação Profissional Pós-Graduada
 
 À Divisão de Formação Profissional Pós-Graduada compete:
 
@@ -808,16 +844,16 @@ g) O Departamento de Regadio.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - António Fernando Couto dos Santos.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 38.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/17031712.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/17031712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/17031712.pdf)

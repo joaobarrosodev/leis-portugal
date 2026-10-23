@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/226a00/53675377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/328/1993/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1993-653124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:26:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25700164b87829b6b5c0d59bdf3de17f5e109146c70d6c0e7d503811a96b8751
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 341531058867ab543bd94abb3b9ee16984d1a5d216064ae03069dec3e333774f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:26:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,62 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições da Segurança Social
-- Trabalhador Rural
 - Regime Geral da Segurança Social
 - Segurança Social
 - Trabalhador Independente
 - Trabalhador Intelectual
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:189476:por
+  label: "Alterada a redacção dos arts. 6º, 12º, 16º, 17º, 18º, 19º, 21º, 23º, 24º, 25º, 28º, 30º, 33º, 35º, 39º, 41º, 43º,\
+    \ 44º, 47º, 48º, 51º, 52º, 53º, 54º, 55º e 77º e aditados os arts. 53º-A e 53º-B, pelo DEC LEI.240/96.1996.12.14.MSSS,\
+    \ que republica o presente diploma com todas as alterações\0es\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1996-189476
+  date: '1996-12-14'
+- type: amended_by
+  target: pt:dre:662123:por
+  label: "Alterados os arts. 35.º, 39.º, 43.º, 44.º, 49.º, 53.º-B, 54.º e 55.º (na redacção dada pelo Dec Lei 240/96, de 14-Dez)\
+    \ pelo DEC LEI.397/99.1999.10.13.MTS DR.IS-A [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1999-662123
+  date: '1999-10-13'
+- type: amended_by
+  target: pt:dre:343434:por
+  label: "Aditados os arts. 37º-A e 37º-B ao presente diploma, com a redacção conferida pelos Dec Lei 240/96 de 14-Dez e 397/99\
+    \ de 13-Out, pelo DEC LEI.159/2001.2001.05.18.MTS DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2001-343434
+  date: '2001-05-18'
+- type: amended_by
+  target: pt:dre:652702:por
+  label: "Derrogado, o presente diploma, pelo DEC LEI.176/2003.2003.08.02.MSST DR.IS-A [177] no que respeita ao âmbito material\
+    \ em relação ás prestações nele previstas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2003-652702
+  date: '2003-08-02'
+- type: amended_by
+  target: pt:dre:592342:por
+  label: "Derrogadas as disposições do presente diploma relativamente às normas que disponham sobre a mesma matéria e no âmbito\
+    \ do mesmo pelo DEC LEI.28/2004.04.02.2004.MSST, DR.IS-A [29] de 04.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2004-592342
+  date: '2004-02-04'
+- type: amended_by
+  target: pt:dre:236275:por
+  label: "Dispensados temporariamente (seis meses) os produtores agrícolas e respectivos cônjuges, abrangidos pelo regime\
+    \ social dos trabalhadores independentes, das áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes,\
+    \ da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve, do pagamento da taxa contributiva fixada pelo art.\
+    \ 37º-A do presente diploma, aditado pelo Dec Lei 159/2001 de 18-Mai e alterado pelo 28/2004 de 04-Fev, pelo DEC LEI.115/2005.14.07.2005.MADRP,\
+    \ DR.IS-A [134] de 14.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2005-236275
+  date: '2005-07-14'
+- type: amended_by
+  target: pt:dre:240006:por
+  label: "Alterado o nº 2 do art. 33º, o nº 4 do art. 35º e o anexo I deste diploma, com a redacção conferida pelos Dec Lei\
+    \ 240/96 de 14-Dez e 397/99 de 13-Out, pelo DEC LEI.119/2005.22.07.2005.MTSSO, DR.IS-A [140] de 22.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2005-240006
+  date: '2005-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/190/1992/09/03/p/dre
   label: null
@@ -96,16 +142,114 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/52/1993/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/52/1993/04/08/p/dre
+- type: cites
+  target: pt:dre:220561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688409:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), na redacção do Dec Lei 240/96, de 14-Dez, do Dec Lei 397/99, de 13-Out, do Dec Lei 159/2001,\
+    \ de 18-Mai, do Dec Lei 176/2003, de 02-Ago, do Dec Lei 28/2004, de 04-Fev e do Dec Lei 119/2005, de 22-Jul, pela LEI.110/2009.16.09.2009.AR,\
+    \ DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter\
+    \ transitoriamente em vigor as disposições procedimentais do presente diploma que não contrariem o disposto no Código\
+    \ aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 79
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:26:48Z'
   warnings: []
   errors: []
 ---
@@ -370,7 +514,7 @@ O valor diário das contribuições é igual a 1/30 do seu valor mensal resultan
 
 Independentemente da pluralidade de actividades por conta própria eventualmente exercidas, em acumulação, pelo mesmo trabalhador, o cálculo do montante das contribuições dos trabalhadores independentes tem por base uma remuneração convencional escolhida pelo interessado de entre os seguintes escalões indexados à remuneração mínima mensal mais elevada garantida por lei:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/226a00/53675377.pdf))](https://files.diariodarepublica.pt/1s/1993/09/226a00/53675377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53675377.pdf)
 
 ###### Artigo 34.º — Escolha da remuneração convencional
 
@@ -734,12 +878,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - José Luís Campos Vieira de Castro.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

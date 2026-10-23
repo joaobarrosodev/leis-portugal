@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19653-1963-193182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a016601436ba2f5d81b63e0efe276dd7f4a4706f0af2c80fc9f813bea3856662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a337cda9dafd545e387e333a2e90ce29bed2b7b366c1835e4a2222116704c80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Moçambique
+- Serviço Postal
+- Taxa
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:194581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194581:por
+  label: "Alterados os valores das rubricas 33, d), e 48, a), pela PORT.19736.28.02.1963.MU, DG.IS [50] de 28.02.1963\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19736-1963-194581
+  date: '1963-02-28'
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:54Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +110,6 @@ Para ser publicada no Boletim Oficial de Moçambique. - Peixoto Correia.
 
 Alteração da tabela geral de taxas e portes postais das províncias ultramarinas, relativamente à província de Moçambique, a que se refere a portaria supra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/02000/00600060.pdf))](https://files.diariodarepublica.pt/1s/1963/01/02000/00600060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/02000/00600060.pdf)
 
 Ministério do Ultramar, 24 de Janeiro de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.

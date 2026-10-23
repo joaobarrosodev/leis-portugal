@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19408-1962-160340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 638add68cc4877a8e21c60e53fabfcee59084f9c2bbdcfce1bb1d8a047213d0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 008d1ad89227b7f637acd114f445e16c307c3d87d70933ac8e12974547ac8ce6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:472965:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:472965:por
+  label: "Revogada pela PORT.331/80.14.06.1980.MFP, DR.IS [135] de 14.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-1980-472965
+  date: '1980-06-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:42Z'
   warnings: []
   errors: []
 ---
@@ -99,12 +104,12 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças:
 
 Ministério das Finanças, 1 de Outubro de 1962. - Pelo Ministro das Finanças, Ricardo Augusto Parreira de Faria Blanc, Subsecretário de Estado do Tesouro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf))](https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf)
 
 Nota. - O cartão será branco, com uma faixa em diagonal, verde e encarnada, no canto superior esquerdo; no canto superior direito será colocada a fotografia do funcionário.
 
 Terá dimensões de 105 mm x 74 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf))](https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/22600/13071308.pdf)
 
 Ministério das Finanças, 1 de Outubro de 1962. - Pelo Ministro das Finanças, Ricardo Augusto Parreira de Faria Blanc, Subsecretário de Estado do Tesouro.

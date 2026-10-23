@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/289/1992/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1992-621680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3542e51cfe775a8e29fcb2e2e26f009a80b52255ad327c2d04cff245b62317ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fafb37b5e02fac7815afe5091f15ba9500cc2becf524f28b560cc42299470e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Fusão de Empresas
-- Estatuto dos Benefícios Fiscais
+- Benefícios Fiscais
 - Contribuições e Impostos
+- Empresa
+- Estatuto dos Benefícios Fiscais
+- Fusão de Empresas
 - IRC
 - Reconversão de Empresas
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:570520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterado o art. 49º-A do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.75/93.20.12.1993.AR, DR.IS-A [295-Supl] de 20.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:621765:por
+  label: "Alterado o art. 49º-A do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.92-A/95.28.12.1995.AR, DR.IS-A [298-Supl] de 28.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/92-a-1995-621765
+  date: '1995-12-28'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterado o art. 49º -A do Estatuto dos Benefícios Fiscais, aprovado pelo Dec-Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pelaLEI.52-C/96.27.12.1996.AR, DR.IS-A [299-3ºSupl] de 27.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterado o art. 49º-A do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+- type: cites
+  target: pt:dre:333296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:19:56Z'
   warnings: []
   errors: []
 ---
@@ -314,12 +350,12 @@ b) Tenham em vista a internacionalização das empresas portuguesas.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1992 - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe Alves Monteiro - António José Fernandes de Sousa.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

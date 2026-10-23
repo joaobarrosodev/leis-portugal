@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/1993/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986e716d998daf9e556be2e010851f0fab2001afacca9634535ff1450cb4bfb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34e18f0183a2009b4399bdb45b45b73c2051270ab1d66237fd7efe7067cf6487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Meteorologia e Geofísica
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral da Qualidade do Ambiente
 - Instituto de Meteorologia
+- Instituto Nacional de Meteorologia e Geofísica
 - Ministério do Ambiente e Recursos Naturais
 - Ministro do Ambiente e Recursos Naturais
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -80,20 +80,91 @@ relationships:
   target: pt:dre:500054:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424690:por
+  label: "Transitam para a DGA as competências relativas à qualidade do ar estabelecidas pelo presente diloma pelo DEC LEI.226/98.1998.07.17.MAM,\
+    \ DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1998-424690
+  date: '1998-07-17'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para o Ministério da Ciência e da Tecnologia, do Instituto de Meteorologia, cuja Lei Orgânica\
+    \ foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:182033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661732:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500054:por
+  label: "Revogado pelo DEC LEI.220/2003.2003.09.20.MCES DR.IS-A [218], sem prejuízo do disposto no art. 39º daquele diploma\
+    \ (mantém em vigor a organização interna e o quadro de pessoal até à entrada do decreto regulamentar e portaria referidos\
+    \ nos arts. 29º e 36º do mesmo diploma)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2003-500054
+  date: '2003-09-20'
 article_structure:
   article_count: 31
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:23:46Z'
   warnings: []
   errors: []
 ---
@@ -518,7 +589,9 @@ i) Assegurar a tradução de trabalhos técnicos.
 
 2 - O chefe de divisão do Gabinete de Relações Externas, dadas as exigências específicas do cargo a desempenhar, nomeadamente as ligadas ao relacionamento com a defesa militar e civil, de âmbito nacional e internacional, nas áreas da meteorologia e telecomunicações meteorológicas, poderá ser recrutado de entre funcionários do grupo de pessoal de meteorologia, independentemente do cumprimento dos requisitos habilitacionais legalmente exigidos para o provimento neste cargo, nos termos previstos no n.º 7 do artigo 4.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
-###### Artigo 12.º — Divisão de Sismologia
+###### Artigo 12.º
+
+##### Divisão de Sismologia
 
 À Divisão de Sismologia compete:
 
@@ -532,7 +605,9 @@ d) Proceder à vigilância sísmica e elaborar cartas sismológicas;
 
 e) Proceder a estudos nos domínios da sismologia e de apoio a todas as actividades que utilizem dados sísmicos.
 
-###### Artigo 13.º — Divisão de Planeamento
+###### Artigo 13.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -552,7 +627,9 @@ g) Assegurar o acompanhamento financeiro dos organismos internacionais onde o IM
 
 h) Assegurar a coordenação de relatórios periódicos, nomeadamente o relatório anual de actividades do IM.
 
-###### Artigo 14.º — Divisão de Gestão e Formação de Recursos Humanos
+###### Artigo 14.º
+
+##### Divisão de Gestão e Formação de Recursos Humanos
 
 1 - À Divisão de Gestão e Formação de Recursos Humanos compete:
 
@@ -600,7 +677,9 @@ c) Organizar o trabalho do pessoal auxiliar;
 
 d) Coordenar os serviços de transporte do IM.
 
-###### Artigo 15.º — Divisão de Gestão Financeira
+###### Artigo 15.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira compete:
 
@@ -646,7 +725,9 @@ b) Pagar as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados os livros de tesouraria.
 
-###### Artigo 16.º — Divisão de Informática e Telecomunicações
+###### Artigo 16.º
+
+##### Divisão de Informática e Telecomunicações
 
 À Divisão de Informática e Telecomunicações compete:
 
@@ -830,16 +911,16 @@ i) [Portaria n.º 280/89](https://diariodarepublica.pt/dr/detalhe/portaria/280-1
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/120a00/28292837.pdf))](https://files.diariodarepublica.pt/1s/1993/05/120a00/28292837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/120a00/28292837.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/129a00/29422943.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/1994/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dc6c1b45c727493d113225e9184d1c8083bb41262131a66c6ef95ae7d88df1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f274d5e935ef8cfeceaa5b31b8c3def24198dc6580e11fbe0da3892da9d8cb0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,14 @@ relationships:
   target: pt:dre:239840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239840:por
+  label: "Determinado que o Fundo criado pelo Dec Lei 269/90, de 31-ago, na redação do presente diploma, se conside extinto,\
+    \ sem necessidade de cumprimento de quaisquer outras formalidades, de natureza legal ou regulamentar, após integral transferência\
+    \ do seu património para a CGA, I.P., e com a sua liquidação total, pelo DEC LEI.166-A/2013.27.12.2013.MDN, DR.IS [251-Supl]\
+    \ de 27.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-a-2013-239840
+  date: '2013-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/328/1991/09/05/p/dre
   label: null
@@ -88,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/1991/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/1991/02/09/p/dre
+- type: cites
+  target: pt:dre:304772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:29Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +150,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 1.º, 3.º, 5.º, 6.º, 7.º, 14.º e 18.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de Fevereiro, e [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 3.º, 5.º, 6.º, 7.º, 14.º e 18.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de Fevereiro, e [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -210,12 +238,12 @@ Em tudo o que não contrarie o presente diploma, aplica-se o [Decreto-Lei n.º 4
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 18 de Maio de 1994.**
+Promulgado em 18 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Maio de 1994.**
+Referendado em 23 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

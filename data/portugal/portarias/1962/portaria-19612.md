@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19612-1962-154871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be8677977f8b3e3acf036a5ec6bc794f01ee5bb81e7e48528e0d05258d49a97a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4554de09a70d7ca13effd02ef5cadc8a6aaf741f9ece18316ac293995cfbe7d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,46 @@ relationships:
   target: pt:dre:680601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693222:por
+  label: "Alterada, a partir de 01.07.1963 e na parte respeitante ao Consulado-Geral de Portugal em Zurique, pela PORT.19932.08.07.1963.MNE,\
+    \ DG.IS [159] de 08.07.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19932-1963-693222
+  date: '1963-07-08'
+- type: amended_by
+  target: pt:dre:684035:por
+  label: "Alterada, na parte respeitante ao Consulado de Portugal em Boston, pela PORT.20203.27.11.1963.MNE, DG.IS [278] de\
+    \ 27.11.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20203-1963-684035
+  date: '1963-11-27'
+- type: amended_by
+  target: pt:dre:683793:por
+  label: "Alterada, na parte respeitante ao Consulado-Geral de Portugal em Paris, pela PORT.20218.05.12.1963.MNE, DG.IS [285]\
+    \ de 05.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20218-1963-683793
+  date: '1963-12-05'
+- type: amended_by
+  target: pt:dre:683834:por
+  label: "Alterada, na parte respeitante ao Consulado-Geral de Portugal em Joanesburgo, pela PORT.20234.09.12.1963.MNE, DG.IS\
+    \ [288] de 09.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20234-1963-683834
+  date: '1963-12-09'
+- type: amended_by
+  target: pt:dre:680601:por
+  label: "Alterada, na parte respeitante ao Consulado-Geral de Portugal em Londres, pela PORT.20251.27.12.1963.MNE, DG.IS\
+    \ [303] de 27.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20251-1963-680601
+  date: '1963-12-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:04Z'
   warnings: []
   errors: []
 ---

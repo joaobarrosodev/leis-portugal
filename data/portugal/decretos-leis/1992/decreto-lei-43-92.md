@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/1992/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1992-190598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28b3a94885885901a814d4a44be1d4c71d1fe5e49309160774b954d41620ca3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d04a18589577ccded4c70ac4ff746f4d0e8ae51ffb054c540c14449fb281a3ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,31 @@ reuse:
 subjects:
 - Alvará
 - Comissão de Alvarás de Empresas de Obras Públicas e Particulares
-- Obras Particulares
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Indústria da Construção
 - Licenciamento
+- Obras Particulares
 - Obras Públicas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:21Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -117,16 +125,16 @@ c) ...
 
 2 - ...
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1992.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

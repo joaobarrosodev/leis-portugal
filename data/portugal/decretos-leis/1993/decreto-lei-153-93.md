@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/105a00/23282333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/1993/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1993-274396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 999e025afd56b27a2456522dcf10702e5c2eafd4307fa54349d00a04d5100b5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bbe7cd3fa6b97008e648a922c933354ee6837ea3b938d3d40961ff6694cda3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Região de Turismo
 - Estatuto
+- Região de Turismo
 - Região de Turismo do ALTO Tâmega
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:249827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:672446:por
+  label: "Alterada a designação da Região de Turismo do Alto Tâmega, cujos estatutos foram aprovados pelo presente diploma\
+    \ pelo Dec Lei.290/97.1997.10.22.MECO, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1997-672446
+  date: '1997-10-22'
+- type: amended_by
+  target: pt:dre:584794:por
+  label: "Alterado o art. 2º dos Estatutos, pelo DEC LEI.1/2002.2002.01.02.MECO DR.IS-A [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2002-584794
+  date: '2002-01-02'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrada no Ministério do Turismo a Região de Turismo do Alto Tâmega e Barroso, cujos estatutos foram aprovados\
+    \ pelo presente diploma, alterado pelos Dec Lei 290/97 de 22-Out e 1/2002 de 02-Jan, pelo DEC LEI.228/2004.07.12.2004.MTUR,\
+    \ DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/1991/08/09/p/dre
   label: null
@@ -82,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:311055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249827:por
+  label: "Revogado o presente diploma, alterado pelos Dec Lei 290/97 de 22-Out e 1/2002 de 02-Jan, pelo DEC LEI.67/2008.10.04.2008.MEI,\
+    \ DR.IS [71] de 10.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2008-249827
+  date: '2008-04-10'
 article_structure:
-  article_count: 40
+  article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:22:56Z'
   warnings: []
   errors: []
 ---
@@ -108,21 +144,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos da Região de Turismo do Alto Tâmega, em anexo ao presente diploma, do qual fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos da Região de Turismo do Alto Tâmega, em anexo ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 2.º É revogada a [Portaria n.º 155/83](https://diariodarepublica.pt/dr/detalhe/portaria/155-1983-311055), de 18 de Fevereiro.
+Art. 2.º É revogada a [Portaria n.º 155/83](https://diariodarepublica.pt/dr/detalhe/portaria/155-1983-311055), de 18 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Abril de 1993.**
+Referendado em 16 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva
 
 ## ANEXO — Estatutos da Região de Turismo de Alto Tâmega
 

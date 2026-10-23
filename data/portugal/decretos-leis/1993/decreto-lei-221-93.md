@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/221/1993/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1993-268839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8a6539e643c6f0d50c86c2a72c6d68d4d81b5d255b4332aae4743289664f0fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4afa3c3616fdaba3daf29694a93cfac1c9335552bd6169c329d43b898aac969
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Sociedade Anónima
 - Capital Social
 - Estatuto
+- Gestão de Recursos Humanos
 - Indep
 - Isenção Fiscal
 - Privatização
 - Prorrogação de Prazo
 - Quadro de Excedentes
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/362/1991/10/03/p/dre
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/363/1991/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/363/1991/10/03/p/dre
+- type: cites
+  target: pt:dre:293719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:24:26Z'
   warnings: []
   errors: []
 ---
@@ -113,26 +121,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O direito de opção referido no n.º 3 do artigo 8.º do [Decreto-Lei n.º 362/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1991-293719), de 3 de Outubro, pode ser exercido até 31 de Dezembro de 1993.
+Artigo 1.º - 1 - O direito de opção referido no n.º 3 do artigo 8.º do [Decreto-Lei n.º 362/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1991-293719), de 3 de Outubro, pode ser exercido até 31 de Dezembro de 1993.
 
 2 - Até ao termo do prazo de opção previsto no número anterior, o pessoal a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 363/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1991-293721), de 3 de Outubro, mantém-se em efectividade de serviço na INDEP, S. A., na situação de requisitado, sem prejuízo do disposto no n.º 3 do artigo 4.º do mesmo diploma.
 
-###### Art. 2.º O artigo 14.º do [Decreto-Lei n.º 362/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1991-293719), de 3 de Outubro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 14.º do [Decreto-Lei n.º 362/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1991-293719), de 3 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 14.º - 1 - Para constituição de novas sociedades criadas na execução do disposto no artigo 9.º em que a INDEP, S. A., detenha a totalidade ou a maioria do capital social, bem como para as alterações dos estatutos desta até à sua constituição em sociedade gestora de participações sociais, incluindo a própria transformação, serão título bastante as actas das referidas deliberações, que, para todos os efeitos legais, substituem a respectiva escritura notarial e são título suficiente para os necessários registos, averbamentos e publicações.
+Art. 14.º - 1 - Para constituição de novas sociedades criadas na execução do disposto no artigo 9.º em que a INDEP, S. A., detenha a totalidade ou a maioria do capital social, bem como para as alterações dos estatutos desta até à sua constituição em sociedade gestora de participações sociais, incluindo a própria transformação, serão título bastante as actas das referidas deliberações, que, para todos os efeitos legais, substituem a respectiva escritura notarial e são título suficiente para os necessários registos, averbamentos e publicações.
 
 2 - Até que seja efectivada a alteração a que se refere o n.º 1 do artigo 13.º, são isentos de taxas e emolumentos devidos aos cartórios notariais, ao Registo Nacional de Pessoas Colectivas e às conservatórias dos registos predial, comercial e de automóveis todos os actos a praticar pela INDEP, S. A., para a execução do disposto no presente diploma.
 
-###### Art. 3.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
+Art. 3.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

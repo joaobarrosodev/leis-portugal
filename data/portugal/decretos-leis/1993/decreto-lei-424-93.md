@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 304/1993, 2º Suplemento, Série I-A de 1993-12-31
   number: '304'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7244-(2) a 7244-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/304a02/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/424/1993/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1993-430851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1af8701d5f8d14d1e81b082e2df8826b88ab094f2c7b22a810e4a61fcf6b9265
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a34338326ea0d3ba1257f2b2418e33f33dceaea1c6f8320955614f2a69929e64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/113/1991/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/113/1991/03/20/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:28:52Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +121,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Siderurgia Nacional, S. A., procederá à constituição de novas sociedades, cujo capital social será realizado por entradas em espécie mediante transmissão do seu património, ficando a pertencer, para todos os efeitos, à Siderurgia Nacional, S. A., as acções representativas do capital das novas sociedades.
+Artigo 1.º A Siderurgia Nacional, S. A., procederá à constituição de novas sociedades, cujo capital social será realizado por entradas em espécie mediante transmissão do seu património, ficando a pertencer, para todos os efeitos, à Siderurgia Nacional, S. A., as acções representativas do capital das novas sociedades.
 
-###### Art. 2.º - 1 - Para efeitos do disposto no artigo anterior, o conselho de administração da Siderurgia Nacional, S. A., promoverá a avaliação do respectivo património, ou a actualização de avaliação já anteriormente efectuada.
+Art. 2.º - 1 - Para efeitos do disposto no artigo anterior, o conselho de administração da Siderurgia Nacional, S. A., promoverá a avaliação do respectivo património, ou a actualização de avaliação já anteriormente efectuada.
 
 2 - A avaliação ou actualização de avaliação a efectuar nos termos previstos no número anterior será feita por entidade escolhida de entre as previamente qualificadas pelo Ministério das Finanças e será submetida pelo conselho de administração à aprovação da assembleia geral.
 
-###### Art. 3.º A transmissão de património para as sociedades a constituir, como entradas em espécie, para realização do seu capital social, ou a título de suprimentos, será efectuada pelos valores patrimoniais resultantes da avaliação prevista no artigo anterior.
+Art. 3.º A transmissão de património para as sociedades a constituir, como entradas em espécie, para realização do seu capital social, ou a título de suprimentos, será efectuada pelos valores patrimoniais resultantes da avaliação prevista no artigo anterior.
 
-###### Art. 4.º - 1 - O conselho de administração da Siderurgia Nacional, S. A., submeterá à aprovação da assembleia geral, acompanhado da avaliação referida no artigo 2.º, o plano geral das novas sociedades a criar e do património a destacar para cada uma delas, com menção e justificação, designadamente, dos seguintes pontos para cada uma das sociedades cuja constituição esteja prevista:
+Art. 4.º - 1 - O conselho de administração da Siderurgia Nacional, S. A., submeterá à aprovação da assembleia geral, acompanhado da avaliação referida no artigo 2.º, o plano geral das novas sociedades a criar e do património a destacar para cada uma delas, com menção e justificação, designadamente, dos seguintes pontos para cada uma das sociedades cuja constituição esteja prevista:
 
 a) Definição da sua actividade;
 
@@ -121,43 +141,43 @@ d) Contratos de trabalho a transmitir.
 
 2 - O estatuto referido na alínea c) do número anterior deverá respeitar o modelo tipo que consta do anexo ao presente diploma.
 
-###### Art. 5.º O disposto nos artigos 501.º e 504.º do Código das Sociedades Comerciais não é aplicável às sociedades constituídas ao abrigo do presente diploma em relação à Siderurgia Nacional, S. A.
+Art. 5.º O disposto nos artigos 501.º e 504.º do Código das Sociedades Comerciais não é aplicável às sociedades constituídas ao abrigo do presente diploma em relação à Siderurgia Nacional, S. A.
 
-###### Art. 6.º - 1 - Cada uma das novas sociedades terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado a esse título.
+Art. 6.º - 1 - Cada uma das novas sociedades terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado a esse título.
 
 2 - A cobertura do capital das sociedades pela parte do património destacado será certificada por um revisor oficial de contas.
 
-###### Art. 7.º A constituição das novas sociedades previstas neste diploma será documentada pela acta da respectiva assembleia geral donde conste a correspondente deliberação, que constitui título suficiente para os necessários registos.
+Art. 7.º A constituição das novas sociedades previstas neste diploma será documentada pela acta da respectiva assembleia geral donde conste a correspondente deliberação, que constitui título suficiente para os necessários registos.
 
-###### Art. 8.º - 1 - São transmitidas para as sociedades constituídas nos termos do presente diploma as posições jurídicas em contratos celebrados pela Siderurgia Nacional, S. A., relativamente aos interesses que passam a ser prosseguidos por aquelas, sem prejuízo da manutenção das garantias a elas inerentes.
+Art. 8.º - 1 - São transmitidas para as sociedades constituídas nos termos do presente diploma as posições jurídicas em contratos celebrados pela Siderurgia Nacional, S. A., relativamente aos interesses que passam a ser prosseguidos por aquelas, sem prejuízo da manutenção das garantias a elas inerentes.
 
 2 - Os trabalhadores cujos contratos sejam transmitidos nos termos do número anterior mantêm perante a nova sociedade a que ficam afectos todos os direitos e regalias que possuam na Siderurgia Nacional, S. A.
 
 3 - As novas sociedades, no âmbito da regulamentação das relações colectivas de trabalho, passam a ficar sujeitas aos instrumentos que lhes venham a ser aplicados, quer em resultado de negociação directa com as associações sindicais, quer em consequência da filiação institucional da sua actividade.
 
-###### Art. 9.º A Siderurgia Nacional, S. A., e as sociedades a constituir nos termos do presente diploma estão sujeitas, para efeitos dos respectivos processos de constituição e de privatização, ao regime de isenções estabelecido no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, e da possibilidade de transferência de prejuízos fiscais prevista no n.º 6 do artigo 62.º do Código do IRC.
+Art. 9.º A Siderurgia Nacional, S. A., e as sociedades a constituir nos termos do presente diploma estão sujeitas, para efeitos dos respectivos processos de constituição e de privatização, ao regime de isenções estabelecido no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, e da possibilidade de transferência de prejuízos fiscais prevista no n.º 6 do artigo 62.º do Código do IRC.
 
-###### Art. 10.º As sociedades constituídas nos termos do presente diploma podem emitir obrigações, nos termos estabelecidos na lei, desde o momento da sua constituição.
+Art. 10.º As sociedades constituídas nos termos do presente diploma podem emitir obrigações, nos termos estabelecidos na lei, desde o momento da sua constituição.
 
-###### Art. 11.º - 1 - Efectuadas as operações previstas no artigo 1.º, a Siderurgia Nacional, S. A., passará a ter por objecto único a gestão de participações sociais, devendo modificar os seus estatutos e adaptar a sua firma nos termos do artigo 2.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
+Art. 11.º - 1 - Efectuadas as operações previstas no artigo 1.º, a Siderurgia Nacional, S. A., passará a ter por objecto único a gestão de participações sociais, devendo modificar os seus estatutos e adaptar a sua firma nos termos do artigo 2.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
 
 2 - As modificações referidas no número anterior serão tituladas pela acta da assembleia geral donde conste essa deliberação, a qual constituirá título suficiente para efeitos de registo, com isenção de emolumentos.
 
 3 - As acções das sociedades criadas nos termos deste diploma poderão ser total ou parcialmente alienadas, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, sem por isso ser afectada a natureza da Siderurgia Nacional, S. A., como sociedade gestora de participações sociais (SGPS).
 
-###### Art. 12.º A Siderurgia Nacional, SGPS, deverá enviar trimestralmente aos Ministérios das Finanças e da Indústria e Energia elementos relativos à situação económica e financeira das sociedades participadas e ao controlo dessas mesmas sociedades, até ao termo dos respectivos processos de reprivatização.
+Art. 12.º A Siderurgia Nacional, SGPS, deverá enviar trimestralmente aos Ministérios das Finanças e da Indústria e Energia elementos relativos à situação económica e financeira das sociedades participadas e ao controlo dessas mesmas sociedades, até ao termo dos respectivos processos de reprivatização.
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 
@@ -165,13 +185,13 @@ Projecto dos estatutos das sociedades a criar por destaque de património da Sid
 
 ### CAPÍTULO I — Firma, sede e objecto
 
-###### Artigo 1.º Por destaque do património da Siderurgia Nacional, S. A., nos termos do Decreto-Lei n.º 424/93, de 31 de Dezembro, e de harmonia com a deliberação daquela sociedade, tomada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
+Artigo 1.º Por destaque do património da Siderurgia Nacional, S. A., nos termos do Decreto-Lei n.º 424/93, de 31 de Dezembro, e de harmonia com a deliberação daquela sociedade, tomada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
 
-###### Art. 2.º - 1 - A sociedade tem a sua sede social em ...
+Art. 2.º - 1 - A sociedade tem a sua sede social em ...
 
 2 - Por deliberação do conselho de administração, a sociedade poderá criar e manter, em qualquer ponto do território nacional ou fora dele, agências, delegações ou qualquer outra forma de representação, bem como, ouvido o conselho fiscal, deslocar a sua sede dentro do concelho de ... ou para concelho limítrofe.
 
-###### Art. 3.º - 1 - O objecto social consiste ...
+Art. 3.º - 1 - O objecto social consiste ...
 
 2 - A sociedade pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais, industriais e financeiras relacionadas, directa e indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
 
@@ -179,29 +199,29 @@ Projecto dos estatutos das sociedades a criar por destaque de património da Sid
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de ... e está integralmente realizado, em conformidade com o disposto no artigo 1.º do Decreto-Lei n.º 424/93, de 31 de Dezembro.
+Art. 4.º - 1 - O capital social é de ... e está integralmente realizado, em conformidade com o disposto no artigo 1.º do Decreto-Lei n.º 424/93, de 31 de Dezembro.
 
 2 - O capital é dividido em ... acções, com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções representativas do capital inicial da sociedade são nominativas e emitidas como acções escriturais.
+Art. 5.º - 1 - As acções representativas do capital inicial da sociedade são nominativas e emitidas como acções escriturais.
 
 2 - As acções podem ser tituladas a pedido e à custa dos interessados, podendo, nessa hipótese, haver títulos de 1 até 10000 acções.
 
-###### Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções, na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
+Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções, na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-###### Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos membros dos órgãos da sociedade é de três anos, renovável.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
+Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
 
 2 - Compete essencialmente à assembleia geral:
 
@@ -217,33 +237,33 @@ c) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, pa
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 10.º - 1 - As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais.
+Art. 10.º - 1 - As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais.
 
 2 - Relativamente a accionistas titulares de acções nominativas, é sempre indispensável a convocação por carta registada.
 
-###### Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar em primeira convocação é indispensável a presença ou representação de accionistas que detenham pelo menos 51% do capital social.
+Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar em primeira convocação é indispensável a presença ou representação de accionistas que detenham pelo menos 51% do capital social.
 
 2 - Em primeira convocação as deliberações sobre alteração dos estatutos, fusão, cisão, transformação ou dissolução da sociedade, aquisição ou alienação de acções próprias ou de participações noutras sociedades ou em agrupamentos complementares de empresas devem ser aprovadas por 51% dos votos correspondentes ao capital social, sem qualquer dedução no caso de existirem impedimentos de voto.
 
-###### Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á um voto por cada 100 acções e só os accionistas titulares de direito de voto poderão participar na assembleia.
+Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á um voto por cada 100 acções e só os accionistas titulares de direito de voto poderão participar na assembleia.
 
-###### Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
+Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
 
 2 - Nas ausências ou impedimentos, o presidente será substituído pelo vice-presidente.
 
 3 - A mesa é eleita pela própria assembleia de entre os accionistas ou de entre outras pessoas, sendo as suas faltas supridas nos termos da lei comercial.
 
-###### Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem pelo menos 5% do capital social.
+Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem pelo menos 5% do capital social.
 
 #### SECÇÃO II — Administração
 
-###### Art. 15.º - 1 - O conselho de administração é composto por três ou cinco administradores, eleitos pela assembleia geral.
+Art. 15.º - 1 - O conselho de administração é composto por três ou cinco administradores, eleitos pela assembleia geral.
 
 2 - Na eleição dos administradores é aplicável o disposto nos n.os 6 e 7 do artigo 392.º do Código das Sociedades Comerciais.
 
 3 - Não estando fixado expressamente pela assembleia geral o número de administradores, entender-se-á que tal número é o dos administradores efectivamente eleitos.
 
-###### Art. 16.º Ao conselho de administração compete especialmente:
+Art. 16.º Ao conselho de administração compete especialmente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -257,11 +277,11 @@ e) Estabelecer a organização técnico-administrativa da sociedade e as normas 
 
 f) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer.
 
-###### Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou ainda, se os administradores forem cinco, numa comissão executiva constituída por três administradores.
+Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou ainda, se os administradores forem cinco, numa comissão executiva constituída por três administradores.
 
 2 - A aquisição e a alienação de participações sociais, ainda que autorizadas pela assembleia geral, não se incluem nos poderes delegáveis.
 
-###### Art. 18.º - 1 - Compete essencialmente ao presidente do conselho de administração:
+Art. 18.º - 1 - Compete essencialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -273,7 +293,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -285,27 +305,27 @@ c) Pela assinatura dos mandatários constituídos, nos termos dos correspondente
 
 3 - Os títulos, provisórios ou definitivos, representativos das acções da sociedade devem ter as assinaturas de dois administradores, podendo ser substituídas por reprodução mecânica ou chancela.
 
-###### Art. 20.º - 1 - O conselho de administração reúne sempre que para o efeito for devidamente convocado.
+Art. 20.º - 1 - O conselho de administração reúne sempre que para o efeito for devidamente convocado.
 
 2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros em exercício.
 
 3 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 21.º As remunerações dos administradores, que podem ser diferenciadas, são fixadas pela assembleia geral.
+Art. 21.º As remunerações dos administradores, que podem ser diferenciadas, são fixadas pela assembleia geral.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 22.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
+Art. 22.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
 
 2 - Os membros efectivos e os suplentes serão eleitos pela assembleia geral, que designará o presidente e fixará as remunerações.
 
-###### Art. 23.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei comercial.
+Art. 23.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei comercial.
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
 ### CAPÍTULO IV — Distribuição dos resultados
 
-###### Art. 24.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
+Art. 24.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
 
 a) À constituição e, eventualmente, à reintegração da reserva legal;
 
@@ -315,7 +335,7 @@ c) A dividendos a distribuir pelos accionistas, conforme a assembleia geral deli
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 25.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 25.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.
 
@@ -323,15 +343,15 @@ Projecto de estatutos da Siderurgia Nacional, Sociedade Gestora de Participaçõ
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º - A sociedade adopta a forma de sociedade anónima e a denominação social de Siderurgia Nacional, Sociedade Gestora de Participações Sociais, S. A.
+Artigo 1.º - A sociedade adopta a forma de sociedade anónima e a denominação social de Siderurgia Nacional, Sociedade Gestora de Participações Sociais, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua de Braamcamp, 7.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua de Braamcamp, 7.
 
 2 - Por deliberação do conselho de administração a sociedade pode criar e extinguir sucursais, agências, delegações ou outras formas de representação, no território nacional ou no estrangeiro.
 
 3 - A mudança de sede, dentro no município de Lisboa ou para municípios limítrofes, pode ser feita por simples deliberação do conselho de administração.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto a gestão de participações sociais em outras sociedades, como forma indirecta de exercício de actividades económicas, podendo adquirir, alienar ou deter acções e quotas de quaisquer sociedades, nacionais ou estrangeiras.
+Art. 3.º - 1 - A sociedade tem por objecto a gestão de participações sociais em outras sociedades, como forma indirecta de exercício de actividades económicas, podendo adquirir, alienar ou deter acções e quotas de quaisquer sociedades, nacionais ou estrangeiras.
 
 2 - A sociedade pode participar em sociedades de qualquer natureza e objectivo, associações, agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico.
 
@@ -339,7 +359,7 @@ Projecto de estatutos da Siderurgia Nacional, Sociedade Gestora de Participaçõ
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 23500000000$00 e encontra-se integralmente realizado.
+Art. 4.º - 1 - O capital social é de 23500000000$00 e encontra-se integralmente realizado.
 
 2 - O capital social é representado por 23500000 acções, do valor nominal de 1000$00 cada uma, inicialmente nominativas, mas passíveis de conversão em acções ao portador, registadas ou não.
 
@@ -349,13 +369,13 @@ Projecto de estatutos da Siderurgia Nacional, Sociedade Gestora de Participaçõ
 
 5 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos representativos das acções é suportado pelos interessados, segundo critérios a fixar pela assembleia geral.
 
-###### Art. 5.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 5.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - A sociedade pode emitir acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 6.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O presidente do conselho de administração é designado pela assembleia geral que eleger o mesmo conselho.
 
@@ -367,7 +387,7 @@ Projecto de estatutos da Siderurgia Nacional, Sociedade Gestora de Participaçõ
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 7.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 7.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto.
 
@@ -387,7 +407,7 @@ Projecto de estatutos da Siderurgia Nacional, Sociedade Gestora de Participaçõ
 
 10 - Os membros do conselho de administração e do conselho fiscal e o revisor oficial de contas deverão estar presentes nas reuniões da assembleia geral e podem participar nos seus trabalhos, não tendo, nessa qualidade, direito a voto.
 
-###### Art. 8.º - 1 - Compete à assembleia geral:
+Art. 8.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -407,21 +427,21 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações podem ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-###### Art. 9.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um accionista ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 9.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um accionista ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vice-presidente.
 
-###### Art. 10.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 10.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 2 - Para efeitos das alíneas b) e c) do n.º 1 do artigo 8.º, a assembleia geral só pode reunir, em primeira convocatória, encontrando-se presentes ou representados accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 11.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
+Art. 11.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração são preenchidos por nomeação do próprio conselho, nos termos da alínea b) do n.º 1 do artigo 393.º do Código das Sociedades Comerciais.
 
-###### Art. 12.º - 1 - Ao conselho de administração compete:
+Art. 12.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -437,7 +457,7 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei ou pela ass
 
 2 - O conselho de administração, quando composto por cinco membros, pode delegar numa comissão executiva, constituída por três administradores, incluindo o presidente, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -451,7 +471,7 @@ e) Presidir à comissão executiva, quando criada, nos termos do n.º 2 do artig
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 14.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou de dois administradores.
+Art. 14.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou de dois administradores.
 
 2 - O conselho de administração só pode funcionar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -461,7 +481,7 @@ e) Presidir à comissão executiva, quando criada, nos termos do n.º 2 do artig
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 15.º - 1 - A sociedade obriga-se:
+Art. 15.º - 1 - A sociedade obriga-se:
 
 a) Pelas assinaturas de dois membros do conselho de administração, que devem integrar a comissão executiva, quando exista;
 
@@ -475,13 +495,13 @@ c) Pela assinatura de mandatário constituído, no âmbito dos poderes que lhe f
 
 #### SECÇÃO III — Conselho fiscal e revisor oficial de contas
 
-###### Art. 16.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
+Art. 16.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Haverá ainda um revisor oficial de contas, nos termos do disposto no artigo 10.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 17.º Ao conselho fiscal compete, em especial:
+Art. 17.º Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que julgue conveniente e pelo menos uma vez por mês, a escrituração da sociedade;
 
@@ -495,11 +515,11 @@ e) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anua
 
 f) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.
 
-###### Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
+Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados positivos do exercício, devidamente aprovados, têm a seguinte aplicação:
+Art. 19.º Os resultados positivos do exercício, devidamente aprovados, têm a seguinte aplicação:
 
 a) 5%, pelo menos, para a reserva legal, até atingir o montante legal exigível;
 
@@ -511,8 +531,8 @@ d) O restante conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 21.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 21.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

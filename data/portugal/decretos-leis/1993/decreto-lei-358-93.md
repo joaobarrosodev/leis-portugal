@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/358/1993/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1993-668324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 321576e721e2c4ff911edcafb2b8536fc9a1f04d24ef516411a82a0e745f7809
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd35d07ada5ada4ee9cb325144c9bdd88b489915eb8d80f2f562296869bb10e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,37 @@ reuse:
 subjects:
 - Fundo de Garantia Automóvel
 - Junta Autónoma das Estradas
-- Veículo
-- Segurança Rodoviária
 - Responsabilidade Civil Automóvel
+- Segurança Rodoviária
 - Seguro de Responsabilidade Civil Automóvel
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/122/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:27:22Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +116,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 27.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, alterado pelo [Decreto-Lei n.º 122/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1992-291845), de 2 de Julho, passa a ter a seguinte redacção:
+Artigo único. O artigo 27.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, alterado pelo [Decreto-Lei n.º 122/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1992-291845), de 2 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 27.º — [...]
 
@@ -144,12 +156,12 @@ d) A entrega à Junta Autónoma de Estradas de um montante anual, para fins de p
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Jorge Manuel Mendes Antas.
 
-**Promulgado em 29 de Setembro de 1993.**
+Promulgado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1993.**
+Referendado em 2 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

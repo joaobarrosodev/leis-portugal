@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/1993/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1993-680636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b4cc718d4f120c67e6c409b5d6d2460e4be0dbf7d6962f4bca6e53d8fc8ea20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a27ea01d180ce5578a9edf6292951ce1798c9cb71fe18c3a77f5df32359498e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Reconhecimento e Ordenamento Agrário
-- Pessoal Dirigente
 - Conselho Regional Agrário
 - Definição de Competências
 - Direcção Regional de Agricultura
@@ -77,14 +76,15 @@ subjects:
 - Direcção Regional de Agricultura do Alentejo
 - Direcção Regional de Agricultura do Algarve
 - Direcção Regional de Agricultura do Ribatejo e Oeste
-- Ministério da Agricultura
 - Estação Nacional de Melhoramento de Plantas
 - Extinção de Serviços
 - Instituto da Vinha e do Vinho
 - Integração de Serviços
 - Integração de Trabalhadores
 - Laboratório Nacional de Investigação Veterinária
+- Ministério da Agricultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional
 - Transferência de Competências
@@ -102,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:58Z'
   warnings: []
   errors: []
 ---
@@ -302,7 +310,9 @@ b) Divisão de Organização e Gestão dos Recursos Humanos;
 
 c) Repartição Administrativa.
 
-###### Artigo 9.º — Divisão de Programação e Gestão Financeira
+###### Artigo 9.º
+
+##### Divisão de Programação e Gestão Financeira
 
 1 - Compete à Divisão de Programação e Gestão Financeira:
 
@@ -320,7 +330,9 @@ f) Promover a elaboração da conta anual de gerência e a elaboração do relat
 
 2 - Na dependência da Divisão de Programação e Gestão Financeira funciona uma tesouraria, dirigida por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 10.º — Divisão de Organização e Gestão dos Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Organização e Gestão dos Recursos Humanos
 
 Compete à Divisão de Organização e Gestão dos Recursos Humanos:
 
@@ -350,7 +362,9 @@ c) Secção de Aprovisionamento, à qual compete elaborar e executar os processo
 
 d) Secção de Património e Conservação de Bens, à qual compete manter actualizado o inventário dos bens, zelar pela conservação dos edifícios e outras instalações, pela eficiência das redes de comunicação internas, assegurar o serviço de manutenção de viaturas e a eficácia do serviço de limpeza e segurança.
 
-###### Artigo 12.º — Divisão de Informação e Relações Públicas
+###### Artigo 12.º
+
+##### Divisão de Informação e Relações Públicas
 
 À Divisão de Informação e Relações Públicas, dependente directamente do director regional, compete:
 
@@ -394,7 +408,9 @@ b) Divisão de Garantia Agrícola;
 
 c) Divisão de Condicionamentos Legais à Produção.
 
-###### Artigo 15.º — Divisão de Mercados
+###### Artigo 15.º
+
+##### Divisão de Mercados
 
 À Divisão de Mercados compete:
 
@@ -406,11 +422,15 @@ c) Recolher informação sobre o preço dos principais produtos agro-pecuários 
 
 d) Assegurar as eventuais operações de intervenção no mercado dos produtos agro-alimentares sujeitos a um regime de intervenção.
 
-###### Artigo 16.º — Divisão de Garantia Agrícola
+###### Artigo 16.º
+
+##### Divisão de Garantia Agrícola
 
 À Divisão de Garantia Agrícola compete executar as acções relativas à atribuição de prémios, subsídios e outros apoios decorrentes das políticas de preço e mercados.
 
-###### Artigo 17.º — Divisão de Condicionamentos Legais à Produção
+###### Artigo 17.º
+
+##### Divisão de Condicionamentos Legais à Produção
 
 À Divisão de Condicionamentos Legais à Produção compete assegurar toda a tramitação relacionada com os condicionalismos legais à produção em estreita colaboração com os organismos centrais do Ministério da Agricultura com os quais tem afinidades funcionais.
 
@@ -428,7 +448,9 @@ c) Divisão de Hidráulica e Infra-Estruturas Rurais;
 
 d) Divisão de Estruturação Fundiária e Protecção Agro-Ambiental.
 
-###### Artigo 19.º — Divisão de Planeamento e Recolha de Dados
+###### Artigo 19.º
+
+##### Divisão de Planeamento e Recolha de Dados
 
 À Divisão de Planeamento e Recolha de Dados compete:
 
@@ -442,7 +464,9 @@ d) Assegurar a nível da região agrária, em colaboração com os serviços cen
 
 e) Assegurar a gestão da rede recolha de informação estatística a nível da região agrária e a manutenção e actualização dos ficheiros das unidades estatísticas, incluindo a informação das contabilidades agrícolas.
 
-###### Artigo 20.º — Divisão das Medidas Sócio-Estruturais
+###### Artigo 20.º
+
+##### Divisão das Medidas Sócio-Estruturais
 
 À Divisão das Medidas Sócio-Estruturais compete:
 
@@ -452,7 +476,9 @@ b) Colaborar na avaliação técnico-económica de projectos, nomeadamente no â
 
 c) Promover a avaliação de prejuízos causados por fenómenos naturais, designadamente os resultantes de acidenes meteorológicos e propor as medidas consideradas adequadas.
 
-###### Artigo 21.º — Divisão de Hidráulica e Infra-Estruturas Rurais
+###### Artigo 21.º
+
+##### Divisão de Hidráulica e Infra-Estruturas Rurais
 
 1 - À Divisão de Hidráulica e Infra-Estruturas Rurais compete:
 
@@ -474,7 +500,9 @@ c) Promover os estudos relacionados com os aproveitamentos hidroagrácolas, bem 
 
 d) Garantir o apoio à formação profissional tendo em vista os processos de utilização de tecnologias produtivas associadas a máquinas e equipamentos.
 
-###### Artigo 22.º — Divisão de Estruturação Fundiária e Protecção Agro-Ambiental
+###### Artigo 22.º
+
+##### Divisão de Estruturação Fundiária e Protecção Agro-Ambiental
 
 À Divisão de Estruturação Fundiária e Protecção Agro-Ambiental compete:
 
@@ -498,7 +526,9 @@ b) Divisão de Sanidade Animal;
 
 c) Divisão de Higiene e Qualidade dos Produtos Agro-Alimentares.
 
-###### Artigo 24.º — Divisão de Protecção das Culturas
+###### Artigo 24.º
+
+##### Divisão de Protecção das Culturas
 
 À Divisão de Protecção das Culturas compete:
 
@@ -512,7 +542,9 @@ d) Promover a recolha e análise de produtos vegetais para detecção de resídu
 
 e) Assegurar a execução das acções de inspecção e fiscalização visando as garantias varietal e sanitária.
 
-###### Artigo 25.º — Divisão de Sanidade Animal
+###### Artigo 25.º
+
+##### Divisão de Sanidade Animal
 
 À Divisão de Sanidade Animal compete:
 
@@ -524,7 +556,9 @@ c) Articular as actividades dos veterinários municipais e de outras entidades n
 
 d) Promover a execução das acções necessárias à avaliação genética dos reprodutores e à elaboração dos registos genealógicos e zootécnicos.
 
-###### Artigo 26.º — Divisão de Higiene e Qualidade dos Produtos Agro-Alimentares
+###### Artigo 26.º
+
+##### Divisão de Higiene e Qualidade dos Produtos Agro-Alimentares
 
 À Divisão de Higiene e Qualidade dos Produtos Agro-Alimentares compete promover o cumprimento das normas de exploração e requisitos sanitários das diferentes espécies animais, bem como a execução das acções de vigilância sanitária, com vista à defesa e preservação do património animal, saúde pública e aumento da produção.
 
@@ -740,16 +774,16 @@ d) O Núcleo de Melhoramento do Milho da Estação Nacional de Melhoramento de P
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Março de 1993.**
+Promulgado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/078a00/16521661.pdf))](https://files.diariodarepublica.pt/1s/1993/04/078a00/16521661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/078a00/16521661.pdf)

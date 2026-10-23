@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/1993/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f7fa872fe21c0fc6e73d37638cd350b4a3d51d7713f568196c8fa1ea4d511be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d10d854d47359722fb94cc63f6e9e845c6205867dedd070f9d7cf83fd6d2fd81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Contribuições da Segurança Social
 - Regime Geral da Segurança Social
 - Segurança Social
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:549454:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:29:28Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +108,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os artigos 3.º e 7.º do [Decreto-Lei n.º 380/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1989-549454), de 27 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º - 1 - Os artigos 3.º e 7.º do [Decreto-Lei n.º 380/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1989-549454), de 27 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Âmbito pessoal
 
@@ -128,9 +132,9 @@ b) A pessoas que, enquanto trabalhadores, não tivessem sido inscritos no sistem
 
 2 - É revogado o n.º 3 do artigo 6.º do [Decreto-Lei n.º 380/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1989-549454), de 27 de Outubro.
 
-###### Art. 2.º As pensões já atribuídas, cujo montante tenha sido determinado por aplicação da norma revogada pelo n.º 2 do artigo anterior, são objecto de revisão oficiosa, a qual só produz efeitos a partir do mês seguinte ao da publicação do presente diploma.
+Art. 2.º As pensões já atribuídas, cujo montante tenha sido determinado por aplicação da norma revogada pelo n.º 2 do artigo anterior, são objecto de revisão oficiosa, a qual só produz efeitos a partir do mês seguinte ao da publicação do presente diploma.
 
-###### Art. 3.º - 1 - As alterações introduzidas pelo presente diploma aplicam-se aos processos para pagamento retroactivo de contribuições cujos requerimentos tenham já sido apresentados, mesmo que tenham sido objecto de decisão.
+Art. 3.º - 1 - As alterações introduzidas pelo presente diploma aplicam-se aos processos para pagamento retroactivo de contribuições cujos requerimentos tenham já sido apresentados, mesmo que tenham sido objecto de decisão.
 
 2 - Sempre que os pagamentos retroactivos de contribuições tenham sido requeridos por interessados anteriormente não vinculados ao sistema de segurança social, devem as instituições proceder à sua notificação para virem, querendo, solicitar o deferimento dos pedidos por 144 meses e a devolução do excesso de contribuições eventualmente pagas.
 
@@ -140,14 +144,14 @@ b) A pessoas que, enquanto trabalhadores, não tivessem sido inscritos no sistem
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em Setúbal em 5 de Fevereiro de**
+Promulgado em Setúbal em 5 de Fevereiro de
 
 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1993.**
+Referendado em 9 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

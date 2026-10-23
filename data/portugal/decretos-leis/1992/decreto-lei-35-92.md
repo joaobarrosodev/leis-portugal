@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/1992/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1992-175975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6304821c771c4dfbb152e9607ae69820e1d12921c933cc6df04904e4e9224ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 473ab254f659430132e4c52083f45a6ba172e13563baae5294d0f21e40f95b97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Médico
 - CEE
-- Equivalência de Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Habilitações Literárias
 - Livre Prestação de Serviços
+- Médico
 - Trabalhador Comunitário
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO RECTIFICAÇÃO 40/92, PUBLICADA NO DR.IS-A, 100 SUPL, DE 920430. REVOGADO O NUMERO 3 DA\
+    \ ALÍNEA A) DO ANEXO I E ALTERADOS OS ARTIGOS 4 E 5 DO DECRETO LEI 326/87, DE 870901, NA REDACÇÃO CONSTANTE DO PRESENTE\
+    \ DIPLOMA, PELO DECRETO LEI 186/93, PUBLICADO NO DR.IS-A, 119, DE 930522.\019, DE 930522.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:653500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282518:por
+  label: "Alterados os arts. 4.º e 5.º e revogado o nº 3 da al. a) do anexo I do Dec Lei 326/87 de 01-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.186/93.22.05.1993.MS, DR.IS-A [119] de 22.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1993-282518
+  date: '1993-05-22'
+- type: amended_by
+  target: pt:dre:508466:por
+  label: "Alterado o nº 2 do anexo II do Dec Lei 326/87 de 01-Set, com a redacção do presente diploma, DEC LEI.48/2000.2000.03.24.MS\
+    \ DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2000-508466
+  date: '2000-03-24'
+- type: amended_by
+  target: pt:dre:313612:por
+  label: "Alterado o nº 2 do anexo II do Dec Lei 326/87 de 01-Set, na redacção do presente diploma pelo DEC EI.18/2001.2001.01.27.MS,DR.IS-A\
+    \ [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2001-313612
+  date: '2001-01-27'
+- type: amended_by
+  target: pt:dre:653500:por
+  label: "Alterado o nº 2 do art 3º e aditados os nºs 3 e 4, aditados os nºs 2 e 3 ao art 2º, o nº 5 ao art 5º, os nºs 3 e\
+    \ 4 ao art 11º e os nºs 1, 2 e 3 ao art 14º e substituídos os anexos I e II do Dec Lei 326/87 de 01-Set, alterado pelo\
+    \ presente diploma, pelo DEC LEI.177/2003.2003.08.05.MS, DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2003-653500
+  date: '2003-08-05'
 - type: cites
   target: celex:31975L0362
   label: null
@@ -91,15 +122,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1989/594/oj
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:11Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +149,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Resolução da Assembleia da República n.º 22/85, de 18 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º e 5.º do Decreto-Lei n.º 326/87, de 1 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º e 5.º do Decreto-Lei n.º 326/87, de 1 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Direitos adquiridos como médico
 
@@ -132,18 +163,18 @@ No desenvolvimento do regime jurídico estabelecido pela Resolução da Assemble
 
 2 - Quando os diplomas, certificados e outros títulos de médico especialista conferidos por Estados membros das Comunidades Europeias não correspondam às denominações constantes do anexo II ao presente decreto-lei, só poderão ser reconhecidos em Portugal, com os efeitos previstos no artigo 3.º, se forem acompanhados de certificado emitido pelas autoridades ou organismos competentes, atestando que esses diplomas, certificados ou outros títulos de médico especialista sancionam uma formação conforme às disposições da Directiva n.º [75/363/CEE](https://data.europa.eu/eli/dir/1975/363/oj?locale=pt) e que são equiparados pelo Estado membro que os emitiu àqueles cujas denominações figuram no anexo II ao presente decreto-lei.
 
-###### Art. 2.º Os anexos I e II do Decreto-Lei n.º 326/87, de 1 de Setembro, passam a ter a redacção constante do anexo ao presente diploma e que dele faz parte integrante.
+Art. 2.º Os anexos I e II do Decreto-Lei n.º 326/87, de 1 de Setembro, passam a ter a redacção constante do anexo ao presente diploma e que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 9 de Janeiro de 1992. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho.
 
-**Promulgado em 10 de Fevereiro de 1992.**
+Promulgado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992.**
+Referendado em 17 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/062a00/13101314.pdf))](https://files.diariodarepublica.pt/1s/1992/03/062a00/13101314.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/062a00/13101314.pdf)

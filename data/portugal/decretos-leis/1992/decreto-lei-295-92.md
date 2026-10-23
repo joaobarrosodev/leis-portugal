@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/295/1992/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1992-408771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47f5e63f804a298cd153018e05eae7d60f42b620220353f8a8e5bf6c50d25726
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6284c6a60af737b09ca552f96a289e1e59f366cfe7f0faa7fe0eb41a519e2d3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços Prisionais
-- Sistema Retributivo
 - Pessoal de Vigilância
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:417038:por
@@ -83,16 +83,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/1991/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/1991/01/18/p/dre
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674182:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417038:por
+  label: "Revogado pelo DEC LEI.100/96.23.07.1996.MJ, DR.IS-A [169] de 23.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1996-417038
+  date: '1996-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:20:01Z'
   warnings: []
   errors: []
 ---
@@ -113,32 +138,32 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A escala remuneratória do pessoal de vigilância da Direcção-Geral dos Serviços Prisionais é a constante do mapa anexo I ao presente diploma, do qual faz parte integrante, e produz efeitos desde 1 de Janeiro de 1992, após o terceiro e último desbloqueamento de escalões.
+Artigo 1.º A escala remuneratória do pessoal de vigilância da Direcção-Geral dos Serviços Prisionais é a constante do mapa anexo I ao presente diploma, do qual faz parte integrante, e produz efeitos desde 1 de Janeiro de 1992, após o terceiro e último desbloqueamento de escalões.
 
-###### Art. 2.º A transição do pessoal referido no artigo anterior prevista no [Decreto-Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1991-498330), de 18 de Janeiro, é feita de acordo com a tabela constante do anexo II ao presente diploma e que dele faz parte integrante.
+Art. 2.º A transição do pessoal referido no artigo anterior prevista no [Decreto-Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1991-498330), de 18 de Janeiro, é feita de acordo com a tabela constante do anexo II ao presente diploma e que dele faz parte integrante.
 
-###### Art. 3.º O pessoal referido nos artigos anteriores progride de acordo com o estabelecido no mapa constante do anexo III ao presente diploma, que dele faz parte integrante, nos termos das regras definidas no [Decreto-Lei n.º 298/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1991-674182), de 16 de Agosto, se melhor posicionamento não lhe couber.
+Art. 3.º O pessoal referido nos artigos anteriores progride de acordo com o estabelecido no mapa constante do anexo III ao presente diploma, que dele faz parte integrante, nos termos das regras definidas no [Decreto-Lei n.º 298/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1991-674182), de 16 de Agosto, se melhor posicionamento não lhe couber.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 10 de Dezembro de 1992.**
+Promulgado em 10 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Dezembro de 1992.**
+Referendado em 15 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf))](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf)
 
 ## ANEXO II — Tabela a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf))](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf)
 
 ## ANEXO III — Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf))](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/300a00/60226024.pdf)

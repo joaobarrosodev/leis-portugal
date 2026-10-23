@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/1994/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1994-269591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01392bd98b709d0482b72fd600d3173a273d1bccbb3081462c4f0768781455fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fef49ce545aa9561b5608eb31cc6d45ae710d6a89aaa7465d8d9c40cc075fca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento Complementar de Empresas
-- Sociedade Anónima
-- Empresa
-- Constituição de Sociedade
-- Emolumento
+- Benefícios Fiscais
 - Cisão de Empresas
-- Fusão de Empresas
+- Constituição de Sociedade
+- Cooperativa
+- Emolumento
+- Empresa
 - Empresa Privada
 - Empresa Pública
-- Cooperativa
+- Fusão de Empresas
 - Fusão de Sociedades
-- Sisa
 - Isenção Fiscal
-- Benefícios Fiscais
+- Sisa
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:306907:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621765:por
+  label: "Altera o art. 1.º do Dec Lei 404/90 de 21-Dez DR.IS [293]2ºSupl, com a redacção dada pelo presente diploma, pela\
+    \ LEI.92-A/95.1995.12.28.AR DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/92-a-1995-621765
+  date: '1995-12-28'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção dos art 1º e 3º do Dec-lei 404/90 de 21-Dez (na redacção dada pelo presente diploma e pela Lei\
+    \ 92-A/95 de 28-Dez), pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3ºSupl (OE 1997 - Art 51º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterada a redacção do art. 1.º do Dec Lei 404/90 de 21-Dez DR.IS (293)2.ºSupl, com a redacção dada pelo presente\
+    \ diploma, pela LEI.87-B/98.1998.12.31.AR DR.IS-A [301]5.ºSUPL (OE 1999 - Art. 44.º)\0º)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Aditados os arts. 4.º e 5.º e alterados os arts. 1.º, 2.º e 3.º do Dec Lei 404/90, de 21-Dez DR.IS [293]2ºSupl,\
+    \ na redacção do presente diploma, da Lei 92-A/95, de 28-Dez, da Lei 52-C/96, de 27-Dez e da Lei 87-B/98, de 31-Dez, pela\
+    \ LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/371/1993/10/29/p/dre
   label: null
@@ -93,16 +118,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:06Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +156,15 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 36.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Às empresas que, até 31 de Dezembro de 1995, se reorganizem em resultado de actos de concentração ou de acordos de cooperação poderão ser concedidos os seguintes benefícios:
+Artigo 1.º Às empresas que, até 31 de Dezembro de 1995, se reorganizem em resultado de actos de concentração ou de acordos de cooperação poderão ser concedidos os seguintes benefícios:
 
 a) Isenção de sisa relativa à transmissão de imóveis necessários à concentração ou à cooperação;
 
 b) Isenção dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no processo de reorganização.
 
-###### Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se actos de concentração apenas os seguintes:
+Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se actos de concentração apenas os seguintes:
 
 a) A fusão de sociedades, empresas públicas ou cooperativas;
 
@@ -139,7 +176,7 @@ d) A cisão de sociedades, desde que tal operação dê lugar a uma concentraç�
 
 2 - ...
 
-###### Art. 3.º - 1 - Os benefícios previstos no artigo 1.º só poderão ser concedidos se a reorganização empresarial projectada, sem prejudicar a existência de um grau desejável de concorrência no mercado, tiver efeitos positivos em termos de estrutura produtiva, designadamente através de um melhor aproveitamente da capacidade de produção ou comercialização ou do aperfeiçoamento da qualidade dos bens ou serviços das empresas.
+Art. 3.º - 1 - Os benefícios previstos no artigo 1.º só poderão ser concedidos se a reorganização empresarial projectada, sem prejudicar a existência de um grau desejável de concorrência no mercado, tiver efeitos positivos em termos de estrutura produtiva, designadamente através de um melhor aproveitamente da capacidade de produção ou comercialização ou do aperfeiçoamento da qualidade dos bens ou serviços das empresas.
 
 2 - Os benefícios serão concedidos por despacho conjunto dos Ministros das Finanças e da Justiça, a requerimento das empresas interessadas, precedendo informação da Direcção-Geral das Contribuições e Impostos (DGCI), devendo o requerimento ser acompanhado, em triplicado, de estudo demonstrativo das vantagens a que se refere o número anterior.
 
@@ -151,12 +188,12 @@ d) A cisão de sociedades, desde que tal operação dê lugar a uma concentraç�
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
