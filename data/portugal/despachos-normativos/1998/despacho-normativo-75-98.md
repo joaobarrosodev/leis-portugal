@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/266b00/62126213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/75/1998/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/75-1998-229520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 806916768318e705afeb6736d0abc5208321be63efba7808ee24cba50f5bb72e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9347efd09ed1df9f4c041070524df89c70ac49661e0c964aa519279eb406273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Diário da República
-- Imprensa Nacional-Casa da Moeda
 - Diploma Legal
+- Imprensa Nacional-Casa da Moeda
 - Normalização
 relationships:
 - type: amended_by
@@ -82,16 +82,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/16/1997/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/16/1997/04/03/p/dre
+- type: cites
+  target: pt:dre:526660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357129:por
+  label: "Revogado o DN 16/97de 03-Abr, alterado pelo presente despacho, pelo DN.38/2006.23.06.2006.PCM, DR.IS-B [125] de\
+    \ 30.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/38-2006-357129
+  date: '2006-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:24Z'
   warnings: []
   errors: []
 ---

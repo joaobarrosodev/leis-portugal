@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/009b00/03230324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/2/2006/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2006-169061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd9631f0cb3909bd742eead5225c7d4d567c7a8963971b2cf0ca43f0a93d4715
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef8c66cee5a5f3f42befad4c4827148fcc4d6d23e9f82a1455018a9533ee1052
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Agricultores
-- Financiamento
-- Castanheiro
-- Apoio ao Investimento
-- Política Agrícola Comum
 - Agricultor
-- Regulamento CE
+- Apoio ao Investimento
+- Associação de Agricultores
+- Castanheiro
+- Financiamento
 - Fruticultura
+- Política Agrícola Comum
+- Regulamento CE
 - Subsídio a Agricultores
 relationships:
 - type: amended_by
   target: pt:dre:553641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651677:por
+  label: "Alterado o art. 3º do presente Despacho, pelo DN.24/2006.23.03.2006.MADRP, DR.IS-B [72] de 11.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2006-651677
+  date: '2006-03-23'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -94,16 +99,22 @@ relationships:
   target: celex:32005R0794
   label: null
   source: http://data.europa.eu/eli/reg/2005/794/oj
+- type: repealed_by
+  target: pt:dre:553641:por
+  label: "Revogado, a partir de 01.04.2012, o presente despacho normativo, na redacção do DN 24/2006, de 23-mar, pela PORT.62/2012.20.03.2012.MAMAOT,\
+    \ DR.IS [57] de 20.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2012-553641
+  date: '2012-03-20'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:27Z'
   warnings: []
   errors: []
 ---

@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/221-1986-227183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89709bb53ba0a6d72512e793c131cc89098f28a6b389ab2603221325aacdd982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3baf6e15b308ab8eaa6085487bb34fd905bc4b18e344cc5f6b10d3eefabe39c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Ensino de Física e Química
+- Curso de Ensino de Português e Francês
+- Ensino Superior
+- Licenciatura
+- Universidade de Trás-os-montes e ALTO Douro
 relationships:
 - type: amended_by
   target: pt:dre:550452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374213:por
+  label: "Alterado o anexo IV pela PORT.362/88.03.06.1988.ME, DR.IS [128] de 03.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1988-374213
+  date: '1988-06-03'
+- type: amended_by
+  target: pt:dre:550452:por
+  label: "Derrogada, na parte referente ao curso de Ensino de Português e Francês pela PORT.1083/89.1989.12.14.ME,DR.IS [286]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1083-1989-550452
+  date: '1989-12-14'
+- type: amended_by
+  target: pt:dre:550455:por
+  label: "Derrogada, na parte referente ao curso de Ensino de Inglês e Alemão pela PORT.1080/89.1989.12.14.ME,DR.IS [286]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1080-1989-550455
+  date: '1989-12-14'
+- type: amended_by
+  target: pt:dre:550456:por
+  label: "Derrogada, na parte referente ao curso de Ensino de Física e Química pela PORT.1081/89.1989.12.14.ME,DR.IS [286]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-1989-550456
+  date: '1989-12-14'
+- type: amended_by
+  target: pt:dre:550457:por
+  label: "Derrogada, na parte referente ao curso de Ensino de Português e Inglês pela PORT.1082/89.1989.12.14.ME,DR.IS [112]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-1989-550457
+  date: '1989-12-14'
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:03Z'
   warnings: []
   errors: []
 ---
@@ -153,9 +215,9 @@ O estágio pedagógico, bem como a admissão ao mesmo, é regulado pela [Portari
 
 Ministério da Educação e Cultura.
 
-**Assinada em 21 de Abril de 1986.**
+Assinada em 21 de Abril de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 ## ANEXO I — Licenciatura em Ensino de Inglês e Alemão
 

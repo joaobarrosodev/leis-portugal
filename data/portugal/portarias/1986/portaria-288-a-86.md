@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 137/1986, 1º Suplemento, Série I de 1986-06-18
   number: '137'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1438-(2) a 1438-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13701/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-a-1986-297188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1371f69ce80f608257c4bb434f331c5aeb0578cfe19f4332484ac94aa024f8b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82f0d7e1fd1b55327a3253287acdc3bec45f896c46a04d88e232f5f62ed8c33d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conta Poupança-emigrante
+- Emigrante
+- Investimento
 relationships:
 - type: amended_by
   target: pt:dre:627208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADOS OS NUM 8 E 9 AO NUM 4, PELA PORT 334-A/86 DE 03-JUL DR.IS [150]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-07-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 1 E 3 PELA PORT 627-A/86 DE 25-OUT DR.IS [247]2SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-10-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 1, 2 E 4 PELA PORT 534/87 DE 30-JUN DR.IS [147]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO UM NUM 7 PELA PORT 411/88 DE 30-JUN DR.IS [149]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-06-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A REDACÇÃO DO NUM 3, CONSTANTE DA PORT 627-A/86 DE 25-OUT, PELA PORT 440/88 DE 07-JUL DR.IS [155]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-07-07'
+- type: cites
+  target: pt:dre:569902:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627208:por
+  label: "Revogada pelo DEC LEI.323/95.1995.11.29.MF, DR.IS-A [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1995-627208
+  date: '1995-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:44:49Z'
   warnings: []
   errors: []
 ---
@@ -176,6 +213,6 @@ c) As contas acessíveis a residentes não podem ser debitadas para crédito de 
 
 Ministério das Finanças.
 
-**Assinada em 14 de Junho de 1986.**
+Assinada em 14 de Junho de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

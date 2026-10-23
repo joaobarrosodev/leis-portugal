@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/108b00/30253026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/20/2003/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2003-580998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52f106963500bfc2ffeef45dab854649d3d79cf057318d5e5d7cf38e9aa17dd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e887d1d4c718b5b778f47f8b01313bbf8bdc3a252747dc945f7af69453ce4458
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Acompanhamento
-- Ministério da Segurança Social e do Trabalho
-- Instituto de Solidariedade e Segurança Social
-- Definição de Competências
-- Comissão
 - Ação Social
 - Centro Distrital de Solidariedade e Segurança Social
+- Comissão
+- Comissão de Acompanhamento
+- Definição de Competências
 - Direcção Geral da Solidariedade e Segurança Social
+- Instituto de Solidariedade e Segurança Social
+- Ministério da Segurança Social e do Trabalho
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:2363668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2623118:por
+  label: "Alteradas as normas II, V e VI pelo DN.28/2009.18.08.2009.MTSSO, DR.IIS [159] de 18.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-2009-2623118
+  date: '2009-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/40/1999/08/24/p/dre
   label: null
@@ -88,16 +93,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/75/1992/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/75/1992/05/20/p/dre
+- type: cites
+  target: pt:dre:433788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523181:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2363668:por
+  label: "Revogado pelo DN.2/2012.14.02.2012.MSSSOC, DR.IIS [32] de 14.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2012-2363668
+  date: '2012-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:58Z'
   warnings: []
   errors: []
 ---

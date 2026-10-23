@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/3/1999/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1999-181383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82ba4dd21be0f418a7f4e938ae4f7c0dcf21275e63bd42167c7170f91757046d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40bdfb481e77ff038c6fff33a4c3c0627642ee95852d03d772c7f537669e4177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Desenvolvimento Industrial
-- Política Industrial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Industrial
+- Empresa
+- Financiamento
+- IAPMEI
 - Indústria
 - Modernização Industrial
-- Regime de Apoio
 - Pedip II
-- IAPMEI
+- Política Industrial
+- Projeto de Investimento
+- Regime de Apoio
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/934/1994/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/934/1994/10/21/p/dre
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644891:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:07Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +162,9 @@ Nestes termos, determina-se:
 
 1 - São susceptíveis de apoio no âmbito do presente regime os projectos de inovação e internacionalização das estruturas empresariais a que se refere a alínea c) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890), apresentados após a entrada em vigor do presente diploma, com excepção das candidaturas regulamentadas respectivamente pelos Despachos Normativos n.os [84/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1995-643123), de 27 de Dezembro (PRATIC), e [86/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/86-1995-644891), de 29 de Dezembro (PRODIBETA).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 

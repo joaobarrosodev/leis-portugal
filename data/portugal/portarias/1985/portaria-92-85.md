@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/03700/03460346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-1985-327672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b69160fcfc95f29cbbdd6337e2da56d35e541507e8a5e69c76cf7ae2361594fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70ffa680f58d0bcd1b8603bb7d51ddf9b5afc565024cae2fee04899d97b3ac7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:33Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +96,6 @@ Selo - circular, tendo ao centro as peças das armas, sem indicação dos esmalt
 
 Ministério da Administração Interna.
 
-**Assinada em 30 de Janeiro de 1985.**
+Assinada em 30 de Janeiro de 1985.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.

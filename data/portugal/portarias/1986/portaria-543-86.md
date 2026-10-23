@@ -49,40 +49,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-1986-221755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b776cdc3ba640578b297f35b37e479e36f4ec65e935709f162b42e43ffa3400
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92118b8d0c7aeb2950e6e6b1b5e8dd1421173fc1029f5e10151959b531a4b826
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Bioquímica
+- Curso de Engenharia de Minas
+- Curso de Engenharia Física
+- Curso de Engenharia Geográfica
+- Curso de Engenharia Geologica
+- Curso de Engenharia Mecânica
+- Curso de Geologia
+- Curso de Matemática
+- Curso de Química
+- Curso de Química Industrial
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:370414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420050:por
+  label: "Alterados os anexos I a IV da Port 746/85 de 01-Out, na redacção constante do presente diploma, pela PORT.594/87.1987.07.09.MEC,\
+    \ DR.IS [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-1987-420050
+  date: '1987-07-09'
+- type: cites
+  target: pt:dre:177050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:40Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +149,7 @@ Compete ao reitor, sob proposta do conselho científico, fixar as regras gerais 
 
 Ministério da Educação e Cultura.
 
-**Assinada em 30 de Julho de 1986.**
+Assinada em 30 de Julho de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
@@ -453,7 +485,7 @@ Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf)
 
 5 - Condições de candidatura aos ramos - obtenção de 61 unidades de crédito:
 
@@ -529,7 +561,7 @@ Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf)
 
 5 - Condições de candidatura aos ramos - obtenção de 61 unidades de crédito.
 

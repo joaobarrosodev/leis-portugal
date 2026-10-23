@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/2004/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2004-608926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abfeba4adfa77358b6024adc68ac3b459494c42d479f1486b01ec56794a55536
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a7d028710c6173abf7b703bf372701c0d572d10b64ae4aee14323b0f112e0c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:42Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +185,7 @@ Sobre um campo quadrado cinzento (pantone 430) com dois movimentos de degradaç�
 
 A designação 'Escola Superior Agrária de Elvas' é escrita em caracteres avant gard demibold oblic e pode ser usada à direita do símbolo (em duas linhas, encimadas pela designação do Instituto a que pertence, 'Instituto Politécnico de Portalegre' ou abaixo do símbolo (numa única linha, sublinhada pela designação do Instituto a que pertence 'Instituto Politécnico de Portalegre').»
 
-[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019b00/04710473.pdf)
+[[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019b00/04710473.pdf)](https://files.diariodarepublica.pt/1s/2004/01/019b00/04710473.pdf)
 
 «Imagem gráfica da Escola Superior de Enfermagem
 
@@ -179,4 +195,4 @@ A cor azul no 'E' de escola representa a calma; a cor amarela representa uma ide
 
 Esta imagem teve como referência a estilização do símbolo 'Enfermeira da Bretanha', obra em mármore da autoria do escultor João Pires Cutileiro.»
 
-[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019b00/04710473.pdf)
+[[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019b00/04710473.pdf)](https://files.diariodarepublica.pt/1s/2004/01/019b00/04710473.pdf)

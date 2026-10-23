@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-1986-195197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d798b859db437159dee6b1f9da0c591df617ee43e2de0f5e0bdfe2a7a9b160fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba45776092df4fd336f649d312dc34306bb58b89d749e2cd3a327440b8b32e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Medicina
+- Licenciatura
+- Plano de Estudos
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:417613:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417613:por
+  label: "Alterado o quadro VI do nº 1 do anexo III da Port 1036/81 de 05-Dez, com a redacção do presente diploma, pela PORT.697/87.14.08.1987.MEC,\
+    \ DR.IS [186] de 14.08.1987 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1987-417613
+  date: '1987-08-14'
+- type: cites
+  target: pt:dre:191870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567468:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301058:por
+  label: Rectificada pela DECL.DD4695.17.07.1986.PCM, DR.IS [174]2ºSupl de 31.07.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301058
+  date: '1986-07-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:48Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +161,9 @@ Ao quadro VI da [Portaria n.º 1036/81](https://diariodarepublica.pt/dr/detalhe/
 
 Ministério da Educação e Cultura.
 
-**Assinada em 10 de Abril de 1986.**
+Assinada em 10 de Abril de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 ## ANEXO I — Faculdade de Medicina da Universidade do Porto
 
@@ -135,4 +171,4 @@ Curso de Medicina - Grau de licenciatura
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09700/10031004.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09700/10031004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09700/10031004.pdf)

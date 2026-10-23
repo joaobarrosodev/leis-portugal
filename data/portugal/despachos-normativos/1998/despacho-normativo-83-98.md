@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/83/1998/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1998-285565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3efe7f5bbf4892bcc14af74df30b0258d684fdf6afd14e8735c05817dacdbbb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b68de51826b738cdfd64a2f3e7429619aa7bcd78844d4024b4244c97f7ac20c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/22/1996/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/22/1996/05/31/p/dre
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 77
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:35Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +133,7 @@ Aceitando como princípios fundamentais à sua existência aqueles que definem a
 
 A organização da Universidade da Madeira tem como base os departamentos, unidades orgânicas que contêm os recursos humanos, pedagógicos, científicos e técnicos, indispensáveis ao desenvolvimento das actividades de formação, investigação e desenvolvimento e serviços à comunidade nos diversos domínios científicos.
 
-# PARTE I — Natureza jurídica, missão e sede da Universidade
+## PARTE I — Natureza jurídica, missão e sede da Universidade
 
 ### CAPÍTULO I — Natureza jurídica
 
@@ -181,7 +197,7 @@ A Universidade adopta traje próprio e medalha honorífica, conforme regulamento
 
 O dia da Universidade da Madeira é 6 de Maio, dia de abertura das aulas no Colégio do Funchal em 1574.
 
-# PARTE II — Estrutura e modo de gestão
+## PARTE II — Estrutura e modo de gestão
 
 ###### Artigo 9.º — Modelo de gestão
 
@@ -215,7 +231,7 @@ c) Sectores.
 
 O sistema de acção social no âmbito da Universidade rege-se pelo disposto no [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de Abril, demais legislação aplicável e nos Estatutos e regulamentos complementares a aprovar pelo senado.
 
-# PARTE III — Órgãos da Universidade
+## PARTE III — Órgãos da Universidade
 
 ###### Artigo 13.º — Órgãos da Universidade
 
@@ -647,7 +663,7 @@ b) Dar parecer sobre os planos de desenvolvimento da Universidade que lhe sejam 
 
 c) Dar parecer sobre a criação ou extinção de cursos, departamentos e estruturas da Universidade, ou por esta participadas, quando solicitado.
 
-# PARTE IV — Projectos
+## PARTE IV — Projectos
 
 ### CAPÍTULO I — Investigação
 
@@ -743,7 +759,7 @@ Os projectos de serviços constituem acções desenvolvidas pela Universidade vi
 
 A realização de projectos de prestação de serviços será feita de acordo com o regulamento de prestação de serviços a aprovar pelo senado.
 
-# PARTE V — Departamentos e secções autónomas
+## PARTE V — Departamentos e secções autónomas
 
 ###### Artigo 40.º — Departamentos
 
@@ -863,7 +879,7 @@ b) A comissão pedagógica.
 
 5 - Por deliberação do senado, para efeitos de gestão, e sem prejuízo da sua representatividade nos órgãos de governo da Universidade, uma secção autónoma poderá ser agregada a uma unidade orgânica afim.
 
-# PARTE VI — Organização dos serviços
+## PARTE VI — Organização dos serviços
 
 ###### Artigo 47.º — Organização dos serviços
 
@@ -1083,7 +1099,7 @@ d) Formular propostas conducentes a uma melhor gestão geral dos espaços comuns
 
 Os serviços de apoio às unidades serão definidos nos respectivos regulamentos.
 
-# PARTE VII — Gestão financeira, administrativa e patrimonial
+## PARTE VII — Gestão financeira, administrativa e patrimonial
 
 ###### Artigo 67.º — Património e receitas da Universidade
 
@@ -1151,7 +1167,7 @@ c) Orçamentos privativos.
 
 3 - A Universidade pode alterar livremente os seus quadros de pessoal, desde que tal alteração não se traduza em aumento dos valores globais de efectivos.
 
-# PARTE VIII — Associações de estudantes
+## PARTE VIII — Associações de estudantes
 
 ###### Artigo 72.º — Associações de estudantes
 
@@ -1159,7 +1175,7 @@ c) Orçamentos privativos.
 
 2 - A Universidade colaborará com as associações de estudantes nos moldes e pelos meios determinados pela legislação aplicável.
 
-# PARTE IX — Disposições finais e transitórias
+## PARTE IX — Disposições finais e transitórias
 
 ###### Artigo 73.º — Regulamentos
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/029b00/04710472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/9/1998/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1998-223993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d629cba03867c542eb157fb92a546891c424a1d1affe7468aabaff119e900a13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 529a4721d036257471989ebec5f12b9afc3a597aef5b3d05d5b46d8b98ab06a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Árvore
-- Gado Caprino
 - Cereal
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Gado Caprino
 - Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Política Agrícola Comum
 - Prazo
 - Região Desfavorecida
@@ -82,6 +82,11 @@ relationships:
   target: pt:dre:165450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516732:por
+  label: "Alteradas as als. a) e e) do nº 2 e nº 7 pelo DN.32/98.1998.04.13.MADRP DR.IS-B [108] DE 11/MAI/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/32-1998-516732
+  date: '1998-04-13'
 - type: cites
   target: celex:31995R3072
   label: null
@@ -90,16 +95,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/5/1997/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/5/1997/02/06/p/dre
+- type: repealed_by
+  target: pt:dre:165450:por
+  label: "Revogado pelo DN.7/99.1999.01.20.MADRP DR.IS-B [45] DE 23/FEV/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-1999-165450
+  date: '1999-01-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:36Z'
   warnings: []
   errors: []
 ---

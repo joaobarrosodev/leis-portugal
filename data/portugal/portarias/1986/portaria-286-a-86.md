@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 136/1986, 2º Suplemento, Série I de 1986-06-17
   number: '136'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1430-(3) a 1430-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf
 entry_into_force_dates: []
@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-a-1986-611173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b46b8bcc05c13d921a2519bce2239301d65305d82cc298eebf84ae83869449e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82fd37c1adc3bba2caf2f52bc7a85148a1e4c2774a6d4cac1dd16b3117be932f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Concurso
+- Contingentação
+- Ensino Profissional
+- Ensino Superior
+- Estabelecimento de Ensino
+- Macau
+- Madeira.região Autónoma
+- Numerus Clausus
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:220120:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:623232:por
+  label: "Aditados os arts. 39.º-A e 40.º-A ao regulamento, aditada a nota 13, na coluna 6, ao anexo II, introduzidos aditamentos\
+    \ nos mapas anexos II e III.3 e nas notas aos anexos I e II, alterada a coluna 4 do anexo III.1 e dada nova redacção aos\
+    \ anexos I, 1.4, IV e IX do regulamento anexo à Port 173/86, de 30-Abr, na redacção publicada em anexo ao presente diploma,\
+    \ pela PORT.442-A/86.14.08.1986.MEC, DR.IS [186-Supl] de 14.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-a-1986-623232
+  date: '1986-08-14'
+- type: amended_by
+  target: pt:dre:220120:por
+  label: "Aditados os anexos I, 1.4, II, III.3, IV e IX do regulamento anexo e dada nova redacção ao art. 34.º da Port 173/86,\
+    \ de 30-Abr, na redacção do presente diploma, pela PORT.509/86.10.09.1986.MEC, DR.IS [208] de 10.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/509-1986-220120
+  date: '1986-09-10'
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:44:45Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +142,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 16 de Junho de 1986.**
+Assinada em 16 de Junho de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
-## Anexo a que se refere a Portaria n.º 286-A/86, de 17 de Junho
+Anexo a que se refere a Portaria n.º 286-A/86, de 17 de Junho
 
 ###### ARTIGO 31.º — (Identificação de contingentes)
 
@@ -354,32 +394,32 @@ d) ...
 
 ESTABELECIMENTOS E CURSOS DO ENSINO SUPERIOR PÚBLICO DEPENDENTE DO MINISTÉRIO DA EDUCAÇÃO E CULTURA ABRANGIDOS PELO REGIME DE CANDIDATURA À PRIMEIRA MATRÍCULA E INSCRIÇÃO EM ESTABELECIMENTOS E CURSOS DO ENSINO SUPERIOR NO ANO LECTIVO DE 1986-1987.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
 
 ## ANEXO II
 
 OS ESTUDANTES TITULARES DOS CURSOS DA VIA DE ENSINO PODEM CANDIDATAR-SE AOS CURSOS CONSTANTES DO PRESENTE ANEXO NAS CONDIÇÕES CONJUGADAS NAS COLUNAS 3 E 5 OU 4 E 5 E CONDIÇÕES ESPECIAIS PORVENTURA IGUALMENTE FIXADAS NO REGULAMENTO.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
 
 ## ANEXO III — III.1 - ACESSO ATRAVÉS DE VIA PROFISSIONALIZANTE - CONTINGENTE ESPECIAL
 
 OS ESTUDANTES TITULARES DOS CURSOS DA VIA PROFISSIONALIZANTE PODEM CANDIDATAR-SE AOS CURSOS CONSTANTES DO QUADRO SEGUINTE NOS TERMOS DAS ALÍNEAS B) E D) DO N.º 1 DO ARTIGO 37.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
 
 ## ANEXO III — III.3 - ACESSO ATRAVÉS DA VIA PROFISSIONALIZANTE - CONTINGENTE GERAL
 
 OS ESTUDANTES TITULARES DOS CURSOS DA VIA PROFISSIONALIZANTE, PARA ALÉM DOS CURSOS A QUE SE REFERE O ANEXO III.1, PODEM CANDIDATAR-SE, EM REGIME DE CONTINGENTE GERAL, AOS CURSOS CONSTANTES DO QUADRO SEGUINTE:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
 
 ## ANEXO IX — ÁREAS DE INFLUÊNCIA DO ENSINO SUPERIOR POLITÉCNICO (ARTIGO 35.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
 
 ## ANEXO X — PRAZOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
 
-## ANEXO XI — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)
+## ANEXO XI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13602/00030038.pdf)

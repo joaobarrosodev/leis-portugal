@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 1º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 912-(37) a 912-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8-e/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-e-2004-486142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 666455c63547d3713ed2f559025d7fca88986ba6ec8322fa407ab70e24e227d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20d0021f173f93a41720dc2b677c6c30b56da91f6624469dc22fd7abf74b7d9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Turismo
-- Mudança Tecnológica
 - Informação Turística
+- Mudança Tecnológica
 - Plano de Consolidação do Turismo
-- Regulamento de Execução do Subprograma Nº 5-inovação Informação e Novas Tecnologias
 - Programa de Intervenções para a Qualificação do Turismo
+- Regulamento de Execução do Subprograma Nº 5-inovação Informação e Novas Tecnologias
 - Subsídio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:157992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal constantes do Regulamento aprovado pelo DN 26/2003 de 03-Jun, com a redacção conferida\
+    \ pelo presente diploma, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:157992:por
+  label: "Encerradas as candidaturas, salvo quanto àquelas a apresentar pela Direcção-Geral do Turismo e pelo Instituto doTurismo\
+    \ de Portugal que estejam em análise em 27.07.2005, ao Subprograma n.º 5, «Inovação, Informação e Novas Tecnologias»,\
+    \ do PIQTUR regulado pelo DN 26/2003, de 03-Jun, na redacção, com republicação, do presente diploma, pelo DN.36-A/2005.06.07.2005.MEI,\
+    \ DR.IS-B [142] de 26.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
+  date: '2005-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/26/2003/06/03/p/dre
   label: null
@@ -95,16 +110,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 30
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:52Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +234,9 @@ Objecto
 
 2 - O regime de concessão de apoio a que se refere o número anterior vigora no período de 2002 a 2006, inclusive.
 
-###### Artigo 4.º — Promotores e beneficiários
+Artigo 4.º
+
+Promotores e beneficiários
 
 1 - ...
 
@@ -219,7 +252,9 @@ b) ...
 
 c) ...
 
-###### Artigo 6.º — Condições de elegibilidade dos projectos
+Artigo 6.º
+
+Condições de elegibilidade dos projectos
 
 1 - ...
 
@@ -241,7 +276,9 @@ g) Demonstrarem relevância turística, mediante estudo ou análise circunstanci
 
 3 - ...
 
-###### Artigo 12.º — Condições de elegibilidade dos projectos
+Artigo 12.º
+
+Condições de elegibilidade dos projectos
 
 1 - ...
 
@@ -257,7 +294,9 @@ e) Terem o seu termo de execução material até 31 de Dezembro de 2006.
 
 2 - ...
 
-###### Artigo 19.º — Organismos coordenadores competentes
+Artigo 19.º
+
+Organismos coordenadores competentes
 
 1 - ...
 
@@ -293,7 +332,9 @@ m) ...
 
 n) ...
 
-###### Artigo 23.º — Processo de decisão
+Artigo 23.º
+
+Processo de decisão
 
 1 - Finda a análise das candidaturas, o organismo coordenador competente, nos termos do n.º 1 do artigo 19.º do Regulamento aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.
 
@@ -305,7 +346,9 @@ n) ...
 
 5 - ...
 
-###### Artigo 30.º — Disposições transitórias
+Artigo 30.º
+
+Disposições transitórias
 
 1 - Os projectos de investimento cujas candidaturas sejam recepcionadas no prazo máximo de 60 dias contados da data do início de vigência do presente Regulamento podem ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2002.
 
@@ -847,7 +890,7 @@ O presente Regulamento aplica-se no continente e nas Regiões Autónomas dos Aç
 
 2 - Enquanto não estiverem constituídas as agências regionais de promoção turística e ou o Consórcio de Promoção Turística da Madeira continuarão a poder ser promotoras e beneficiárias dos apoios todas as entidades referidas no artigo 4.º do Regulamento de Execução do Subprograma n.º 5, constante do [Despacho Normativo n.º 26/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2003-544410), de 3 de Junho.
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação e selecção dos projectos
 
@@ -865,19 +908,19 @@ d) Critério D - impacte estimado do projecto face aos objectivos das acções e
 
 a) Critério A - adequação do projecto aos objectivos e requisitos das acções elegíveis:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
 
 b) Critério B - relevância do projecto no contexto do turismo nacional:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
 
 c) Critério C - contributo do projecto para a optimização dos recursos afectos às acções elegíveis:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
 
 d) Critério D - impacte estimado do projecto face aos objectivos das acções elegíveis:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
 
 3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:
 
@@ -899,6 +942,6 @@ CD - critério D.
 
 5 - A intensidade do incentivo a conceder determina-se em função da pontuação obtida pelos projectos nos termos seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00370047.pdf)
 
 6 - No caso de projectos manifestamente inovadores e ou estruturantes para o turismo nacional, a intensidade do incentivo, indicada no número anterior, poderá ser bonificada até 25 pontos percentuais a acrescer ao apoio que resulta da pontuação que traduz a valia dos projectos.

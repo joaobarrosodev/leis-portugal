@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/075b00/30133014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/25/2005/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-2005-546872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5a739b78f02334c17fb1515b20b6c242673a91eadc8d22cad888c811cd0f39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8abd59df9832f08a2284d886d5a6a28d8566a29431da0d939207341dda973ede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Agricultor
 - Financiamento
 - Gado Caprino
-- Prémio aos Produtores de Ovinos e Caprinos
+- Gado Ovino
+- Ifadap
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Jovem Agricultor
 - Orientação Agrícola
-- Gado Ovino
-- Política Agrícola Comum
-- Agricultor
-- Regulamento CE
 - Pecuária
-- Ifadap
+- Política Agrícola Comum
+- Prémio aos Produtores de Ovinos e Caprinos
+- Produção Animal
+- Regulamento CE
 - Sistema Integrado de Gestão e Controlo
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676835:por
+  label: "Aditados uns novos nºs 5 e 6 ao art. 3º e renumerados os anteriores nºs 5 e 6 do mesmo art. 3º, respectivamente\
+    \ para 7 e 8, assim como é aditado um nº 5 ao art. 5º, pelo DN.11/2006.03.02.2006.MADRP, DR.IS-B [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2006-676835
+  date: '2006-02-03'
 - type: cites
   target: celex:32001R2529
   label: null
@@ -97,16 +103,21 @@ relationships:
   target: celex:32004R1973
   label: null
   source: http://data.europa.eu/eli/reg/2004/1973/oj
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, pelo(a) Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:18Z'
   warnings: []
   errors: []
 ---

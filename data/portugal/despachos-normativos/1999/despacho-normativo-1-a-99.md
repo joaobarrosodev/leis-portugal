@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 16/1999, 2º Suplemento, Série I-B de 1999-01-20
   number: '16'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 352-(4) a 352-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/1-a/1999/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-a-1999-692190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95d40e22fd61e74965f1f5f581aa9fe88ae5f0500c2a777f821c1e66e4da23b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cb1d77506684cb3c45aae13ae629975190cbeb6a987fb4b8a610b83cd2bfeb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,13 @@ relationships:
   target: pt:dre:540190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540190:por
+  label: "Aditadas, as habilitações próprias reconhecidas para a docência, ao elenco de cursos reconhecidos como habilitações\
+    \ próprias para os 2.º e 3.º ciclos do ensino básico e ensino secundário, constante do DN 32/84 de 09-Fev, na redacção\
+    \ do presente diploma, pela PORT.88/2006.24.01.2006.ME, DR.IS-B [17] de 24.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-2006-540190
+  date: '2006-01-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/5-a/1998/02/26/p/dre
   label: null
@@ -95,16 +102,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/7/1997/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/7/1997/02/07/p/dre
+- type: cites
+  target: pt:dre:157046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660513:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:676663:por
+  label: "Rectificado pela DECL-RECT.7-M/99.1999.02.26.PCM, DR.IS-B [49]3ºSUPL de 27/Fev/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-m-1999-676663
+  date: '1999-02-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:39Z'
   warnings: []
   errors: []
 ---
@@ -155,10 +207,10 @@ MAPA I
 
 5.º e 6.º anos de escolaridade
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf)](https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf)
 
 MAPA II
 
 7.º a 12.º anos de escolaridade
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf)](https://files.diariodarepublica.pt/1s/1999/01/016b02/00040009.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/9/1999/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1999-150952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a45ed884541ac083677414010ed13cf7c2a4db84c492a23cc4c8a8ca20f142d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79c1d0c4679c68e780115533a03508f829782394a7e7ee080c259b400a107c3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Ajuda Comunitária
-- Financiamento
-- Empresa
-- Formação Profissional
+- Comércio
 - Comunidade Europeia
 - Cooperação Interempresas
-- Política Industrial
-- Mudança Tecnológica
 - Design
 - Direcção Geral da Indústria
-- Fusão de Empresas
+- Empresa
 - Ensino Técnico Profissional
-- Administração Pública
-- Indústria Têxtil
+- Financiamento
+- Formação Profissional
+- Fusão de Empresas
+- IAPMEI
 - Indústria do Vestuário e Confecção
-- Programa IMIT
-- Publicitação
+- Indústria Têxtil
 - Medidas Voluntaristas
 - Mercado Interno
 - Modernização Tecnológica
+- Mudança Tecnológica
+- Política Industrial
 - Programa
+- Programa IMIT
+- Publicitação
 - Reconversão de Empresas
 - Reestruturação de Empresas
 - Regime de Apoio
 - Regulamento
 - Regulamento CE
 - Setor Empresarial
-- IAPMEI
-- Comércio
 relationships:
 - type: cites
   target: celex:31995R0852
@@ -104,13 +104,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:08Z'
   warnings: []
   errors: []
 ---

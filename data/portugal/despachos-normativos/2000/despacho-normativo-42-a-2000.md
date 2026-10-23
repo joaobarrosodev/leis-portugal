@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 214/2000, 3º Suplemento, Série I-B de 2000-09-15
   number: '214'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4946-(46) a 4946-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/214b03/00460046.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42-a/2000/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-a-2000-261903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7082840e52448214307b201a4ca0975b55ea2a2f3f898cdf065f9cce36b099b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c894e04000ced263821b8d55f6a50e7ece40b6622e5ba14c24642a33c349ac2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
+- Algodão
+- Arroz
+- Azeite
 - Azeitona
 - Beterraba
 - Cânhamo
-- Gado Caprino
 - Carne de Vaca
-- Azeite
 - Cereal
-- Tomate
 - Definição de Competências
-- Arroz
+- Financiamento
 - Forragem
 - Gado Bovino
-- Prémio aos Produtores de Ovinos e Caprinos
+- Gado Caprino
+- Gado Ovino
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Legume de Fruto
 - Leguminosas
 - Linho
-- Tabaco
 - Orientação Agrícola
-- Gado Ovino
 - Política Agrícola Comum
 - Prémio aos Produtores de Carne de Bovino
+- Prémio aos Produtores de Ovinos e Caprinos
 - Prémio aos Produtores de Tabaco
 - Prémio aos Produtores de Vacas Aleitantes
 - Produção Agrícola
+- Produção Animal
 - Produção Vegetal
-- Regulamento CE
 - Região Desfavorecida
-- Agricultura
+- Regulamento CE
 - Semente
-- Algodão
 - Sistema Integrado de Gestão e Controlo
+- Tabaco
+- Tomate
 relationships:
 - type: cites
   target: celex:31992R3508
@@ -122,13 +122,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:02Z'
   warnings: []
   errors: []
 ---

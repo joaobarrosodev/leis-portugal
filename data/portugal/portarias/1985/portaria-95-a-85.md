@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 37/1985, 1º Suplemento, Série I de 1985-02-13
   number: '37'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 348-(3) a 348-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf
 entry_into_force_dates: []
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-a-1985-321747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2265edacbceb40aef632dc9fcf245df3ad396e3c97b136eec60e3ee6723dedf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8e2f17e3918499352f75c2910342c5fe644e17bf8e8b26ff315d5916371530
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Fazenda Pública
+- Quadro de Pessoal
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:569539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620774:por
+  label: "Extinta a tesouraria da Fazenda Pública de Santo Tirso (3.ª), criada no presente diploma, pela PORT.744-A/93.18.08.1993.MF,\
+    \ DR.IS-B [193]Supl de 18.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-a-1993-620774
+  date: '1993-08-18'
+- type: amended_by
+  target: pt:dre:569539:por
+  label: "Extinta a Tesouraria de Finanças de Abrantes 1 e 2 pela PORT.170/2004.23.02.2004.MF, DR.IS-B [45] de 23.02.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-2004-569539
+  date: '2004-02-23'
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622166:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302560:por
+  label: "Revogada, no que respeita ao desdobramento das Tesourarias da Fazenda Pública dos Concelhos de Beja, Caldas da Rainha,\
+    \ Chaves, Guarda, Lagos, Olhão, Póvoa de Varzim, Tomar e Vila Real, pela PORT.896/91.02.09.1991.MF, DR.IS-B [201] de 02.09.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/896-1991-302560
+  date: '1991-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:16Z'
   warnings: []
   errors: []
 ---
@@ -135,18 +186,18 @@ A Tesouraria da Fazenda Pública do Concelho de Vila Real é desdobrada em 2 tes
 
 Secretaria de Estado do Tesouro.
 
-**Assinada em 8 de Fevereiro de 1985.**
+Assinada em 8 de Fevereiro de 1985.
 
-**O Secretário de Estado do Tesouro, António d'Almeida.**
+O Secretário de Estado do Tesouro, António d'Almeida.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf))](https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf)
 
 MAPA II
 
 Alterações ao quadro geral de pessoal das tesourarias da Fazenda Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf))](https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/03701/00030005.pdf)

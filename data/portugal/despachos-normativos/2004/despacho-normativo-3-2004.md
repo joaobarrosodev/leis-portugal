@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/3/2004/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2004-241038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fab06aa950d9badb5464d0e82df51dddeda5ec1d1b64cad9858985e55f54c552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c4ef62b35712dda15400aebdea8347d7a8886a3cfa13e869688e143fcd103af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,16 +96,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 69
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:11Z'
   warnings: []
   errors: []
 ---
@@ -938,7 +986,9 @@ b) Secção Académica;
 
 c) Secção Económico-Financeira.
 
-###### Artigo 46.º — Secção de Administração Geral
+###### Artigo 46.º
+
+#### Secção de Administração Geral
 
 1 - A Secção de Administração Geral exerce a sua acção nos domínios de recursos humanos, expediente, arquivo e secretariado.
 
@@ -986,7 +1036,9 @@ c) Proceder à actualização e tratamento dos arquivos de expediente e de docum
 
 Ao Sector de Secretariado compete o secretariado de apoio aos órgãos de gestão e à docência.
 
-###### Artigo 50.º — Secção Académica
+###### Artigo 50.º
+
+#### Secção Académica
 
 1 - A Secção Académica exerce a sua actividade no domínio da vida escolar dos estudantes da Escola, assim como no âmbito da instrução dos processos de equivalência e reconhecimento de habilitações, nacionais e estrangeiras.
 
@@ -1040,7 +1092,9 @@ g) Organizar os processos conducentes à concessão de equivalências e de equip
 
 Ao Sector de Reprografia compete, entre outros, assegurar o trabalho de reprodução de documentos necessários a todos os serviços e utentes da Escola.
 
-###### Artigo 54.º — Secção Económico-Financeira
+###### Artigo 54.º
+
+#### Secção Económico-Financeira
 
 1 - A Secção Económico-Financeira exerce a sua acção nos domínios do aprovisionamento e património, da contabilidade e da tesouraria.
 

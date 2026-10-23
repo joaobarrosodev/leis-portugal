@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 211/1986, 1º Suplemento, Série I de 1986-09-13
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2554-(7) a 2554-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf
 entry_into_force_dates: []
@@ -47,36 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/523-b-1986-391847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 924acf75994fa6dc62d8940dd5ebe66dc343eeaee15ee4f9b1168ea9e1453752
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fbf49f8793a20240b8664737b259087159ea910ebf23a6aeb399f311c12a658
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Estabelecimento de Ensino
+- Ministério da Educação e Cultura
+- Regime de Prescrição
+relationships:
+- type: cites
+  target: pt:dre:220127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:148777:por
+  label: Rectificada pela DECL.DD4610.30.09.1986.PCM, DR.IS [225]5ºSupl de 30.09.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-148777
+  date: '1986-09-30'
+- type: corrected_by
+  target: pt:dre:477608:por
+  label: Rectificada pela DECL.DD4518.30.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477608
+  date: '1986-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:10Z'
   warnings: []
   errors: []
 ---
@@ -277,17 +332,17 @@ O disposto na presente portaria aplica-se a todas as inscrições a realizar a p
 
 Ministério da Educação e Cultura.
 
-**Assinada em 11 de Setembro de 1986.**
+Assinada em 11 de Setembro de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 ## ANEXO I — Regime de aluno regular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf)
 
 ## ANEXO II — Regime de trabalhador-estudante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf)
 
 ## ANEXO III — Exemplo de aplicação do disposto no n.º II) da alínea b) do n.º 7.º
 
@@ -313,4 +368,4 @@ No 5.º ano - 115 unidades de crédito.
 
 ## ANEXO IV — Número máximo de inscrições realizadas até 1985-1986, inclusive, que permite a aplicação do regime excepcional do n.º 3 do n.º 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21101/00070011.pdf)

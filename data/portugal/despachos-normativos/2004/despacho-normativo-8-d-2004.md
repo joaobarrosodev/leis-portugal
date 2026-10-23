@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 1º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 912-(35) a 912-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b01/00350037.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8-d/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-d-2004-486141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58211b11a806fa66e6ea8086feb856479da34dc4d63b5bc6cb51ab13f2897119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f6986a47b3fa97354e91e0d3416a64f19ba4b7313bd5e90d496de22ea25e190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,40 @@ reuse:
 subjects:
 - Assistência Técnica
 - Financiamento
-- Turismo
-- Promoção Turística
-- Projeto de Investimento
 - Instituto de Financiamento e Apoio ao Turismo
 - Plano de Consolidação do Turismo
 - Programa de Intervenções para a Qualificação do Turismo
+- Projeto de Investimento
+- Promoção Turística
 - Regulamento de Execução do Subprograma Nº 6-assistência Técnica
 - Subsídio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:1503930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal constantes do Regulamento aprovado pelo DN 20/2002 de 10-Abr, com a redacção conferida\
+    \ pelo presente diploma, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:2245196:por
+  label: "Alterado o nº3 do art. 1º do Regulamento de Execução do Subprograma n.º 6 «Assistência Técnica» do Programa de Intervenções\
+    \ para a Qualificação do Turismo publicado em anexo ao DN20/2002, de 10-Abr, na redacção do presente diploma, pelo DN.19/2009.18.05.2009.SETU-MEI,\
+    \ DR.IIS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2009-2245196
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:1503930:por
+  label: "Alterado o n.º 3 do art. 1.º do Regulamento de Execução do Subprograma n.º 6, «Assistência Técnica», do Programa\
+    \ de Intervenções para a Qualificação do Turismo (PIQTUR), publicado em anexo ao DN 20/2002, de 10-Abr, na redacção do\
+    \ presente diploma, pelo DN.29/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2009-1503930
+  date: '2009-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/20/2002/04/10/p/dre
   label: null
@@ -97,16 +118,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:51Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +176,9 @@ Objecto
 
 3 - O regime de comparticipação de custos a que se refere o número anterior vigora até 2006, inclusive, sem prejuízo da comparticipação dos custos incorridos até 30 de Junho de 2008 na realização das acções a que se referem as alíneas a), e) e f) do número anterior.
 
-###### Artigo 8.º — Tramitação
+Artigo 8.º
+
+Tramitação
 
 1 - ...
 

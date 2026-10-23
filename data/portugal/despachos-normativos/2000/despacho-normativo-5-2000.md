@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/2000/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2000-435041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f7585d3d49e86c8312c7fdf9173e3ae52c6385a30a74a5c0273e8964bdd3cea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fad93a5208575526083c663667a92623b10fd70dd17c0081f0290f876c375ebd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ subjects:
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
 - Centro de Documentação
-- Gestão Financeira
 - Conselho Administrativo
 - Conselho Científico
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
+- Eleição
 - Ensino Superior Politécnico
 - Escola de Enfermagem de Calouste Gulbenkian
 - Escola Superior de Enfermagem
 - Estatuto
-- Conselho Diretivo
-- Conselho Consultivo
+- Gestão Financeira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1997/05/24/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:347306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
   article_count: 62
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:15Z'
   warnings: []
   errors: []
 ---
@@ -1306,7 +1330,7 @@ Compete ao presidente da assembleia de escola proceder ao apuramento final dos r
 
 ###### Artigo 58.º — Eleição para os restantes órgãos
 
-**O presidente do conselho directivo, no prazo de 30 dias após a tomada de posse, conferida pelo director, desencadeia e dirige todos os processos eleitorais dos restantes órgãos cuja constituição dependa de eleições.**
+O presidente do conselho directivo, no prazo de 30 dias após a tomada de posse, conferida pelo director, desencadeia e dirige todos os processos eleitorais dos restantes órgãos cuja constituição dependa de eleições.
 
 ###### Artigo 59.º — Duração do mandato
 
@@ -1314,7 +1338,7 @@ O mandato dos membros dos primeiros órgãos de gestão da Escola poderá excede
 
 ###### Artigo 60.º — Representação no Conselho Coordenador dos Institutos Superiores Politécnicos
 
-**O presidente do conselho directivo poderá vir a integrar o Conselho Coordenador dos Institutos Superiores Politécnicos, se, para o efeito, for eleito pelas escolas superiores de enfermagem.**
+O presidente do conselho directivo poderá vir a integrar o Conselho Coordenador dos Institutos Superiores Politécnicos, se, para o efeito, for eleito pelas escolas superiores de enfermagem.
 
 ###### Artigo 61.º — Revisão dos Estatutos
 

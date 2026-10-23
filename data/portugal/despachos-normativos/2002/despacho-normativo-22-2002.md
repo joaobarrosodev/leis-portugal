@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/22/2002/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2002-303844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6eca31585568bc1de4e3839fd8efea0a0e00017287ceab7b27bae75f9b23f24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b03bb27a4fac1b34ab02d2e581f7b9a419e0d3048227cddfa7507698ba43c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Turismo
 - Informação Turística
 - Nova Tecnologia
 - Plano de Consolidação do Turismo
-- Regulamento
 - Programa de Intervenções para a Qualificação do Turismo
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:544410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441147:por
+  label: "Determinado, para os efeitos do nº 1, que a data do início de vigência do Regulamento constante do presente diploma\
+    \ coincida com a data da entrada em vigor do DN.53/2002.2002.04.17.MECO, DR.IS-B [279] de 03/Dez/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-2002-441147
+  date: '2002-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544410:por
+  label: "Revogado e substituido pelo DN.26/2003.2003.05.09.MECO DR.IS-B [128] DE 05/JUN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-2003-544410
+  date: '2003-05-09'
 article_structure:
   article_count: 30
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:43Z'
   warnings: []
   errors: []
 ---
@@ -712,7 +727,7 @@ O presente Regulamento aplica-se no continente e nas Regiões Autónomas dos Aç
 
 Os projectos de investimento cujas candidaturas sejam recepcionadas no prazo máximo de 60 dias contados da data do início de vigência do presente Regulamento podem ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2002.
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação e selecção dos projectos
 
@@ -730,19 +745,19 @@ d) Critério D - impacto estimado do projecto face aos objectivos das acções e
 
 a) Critério A - adequação do projecto aos objectivos e requisitos das acções elegíveis:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
 
 b) Critério B - relevância do projecto no contexto do turismo nacional:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
 
 c) Critério C - contributo do projecto para a optimização dos recursos afectos às acções elegíveis:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
 
 d) Critério D - impacto estimado do projecto face aos objectivos das acções elegíveis:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
 
 3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:
 
@@ -764,6 +779,6 @@ CD - critério D.
 
 5 - A intensidade do incentivo a conceder determina-se em função da pontuação obtida pelos projectos nos termos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)](https://files.diariodarepublica.pt/1s/2002/04/088b00/36863696.pdf)
 
 6 - No caso de projectos manifestamente inovadores e ou estruturantes para o turismo nacional, a intensidade do incentivo indicada no número anterior poderá ser bonificada até 25 pontos percentuais, a acrescer ao apoio que resulta da pontuação que traduz a valia dos projectos.

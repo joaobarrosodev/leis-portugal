@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/052b00/18481849.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/18/2006/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2006-667374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e90b43ec27882fe11938d9d731d20f87d5f1162d787f0e53007b019445c0fb2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7833ec688a19bb7b8736b72cd71d77200abb6675881b5f3f0664925e9adabd36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Diploma
 - Ensino Básico
-- Avaliação de Conhecimentos
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1847070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:787125:por
+  label: "Dada nova redacção aos nºs 48 e 49 do Despacho Normativo 1/2005, de 05 de Janeiro, na redacção do presente diploma,\
+    \ pelo DN.5/2007.18.12.2006.SEE-ME, DR.IIS [7] de 10.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2007-787125
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:3473397:por
+  label: "Alterados os nºs. 43.1, 43.2, 48, 49, 51, 78 e 79 do DN 1/2005, de 05-Jan, na redacção do presente diploma, pelo\
+    \ DN.6/2010.19.02.2010.SEAED-ME, DR.IIS [35] de 19.02.2010, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2010-3473397
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:1113776:por
+  label: "Alterado o nº 49 do DN 1/2005, de 05-Jan, na redacção do presente despacho, pelo DN.9/2010.01.04.2010.SEAED-ME,\
+    \ DR.IIS [64] de 01.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2010-1113776
+  date: '2010-04-01'
+- type: amended_by
+  target: pt:dre:2794350:por
+  label: "Alterados os nºs 42, 46, 48, 49, 51, 65, 43.1 e 43.2 do Despacho Normativo n.º 1/2005, de 05-Jan, na redacção do\
+    \ presente diploma, pelo DN.14/2011.18.11.2011.SEEBS-MECI, DR.IIS [222] de 18.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2011-2794350
+  date: '2011-11-18'
+- type: amends
+  target: pt:numero:despacho-normativo:1/2005
+  label: "Altera os n.os 29, 42, 46, 48, 49, 51, 64, 65, 78 e 79 e adita os n.ºs 43.1, 43.2 e 43.3 ao Despacho Normativo n.º\
+    \ 1/2005, de 5 de Janeiro DR.IS-B [3]\0\0"
+  source: null
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2002/10/17/p/dre
   label: null
@@ -95,16 +125,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/50/2005/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/50/2005/11/09/p/dre
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:649907:por
+  label: "Rectificado pela DECL-RECT.25/2006.06.04.2006.PCM, DR.IS-B [79] de 21.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/25-2006-649907
+  date: '2006-04-06'
+- type: corrected_by
+  target: pt:dre:3385904:por
+  label: "Rectificado o DN 6/2010, de 19-Fev, na parte em que republica o art. 48.º do DN 1/2005, de 05-Jan, alterado pelo\
+    \ presente diploma, pela DECL-RECT.406/2010.02.03.2010.SEAED-ME, DR.IIS [42] de 02.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/406-2010-3385904
+  date: '2010-03-02'
+- type: repealed_by
+  target: pt:dre:1847070:por
+  label: "Revogado o DN 1/2005, de 05-jan, na redação do presente despacho normativo, pelo DN.24-A/2012.06.12.2012.MECI, DR.IIS\
+    \ [236-2ºSupl] de 06.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-a-2012-1847070
+  date: '2012-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:24Z'
   warnings: []
   errors: []
 ---

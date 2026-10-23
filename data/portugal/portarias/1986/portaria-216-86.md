@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-1986-227203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1682bdd640664f10040c0ae2e6fac6976eaae06410e74d170d77da781a6b7a1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cc54738765b3a89396c3ed6f245d2084ca2cd68992be8ca6d5edb7f0060c80b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Direcção Geral da Pecuária
+- Financiamento
+- Fundo de Abastecimento
+- Junta Nacional dos Produtos Pecuários
+- Leite
+- Ministério da Agricultura Pescas e Alimentação
+- Pagamento
+- Preço
+- Preço de Venda
+- Preço Máximo
+- Produção Leiteira
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:305634:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656600:por
+  label: "Alterado o n.º 1.º do n.º 8.º, os n.ºs 2.º e 9.º do n.º 10.º e o n.º 1.º do n.º 16.º, pela PORT.478-A/86.29.08.1986.MF,\
+    \ DR.IS [198]Supl de 29.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-a-1986-656600
+  date: '1986-08-29'
+- type: cites
+  target: pt:dre:249492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:305634:por
+  label: "Revogada pela PORT.733-C/86.04.12.1986.MF, DR.IS [279]Supl de 04.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/733-c-1986-305634
+  date: '1986-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:54Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +205,7 @@ Leite esterilizado magro ... 0,3
 
 10.º - 1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
 
 2 - Aos preços máximos fixados no n.º 1 poderá acrescer a importância de $50 por litro por cada décimo de gordura que o leite apresentar a mais sobre a base de 3%, desde que a embalagem refira expressamente a percentagem de gordura efectivamente incluída.
 
@@ -178,7 +227,7 @@ Leite esterilizado magro ... 0,3
 
 12.º - 1 - Os preços máximos do leite ultrapasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -186,7 +235,7 @@ Leite esterilizado magro ... 0,3
 
 13.º - 1 - Os preços máximos do leite esterilizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -194,7 +243,7 @@ Leite esterilizado magro ... 0,3
 
 14.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11100/11451148.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se este se abastecer no centro de tratamento.
 
@@ -234,7 +283,7 @@ Especial pasteurizado ... 4$38
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 15 de Abril de 1986.**
+Assinada em 15 de Abril de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
 

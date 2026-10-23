@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/760-1985-176570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aff9ee7a1916d959218d15f578225327cc090380fcaf6027e277565c972857c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22da0c58d637d43bbf1b2431f0592161eda65f670dc0d3bce41089a18da9e3aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Cálculo de Pensões
+- Pensões
 relationships:
 - type: amended_by
   target: pt:dre:633541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DAS NORMAS CONSTANTES DA AL B) DO NUM 3, PELO AC
+    61/91 DE 01-ABR DO TCS DR.IS-A [75]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-01'
+- type: cites
+  target: pt:dre:309894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492245:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:32Z'
   warnings: []
   errors: []
 ---
@@ -108,24 +125,24 @@ b) Ao cálculo, nos termos legais em vigor, do valor do capital de remições au
 
 Secretaria de Estado do Tesouro.
 
-**Assinada em 13 de Setembro de 1985.**
+Assinada em 13 de Setembro de 1985.
 
-**O Secretário de Estado do Tesouro, António d'Almeida.**
+O Secretário de Estado do Tesouro, António d'Almeida.
 
 TABELA I
 
 Pensionistas de ambos os sexos (exceptuados os casos das tabelas seguintes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf))](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf)
 
 TABELA II
 
 Viúvas, divorciadas ou judicialmente separadas de sinistrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf))](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf)
 
 TABELA III
 
 (Órfãos e parentes de ambos os sexos até ao máximo de 24 anos de idade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf))](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22900/32913292.pdf)

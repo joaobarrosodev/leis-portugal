@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/24/2002/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2002-291822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30fa3c88ec3b671df9d2c81e9198dacfb36c657ec6d9c500131cb1acca4c4eb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d62808e2511961bfbc269d60c8cee1295a2593e51fb0b98586b60c7cc79afe85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Emprego
 - Financiamento
-- Turismo
 - Formação Profissional
 - Plano de Consolidação do Turismo
+- Programa de Intervenções para a Qualificação do Turismo
+- Regulamento
 - Regulamento de Execução das Medidas NºS 3.1-formação Inicial e Contínua 3.2-certificação Profissional e 3.5-cooperação e
   Assistência Técnica
-- Regulamento de Execução do Subprograma N.º 3-emprego e Formação
-- Emprego
-- Regulamento
-- Programa de Intervenções para a Qualificação do Turismo
 - Regulamento de Execução das Medidas NºS 3.3-investigação e Desenvolvimento da Formação Profissional e 3.4-valorização das
   Profissões Turísticas
+- Regulamento de Execução do Subprograma N.º 3-emprego e Formação
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:676196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441147:por
+  label: "Determinado, para os efeitos do nº 1, que a data do início de vigência do Regulamento constante do presente diploma\
+    \ coincida com a data da entrada em vigor do DN.53/2002.2002.04.17.MECO, DR.IS-B [279] de 03/Dez/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-2002-441147
+  date: '2002-04-17'
+- type: amended_by
+  target: pt:dre:441146:por
+  label: "Alterados os arts 6º e 12º do anexo II do presente diploma pelo DN.54/2002.2002.10.08.MECO, DR.IS-B [279] de 03/Dez/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/54-2002-441146
+  date: '2002-10-08'
+- type: amended_by
+  target: pt:dre:486139:por
+  label: "Alterados os nºs 2 e 3 deste diploma, assim como os arts. 1º, 4º, 5º, 9º, 10º, 11º, 12º e 18º do anexo I e os arts.\
+    \ 1º, 5º, 6º, 7º, 8º, 9º, 10º, 15º e apêndice do anexo II, pelo DN.8-B/2004.26.01.2004.MECO, DR.IS-B [41-Supl] de 18.02.2004,\
+    \ que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-b-2004-486139
+  date: '2004-01-26'
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal, constantes do Regulamento aprovado pelo presente diploma, com a redacção conferida\
+    \ pelos DN 54/2002 de 03-Dez e 8-B/2004 de 18-Fev, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:157992:por
+  label: "Encerradas as candidaturas, salvo quanto àquelas a apresentar pelo Instituto de Formação Turística que estejam em\
+    \ análise em 27.07.2005, ao Subprograma n.º 3, «Emprego e Formação», do PIQTUR (na redacção dada pelo DN 54/2004, de 03-Dez,\
+    \ e pelo DN 8-B/2004, de 18-Fev (republicado) e reduzida a dotação do referido Subprograma (na redacção dada pelo DN 8-B/2004,\
+    \ de 18-Fev, republicada), regulado pelo presente diploma, pelo DN.36-A/2005.06.07.2005.MEI, DR.IS-B [142] de 26.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
+  date: '2005-07-06'
+- type: amended_by
+  target: pt:dre:676196:por
+  label: "Alterados o art. 4º do anexo I e os arts. 5º e 6º do anexo II deste diploma, com as alterações posteriormente introduzidas\
+    \ pelos DN 53/2002 e 54/2002, ambos de 03-Dez, 8-B/2004 de 18-Fev, 23/2004 de 10-Mai e 36-A/2005 de 26-Jul, pelo DN.12/2006.30.01.2006.MEI,\
+    \ DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2006-676196
+  date: '2006-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/42-b/2000/09/20/p/dre
   label: null
@@ -92,16 +134,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:46Z'
   warnings: []
   errors: []
 ---
@@ -596,7 +646,7 @@ b) Reembolso integral das despesas efectuadas e pagas, com a periodicidade míni
 
 3 - Recebidos os documentos referidos no número anterior e prestados os esclarecimentos adicionais eventualmente solicitados, o IFT paga as comparticipações devidas no prazo máximo de 25 dias úteis.
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação dos projectos
 
@@ -618,27 +668,27 @@ f) Aplicação do projecto à escala nacional ou regional ao nível das NUT II.
 
 a) Critério A - relevância do projecto face aos objectivos do Plano Nacional de Formação Melhor Turismo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
 
 b) Critério B - adequação das actividades e ou do objecto social do promotor aos objectivos do projecto e sua inserção nos objectivos da medida em que se integra:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
 
 c) Critério C - qualificação técnico-científica do coordenador do projecto e da equipa técnica:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
 
 d) Critério D - grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio financeiro com comparticipação da União Europeia:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
 
 e) Critério E - inovação científico-técnica inerente ao projecto:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
 
 f) Critério F - aplicação do projecto à escala nacional ou regional ao nível das NUT II:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
 
 3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:
 
@@ -664,4 +714,4 @@ CF - critério F.
 
 5 - A intensidade do incentivo a conceder determina-se, em cada medida, em função da pontuação obtida pelos projectos nos termos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38253832.pdf)

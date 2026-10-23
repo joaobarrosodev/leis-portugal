@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/212-1986-227603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 533c2d871cb33aef8a7ac8855d25ea6c9f7d403a534188ad590f5ce1c50ba74e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af7465639fdf7b7c5592798537a161ef9dbeb653327345f7085f8d6f2cc61ca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águeda
+- Alcobaça
+- Almada
+- Anadia
+- Arraiolos
+- Aveiro
+- Beja
+- Benavente
+- Caldas da Rainha
+- Cantanhede
+- Cascais
+- Chaves
+- Coimbra
+- Espinho
+- Évora
+- Faro
+- Figueira da Foz
+- Funchal
+- Guarda
+- Guimarães
+- Leiria
+- Lisboa
+- Mafra
+- Matosinhos
+- Montemor-o-Novo
+- Oeiras
+- Organização Judiciária
+- Peniche
+- Pessoal de Justiça
+- Ponta Delgada
+- Portimão
+- Porto
+- Quadro de Pessoal
+- Ribeira Grande
+- Santa Comba DÃO
+- Santa Maria da Feira
+- Santarém
+- Santo Tirso
+- Secretaria Judicial
+- Seixal
+- Setúbal
+- Tribunal
+- Tribunal Correccional
+- Tribunal Criminal
+- Tribunal da Relação
+- Tribunal de Competência Especializada
+- Tribunal de Execução das Penas
+- Tribunal de Instrução Criminal
+- Tribunal de Polícia
+- Tribunal do Trabalho
+- VILA NOVA de Famalicão
+- VILA NOVA de GAIA
+- Vila Real
+- Vila Real de Santo António
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:571245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571245:por
+  label: "Aumentado de um lugar de terceiro oficial o quadro de pessoal do Tribunal da Relação do Porto pela PORT.340/90.07.05.1990.MF,\
+    \ DR.IS [104] de 07.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/340-1990-571245
+  date: '1990-05-07'
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:518827:por
+  label: Rectificada pela DECL.DD4727.26.06.1986.PCM, DR.IS [147]2ºSupl de 30.06.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-518827
+  date: '1986-06-26'
 article_structure:
   article_count: 0
-  section_count: 66
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:49Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +220,7 @@ Tribunal cível
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos em cada juízo.
+Secção central e três secções de processos em cada juízo.
 
 Pessoal:
 
@@ -186,7 +256,7 @@ Juízos criminais
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -212,7 +282,7 @@ Juízos correccionais
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -250,7 +320,7 @@ Juízos de polícia
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -276,7 +346,7 @@ Tribunal de instrução criminal
 
 Secretaria judicial:
 
-#### Secção central e cinco secções de processos.
+Secção central e cinco secções de processos.
 
 Pessoal:
 
@@ -304,7 +374,7 @@ Tribunal de execução das penas
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -332,7 +402,7 @@ Tribunal cível
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos em cada juízo.
+Secção central e três secções de processos em cada juízo.
 
 Pessoal:
 
@@ -360,7 +430,7 @@ Tribunal de instrução criminal
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -386,7 +456,7 @@ Tribunal de família
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -418,7 +488,7 @@ Tribunal de execução das penas
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -444,7 +514,7 @@ Tribunal de Águeda
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -472,7 +542,7 @@ Tribunal de Alcobaça
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -500,7 +570,7 @@ Tribunal de Almada
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -534,7 +604,7 @@ Tribunal de Anadia
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -562,7 +632,7 @@ Tribunal de Arraiolos
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -584,7 +654,7 @@ Tribunal de Aveiro
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -620,7 +690,7 @@ Tribunal de Beja
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -648,7 +718,7 @@ Tribunal de Benavente
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -676,7 +746,7 @@ Tribunal de Cantanhede
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -702,7 +772,7 @@ Tribunal de Cascais
 
 Secretaria judicial:
 
-#### Secção central e oito secções de processos.
+Secção central e oito secções de processos.
 
 Pessoal:
 
@@ -736,7 +806,7 @@ Tribunal de Chaves
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -766,7 +836,7 @@ Tribunal de Espinho
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -798,7 +868,7 @@ Tribunal de Évora
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -828,7 +898,7 @@ Tribunal de Faro
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -860,7 +930,7 @@ Tribunal da Figueira da Foz
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -890,7 +960,7 @@ Tribunal do Funchal
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -924,7 +994,7 @@ Tribunal da Guarda
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -956,7 +1026,7 @@ Tribunal de Leiria
 
 Secretaria judicial:
 
-#### Secção central e oito secções de processos.
+Secção central e oito secções de processos.
 
 Pessoal:
 
@@ -992,7 +1062,7 @@ Tribunal de Mafra
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1018,7 +1088,7 @@ Tribunal de Matosinhos
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1050,7 +1120,7 @@ Tribunal de Montemor-o-Novo
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1078,7 +1148,7 @@ Tribunal de Odemira
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1104,7 +1174,7 @@ Tribunal de Oeiras
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1138,7 +1208,7 @@ Tribunal de Peniche
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1162,7 +1232,7 @@ Tribunal de Ponta Delgada
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -1196,7 +1266,7 @@ Tribunal de Portimão
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -1224,7 +1294,7 @@ Tribunal de Porto de Mós
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1250,7 +1320,7 @@ Tribunal da Ribeira Grande
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1274,7 +1344,7 @@ Tribunal de Santa Comba Dão
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1302,7 +1372,7 @@ Tribunal de Santa Maria da Feira
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1336,7 +1406,7 @@ Tribunal de Santarém
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1372,7 +1442,7 @@ Tribunal de Santo Tirso
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1406,7 +1476,7 @@ Tribunal do Seixal
 
 Secretaria judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -1434,7 +1504,7 @@ Tribunal de Vila Nova de Famalicão
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1468,7 +1538,7 @@ Tribunal de Vila Nova de Gaia
 
 Secretaria judicial:
 
-#### Secção central e oito secções de processos.
+Secção central e oito secções de processos.
 
 Pessoal:
 
@@ -1502,7 +1572,7 @@ Tribunal de Vila Real
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1532,7 +1602,7 @@ Tribunal de Vila Real de Santo António
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1558,7 +1628,7 @@ Tribunal de Viseu
 
 Secretaria judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -1596,7 +1666,7 @@ Tribunal de Polícia de Vila Nova de Gaia
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1620,7 +1690,7 @@ Tribunal de Instrução Criminal de Almada
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1638,7 +1708,7 @@ Tribunal de Instrução Criminal de Aveiro
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1656,7 +1726,7 @@ Tribunal de Instrução Criminal de Beja
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1674,7 +1744,7 @@ Tribunal de Instrução Criminal das Caldas de Rainha
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1692,7 +1762,7 @@ Tribunal de Instrução Criminal de Faro
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1710,7 +1780,7 @@ Tribunal de Instrução Criminal da Figueira da Foz
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1728,7 +1798,7 @@ Tribunal de Instrução Criminal de Guimarães
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1746,7 +1816,7 @@ Tribunal de Instrução Criminal de Portimão
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1764,7 +1834,7 @@ Tribunal de Instrução Criminal de Santarém
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1782,7 +1852,7 @@ Tribunal de Instrução Criminal de Santo Tirso
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1800,7 +1870,7 @@ Tribunal de Instrução Criminal de Setúbal
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1818,7 +1888,7 @@ Tribunal do Trabalho de Aveiro
 
 Secretaria judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -1842,7 +1912,7 @@ Tribunal do Trabalho de Évora
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1866,7 +1936,7 @@ Tribunal do Trabalho da Figueira da Foz
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1890,7 +1960,7 @@ Tribunal do Trabalho de Leiria
 
 Secretaria judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -1914,7 +1984,7 @@ Tribunal de Execução das Penas de Coimbra
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1932,7 +2002,7 @@ Tribunal de Execução das Penas de Évora
 
 Secretaria judicial:
 
-#### Secção central e uma secção de processos.
+Secção central e uma secção de processos.
 
 Pessoal:
 
@@ -1950,6 +2020,6 @@ Escriturário judicial ... 2
 
 Ministério da Justiça.
 
-**Assinada em 14 de Abril de 1986.**
+Assinada em 14 de Abril de 1986.
 
-**O Ministro da Justiça, Mário Ferreira Bastos Raposo.**
+O Ministro da Justiça, Mário Ferreira Bastos Raposo.

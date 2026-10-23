@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27000/38973898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/892-1985-170306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 967b2b3535bd2c21c9d5d76dfb0be13c63f535947b5687e3ea43af1b9c2f986b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29be95c370977cdb920f387325ca5776f2be8b1e6a277e2032f006fda4c30895
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Presidência do Conselho de Ministros
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:600111:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, aprovado pelo DR 51/83, de 21-Jun, com as alterações introduzidas pelo presente\
+    \ diploma, pelo constante do anexo V da PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:324960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302483:por
+  label: "Revogada pelo DEC LEI.19-A/93.1993.01.25.PCM, DR.IS-A [20]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-a-1993-302483
+  date: '1993-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:43Z'
   warnings: []
   errors: []
 ---
@@ -104,8 +130,8 @@ Manda o Governo da República Portuguesa, pelo Primeiro-Ministro, pelo Ministro 
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano.
 
-**Assinada em 31 de Outubro de 1985.**
+Assinada em 31 de Outubro de 1985.
 
 Pelo Primeiro-Ministro, Alfredo José Somera Simões Barroso, Secretário de Estado da Presidência do Conselho de Ministros. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27000/38973898.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27000/38973898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27000/38973898.pdf)

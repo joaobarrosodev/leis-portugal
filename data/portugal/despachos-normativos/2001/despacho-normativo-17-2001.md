@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/17/2001/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2001-362328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d6df28e7b71c0ec4b6b9c219b567741fda36a01baf0c711285f455893daec85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0203e58dac0bef11c7c3cadb7e98dc13731467a13d9b66d3dd34c4bbe5db3149
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agrupamento de Produtores
 - Organização Comum do Tabaco
-- Tabaco
 - Orientação Agrícola
 - Política Agrícola Comum
 - Prémio aos Produtores de Tabaco
 - Quota de Produção
 - Regulamento CE
-- Açores
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:360106:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:153114:por
+  label: "Alterados o nº 2 do nº 2º e o nº 2 do nº 8º , revogado o nº 1 do nº 7º, assim como prorrogados, excepcionalmente\
+    \ para a colheita de 2002, até 24 de Abril os prazos fixados nos nºs 1 e 2 do nº 5º e no nº 4 do nº 8º, e até 30 de Abril\
+    \ o prazo fixado no nº 5 do nº 8º, todos deste diploma, pelo DN.34/2002.2002.04.15.MADRP DR.IS-B [123] de 28/Mai/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2002-153114
+  date: '2002-04-15'
+- type: amended_by
+  target: pt:dre:166399:por
+  label: "Alterado o nº 2 do nº 2º , o nº 7º e o nº 2 do nº 8º pelo DN.3/2003.2003.01.06.MADRP DR.IS-B [23] de 28/Jan/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2003-166399
+  date: '2003-01-06'
+- type: amended_by
+  target: pt:dre:241041:por
+  label: "Mantido em vigor para a colheita de 2004 o disposto no nº 7º e alterados os nº 2 do nº 2º e e nº 2 do nº 8º deste\
+    \ diploma, alterado pelo DN 3/2003 de 28-Jan, pelo DN.2/2004.10.12.2003.MADRP, DR.IS-B [8] de 10.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2004-241041
+  date: '2003-12-10'
+- type: amended_by
+  target: pt:dre:608035:por
+  label: "Alterados os n.ºs 2 do n.º 2.º e 2 do n.º 8.º, alterados pelos DN 34/2002, de 15-Abr, 3/2003, de 06-Jan e 2/2004,\
+    \ de 10-Dez, pelo DN.14/2005.02.02.2005.MAPF, DR.IS-B [39] de 24.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2005-608035
+  date: '2005-02-02'
 - type: cites
   target: celex:31992R2075
   label: null
@@ -96,16 +122,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/27/2000/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/27/2000/06/05/p/dre
+- type: repealed_by
+  target: pt:dre:360106:por
+  label: "Revogado pelo DN.36/2006.31.05.2006.MADRP, DR.IS-B [121] de 26.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-2006-360106
+  date: '2006-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:30Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/022b00/08390841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/7/2005/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f01e96ab6cc41a79e0d45ae9b5b579417dbd2032a3bccc3a6ccb95aaca5be3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 339888996800a111a2cb459718625ca72c1f99134e9fe863f8c292b980e7a97e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Agricultor
 - Controlo Sanitário
-- Saúde Pública
-- Fiscalização
-- Pagamento
 - Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Madeira.região Autónoma
+- Pagamento
+- Pecuária
 - Proteção do Ambiente
 - Proteção Fitossanitária
-- Agricultor
-- Madeira.região Autónoma
 - Regulamento CE
-- Pecuária
-- Açores
+- Saúde Pública
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234168:por
+  label: "Alterado o art. 2º e os nºs 4), 5), 6), 7), al. b) do 8), 9), 10), 13) e 14) do anexo do presente diploma, aditados\
+    \ os nºs 18), 19), 20 e 21) ao referido anexo, e revogadas a al. h) do art. 2º, bem como a al. a) do nº 6) e a al. g)\
+    \ do nº 8) - ambos do mesmo anexo, pelo DN.33/2005.03.06.2005.MADRP, DR.IS-B [122] de 28.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/33-2005-234168
+  date: '2005-06-03'
+- type: amended_by
+  target: pt:dre:2294370:por
+  label: "Alterados os art.s 2º (na redacção do DN 33/2005, de 28-Jun), 3º, 4º e o anexo II (na redacção do DN 33/2005, de\
+    \ 28-Jun), aditado o anexo I, revogadas as al.s m), n) e t) do art. 2º (na redacção do DN 33/2005, de 28-Jun) e republicado\
+    \ pelo DN.24/2008.23.04.2008.MADRP, DR.IIS [80] de 23.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2008-2294370
+  date: '2008-04-23'
+- type: amended_by
+  target: pt:dre:1151622:por
+  label: "Alterados o nº 1 do art. 1º, as als. i) e q) do art. 2.º (este último na redacção do DN 24/2008, de 23-Abr) os nºs.\
+    \ 1.3 e 1.4.1 do anexo I (na redacção do DN 24/2008, de 23-Abr) o s nºs. 1, 4, 5, 6, as als. b) e c) do nº 9, o nº 11,\
+    \ a al. b) do nº 12 e os nºs. 13 e 15 do anexo II, aditadas as als. u), v), x) e z) do art. 2º e os nºs. 2 e 3 do art.\
+    \ 3º, a al. c) do nº 2, a al. c) do nº 10, as als. g) e h) do nº 12 e os nºs. 28 e 29 do anexo II e revogadas as als.\
+    \ e), f), g) e r) do art. 2º, os nºs. 1.4.1.1. e 1.4.1.2. do anexo I e os nºs. 3, 16, 17 e 18 do anexo II do presente\
+    \ diploma, pelo DN.14/2009.02.04.2009.MADRP, DR.IIS [65] de 02.04.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2009-1151622
+  date: '2009-04-02'
+- type: amended_by
+  target: pt:dre:1124172:por
+  label: "Alterada a al. p) do art. 2.º (na redacção do DN 33/2005, de 28-Jun), aditadas as als. aa), bb) e cc) do art. 2.º,\
+    \ o n.º 1.1.6 do anexo i a que se refere a al. a) do art. 2.º e os n.ºs 30, 31 e 32 do anexo ii a que se refere o art.\
+    \ 3.º e revogado o n.º 1.4.1 do anexo i do presente diploma, republicado pelo DN 24/2008, de 23-Abr, pelo DN.3/2010.01.02.2010.MADRP,\
+    \ DR.IIS [21] de 01.02.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2010-1124172
+  date: '2010-02-01'
+- type: amended_by
+  target: pt:dre:3337344:por
+  label: "Alterados os nºs 19, 21 ambos (na redacção do DN 33/2005, de 28-Jun, e DN 24/2008, de 24-Abr) e 26 (na redacção\
+    \ do DN 24/2008, de 24-Abr) e revogados os nºs 22, 24, 25 e 27 do anexo ii a que se refere o art. 3º, pelo DN.10/2011.15.06.2011.MADRP,\
+    \ DR.IIS [114] de 15.06.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2011-3337344
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:2235067:por
+  label: "Alterados o art. 2.º (na redação dos DN 33/2005, de 28-jun, 24/2008, de 23-abr, 14/2009, de 02-abr e 3/2010, de\
+    \ 01-fev) e o art. 4.º (na redação do DN 24/2008, de 23-abr) e os anexos I (na redação dos DN 24/2008, de 23-abr, 14/2009,\
+    \ de 02-abr, e 3/2010, de 01-fev) e II ( na redação dos DN 33/2005, de 28-jun, 24/2008, de 23-abr, 14/2009, de 02-abr\
+    \ e 3/2010, de 01-fev) e revogados os n.os 1.2.4.1, 1.2.4.2, 2.1.3 e 2.2 do anexo I , todos do presente diploma, pelo\
+    \ DN.4/2012.02.04.2012.SEA-MAMAOT, DR.IIS [66] de 02.04.2012, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2012-2235067
+  date: '2012-04-02'
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º (na redação dos DN 33/2005 de 28-jun, 24/2008 de 23-abr, 14/2009 de 02-abr, 3/2010 de 01-fev,\
+    \ e 4/2012 de 02-abr) e os anexos I (na redação dos DN 24/2008 de 23-abr, 14/2009 de 02-abr, 3/2010 de 01-fev, e 4/2012\
+    \ de 02-abr) e II ( na redação dos DN 33/2005 de 28-jun, 24/2008 de 23-abr, 14/2009 de 02-abr, e 3/2010, de 01-fev, 10/2011\
+    \ de 15-jun, e 4/2012 de 02-abr) do presente despacho normativo, pelo DN.2/2014.29.01.2014.SEAG-MAGM, DR.IIS [20] de 29.01.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -94,16 +151,29 @@ relationships:
   target: celex:32004R0796
   label: null
   source: http://data.europa.eu/eli/reg/2004/796/oj
+- type: corrected_by
+  target: pt:dre:2142528:por
+  label: "Rectificado o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6\
+    \ do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo\
+    \ 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:»] do DN 3/2010, de 01-Fev, que alterou o presente despacho,\
+    \ pela DECL-RECT.319/2010.18.02.2010.SG-MADRP, DR.IIS [34] de 18.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/319-2010-2142528
+  date: '2010-02-18'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, pelo(a) Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:08Z'
   warnings: []
   errors: []
 ---

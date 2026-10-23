@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 99/1999, 3º Suplemento, Série I-B de 1999-04-28
   number: '99'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2278-(6) a 2278-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/099b03/00060007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/23-a/1999/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 380e5a65524fd4735672d03bbd6ba0fb36f645be2b7949690a1d7b84ff280222
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 955d4bd2030f5bef28f65173fdc634cc8f629067db371842da36fc5799c77efe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio ao Investimento
+- Embarcação de Pesca
 - Equipamento de Pesca
+- Financiamento
 - Frota de Pesca
 - Pesca
-- Apoio ao Investimento
-- Projeto de Investimento
 - Piddac
+- Projeto de Investimento
 - Regulamento
-- Embarcação de Pesca
 - Sipesca
 relationships:
 - type: amended_by
@@ -85,16 +85,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/57/1998/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/57/1998/08/21/p/dre
+- type: cites
+  target: pt:dre:444675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:00Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +143,9 @@ i) (Revogada.)
 
 2 - Para efeitos do disposto nas alíneas d) e h) do número anterior, considera-se o lapso de tempo decorrido entre a data da última concessão de apoios financeiros e a data da apresentação da candidatura.
 
-###### Artigo 5.º — Montante dos apoios
+Artigo 5.º
+
+Montante dos apoios
 
 1 - ...
 
@@ -155,19 +161,25 @@ c) As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos
 
 4 - ...
 
-###### Artigo 7.º — Apresentação de candidaturas e decisão
+Artigo 7.º
+
+Apresentação de candidaturas e decisão
 
 1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 31 de Agosto de 1998, 28 de Fevereiro de 1999 e 31 de Agosto de 1999 serão objecto de decisão até 31 de Outubro de 1998, 31 de Maio de 1999 e 31 de Outubro de 1999, respectivamente.
 
 2 - ...
 
-###### Artigo 8.º — Obrigações do beneficiário
+Artigo 8.º
+
+Obrigações do beneficiário
 
 1 - Para a execução dos projectos de modernização e de construção são estabelecidos os prazos de oito meses e de um ano, respectivamente, contados a partir da comunicação ao beneficiário da concessão de apoio.
 
 2 - Os bens ou equipamentos adquiridos ao abrigo do presente Regulamento não podem ser doados, vendidos ou por qualquer modo cedidos, em separado da respectiva embarcação pelo prazo de cinco anos, contado a partir da data da aprovação do projecto, não podendo igualmente ser destinados a outros fins que não a pesca.
 
-###### Artigo 10.º — Incumprimento
+Artigo 10.º
+
+Incumprimento
 
 1 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 2 do artigo 8.º ou se tenha verificado a libertação dos subsídios e incumprimento da execução dos projectos, deverão aqueles repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicado, respectivamente, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
 

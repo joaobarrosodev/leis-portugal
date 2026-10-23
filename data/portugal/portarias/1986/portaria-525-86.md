@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-1986-222023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0a0a4816219cbb65d7ae69d11597a09bfa40bca76290adb03fe2d1e9f28c15e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e304b4ceaa90373f3334a5988a0d86212c07329fd9064e609eccef3e3d8b9370
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Castelo Branco
+- Centro Regional de Segurança Social
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTEGRADAS AS ACÇÕES E OS CONTRIBUINTES BENEFICIÁRIOS DA CAIXA SINDICAL DE PREVIDÊNCIA DOS PROFISSIONAIS DE SEGUROS,\
+    \ PELA PORTARIA 935/92, PUBLICADA NO DR.IS-B, 222, DE 920925. INTEGRADA A CAIXA DE PREVIDÊNCIA DOS PROFISSIONAIS DE ESPECTÁCULOS,\
+    \ PELA PORTARIA 58/93, PUBLICADA NO DR.IS-B, 10, DE 930113. ALTERADOS OS ARTIGOS 5 E 16 E ADITADO O ARTIGO 16-A DO REGULAMENTO\
+    \ DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DE CASTELO BRANCO, APROVADO PELO PRESENTE DIPLOMA, PELA PORTARIA 373/93, PUBLICADA\
+    \ NO DR.IS-B, 79, DE 930403.\0A NO DR.IS-B, 79, DE 930403.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:675218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232160:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa Sindical de Previdência dos Profissionais de Seguros
+    cujo regulamento foi aprovado por Alvará de 27-jul de 1956, nos Centros Regionais de Segurança Social de Aveiro, aprovado
+    pela Port 511/85, de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago,
+    de Bragança, aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela presente, de Coimbra, aprovado pela
+    Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, da Guardam aprovado pela Port 556/85, de 09-ago,
+    de Leiria, aprovado pela Port 382/85, de Portalegre, aprovado pela Port 501/85, de 24-jul, do Porto, aprovado pela Port
+    64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal, aprovado pela Port 487/85, de 19-jul,
+    de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado pela Port 509/85, de 26-jul, e de Viseu,
+    aprovado pela Port 555/85, de09-ago, bem como no Centro Regional de Segurança Social de Lisboa, criado pelo DR 3/81, de
+    15-jan, e integrada a orgânica e funcionalmente a Caixa Sindical de Previdência dos Profissional de Seguros e o respectivo
+    pessoal, bem como a titularidade do património neste último Centro Regional de Segurança Social, pelo(a) Portaria n.º
+    935/92 - Diário da República n.º 222/1992, Série I-B de 1992-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1992-232160
+  date: '1992-09-25'
+- type: amended_by
+  target: pt:dre:588262:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos, criada
+    pelo Dec Lei 32748, de 15-abr de 1943, nos Centros Regionais de Segurança Social de Aveiro, aprovado pela Port 511/85,
+    de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago, de Bragança,
+    aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela presenet, de Coimbra, aprovado pela Port 498/85,
+    de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, de Faro, aprovado pela Port 383/85, de 22-jun, da Guarda, aprovado
+    pela Port 556/85, de 09-ago, de Leiria, aprovado pela Port 382/85, de 21-jun, de Portalegre, aprovado pela Port 501/85,
+    de 24-jul, do Porto, aprovado pela Port 64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal,
+    aprovado pela Port 487/85, de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado
+    pela Port 509/85, de 26-jul, e de Viseu, aprovado pela Port 555/85, de 09-ago, bem como no Centro Regional de Segurança
+    Social de Lisboa, criado pelo DR 3/81, de 15-jan, e integrada orgânica e funcionalmente a Caixa de Previdência dos Profissionais
+    de Espectáculos, o respectivo pessoal, bem como a titularidade do património imobiliário e equipamentos da referida Caixa,
+    neste último Centro Regional da Segurança Social, pelo(a) Portaria n.º 58/93 - Diário da República n.º 10/1993, Série
+    I-B de 1993-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1993-588262
+  date: '1993-01-13'
+- type: amended_by
+  target: pt:dre:675218:por
+  label: "Alterados os artigos 5.º, 16.º e aditado o artigo 16.º-A ao Regulamento, pela PORT.373/93.03.04.1993.MF, DR.IS-B\
+    \ [79] de 03.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/373-1993-675218
+  date: '1993-04-03'
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310425:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:12Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +160,9 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 Secretarias de Estado do Orçamento e da Segurança Social.
 
-**Assinada em 28 de Agosto de 1986.**
+Assinada em 28 de Agosto de 1986.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
 
 Regulamento de Centro Regional de Segurança Social de Castelo Branco
 
@@ -664,4 +722,4 @@ O quadro de pessoal do Centro é o constante do anexo a este Regulamento.
 
 Quadro de pessoal do Centro Regional de Segurança Social de Castelo Branco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21300/25642570.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21300/25642570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21300/25642570.pdf)

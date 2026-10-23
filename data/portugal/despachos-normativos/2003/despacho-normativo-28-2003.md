@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/28/2003/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2003-693180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f60e308c07e24920f9467e01ee9e87ba174b5ca2a4fbc148665e520cf050dbda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba6a8620b691cb6cbdd1a2a23c8dcba83797abf4df62bfa0bf87de9c1c38163
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,28 @@ reuse:
 subjects:
 - Comissão Permanente
 - Direcção Regional de Agricultura
+- Gestão de Recursos Humanos
+- Ifadap
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Integração de Trabalhadores
-- Ifadap
-- Gestão de Recursos Humanos
 - Sistema Unificado de Controlo
 relationships:
 - type: amended_by
   target: pt:dre:1567449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660081:por
+  label: "Alterados os anexos I e III pelo DN.33/2003.2003.07.16.MADRP DR.IS-B [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/33-2003-660081
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:532636:por
+  label: "Alterados os anexos I (este na redacção dada pelo DN 33/2003 de 30-Jun), II e IV e alargado o âmbito de aplicação\
+    \ do nº 6 à Direcção Regional de Agricultura de Trás-os-Montes pelo DN.14/2004.13.02.2004.MADRP, DR.IS-B [63] de 15.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2004-532636
+  date: '2004-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/250/2002/11/21/p/dre
   label: null
@@ -93,16 +105,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/35/2002/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/35/2002/05/29/p/dre
+- type: cites
+  target: pt:dre:153128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1567449:por
+  label: "Revogado pelo DN.2/2006.29.06.2006.MADRP, DR.IIS [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2006-1567449
+  date: '2006-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:08Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +220,7 @@ Ministério da Agricultura, Desenvolvimento Rural e Pescas, 16 de Junho de 2003.
 
 ## ANEXO I — Lista de funcionários a destacar para o INGA
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
 
 Total de funcionários: 221.
 
@@ -191,14 +228,14 @@ Total de funcionários: 221.
 
 (n.º 2)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
 
 ## ANEXO III — Lista de funcionários a requisitar para o INGA
 
 (n.º 5)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
 
 ## ANEXO IV — Lista de viaturas do SUC que retornam ao INGA
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)](https://files.diariodarepublica.pt/1s/2003/06/148b00/37393743.pdf)

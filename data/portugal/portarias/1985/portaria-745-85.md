@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-1985-177049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a96860f704c8bd321cf05365374ba410635e80a70ca17e9d63d6b20e3da5b8ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f14c81a2266c3560b2f7c6aac6a369b75c8c118002501b6df005834cc95642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Benefícios Fiscais
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531842:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:12Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +112,6 @@ b) ...
 
 Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 5 de Setembro de 1985.**
+Assinada em 5 de Setembro de 1985.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, Carlos Montez Melancia.

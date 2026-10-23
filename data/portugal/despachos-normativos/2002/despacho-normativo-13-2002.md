@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/13/2002/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2002-265515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6626b25a692fc838e71f04423dc902caa6d911068a62ad967c0377f813d9fab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dadeef4730a13ce5cf35c428cadfa66946e4a4891ad4a898f50892d71bce5593
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Exame
 - JURI Nacional
-- Avaliação de Conhecimentos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:224375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220344:por
+  label: "Alterados os nºs 5.5 e 5.6 do Regulamento dos Exames do Ensino Secundário, pelo DN.11/2003.2003.02.07.ME DR.IS-B\
+    \ [52] de 03/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2003-220344
+  date: '2003-02-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/1996/08/10/p/dre
   label: null
@@ -98,16 +104,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/45/1996/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/45/1996/10/31/p/dre
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459460:por
+  label: "Rectificado pela DECL-RECT.15-O/2002.2002.03.30.PCM, DR.IS-B [75]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-o-2002-459460
+  date: '2002-03-30'
+- type: repealed_by
+  target: pt:dre:224375:por
+  label: "Revogado o Regulamento aprovado pelo presente diploma, na redacção do DN 11/2003, de 03-Mar, pelo DN.15/2003.2003.03.21.ME\
+    \ DR.IS-B [81] DE 05/ABR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2003-224375
+  date: '2003-03-21'
 article_structure:
   article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:31Z'
   warnings: []
   errors: []
 ---
@@ -952,19 +1001,19 @@ Exames de equivalência à frequência
 
 A) Componente de formação geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 B) Componente de formação específica
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 C) Componente de formação técnica dos cursos de carácter geral (exame no final de cada bloco/ano)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 D) Componente de formação técnica dos cursos tecnológicos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 ## ANEXO II — (a que se refere o n.º 13)
 
@@ -972,15 +1021,15 @@ Exames finais de âmbito nacional
 
 A) Componente de formação geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 B) Componente de formação específica
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 C) Componente de formação técnica dos cursos tecnológicos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
 
 ## ANEXO III — (a que se refere o n.º 55.1)
 
@@ -988,4 +1037,4 @@ C) Componente de formação técnica dos cursos tecnológicos
 
 Exames nacionais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)](https://files.diariodarepublica.pt/1s/2002/03/060b00/22252240.pdf)

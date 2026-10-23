@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/25700/37593759.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-1985-171547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 878722b0d27681f4f05af9d4d28633b0141e56d17c097a7293e5970425e74b29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8990c78c58247ae12af2c341027641b3f8d592bc42d3788832938343fc2eaac4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- CASA do Estado
+- Fundo de Fomento da Habitação
+- Habitação Social
 relationships:
 - type: amended_by
   target: pt:dre:498699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498699:por
+  label: "Revogada pela PORT.912/87.30.11.1987.MOPTC, DR.IS [276] de 30.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-1987-498699
+  date: '1987-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:40Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +110,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, a
 
 Ministério do Equipamento Social.
 
-**Assinada em 30 de Setembro de 1985.**
+Assinada em 30 de Setembro de 1985.
 
-**O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro do Equipamento Social, Carlos Montez Melancia.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/16/2005/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2005-572665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f26bb194e41f51ae216724399d1e9b4a8523b3d4b8e2d892283715ea1b75449
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b2c28aa449844ce4e82cd8a70b69159d77343fb0834219510d7ea2b47b79e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
-- Universidade dos Açores
-- Simbolo de Identificação
-- Ensino Superior
-- SELO Branco
 - Açores
-relationships: []
+- Ensino Superior
+- Estatuto
+- SELO Branco
+- Simbolo de Identificação
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 131
+  article_count: 121
   section_count: 69
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:03Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +154,9 @@ Unidades orgânicas
 
 4 - As unidades orgânicas poderão dividir-se em secções, sempre que a diversidade de áreas e especialidades científicas, bem como o número de investigadores e docentes, o justifiquem.
 
-###### Artigo 19.º — Quadro de unidades orgânicas
+Artigo 19.º
+
+Quadro de unidades orgânicas
 
 1 - A Universidade dos Açores compreende as seguintes unidades orgânicas:
 
@@ -158,7 +192,9 @@ Departamento de Oceanografia e Pescas.
 
 2 - Fazem ainda parte integrante do quadro de unidades orgânicas os departamentos e as escolas de ensino superior politécnico criados ao abrigo da alínea g) do artigo 41.º destes Estatutos.
 
-###### Artigo 24.º — Composição
+Artigo 24.º
+
+Composição
 
 1 - ...
 
@@ -186,7 +222,9 @@ j) [Anterior alínea k).]
 
 3 - ...
 
-###### Artigo 37.º — Competência
+Artigo 37.º
+
+Competência
 
 1 - ...
 
@@ -214,7 +252,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 38.º — Composição
+Artigo 38.º
+
+Composição
 
 1 - ...
 
@@ -246,7 +286,9 @@ j) [Anterior alínea k).]
 
 5 - ...
 
-###### Artigo 41.º — Competência
+Artigo 41.º
+
+Competência
 
 ...
 
@@ -280,13 +322,17 @@ o) ...
 
 p) ...
 
-###### Artigo 43.º — Composição
+Artigo 43.º
+
+Composição
 
 1 - O conselho administrativo é constituído pelo reitor, que preside, por um dos vice-reitores por ele designado, por um representante dos directores de departamento e um representante dos directores das escolas, pelo administrador ou funcionário administrativo de categoria mais elevada e por um representante dos estudantes indicado pelos seus pares no senado.
 
 2 - Os representantes dos directores das unidades orgânicas a que se refere o número anterior são eleitos de entre os directores de departamento e das escolas de ensino politécnico, em reunião convocada pelo reitor para o efeito.
 
-###### Artigo 88.º — Secretariados
+Artigo 88.º
+
+Secretariados
 
 1 - As unidades orgânicas e os centros compreendidos na Universidade terão um secretariado adequado à sua natureza, dimensão e funções específicas, sem prejuízo do disposto na alínea b) do artigo 78.º
 
@@ -302,17 +348,23 @@ p) ...
 
 Conselho de coordenação do ensino politécnico
 
-###### Artigo 55.º-A — Definição
+Artigo 55.º-A
+
+Definição
 
 No âmbito da Universidade funciona o conselho de coordenação do ensino politécnico, órgão colegial destinado a promover o desenvolvimento do ensino politécnico e a garantir a coesão da actividade das respectivas escolas.
 
-###### Artigo 55.º-B — Composição
+Artigo 55.º-B
+
+Composição
 
 1 - O conselho de coordenação do ensino politécnico é constituído pelo reitor, pelos directores das escolas de ensino superior politécnico e por individualidades representativas do meio económico e social.
 
 2 - As individualidades a que se refere o número anterior serão nomeadas pelo reitor, ouvidos os directores das escolas de ensino superior politécnico, e exercem as suas funções até ao termo do mandato reitoral.
 
-###### Artigo 55.º-C — Organização e funcionamento
+Artigo 55.º-C
+
+Organização e funcionamento
 
 O conselho funcionará em plenário e será presidido pelo reitor, a quem incumbe a sua convocação.»
 

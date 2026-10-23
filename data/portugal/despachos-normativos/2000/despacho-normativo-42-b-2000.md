@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 218/2000, 3º Suplemento, Série I-B de 2000-09-20
   number: '218'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5058-(12) a 5058-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/218b03/00120018.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42-b/2000/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-b-2000-562176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 300b830f5c13506113cb425c0fe08211f27f61773de55d80793e80b9ff430b0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0883fa33e4cc87cc06274328b5b769da3b4c45a8d1358f8f6ec4dbeb2ef71d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Bolsa de Formação
 - Bolsa de Formação Profissional
+- Financiamento
 - Formação Profissional
 - Formador
 - Formando
+- FSE
 - Fundos CE
 - Pagamento
-- QCA
-- FSE
-- Pessoal não Docente
 - Pessoal Docente
+- Pessoal não Docente
 - Política de Emprego
+- QCA
 - Remuneração
 relationships:
 - type: amended_by
@@ -90,16 +90,22 @@ relationships:
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:3062988:por
+  label: "Revogado, a partir de 29.01.2008, pelo DN.4-A/2008.24.01.2008.MAOTDR, DR.IIS [17-Supl] de 24.01.2008 (Ver Notas)\0\
+    s)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-a-2008-3062988
+  date: '2008-01-24'
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:05Z'
   warnings: []
   errors: []
 ---

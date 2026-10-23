@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/17/2000/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2000-411851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf7df3a0a234385e1f21ae35efa5a4d593b72a06484c57718febafb8c63dad68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c84f3281c56c480a41ca120a0ea3326dd3ecfa9b85ea338fa92c68441f3cf34f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,29 @@ subjects:
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
 - Conselho Administrativo
 - Conselho Científico
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
+- Eleição
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
 - Estatuto
-- Conselho Diretivo
-- Conselho Consultivo
 - Leiria
 relationships:
 - type: amended_by
   target: pt:dre:606290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606290:por
+  label: "Convertida a Escola Superior de Enfermagem de Leiria, do Instituto Politécnico de Leiria, em escola superior de\
+    \ saúde, com a denominação de Escola Superior de Saúde de Leiria cujos estatutos foram homologados pelo presente diploma,\
+    \ pela PORT.207/2005.22.02.2005.MCIES, DR.IS-B [37] de 22.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2005-606290
+  date: '2005-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1997/05/24/p/dre
   label: null
@@ -94,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
+- type: cites
+  target: pt:dre:347306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
+  article_count: 35
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:20Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +241,9 @@ g) Exercer relativamente aos corpos de pessoal docente e não docente a competê
 
 4 - Cabe aos Ministros da Educação e da Saúde definir as formas de concessão de apoio aos estudantes da Escola, no quadro dos serviços sociais.
 
-### CAPÍTULO II — Artigo 10.º
+### CAPÍTULO II
+
+###### Artigo 10.º
 
 Órgãos de gestão
 

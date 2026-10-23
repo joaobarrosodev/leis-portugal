@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11/1999/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1999-151330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dfeb2a70aeab5f453a2134185865d0ee260295b8670444af020211ff1e7d85f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83f1ed32133a602ec0e062f5b4569897686bf7c7139b5f755a0213e1e71199e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
+- Açores
 - Agrupamento de Produtores
+- Ajuda Comunitária
 - Controlo de Qualidade
 - Definição de Competências
 - Instituto de Alimentação e Mercados Agrícolas
 - Instituto Nacional de Garantia Agrícola
-- Tabaco
 - Política Agrícola Comum
-- Quota de Produção
 - Produção Agrícola
-- Açores
+- Quota de Produção
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:494831:por
@@ -99,16 +99,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/29/1995/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/29/1995/06/17/p/dre
+- type: repealed_by
+  target: pt:dre:494831:por
+  label: "Revogado pelo DN.20/2000.2000.03.21.MADRP,DR.IS-B [82] de 06/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2000-494831
+  date: '2000-03-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:41Z'
   warnings: []
   errors: []
 ---

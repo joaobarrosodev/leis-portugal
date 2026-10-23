@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/29/2002/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2002-288045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3fba9295b353d058077a77dc39f6bdb18131928b69fc50c1bb0f97fa8719ff0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fa0dc0f823ac942c4fe986108d45d74d8e6febd565aac66f68592b554704470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
 subjects:
 - Ajuste Direto
 - Alienação de Imóveis
-- Gestão Financeira
 - Gestão do Património
+- Gestão Financeira
 - Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:386044:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386044:por
+  label: "Alterados os arts. 5.º e 10.º do DN 27-A/2001, de 31-Mai, na redacção do presente diploma, pelo DN.30-A/2004.14.06.2004.MF,\
+    \ DR.IS-B [152-Supl] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-a-2004-386044
+  date: '2004-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/27-a/2001/05/31/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:52Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +148,7 @@ Os artigos 5.º e 10.º do [Despacho Normativo n.º 27-A/2001](https://diariodar
 
 8 - Em seguida, há lugar ao exercício de eventuais direitos de preferência e, apresentando-se a preferir mais de uma pessoa com igual direito, reabre-se nova licitação entre elas, nos termos do n.º 6 do presente artigo.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Podem ser alienados por ajuste directo os imóveis do Estado e dos organismos públicos dotados de personalidade jurídica, com ou sem autonomia financeira, que não revistam a natureza, forma ou designação de empresa pública, nos seguintes casos:
 

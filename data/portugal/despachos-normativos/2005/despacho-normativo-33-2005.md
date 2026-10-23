@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/122b00/40194021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/33/2005/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2005-234168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cabedcaab53e9250e833b01ac508a7ca370a631247f136476c3b84a4ec24a241
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 248ec0e833e3d8512da452435e8d09cdc540d2e550c1d6ebfd269abf774b10b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Controlo Sanitário
-- Saúde Pública
-- Fiscalização
-- Pagamento
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Exploração Agrícola
-- Proteção do Ambiente
-- Política de Solos
-- Política Agrícola Comum
-- Proteção Fitossanitária
-- Agricultor
-- Madeira.região Autónoma
-- Regulamento CE
-- Pecuária
 - Açores
+- Agricultor
+- Controlo Sanitário
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Madeira.região Autónoma
+- Pagamento
+- Pecuária
+- Política Agrícola Comum
+- Política de Solos
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Regulamento CE
+- Saúde Pública
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2294370:por
+  label: "Alterados os art.s 2º, o anexo II e revoga as al.s m), n) e t) do art. 2º do DN 7/2005, de 01-Fev, na redacção do\
+    \ presente diploma, pelo DN.24/2008.23.04.2008.MADRP, DR.IIS [80] de 23.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2008-2294370
+  date: '2008-04-23'
+- type: amended_by
+  target: pt:dre:1124172:por
+  label: "Alterada a al. p) do art. 2.º do DN 7/2005, de 01-Fev, na redacção do presente diploma e republicado pelo DN 24/2008,\
+    \ de 23-Abr, pelo DN.3/2010.01.02.2010.MADRP, DR.IIS [21] de 01.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2010-1124172
+  date: '2010-02-01'
+- type: amended_by
+  target: pt:dre:3337344:por
+  label: "Alterados os nºs 19 e 21 do anexo ii a que se refere o art. 3º do DN 7/2005, de 01-Fev, na redacção do presente\
+    \ despacho normativo, pelo DN.10/2011.15.06.2011.MADRP, DR.IIS [114] de 15.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2011-3337344
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:2235067:por
+  label: "Alterados o art. 2.º e o anexo II do DN 7/2005, de 01-fev, na redação do presente diploma, pelo DN.4/2012.02.04.2012.SEA-MAMAOT,\
+    \ DR.IIS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2012-2235067
+  date: '2012-04-02'
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º e o anexo II do DN 7/2005 de 01-fev, na redação do presente despacho normativo, pelo DN.2/2014.29.01.2014.SEAG-MAGM,\
+    \ DR.IIS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -100,16 +130,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/7/2005/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/7/2005/02/01/p/dre
+- type: corrected_by
+  target: pt:dre:2142528:por
+  label: "Rectificado o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6\
+    \ do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo\
+    \ 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:»] do DN 3/2010, de 01-Fev, que alterou o DN 7/2005 de\
+    \ 01-Fev, na redacção do presente despacho, pela DECL-RECT.319/2010.18.02.2010.SG-MADRP, DR.IIS [34] de 18.02.2010\0010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/319-2010-2142528
+  date: '2010-02-18'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:31Z'
   warnings: []
   errors: []
 ---

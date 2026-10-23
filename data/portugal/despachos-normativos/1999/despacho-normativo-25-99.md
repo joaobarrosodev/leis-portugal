@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/25/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1999-321948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 048e363c2b31eee88c04bdfb513ef470056f05f32089ecd0f9c23bc588142148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2238f62e4dbd875506e2cad48fa469d86e2250c324b8a8c61c6a9979b61afb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política Industrial
-- Mudança Tecnológica
 - Apoio ao Investimento
-- Projeto de Investimento
+- Madeira.região Autónoma
 - Modernização Industrial
 - Modernização Tecnológica
-- Reestruturação Industrial
-- Proteção do Ambiente
-- Prodibeta
-- Madeira.região Autónoma
-- Sideram
+- Mudança Tecnológica
 - Pedip II
+- Política Industrial
+- Prodibeta
+- Projeto de Investimento
+- Proteção do Ambiente
+- Reestruturação Industrial
+- Sideram
 - Sistema de Incentivos Pedip
 - Sistema de Incentivos Regionais
 - Subsídio
@@ -114,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52/1998/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52/1998/04/20/p/dre
+- type: cites
+  target: pt:dre:175358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644891:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:01Z'
   warnings: []
   errors: []
 ---
@@ -162,11 +190,13 @@ c) ...
 
 4 - São susceptíveis de apoio no âmbito do PRODIBETA os pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão, localizados nas regiões abrangidas pelo Sistema de Incentivos Regionais (SIR), criado pelo [Decreto-Lei n.º 193/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1994-299446), de 19 de Julho, e pelo Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), criado pelo [Decreto Legislativo Regional n.º 2/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1996-620079), de 13 de Fevereiro.
 
-## ANEXO IV
+ANEXO IV
 
 Regime específico aplicável, para efeitos do PRODIBETA, aos projectos candidatos no âmbito do disposto no [Despacho Normativo n.º 549/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/549-1994-231894) (IIDE0104), de 29 de Julho, alterado pelo [Despacho Normativo n.º 39/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1995-478214), de 7 de Agosto.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +230,9 @@ a) ...
 
 b) (Não aplicável.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Poderão ser majorados em 15% os projectos situados em concelhos reconhecidos por despacho conjunto dos ministros competentes como profundamente afectados por transformações industriais e ou com taxas de desemprego acima da média nacional durante o período de 1995 a 1997.
 

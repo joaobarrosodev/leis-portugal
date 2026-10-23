@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/476-1986-218964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25de9a7ecb3dc8de6a5661d0f31f41d67ef8a274d483232929c23e1d40b51a79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6dad6140ba7665f992230db9c636dcaa98e5844fe5a30b222a2e575699f802b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arroz
+- Milho
+- Restituição a Produção
+relationships:
+- type: amended_by
+  target: pt:dre:599756:por
+  label: "ALTERADOS OS NUMEROS 2 E 4 PELA PORTARIA 11/87, PUBLICADO NO DR.IS, 4, DE 870106.\0106.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-1987-599756
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196216:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:49:55Z'
   warnings: []
   errors: []
 ---
@@ -178,10 +193,10 @@ b) Pago pelo Instituto Nacional de Garantia Agrícola ao beneficiário quando im
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 12 de Agosto de 1986.**
+Assinada em 12 de Agosto de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bisaia Barreto. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
 
 ## ANEXO — Lista dos produtos referidos no n.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19800/22692271.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19800/22692271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19800/22692271.pdf)

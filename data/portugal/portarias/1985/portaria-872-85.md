@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/872-1985-172131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab01a3d5697913612ed83e3886edf32a9b412078f12ccc3adb6871ad48a75763
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d41bdde73102033db9f382b55461c1521caaba10a694c5876f8d630f88306edc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Sangue
+- Médico
+- Pessoal de Saúde
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:610473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228858:por
+  label: "Alterado o quadro de pessoal, na parte referente a pessoal de enfermagem, aprovado pela Port 482/82, 08-Mai, na\
+    \ redacção do presente diploma, pela PORT.295/86.20.06.1986.MF, DR.IS [139] de 20.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1986-228858
+  date: '1986-06-20'
+- type: cites
+  target: pt:dre:392784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:17Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +122,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
 
-**Assinada em 25 de Outubro de 1985.**
+Assinada em 25 de Outubro de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Quadro de pessoal do Instituto Nacional de Sangue
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26500/38453845.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26500/38453845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26500/38453845.pdf)

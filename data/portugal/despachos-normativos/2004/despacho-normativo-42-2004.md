@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/10/252b00/64106413.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42/2004/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2004-561979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18097d2776751629c8fc2964fe98df7db97efbfbfeeff9b1bd97ce91eccb2d17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e2a48967430cefa58890cb66c4585fa506105b568a84a17907c301913505973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
+- Exploração Agrícola
 - Financiamento
-- Pagamento
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Jovem Agricultor
-- Exploração Agrícola
+- Pagamento
 - Política Agrícola Comum
-- Agricultor
 - Produção Agrícola
 - Regulamento CE
-- Agricultura
 - Sistema Integrado de Gestão e Controlo
 relationships:
 - type: amended_by
   target: pt:dre:617116:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659948:por
+  label: "Dada nova redacção ao art. 4.º e ao anexo a que se refere o n.º 3 do art. 2.º e o n.º 2 do art. 3.º, aditados os\
+    \ arts. 3.º-A, 5.º-A, 7.º-A e 7.º-B e revogado o art. 10.º do presente diploma, pelo DN.26/2006.07.04.2006.MADRP, DR.IS-B\
+    \ [84] de 02.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-2006-659948
+  date: '2006-04-07'
+- type: amended_by
+  target: pt:dre:286689:por
+  label: "Alterado o nº 5 do art. 5º-A do presente diploma, com a redacção conferida pelo DN 26/2006 de 02-Mai, e aditado\
+    \ um nº 7 àquele mesmo art. pelo DN.34/2006.11.05.2006.MADRP, DR.IS-B [102] de 26.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2006-286689
+  date: '2006-05-11'
+- type: amended_by
+  target: pt:dre:1697888:por
+  label: "Alterados os n.º 3 e 5 dos arts. 7º e 8º e revogados os n.º 4 dos art. 7º e 8º do presente diploma, alterado pelo\
+    \ DN 26/2006, de 07-Abr e pelo DN 34/2006, de 11-Mai, e republicado, pelo DN.10/2008.15.02.2008.MADRP, DR.IIS [33] de\
+    \ 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2008-1697888
+  date: '2008-02-15'
+- type: amended_by
+  target: pt:dre:2819044:por
+  label: "Aditados os art.s 5º-B e 5º-C, pelo DN.26-A/2009.17.07.2009.MADRP, DR.IIS [137-2ºSupl] de 17.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-a-2009-2819044
+  date: '2009-07-17'
 - type: cites
   target: celex:31992R2078
   label: null
@@ -103,16 +128,21 @@ relationships:
   target: celex:32004R0796
   label: null
   source: http://data.europa.eu/eli/reg/2004/796/oj
+- type: repealed_by
+  target: pt:dre:617116:por
+  label: "Revogado, a partir de 04.02.2010, pela PORT.68/2010.03.02.2010.MADRP, DR.IS [23] de 03.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2010-617116
+  date: '2010-02-03'
 article_structure:
   article_count: 11
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:33Z'
   warnings: []
   errors: []
 ---

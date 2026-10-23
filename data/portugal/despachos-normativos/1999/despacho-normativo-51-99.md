@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/51/1999/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-1999-693857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8027f7abcb13eb0b1f37e72040a72c3268c7b91372205cebdc58266ebefe6519
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4143985529f098fed491dd37bdce76053d7edbe982a4488c9f6ac079f9102846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Enfermagem
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
 - Estatuto
+- Formação Profissional
 - Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 74
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:40Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +144,9 @@ Desta forma, pretende-se que estes Estatutos representem uma nova base que possa
 
 A elaboração destes Estatutos tem como fundamento legal a [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, articulada com o [Decreto-Lei n.º 205/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1995-479387), de 8 de Agosto.
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Disposições gerais
 
@@ -444,7 +470,7 @@ As funções do presidente e dos vice-presidentes do conselho directivo são exe
 
 ###### Artigo 24.º — Delegação
 
-**O presidente pode delegar nos vice-presidentes parte das suas competências, com vista a uma gestão mais eficiente.**
+O presidente pode delegar nos vice-presidentes parte das suas competências, com vista a uma gestão mais eficiente.
 
 ###### Artigo 25.º — Responsabilidade
 
@@ -1120,7 +1146,9 @@ d) Elaborar as respectivas actas.
 
 3 - Não é admitido o voto por procuração.
 
-### CAPÍTULO VIII — Artigo 68.º
+### CAPÍTULO VIII
+
+###### Artigo 68.º
 
 Avaliação da Escola
 
@@ -1130,7 +1158,9 @@ Avaliação da Escola
 
 3 - Periodicamente, promoverá a realização de uma avaliação global do seu funcionamento.
 
-### CAPÍTULO IX — Artigo 69.º
+### CAPÍTULO IX
+
+###### Artigo 69.º
 
 Revisão e alteração dos Estatutos
 
@@ -1188,16 +1218,16 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 ## ANEXO — Emblemática da Escola Superior de Enfermagem de Vila Real - Símbolo
 
-[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
+[[[[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
 
 Emblemática da Escola Superior de Enfermagem de Vila Real - Logótipo
 
-[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
+[[[[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
 
 Uniforme masculino da Escola Superior de Enfermagem de Vila Real
 
-[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
+[[[[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
 
 Uniforme feminino da Escola Superior de Enfermagem de Vila Real
 
-[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)
+[[[[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)](https://files.diariodarepublica.pt/1s/1999/11/257b00/76017614.pdf)

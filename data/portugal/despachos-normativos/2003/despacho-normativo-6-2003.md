@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/6/2003/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cd4911f7371c94fedcf3147365a89fff6b186191a3adc59bd88fffc8a695048
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 618f893b11e51060f2ad529ec46213ef433231d62f27851fcb9b8b26b25dd503
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Recursos Hídricos
-- Direcção Geral das Pescas e Aquicultura
-- Fiscalização
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
 - Aquicultura
-- QCA III
-- Regime de Apoio
-- Intervenção Operacional Pescas
-- Regulamento de Aplicação da Medida Protecção e Desenvolvimento dos Recursos Aquáticos
+- Direcção Geral das Pescas e Aquicultura
+- Financiamento
+- Fiscalização
 - Ifadap
+- Intervenção Operacional Pescas
+- Pesca
+- Projeto de Investimento
+- QCA III
+- Recursos Hídricos
+- Regime de Apoio
+- Regulamento de Aplicação da Medida Protecção e Desenvolvimento dos Recursos Aquáticos
 - Subsídio
 relationships:
 - type: cites
@@ -90,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/10/2001/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/10/2001/03/02/p/dre
+- type: cites
+  target: pt:dre:372388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:38Z'
   warnings: []
   errors: []
 ---
@@ -124,13 +132,17 @@ Para efeitos de concessão de apoios, são elegíveis as despesas que, directa o
 
 e) Despesas imprevistas de investimento, incluindo revisões de preços, até ao limite máximo de 12% das despesas elegíveis previstas nas alíneas anteriores.
 
-###### Artigo 10.º — Apreciação e decisão
+Artigo 10.º
+
+Apreciação e decisão
 
 ...
 
 3 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 11.º — Atribuição dos apoios
+Artigo 11.º
+
+Atribuição dos apoios
 
 ...
 

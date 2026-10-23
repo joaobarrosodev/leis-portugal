@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/67/1998/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/67-1998-241453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea5a561cd27ce6581f155838918478ba33f53773609a16c4fab43f856bd770db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b794ac139bf2c345fd35d4e793db5a98edc9146b9799656aab884c20e666af2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Industrial
-- Política Industrial
 - Apoio ao Investimento
+- Desenvolvimento Industrial
+- IAPMEI
+- Pedip II
+- Pequenas e Médias Empresas
+- PME
+- Política Industrial
 - QCA
 - Regime de Apoio
 - Regime de Apoio à PME de Menor Dimensão
-- Pequenas e Médias Empresas
-- PME
-- Pedip II
 - Sindepedip
-- IAPMEI
 - Sistema de Incentivos Pedip
 - Sistema de Incentivos Regionais
 - Subsídio
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52/1998/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52/1998/04/20/p/dre
+- type: cites
+  target: pt:dre:175358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471157:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:12Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +192,9 @@ b) ...
 
 5 - Os projectos localizados nas restantes regiões específicas abrangidas pelo Sistema de Incentivos Regionais (SIR) poderão ser majorados em 5%.
 
-## ANEXO B — Metodologia para a determinação da valia industrial
+ANEXO B
+
+Metodologia para a determinação da valia industrial
 
 1.º
 

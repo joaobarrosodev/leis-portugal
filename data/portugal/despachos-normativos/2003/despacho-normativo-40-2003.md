@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/223b00/62806282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/40/2003/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-2003-491944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f05c3c9ccbcf2a9c1ef77399592e91b7676ceebb71e323d61f00ba10c9cbeb23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3210df8180d35bc08cb3be8612b6d4c155046fd011893be9178c1eefbf85036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Investigação e Fiscalização
-- Serviço de Estrangeiros e Fronteiras
 - Pessoal de Inspecção
 - Regulamento
+- Serviço de Estrangeiros e Fronteiras
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:3673393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1961031:por
+  label: "Alterada a al. i) do art. 2.º do Regulamento, pelo DN.18/2006.07.11.2006.SEAAI-MAI, DR.IIS [224] de 21.11.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-2006-1961031
+  date: '2006-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/290-a/2001/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-a/2001/11/17/p/dre
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:438210:por
+  label: "Rectificado pela DECL-RECT.19/2003.11.11.2003.PCM, DR.IS-B [272] de 24.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-2003-438210
+  date: '2003-11-11'
+- type: repealed_by
+  target: pt:dre:3673393:por
+  label: "Revogado pelo DN.26/2010.04.11.2010.SEAI-MAI, DR.IIS [214] de 04.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-2010-3673393
+  date: '2010-11-04'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:26Z'
   warnings: []
   errors: []
 ---

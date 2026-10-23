@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14200/14811486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-1986-228648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a23cac54273e052148d238a31eff0a65700d835d3ea34686a186d29cfab908b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eea559eb87b233acafb51f3f8cdd8dd7067e8b2530b6cea67ad9a49f1c612b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:45:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aprendizagem Profissional
+- Formação Profissional
+- Jovem Trabalhador
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585023:por
+  label: "REVOGADA PELA PORTARIA 1061/92, PUBLICADA NO DR.IS-B, 263, DE 921113.\0113.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1061-1992-585023
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:45:35Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +116,9 @@ Manda o Governo da República Portuguesa, pelos Ministros da Educação e Cultur
 
 Ministérios da Educação e Cultura e do Trabalho e Segurança Social.
 
-**Assinada em 15 de Maio de 1986.**
+Assinada em 15 de Maio de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Conteúdos programáticos para a área de formação geral, anexas à Portaria n.º 317/86
 
@@ -138,4 +150,4 @@ d) Proporcionar aos jovens experiências nos planos interpessoal e intergrupal q
 
 10 - Em tudo o que não é regulamentado explicitamente por esta portaria para a formação geral aplica-se o disposto nas normas regulamentares da aprendizagem para as profissões ou grupo de profissões contemplados na fase inical do lançamento da aprendizagem por sector.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/14200/14811486.pdf))](https://files.diariodarepublica.pt/1s/1986/06/14200/14811486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14200/14811486.pdf)

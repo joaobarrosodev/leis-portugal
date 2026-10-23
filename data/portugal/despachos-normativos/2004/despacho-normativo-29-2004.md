@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/29/2004/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2004-272849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ab04af2ece4351558ff9f0a348f7fe6b82f895bb71256d6a3785b161b51dbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e8b00a8f1b31b5e1e73548fe7e37a1bc37c59da2fa5f67f1e0a7449ddcdb7c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,35 @@ subjects:
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
-- Marinha Mercante
 - Conselho Administrativo
 - Conselho Científico
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
+- Dirigente Associativo Estudantil
+- Eleição
 - Ensino Superior Politécnico
 - Escola Náutica Infante Dom Henrique
 - Estatuto
-- Dirigente Associativo Estudantil
-- Conselho Diretivo
-- Conselho Consultivo
 - Mandato Electivo
+- Marinha Mercante
 - Setor Marítimo-Portuário
 relationships:
 - type: amended_by
   target: pt:dre:3264798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros (integrada no agora extinto Ministério das Obras\
+    \ Públicas, Transportes e Habitação), cujo regime jurídico foi aprovado pelo Dec Lei 16/2002, de 29-Jan, e cujos estatutos\
+    \ foram homologados pelo presente diploma, e determinado que a tutela sobre a Escola seja exercida pelo Ministro de Estado\
+    \ e da Defesa Nacional e dos Assuntos do Mar e, em matéria de ensino, em conjunto pelos Ministros de Estado e da Defesa\
+    \ Nacional e dos Assuntos do Mar e da Ciência, Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1999/04/20/p/dre
   label: null
@@ -101,16 +111,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:276032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501801:por
+  label: "Rectificados e republicados os Anexos I e II, pela DECL-RECT.64/2004.15.07.2004.PCM, DR.IS-B [176] de 28.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/64-2004-501801
+  date: '2004-07-15'
+- type: repealed_by
+  target: pt:dre:3264798:por
+  label: "Revogados os Estatutos criados pelo presente diploma, pelo DN.40/2008.18.08.2008.MCTES, DR.IIS [158] de 18.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/40-2008-3264798
+  date: '2008-08-18'
 article_structure:
   article_count: 94
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:08Z'
   warnings: []
   errors: []
 ---
@@ -1873,7 +1919,7 @@ f) O presidente da Associação de Alunos.
 
 ###### Artigo 91.º — Eleição para os restantes órgãos
 
-**O presidente do conselho directivo, no prazo máximo de 30 dias após a tomada de posse, desencadeia todos os processos eleitorais dos restantes órgãos, de acordo com o previsto nos presentes Estatutos.**
+O presidente do conselho directivo, no prazo máximo de 30 dias após a tomada de posse, desencadeia todos os processos eleitorais dos restantes órgãos, de acordo com o previsto nos presentes Estatutos.
 
 ###### Artigo 92.º — Regimentos e regulamentos dos órgãos de gestão central
 
@@ -1891,8 +1937,8 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 ## ANEXO I — Logótipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/06/142b00/37043725.pdf))](https://files.diariodarepublica.pt/1s/2004/06/142b00/37043725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/06/142b00/37043725.pdf)
 
 Bandeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/06/142b00/37043725.pdf))](https://files.diariodarepublica.pt/1s/2004/06/142b00/37043725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/06/142b00/37043725.pdf)

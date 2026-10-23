@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/125b00/46574659.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/38/2006/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-2006-357129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d9c71af9f757aa5fd740096d16fa2cb3dbcf8e1e77f9596aeda5030280316e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fad32dfc42dcfa1cdb778dba5a6cd31dfbaf5c847589e911e6ea6c1a675eda6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assinatura Digital
 - Assinatura Reconhecida
 - Certificação Electrónica
 - Diário da República
-- Imprensa Nacional-Casa da Moeda
+- Diploma Legal
 - Formulário dos Diplomas
-- Pagamento
-- Publicitação
+- Imprensa Nacional-Casa da Moeda
 - Internet
-- Serviço Público
+- Pagamento
 - Presidência do Conselho de Ministros
 - Publicação Electrónica
-- Diploma Legal
-- Assinatura Digital
+- Publicitação
 - Secretário Geral
 - SELO Branco
+- Serviço Público
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 relationships:
 - type: amended_by
   target: pt:dre:1116545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1991269:por
+  label: "Alterada a redacção dos nºs 3.3, 6.3 e 6.6 pelo DN.2/2007.29.12.2006.SEPCM-PCM, DR.IIS [3] de 04.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2007-1991269
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:2190182:por
+  label: "Alterada a redacção dos n.ºs 3.5, 4.1 e 4.5 pelo DN.19/2007.11.04.2007.SEPCM-PCM, DR.IIS [76] de 18.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2007-2190182
+  date: '2007-04-11'
+- type: amended_by
+  target: pt:dre:1932758:por
+  label: "Alterados os nºs 3.1, 3.2, 3.5, 4.1, 4.5, 5.1, 5.3, 5.4, 6.2 e 6.3, com a redacção conferida nos DN 2/2007 de 04-Jan\
+    \ e 19/2007 de 18-Abr e, aditados os nºs 4.7 e 4.8 ao presente despacho pelo DN.41-A/2007.31.12.2007.SEPCM-PCM, DR.IIS\
+    \ [251] de 31.12.2007, que o republicou em anexo, com a redacção actual \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/41-a-2007-1932758
+  date: '2007-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116-a/2006/06/16/p/dre
   label: null
@@ -127,16 +144,83 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
+- type: cites
+  target: pt:dre:210844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1116545:por
+  label: Revogado, com excepção da utilização do tipo de acto previsto na alínea m) do n.º 1 do artigo 7.º do Regulamento
+    de Publicação de Actos, que apenas produz efeitos a partir de 1 de Janeiro de 2009, pelo DN.35-A/2008.29.07.2008.SEPCM-PCM,
+    DR.IIS [145-Supl] de 29.07.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/35-a-2008-1116545
+  date: '2008-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:54Z'
   warnings: []
   errors: []
 ---

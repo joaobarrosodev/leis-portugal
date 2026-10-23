@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/15/2005/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2005-584625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca1e438523639b25852d312511565dfab364a6055f6389ebd1a3753a248c6a9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1bc3f813d600030bdd853f58820e3c957c829c7ce1e13ca065777a71144eee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Língua Portuguesa
-- Exame
-- Ensino Secundário
-- JURI Nacional
-- Matemática
 - Ensino Básico
+- Ensino Secundário
+- Exame
+- JURI Nacional
+- Língua Portuguesa
+- Matemática
 - Regulamento
 - Sistema Educativo
 relationships:
@@ -119,16 +119,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-b/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-b/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533212:por
+  label: "Revogada a al. d) do nº 1.4 do Regulamento dos Exames Nacionais do Ensino Básico, constante do anexo II, pelo DN.27/2005.11.03.2005.ME,\
+    \ DR.IS-B [81] de 27.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/27-2005-533212
+  date: '2005-03-11'
+- type: repealed_by
+  target: pt:dre:2536582:por
+  label: "Revogado o n.º 6.5 do anexo I pelo DESP.16066/2005(2ªSérie).22.07.2005.SEE-ME, DR.IIS [140] de 22.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16066-2005-2536582
+  date: '2005-07-22'
+- type: repealed_by
+  target: pt:dre:148407:por
+  label: "Revogado o nº 6.5 do anexo I (Regulamento do Júri Nacional de Exames) pelo DN.44/2005.26.08.2005.ME, DR.IS-B [182]\
+    \ de 21.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/44-2005-148407
+  date: '2005-08-26'
+- type: repealed_by
+  target: pt:dre:671939:por
+  label: "Revogado pelo DN.22/2006.14.03.2006.ME, DR.IS-B [65] de 31.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2006-671939
+  date: '2006-03-14'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:03Z'
   warnings: []
   errors: []
 ---
@@ -327,7 +413,7 @@ b) Classificação de frequência inferior a 3 em três disciplinas, excepto se 
 
 3.4 - As provas dos exames nacionais de Língua Portuguesa e de Matemática são cotadas na escala percentual de 0 a 100, sendo a classificação final da prova expressa na escala de níveis de 1 a 5, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 3.5 - O JNE pode enviar às escolas, durante o processo de exames, as orientações que considerar pertinentes para garantir a qualidade deste processo.
 
@@ -411,7 +497,7 @@ e) Sejam maiores de 15 anos e, estando a frequentar o ensino básico recorrente,
 
 10.4 - As provas escritas dos exames nacionais são cotadas na escala percentual de 0 a 100, sendo a classificação final das provas expressa na escala de níveis de 1 a 5, de acordo com a tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 10.5 - O JNE pode enviar às escolas, durante o processo de exames, as orientações que considerar pertinentes para garantir a qualidade deste processo.
 
@@ -665,7 +751,7 @@ QUADRO I
 
 Exames nacionais de Língua Portuguesa e Matemática do 9.º ano do ensino básico e dos 2.º e 3.º ciclos do ensino básico (situações especiais)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 Nota. - Os alunos das situações especiais realizam, também, provas orais nas disciplinas em apreço.
 
@@ -675,11 +761,11 @@ Exames nacionais dos 2.º e 3.º ciclos do ensino básico (situações especiais
 
 2.º ciclo do ensino básico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 3.º ciclo do ensino básico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 ## ANEXO III — REGULAMENTO DOS EXAMES DO ENSINO SECUNDÁRIO
 
@@ -1377,19 +1463,19 @@ Exames de equivalência à frequência
 
 A) Componente de formação geral
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 B) Componente de formação específica
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 C) Componente de formação técnica dos cursos gerais (exame no final de cada bloco/ano)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 D) Componente de formação técnica dos cursos tecnológicos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 QUADRO II
 
@@ -1399,15 +1485,15 @@ Exames finais de âmbito nacional
 
 A) Componente de formação geral
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 B) Componente de formação específica
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 C) Componente de formação técnica dos cursos tecnológicos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
 
 QUADRO III
 
@@ -1417,4 +1503,4 @@ Prova de equivalência à frequência
 
 A) Componente de formação geral
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)](https://files.diariodarepublica.pt/1s/2005/02/041b00/17951817.pdf)

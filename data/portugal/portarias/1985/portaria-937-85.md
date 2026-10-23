@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-1985-170948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac65ccd7dbdad84a46c03be377550d5d89ea50d638fd2dc5f3d1e27053dc04e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b23605d4f058ba651ce27e4cf77a77f1f872602852ef66ef346750f2a938141
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Inspecção Geral do Ensino
+- Ministério da Educação
+- Pessoal de Inspecção
+- Pessoal Técnico de Inspecção
+relationships:
+- type: cites
+  target: pt:dre:310790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601359:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:57Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +126,11 @@ Disposições finais
 
 7.º São válidas as classificações de serviço efectuadas nos termos e para os efeitos previstos na [Portaria n.º 95/82](https://diariodarepublica.pt/dr/detalhe/portaria/95-1982-601359), de 21 de Janeiro, e anteriores ao presente diploma.Presidência do Conselho de Ministros e Ministério da Educação.
 
-**Assinada em 17 de Setembro de 1985.**
+Assinada em 17 de Setembro de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40674072.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40674072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40674072.pdf)
 
 6 - Iniciativa e criatividade
 

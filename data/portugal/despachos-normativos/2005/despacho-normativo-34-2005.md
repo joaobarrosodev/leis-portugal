@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/34/2005/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-2005-239044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22a55590c48e4edac4ee3ddeb7c3b22045a16c1cb0e561d7d1913ad6b24a0980
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3be6e517625ad739e1ce7b70d91a04c8d0f6046cb012b28a32b0d0496a1069e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Financiamento
-- Gado Caprino
-- Azeite
-- Tomate
-- Definição de Competências
-- Arroz
-- Projeto de Investimento
-- Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Trigo
-- Lacticínios
-- Legume de Fruto
-- Olivicultura
-- Exploração Agrícola
-- Tabaco
-- Orientação Agrícola
-- Gado Ovino
-- Pastagens
-- Política de Solos
-- Política Agrícola Comum
-- Produção Leiteira
+- Açores
 - Agricultor
-- Poseima
-- Madeira.região Autónoma
-- Produção Vegetal
-- Regulamento CE
-- Fruticultura
-- Pecuária
 - Agricultura
 - Algodão
-- Açores
+- Arroz
+- Azeite
+- Definição de Competências
+- Exploração Agrícola
+- Financiamento
+- Fruticultura
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Lacticínios
+- Legume de Fruto
+- Madeira.região Autónoma
+- Olivicultura
+- Orientação Agrícola
+- Pastagens
+- Pecuária
+- Política Agrícola Comum
+- Política de Solos
+- Poseima
+- Produção Animal
+- Produção Leiteira
+- Produção Vegetal
+- Projeto de Investimento
+- Regulamento CE
 - Sistema Integrado de Gestão e Controlo
+- Tabaco
+- Tomate
+- Trigo
 - Vinha
 relationships:
 - type: cites
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:32Z'
   warnings: []
   errors: []
 ---

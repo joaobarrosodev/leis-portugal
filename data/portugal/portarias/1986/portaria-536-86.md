@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21700/26522655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-1986-221769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2127db29dc29109db534a7f493492e7b8c13ff5f99315383948fba3f12794e13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8dbaebe36296e84464587e43a9f32e01b8cfbbcf78c64b8cc532b681349cf2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção do Serviço de Finanças
+- Forças Armadas
+- Gestão Financeira
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:69920323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:280230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:148793:por
+  label: Rectificada pela DECL.DD787.30.09.1986.PCM, DR.IS [225]2ºSupl de 30.09.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-148793
+  date: '1986-09-30'
+- type: repealed_by
+  target: pt:dre:69920323:por
+  label: Revogada (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 11/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2015-69920323
+  date: '2015-07-31'
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:30Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +128,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 Ministério da Defesa Nacional.
 
-**Assinada em 1 ele Setembro de 1986.**
+Assinada em 1 ele Setembro de 1986.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Regulamento dos Centros de Gestão Financeira
 
 #### SECÇÃO I — Organização
 
-###### Artigo 1.º Os centros de gestão financeira funcionam na dependência técnica dos órgãos superiores de finanças, através da Direcção do Serviço de Finanças, e articulam-se da seguinte forma:
+Artigo 1.º Os centros de gestão financeira funcionam na dependência técnica dos órgãos superiores de finanças, através da Direcção do Serviço de Finanças, e articulam-se da seguinte forma:
 
 Chefe;
 
@@ -120,19 +144,19 @@ Subchefe;
 
 Inspector administrativo;
 
-#### Secção de gestão económico-orçamental;
+Secção de gestão económico-orçamental;
 
-#### Secção de gestão financeira e contabilidade;
+Secção de gestão financeira e contabilidade;
 
-#### Secção de verificação de contas;
+Secção de verificação de contas;
 
 #### Secção financeira;
 
-#### Secção de apoio geral.
+Secção de apoio geral.
 
 #### SECÇÃO II — Atribuições e competências
 
-###### Art. 2.º - 1 - Ao centro de gestão financeira (CGF) compete.
+Art. 2.º - 1 - Ao centro de gestão financeira (CGF) compete.
 
 a) Coordenar as propostas orçamentais relativas ao orçamento do Departamento do Exército e orçamento privativo que concretizem, em termos financeiros, os recursos necessários à execução das actividades programadas que não são satisfeitas em espécie directamente pela logística;
 
@@ -174,7 +198,7 @@ r) Controlar toda a actividade administrativo-financeira desenvolvida na sua ár
 
 4 - Para efeitos de prestação de contas mensais, o centro de gestão financeira obriga-se com a assinatura do chefe do centro, do chefe da secção de gestão económico-orçamental e do chefe da secção de gestão financeira e contabilidade.
 
-###### Art. 3.º Ao chefe do centro de gestão financeira compete:
+Art. 3.º Ao chefe do centro de gestão financeira compete:
 
 a) Como conselheiro técnico e elemento do Estado-Maior Especial, aconselhar. no âmbito da gestão financeira, o comandante ou director quanto aos preceitos legais e regulamentares e directivas superiores;
 
@@ -198,9 +222,9 @@ j) Elaborar e prestar oportunamente informações de gestão, através de relat�
 
 l) Dar superiormente conhecimento de quaisquer irregularidades detectadas, através de relatório circunstanciado, bem como encaminhar para a Direcção do Serviço de Finanças, depois de informadas, as actas das secções financeiras que refiram procedimentos contrários aos preceitos legais e regulamentares em vigor.
 
-###### Art. 4.º Ao subchefe compete coordenar a actividade interna do centro de gestão financeira e coadjuvar o respectivo chefe, substituindo-o na sua ausência ou impedimento, assumindo desde então todos os deveres e atribuições que àquele competem.
+Art. 4.º Ao subchefe compete coordenar a actividade interna do centro de gestão financeira e coadjuvar o respectivo chefe, substituindo-o na sua ausência ou impedimento, assumindo desde então todos os deveres e atribuições que àquele competem.
 
-###### Art. 5.º Ao inspector administrativo compete:
+Art. 5.º Ao inspector administrativo compete:
 
 a) Elaborar o plano das missões de auditoria e apoio técnico;
 
@@ -212,7 +236,7 @@ d) Elaborar, no prazo de dez dias após a conclusão de cada missão de auditori
 
 e) Informar imediatamente o comandante, director ou chefe da unidade, estabelecimento ou órgão e o chefe do centro de gestão financeira de quaisquer actos ou procedimentos considerados lesivos da Fazenda Nacional que forem detectados no decorrer da missão de auditoria e apoio técnico, independentemente do que vier a ficar expresso no relatório a elaborar.
 
-###### Art. 6.º À secção de gestão económico-orçamental compete:
+Art. 6.º À secção de gestão económico-orçamental compete:
 
 a) Analisar tecnicamente as propostas de orçamento-programa das unidades, estabelecimentos ou órgãos da sua área de apoio, consolidando-as na proposta global de orçamento-programa a remeter à Direcção do Serviço de Finanças;
 
@@ -234,7 +258,7 @@ i) Obter as autorizações de dispêndio de divisas que tenham cabimento no orç
 
 j) Proceder à recolha de dados que permitam analisar a actividade económico-orçamental das unidades, estabelecimentos ou órgãos.
 
-###### Art. 7.º À secção de gestão financeira e contabilidade compete:
+Art. 7.º À secção de gestão financeira e contabilidade compete:
 
 a) Executar a contabilidade a partir dos documentos processados, relativos à actividade administrativo-financeira das unidades, estabelecimentos ou órgãos, observando os métodos de contabilidade geral, contabilidade orçamental e contabilidade analítica;
 
@@ -250,7 +274,7 @@ f) Elaborar as contas de gerência das unidades, estabelecimentos ou órgãos e 
 
 g) Proceder à recolha de dados que permitam elaborar estatísticas representativas da actividade administrativo-financeira das unidades, estabelecimentos ou órgãos por cuja contabilidade é responsável.
 
-###### Art. 8.º À secção de verificação de contas compete:
+Art. 8.º À secção de verificação de contas compete:
 
 a) Proceder à verificação, processo e liquidação das receitas e despesas das unidades, estabelecimentos ou órgãos, face aos documentos justificativos, nomeadamente quanto ao exacto cumprimento das leis, regulamentos e outras normas de carácter administrativo;
 
@@ -262,9 +286,9 @@ d) Proceder à recolha de dados que permitam a elaboração de estatísticas rep
 
 e) Dar quitação das receitas e despesas e elaborar as notas de liquidação e pagamento respeitantes às despesas liquidadas por conta do orçamento do Departamento do Exército.
 
-###### Art. 9.º À secção financeira compete apoiar internamente o centro de gestão financeira, de acordo com o regime fixado na regulamentação própria.
+Art. 9.º À secção financeira compete apoiar internamente o centro de gestão financeira, de acordo com o regime fixado na regulamentação própria.
 
-###### Art. 10.º À secção de apoio geral compete:
+Art. 10.º À secção de apoio geral compete:
 
 a) Receber, registar, distribuir e expedir a correspondência;
 
@@ -286,11 +310,11 @@ i) Ter a seu cargo a biblioteca.
 
 #### SECÇÃO III — Alcance e ou desvio de valores
 
-###### Art. 11.º As normas por que se regem a contabilidade e escrituração nos centros de gestão financeira, os registos inerentes à sua execução, bem como os procedimentos a observar na prestação de contas, serão definidos pelo Chefe do Estado-Maior do Exército.
+Art. 11.º As normas por que se regem a contabilidade e escrituração nos centros de gestão financeira, os registos inerentes à sua execução, bem como os procedimentos a observar na prestação de contas, serão definidos pelo Chefe do Estado-Maior do Exército.
 
 #### SECÇÃO IV — Alcance ou desvio de valores
 
-###### Art. 12.º - 1 - Apurando-se ou havendo suspeita da existência de qualquer alcance ou desvio de valores ou qualquer irregularidade que afecte os interesses do Estado, adoptar-se-á o procedimento seguinte:
+Art. 12.º - 1 - Apurando-se ou havendo suspeita da existência de qualquer alcance ou desvio de valores ou qualquer irregularidade que afecte os interesses do Estado, adoptar-se-á o procedimento seguinte:
 
 a) Ocorrendo os factos no centro, o respectivo chefe fará comunicação dos mesmos ao comando ou direcção de que depende e à Direcção do Serviço de Finanças e ordenará a imediata suspensão das respectivas funções do presumível responsável, promovendo a sua consequente substituição;
 

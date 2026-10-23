@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/881-1985-172160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa7ac064be8543227bd15b5f948606e4542883745bfab94584dc0c3045b38823
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1b9dc08fdae032eb9c0f24a0f49d1adedacd5a49f3fd654216100bc1ac689b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marinha Mercante
+- Pesca
+- Regulamento
+- Tráfego Marítimo
+relationships:
+- type: cites
+  target: pt:dre:180583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:28Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +121,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Mar, o seguinte:
 
 O § 2.º do artigo 34.º passa a ter nova redacção, sendo o § 3.º eliminado; ao artigo 34.º-A é aditado um § 3.º, o § único do artigo 36.º passa a § 1.º, sendo-lhe aditado um § 2.º; a alínea d) do corpo do artigo 37.º passa a ter nova redacção, o § único passa a § 1.º, sendo-lhe aditado um § 2.º; as alíneas d) e e) do corpo do artigo 38.º passam a ter nova redacção, o § único passa a § 1.º, sendo-lhe aditado um § 2.º; ao artigo 43.º é aditado um § 2.º; o corpo do artigo 44.º passa a ter nova redacção, o § único passa a § 1.º, sendo-lhe aditado um § 2.º; as alíneas a) e b) do corpo do artigo 45.º e o § 2.º passam a ter nova redacção, sendo eliminadas as alíneas c) e d) do referido corpo; o § 2.º do artigo 46.º é eliminado, passando o § 1.º a § único; as alíneas a) e b) do corpo do artigo 46.º-A passam a ter nova redacção, são eliminadas as alíneas c) e d) do mesmo corpo, o § único passa a § 1.º, sendo-lhe aditado um § 2.º; os §§ 1.º e 2.º do artigo 54.º passam a ter nova redacção; o § único do artigo 56.º passa a § 1.º, sendo-lhe aditado um § 2.º; o § único do artigo 57.º passa a § 1.º, sendo-lhe aditado um § 2.º; ao artigo 74.º é aditado um § 5.º; ao artigo 76.º é aditado um § 5.º; o § único do artigo 77.º passa a § 1.º, sendo-lhe aditado um § 2.º; o § único do artigo 78.º passa a § 1.º, sendo-lhe aditado um § 2.º; aos artigos 82.º, 83.º, 89.º, 90.º e 91.º são aditados, respectivamente, um § 4.º, um § 4.º, um § 3.º, um § 5.º e um § 3.º; o § único do artigo 191.º passa a § 1.º, sendo-lhe aditado um § 2.º e um § 3.º:
 
-###### Art. 34.º ...
+Art. 34.º ...
 
 § 1.º ...
 
 § 2.º A categoria de capitão da marinha mercante confere ao respectivo titular o direito a requerer a passagem do certificado de competência, nos termos da Convenção STCW, 1978, como comandante (master) de navios de qualquer tonelagem.
 
-###### Art. 34.º-A ...
+Art. 34.º-A ...
 
 § 1.º ...
 
@@ -115,7 +135,7 @@ O § 2.º do artigo 34.º passa a ter nova redacção, sendo o § 3.º eliminado
 
 § 3.º A categoria de piloto-chefe confere ao respectivo titular o direito a requerer a passagem do certificado de competência, nos termos da Convenção STCW, 1978, como comandante (master) de navios de qualquer tonelagem.
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 § 1.º ...
 
@@ -125,7 +145,7 @@ a) Comandante de navios de tonelagem de arqueação bruta inferior a 1600 t (mas
 
 b) Imediato de navios de qualquer tonelagem (chief mate).
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 a) ...
 
@@ -139,7 +159,7 @@ d) Comandante de embarcações de comércio, registadas e a operar na navegaçã
 
 § 2.º A categoria de piloto de 2.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de competência, nos termos da Convenção STCW, 1978, como imediato de navios de menos de 1600 t (chief mate of ships of less than 1600 GRT).
 
-###### Art. 38.º ...
+Art. 38.º ...
 
 a) ...
 
@@ -155,19 +175,19 @@ e) Comandante de embarcações registadas e a operar nas actividades e nas área
 
 § 2.º A categoria de piloto de 3.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de competência, nos termos da Convenção STCW, 1978, como oficial chefe de quarto de navegação (officer in charge of a navigational watch).
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 § 1.º ...
 
 § 2.º A categoria de radiotécnico-chefe confere ao respectivo titular o direito a requerer a passagem de um certificado de operador geral de radiocomunicações (radiocomunications general operator's certificate), nos termos do Regulamento das Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
-###### Art. 44.º Ao radiotécnico de 1.ª classe compete exercer as funções de primeiro-radiotécnico ou de chefe de radiotecnia de estações de radiocomunicações de qualquer categoria.
+Art. 44.º Ao radiotécnico de 1.ª classe compete exercer as funções de primeiro-radiotécnico ou de chefe de radiotecnia de estações de radiocomunicações de qualquer categoria.
 
 § 1.º ...
 
 § 2.º A categoria de radiotécnico de 1.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de operador radiotelegrafista de 1.ª classe (1st class radiotelegraph operator's certificate), nos termos do Regulamento das Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 a) Segundo-radiotécnico ou de primeiro-radiotécnico em embarcações com estação de radiocomunicações de qualquer categoria;
 
@@ -177,7 +197,7 @@ b) Chefe de radiotecnia de estações de radiocomunicações de 2.ª, 3.ª e 4.�
 
 § 2.º A categoria de radiotécnico, de 2.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de operador radiotelegrafista de 2.ª classe (2nd class radiotelegraph operator's certificate), nos termos do Regulamento das Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
-###### Art. 46.º-A ...
+Art. 46.º-A ...
 
 a) Terceiro, de segundo ou de primeiro-radiotécnico em embarcações com estação de radiocomunicações de qualquer categoria;
 
@@ -187,25 +207,25 @@ b) Chefe de radiotecnia em embarcações com estações de radiocomunicações d
 
 § 2.º A categoria de radiotécnico de 3.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de operador radiotelegrafista de 2.ª classe (2nd class radiotelegraph operator's certificate), nos termos do Regulamento das Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 § 1.º A categoria de mestre costeiro habilita o titular ao comando de embarcações de comércio até 200 t brutas, registadas e operando na navegação costeira nacional.
 
 § 2.º A categoria de mestre costeiro confere ao respectivo titular o direito a requerer a passagem de um certificado de competência, nos termos da Convenção STCW, 1978, como comandante de embarcações de navegação costeira nacional com arqueação bruta inferior a 200 t (master of ships of less than 200 GRT, near coastal voyages).
 
-###### Art. 56.º ...
+Art. 56.º ...
 
 § 1.º ...
 
 § 2.º A categoria de marinheiro de 1.ª classe confere ao respectivo titular o direito a requerer a passagem de um documento oficial, nos termos da Convenção STCW, 1978, como marítimo da mestrança e marinhagem (rating), habilitado para o serviço de quartos de navegação, desde que prove ter exercido funções relacionadas com o serviço de quartos de navegação durante um período mínimo de 6 meses.
 
-###### Art. 57.º ...
+Art. 57.º ...
 
 § 1.º ...
 
 § 2.º A categoria de marinheiro de 2.ª classe confere ao respectivo titular o direito a requerer a passagem de um documento oficial, nos termos da Convenção STCW, 1978, como marítimo da mestrança e marinhagem (rating), desde que prove ter exercido funções relacionadas com o serviço de quartos de navegação durante um período mínimo de 6 meses.
 
-###### Art. 74.º ...
+Art. 74.º ...
 
 § 1.º ...
 
@@ -217,7 +237,7 @@ b) Chefe de radiotecnia em embarcações com estações de radiocomunicações d
 
 § 5.º A categoria de maquinista chefe confere ao respectivo titular o direito a requerer a passagem de um certificado de competência, nos termos da Convenção STCW, 1978, como chefe de máquinas (chief engineer officer).
 
-###### Art. 76.º ...
+Art. 76.º ...
 
 § 1.º ...
 
@@ -233,19 +253,19 @@ a) Chefe de máquinas de navios com instalações de máquinas propulsoras de po
 
 b) Segundo-oficial de máquinas de navios de qualquer potência (second engineer officer).
 
-###### Art. 77.º ...
+Art. 77.º ...
 
 § 1.º ...
 
 § 2.º A categoria de maquinista de 2.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, como segundo-oficial de máquinas em navios com instalações de máquinas propulsoras de potência máxima de 3000 kW (second engineer officer of ships of less than 3000 kW).
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 § 1.º ...
 
 § 2.º A categoria de maquinista de 3.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, como oficial de máquinas-chefe de quartos (engineer officer in charge of a watch).
 
-###### Art. 82.º ...
+Art. 82.º ...
 
 § 1.º ...
 
@@ -255,7 +275,7 @@ b) Segundo-oficial de máquinas de navios de qualquer potência (second engineer
 
 § 4.º A categoria de maquinista prático de 1.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, que lhe permita continuar a exercer as funções atribuídas aos oficiais de máquinas, desde que tenha exercido essas funções durante um período no mar não inferior a 3 anos dentro dos últimos 7 anos anteriores à data da entrada em vigor do presente diploma.
 
-###### Art. 83.º ...
+Art. 83.º ...
 
 § 1.º ...
 
@@ -265,7 +285,7 @@ b) Segundo-oficial de máquinas de navios de qualquer potência (second engineer
 
 § 4.º A categoria de maquinista prático de 2.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, que lhe permita continuar a exercer as funções atribuídas aos oficiais de máquinas, desde que tenha exercido essas funções durante um período no mar não inferior a 3 anos dentro dos últimos 7 anos anteriores à data da entrada em vigor do presente diploma.
 
-###### Art. 89.º ...
+Art. 89.º ...
 
 § 1.º ...
 
@@ -273,7 +293,7 @@ b) Segundo-oficial de máquinas de navios de qualquer potência (second engineer
 
 § 3.º A categoria de motorista prático de 1.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, que lhe permita continuar a exercer as funções atribuídas aos oficiais de máquinas, desde que tenha exercido essas funções durante um período no mar não inferior a 3 anos dentro dos últimos 7 anos anteriores à data da entrada em vigor do presente diploma.
 
-###### Art. 90.º ...
+Art. 90.º ...
 
 § 1.º ...
 
@@ -285,7 +305,7 @@ b) Segundo-oficial de máquinas de navios de qualquer potência (second engineer
 
 § 5.º A categoria de motorista prático de 2.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, que lhe permita continuar a exercer as funções atribuídas aos oficiais de máquinas, desde que tenha exercido essas funções durante um período no mar não inferior a 3 anos dentro dos últimos 7 anos anteriores à data da entrada em vigor do presente diploma.
 
-###### Art. 91.º ...
+Art. 91.º ...
 
 § 1.º ...
 
@@ -293,7 +313,7 @@ b) Segundo-oficial de máquinas de navios de qualquer potência (second engineer
 
 § 3.º A categoria de motorista prático de 3.ª classe confere ao respectivo titular o direito a requerer a passagem de um certificado de serviço, nos termos da Convenção STCW, 1978, que lhe permita continuar a exercer as funções atribuídas aos oficiais de máquinas, desde que tenha exercido essas funções durante um período no mar não inferior a 3 anos dentro dos últimos 7 anos anteriores à data da entrada em vigor do presente diploma.
 
-###### Art. 191.º ...
+Art. 191.º ...
 
 § 1.º ...
 
@@ -315,13 +335,13 @@ c) Aos marítimos para cujas funções normais não é exigido certificado STCW,
 
 Ministério do Mar.
 
-**Assinada em 29 de Outubro de 1985.**
+Assinada em 29 de Outubro de 1985.
 
-**O Ministro do Mar, José de Almeida Serra.**
+O Ministro do Mar, José de Almeida Serra.
 
 ## ANEXO I — Modelo do certificado de competência a que se refere o n.º 2 da Portaria n.º 881/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
 
 a) O formato será de 150 mm x 105 mm.
 
@@ -329,13 +349,13 @@ b) Será impresso a azul sobre papel branco.
 
 c) O escudo do anverso terá as cores autênticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
 
 d) As palavras «República Portuguesa» serão impressas a preto.
 
 ## ANEXO II — Modelo do certificado de serviço a que se refere o n.º 2.º da Portaria n.º 881/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
 
 a) O formato será de 150 mm x 105 mm.
 
@@ -343,13 +363,13 @@ b) Será impresso a azul sobre papel branco.
 
 c) O escudo do anverso terá as cores autênticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
 
 d) As palavras «República Portuguesa» serão impressas a preto.
 
 ## ANEXO III — Modelo do certificado de dispensa a que se refere o n.º 2.º da Portaria n.º 881/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
 
 a) O formato será de 150 mm x 105 mm.
 
@@ -359,7 +379,7 @@ c) O escudo terá as cores autênticas.
 
 ## ANEXO IV — Modelo do documento oficial a que se refere o n.º 2.º da Portaria n.º 881/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26700/38603864.pdf)
 
 a) O formato será de 105 mm x 75 mm.
 

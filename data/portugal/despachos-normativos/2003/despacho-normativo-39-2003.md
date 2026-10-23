@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/39/2003/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-2003-492434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29f37e516b6d7b6b9495626f7cc920b43e18e817c4c9c5648d49137178ab7f46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e12d7503e9eda7b259b325dc19a6e7baaa8ebfc6fea6ce09225e6f3c707dddbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,37 @@ reuse:
 subjects:
 - Acumulação de Prestações Sociais
 - Ajuda aos Sinistrados
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Incêndio
-- Financiamento
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Catástrofe
 - Centro Distrital de Solidariedade e Segurança Social
+- Centro Nacional de Operações de Socorro
+- Financiamento
+- Incêndio
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Prestação de Serviços
 - Proteção Social
 - Região Agrária
-- Centro Nacional de Operações de Socorro
-- Subsídio Complementar
+- Serviço Nacional de Bombeiros e Protecção Civil
 - Situação de Calamidade
+- Subsídio Complementar
 relationships:
 - type: amended_by
   target: pt:dre:261882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545847:por
+  label: "Aditado o nº 4 à al. L) do anexo I; alterados os nºs 4 e aditados uns nºs 6 às als. A) e B), ambas do anexo II ao\
+    \ qual são republicadas as tabelas nºs 1 e 2; aditado um nº 4º e renumerados os anteriores nºs 4 e 5 do anexo III; e alterados\
+    \ os nºs 1, 3 e 4 da al. C) do anexo IV, todos deste diploma, pelo DN.9/2004.23.01.2004.MF, DR.IS-B [51] de 01.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2004-545847
+  date: '2004-01-23'
+- type: amended_by
+  target: pt:dre:261882:por
+  label: "Alterado o n.º 1 e aditado o anexo V ao presente diploma, pelo DN.27/2004.12.05.2004.MF, DR.IS-B [129] de 02.06.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/27-2004-261882
+  date: '2004-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/1997/04/09/p/dre
   label: null
@@ -98,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/123/2003/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/123/2003/08/25/p/dre
+- type: cites
+  target: pt:dre:361159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655919:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:23Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +268,7 @@ H) Valores dos apoios sociais de natureza eventual
 
 2 - O valor máximo do apoio social para aquisição de equipamento doméstico é fixado em função da dimensão do agregado familiar, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)
 
 3 - O valor máximo do apoio social para aquisição de instrumentos de trabalho, designadamente máquinas de costura, teares, alfaias agrícolas e ferramentas artesanais, é fixado em (euro) 1069,80, equivalente a três vezes o valor do salário mínimo nacional.
 
@@ -322,13 +352,13 @@ TABELA N.º 1
 
 Valores para compensação dos animais mortos nos incêndios
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)
 
 TABELA N.º 2
 
 Valores para compensação dos custos de alimentação (animal/mês)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)](https://files.diariodarepublica.pt/1s/2003/09/222b00/62326244.pdf)
 
 ## ANEXO III
 

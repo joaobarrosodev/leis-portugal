@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/003b00/00710076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/1/2005/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2005-457204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c343280908d8ba25b1e3e3ec48b39b8d88143c7acab4877d6257be454693c7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0402d37f31b9d34557d53687f3479fb957dd7d8c74becde39bcf2b3baabe72e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Diploma
 - Ensino Básico
-- Avaliação de Conhecimentos
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1847070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667374:por
+  label: "Alterados os n.os 29, 42, 46, 48, 49, 51, 64, 65, 78 e 79 e aditados os n.ºs 43.1, 43.2 e 43.3 ao presente diploma,\
+    \ pelo DN.18/2006.23.02.2006.ME, DR.IS-B [52] de 14.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-2006-667374
+  date: '2006-02-23'
+- type: amended_by
+  target: pt:dre:787125:por
+  label: "Dada nova redacção aos nºs 37, 38, 48 e 49 (os dois últimos na redacção do Despacho Normativo 18/2006, de 14 de\
+    \ Março) e adita um n.º 49.1 do presente diploma, pelo DN.5/2007.18.12.2006.SEE-ME, DR.IIS [7] de 10.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2007-787125
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:3473397:por
+  label: "Alterados os nºs. 7, 9, 10, 13, 41, 43, 43.1, 43.2 ( os dois últimos na redacção do DN 18/2006, de 14-Mar), 48,\
+    \ 49 (os dois na redacção dos DN 18/2006, de 14-Mar e 5/2007, de 10-Jan), 51 (na redacção do DN 18/2006, de 14-Mar), 54,\
+    \ 55, 77, 78,79 (os dois últimos na redacção do DN 18/2006, de 14-Mar), 81 e 82 e aditados os nºs. 79.1, 79.2, 79.3 e\
+    \ 79.4 ao presente diploma, pelo DN.6/2010.19.02.2010.SEAED-ME, DR.IIS [35] de 19.02.2010, republicando-o \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2010-3473397
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:1113776:por
+  label: "Alterado o nº 49, na redacção dos DN 18/2006, de 14-Mar, 5/2007, de 10-Jan e 6/2010 de 19-Fev, pelo DN.9/2010.01.04.2010.SEAED-ME,\
+    \ DR.IIS [64] de 01.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2010-1113776
+  date: '2010-04-01'
+- type: amended_by
+  target: pt:dre:2587589:por
+  label: "Aditado o nº 72.1 pelo DESP.18061/2010.03.12.2010.SEAED-ME, DR.IIS [234] de 03.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18061-2010-2587589
+  date: '2010-12-03'
+- type: amended_by
+  target: pt:dre:2975665:por
+  label: "Aditado o nº 72.1 ao presente despacho, pelo DN.29/2010.14.12.2010.SEAED-ME, DR.IIS [240] de 14.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2010-2975665
+  date: '2010-12-14'
+- type: amended_by
+  target: pt:dre:2794350:por
+  label: "Alterados n.os 25, 40, 41( na redacção do D.N. 6/2010, de 19-Fev), 42 ( na redacção do D.N.18/2006, 14-Mar), 43\
+    \ ( na redacção do D.N. 6/2010, de 19-Fev), 43.1, 43.2 ( os dois últimos na redacção dos D.N 18/2006, de 14-Mar. e 6/2010,\
+    \ de 19-Fev ), 43.3, 44, 45, 46 ( na redacção do D.N. 18/2006,14-Mar),47, 48,( na redacção dos D.N 18/2006, de 14-Mar,\
+    \ 5/2007, de 10-Jan e 6/2010, de 19-Fev ) 49 ( na redacção dos D.N. 18/2006, de 14-Mar, 5/2007, de 10-Jan, 6/2010, de\
+    \ 19-Fev e 9/2010, de 01-Mar), 51 ( na redacção dos D.N. 18/2006, de 14-Mar e 6/2010, de 19-Fev) , 54 ( na redacção do\
+    \ D.N.6/2010, de 19-Fev), 57, 60, 61, 65 ( na redacção do D.N. 18/2006, de 14-Mar), 76, 77 ( na redacção do D.N. 6/2010,\
+    \ de 19-Fev) e 82 ( na redacção do D.N.6/2010, de 19-Fev), aditados os n.os 33.1, 43.4, 81.1 e 81.2 e revogados os n.os\
+    \ 58, 59, 78, 79, 79.1, 79.2, 79.3 e 79.4, todos do presente diploma, republicado pelo DN.14/2011.18.11.2011.SEEBS-MECI,\
+    \ DR.IIS [222] de 18.11.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2011-2794350
+  date: '2011-11-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2002/10/17/p/dre
   label: null
@@ -95,16 +144,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618111:por
+  label: "Rectificado pela DECL-RECT.3/2005.01.02.2005.PCM, DR.IS-B [29] de 10.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-2005-618111
+  date: '2005-02-01'
+- type: repealed_by
+  target: pt:dre:386871:por
+  label: "Revogado, a partir de 12.01.2008, os n.ºs 51 e 52 do Despacho Normativo n.º 30/2001, de 19 de Julho, já anteriormente\
+    \ revogado no presente diploma, pelo DEC LEI.3/2008.07.01.2008.ME, DR.IS [4] de 07.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2008-386871
+  date: '2008-01-07'
+- type: repealed_by
+  target: pt:dre:1847070:por
+  label: "Revogado o presente despacho normativo, na redação do DN 18/2006, de 14-mar, DN 5/2007, de 10-jan, DN 6/2010, de\
+    \ 19-fev, DN 9/2010, de 01-abr, DN 29/2010, de 14-dez, e DN 14/2011, de 18-nov, pelo DN.24-A/2012.06.12.2012.MECI, DR.IIS\
+    \ [236-2ºSupl] de 06.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-a-2012-1847070
+  date: '2012-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:56Z'
   warnings: []
   errors: []
 ---

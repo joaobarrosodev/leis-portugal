@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 198/1986, 1º Suplemento, Série I de 1986-08-29
   number: '198'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2274-(3) a 2274-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19801/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/478-b-1986-656601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:50:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 112069758f2cc0be5ff6d79e3551ee3ae78b76084d0bd2bbbb12f75514e8a8ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55f5acb40944995700029b2cd11b17c46b275422bcddaa4114d5f8dd844b06b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:50:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- EPAC
+- Forragem
+- Preço de Campanha
 relationships:
 - type: amended_by
   target: pt:dre:495728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307811:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495728:por
+  label: "Revogada pela PORT.807/87.1987.09.23.MF,DR.IS [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-1987-495728
+  date: '1987-09-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:50:00Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +122,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 1.º Os preços de revenda para o milho, sorgo, cevada e aveia, a vigorar na campanha de comercialização de 1986-1987, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19801/00030003.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19801/00030003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19801/00030003.pdf)
 
 2.º Os preços de revenda fixados nesta portaria respeitam a cereal a granel sobre vagão na estação da CP mais próxima do silo ou celeiro da Empresa Pública de Abastecimento de Cereais (EPAC), quando transportado por caminho de ferro, ou sobre outro meio de transporte à porta do silo ou celeiro da EPAC.
 
@@ -117,6 +138,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 29 de Agosto de 1986.**
+Assinada em 29 de Agosto de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/036b00/07720773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/9/2001/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2001-320092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7676b855c497580b109d5a5af29769da294ac8f093b0d3851f3917568e6d02c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ccbcd84d88cbe981e03490c0c3f0345365ea0dbd0c70f5d827c8fbe3188b075
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,48 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
-- Azeitona
-- Gado Caprino
-- Carne de Vaca
-- Azeite
-- Cereal
-- Gestão Financeira
-- Tomate
-- Definição de Competências
-- Gestão Administrativa
+- Algodão
 - Arroz
-- Impresso
+- Azeite
+- Azeitona
+- Carne de Vaca
+- Cereal
+- Definição de Competências
+- Exploração Florestal
+- Financiamento
 - Forragem
 - Gado Bovino
-- Prémio aos Produtores de Ovinos e Caprinos
+- Gado Caprino
+- Gado Ovino
+- Gestão Administrativa
+- Gestão Financeira
+- Ifadap
+- Impresso
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Legume de Fruto
 - Leguminosas
-- Tabaco
 - Orientação Agrícola
-- Gado Ovino
 - Política Agrícola Comum
 - Prazo
-- Prémio aos Produtores de Carne de Bovino
-- Prémio aos Produtores de Vacas Aleitantes
-- Exploração Florestal
 - Prémio ao Abate
+- Prémio aos Produtores de Carne de Bovino
+- Prémio aos Produtores de Ovinos e Caprinos
+- Prémio aos Produtores de Vacas Aleitantes
 - Produção Agrícola
+- Produção Animal
 - Produção Vegetal
 - Regulamento CE
-- Agricultura
-- Ifadap
 - Semente
-- Algodão
 - Sistema Integrado de Gestão e Controlo
+- Tabaco
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:272421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164623:por
+  label: "Prorrogados até 27 de Abril de 2001 os prazos previstos nas als. a), b) e d) do nº 1 da parte II pelo DN.19/2001.2001.04.10.MADRP\
+    \ DR.IS-B [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2001-164623
+  date: '2001-04-10'
+- type: amended_by
+  target: pt:dre:344880:por
+  label: "Prorrogado, até 10 de Maio de 2001, o prazo previsto na al a) do nº 1 da parte II pelo DN.22/2001.2001.04.27.MADRP,DR.IS-B\
+    \ [111] de 14/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2001-344880
+  date: '2001-04-27'
 - type: cites
   target: celex:31966R0136
   label: null
@@ -144,16 +156,21 @@ relationships:
   target: celex:31999R1257
   label: null
   source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: repealed_by
+  target: pt:dre:272421:por
+  label: "Revogado pelo DN.6/2002.2002.01.16.MADRP, DR.IS-B [30] de 05/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2002-272421
+  date: '2002-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:25Z'
   warnings: []
   errors: []
 ---

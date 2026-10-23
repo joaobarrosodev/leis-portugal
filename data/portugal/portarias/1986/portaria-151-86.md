@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/151-1986-195634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf70be643972a69e53f3c4b918a87f54937a6ea0f28b5d39e3a504272691df20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48be6ca18ec58ecd6c0372632472d7155eaa17d3829aeb4374fdb27d32112cf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amadora
+- Ordenamento do Território
+- Plano Geral de Urbanização
+- Política de Solos
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:142694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:22Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +106,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Secretaria de Estado da Administração Local e do Ordenamento do Território.
 
-**Assinada em 11 de Março de 1986.**
+Assinada em 11 de Março de 1986.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Plano Geral de Urbanização de Moinhos de Funcheira Amadora
 
@@ -117,7 +134,7 @@ c) A densidade máxima admissível para o Bairro do Alto dos Moinhos é de 85 ha
 
 d) A tipologia das construções, a área mínima do lote, o número máximo de pisos e o índice máximo de construção deverão subordinar-se aos valores expressos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf)
 
 e) As frentes mínimas dos lotes referentes aos três tipos de moradias permitidas para estas zonas são as seguintes:
 
@@ -135,7 +152,7 @@ a) A densidade máxima admissível é de 160 hab./ha;
 
 b) As disposições regulamentares aplicáveis a lotes e construções do tipo moradia são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf)
 
 c) Em relação à construção de edifícios para habitação colectiva estipula-se o seguinte:
 
@@ -205,7 +222,7 @@ Os lotes e construções nestas situações ficam sujeitos às seguintes disposi
 
 1) Todas as construções devem observar escrupulosamente o disposto no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão (Decreto-Lei n.º 46847, de 27 de Janeiro de 1966, e aditamento de 6 de Abril de 1977), nomeadamente no que se refere às distâncias das construções às referidas linhas, conforme expresso no artigo 79.º:
 
-###### Art. 79.º Distância dos condutores aos edifícios:
+Art. 79.º Distância dos condutores aos edifícios:
 
 Vertical =< 60 kV = 3 m;
 
@@ -273,4 +290,4 @@ Em todos os casos omissos serão observadas as normas regulamentares estabelecid
 
 Rectificações e ajustamentos a este Regulamento poderão ser propostos quando da elaboração de projectos de arquitectura, desde que devidamente justificados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09000/09550957.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 270/1985, 1º Suplemento, Série I de 1985-11-23
   number: '270'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3904-(5) a 3904-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27001/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-d-1985-249491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 207bcb12adde4ca46f7147e088bbe49a22fc4cacfba6465b32ab6bd7577481b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61a3f3e384859a3ccf151da411ddbeca3768848e8c2e982af35fe31b8d331440
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fertilizante
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:305633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:162785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:305633:por
+  label: "Revogada pela PORT.733-B/86.04.12.1986.MF, DR.IS [279]Supl de 04.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/733-b-1986-305633
+  date: '1986-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:52Z'
   warnings: []
   errors: []
 ---
@@ -126,10 +145,10 @@ c) Os encargos resultantes da venda a prazo nos termos da [Portaria n.º 191/84]
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 23 de Novembro de 1985.**
+Assinada em 23 de Novembro de 1985.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 Quadro anexo a que se referem os n.os 1, 2 e 7 do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27001/00050006.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27001/00050006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27001/00050006.pdf)

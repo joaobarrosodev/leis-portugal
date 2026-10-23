@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-1985-172150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f55f81caff3376e31fa0bfbe0934832f3b16c4b4b7a35ecebce31536a9e52bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88b53ae9301fb1918d9b43f749fe3c0b1c8bcfa923c64b760543076931eceede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Música Variante de Canto Gregoriano
+- Curso de Música Variante de Direcção Coral
+- Curso de Música Variante de Instrumento
+- Ensino Artístico
+- Ensino Superior
+- Instituto Gregoriano de Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:380160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380160:por
+  label: "Alterado o nº 5º e aditados os nºs 5º-A a 5º-T pela PORT.565/88.18.08.1988.ME, DR.IS [190] de 18.08.1988\088\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/565-1988-380160
+  date: '1988-08-18'
+- type: cites
+  target: pt:dre:138291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669494:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:22Z'
   warnings: []
   errors: []
 ---
@@ -253,25 +289,25 @@ O disposto na presente portaria aplica-se até à efectiva criação e entrada e
 
 Ministério da Educação.
 
-**Assinada em 23 de Outubro de 1985.**
+Assinada em 23 de Outubro de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.
 
 ## ANEXO I — Curso superior de Canto Gregoriano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
 
 ## ANEXO II — Curso superior de Direcção Coral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
 
 ## ANEXO III — Curso superior de Órgão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
 
 ## ANEXO IV — Disciplinas de opção dos cursos superiores de Canto Gregoriano, de Direcção Coral e de Órgão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26600/38513855.pdf)
 
 ## ANEXO V — REPÚBLICA (ver nota a) PORTUGUESA
 
@@ -287,11 +323,11 @@ Pelo que, em conformidade com as disposições legais em vigor, lhe mandei passa
 
 Lisboa, (ver nota l) ...
 
-**O Chefe da Repartição,**
+O Chefe da Repartição,
 
 ...
 
-**O Presidente da Comissão Instaladora,**
+O Presidente da Comissão Instaladora,
 
 ...
 

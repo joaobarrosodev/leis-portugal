@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 142/1986, 1º Suplemento, Série I de 1986-06-24
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1486-(34) a 1486-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14201/00340041.pdf
 entry_into_force_dates: []
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-i-1986-621751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 136a20cb278e0605e539035dcb34fcd9e26d2b52d2542a873da07a7c715629f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e76a0fd1e08d098a44ce392e345a4d965f1a8ee1b1d0ba957ee98285c8ba92ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Bragança
+- Curso de Gestão de Empresa Agrícola
+- Curso de Melhoramentos Rurais
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Ensino Superior Politécnico
+- Escola Superior Agrária
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELA PORTARIA NUMERO 714/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 190, DE 20/8/87. ALTERADOS\
+    \ OS QUADROS DO ANEXO I, PELA PORTARIA NUMERO 913/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 239, DE 17/10/89.\
+    \ ALTERADA A DESIGNAÇÃO E O PLANO DE ESTUDOS DO CURSO DE MELHORAMENTOS RURAIS, PELA PORTARIA 669/93, DE 15 DE JULHO, PUBLICADA\
+    \ NO DR.IS-B, 164, DE 930715.\0B, 164, DE 930715.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:319892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:418187:por
+  label: "Alterados os quadros I e II do anexo I ao presente diploma , pela PORT.714/87.20.08.1987.MEC, DR.IS [190] de 20.08.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-1987-418187
+  date: '1987-08-20'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319892:por
+  label: "Revogada com a redacção dada pelas Port 714/87 de 20-Ago e 913/98 de 17-Out, pela PORT.73/2001.2001.02.07.ME DR.IS-B\
+    \ [32], nos termos do respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-2001-319892
+  date: '2001-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:45:45Z'
   warnings: []
   errors: []
 ---
@@ -173,8 +210,8 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 5 de Junho de 1986.**
+Assinada em 5 de Junho de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/14201/00340041.pdf))](https://files.diariodarepublica.pt/1s/1986/06/14201/00340041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14201/00340041.pdf)

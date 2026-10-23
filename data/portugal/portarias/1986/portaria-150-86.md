@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-1986-195797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 439ea24014d457e8a82df5437b6fd9045e4f149bdc7e31c355e629c5785612f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6235cd18f6949e4171f604e33ade725013c2785e29474335ce10b8664f49761b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Beja
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:214718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265289:por
+  label: "Alterado, na área de intervenção do Plano de Pormenor da Rua da Guia, o Plano Parcial de Urbanização do Núcleo Central\
+    \ Histórico de Beja pela RES.46/2002.13.03.2002.PCM, DR.IS-B [61] de 13.03.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-2002-265289
+  date: '2002-03-13'
+- type: amended_by
+  target: pt:dre:265295:por
+  label: "Alterado, na área de intervenção do Plano de Pormenor da Mouraria, o Plano Parcial de Urbanização do Núcleo Central\
+    \ Histórico de Beja, pela RES.52/2002.13.03.2002.PCM, DR.IS-B [61] de 13.03.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/52-2002-265295
+  date: '2002-03-13'
+- type: amended_by
+  target: pt:dre:214718:por
+  label: "Alterado o Plano Parcial de Urbanização, na área de intervenção do Plano de Pormenor da rua de D.Manuel I-Alferes\
+    \ Malheiro, aprovado pela RES.37/2003.2003.02.13.PCM DR.IS-A [60] de 12/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/37-2003-214718
+  date: '2003-02-13'
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684616:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:21Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +123,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Secretaria de Estado da Administração Local e do Ordenamento do Território.
 
-**Assinada em 10 de Março de 1986.**
+Assinada em 10 de Março de 1986.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Regulamento do Plano Parcial de Urbanização do Núcleo Central Histórico de Beja
 
@@ -393,4 +423,4 @@ c) Criar-se os equipamentos e serviços públicos necessários.
 
 3 - A câmara municipal poderá suspender a licença de obras para imediato estudo e identificação dos achados e, se necessário, estabelecer as condições em que os trabalhos poderão prosseguir.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/08800/09310934.pdf))](https://files.diariodarepublica.pt/1s/1986/04/08800/09310934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/08800/09310934.pdf)

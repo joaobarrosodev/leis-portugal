@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23
   number: '270'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3904-(26) a 3904-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf
 entry_into_force_dates: []
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-i-1985-249506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b72a6e5c5eae605db69127cc3a4a4855fc7092606d82a15153c35911a5e4570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a423b4f80cdf44cae320fc7535aa680b21eee59ce30755eb2a7b3ffa00de5f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- CTT
+- Preço
+- Serviços de Radiocomunicações
+- Taxa
+- Telefone
+- Telex
+- TLP
 relationships:
 - type: amended_by
   target: pt:dre:496351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDAS AS TARIFAS NUM 2, 3, 4 E 6 PELA PORT 503/87 DE 22-JUN DR.IS [140]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-22'
+- type: amended_by
+  target: pt:dre:419444:por
+  label: "Substituídas as tarifas n.º 2, 3, 4 e 6, pela PORT.503/87.22.06.1987.MOPTC, DR.IS [140] de 22.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1987-419444
+  date: '1987-06-22'
+- type: amended_by
+  target: pt:dre:496351:por
+  label: "Alterado o sistema tarifário de telecomunicações, fixado pelo presente diploma, pela PORT.828/87.14.10.1987.MOPTC,\
+    \ DR.IS [236] de 14.10.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/828-1987-496351
+  date: '1987-10-14'
+- type: cites
+  target: pt:dre:139767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:57Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +144,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Tra
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 23 de Novembro de 1985.**
+Assinada em 23 de Novembro de 1985.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 Tarifa n.º 1 - Correio
 
@@ -116,17 +156,17 @@ A - Serviço nacional
 
 Porte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 Taxas especiais e de outros serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 II - Encomendas postais (vias terrestre e marítima)
 
 A - Serviço nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 Nota. - Definição das zonas de taxação:
 
@@ -152,7 +192,7 @@ Permutas entre localidades pertencentes ao continente e as dos Açores ou da Mad
 
 Taxas especiais e de outros serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 III - Correspondência e encomendas postais (via aérea)
 
@@ -166,13 +206,13 @@ Número das taxas
 
 IV - Reabertura, prolongamento e alteração de horário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 Nota. - Nos casos de reabertura ou de prolongamento de horário de estações, compete ao peticionário indicar se prefere pagamento por operação ou por tempo.
 
 V - Tabela de descontos para grandes utentes em algumas taxas dos títulos I e II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 Nota I. - Os descontos relativos à taxa n.º 1097 reportam-se a avenças ocasionais, sem prejuízo do que consta na nota IV.
 
@@ -190,7 +230,7 @@ VI - Tabela de descontos para utentes não incluídos no título V
 
 Tabela de descontos aplicável aos clientes dos serviços de correio rápido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 Tarifa n.º 1 - Correio
 
@@ -202,7 +242,7 @@ Porte
 
 (Ver títulos B1, B2 e B3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 B1 - Serviço com a Espanha
 
@@ -220,13 +260,13 @@ Transitoriamente, nas relações com estes dois países aplicam-se as taxas do s
 
 Cobrança de títulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 III - Correspondência e encomendas postais (via aérea)
 
 A - Sobretaxa aérea das correspondências postais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 B - Taxa das encomendas postais (via aérea)
 
@@ -240,8 +280,8 @@ B2 - Serviço internacional
 
 1761 Conjunto das quotas-partes e taxas devidas acrescido das sobretaxas aéreas calculadas segundo os preceitos do Acordo Internacional de Encomendas Postais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
 
 Tarifário de telecomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27002/00260049.pdf)

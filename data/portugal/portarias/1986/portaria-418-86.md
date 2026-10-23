@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1986-218690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe6fc799784292fd3dbec9a7205cce37353a62088c285a73e67fdbb38432ee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85e47f02dc5cc26c14b6fbcd7d25468735df74def7f5ed8ad389beca8f282087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Técnica Superior
+- Carreira Técnica Superior de BAD
+- Direcção Geral do Tribunal de Contas
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:599726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599726:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 478/80, de 15-Out DR.IS [239], na redacção da Port 496/84, de\
+    \ 24-Jul e do presente diploma, pela PORT.2/87.1987.01.02.MF DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2-1987-599726
+  date: '1987-01-02'
+- type: cites
+  target: pt:dre:373031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:48:16Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +138,10 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguint
 
 Ministério das Finanças.
 
-**Assinada em 14 de Julho de 1986.**
+Assinada em 14 de Julho de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
 
 Mapa anexo a que se refere a [Portaria n.º 418/88](https://diariodarepublica.pt/dr/detalhe/portaria/418-1988-373031)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/17500/19081908.pdf))](https://files.diariodarepublica.pt/1s/1986/08/17500/19081908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/17500/19081908.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/15/2006/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2006-693449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62b670cd8a4005c64e7997d53df73d6af51137739f90ff0fc07b760eb6e93d85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52eeddf58d134fa495ee1970fa3593be41e6edec45124794886af94d8b975f1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Agricultura Biológica
 - Armazenagem
 - Biologia
-- Genética
-- Saúde Pública
-- Agricultura Biológica
-- Fiscalização
-- Proteção do Ambiente
-- Diversidade Biológica
-- Produção Vegetal
 - Comércio
+- Diversidade Biológica
+- Fiscalização
+- Genética
+- Produção Vegetal
 - Produto Agrícola
+- Produto Alimentar
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31991R2092
@@ -91,13 +91,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:19Z'
   warnings: []
   errors: []
 ---

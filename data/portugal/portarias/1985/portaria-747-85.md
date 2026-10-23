@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/22600/32503251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1985-177044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 229b479b6f3310c5bed04097c317d537b6192e159712ec4b5c5ea7896db1160d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 537e7050d111d610084f1d910e722e49e3acf10f845f62695252009f71beec16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Formação Profissional
+- Plano de Estudos
+- Profissional de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:508622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada, a partir de 01.08.2011, a Port 26-O/80, de 09-Jan, na redacção da presente portaria, pelo DEC LEI.92/2011.27.07.2011.MTSSO,\
+    \ DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:14Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +116,13 @@ Manda o Governo da República Portuguesa, pelos Ministros da Educação e do Com
 
 1.º Os artigos 4.º, 5.º, 22.º, 23.º e 37.º da [Portaria n.º 26-O/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-o-1980-508622), de 9 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Os cursos a que se refere o presente diploma classificam-se em cursos de nível complementar e de nível superior.
+Art. 4.º - 1 - Os cursos a que se refere o presente diploma classificam-se em cursos de nível complementar e de nível superior.
 
 2 - ...
 
 3 - ...
 
-###### Art. 5.º - 1 - São admitidos aos cursos de formação de motoristas de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 5.º - 1 - São admitidos aos cursos de formação de motoristas de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) 9.º ano de escolaridade ou equivalente;
 
@@ -119,13 +134,13 @@ c) Aprovação num exame de admissão.
 
 ...
 
-###### Art. 22.º Os cursos de formação de motoristas de turismo terão a duração de 1 ano lectivo.
+Art. 22.º Os cursos de formação de motoristas de turismo terão a duração de 1 ano lectivo.
 
-###### Art. 23.º São disciplinas dos cursos de formação de motoristas de turismo dois idiomas estrangeiros, Geografia do Turismo, História de Portugal, Língua e Cultura Portuguesa, Introdução ao Turismo e Técnica Profissional e Relações com o Público.
+Art. 23.º São disciplinas dos cursos de formação de motoristas de turismo dois idiomas estrangeiros, Geografia do Turismo, História de Portugal, Língua e Cultura Portuguesa, Introdução ao Turismo e Técnica Profissional e Relações com o Público.
 
 ...
 
-###### Art. 37.º As disciplinas dos cursos de formação de motoristas de turismo distribuem-se pelos seguintes tempos semanais:
+Art. 37.º As disciplinas dos cursos de formação de motoristas de turismo distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 4 horas;
 
@@ -145,6 +160,6 @@ Relações com o Público - 1 hora
 
 Ministérios da Educação e do Comércio e Turismo.
 
-**Assinada em 11 de Setembro de 1985.**
+Assinada em 11 de Setembro de 1985.
 
 Pelo Ministro da Educação, António de Almeida Costa, Secretário de Estado Adjunto do Ministro da Educação. - Pelo Ministro do Comércio e Turismo, José Alfredo Rodrigues Ferraz, Secretário de Estado do Turismo.

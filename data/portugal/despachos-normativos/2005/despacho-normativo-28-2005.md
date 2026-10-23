@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/28/2005/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d270289d0009fc41e991ed65db371539c9f007e1ca8bd3ca8e9820781ecf58c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a717315f1792973562374294c64b90ae29955c13e3cbcacf17e5852f0ad94581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Direcção Geral das Pescas e Aquicultura
 - Apoio ao Investimento
 - Aquicultura
+- Direcção Geral das Pescas e Aquicultura
+- Financiamento
 - Regulamento
 relationships:
 - type: cites
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/41/2002/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/41/2002/07/30/p/dre
+- type: cites
+  target: pt:dre:196934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544665:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:22Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +126,15 @@ Condições de acesso
 
 2 - ...
 
-###### Artigo 3.º — Critérios de prioridade
+Artigo 3.º
+
+Critérios de prioridade
 
 Para efeitos de atribuição da concessão de apoio financeiro, considera-se prioritário o apoio às candidaturas relativas ao repovoamento dos estabelecimentos que funcionam em regime de exploração semi-intensivo, seguindo-se os explorados em regimes extensivo e intensivo.
 
-###### Artigo 6.º — Apresentação das candidaturas e decisão
+Artigo 6.º
+
+Apresentação das candidaturas e decisão
 
 1 - O processo de candidatura deverá ser entregue na DGPA ou respectivos serviços regionais, instruído com:
 
@@ -134,13 +150,17 @@ c) Declaração da produção por espécie (quantidades), por estabelecimento e 
 
 4 - ...
 
-###### Artigo 8.º — Prazos para execução dos projectos
+Artigo 8.º
+
+Prazos para execução dos projectos
 
 1 - Os projectos aprovados devem ser executados no prazo máximo de 90 dias contado a partir da data em que o beneficiário é notificado da concessão do apoio, com ressalva do disposto no número seguinte.
 
 2 - Caso o pagamento do apoio tenha lugar antecipadamente, nos termos do disposto na alínea b) do n.º 2 do artigo seguinte, o prazo para execução material e financeira do projecto é de um ano a contar da data em que ocorrer aquele pagamento.
 
-###### Artigo 9.º — Pagamento dos apoios
+Artigo 9.º
+
+Pagamento dos apoios
 
 1 - O pagamento dos apoios financeiros relativos aos projectos aprovados será efectuado por conta das dotações inscritas no Orçamento do Estado do ano seguinte ao da aprovação daqueles.
 
@@ -164,13 +184,17 @@ c) Certidões comprovativas em como está regularizada a situação contributiva
 
 6 - Excepcionalmente, havendo disponibilidade financeira, o membro do Governo responsável pelo sector das pescas pode autorizar o pagamento do apoio por verbas respeitantes ao próprio ano de entrada da candidatura na DGPA.
 
-###### Artigo 10.º — Libertação de garantias bancárias e seguros-caução
+Artigo 10.º
+
+Libertação de garantias bancárias e seguros-caução
 
 1 - A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram material e financeiramente concluídos.
 
 2 - Para efeitos do disposto no número anterior, os beneficiários devem remeter à DGPA no prazo de 30 dias a contar da data referida no n.º 2 do artigo 8.º os documentos referidos nas alíneas a) e b) do n.º 3 do artigo anterior.
 
-###### Artigo 11.º — Incumprimento
+Artigo 11.º
+
+Incumprimento
 
 1 - ...
 

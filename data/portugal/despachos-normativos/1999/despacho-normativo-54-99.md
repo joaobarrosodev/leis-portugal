@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/54/1999/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/54-1999-693856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd8a37c9c624b754ef245cc08f754ef45f0ea1cc031af3c6fd89e174e3fcc472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbfc3b70c8a9af86c41e371a4b0401ffda52b1c62e2bac9840e88440a3a3cd87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Enfermagem
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
 - Escola Superior de Enfermagem de Calouste Gulbenkian
 - Estatuto
+- Formação Profissional
 - Santarém
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 69
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:42Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +113,9 @@ Ministérios da Educação e da Saúde, 12 de Outubro de 1999. - Pelo Ministro d
 
 ESTATUTOS
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Disposições gerais
 
@@ -931,7 +941,9 @@ c) Secção de Serviços Financeiros.
 
 3 - O funcionamento dos Serviços Administrativos, bem como as competências a atribuir às diferentes áreas, constará de um regulamento a aprovar pelo conselho directivo, sob proposta do secretário.
 
-##### SUBSECÇÃO I — Secção de Apoio ao Ensino
+##### SUBSECÇÃO I
+
+#### Secção de Apoio ao Ensino
 
 ###### Artigo 52.º — Competências gerais
 
@@ -951,7 +963,9 @@ f) Organizar os processos conducentes à concessão de equivalências e de equip
 
 g) Desenvolver e executar outras tarefas respeitantes à vida escolar dos alunos.
 
-##### SUBSECÇÃO II — Secção de Administração Geral
+##### SUBSECÇÃO II
+
+#### Secção de Administração Geral
 
 ###### Artigo 53.º — Competências gerais
 
@@ -971,7 +985,9 @@ f) Expediente e arquivo;
 
 g) Outras competências decorrentes da lei.
 
-##### SUBSECÇÃO III — Secção de Serviços Financeiros
+##### SUBSECÇÃO III
+
+#### Secção de Serviços Financeiros
 
 ###### Artigo 54.º — Competências
 

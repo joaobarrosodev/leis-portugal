@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/57/1998/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1998-444675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42a24a792fc824648dd9612ac70e2aa532874e4f107060f80569859fefc536ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 553cac4d97e7bf6268ed69d526dd1102cbf9b018b6a95dbfbe53f5fe43c77c0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio ao Investimento
+- Embarcação de Pesca
 - Equipamento de Pesca
+- Financiamento
 - Frota de Pesca
 - Pesca
-- Apoio ao Investimento
-- Projeto de Investimento
 - Piddac
+- Projeto de Investimento
 - Regulamento
-- Embarcação de Pesca
 - Sipesca
 relationships:
 - type: amended_by
   target: pt:dre:660331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663963:por
+  label: "Alterados os arts. 4º, 5º, 7º, 8º e 10º do Regulamento aprovado pelo presente diploma, pelo DN.23-A/99.1999.05.06.MADRP,\
+    \ DR.IS-B [99] 3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-a-1999-663963
+  date: '1999-05-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/16-a/1996/04/22/p/dre
   label: null
@@ -88,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
+- type: cites
+  target: pt:dre:338040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:56Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/63/1999/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8f57f39fb76a7e21b84760cac91f7804d5773ee6df8b4f0aef0050fac75d1db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddb6f7eacc0582f11932f6748f7f836052063437148f4f0a429d84cfeaf3b5a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Ambiente de Trabalho
-- Empresa
+- Apoio ao Investimento
+- Condições de Higiene e Segurança no Trabalho
 - Desenvolvimento Industrial
-- Política Industrial
 - Design
 - Direcção Geral da Indústria
-- Segurança no Trabalho
-- Indústria Têxtil
-- Apoio ao Investimento
-- Projeto de Investimento
+- Empresa
 - Gestão de Empresas
+- IAPMEI
 - Indústria do Vestuário e Confecção
-- Programa IMIT
+- Indústria Têxtil
+- Instituto Português da Qualidade
 - Investimento no Estrangeiro
 - JURO Bonificado
-- Instituto Português da Qualidade
+- Política Industrial
 - Programa
+- Programa IMIT
+- Projeto de Investimento
 - Reconversão de Empresas
 - Regime de Apoio
-- Condições de Higiene e Segurança no Trabalho
+- Segurança no Trabalho
 - Sistema de Incentivos a Modernização da Indústria Têxtil
-- IAPMEI
 - Subsídio
 relationships:
 - type: cites
@@ -107,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/96-a/1995/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/96-a/1995/10/06/p/dre
+- type: cites
+  target: pt:dre:392853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476888:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:55Z'
   warnings: []
   errors: []
 ---

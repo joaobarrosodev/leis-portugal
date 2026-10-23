@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11/2003/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2003-220344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8be642f945ed70e42adf96ca17d9096542a313efce6dea2a7e70ab223959201f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceba475909fc9f17d0333def57b1a5e111f5918db5bef1b0dfc39ca94b29553d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aluno Militar
+- Avaliação de Conhecimentos
 - Estudante
 - Exame
-- Avaliação de Conhecimentos
 - Regulamento
 relationships:
 - type: amended_by
@@ -83,16 +83,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/338/1993/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/338/1993/10/21/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684447:por
+  label: "Rectificado pela DECL-RECT.2-E/2003.2003.03.10.PCM DR.IS-B [76]3ºSupl de 31/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-e-2003-684447
+  date: '2003-03-10'
+- type: repealed_by
+  target: pt:dre:224375:por
+  label: "Revogado o Regulamento aprovado pelo DN 13/2002, de 12-Mar, na redacção do presente diploma, pelo DN.15/2003.2003.03.21.ME,\
+    \ DR.IS-B [81] de 05/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-2003-224375
+  date: '2003-03-21'
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogado, de acordo com o calendário de produção de efeitos fixado no art. 18.º, pelo DEC LEI.74/2004.26.03.2004.ME,\
+    \ DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
+- type: repealed_by
+  target: pt:dre:545664:por
+  label: "Revogado o nº 32 do regime de avaliação dos alunos do ensino secundário, constante do anexo do DN 338/93 de 21-Out,\
+    \ com as alterações introduzidas pelo presente diploma, pelo DN.4/2006.11.01.2006.ME, DR.IS-B [20] de 27.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2006-545664
+  date: '2006-01-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:43Z'
   warnings: []
   errors: []
 ---

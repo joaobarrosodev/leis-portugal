@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/53/2005/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/53-2005-493768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2880746aa54bb3fe7f6722d4802a0054b882132cd05c689c6099a9fdc22358e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8600741e8ea67608a63d6de83a5a76cca9aa3879d47521c268ebf3e906eb469
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,16 @@ relationships:
   target: pt:dre:2336625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1856734:por
+  label: "Alterados o nº 5 e o ponto 5 do anexo I, pelo DN.31-A/2008.12.06.2008.MFAP, DR.IIS [112] de 12.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/31-a-2008-1856734
+  date: '2008-06-12'
+- type: amended_by
+  target: pt:dre:1247336:por
+  label: "Alterados os nºs 1, 2, 5, 6, 7, 8 e 9 pelo DN.23/2009.17.06.2009.MFAP, DR.IIS [115] de 17.06.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2009-1247336
+  date: '2009-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/362/1999/09/16/p/dre
   label: null
@@ -83,16 +93,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/342/1993/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/342/1993/10/30/p/dre
+- type: cites
+  target: pt:dre:570294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664086:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1247336:por
+  label: "Revogada a al. d) do n.º 6, pelo DN.23/2009.17.06.2009.MFAP, DR.IIS [115] de 17.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2009-1247336
+  date: '2009-06-17'
+- type: repealed_by
+  target: pt:dre:2336625:por
+  label: "Revogado pelo DN.18-A/2010.01.07.2010.MFAP, DR.IIS [126] Supl de 01.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-a-2010-2336625
+  date: '2010-07-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:02Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +205,7 @@ Ministério das Finanças e da Administração Pública, 21 de Novembro de 2005.
 
 [a que se refere a alínea a) do n.º 1]
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)
 
 Instruções de preenchimento da relação de clientes
 
@@ -203,7 +239,7 @@ Outras operações isentas ou sem liquidação de imposto que conferem direito �
 
 [a que se refere a alínea b) do n.º 1]
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)
 
 Instruções de preenchimento da relação de fornecedores
 
@@ -233,7 +269,7 @@ Instruções de preenchimento da relação de fornecedores
 
 [a que se refere a alínea c) do n.º 1]
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)](https://files.diariodarepublica.pt/1s/2005/12/239b00/70737077.pdf)
 
 Instruções de preenchimento da relação de sujeitos passivos a que respeitam as regularizações mencionadas no campo 40 do quadro 06 da declaração periódica do IVA.
 

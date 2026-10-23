@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/41/2003/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2003-483625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c47d58dc2dafe617d8dd7fadcf0b5651e85ff00c27b7e63edf2f70aa64aebbe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd74b25ce88c471e97333bd0df1f4c4811f45312512cd02a5645866ac83c2692
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1119/2001/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1119/2001/09/21/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611687:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480704:por
+  label: "Revogado pelo Dec Lei 202/2004 de 18-Ago, DR.IS-A [194], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2004-480704
+  date: '2004-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:28Z'
   warnings: []
   errors: []
 ---

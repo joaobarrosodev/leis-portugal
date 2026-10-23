@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 41/2004, 1º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 912-(47) a 912-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8-f/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-f-2004-486143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8b25714668967cf34dfc7f148eb5390f89775d0a75ad95d091f59c4c4d3964c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 738801da2e8f499d51bdf1af2e55afca5745b39786bf2645a1b386db29b6ea41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Financiamento
-- Turismo
-- Investigação Científica e Tecnológica
 - Controlo de Qualidade
 - Direcção Geral do Turismo
-- Projeto de Investimento
+- Financiamento
+- ICEP
+- Investigação Científica e Tecnológica
 - Plano de Consolidação do Turismo
-- Regulamento de Execução da Medida Nº 4.1-apoio à Investigação Técnico-científica sobre o Turismo
-- Regulamento de Execução da Medida Nº 4.3-apoio à Criação Implementação e Gestão de um Sistema Nacional de Qualidade no Turismo
-- Regulamento de Execução da Medida Nº 4.2-apoio às Acções Conducentes ao Planeamento Turístico Integrado
 - Programa de Intervenções para a Qualificação do Turismo
+- Projeto de Investimento
+- Regulamento de Execução da Medida Nº 4.1-apoio à Investigação Técnico-científica sobre o Turismo
+- Regulamento de Execução da Medida Nº 4.2-apoio às Acções Conducentes ao Planeamento Turístico Integrado
+- Regulamento de Execução da Medida Nº 4.3-apoio à Criação Implementação e Gestão de um Sistema Nacional de Qualidade no Turismo
 - Regulamento de Execução da Medida Nº 4.4-apoio à Intervenções de Sensibilização Destinadas a Potenciar uma Cultura de Turismo
 - Regulamento de Execução do Subprograma Nº 4-investigação Planeamento e Qualidade
 - Subsídio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:157992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal constantes dos Regulamentos aprovados pelo DN 25/2002 de 18-Abr, com a redacção conferida\
+    \ pelo presente diploma, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:157992:por
+  label: "Encerradas as candidaturas, salvo quanto àquelas a apresentar pelo Instituto de Formação Turística que estejam em\
+    \ análise em 27.07.2005, ao Subprograma n.º 4 «Investigação, Planeamento e Qualidade» do PIQTUR, e reduzida a dotação\
+    \ do referido Subprograma regulado pelo DN 25/2002, de 18-Abr, na redacção do presente diploma, pelo DN.36-A/2005.06.07.2005.MEI,\
+    \ DR.IS-B [142] de 26.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
+  date: '2005-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2002/01/04/p/dre
   label: null
@@ -107,16 +122,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 61
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:53Z'
   warnings: []
   errors: []
 ---
@@ -147,13 +182,17 @@ Ao abrigo do disposto no n.º 7 da [Resolução do Conselho de Ministros n.º 12
 
 Medida n.º 4.1, «Apoio à investigação técnico-científica sobre o turismo»
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - ...
 
 2 - O regime de concessão de apoio a que se refere o número anterior vigora no período de 2002 a 2006, inclusive.
 
-###### Artigo 3.º — Promotores
+Artigo 3.º
+
+Promotores
 
 Podem ser promotores dos projectos a apoiar:
 
@@ -177,7 +216,9 @@ i) ...
 
 j) Agências regionais de promoção turística e ou o consórcio entre a Secretaria Regional do Turismo e Cultura da Madeira e as empresas e entidades representativas do sector privado da respectiva Região Autónoma.
 
-###### Artigo 5.º — Condições de elegibilidade dos projectos
+Artigo 5.º
+
+Condições de elegibilidade dos projectos
 
 Os projectos integrantes das candidaturas apresentadas no âmbito da presente medida deverão reunir as seguintes condições de elegibilidade:
 
@@ -191,7 +232,9 @@ d) Demonstrarem inequívoca relevância turística, mediante estudo ou análise 
 
 e) Terem o seu termo de execução material até 31 de Dezembro de 2006.
 
-###### Artigo 9.º — Organismo coordenador
+Artigo 9.º
+
+Organismo coordenador
 
 1 - ...
 
@@ -219,7 +262,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 10.º — Órgão de gestão
+Artigo 10.º
+
+Órgão de gestão
 
 1 - ...
 
@@ -237,13 +282,17 @@ j) ...
 
 Medida n.º 4.2, «Apoio às acções conducentes ao planeamento turístico integrado»
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - ...
 
 2 - O regime de concessão de apoio a que se refere o número anterior vigora no período de 2002 a 2006, inclusive.
 
-###### Artigo 2.º — Objectivos e âmbito
+Artigo 2.º
+
+Objectivos e âmbito
 
 1 - ...
 
@@ -251,7 +300,9 @@ Medida n.º 4.2, «Apoio às acções conducentes ao planeamento turístico inte
 
 3 - Encontra-se ainda abrangido nos objectivos da medida o apoio à elaboração dos instrumentos de planeamento do desenvolvimento turístico e económico das áreas de protecção turística, incluindo todos os estudos conexos, designadamente os relativos à ocupação de espaços, urbanismo e construção, infra-estruturas, acessibilidades, paisagismo e impacte ambiental.
 
-###### Artigo 4.º — Promotores
+Artigo 4.º
+
+Promotores
 
 Podem ser promotores dos projectos a apoiar:
 
@@ -265,7 +316,9 @@ d) Câmaras municipais não integradas em regiões de turismo;
 
 e) ...
 
-###### Artigo 6.º — Condições de elegibilidade dos projectos
+Artigo 6.º
+
+Condições de elegibilidade dos projectos
 
 Os projectos que integram as candidaturas apresentadas no âmbito da presente medida devem reunir as seguintes condições de elegibilidade:
 
@@ -279,7 +332,9 @@ d) Demonstrarem inequívoca relevância turística, mediante estudo ou análise 
 
 e) Terem o seu termo de execução material até 31 de Dezembro de 2006.
 
-###### Artigo 10.º — Organismo coordenador
+Artigo 10.º
+
+Organismo coordenador
 
 1 - ...
 
@@ -307,7 +362,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 11.º — Órgão de gestão
+Artigo 11.º
+
+Órgão de gestão
 
 1 - ...
 
@@ -637,7 +694,7 @@ g) Prazos de apresentação, a título devolutivo, dos originais dos documentos 
 
 h) Assunção de responsabilidade por parte do promotor de que todos os seus eventuais subcontratados se encontram devidamente habilitados para o exercício da respectiva actividade e possuem regularizada a sua situação perante a administração fiscal e a segurança social.
 
-## APÊNDICE I
+APÊNDICE I
 
 Avaliação e selecção dos projectos
 
@@ -657,29 +714,29 @@ V = A + B + C + D
 
 2.1 - O subcritério A tem por objectivo avaliar a adequação do projecto aos objectivos e requisitos das acções elegíveis, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.2 - O subcritério B tem por objectivo avaliar a relevância do projecto no contexto do turismo nacional, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.3 - O subcritério C tem por objectivo avaliar o grau de contribuição do projecto para a optimização dos recursos (o grau de contribuição do projecto para a optimização dos recursos poderá ser aferido pelo aproveitamento de sinergias e ou de economias de escala ou pela mobilização de autofinanciamento, em função das acções elegíveis que estiverem em causa), de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.4 - O subcritério D tem por objectivo avaliar o impacte do projecto face aos objectivos das acções elegíveis, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 3 - Não podem beneficiar de apoio os projectos cuja valia seja inferior a 50 pontos.
 
 4 - A intensidade do incentivo a conceder é função da valia do projecto, estabelecida pela seguinte pontuação:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 5 - No caso de projectos manifestamente inovadores e ou estruturantes para o turismo nacional, a intensidade do incentivo, indicada no número anterior, poderá ser bonificada até 25 pontos percentuais, a acrescer ao apoio que resulta da pontuação que traduz a valia dos projectos.
 
-## APÊNDICE II
+APÊNDICE II
 
 Declaração
 
@@ -901,7 +958,7 @@ g) Prazos de apresentação, a título devolutivo, dos originais dos documentos 
 
 h) Assunção de responsabilidade por parte do promotor de que todos os seus eventuais subcontratados se encontram devidamente habilitados para o exercício da respectiva actividade e possuem regularizada a sua situação perante a administração fiscal e a segurança social.
 
-## APÊNDICE I
+APÊNDICE I
 
 Avaliação e selecção dos projectos
 
@@ -925,33 +982,33 @@ V = A + B + C + D + E + F
 
 2.1 - O subcritério A tem por objectivo avaliar a adequação das actividades e ou do objecto social da(s) entidade(s) proponente(s) ao objectivo do estudo, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.2 - O subcritério B tem por objectivo avaliar a qualificação técnico-científica do coordenador do projecto e da equipa, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.3 - O subcritério C tem por objectivo avaliar a relevância do projecto face aos objectivos e estratégias da política nacional de turismo, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.4 - O subcritério D tem por objectivo avaliar a inovação inerente ao projecto, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.5 - O subcritério E tem por objectivo avaliar o grau de cobertura financeira, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.6 - O subcritério F tem por objectivo avaliar a aplicação da investigação à escala nacional ou regional das NUT II ou das áreas promocionais, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 3 - A intensidade do incentivo a conceder é função da valia do projecto, estabelecida pela seguinte pontuação:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 Declaração
 
@@ -1167,7 +1224,7 @@ g) Prazos de apresentação, a título devolutivo, dos originais dos documentos 
 
 h) Assunção de responsabilidade por parte do promotor de que todos os seus eventuais subcontratados se encontram devidamente habilitados para o exercício da respectiva actividade e possuem regularizada a sua situação perante a administração fiscal e a segurança social.
 
-## APÊNDICE I
+APÊNDICE I
 
 Avaliação e selecção dos projectos
 
@@ -1191,33 +1248,33 @@ V = A + B + C + D + E + F
 
 2.1 - O subcritério A tem por objectivo avaliar a adequação das actividades e ou do objecto social da(s) entidade(s) proponente(s) ao objectivo do estudo, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.2 - O subcritério B tem por objectivo avaliar a qualificação técnico-científica do coordenador do projecto e da equipa, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.3 - O subcritério C tem por objectivo avaliar a relevância do projecto face aos objectivos e estratégias da política nacional de turismo, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.4 - O subcritério D tem por objectivo avaliar a inovação inerente ao projecto, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.5 - O subcritério E tem por objectivo avaliar o grau de cobertura financeira, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.6 - O subcritério F tem por objectivo avaliar a aplicação da investigação à escala nacional ou regional das NUT II ou das áreas promocionais, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 3 - A intensidade do incentivo a conceder é função da valia do projecto, estabelecida pela seguinte pontuação:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 Declaração
 
@@ -1449,7 +1506,7 @@ g) Prazos de apresentação, a título devolutivo, dos originais dos documentos 
 
 h) Assunção de responsabilidade por parte do promotor de que todos os seus eventuais subcontratados se encontram devidamente habilitados para o exercício da respectiva actividade e possuem regularizada a sua situação perante a administração fiscal e a segurança social.
 
-## APÊNDICE I
+APÊNDICE I
 
 Avaliação e selecção dos projectos
 
@@ -1473,33 +1530,33 @@ V = A + B + C + D + E + F
 
 2.1 - O subcritério A tem por objectivo avaliar a adequação das actividades e ou do objecto social da(s) entidade(s) proponente(s) ao objectivo do estudo, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.2 - O subcritério B tem por objectivo avaliar a qualificação técnico-científica do coordenador do projecto e da equipa, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.3 - O subcritério C tem por objectivo avaliar a relevância do projecto face aos objectivos e estratégias da política nacional de turismo, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.4 - O subcritério D tem por objectivo avaliar a inovação inerente ao projecto, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.5 - O subcritério E tem por objectivo avaliar o grau de cobertura financeira, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 2.6 - O subcritério F tem por objectivo avaliar a aplicação da investigação à escala nacional ou regional das NUT II ou das áreas promocionais, de acordo com os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
 3 - A intensidade do incentivo a conceder é função da valia do projecto, estabelecida pela seguinte pontuação:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00470064.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 Declaração
 

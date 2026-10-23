@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 195/1986, 1º Suplemento, Série I de 1986-08-26
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2210-(1) a 2210-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19501/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/469-1986-219678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:49:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe30744b9dd1dec5c0db3c4802693ea0bf654dc09abcaf7a3a57567398de041b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66efc05985124b2138d7c5f5f092a5455b651c133f67e14742c43928b10df36e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:49:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação de Mercadorias
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:406318:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662356:por
+  label: "Alterados os quadros constantes do anexo a este diploma, pela PORT.158/87.1987.03.06.MOPTC, DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-1987-662356
+  date: '1987-03-06'
+- type: cites
+  target: pt:dre:219129:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406318:por
+  label: "Revogada pela PORT.938-A/87.14.12.1987.MOPTC, DR.IS [286]Supl de 14.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/938-a-1987-406318
+  date: '1987-12-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:49:45Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +113,8 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas Tran
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 26 de Agosto de 1986.**
+Assinada em 26 de Agosto de 1986.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19501/00010003.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19501/00010003.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19501/00010003.pdf)

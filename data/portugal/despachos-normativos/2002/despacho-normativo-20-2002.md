@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/20/2002/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2002-303269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7c9ea8610658cb6feb591333dcc36b6dc92b43acec5c4beb6c037d6b7dc40d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef2ebce2c36bd47bd21df87b9ace9fa6eb36f306d377f63585c030db87956337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,68 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Turismo
 - Plano de Consolidação do Turismo
-- Regulamento
 - Programa de Intervenções para a Qualificação do Turismo
+- Regulamento
 - Regulamento de Execução do Subprograma Nº 6-assistência Técnica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:1503930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441147:por
+  label: "Determinado, para os efeitos do nº 1, que a data do início de vigência do Regulamento constante do presente diploma\
+    \ coincida com a data da entrada em vigor do DN.53/2002.2002.04.17.MECO, DR.IS-B [279] de 03/Dez/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-2002-441147
+  date: '2002-04-17'
+- type: amended_by
+  target: pt:dre:486141:por
+  label: "Alterados os nºs 2 e 4 deste diploma, assim como os arts. 1º e 8º do Regulamento constante do seu anexo I, pelo\
+    \ DN.8-D/2004.26.01.2004.MECO, DR.IS-B [41-Supl] de 18.02.2004, que procede à sua republicação com todas as alterações\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-d-2004-486141
+  date: '2004-01-26'
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal constantes do Regulamento aprovado pelo presente diploma, com a redacção conferida\
+    \ pelo DN 8-D/2004 de 18-Fev, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:2245196:por
+  label: "Alterado o nº3 do art. 1º do Regulamento de Execução do Subprograma n.º 6 «Assistência Técnica» do Programa de Intervenções\
+    \ para a Qualificação do Turismo publicado em anexo ao presente diploma (na redacção do DN 8-D/2004, de 18-Fev), pelo\
+    \ DN.19/2009.18.05.2009.SETU-MEI, DR.IIS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2009-2245196
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:1503930:por
+  label: "Alterado o n.º 3 do art. 1.º (na redacção do DN 8-D/2004, de 18-Fev e do DN 19/2009, de 18-Maio) do Regulamento\
+    \ de Execução do Subprograma n.º 6, «Assistência Técnica», do Programa de Intervenções para a Qualificação do Turismo\
+    \ (PIQTUR), publicado em anexo, pelo DN.29/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2009-1503930
+  date: '2009-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:41Z'
   warnings: []
   errors: []
 ---

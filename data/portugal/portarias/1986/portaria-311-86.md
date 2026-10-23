@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14200/14721475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-1986-228646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa786066eb4fff7c0fe95f6e85a2b1143fe0a3118fa81a76c271c74159b01583
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bebfcdf33728b746e9b79c517cbf2f844e3135d99031a4b1e828ae73568ba0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação
+- Divulgação Cultural
+- Estatuto
+- Exército
+- História Militar
+- Liga dos Amigos dos Museus Militares
+- Património Histórico
 relationships:
 - type: amended_by
   target: pt:dre:581664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:226988:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:581664:por
+  label: "Revogada pela PORT.730/2000.2000.09.07.MDN,DR.IS-B [207]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-2000-581664
+  date: '2000-09-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:45:27Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, ao a
 
 Ministério da Defesa Nacional.
 
-**Assinada em 4 de Junho de 1986.**
+Assinada em 4 de Junho de 1986.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Estatuto das Ligas dos Amigos dos Museus Militares
 
@@ -158,7 +174,7 @@ d) São sócios correspondentes os que, a convite da direcção, colaboram com a
 
 ###### ARTIGO 9.º
 
-**O Chefe do Estado-Maior do Exército é sócio nato de todas as ligas que forem constituídas.**
+O Chefe do Estado-Maior do Exército é sócio nato de todas as ligas que forem constituídas.
 
 ###### ARTIGO 10.º
 
@@ -444,7 +460,7 @@ O conselho consultivo é constituído pelos presidentes dos corpos gerentes em e
 
 ###### ARTIGO 44.º
 
-**O presidente da mesa da assembleia geral é o presidente nato do conselho consultivo, sendo substituído, na sua ausência ou impedimento, pelo sócio mais antigo.**
+O presidente da mesa da assembleia geral é o presidente nato do conselho consultivo, sendo substituído, na sua ausência ou impedimento, pelo sócio mais antigo.
 
 ###### ARTIGO 45.º
 

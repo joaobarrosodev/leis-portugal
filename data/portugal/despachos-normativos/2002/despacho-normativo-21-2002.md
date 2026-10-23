@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/21/2002/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2002-303266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e6c103bdd0273f411cf1a77226a273e0deba2bfa9fdce57a878c3c5a9898482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c842133dcadea7695ca8a66efb0be975263014e71da2ba00a5a9554d57da725e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exame
 - Avaliação de Conhecimentos
+- Exame
 - Regulamento
 relationships:
 - type: amended_by
@@ -85,16 +85,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/45/1996/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/45/1996/10/31/p/dre
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogado pelo DEC LEI.74/2004.26.03.2004.ME, DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:42Z'
   warnings: []
   errors: []
 ---
@@ -691,7 +716,7 @@ f) Ficha de avaliação do aluno relativa aos quatro momentos de avaliação.
 
 Provas globais: tipos de provas a realizar em cada disciplina e respectiva duração
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
 
 ## ANEXO III — (a que se refere o n.º 10.3)
 
@@ -841,7 +866,7 @@ c) Um profissional, externo à escola, da área para a qual o curso é profissio
 
 Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área curricular e respectiva duração
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
 
 ## ANEXO VI — (a que se refere o n.º 12.4)
 
@@ -1015,13 +1040,13 @@ VII - Reapreciação de provas e reclamação
 
 Exames finais nacionais a realizar pelos alunos nas disciplinas da formação científico-tecnológica dos cursos tecnológicos - alínea c) do n.º 8 do artigo 11.º do [Decreto-Lei n.º 7/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2001-338987), de 18 de Janeiro
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
 
 ## ANEXO VIII — (a que se referem os n.os 13.1 e 13.3)
 
 Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)](https://files.diariodarepublica.pt/1s/2002/04/084b00/34963521.pdf)
 
 ## ANEXO IX — (a que se referem os n.os 8.5, 13.1 e 13.11)
 

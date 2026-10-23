@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/19/2006/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a91b9fab3f4a32474da5c85ec7e7007b1ed5395a7f5a144a1dccb519a932505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ddedd3da409c5627d659f8032ffab540cfd969a3fb0c173b02862bde28e7372
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Financiamento
 - Pesca
-- Apoio ao Investimento
 - Regulamento
 - Sipesca
 relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:42/2002
+  label: "Altera os n.ºs 1.º, 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º e 12.º e adita um n.º 3 ao n.º 2 e os n.ºs 2.º-A, 8.º-A e\
+    \ 9.º-B ao Regulamento do SIPESCA - Sistema de Incentivos à Pesca, aprovado pelo Despacho Normativo n.º 42/2002, de 8\
+    \ de Julho DR.IS-B [174] que republica em anexo com as alterações que lhe foram introduzidas\0\0"
+  source: null
+  date: '2002-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/191/1999/06/05/p/dre
   label: null
@@ -84,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/8-a/2000/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/8-a/2000/02/02/p/dre
+- type: cites
+  target: pt:dre:196925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:24Z'
   warnings: []
   errors: []
 ---

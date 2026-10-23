@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1985-327639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f13cf8c9e645a3260b4b5926d972dd93264198b9ca607921d25359e2fd3136d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20a9240130534c94de6e8d88d68eebca3ce9faf5ee9e11d5a0128c7fa1767db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português do Património Cultural
+- Património Cultural
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570355:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:28Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +105,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Cultura, o seguinte:
 
 Ministério da Cultura.
 
-**Assinada em 24 de Janeiro de 1985.**
+Assinada em 24 de Janeiro de 1985.
 
-**O Ministro da Cultura, António Antero Coimbra Martins.**
+O Ministro da Cultura, António Antero Coimbra Martins.
 
 ## ANEXO — Regulamento do Conselho Consultivo do Instituto Português do Património Cultural
 
 #### SECÇÃO I — Disposições Gerais
 
-###### Artigo 1.º O conselho consultivo é um órgão especializado ao qual compete emitir parecem ou formular propostas sobre a matéria das atribuições do Instituto Português do Património Cultural (IPPC) que forem submetidos à sua apreciação.
+Artigo 1.º O conselho consultivo é um órgão especializado ao qual compete emitir parecem ou formular propostas sobre a matéria das atribuições do Instituto Português do Património Cultural (IPPC) que forem submetidos à sua apreciação.
 
-###### Art. 2.º O conselho consultivo é presidido pelo presidente do IPPC e composto por:
+Art. 2.º O conselho consultivo é presidido pelo presidente do IPPC e composto por:
 
 a) O vice-presidente do IPPC;
 
@@ -122,11 +133,11 @@ g) Individualidades de reconhecida competência no âmbito de actuação do IPPC
 
 h) Representantes das associações de defesa do património.
 
-###### Art. 3.º - 1 - O conselho consultivo funciona em sessões plenárias e por secções.
+Art. 3.º - 1 - O conselho consultivo funciona em sessões plenárias e por secções.
 
 2 - As sessões plenárias são coordenadas pelo presidente do IPPC e as secções pelo vice-presidente do mesmo Instituto.
 
-###### Art. 4.º O conselho consultivo é constituído pelas seguintes secções:
+Art. 4.º O conselho consultivo é constituído pelas seguintes secções:
 
 1.ª Arqueologia;
 
@@ -146,7 +157,7 @@ h) Representantes das associações de defesa do património.
 
 9.ª Património arquitectónico.
 
-###### Art. 5.º - 1 - As secções do conselho consultivo reúnem em sessão ordinária uma vez por mês, em dia a designar pelo vice-presidente do IPPC.
+Art. 5.º - 1 - As secções do conselho consultivo reúnem em sessão ordinária uma vez por mês, em dia a designar pelo vice-presidente do IPPC.
 
 2 - As sessões ordinárias poderão realizar-se de 2 em 2 meses, quando o vice-presidente do IPPC considere não se justificar a periodicidade mensal.
 
@@ -154,19 +165,19 @@ h) Representantes das associações de defesa do património.
 
 4 - No caso previsto no número anterior, poderá o vice-presidente do IPPC estabelecer uma periodicidade regular para as reuniões extraordinárias.
 
-###### Art. 6.º - 1 - Para além dos membros por inerência do IPPC e doa seus serviços dependentes, cada secção poderá dispor de 3 a 9 vogais, escolhidos de entre funcionários de outros organismos do Estado e da administração local ou de entre os membros de entidades privadas cujas atribuições sejam afins das do referido Instituto, nomeados pelo Ministro da Cultura, sob proposta do presidente do IPPC.
+Art. 6.º - 1 - Para além dos membros por inerência do IPPC e doa seus serviços dependentes, cada secção poderá dispor de 3 a 9 vogais, escolhidos de entre funcionários de outros organismos do Estado e da administração local ou de entre os membros de entidades privadas cujas atribuições sejam afins das do referido Instituto, nomeados pelo Ministro da Cultura, sob proposta do presidente do IPPC.
 
 2 - Poderão integrar a composição das secções do conselho consultivo individualidades de reconhecida competência, até ao número máximo de 3 para cada secção, e nomear pelo Ministro da Cultura, sob proposta do presidente do IPPC.
 
-###### Art. 7.º Cada secção do conselho consultivo terá um representante das associações de defesa do património cultural, a nomear pelo Ministro da Cultura, sob proposta do presidente do IPPC, depois de ouvida a Federação das Associações de Defesa do Património Cultural e Natural.
+Art. 7.º Cada secção do conselho consultivo terá um representante das associações de defesa do património cultural, a nomear pelo Ministro da Cultura, sob proposta do presidente do IPPC, depois de ouvida a Federação das Associações de Defesa do Património Cultural e Natural.
 
-###### Art. 8.º - 1 - Os membros do conselho consultivo indicados nas alíneas f), g) e h) do artigo 2.º exercerão o seu mandato por um período de 3 anos, sem prejuízo de poderem ser a todo o tempo substituídos pelas entidades que os designaram.
+Art. 8.º - 1 - Os membros do conselho consultivo indicados nas alíneas f), g) e h) do artigo 2.º exercerão o seu mandato por um período de 3 anos, sem prejuízo de poderem ser a todo o tempo substituídos pelas entidades que os designaram.
 
 2 - As nomeações para as vagas que ocorrerem no decurso do triénio consideram-se feitas até ao termo deste.
 
 #### SECÇÃO II — Composição das secções
 
-###### Art. 9.º A 1.ª secção (arqueologia) é constituída pelo director do Departamento de Arqueologia e pelos seguintes membros:
+Art. 9.º A 1.ª secção (arqueologia) é constituída pelo director do Departamento de Arqueologia e pelos seguintes membros:
 
 1) 1 representante da Direcção-Geral dos Edifícios e Monumentos Nacionais;
 
@@ -174,7 +185,7 @@ h) Representantes das associações de defesa do património.
 
 3) Os directores dos museus de arqueologia dependentes do IPPC.
 
-###### Art. 10.º A 2.ª secção (artes plásticas) é constituída pelo director do Departamento de Artes Plásticas e pelos seguintes membros:
+Art. 10.º A 2.ª secção (artes plásticas) é constituída pelo director do Departamento de Artes Plásticas e pelos seguintes membros:
 
 1) 1 representante da Academia Nacional de Belas-Artes;
 
@@ -182,7 +193,7 @@ h) Representantes das associações de defesa do património.
 
 3) 1 representante da Direcção-Geral das Alfândegas.
 
-###### Art. 11.º A 3.ª secção (bibliotecas, arquivos e serviços de documentação) é constituída pelo director do Departamento de Bibliotecas, Arquivos e Serviços de Documentação e pelos seguintes membros:
+Art. 11.º A 3.ª secção (bibliotecas, arquivos e serviços de documentação) é constituída pelo director do Departamento de Bibliotecas, Arquivos e Serviços de Documentação e pelos seguintes membros:
 
 1) 1 representante da Associação de Bibliotecários, Arquivistas e Documentalistas;
 
@@ -190,7 +201,7 @@ h) Representantes das associações de defesa do património.
 
 3) Os directores do Arquivo Nacional da Torre do Tombo, do Arquivo Histórico Ultramarino e do Arquivo da Universidade de Coimbra.
 
-###### Art. 12.º A 4.ª secção (defesa, conservação e restauro do património cultural) é constituída pelo director do Departamento de Defesa, Conservação e Restauro do Património Cultural e pelos seguintes membros:
+Art. 12.º A 4.ª secção (defesa, conservação e restauro do património cultural) é constituída pelo director do Departamento de Defesa, Conservação e Restauro do Património Cultural e pelos seguintes membros:
 
 1) O director do Instituto de José de Figueiredo, ou seu representante;
 
@@ -200,7 +211,7 @@ h) Representantes das associações de defesa do património.
 
 4) 1 representante da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 13.º A 5.ª secção (etnologia) é constituída pelo director do Departamento de Etnologia e pelos seguintes membros:
+Art. 13.º A 5.ª secção (etnologia) é constituída pelo director do Departamento de Etnologia e pelos seguintes membros:
 
 1) 1 representante da Secretaria de Estado do Turismo;
 
@@ -210,7 +221,7 @@ h) Representantes das associações de defesa do património.
 
 4) O director do Museu de Arte Popular.
 
-###### Art. 14.º A 6.ª secção (inventário geral do património cultural) é constituída pelo director do Departamento do Inventário Geral do Património Cultural e pelos seguintes membros:
+Art. 14.º A 6.ª secção (inventário geral do património cultural) é constituída pelo director do Departamento do Inventário Geral do Património Cultural e pelos seguintes membros:
 
 1) 1 representante da Direcção-Geral do Património do Estado;
 
@@ -228,7 +239,7 @@ h) Representantes das associações de defesa do património.
 
 8) 1 representante da Direcção-Geral das Alfândegas.
 
-###### Art. 15.º A 7.ª secção (museus, palácios e fundações) é constituído pelo director do Departamento dos Museus, Palácio e Fundações e pelos seguintes membros:
+Art. 15.º A 7.ª secção (museus, palácios e fundações) é constituído pelo director do Departamento dos Museus, Palácio e Fundações e pelos seguintes membros:
 
 1) 1 representante da Comissão Nacional do Conselho Internacional dos Museus (ICOM);
 
@@ -240,7 +251,7 @@ h) Representantes das associações de defesa do património.
 
 5) 1 representante do Ministério da Administração Interna.
 
-###### Art. 16.º A 8.ª secção (musicologia) é constituída pelo director do Departamento de Musicologia e pelos seguintes membros:
+Art. 16.º A 8.ª secção (musicologia) é constituída pelo director do Departamento de Musicologia e pelos seguintes membros:
 
 1) 1 representante da Direcção-Geral dos Espectáculos e do Direito de Autor;
 
@@ -248,7 +259,7 @@ h) Representantes das associações de defesa do património.
 
 3) Os directores dos Teatros Nacionais de S. Carlos e de D. Maria II, ou seus representantes.
 
-###### Art. 17.º A 9.ª secção (património arquitectónico) é constituída pelo director do Departamento do Património Arquitectónico e pelos seguintes membros:
+Art. 17.º A 9.ª secção (património arquitectónico) é constituída pelo director do Departamento do Património Arquitectónico e pelos seguintes membros:
 
 1) 1 representante do Ministério da Qualidade de Vida;
 
@@ -264,7 +275,7 @@ h) Representantes das associações de defesa do património.
 
 #### SECÇÃO III — Competência das secções
 
-###### Art. 18.º À 1.ª secção (arqueologia) compete propor as directrizes para a defesa, conservação e enriquecimento do património arqueológico do País, designadamente:
+Art. 18.º À 1.ª secção (arqueologia) compete propor as directrizes para a defesa, conservação e enriquecimento do património arqueológico do País, designadamente:
 
 1) Propor e classificação ou emitir parecer sobre as propostas de classificação de imóveis de interesse arqueológico;
 
@@ -294,7 +305,7 @@ c) Os projectos de quaisquer escavações ou outros trabalhos a realizar dentro 
 
 11) Emitir parecer sobre os pedidos de autorização para a exportação de móveis com valor arqueológico, ainda que não inventariados, bem como sobre o pedido de isenção de direitos de importação.
 
-###### Art. 19.º À 2.ª secção (artes plásticas) compete propor as directrizes para a defesa, conservação e enriquecimento do património artístico do País, designadamente:
+Art. 19.º À 2.ª secção (artes plásticas) compete propor as directrizes para a defesa, conservação e enriquecimento do património artístico do País, designadamente:
 
 1) Propor a classificação ou emitir perecer sobre as propostas de classificação de móveis ou imóveis de considerável valor artístico ou estético;
 
@@ -318,7 +329,7 @@ b) A decoração e o arranjo artístico, sem prejuízo da sua aplicação;
 
 9) Emitir parecer estético sobre a construção de monumentos comemorativos, decoração pictural e escultórica de edifícios do Estado e aquisição de mobiliário para os palácios nacionais.
 
-###### Art. 20.º À 3.ª secção (bibliotecas, arquivos e serviços de documentação) compete propor as directrizes para a defesa, protecção e enriquecimento do património bibliográfico e documental do País, nomeadamente:
+Art. 20.º À 3.ª secção (bibliotecas, arquivos e serviços de documentação) compete propor as directrizes para a defesa, protecção e enriquecimento do património bibliográfico e documental do País, nomeadamente:
 
 1) Pronunciar-se sobre a normalização dos impressos a usar nas bibliotecas e arquivos;
 
@@ -354,7 +365,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 10) Pronunciar-se sobre os problemas relativos à formação profissional de pessoal de bibliotecas e arquivos, nomeadamente sobre os respectivos cursos e planos de estudo.
 
-###### Art. 21.º À 4.ª secção (defesa, conservação e restauro do património cultural) compete propor as directrizes para a defesa, conservação e restauro do património cultural móvel e imóvel do País, designadamente:
+Art. 21.º À 4.ª secção (defesa, conservação e restauro do património cultural) compete propor as directrizes para a defesa, conservação e restauro do património cultural móvel e imóvel do País, designadamente:
 
 1) Pronunciar-se sobre os trabalhos de conservação o restauro a realizar em móveis inventariados;
 
@@ -368,7 +379,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 6) Pronunciar-se sobre os pedidos de equiparação de habilitações especializadas em conservação e restauro obtidas em instituições estrangeiras e a organização das provas de equivalência que se tornem necessárias.
 
-###### Art. 22.º À 5.ª secção (etnologia) compete propor as directrizes para a defesa, conservação e enriquecimento do património etnológico, nomeadamente:
+Art. 22.º À 5.ª secção (etnologia) compete propor as directrizes para a defesa, conservação e enriquecimento do património etnológico, nomeadamente:
 
 1) Propor a classificação ou emitir parecer sobre as propostas de classificação de imóveis de considerável valor etnológico;
 
@@ -388,7 +399,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 9) Pronunciar-se acerca da criação ou reorganização de museus de etnologia ou daqueles em que este domínio seja uma componente relevante.
 
-###### Art. 23.º À 6.ª secção (inventário geral do património cultural) compete propor as directrizes para assegurar a inventariação, a catalogação e o registo de bens culturais, nomeadamente:
+Art. 23.º À 6.ª secção (inventário geral do património cultural) compete propor as directrizes para assegurar a inventariação, a catalogação e o registo de bens culturais, nomeadamente:
 
 1) Pronunciar-se sobre os objectivos gerais das operações de inventário e respectiva metodologia;
 
@@ -404,7 +415,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 7) Pronunciar-se sobre os programas e relatórios de operações de inventário.
 
-###### Art. 24.º À 7.ª secção (museus, palácios e fundações) compete propor as directrizes para a defesa, conservação e enriquecimento do património cultural do País, nomeadamente:
+Art. 24.º À 7.ª secção (museus, palácios e fundações) compete propor as directrizes para a defesa, conservação e enriquecimento do património cultural do País, nomeadamente:
 
 1) Pronunciar-se, em relação aos museus ou palácios pertencentes ao Estado, autarquias locais, institutos públicos e entidades subsidiadas pelo Estado, sobre:
 
@@ -426,7 +437,7 @@ h) A elaboração e modificação dos regulamentos internos dos museus e paláci
 
 2) Propor quaisquer providências destinadas à defesa do património nacional guardado nos museus, palácios e fundações.
 
-###### Art. 25.º À 8.ª secção (musicologia) compete definir as directrizes para a defesa, conservação e enriquecimento do património musicológico do País, nomeadamente:
+Art. 25.º À 8.ª secção (musicologia) compete definir as directrizes para a defesa, conservação e enriquecimento do património musicológico do País, nomeadamente:
 
 1) Propor a inventariação ou emitir parecer sobre a proposta de inventariação de espécies de considerável valor musicológico;
 
@@ -444,7 +455,7 @@ b) A sua alienação e a conveniência de, quanto aos não pertencentes ao Estad
 
 6) Promover tudo o que possa concorrer para o prestígio, valorização e divulgação do tesouro musicológico.
 
-###### Art. 26.º À 9.ª secção (património arquitectónico) compete definir as directrizes para a defesa, conservação e enriquecimento do património arquitectónico do País, designadamente:
+Art. 26.º À 9.ª secção (património arquitectónico) compete definir as directrizes para a defesa, conservação e enriquecimento do património arquitectónico do País, designadamente:
 
 1) Propor a classificação ou emitir parecer sobre as propostas de classificação de imóveis de interesse arquitectónico;
 
@@ -464,56 +475,56 @@ d) Os projectos de quaisquer obras ou instalações temporárias ou definitivas 
 
 #### SECÇÃO IV — Funcionamento
 
-###### Art. 27.º - 1 - Os assuntos a serem submetidos às secções do conselho consultivo deverão ser previamente objecto de despacho naquele sentido pela direcção do IPPC.
+Art. 27.º - 1 - Os assuntos a serem submetidos às secções do conselho consultivo deverão ser previamente objecto de despacho naquele sentido pela direcção do IPPC.
 
 2 - A apreciação da conveniência da emissão de parecer pelas secções do conselho consultivo poderá ser delegada nos directores dos departamentos do IPPC.
 
-###### Art. 28.º O vice-presidente do IPPC distribuirá os processos pelas secções e designará o respectivo relator.
+Art. 28.º O vice-presidente do IPPC distribuirá os processos pelas secções e designará o respectivo relator.
 
-###### Art. 29.º - 1 - Na sua ausência ou impedimento, pode o vice-presidente do IPPC designar um substituto para coordenar as sessões de cada secção.
+Art. 29.º - 1 - Na sua ausência ou impedimento, pode o vice-presidente do IPPC designar um substituto para coordenar as sessões de cada secção.
 
 2 - A designação recairá obrigatoriamente em funcionário do IPPC membro da respectiva secção.
 
-###### Art. 30.º Quando a interdisciplinaridade das matérias a apreciar pelas secções do conselho consultivo o aconselhe, o vice-presidente do IPPC poderá determinar a realização de sessões conjuntas de 2 ou mais secções.
+Art. 30.º Quando a interdisciplinaridade das matérias a apreciar pelas secções do conselho consultivo o aconselhe, o vice-presidente do IPPC poderá determinar a realização de sessões conjuntas de 2 ou mais secções.
 
-###### Art. 31.º - 1 - As secções do conselho consultivo só podem deliberar quando esteja presente a maioria do número legal dos seus membros com direito a voto.
+Art. 31.º - 1 - As secções do conselho consultivo só podem deliberar quando esteja presente a maioria do número legal dos seus membros com direito a voto.
 
 2 - Não comparecendo o número de membros exigido para o funcionamento da secção será convocada nova reunião, com intervalo, pelo menos, de 24 horas, podendo a secção deliberar na nova reunião, havendo urgência, desde que esteja presente um terço dos membros com direito a voto, em número nunca inferior a 3.
 
-###### Art. 32.º - 1 - De cada reunião será lavrada acta, que conterá um resumo de tudo o que tiver ocorrido, indicando, designadamente, a data e local da reunião, os membros a ela presentes, os assuntos apreciados, as deliberações tomadas e o resultado das respectivas votações.
+Art. 32.º - 1 - De cada reunião será lavrada acta, que conterá um resumo de tudo o que tiver ocorrido, indicando, designadamente, a data e local da reunião, os membros a ela presentes, os assuntos apreciados, as deliberações tomadas e o resultado das respectivas votações.
 
 2 - As actas são lavradas pelo secretário e postas à aprovação de todos os membros no final da respectiva reunião ou no início da seguinte, sendo assinadas, após a aprovação, por quem presidir à sessão e por quaisquer membros que o desejem.
 
 3 - Nos casos em que assim for deliberado, a acta será aprovada em minuta, no final da reunião a que disser respeito.
 
-###### Art. 33.º - 1 - Os membros do conselho consultivo presentes a qualquer sessão não podem abster-se de votar, sendo atribuído o voto de qualidade a quem couber a presidência da sessão.
+Art. 33.º - 1 - Os membros do conselho consultivo presentes a qualquer sessão não podem abster-se de votar, sendo atribuído o voto de qualidade a quem couber a presidência da sessão.
 
 2 - As declarações de voto são ditadas ou juntas à acta e submetidas à entidade que homologar o parecer.
 
-###### Art. 34.º Os pareceres serão assinados pelo relator e pelo membro do conselho consultivo a quem couber a presidência da sessão, devendo conter uma exposição do assunto a decidir e da solução proposta que tiver feito vencimento.
+Art. 34.º Os pareceres serão assinados pelo relator e pelo membro do conselho consultivo a quem couber a presidência da sessão, devendo conter uma exposição do assunto a decidir e da solução proposta que tiver feito vencimento.
 
-###### Art. 35.º - 1 - O presidente do IPPC, mediante proposta fundamentada, poderá criar um núcleo permanente nas secções que, pelo volume de trabalho e prazos de decisão sobre os pareceres, exijam uma constante apreciação de processos.
+Art. 35.º - 1 - O presidente do IPPC, mediante proposta fundamentada, poderá criar um núcleo permanente nas secções que, pelo volume de trabalho e prazos de decisão sobre os pareceres, exijam uma constante apreciação de processos.
 
 2 - O núcleo permanente é obrigatoriamente constituído pelo director do respectivo departamento, por 2 membros escolhidos de entre individualidades e pelos funcionários do IPPC que lhe sejam agregados.
 
 3 - O núcleo permanente prestará apoio técnico, através das informações que elabora, à respectiva secção.
 
-###### Art. 36.º - 1 - Será constituído um secretariado de apoio ao conselho consultivo, integrado por funcionários do IPPC, na directa dependência do vice-presidente do mesmo Instituto.
+Art. 36.º - 1 - Será constituído um secretariado de apoio ao conselho consultivo, integrado por funcionários do IPPC, na directa dependência do vice-presidente do mesmo Instituto.
 
 2 - Ao secretariado compete assegurar a distribuição de processos, zelar pelo cumprimento dos prazos estabelecidos e, em geral, assegurar o expediente administrativo das secções do conselho ou dos núcleos permanentes.
 
 3 - Poderá ser designado secretário do concelho consultivo um funcionário do IPPC, ao qual competirá coordenar a actividade do secretariado de apoio, assistir às reuniões do conselho e lavrar as respectivas actas.
 
-###### Art. 37.º - 1 - Sem prejuízo do disposto no artigo anterior, e por determinação da direcção do IPPC, poderão ser agregados, temporariamente, a qualquer das secções do conselho consultivo funcionários do referido Instituto para prestar apoio técnico.
+Art. 37.º - 1 - Sem prejuízo do disposto no artigo anterior, e por determinação da direcção do IPPC, poderão ser agregados, temporariamente, a qualquer das secções do conselho consultivo funcionários do referido Instituto para prestar apoio técnico.
 
 2 - Os funcionários agregados não terão direito a voto, mas poderão ditar ou juntar à acta os motivos da discordância sobre qualquer deliberação, nos termos do n.º2 do artigo 33.º
 
-###### Art. 38.º - 1 - As remunerações dos membros do conselho consultivo que não forem funcionários públicos serão estabelecidas por despacho conjunto dos Ministros das Finanças e do Plano e da Cultura.
+Art. 38.º - 1 - As remunerações dos membros do conselho consultivo que não forem funcionários públicos serão estabelecidas por despacho conjunto dos Ministros das Finanças e do Plano e da Cultura.
 
 2 - O serviço prestado pelos membros do conselho consultivo que forem funcionários públicos considera-se, para todos os efeitos, como exercício do cargo de que são titulares, sem prejuízo da atribuição de senhas de presença nos termos legais.
 
 3 - As remunerações a fixar de acordo com o n.º 1 atenderão ao trabalho de preparação de pareceres e ao número de presenças nas reuniões da secção.
 
-###### Art. 39.º As secções do conselho consultivo entrarão em funcionamento à medida que forem exarados os despachos de nomeação e desde que esteja assegurada a presença de 5 membros em cada secção.
+Art. 39.º As secções do conselho consultivo entrarão em funcionamento à medida que forem exarados os despachos de nomeação e desde que esteja assegurada a presença de 5 membros em cada secção.
 
-###### Art. 40.º É revogada a [Portaria n.º 16/81](https://diariodarepublica.pt/dr/detalhe/portaria/16-1981-570355), de 9 de Janeiro, que aprovou o anterior Regulamento do Conselho Consultivo do IPPC.
+Art. 40.º É revogada a [Portaria n.º 16/81](https://diariodarepublica.pt/dr/detalhe/portaria/16-1981-570355), de 9 de Janeiro, que aprovou o anterior Regulamento do Conselho Consultivo do IPPC.

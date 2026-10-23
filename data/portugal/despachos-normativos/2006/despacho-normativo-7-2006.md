@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/7/2006/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2006-551834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d05ae8a24c5217a74d6eb42924ac5745689654fb30c7eac8a0b7f60a546884f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6c2a9af332e2c6e81c3b5cee84db3c30bc421d58ccd5a68712e73991ccaeceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Cidadão Estrangeiro
+- Definição de Competências
+- Ensino Básico
+- Faculdade de Letras
+- Língua Estrangeira
 - Língua Portuguesa
 - Plano de Estudos
-- Definição de Competências
-- Faculdade de Letras
 - Universidade de Lisboa
-- Língua Estrangeira
-- Ensino Básico
-- Avaliação de Conhecimentos
 relationships:
 - type: amended_by
   target: pt:dre:829810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:829810:por
+  label: "Alterados os nºs. 3º, 4º, 5º e 6º pelo DN.12/2011.22.08.2011.SEEBS-MECI, DR.IIS [160] de 22.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2011-829810
+  date: '2011-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2002/10/17/p/dre
   label: null
@@ -89,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/2001/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/2001/01/18/p/dre
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:59Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/007b00/00720074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/2/2000/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2000-514582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e966ef5d9d29114fb3ab87cabeb6ad1c73c0f4dd5741ef6b552b6f5071d68b52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600149d8a9d0818e6f7fde542ab7e4a65d9a3f0dca2b1eadac863a8d43ed74d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Carne de Vaca
+- Financiamento
 - Gado Bovino
 - Política Agrícola Comum
 - Prémio aos Produtores de Bovinos Machos
@@ -76,6 +76,39 @@ relationships:
   target: pt:dre:3463773:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405920:por
+  label: "Alterados os nºs 9º, 10º e 24º pelo DN.8/2000.2000.01.11.MADRP DR.IS-B [26] de 01/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2000-405920
+  date: '2000-01-11'
+- type: amended_by
+  target: pt:dre:540857:por
+  label: "Aditados os nºs 22º-A e 22º-B e alteradas a al g) do nº 1 do nº 8º e o nº 9º pelo DN.43/2000.2000.07.31.MADRP,DR.IS-B\
+    \ [237] de 13/Out/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-2000-540857
+  date: '2000-07-31'
+- type: amended_by
+  target: pt:dre:401748:por
+  label: "Aditado um nº 19 e alterado o nº 2, pelo DN.12/2001.2001.02.14.MADRP, DR.IS-B [58] de 09/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2001-401748
+  date: '2001-02-14'
+- type: amended_by
+  target: pt:dre:301066:por
+  label: "Aditados os n.ºs 10.º-A, 12.º-A, 17.º-A e os n.ºs 4 ao n.º 19.º-A e 3 ao n.º 20.º, pelo DN.17/2002.2002.02.28.MADRP\
+    \ DR.IS-B [78] DE 03/ABR/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2002-301066
+  date: '2002-02-28'
+- type: amended_by
+  target: pt:dre:240779:por
+  label: "Alterado o nº 8º e aditado um nº 19º-A pelo DN.18/2003.2003.03.25.MADRP DR.IS-B [96] de 24/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-2003-240779
+  date: '2003-03-25'
+- type: amended_by
+  target: pt:dre:589931:por
+  label: "Alterado o n.º 8 e o n.º 5 do n.º 19.º-A e revogados os n.ºs 1.º e 2.º,na redacção do DN 18/2003 de 25-Mar , pelo\
+    \ DN.7/2004.13.01.2004.MADRP, DR.IS-B [25] de 30.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2004-589931
+  date: '2004-01-13'
 - type: cites
   target: celex:31968R0805
   label: null
@@ -104,16 +137,21 @@ relationships:
   target: celex:31999R2342
   label: null
   source: http://data.europa.eu/eli/reg/1999/2342/oj
+- type: repealed_by
+  target: pt:dre:3463773:por
+  label: "Revogado pelo DN.6/2011.30.03.2011.MADRP, DR.IIS [63] de 30.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2011-3463773
+  date: '2011-03-30'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:27Z'
   warnings: []
   errors: []
 ---

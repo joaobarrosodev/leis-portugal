@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/961-1985-169660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8cf909c77e198ce685cb2e1710b8f7b851366321981f694c4cad353eb379e88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4698861ddb814c119128cabb06ec5bf0e21f1395441413cbef23e2dba529e6dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CÃO
+- Contra-ordenação
+- Contravenção
+- Direcção Geral da Pecuária
+- Direcção Regional de Agricultura
+- Doença Animal
+- Gato
+- Multa
+- Raiva
+- Regulamento
+- Saúde Pública
+- Taxa
+- Vacinação
+relationships:
+- type: cites
+  target: pt:dre:179824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406960:por
+  label: Rectificada pela DECL.DD4560.04.02.1986.PCM, DR.IS [49-2ºSupl] de 28.02.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-406960
+  date: '1986-02-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:33Z'
   warnings: []
   errors: []
 ---
@@ -196,6 +230,6 @@ c) O quintuplicado ficará nos arquivos dos médicos veterinários encarregados 
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 11 de Dezembro de 1985.**
+Assinada em 11 de Dezembro de 1985.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

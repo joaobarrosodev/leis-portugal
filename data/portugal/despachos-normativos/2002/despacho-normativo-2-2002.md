@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/016b00/04510454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/2/2002/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2002-234943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eed6be07651a893dd216e834770e3a4947dbe19f0b07b4e23cc94f5914205115
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08dcfef3b28f7dacfebbcf08a4eac7e4fda16e7182be31d1a6d382039302818f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Acreditação
 - Batata
-- Organismo Geneticamente Modificado
+- Comércio
 - Controlo de Qualidade
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
+- Embalagem
 - Fiscalização
 - Licenciamento
-- Embalagem
+- Organismo Geneticamente Modificado
 - Produção Agrícola
 - Produção Vegetal
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:73807561:por
@@ -87,16 +87,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/216/2001/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/216/2001/08/03/p/dre
+- type: cites
+  target: pt:dre:375406:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73807561:por
+  label: Revogado pelo(a) Decreto-Lei n.º 14/2016 - Diário da República n.º 48/2016, Série I de 2016-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2016-73807561
+  date: '2016-03-09'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:40Z'
   warnings: []
   errors: []
 ---

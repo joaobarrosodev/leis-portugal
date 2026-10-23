@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/37/2000/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-2000-582415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8f6ded30f0c161aa504a7ec25e21d3233bcae9a8b3fc4eac8730d2b001b6367
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b8b89b7f9e8c2399e3e3ef49d02b3b9b8b5bc9828885efaba8530715b10d179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
+- Cultura
 - Definição de Competências
+- Ensino Superior
 - Estatuto
+- Investigação Científica e Tecnológica
 - Iscte
 - Tecnologia
-- Cultura
-- Ensino Superior
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:334606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
+  article_count: 60
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:55Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +233,9 @@ O ISCTE dispõe de insígnias, bandeira, logótipo e traje académico próprios,
 
 ### CAPÍTULO II — Dos órgãos de governo e coordenação do ISCTE
 
-#### SECÇÃO I — Artigo 12.º
+#### SECÇÃO I
+
+###### Artigo 12.º
 
 Enumeração
 
@@ -739,7 +749,9 @@ c) Um representante da Associação dos Antigos Alunos do ISCTE.
 
 ### CAPÍTULO III — Das unidades descentralizadas
 
-#### SECÇÃO I — Artigo 35.º
+#### SECÇÃO I
+
+###### Artigo 35.º
 
 Enumeração
 
@@ -1041,7 +1053,7 @@ j) O Gabinete de Informação e Relações Externas.
 
 ###### Artigo 54.º — Direito à informação
 
-**O presidente promoverá a divulgação dos Estatutos do ISCTE e dos regulamentos decorrentes da sua aplicação.**
+O presidente promoverá a divulgação dos Estatutos do ISCTE e dos regulamentos decorrentes da sua aplicação.
 
 ###### Artigo 55.º — Direito de recurso
 

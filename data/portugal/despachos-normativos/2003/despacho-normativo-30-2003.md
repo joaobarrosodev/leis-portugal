@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/30/2003/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2003-671656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 359a84e49eb75b0dea4cdc06f4dea5de76d6c49cbcf07559da3621d168fdf4d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b79ccc47f6d1c428add0d9d1d9056958271c0441539c7b4da64cc1934590a17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Gado Caprino
 - Exploração Pecuária
-- Orientação Agrícola
+- Gado Caprino
 - Gado Ovino
-- Regulamento CE
+- Orientação Agrícola
 - Pecuária
+- Produção Animal
+- Regulamento CE
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:525604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:525604:por
+  label: "Aditado o art. 12.º-A ao DN 37/2002, de 01-Jul alterado pelo presente diploma, pelo DN.33/2004.29.06.2004.MADRP,\
+    \ DR.IS-B [169] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/33-2004-525604
+  date: '2004-06-29'
 - type: cites
   target: celex:32001R2529
   label: null
@@ -94,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:11Z'
   warnings: []
   errors: []
 ---
@@ -151,14 +157,14 @@ Raças caprinas:
 
 Serrana.
 
-## ANEXO II — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
+## ANEXO II — [[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
 
-## ANEXO II-A — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
+## ANEXO II-A — [[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
 
 ## ANEXO III — Incentivo ao contraste de performance
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
 
 ## ANEXO IV — Incentivo ao contraste leiteiro
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40074008.pdf)

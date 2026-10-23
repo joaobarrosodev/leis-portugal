@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/003b00/00590059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/1/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2002-584833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19f5d75537036d58e38d8493f90336d6d444746b36c9131193340046576cc186
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8d78dacd7d37820a39d0622a76846c1dfd5fbe3471057f15c6f0ce3a5efec43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,23 @@ relationships:
   target: pt:dre:625004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424919:por
+  label: "Alterado o nº 5 pelo DN.50/2002.2002.10.08.MADRP, DR.IS-B [256] de 6/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-2002-424919
+  date: '2002-10-08'
+- type: amended_by
+  target: pt:dre:391645:por
+  label: "Altera o nº 1 do art. 5º pelo DN.55/2002.2002.12.09.MADRP, DR.IS-B [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/55-2002-391645
+  date: '2002-12-09'
+- type: amended_by
+  target: pt:dre:525194:por
+  label: "Fixado novo calendário para a apresentação de declarações prévias de intenção de plantar (DPIP) e interrompido o\
+    \ prazo de caducidade das DPIP válidas até 21 de Julho de 2004, pelo DN.31/2004.29.06.2004.MADRP, DR.IS-B [168] de 19.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/31-2004-525194
+  date: '2004-06-29'
 - type: cites
   target: celex:31966R0136
   label: null
@@ -96,16 +113,21 @@ relationships:
   target: celex:32001R0648
   label: null
   source: http://data.europa.eu/eli/reg/2001/648/oj
+- type: repealed_by
+  target: pt:dre:625004:por
+  label: "Revogado pelo DN.6/2005.20.12.2004.MAPF, DR.IS-B [12] de 18.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2005-625004
+  date: '2004-12-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:26Z'
   warnings: []
   errors: []
 ---

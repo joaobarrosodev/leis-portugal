@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42/2001/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2001-584214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7c73f1f5d4de41fb1af2fe65bbe9b9feeb48b5399ed9a2e0da845ca57ff1927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a2ae5b29e6d64eaf294000166f87d2f4855b631d770b17ba0f9ee0f8fa5b74b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2001/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2001/03/28/p/dre
+- type: cites
+  target: pt:dre:179992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 62
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:12Z'
   warnings: []
   errors: []
 ---
@@ -1084,7 +1108,7 @@ Sem prejuízo do disposto no [Decreto-Lei n.º 205/95](https://diariodarepublica
 
 ###### Artigo 61.º — Eleição dos restantes órgãos
 
-**O presidente do conselho directivo, no prazo de 30 dias após a tomada de posse, desencadeia todos os processos eleitorais dos restantes órgãos cuja constituição dependa de eleições.**
+O presidente do conselho directivo, no prazo de 30 dias após a tomada de posse, desencadeia todos os processos eleitorais dos restantes órgãos cuja constituição dependa de eleições.
 
 ###### Artigo 62.º — Entrada em vigor
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/38/2002/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-2002-198542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 528ad2ed56ea040729df794640e96acd6c6aacf2e7c0c019baf6532594d870d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65269015e09f9f8a46667e98a5b4b7bec2036e44a210a9431be1308e25eedcb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Armador
+- Cessação de Actividade
+- Embarcação de Pesca
 - Financiamento
+- Frota de Pesca
+- Marrocos
+- Pesca
 - Pescador
 - Pessoal do MAR
-- Cessação de Actividade
-- União Europeia
-- Frota de Pesca
-- Pesca
-- Marrocos
-- Armador
 - Regime de Apoio
 - Regulamento
-- Embarcação de Pesca
 - Subsídio não Reembolsável
 - Trabalhador
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:302516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302516:por
+  label: "Prorrogado, até 31 de Maio de 2004, o prazo de apresentação de candidaturas aos apoios previstos no Regulamento\
+    \ dos Prémios Fixos Individuais aos Trabalhadores da Pesca Afectados pela Modernização/Reconversão das Embarcações para\
+    \ o ano de 2002, aprovado pelo presente diploma, pela PORT.503/2004.10.05.2004.MADRP, DR.IS-B [109] de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-2004-302516
+  date: '2004-05-10'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -92,13 +99,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:03Z'
   warnings: []
   errors: []
 ---

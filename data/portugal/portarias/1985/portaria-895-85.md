@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1985-170320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ac0f88f2232d195ceb8222d47f5f9468035dbe1608bbf7bf6443555b70561f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d0366ea9de2c16cca2f9cf21c51d5c5a5f7ee3288c7eb0b10a807bc2870ca79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Licença de Transporte
+- Transporte de Mercadorias
+- Transporte Internacional
 relationships:
 - type: amended_by
   target: pt:dre:421830:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421830:por
+  label: "Alterados os nºs 4 e 7 do nº 2, revogada a al. b) do nº 9 e acrescentados os nºs 10 e 11, pela PORT.465/87.1987.06.03.MOPTC,\
+    \ DR.IS [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-1987-421830
+  date: '1987-06-03'
+- type: cites
+  target: pt:dre:170317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:58Z'
   warnings: []
   errors: []
 ---
@@ -180,6 +202,6 @@ b) Até 31 de Dezembro de 1989, realizar transportes com destino a Espanha em ve
 
 Ministério do Equipamento Social.
 
-**Assinada em 11 de Setembro de 1985.**
+Assinada em 11 de Setembro de 1985.
 
-**O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro do Equipamento Social, Carlos Montez Melancia.

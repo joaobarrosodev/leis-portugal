@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/37/2002/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-2002-141581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d9a0b94b21658a4d8a963bb2781785dfee7db868019836a3ec2e68f3997d36a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66937b6b42477908090f63c486a465bd80dcb60c44ef2813b73c660cf1d33235
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:525604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:525604:por
+  label: "Aditado o art. 12.&#186;-A ao presente diploma, na redac&#231;&#227;o do DN. 30/2003, de 14-Jul, pelo DN.33/2004.29.06.2004.MADRP,\
+    \ DR.IS-B [169] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/33-2004-525604
+  date: '2004-06-29'
 - type: cites
   target: celex:32001R2419
   label: null
@@ -87,16 +93,28 @@ relationships:
   target: celex:32001R2550
   label: null
   source: http://data.europa.eu/eli/reg/2001/2550/oj
+- type: corrected_by
+  target: pt:dre:303623:por
+  label: "Rectificado pela DECL-RECT.26-B/2002.2002.07.15.PCM, DR.IS-B [175]4ºSupl de 31/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-b-2002-303623
+  date: '2002-07-15'
+- type: repealed_by
+  target: pt:dre:671656:por
+  label: "Revogado o nº 4º e alterado o nº 2 do nº 6º deste diploma, e substituídos o anexo I - a partir de 1 de Julho de\
+    \ 2003 - e os anexos II, III e IV, e aditado o anexo II-A, que a partir de 1 de Julho de 2003 substituirá o anexo II,\
+    \ pelo DN.30/2003.2003.06.24.MADRP DR.IS-B [160] de 14/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-2003-671656
+  date: '2003-06-24'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:03Z'
   warnings: []
   errors: []
 ---
@@ -217,12 +235,12 @@ Serpentina;
 
 Serrana.
 
-## ANEXO II — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)
+## ANEXO II — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)
 
 ## ANEXO III — Incentivo ao contraste de performance
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)
 
 ## ANEXO IV — Incentivo ao contraste leiteiro
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)

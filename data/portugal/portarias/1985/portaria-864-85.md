@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/864-1985-171923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc9c4a1341afc400a2e0336a6c15b3a9f7b1b2a645f7499362d05327c9845317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac819e4dd6fec12b2f899e7a0157319aac3f96e4a75d6e26fbd5c96e367470c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:221536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196192:por
+  label: "Alterado o quadro de pessoal pela PORT.110/86.1986.03.29.MF, DR.IS [73] de 29/Mar/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-1986-196192
+  date: '1986-03-29'
+- type: amended_by
+  target: pt:dre:218921:por
+  label: "Aumentado o quadro de pessoal anexo, pela PORT.438/86.12.08.1986.MF, DR.IS [184] de 12.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-1986-218921
+  date: '1986-08-12'
+- type: amended_by
+  target: pt:dre:221536:por
+  label: "Aumentado lugares ao quadro de pessoal anexo, pela PORT.719/86.28.11.1986.MF, DR.IS [275] de 28.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/719-1986-221536
+  date: '1986-11-28'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389833:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546401:por
+  label: Rectificada pela DECL.DD5202.16.12.1985.PCM, DR.IS [301]2ºSupl de 31.12.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-546401
+  date: '1985-12-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:05Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +143,10 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Admini
 
 Secretarias de Estado da Administração Pública e do Orçamento.
 
-**Assinada em 28 de Outubro de 1985.**
+Assinada em 28 de Outubro de 1985.
 
-**O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.**
+O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.
 
 Quadro de pessoal a que se refere a Portaria n.º 864/85, de 15 de Novembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26300/38253827.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26300/38253827.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26300/38253827.pdf)

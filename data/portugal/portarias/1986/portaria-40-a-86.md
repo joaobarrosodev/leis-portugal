@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 24/1986, 1º Suplemento, Série I de 1986-01-29
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 292-(1) a 292-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/01/02401/00010006.pdf
 entry_into_force_dates: []
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-a-1986-664307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:47:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ae9706c82ff9bb20f1104d8d31f56b7ec1a751db5f8eb2621c0b317f5a2dfbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fe18306e35498a88357306d11bc1450074d91ec73332c9ed39ad4fef543630f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:47:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração do Porto de Sines
+- Portos
+- Regulamento
+- Sines
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:348336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513874:por
+  label: "Aditado o n.º 5 ao artigo 13.º e n.º 3 ao artigo 19.º do anexo ao presente diploma, pela PORT.925-A/87.04.12.1987.MOPTC,\
+    \ DR.IS [279]Supl de 04.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-a-1987-513874
+  date: '1987-12-04'
+- type: amended_by
+  target: pt:dre:284891:por
+  label: "Alterados os artigos 9.º, 13.º, 14.º, 16.º e 19.º do Regulamento, na redacção da Portaria 925-A/87, de 4 de Dezembro,\
+    \ pela PORT.1110-I/89.28.12.1989.MOPTC, DR.IS [297]Supl de 28.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1110-i-1989-284891
+  date: '1989-12-28'
+- type: amended_by
+  target: pt:dre:508596:por
+  label: "Alterados os artigos 9.º, 13.º, 14.º, 16.º e 19.º do Regulamento, pela PORT.75/91.28.01.1991.MOPTC, DR.IS-B [23]\
+    \ de 28.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-1991-508596
+  date: '1991-01-28'
+- type: amended_by
+  target: pt:dre:200014:por
+  label: "Alterados os artigos 9.º, 13.º, 14.º, 16.º e 19.º do Regulamento, pela PORT.343/92.13.04.1992.MM, DR.IS-B [87] de\
+    \ 13.04.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1992-200014
+  date: '1992-04-13'
+- type: amended_by
+  target: pt:dre:286929:por
+  label: "Alterado o artigo 19.º, aditada uma alínea ao n.º 1 do artigo 13.º e o artigo 19.º-A ao Regulamento, pelo PORT.4/93.02.01.1993.MM,\
+    \ DR.IS-B [1] de 02.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1993-286929
+  date: '1993-01-02'
+- type: amended_by
+  target: pt:dre:485583:por
+  label: "Alterados os artigos 9.º, 11.º, 13.º, 14.º, 16.º e 19.º do Regulamento, na redacção da 343/92, de 13 de Abril, pela\
+    \ PORT.240/93.27.02.1993.MM, DR.IS-B [49]Supl de 27.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/240-1993-485583
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 9.º, 11.º, 13.º, 14.º, 16.º, 19.º, 19.º-A e 20.º do Regulamento, na redacção das Portarias\
+    \ 343/92, 4/93 e 240/93, de 13 de Abril, 2 de Janeiro e 27 de Fevereiro, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26]Supl\
+    \ de 01.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
+- type: cites
+  target: pt:dre:309905:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599755:por
+  label: "Revogado o art. 7º pelo DEC LEI.8/87.06.01.1987.MOPTC, DR.IS [4] de 06.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1987-599755
+  date: '1987-01-06'
 article_structure:
   article_count: 1
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:47:51Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +168,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças da Indú
 
 Ministérios das Finanças, da Indústria e Comércio e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 30 de Janeiro de 1986.**
+Assinada em 30 de Janeiro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 Regulamento de Tarifas e Taxas da Administração do Porto de Sines
 

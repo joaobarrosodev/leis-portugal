@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/008b00/01640164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/2/2004/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2004-241041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cea7cfb67d9459c095b6a14ac19d896f4cdc7dd59eafb25c036186f7ee08031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aba87c34bf600a5f596ab0b436d7c10dc5925e9f27d2a73c178801469202074a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
 subjects:
 - Agrupamento de Produtores
 - Organização Comum do Tabaco
-- Tabaco
 - Orientação Agrícola
 - Prémio aos Produtores de Tabaco
 - Quota de Produção
 - Regulamento CE
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:608035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608035:por
+  label: "Alterados os n.ºs 2 do n.º 2.º e 2 do n.º 8.º do DN 17/2001, de 12-Mar, alterados pelo presente diploma, pelo DN.14/2005.02.02.2005.MAPF,\
+    \ DR.IS-B [39] de 24.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2005-608035
+  date: '2005-02-02'
 - type: cites
   target: celex:31992R2075
   label: null
@@ -90,16 +96,21 @@ relationships:
   target: celex:32002R0546
   label: null
   source: http://data.europa.eu/eli/reg/2002/546/oj
+- type: repealed_by
+  target: pt:dre:608035:por
+  label: "Revogado pelo DN.14/2005.02.02.2005.MAPF, DR.IS-B [39] de 24.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2005-608035
+  date: '2005-02-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:56Z'
   warnings: []
   errors: []
 ---

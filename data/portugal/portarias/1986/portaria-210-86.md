@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10900/11131115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-1986-227601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a1ed3623758afac8c5bb06ad107f9f22e785de1e7baef25ba46c7142c0a5d78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 735113b2aaebe67a1692c1c2f35a184fa85a6bde02e6fc0334b1eea7e19c2b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avença Postal
+- CTT
+- Direcção Geral da Comunicação Social
+- Imprensa Regional
+- Porte PAGO
+- Publicação
 relationships:
 - type: amended_by
   target: pt:dre:338022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221513:por
+  label: "Prorrogado o prazo referido no nº. 17º e revogada a al. c) do nº. 7º pela PORT.726/86.03.12.1986.PCM, DR.IS [278]\
+    \ de 03.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1986-221513
+  date: '1986-12-03'
+- type: cites
+  target: pt:dre:168803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:338022:por
+  label: "Revogada pela PORT.414-A/87.1987.05.18.PCM, DR.IS [113]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-a-1987-338022
+  date: '1987-05-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:48Z'
   warnings: []
   errors: []
 ---
@@ -165,6 +190,6 @@ l) Que não cumpram o disposto na presente portaria ou oponham entraves à obten
 
 Secretarias de Estado dos Assuntos Parlamentares, do Orçamento e dos Transportes e Comunicações.
 
-**Assinada em 14 de Abril de 1986.**
+Assinada em 14 de Abril de 1986.
 
-**O Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares, Luís Manuel Gonçalves Marques Mendes. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado dos Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga.**
+O Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares, Luís Manuel Gonçalves Marques Mendes. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado dos Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga.

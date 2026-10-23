@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-1986-227586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1a3efb2dbe850d91ae438d69b9d850ef1aeaaae6f96185f680b55a3e5ab7d71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3afc6b7699142f03da3ab1441d5643032765098899ccb09e8793b30ba9b3d37d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alimento para Animais
+- Comércio
+relationships:
+- type: cites
+  target: pt:dre:451821:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:41Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +139,7 @@ Verificação do conteúdo efectivo
 
 a) Para verificação do conteúdo efectivo das unidades de um lote constituem-se as amostras a seguir indicadas em função do efectivo do lote e colhidas ao acaso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf)
 
 b) A verificação do conteúdo efectivo de um lote com efectivo inferior a 100 unidades será feita em todas as unidades que constituem esse lote.
 
@@ -147,7 +153,7 @@ c) Quando a verificação do conteúdo efectivo de um lote for efectuada no fim 
 
 a) Em função do efectivo do lote, serão utilizados os seguintes limites de aceitação e rejeição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf)
 
 b) Para efectivos do lote inferiores a 100, o limite de aceitação será 1 e o de rejeição 2.
 
@@ -189,11 +195,11 @@ para efectivos de lote superiores a 500.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 16 de Abril de 1986.**
+Assinada em 16 de Abril de 1986.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
-## Anexo à Portaria n.º 206/86
+Anexo à Portaria n.º 206/86
 
 Cálculo do desvio padrão
 

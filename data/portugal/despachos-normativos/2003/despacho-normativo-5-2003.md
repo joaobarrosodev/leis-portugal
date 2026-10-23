@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/2003/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2003-189092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a578708906cf2ae86f009f540e710f3138210bd4014b89d38a6508ca7c3fb3f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cced33f3c2529cf30f299ed6b1313fa243fbc452ff316911fa1c7a462280a90d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Apoio ao Investimento
 - Aquisição de Equipamento
-- Financiamento
 - Equipamento de Pesca
 - Equipamento Portuário
+- Financiamento
+- Intervenção Operacional Pescas
 - Pesca
-- Apoio ao Investimento
 - QCA III
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento de Aplicação da Medida Equipamentos de Portos de Pesca
 - Subsídio
 relationships:
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/33/2001/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/33/2001/08/06/p/dre
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:36Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +155,9 @@ q) Despesas gerais de investimento, nomeadamente com imprevistos, acréscimos de
 
 ...
 
-###### Artigo 10.º — Despesas não elegíveis
+Artigo 10.º
+
+Despesas não elegíveis
 
 Não são elegíveis, para efeitos de concessão de apoio, as seguintes despesas:
 
@@ -145,13 +167,17 @@ g) Aquisição de equipamentos móveis de comunicações, material e mobiliário
 
 ...
 
-###### Artigo 13.º — Apreciação e decisão
+Artigo 13.º
+
+Apreciação e decisão
 
 ...
 
 4 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 14.º — Atribuição dos apoios
+Artigo 14.º
+
+Atribuição dos apoios
 
 ...
 
@@ -161,11 +187,13 @@ g) Aquisição de equipamentos móveis de comunicações, material e mobiliário
 
 ...
 
-## ANEXO I — (a que se refere o artigo 8.º)
+ANEXO I
+
+(a que se refere o artigo 8.º)
 
 a) Pontuação base da avaliação sectorial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)
 
 b) [...]
 
@@ -183,7 +211,9 @@ Despesas elegíveis
 
 r) Projectos técnicos, despesas de fiscalização contratadas a entidade independente do dono da obra e outras despesas incorpóreas indispensáveis à realização dos demais trabalhos.
 
-###### Artigo 13.º — Apreciação e decisão
+Artigo 13.º
+
+Apreciação e decisão
 
 ...
 
@@ -513,8 +543,8 @@ No caso das candidaturas a que se refere o n.º 1 do artigo 17.º do [Decreto-Le
 
 a) Pontuação base da avaliação sectorial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)
 
 b) Majorações da avaliação sectorial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)](https://files.diariodarepublica.pt/1s/2003/02/041b00/10881093.pdf)

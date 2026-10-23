@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/64/1999/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/64-1999-643075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6f36b5eee16fd1c6230cef63b1ac26045b16b544d4d0c3fd1bafda4b9ed1490
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df6920c70868afdd5f088eb830953a33f8f88f375cf6984091842b2746dec33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Financiamento
-- Cereal
-- Oleaginosas
-- Exploração Florestal
 - Agricultor
+- Ajuda Comunitária
+- Cereal
+- Exploração Florestal
+- Financiamento
+- Oleaginosas
 - Produção Agrícola
 - Regime de Apoio
 - Subsídio a Agricultores
@@ -79,6 +79,36 @@ relationships:
   target: pt:dre:3577409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522851:por
+  label: "Alterado pelo DN.21/2000.2000.03.22.MADRP DR.IS [94] 20/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-2000-522851
+  date: '2000-03-22'
+- type: amended_by
+  target: pt:dre:315522:por
+  label: "Alterado o nº 5 do cap. I, o nº 9 do cap. III, a al b) do nº 10 do cap. III, aditada a al c) ao nº 3 do cap. I,\
+    \ o cap. VII e o nº 37 ao actual cap. VIII pelo DN.7/2001.2001.01.18.MADRP,DR.IS-B [28] de 02/Fev/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2001-315522
+  date: '2001-01-18'
+- type: amended_by
+  target: pt:dre:401738:por
+  label: "Derrogado, a título excepcional e transitório para aplicação na campanha de comercialização de 2001-2002, disposições\
+    \ do nº 13 e do nº 24 e aditada a al. e) ao nº 21, pelo DN.13/2001.2001.02.14.MADRP, DR.IS-B [58] de 09/Mar/2001\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2001-401738
+  date: '2001-02-14'
+- type: amended_by
+  target: pt:dre:521394:por
+  label: "Derrogado até 30 de Junho o nº 5 do presente diploma, nos termos do disposto no nº 1 do DN.34/2001.2001.07.18.MADRP\
+    \ DR.IS-B [182] DE 07/AGO/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2001-521394
+  date: '2001-07-18'
+- type: amended_by
+  target: pt:dre:186485:por
+  label: "Derrogado relativamente a algumas das condições de elegibilidade das culturas, durante a época de 2002-2003 e transitoriamente\
+    \ para a campanha de comercialização de 2003-2004, o disposto no nº 5 deste diploma, pelo DN.7/2003.2003.01.31.MADRP DR.IS-B\
+    \ [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2003-186485
+  date: '2003-01-31'
 - type: cites
   target: celex:31992R3887
   label: null
@@ -99,16 +129,31 @@ relationships:
   target: celex:31999R2316
   label: null
   source: http://data.europa.eu/eli/reg/1999/2316/oj
+- type: corrected_by
+  target: pt:dre:585188:por
+  label: "Rectificado pela DECL-RECT.5-E/2000.2000.02.29.PCM DR.IS-B [50]3ºSupl de 29/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-e-2000-585188
+  date: '2000-02-29'
+- type: repealed_by
+  target: pt:dre:616238:por
+  label: "Revogado pelo DN.37/2001.2001.09.12.MADRP,DR.IS-A [229], a partir da entrada em vigor deste último. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/37-2001-616238
+  date: '2001-09-12'
+- type: repealed_by
+  target: pt:dre:3577409:por
+  label: "Revogado pelo DN.26/2008.30.04.2008.MADRP, DR.IIS [84] de 30.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-2008-3577409
+  date: '2008-04-30'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:55Z'
   warnings: []
   errors: []
 ---
@@ -315,31 +360,31 @@ Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 4 de Novembro
 
 I - Direcção Regional de Agricultura de Entre Douro e Minho
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 II - Direcção Regional de Agricultura de Trás-os-Montes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 III - Direcção Regional de Agricultura da Beira Litoral
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 IV - Direcção Regional de Agricultura da Beira Interior
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 V - Direcção Regional de Agricultura do Ribatejo e Oeste
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 VI - Direcção Regional de Agricultura do Alentejo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 VII - Direcção Regional de Agricultura do Algarve
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
 
 ## ANEXO II
 
@@ -449,4 +494,4 @@ Nota. - V. limites demarcados na carta militar de Portugal, à escala de 1:25000
 
 ## ANEXO III — Disponibilidades mínimas de água para elegibilidade das culturas arvenses em regadio
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83708387.pdf)

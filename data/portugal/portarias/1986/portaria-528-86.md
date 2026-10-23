@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21400/25812599.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-1986-222027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 915431ebb405e13e1d885450403a116552e5db4d19ac07ca7b5f5b28431cf51a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53b324fd456cea904d7f465210c8083d8b7b18763a98ed89fa5605ed41199e01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Professores do Ensino Básico Variante Educação Física
+- Curso de Professores do Ensino Básico Variante Educação Visual
+- Curso de Professores do Ensino Primário
+- Ensino Superior Politécnico
+- Leiria
 relationships:
 - type: amended_by
   target: pt:dre:356688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT DD788/86 DE 14-NOV DR.IS (276]SUPL DE 29/NOV/1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-11-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A DENOMINAÇÃO DO CURSO DE PROFESSORES DO ENSINO BASICO VARIANTE EDUCAÇÃO VISUAL, PARA CURSO DE PROFESSORES
+    DO ENSINO BASICO VARIANTE EDUCAÇÃO VISUAL E TECNOLÓGICA, BEM COMO O RESPECTIVO PLANO DE ESTUDOS, PELA PORTARIA 99/94,
+    DE 09-FEV DR.IS-B [33]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS E A DESIGNAÇÃO DO CURSO DE PROFESSORES DO ENSINO PRIMÁRIO, QUE PASSA A DESIGNAR-SE CURSO\
+    \ DE PROFESSORES DO PRIMEIRO CICLO DO ENSINO BASICO, E REVOGADO O ANEXO II, PELA PORT 508/95 DE 27-MAI DR.IS-B [123]\0\
+    A PORT 508/95 DE 27-MAI DR.IS-B [123]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-27'
+- type: amended_by
+  target: pt:dre:149431:por
+  label: "Alterado o anexo I pela Port.541/97.1997.07.23.ME, DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/541-1997-149431
+  date: '1997-07-23'
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578323:por
+  label: Retificada pelo(a) Declaração - Diário da República n.º 276/1986, 1º Suplemento, Série I de 1986-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-578323
+  date: '1986-11-29'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ANEXO IV PELA PORT 497/95 DE 24-MAI DR.IS-B [120]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-24'
+- type: repealed_by
+  target: pt:dre:356688:por
+  label: "Revogada pela PORT.509/99.1999.07.16.ME DR.IS-B [164], sem prejuízo do processo de transição a que se refere o n.º\
+    \ 7 da norma revogatória.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/509-1999-356688
+  date: '1999-07-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:16Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +195,8 @@ Os cursos a que se refere o n.º 1.º iniciarão o seu funcionamento no ano lect
 
 Ministério da Educação e Cultura.
 
-**Assinada em 19 de Agosto de 1986.**
+Assinada em 19 de Agosto de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21400/25812599.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21400/25812599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21400/25812599.pdf)

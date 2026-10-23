@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/12/2000/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2000-402574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e82c3facf43e80411b0e1675c26d41697b41674f6f38637fc67c6b56ceb118a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b124ec8a7bb3cdf06976cee8835be53f40172e4ba5e885caec0f55fb5a7d76bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia de Escola
 - Autonomia Administrativa
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
 - Conselho Administrativo
 - Conselho Científico
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
+- Eleição
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
 - Estatuto
-- Conselho Diretivo
-- Conselho Consultivo
 - Ponta Delgada
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/1995/08/08/p/dre
+- type: cites
+  target: pt:dre:338377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 63
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:12Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +139,7 @@ Inserida numa região insular, a Escola Superior de Enfermagem tem contribuído 
 
 Vocacionada para o ensino de enfermagem, constitui necessariamente um pólo de desenvolvimento técnico, científico e cultural da comunidade açoriana, passando a reger-se pelos presentes Estatutos, que foram elaborados com base na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, e no [Decreto-Lei n.º 205/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1995-479387), de 8 de Agosto, e que definem o regime de autonomia e de gestão aplicável às escolas superiores de enfermagem.
 
-## TÍTULO I
+TÍTULO I
 
 Princípios gerais
 
@@ -363,7 +375,7 @@ d) Fixar a distribuição de tempos e ocupações da respectiva sala, com base n
 
 e) Garantir o cumprimento do respectivo regulamento interno.
 
-## TÍTULO II
+TÍTULO II
 
 Organização e funcionamento
 
@@ -501,7 +513,7 @@ O conselho directivo é constituído pelo presidente e por dois vice-presidentes
 
 ###### Artigo 32.º — Dedicação exclusiva
 
-**O presidente do conselho directivo exerce as suas funções em regime de dedicação exclusiva, podendo, no entanto, ser-lhe distribuído serviço docente a seu pedido.**
+O presidente do conselho directivo exerce as suas funções em regime de dedicação exclusiva, podendo, no entanto, ser-lhe distribuído serviço docente a seu pedido.
 
 ###### Artigo 33.º — Competências
 
@@ -777,7 +789,9 @@ b) Coordenar as actividades dos serviços e superintender o seu funcionamento;
 
 c) Desenvolver estudos para a gestão e outras funções atribuídas pelo conselho directivo.
 
-###### Artigo 50.º — Secção de Alunos
+###### Artigo 50.º
+
+#### Secção de Alunos
 
 À Secção de Alunos compete, entre outras atribuições:
 
@@ -791,7 +805,9 @@ d) Organizar e manter actualizado o arquivo dos processos individuais dos alunos
 
 e) Colaborar no processamento de documentos relativos aos alunos.
 
-###### Artigo 51.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 51.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 À Secção de Pessoal, Expediente e Arquivo compete, designadamente:
 
@@ -807,7 +823,9 @@ e) Velar pelo registo de entrada e saída da correspondência;
 
 f) Manter actualizado o arquivo relativo ao expediente geral da ESEnfPD.
 
-###### Artigo 52.º — Secção de Contabilidade
+###### Artigo 52.º
+
+#### Secção de Contabilidade
 
 1 - À Secção de Contabilidade compete, entre outras:
 
@@ -873,7 +891,7 @@ Sem prejuízo do disposto no [Decreto-Lei n.º 205/95](https://diariodarepublica
 
 ###### Artigo 61.º — Eleição dos restantes órgãos
 
-**O presidente do conselho directivo, eleito nos termos do disposto no artigo anterior, desencadeará todos os processos eleitorais dos restantes órgãos cuja constituição dependa de eleições, no prazo de 60 dias após a respectiva tomada de posse.**
+O presidente do conselho directivo, eleito nos termos do disposto no artigo anterior, desencadeará todos os processos eleitorais dos restantes órgãos cuja constituição dependa de eleições, no prazo de 60 dias após a respectiva tomada de posse.
 
 ###### Artigo 62.º — Revisão dos Estatutos
 

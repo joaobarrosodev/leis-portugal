@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/091b00/24942497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/17/2003/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2003-239605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56857dad5ff902d8fd9993bdca2d0757afd294221048682fd69e9d947a0799fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d77b359fbac116e3dc3c515ff493af9aff8d324ed415c0f4f85de1c25462f6c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Investigação e Fiscalização
-- Formação Profissional
-- Serviço de Estrangeiros e Fronteiras
-- Pessoal de Inspecção
 - Estágio de Formação
+- Formação Profissional
+- Pessoal de Inspecção
 - Regulamento de Estágio
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:66922018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302290:por
+  label: "Alterados os arts. 4.º, 9.º, 10.º e 18.º do Regulamento do Estágio Probatório de Ingresso na Carreira de Investigação\
+    \ e Fiscalização do Serviço de Estrangeiros e Fronteiras, aprovado pelo presente diploma, pelo DN.20/2004.23.03.2004.MAI,\
+    \ DR.IS-B [102] de 30.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2004-302290
+  date: '2004-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/290-a/2001/11/17/p/dre
   label: null
@@ -85,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/27-a/2000/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/27-a/2000/06/28/p/dre
+- type: cites
+  target: pt:dre:244929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66922018:por
+  label: Revogado o presente Despacho, pelo(a) Despacho Normativo n.º 7/2015 - Diário da República n.º 67/2015, Série II de
+    2015-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2015-66922018
+  date: '2015-04-07'
 article_structure:
   article_count: 19
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:51Z'
   warnings: []
   errors: []
 ---

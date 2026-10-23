@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 1º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 912-(2) a 912-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8-a/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-a-2004-486138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50846ce3583b58527715851629b7920bdd1eee3829d45165054e2a5434ac3b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99d387cabc652315d5ac210163960ad3fb5800866acdf65168aa0cff72ffc0bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Turismo
-- Promoção Turística
-- Projeto de Investimento
+- Infraestrutura Turística
 - Instituto de Financiamento e Apoio ao Turismo
 - Plano de Consolidação do Turismo
-- Regulamento
 - Programa de Intervenções para a Qualificação do Turismo
+- Projeto de Investimento
+- Promoção Turística
+- Regulamento
 - Regulamento de Execução do Subprograma Nº 1-estruturação Qualificação e Potenciação da Oferta
 - Subsídio
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:1503930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal, constantes do Regulamento aprovado pelo presente diploma, e eliminadas as menções\
+    \ ao \"ICEP Portugal\" referidas na Medida nº 4.1 \"Projectos integrados para estruturação de produtos turísticos inovadores\"\
+    , constante da secção V deste mesmo Regulamento, passando a Direcção-Geral do Turismo a ser o promotor único dos projectos\
+    \ a apoiar, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:157992:por
+  label: "Suspensa, desde 27.07.2005, a apresentação de candidaturas (sem prejuízo das candidaturas já apresentadas), na redacção\
+    \ dada pelo DN 23/2004, de 10-Mai, e reforça a dotação do Subprograma n.º 1, «Estruturação, Qualificação e Pontenciação\
+    \ da Oferta», do Programa de Intervenções para a Qualificação do Turismo, regulado pelo presente diploma, pelo DN.36-A/2005.06.07.2005.MEI,\
+    \ DR.IS-B [142] de 26.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
+  date: '2005-07-06'
+- type: amended_by
+  target: pt:dre:676641:por
+  label: "Alterados os arts. 25º e 26º e o apêndice do Regulamento de Execução do Subprograma nº 1 \"Estruturação, Qualificação\
+    \ e Potenciação da Oferta\" do PIQTUR, aprovado em anexo ao presente diploma - com a redacção que lhe foi conferida posteriormente\
+    \ pelos DN 23/2004 de 10-Mai e 36-A/2005 de 06-Jul - e reaberta uma fase para apresentação de candidaturas, com início\
+    \ a 24.02.2006 e que decorrerrá por 90 dias consecutivos, ao referido Subprograma nº 1, pelo DN.13/2006.30.01.2006.MEI,\
+    \ DR.IS-B [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2006-676641
+  date: '2006-01-30'
+- type: amended_by
+  target: pt:dre:1503930:por
+  label: "Fixado em 30.09.2009, o termo final do prazo para a execução financeira e material dos projectos apoiados ao abrigo\
+    \ das diversas medidas do Subprograma n.º 1 regulado pelo presente diploma, e cuja aprovação ocorreu no âmbito da fase\
+    \ aberta pelo DN 13/2006, de 23-Fev, pelo DN.29/2009.25.08.2009.SETU-MEI, DR.IIS [164] de 25.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2009-1503930
+  date: '2009-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/26/2002/04/18/p/dre
   label: null
@@ -102,16 +135,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:47Z'
   warnings: []
   errors: []
 ---
@@ -570,7 +623,7 @@ j) Eventuais contrapartidas à utilização pública de estruturas de oferta con
 
 4 - Na concessão de apoios ao abrigo da alínea d) do artigo 2.º do presente Regulamento, os contratos a que se refere o presente artigo são celebrados entre os promotores e os beneficiários dos projectos apoiados, com as necessárias adaptações de conteúdo.
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação e selecção dos projectos
 
@@ -590,55 +643,55 @@ Medida n.º 1.1, «Implementação de projectos estruturantes no território»
 
 Critério A - Grau de efectiva relevância turística
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Medida n.º 1.2, «Qualificação da oferta de relevância turística»
 
 Critério A - Grau de efectiva relevância turística
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Medida n.º 1.3, «Potenciação da oferta turística»
 
 Critério A - Grau de efectiva relevância turística
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Critério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:
 
@@ -662,12 +715,12 @@ CD = critério D.
 
 Medida n.º 1.1, «Implementação de projectos estruturantes no território»
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Medida n.º 1.2, «Qualificação da oferta de relevância turística»
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
 
 Medida n.º 1.3, «Potenciação da oferta turística»
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)

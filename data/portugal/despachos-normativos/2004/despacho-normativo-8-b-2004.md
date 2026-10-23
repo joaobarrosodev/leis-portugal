@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 1º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 912-(9) a 912-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8-b/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-b-2004-486139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8888b73c945fdcf804c5fa46efc21f5c4c0659eeaa082c9e33a454f4add57e48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8dc6700376b33978c10d91f1ba52d72b0b29bdd0de1b8ca1c4c98fb902c5352
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Turismo
-- Promoção Turística
-- Instituto de Formação Turística
 - Formação Profissional
-- Projeto de Investimento
+- Instituto de Formação Turística
 - Plano de Consolidação do Turismo
+- Programa de Intervenções para a Qualificação do Turismo
+- Projeto de Investimento
+- Promoção Turística
 - Qualificação Profissional
 - Regulamento de Execução das Medidas NºS 3.1-formação Inicial e Contínua 3.2-certificação Profissional e 3.5-cooperação e
   Assistência Técnica
-- Regulamento de Execução do Subprograma N.º 3-emprego e Formação
-- Programa de Intervenções para a Qualificação do Turismo
 - Regulamento de Execução das Medidas NºS 3.3-investigação e Desenvolvimento da Formação Profissional e 3.4-valorização das
   Profissões Turísticas
+- Regulamento de Execução do Subprograma N.º 3-emprego e Formação
 - Subsídio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:676196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal constante do Regulamento aprovado pelo DN 24/2002 de 15-Mar, com a redacção conferida\
+    \ pelo presente diploma, pelo DN.23/2004.07.04.2004.MECO, DR.IS-B [109] de 10.05.2004 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:157992:por
+  label: "Encerradas as candidaturas, salvo quanto àquelas a apresentar pelo Instituto de Formação Turística que estejam em\
+    \ análise em 27.07.2005, ao Subprograma n.º 3, «Emprego e Formação», do PIQTUR, e reduzida a dotação do referido Subprograma,\
+    \ regulado pelo DN 24/2002, de 18-Abr, pelo DN.36-A/2005.06.07.2005.MEI, DR.IS-B [142] de 26.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
+  date: '2005-07-06'
+- type: amended_by
+  target: pt:dre:676196:por
+  label: "Alterados o art. 4º do anexo I e os arts. 5º e 6º do anexo II do DN 24/2002 de 18-Abr, com as alterações constantes\
+    \ do presente diploma, pelo DN.12/2006.30.01.2006.MEI, DR.IS-B [38] de 22.02.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2006-676196
+  date: '2006-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/24/2002/04/18/p/dre
   label: null
@@ -110,16 +130,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:48Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +204,17 @@ Ao abrigo do disposto no n.º 7 da [Resolução do Conselho de Ministros n.º 12
 
 REGULAMENTO DE EXECUÇÃO DAS MEDIDAS N.os 3.1, 'FORMAÇÃO INICIAL E CONTÍNUA', 3.2, 'CERTIFICAÇÃO PROFISSIONAL', E 3.5, 'COOPERAÇÃO E ASSISTÊNCIA TÉCNICA', DO SUBPROGRAMA N.º 3, 'EMPREGO E FORMAÇÃO', DO PROGRAMA DE INTERVENÇÕES PARA A QUALIFICAÇÃO DO TURISMO.
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - ...
 
 2 - O regime de concessão do apoio a que se refere o número anterior vigora no período de 2002-2006, inclusive.
 
-###### Artigo 4.º — Condições de elegibilidade dos projectos
+Artigo 4.º
+
+Condições de elegibilidade dos projectos
 
 ...
 
@@ -182,7 +230,9 @@ e) ...
 
 f) ...
 
-###### Artigo 5.º — Critérios de avaliação dos projectos
+Artigo 5.º
+
+Critérios de avaliação dos projectos
 
 ...
 
@@ -192,7 +242,9 @@ b) Inserção do projecto nos objectivos e estratégias da política nacional de
 
 c) ...
 
-###### Artigo 9.º — Projectos
+Artigo 9.º
+
+Projectos
 
 ...
 
@@ -200,7 +252,9 @@ a) Acções de formação profissional inicial de jovens candidatos à inserçã
 
 b) Acções de formação contínua, para a qualificação, especialização ou aperfeiçoamento profissional, dirigidas a adultos activos das actividades turísticas, que tenham enquadramento no âmbito do Programa Operacional Emprego, Formação e Desenvolvimento Social ou no plano de actividades do INFTUR.
 
-###### Artigo 10.º — Despesas elegíveis
+Artigo 10.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -220,7 +274,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 11.º — Natureza e intensidade dos incentivos
+Artigo 11.º
+
+Natureza e intensidade dos incentivos
 
 1 - ...
 
@@ -230,7 +286,9 @@ g) ...
 
 4 - Os apoios previstos no presente Regulamento são cumuláveis com quaisquer outros de que o promotor beneficie para a execução dos projectos, incluindo os previstos no âmbito do Quadro Comunitário de Apoio III (QCA III), salvo quando a regulamentação específica dos mesmos não consinta a cumulação.
 
-###### Artigo 12.º — Projectos
+Artigo 12.º
+
+Projectos
 
 ...
 
@@ -250,7 +308,9 @@ iv) Alentejo;
 
 v) Algarve.
 
-###### Artigo 18.º — Tramitação
+Artigo 18.º
+
+Tramitação
 
 1 - ...
 
@@ -276,13 +336,17 @@ v) Algarve.
 
 REGULAMENTO DE EXECUÇÃO DAS MEDIDAS N.os 3.3, 'INVESTIGAÇÃO E DESENVOLVIMENTO DA FORMAÇÃO PROFISSIONAL', E 3.4, 'VALORIZAÇÃO DAS PROFISSÕES TURÍSTICAS', DO SUBPROGRAMA N.º 3, 'EMPREGO E FORMAÇÃO', DO PROGRAMA DE INTERVENÇÕES PARA A QUALIFICAÇÃO DO TURISMO.
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - ...
 
 2 - O regime de concessão do apoio a que se refere o número anterior vigora no período de 2002-2006, inclusive.
 
-###### Artigo 5.º — Condições de elegibilidade dos projectos
+Artigo 5.º
+
+Condições de elegibilidade dos projectos
 
 ...
 
@@ -300,7 +364,9 @@ f) ...
 
 g) Não estar iniciada a respectiva execução material até seis meses antes da apresentação da candidatura e não estar realizado o investimento em mais de 25%.
 
-###### Artigo 6.º — Despesas elegíveis
+Artigo 6.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -324,7 +390,9 @@ i) Remodelação, recuperação, adaptação e modernização de edifícios, bem
 
 2 - ...
 
-###### Artigo 7.º — Natureza e intensidade dos apoios
+Artigo 7.º
+
+Natureza e intensidade dos apoios
 
 1 - O apoio a conceder assume a forma de incentivo não reembolsável, em montante a definir até 75% das despesas elegíveis.
 
@@ -334,7 +402,9 @@ i) Remodelação, recuperação, adaptação e modernização de edifícios, bem
 
 4 - Os apoios previstos no presente Regulamento não são cumuláveis com quaisquer outros de que os promotores beneficiem para a execução dos projectos e que, para o efeito, sejam concedidos por outros regimes legais exclusivamente nacionais.
 
-###### Artigo 8.º — Critérios de avaliação dos projectos
+Artigo 8.º
+
+Critérios de avaliação dos projectos
 
 1 - ...
 
@@ -352,7 +422,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 9.º — Organismo coordenador
+Artigo 9.º
+
+Organismo coordenador
 
 1 - ...
 
@@ -382,13 +454,17 @@ l) ...
 
 m) ...
 
-###### Artigo 10.º — Órgãos de gestão
+Artigo 10.º
+
+Órgãos de gestão
 
 1 - ...
 
 2 - No exercício da competência a que se refere o número anterior, a CNASA emite propostas de decisão sobre as candidaturas, que submete ao membro do Governo com tutela sobre o turismo.
 
-###### Artigo 15.º — Tramitação subsequente
+Artigo 15.º
+
+Tramitação subsequente
 
 1 - Finda a análise das candidaturas, o INFTUR aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.
 
@@ -400,7 +476,7 @@ m) ...
 
 5 - O INFTUR, no prazo de oito dias úteis, a contar da data da decisão final, notifica ao promotor as decisões governamentais que recaem sobre as candidaturas.»
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação dos projectos
 
@@ -422,7 +498,7 @@ f) ...
 
 a) Critério A - relevância do projecto face aos objectivos do Plano de Desenvolvimento do Turismo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 b) ...
 
@@ -440,7 +516,7 @@ f) ...
 
 5 - ...
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 4 - Os regulamentos de execução do Subprograma n.º 3, «Emprego e formação», do PIQTUR são republicados em anexo com as devidas alterações.
 
@@ -458,7 +534,9 @@ REGULAMENTO DE EXECUÇÃO DAS MEDIDAS N.os 3.1, «FORMAÇÃO INICIAL E CONTÍNUA
 
 2 - O regime de concessão de apoio a que se refere o número anterior vigora no período de 2002-2006, inclusive.
 
-###### Artigo 2.º — Medidas
+Artigo 2.º
+
+Medidas
 
 Nos termos definidos no presente Regulamento, o Subprograma n.º 3 do PIQTUR prevê as três seguintes medidas:
 
@@ -468,13 +546,19 @@ b) Certificação profissional;
 
 c) Cooperação e assistência técnica.
 
-#### SECÇÃO I — Disposições comuns
+SECÇÃO I
 
-###### Artigo 3.º — Promotor e beneficiário
+Disposições comuns
+
+Artigo 3.º
+
+Promotor e beneficiário
 
 A entidade promotora e beneficiária das medidas referidas no artigo anterior é o INFTUR.
 
-###### Artigo 4.º — Condições de elegibilidade dos projectos
+Artigo 4.º
+
+Condições de elegibilidade dos projectos
 
 Os projectos a candidatar pelo INFTUR a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:
 
@@ -490,7 +574,9 @@ e) Apresentarem uma estrutura de custos pormenorizada, fundamentada e ajustada a
 
 f) Não estar iniciada a respectiva execução material até seis meses antes da apresentação da candidatura e não estar realizada em mais de 25%.
 
-###### Artigo 5.º — Critérios de avaliação dos projectos
+Artigo 5.º
+
+Critérios de avaliação dos projectos
 
 Os projectos são avaliados de acordo com os seguintes critérios:
 
@@ -500,7 +586,9 @@ b) Inserção do projecto nos objectivos e estratégias da política nacional de
 
 c) Relação entre os custos e os benefícios esperados do projecto.
 
-###### Artigo 6.º — Organismo coordenador
+Artigo 6.º
+
+Organismo coordenador
 
 O organismo responsável pela coordenação das presentes medidas é o Instituto de Financiamento e Apoio ao Turismo (IFT) a quem compete, nomeadamente:
 
@@ -508,7 +596,9 @@ a) Pagar ao promotor as comparticipações a que tenha direito;
 
 b) Realizar auditorias à execução das acções objecto do presente Regulamento.
 
-###### Artigo 7.º — Órgão de gestão
+Artigo 7.º
+
+Órgão de gestão
 
 1 - A gestão do presente regime de concessão de apoios financeiros incumbe à Comissão Nacional de Acompanhamento, Selecção e Avaliação do PIQTUR (CNASA).
 
@@ -518,13 +608,19 @@ a) Analisa as propostas de deliberação sobre as candidaturas que lhe são subm
 
 b) Aprova as propostas de decisão final, a submeter ao membro do Governo com tutela sobre o turismo.
 
-###### Artigo 8.º — Decisões finais de concessão dos apoios
+Artigo 8.º
+
+Decisões finais de concessão dos apoios
 
 Competem ao membro do Governo com tutela sobre o turismo as decisões finais sobre a concessão dos apoios objecto do presente Regulamento.
 
-#### SECÇÃO II — Formação inicial e contínua
+SECÇÃO II
 
-###### Artigo 9.º — Projectos
+Formação inicial e contínua
+
+Artigo 9.º
+
+Projectos
 
 São susceptíveis de apoio ao abrigo da alínea a) do artigo 2.º do presente Regulamento:
 
@@ -532,7 +628,9 @@ a) Acções de formação profissional inicial de jovens candidatos à inserçã
 
 b) Acções de formação contínua, para a qualificação, especialização ou aperfeiçoamento profissional, dirigidas a adultos activos das actividades turísticas, que tenham enquadramento no âmbito do Programa Operacional Emprego, Formação e Desenvolvimento Social ou no plano de actividades do INFTUR.
 
-###### Artigo 10.º — Despesas elegíveis
+Artigo 10.º
+
+Despesas elegíveis
 
 1 - Para efeitos de determinação dos custos a comparticipar, são consideradas elegíveis as seguintes despesas:
 
@@ -552,7 +650,9 @@ g) Outras despesas relevantes para a execução das acções previstas.
 
 2 - Todas as despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado.
 
-###### Artigo 11.º — Natureza e intensidade dos apoios
+Artigo 11.º
+
+Natureza e intensidade dos apoios
 
 1 - O apoio a conceder assume a forma de incentivo não reembolsável, em montante a definir até 37,5% das despesas elegíveis quando as acções decorram em regiões de objectivo prioritário, e tenham enquadramento e co-financiamento comunitário aprovado no âmbito do POEFDS, o que equivale ao co-financiamento da totalidade da contrapartida nacional aprovada para as acções a desenvolver nessas regiões.
 
@@ -562,9 +662,13 @@ g) Outras despesas relevantes para a execução das acções previstas.
 
 4 - Os apoios previstos no presente Regulamento são cumuláveis com quaisquer outros de que o promotor beneficie para a execução dos projectos, incluindo os previstos no âmbito do Quadro Comunitário de Apoio III (QCA III), salvo quando a regulamentação específica dos mesmos não consinta a cumulação.
 
-#### SECÇÃO III — Certificação profissional
+SECÇÃO III
 
-###### Artigo 12.º — Projectos
+Certificação profissional
+
+Artigo 12.º
+
+Projectos
 
 São susceptíveis de apoio financeiro ao abrigo da alínea b) do artigo 2.º do presente Regulamento:
 
@@ -584,7 +688,9 @@ iv) Alentejo;
 
 v) Algarve.
 
-###### Artigo 13.º — Despesas elegíveis
+Artigo 13.º
+
+Despesas elegíveis
 
 1 - Para efeitos de determinação dos custos a comparticipar, são consideradas elegíveis as seguintes despesas:
 
@@ -604,13 +710,19 @@ g) Outras despesas com a promoção e divulgação do projecto.
 
 2 - Todas as despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado.
 
-###### Artigo 14.º — Intensidade do apoio
+Artigo 14.º
+
+Intensidade do apoio
 
 O apoio a conceder assume a forma de incentivo não reembolsável, em montante a definir até 100% das despesas elegíveis.
 
-#### SECÇÃO IV — Cooperação e assistência técnica
+SECÇÃO IV
 
-###### Artigo 15.º — Projectos
+Cooperação e assistência técnica
+
+Artigo 15.º
+
+Projectos
 
 São susceptíveis de apoio ao abrigo da alínea c) do artigo 2.º do presente Regulamento:
 
@@ -620,7 +732,9 @@ b) A participação de formandos, formadores e técnicos de formação das escol
 
 c) Projectos de assistência técnica a grupos de trabalho intergovernamentais que, visando a qualificação das ofertas e dos produtos turísticos nacionais, recorram a trabalho técnico especializado a desenvolver por técnicos do INFTUR.
 
-###### Artigo 16.º — Despesas elegíveis
+Artigo 16.º
+
+Despesas elegíveis
 
 1 - Para efeitos de determinação dos custos a comparticipar são consideradas elegíveis as seguintes despesas:
 
@@ -638,13 +752,19 @@ f) Outras despesas com a promoção e divulgação do projecto.
 
 2 - Todas as despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado.
 
-###### Artigo 17.º — Intensidade do apoio
+Artigo 17.º
+
+Intensidade do apoio
 
 O apoio a conceder assume a forma de incentivo não reembolsável, em montante a definir até 100% das despesas elegíveis.
 
-#### SECÇÃO V — Procedimentos
+SECÇÃO V
 
-###### Artigo 18.º — Tramitação
+Procedimentos
+
+Artigo 18.º
+
+Tramitação
 
 1 - As candidaturas com os projectos de acções, devidamente organizadas, são apresentadas pelo INFTUR à CNASA a todo o tempo.
 
@@ -664,7 +784,9 @@ O apoio a conceder assume a forma de incentivo não reembolsável, em montante a
 
 9 - A CNASA, no prazo de oito dias úteis, notifica o promotor das decisões governamentais que recaem sobre as candidaturas.
 
-###### Artigo 19.º — Pagamentos
+Artigo 19.º
+
+Pagamentos
 
 1 - Para efeitos de pagamento da comparticipação de custos, os promotores remetem ao IFT os documentos justificativos das despesas que realizam, devidamente visados e acompanhados da informação necessária para o organismo coordenador verificar a elegibilidade das mesmas.
 
@@ -686,17 +808,21 @@ d) O pagamento dos 20% finais após aprovação do pedido de pagamento de saldo 
 
 6 - Recebidos os documentos referidos no número anterior e prestados os esclarecimentos adicionais eventualmente solicitados, o IFT paga as comparticipações devidas no prazo máximo de 25 dias úteis.
 
-## ANEXO II
+ANEXO II
 
 REGULAMENTO DE EXECUÇÃO DAS MEDIDAS N.os 3.3, «INVESTIGAÇÃO E DESENVOLVIMENTO DA FORMAÇÃO PROFISSIONAL», E 3.4, «VALORIZAÇÃO DAS PROFISSÕES TURÍSTICAS», DO SUBPROGRAMA N.º 3, EMPREGO E FORMAÇÃO, DO PROGRAMA DE INTERVENÇÕES PARA A QUALIFICAÇÃO DO TURISMO.
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - O presente Regulamento tem por objecto a definição dos termos de concessão de apoio aos projectos de investigação e desenvolvimento da formação profissional e de valorização das profissões turísticas que integram o Subprograma n.º 3 do Programa de Intervenções para a Qualificação do Turismo (PIQTUR) do Plano de Consolidação do Turismo.
 
 2 - O regime de concessão de apoio a que se refere o número anterior vigora no período de 2002-2006, inclusive.
 
-###### Artigo 2.º — Medidas
+Artigo 2.º
+
+Medidas
 
 Nos termos definidos no presente Regulamento, o Subprograma n.º 3 do PIQTUR prevê as seguintes medidas:
 
@@ -704,9 +830,13 @@ a) Investigação e desenvolvimento da formação profissional;
 
 b) Valorização das profissões turísticas.
 
-#### SECÇÃO I — Disposições comuns
+SECÇÃO I
 
-###### Artigo 3.º — Promotores
+Disposições comuns
+
+Artigo 3.º
+
+Promotores
 
 Podem ser promotores dos projectos a apoiar:
 
@@ -722,7 +852,9 @@ e) Centros de investigação com actuação no sector do turismo;
 
 f) Instituições de formação, públicas ou privadas, com actividade relevante na formação de profissionais do turismo.
 
-###### Artigo 4.º — Condições de elegibilidade dos promotores
+Artigo 4.º
+
+Condições de elegibilidade dos promotores
 
 Os promotores têm de reunir as seguintes condições de elegibilidade:
 
@@ -734,7 +866,9 @@ c) Se aplicável, ter as respectivas situações devedoras e contributivas regul
 
 d) Declararem, quando aplicável, a assunção do compromisso de cumprimento das regras em matéria de acumulação dos apoios, assim como das exigências legais e regulamentares de outros instrumentos de apoio de que beneficiem.
 
-###### Artigo 5.º — Condições de elegibilidade dos projectos
+Artigo 5.º
+
+Condições de elegibilidade dos projectos
 
 Os projectos a candidatar a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:
 
@@ -752,7 +886,9 @@ f) Demonstrarem relevância turística;
 
 g) Não estar iniciada a respectiva execução material até seis meses antes da apresentação da candidatura e não estar realizado o investimento em mais de 25%.
 
-###### Artigo 6.º — Despesas elegíveis
+Artigo 6.º
+
+Despesas elegíveis
 
 1 - Para efeitos de determinação do apoio financeiro a conceder, são consideradas elegíveis as seguintes despesas:
 
@@ -776,7 +912,9 @@ i) Remodelação, recuperação, adaptação e modernização de edifícios, bem
 
 2 - Todas as despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado.
 
-###### Artigo 7.º — Natureza e intensidade dos apoios
+Artigo 7.º
+
+Natureza e intensidade dos apoios
 
 1 - O apoio a conceder assume a forma de incentivo não reembolsável, em montante a definir até 75% das despesas elegíveis.
 
@@ -786,7 +924,9 @@ i) Remodelação, recuperação, adaptação e modernização de edifícios, bem
 
 4 - Os apoios previstos no presente Regulamento não são cumuláveis com quaisquer outros de que os promotores beneficiem para a execução dos projectos e que, para o efeito, sejam concedidos por outros regimes legais exclusivamente nacionais.
 
-###### Artigo 8.º — Critérios de avaliação dos projectos
+Artigo 8.º
+
+Critérios de avaliação dos projectos
 
 1 - Os projectos são avaliados de acordo com os seguintes seis critérios:
 
@@ -804,7 +944,9 @@ f) Aplicação do projecto à escala nacional ou regional ao nível das NUT II.
 
 2 - O cálculo da valia dos projectos e a determinação da intensidade dos apoios estão definidos no apêndice ao presente Regulamento.
 
-###### Artigo 9.º — Organismo coordenador
+Artigo 9.º
+
+Organismo coordenador
 
 1 - O organismo coordenador do presente regime de concessão de apoios é o Instituto de Formação Turística (INFTUR).
 
@@ -834,19 +976,27 @@ l) Realizar auditorias, directamente ou através de terceiros contratados para o
 
 m) Elaborar propostas de encerramento dos projectos.
 
-###### Artigo 10.º — Órgão de gestão
+Artigo 10.º
+
+Órgão de gestão
 
 1 - A gestão do presente regime de concessão de apoios incumbe à Comissão Nacional de Acompanhamento, Selecção e Avaliação do PIQTUR (CNASA).
 
 2 - No exercício da competência a que se refere o número anterior, a CNASA emite propostas de decisão sobre as candidaturas, que submete ao membro do Governo com tutela sobre o turismo.
 
-###### Artigo 11.º — Decisões finais de concessão dos apoios
+Artigo 11.º
+
+Decisões finais de concessão dos apoios
 
 Competem ao membro do Governo com tutela sobre o turismo as decisões finais sobre a concessão dos apoios objecto do presente Regulamento.
 
-#### SECÇÃO II — Investigação e desenvolvimento da formação profissional
+SECÇÃO II
 
-###### Artigo 12.º — Projectos
+Investigação e desenvolvimento da formação profissional
+
+Artigo 12.º
+
+Projectos
 
 São susceptíveis de apoio ao abrigo da alínea a) do artigo 2.º do presente Regulamento:
 
@@ -860,15 +1010,23 @@ d) Acções de formação de agentes de ensino-formação, designadamente formad
 
 e) Projectos de remodelação, recuperação, adaptação e modernização de edifícios, bem como estudos relativos à aquisição e instalação de equipamentos em estruturas formativas públicas com actividade relevante na área do turismo.
 
-#### SECÇÃO III — Valorização das profissões turísticas
+SECÇÃO III
 
-###### Artigo 13.º — Projectos
+Valorização das profissões turísticas
+
+Artigo 13.º
+
+Projectos
 
 São susceptíveis de apoio, ao abrigo da alínea b) do artigo 2.º do presente Regulamento, campanhas de informação, divulgação e promoção que visem apoiar uma mudança positiva nas representações sociais associadas ao emprego, nomeadamente nas actividades do alojamento turístico classificado, dos estabelecimentos de restauração e bebidas, agências de viagens e turismo e animação turística, e, ainda, estimular a procura de formação por parte dos jovens, tendo em vista apoiar o rejuvenescimento do pessoal empregue no sector.
 
-#### SECÇÃO IV — Procedimentos
+SECÇÃO IV
 
-###### Artigo 14.º — Candidaturas
+Procedimentos
+
+Artigo 14.º
+
+Candidaturas
 
 1 - As candidaturas são apresentadas no INFTUR a todo o tempo.
 
@@ -882,7 +1040,9 @@ São susceptíveis de apoio, ao abrigo da alínea b) do artigo 2.º do presente 
 
 6 - A análise do INFTUR inclui a verificação da razoabilidade dos custos estimados pelo promotor para a realização dos projectos e, se necessário, a respectiva adequação ou correcção.
 
-###### Artigo 15.º — Tramitação subsequente
+Artigo 15.º
+
+Tramitação subsequente
 
 1 - Finda a análise das candidaturas, o INFTUR aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.
 
@@ -894,7 +1054,9 @@ São susceptíveis de apoio, ao abrigo da alínea b) do artigo 2.º do presente 
 
 5 - O INFTUR, no prazo de oito dias úteis, a contar da data da decisão final, notifica o promotor das decisões governamentais que recaem sobre as candidaturas.
 
-###### Artigo 16.º — Contratualização
+Artigo 16.º
+
+Contratualização
 
 Sem prejuízo do disposto em legislação especial, a concessão dos apoios financeiros previstos no presente Regulamento é objecto de contratos a celebrar entre o Instituto de Financiamento e Apoio ao Turismo (IFT) e o promotor, dos quais constam cláusulas sobre as seguintes matérias:
 
@@ -910,7 +1072,9 @@ e) Consequências do incumprimento das obrigações contratualmente assumidas pe
 
 f) Acompanhamento da realização dos projectos.
 
-###### Artigo 17.º — Pagamentos
+Artigo 17.º
+
+Pagamentos
 
 1 - O pagamento dos apoios aos promotores é processado de acordo com o seguinte mecanismo:
 
@@ -922,7 +1086,7 @@ b) Reembolso integral das despesas efectuadas e pagas, com a periodicidade míni
 
 3 - Recebidos os documentos referidos no número anterior e prestados os esclarecimentos adicionais eventualmente solicitados, o IFT paga as comparticipações devidas no prazo máximo de 25 dias úteis.
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação dos projectos
 
@@ -944,27 +1108,27 @@ f) Aplicação do projecto à escala nacional ou regional ao nível das NUT II.
 
 a) Critério A - relevância do projecto face aos objectivos do Plano de Desenvolvimento do Turismo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 b) Critério B - adequação das actividades e ou do objecto social do promotor aos objectivos do projecto e sua inserção nos objectivos da medida em que se integra:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 c) Critério C - qualificação técnico-científica do coordenador do projecto e da equipa técnica:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 d) Critério D - grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio financeiro com comparticipação da União Europeia:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 e) Critério E - inovação científico-técnica inerente ao projecto:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 f) Critério F - aplicação do projecto à escala nacional ou regional ao nível das NUT II:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
 
 3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:
 
@@ -990,4 +1154,4 @@ CF = critério F.
 
 5 - A intensidade do incentivo a conceder determina-se, em cada medida, em função da pontuação obtida pelos projectos nos termos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)

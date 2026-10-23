@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/22/2006/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2006-671939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e883db2bb1190dcc3c677426e29e320243ff44e9d5365fa41f0a88df0184c9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbf95ee5b97746e431b35a010f74ef6c2f633a0b4d486966f54f6c7b82c49f8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
+- Direcção Geral de Inovação e Desenvolvimento Curricular
 - Ensino Artístico
-- Plano de Estudos
+- Ensino Básico
+- Ensino Superior
 - Ensino Tecnológico
 - Exame
 - JURI Nacional
-- Direcção Geral de Inovação e Desenvolvimento Curricular
-- Ensino Básico
-- Avaliação de Conhecimentos
+- Plano de Estudos
 - Regulamento
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:3103818:por
@@ -120,16 +120,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3103818:por
+  label: "Revogado pelo DN.14/2007.22.02.2007.SEE-ME, DR.IIS [48] de 08.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2007-3103818
+  date: '2007-02-22'
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:32Z'
   warnings: []
   errors: []
 ---
@@ -314,7 +383,7 @@ f) Estejam fora da escolaridade obrigatória e não estando a frequentar qualque
 
 1.7 - Quando no presente Regulamento é referido o presidente/director da escola/agrupamento, deve entender-se o responsável do órgão de gestão, conforme a situação de cada escola/agrupamento (presidente do conselho executivo/director executivo ou presidente da comissão executiva) e ainda, no caso das escolas do ensino particular e cooperativo, o director pedagógico.
 
-#### Secção I - Exames nacionais de Língua Portuguesa e de Matemática do 3.º ciclo - 9.º ano
+Secção I - Exames nacionais de Língua Portuguesa e de Matemática do 3.º ciclo - 9.º ano
 
 2 - Condições de admissão:
 
@@ -404,7 +473,7 @@ a) Tenha obtido classificação inferior a 3 nas disciplinas de Língua Portugue
 
 b) Tenha obtido classificação inferior a 3 em três, ou em duas disciplinas e a menção de Não satisfaz na área de projecto.
 
-#### Secção II - Exames de equivalência à frequência
+Secção II - Exames de equivalência à frequência
 
 10 - Condições de admissão:
 
@@ -536,7 +605,7 @@ a) Tenham obtido classificação inferior a 3 nas disciplinas de Língua Portugu
 
 b) Tenham obtido classificação inferior a 3 em três disciplinas.
 
-#### Secção III - Exames de alunos com necessidades educativas especiais de carácter prolongado
+Secção III - Exames de alunos com necessidades educativas especiais de carácter prolongado
 
 16 - Os alunos com necessidades educativas especiais de carácter prolongado que tenham no seu plano educativo individual condições especiais de avaliação, ao abrigo do [Decreto-Lei n.º 319/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1991-403296), de 23 de Agosto, devidamente explicitadas e fundamentadas, são avaliados nos termos definidos no referido plano.
 
@@ -584,7 +653,7 @@ b) Tenham obtido classificação inferior a 3 em três disciplinas.
 
 18.1.4 - As pautas de exame não devem mencionar a deficiência do aluno.
 
-#### Secção IV - Disposições comuns
+Secção IV - Disposições comuns
 
 19 - Serviço de exames:
 
@@ -718,7 +787,7 @@ QUADRO I
 
 Exames nacionais de Língua Portuguesa e de Matemática do 3.º ciclo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 Nota. - Os alunos autopropostos do 3.º ciclo do ensino básico realizam prova oral na disciplina de Língua Portuguesa.
 
@@ -726,11 +795,11 @@ QUADRO II
 
 Exames de equivalência à frequência dos 2.º e 3.º ciclos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 ## ANEXO III — Regulamento dos Exames do Ensino Secundário
 
-#### Secção I - Disposições gerais
+Secção I - Disposições gerais
 
 1 - Objecto, âmbito e destinatários:
 
@@ -784,7 +853,7 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 1.7 - Quando no presente Regulamento é referido o presidente/director, deve entender-se o responsável do órgão de gestão, conforme a situação de cada escola (presidente do conselho executivo, director executivo ou presidente da comissão executiva), e ainda, no caso das escolas do ensino particular e cooperativo, o director pedagógico.
 
-#### Secção II - Conselhos de turma para avaliação (planos curriculares aprovados pelo [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto)
+Secção II - Conselhos de turma para avaliação (planos curriculares aprovados pelo [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto)
 
 2 - Critérios de avaliação:
 
@@ -1040,7 +1109,7 @@ i) Após a realização de cada prova, os critérios de classificação devem se
 
 20.2 - O enunciado da prova escrita deve referir a cotação a atribuir a cada questão.
 
-#### Secção IV - Procedimentos para a realização dos exames
+Secção IV - Procedimentos para a realização dos exames
 
 Inscrições
 
@@ -1304,7 +1373,7 @@ Reapreciação das provas
 
 37.7 - O indeferimento da reclamação constitui decisão definitiva, não passível de qualquer outra impugnação administrativa.
 
-#### Secção V - Situações especiais de exame
+Secção V - Situações especiais de exame
 
 Exames de candidatos com necessidades educativas especiais de carácter prolongado
 
@@ -1450,7 +1519,7 @@ QUADRO I
 
 Planos curriculares aprovados pelo [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto - Exames de equivalência à frequência
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 QUADRO II
 
@@ -1458,7 +1527,7 @@ QUADRO II
 
 Exames finais de âmbito nacional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 QUADRO III
 
@@ -1468,15 +1537,15 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: Tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de trinta minutos.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 Nota. - A componente prática das provas escritas com componente prática tem uma tolerância de trinta minutos.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 QUADRO IV
 
@@ -1486,7 +1555,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Prova escrita com componente prática - Percentagens a atribuir à componente prática e à componente escrita
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 QUADRO V
 
@@ -1496,7 +1565,7 @@ Planos curriculares aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodare
 
 Provas de equivalência à frequência: Júri nas provas P e EP
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
 
 QUADRO VI
 
@@ -1506,4 +1575,4 @@ Planos de estudo aprovados pelo [Decreto-Lei n.º 74/2004](https://diariodarepub
 
 Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)](https://files.diariodarepublica.pt/1s/2006/03/065b00/23672393.pdf)

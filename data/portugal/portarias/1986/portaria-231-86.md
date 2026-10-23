@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11600/12351238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-1986-227047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30e6b5708a09152b6198741e1164571351fd5bd7cb33dbfad08e17b13757d494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c918b3e57b1e8a0a01f4bf1383c314a937945a235a2528f7b1d66b0e40b2ac3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Médico
+- Regulamento dos Concursos de Habilitação e de Provimento para Chefe de Serviço Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:629784:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:308350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222234:por
+  label: Rectificado o capítulo II, secção VII, e publicado em anexo o modelo referido no n.º 25, pela PORT.634/86.27.10.1986.MS,
+    DR.IS [248] de 27.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/634-1986-222234
+  date: '1986-10-27'
+- type: repealed_by
+  target: pt:dre:479575:por
+  label: "Revogada pela PORT.114/91.07.02.1991.MS, DR.IS-B [32] de 07.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-1991-479575
+  date: '1991-02-07'
 article_structure:
   article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:17Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +144,9 @@ Manda o Governo da República Portuguesa, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 22 de Abril de 1986.**
+Assinada em 22 de Abril de 1986.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 REGULAMENTO DOS CONCURSOS DE HABILITAÇÃO E DE PROVIMENTO PARA CHEFE DE SERVIÇO HOSPITALAR
 

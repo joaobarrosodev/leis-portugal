@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/867-1985-171926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e6f549e94eda3f17d5ba1e3b1dbafbf9059a946455bf6fd231333e79ab23c9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f11b64333001cdd410912bd5b5d2c28769e17456c088d2b11aa07783e555f73b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fazenda Pública
+- Quadro de Pessoal
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:302560:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302560:por
+  label: "Revogada, no que respeita ao desdobramento da Tesouraria da Fazenda Pública do Concelho de Ílhavo, pela PORT.896/91.02.09.1991.MF,\
+    \ DR.IS-B [201] de 02.09.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/896-1991-302560
+  date: '1991-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:08Z'
   warnings: []
   errors: []
 ---
@@ -112,18 +149,18 @@ A Tesouraria da Fazenda Pública do concelho de Ílhavo é desdobrada em duas te
 
 Secretaria de Estado do Tesouro.
 
-**Assinada em 22 de Outubro de 1985.**
+Assinada em 22 de Outubro de 1985.
 
-**O Secretário de Estado do Tesouro, António d'Almeida.**
+O Secretário de Estado do Tesouro, António d'Almeida.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26300/38283828.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26300/38283828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26300/38283828.pdf)
 
 MAPA II
 
 Alterações ao quadro geral de pessoal das tesourarias da Fazenda Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26300/38283828.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26300/38283828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26300/38283828.pdf)

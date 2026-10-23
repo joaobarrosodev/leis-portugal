@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-1986-227473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60133b66605a17e19ad4ae5286523559dd18a8ceb31178a5dd79306ef82d5a29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6026e719b6b06b8af0ed9af9bd9f0950b91eeeaca8e2eac592cffca8abfd4f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Regional de Segurança Social
+- Guarda
+relationships:
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383186:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:29Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +109,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 Secretaria de Estado da Segurança Social.
 
-**Assinada em 8 de Abril de 1986.**
+Assinada em 8 de Abril de 1986.
 
-**O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.

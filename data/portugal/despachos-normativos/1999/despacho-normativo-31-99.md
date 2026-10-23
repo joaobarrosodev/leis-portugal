@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/134b00/33373337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/31/1999/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1999-308572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24f2a7d779fdf8185dbf3f76011edf806c4279df6abc90d62e60bd6a1c66a3c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a37bcd678ed28acafdb0b7824e3b290b44efc045a6ba996161c1b5650eb16d76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Diário da República
-- Imprensa Nacional-Casa da Moeda
-- Formulário dos Diplomas
 - Diploma Legal
+- Formulário dos Diplomas
+- Imprensa Nacional-Casa da Moeda
 - Normalização
 relationships:
 - type: amended_by
@@ -87,16 +87,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/75/1998/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/75/1998/11/17/p/dre
+- type: cites
+  target: pt:dre:229520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567461:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:167061:por
+  label: "Rectificado pela DECL-RECT.10-BB/99.1999.06.30.PCM DR.IS-B [150]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-bb-1999-167061
+  date: '1999-06-30'
+- type: repealed_by
+  target: pt:dre:357129:por
+  label: "Revogado o DN 16/97de 03-Abr, alterado pelo presente despacho, pelo DN.38/2006.23.06.2006.PCM, DR.IS-B [125] de\
+    \ 30.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/38-2006-357129
+  date: '2006-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:10Z'
   warnings: []
   errors: []
 ---

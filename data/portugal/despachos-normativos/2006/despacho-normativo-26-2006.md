@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/084b00/31573159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/26/2006/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2006-659948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92c8af5fb0e3d9e0802ffa23cb74a49c6c1d71444dcf0eaa323f9ac05ff9007f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d74d1bd0360d22029ef98b1307d4b832fd9eec7526468449a45ddb8e687735d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
+- Exploração Agrícola
 - Financiamento
-- Pagamento
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Jovem Agricultor
-- Exploração Agrícola
+- Pagamento
 - Política Agrícola Comum
-- Agricultor
 - Produção Agrícola
 - Regulamento CE
-- Agricultura
 - Sistema Integrado de Gestão e Controlo
 relationships:
 - type: amended_by
   target: pt:dre:617116:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286689:por
+  label: "Alterado o nº 5 do art. 5º-A do DN 42/2004 de 26-Out, com a redacção conferida pelo presente diploma, pelo DN.34/2006.11.05.2006.MADRP,\
+    \ DR.IS-B [102] de 26.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2006-286689
+  date: '2006-05-11'
+- type: amended_by
+  target: pt:dre:1697888:por
+  label: "Alterados os n.º 3 e 5 dos arts. 7º e 8º e revogados os n.º 4 dos art. 7º e 8º do DN 42/2004, de 26-Out, alterado\
+    \ pelo presente diploma, e republicado, pelo DN.10/2008.15.02.2008.MADRP, DR.IIS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2008-1697888
+  date: '2008-02-15'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -96,16 +108,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/42/2004/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/42/2004/10/26/p/dre
+- type: repealed_by
+  target: pt:dre:617116:por
+  label: "Revogado, a partir de 04.02.2010, pela PORT.68/2010.03.02.2010.MADRP, DR.IS [23] de 03.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2010-617116
+  date: '2010-02-03'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:37Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +169,7 @@ c) Tendo estado sujeitos a compromisso agro-ambiental no decurso do quadriénio 
 
 6 - O número de direitos a atribuir é igual ao número de hectares de referência do agricultor.
 
-###### Artigo 5.º-A
+Artigo 5.º-A
 
 1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas no n.º 4 do n.º 12.º da Portaria n.º 1202/2004, de 17 de Setembro, e que entre 1 de Maio de 2000 e 15 de Maio de 2004 tenham realizado compras de quota de tabaco superiores às vendas, transferências e cedências definitivas.
 
@@ -174,7 +191,7 @@ d) Soma dos montantes apurados nos termos da alínea anterior.
 
 6 - Para o caso referido no n.º 3, o número de hectares a atribuir é igual à soma do número de hectares relativos a cada uma das quantidades correspondentes às percentagens apuradas no âmbito da respectiva alínea b).
 
-###### Artigo 7.º-A
+Artigo 7.º-A
 
 1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas no n.º 3 do n.º 12.º da Portaria n.º 1202/2004, de 17 de Setembro, e que digam respeito a plantações de olival, incluindo olivais de substituição e adensamento de olivais existentes.
 
@@ -190,7 +207,7 @@ c) O número de hectares SIG-OL elegíveis adensados é multiplicado por 70% do 
 
 4 - O número de direitos a atribuir no âmbito do presente artigo é igual ao número de hectares SIG-OL elegíveis de olivais plantados ou adensados.
 
-###### Artigo 7.º-B
+Artigo 7.º-B
 
 1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas na alínea d) do n.º 2 do n.º 12.º da Portaria n.º 1202/2004, de 17 de Setembro, cujos projectos de investimento tenham sido concluídos até 31 de Dezembro de 2006.
 
@@ -208,4 +225,4 @@ c) O número de hectares SIG-OL elegíveis adensados é multiplicado por 70% do 
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 7 de Abril de 2006. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/084b00/31573159.pdf))](https://files.diariodarepublica.pt/1s/2006/05/084b00/31573159.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31573159.pdf)

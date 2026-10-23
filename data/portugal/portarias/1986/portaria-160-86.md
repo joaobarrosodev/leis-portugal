@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-1986-195207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53172da9bca6a80315dce89b69d274b6cc13ca209eafeacdadfb4d597ff57cc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96c92ec66a79096a6a7ddd66c8f934524a73c82567f7a32ebc72577e466bf174
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Faculdade de Ciências e Tecnologia
+- Regulamento
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:36Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +103,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 10 de Abril de 1986.**
+Assinada em 10 de Abril de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Regulamento do Departamento de Ciências e Engenharia do Ambiente, da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa.
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Ciências e Engenharia do Ambiente, da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, adiante designado por «Departamento», constitui uma unidade orgânica de ensino mais lato e, dentro da sua área científica, de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade.
+Artigo 1.º O Departamento de Ciências e Engenharia do Ambiente, da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, adiante designado por «Departamento», constitui uma unidade orgânica de ensino mais lato e, dentro da sua área científica, de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade.
 
-###### Art. 2.º Quanto à actividade de ensino, compete ao Departamento:
+Art. 2.º Quanto à actividade de ensino, compete ao Departamento:
 
 a) Promover a aquisição e difusão do conhecimento das ciências do ambiente e a formação de docentes, investigadores e técnicos de nível superior neste domínio;
 
@@ -119,7 +127,7 @@ e) Elaborar propostas de remodelação dos cursos em que figurem as disciplinas 
 
 f) Garantir a supervisão científica dos estágios realizados no âmbito das ciências do ambiente.
 
-###### Art. 3.º No que compete à investigação científica, essencialmente aplicada, compete ao Departamento:
+Art. 3.º No que compete à investigação científica, essencialmente aplicada, compete ao Departamento:
 
 a) Promover o desenvolvimento do conhecimento nos domínios da engenharia do ambiente, de acordo com os planos e programas de actividades definidos para o efeito;
 
@@ -129,35 +137,35 @@ c) Elaborar os programas de investigação destinados ao ensino graduado para a 
 
 d) Desenvolver trabalhos de aplicação no domínio do ambiente com impacte noutros domínios científicos e tecnológicos e, particularmente, em programas interdisciplinares.
 
-###### Art. 4.º - 1 - Quanto à actividade de apoio e de desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consulta no domínio das ciências do ambiente, engenharia sanitária, ordenamento do território e domínios científicos afins.
+Art. 4.º - 1 - Quanto à actividade de apoio e de desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consulta no domínio das ciências do ambiente, engenharia sanitária, ordenamento do território e domínios científicos afins.
 
 2 - Ao Departamento competirá promover a divulgação do saber na área das suas secções e contribuir para a generalização do seu conhecimento, compreensão e integração na cultura.
 
-###### Art. 5.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços com entidades públicas ou privadas, cujos contratos proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou da Faculdade de Ciências e Tecnologia.
+Art. 5.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços com entidades públicas ou privadas, cujos contratos proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou da Faculdade de Ciências e Tecnologia.
 
 ### CAPÍTULO II — Secções
 
-###### Art. 6.º - 1 - Atendendo à pluralidade das matérias professadas e investigadas no Departamento, poderão nele ser criadas secções correspondentes a áreas científicas bem definidas no âmbito da sua actuação.
+Art. 6.º - 1 - Atendendo à pluralidade das matérias professadas e investigadas no Departamento, poderão nele ser criadas secções correspondentes a áreas científicas bem definidas no âmbito da sua actuação.
 
 2 - Estas secções serão unidades respeitantes a áreas diferenciadas do conhecimento, com dimensões e características que permitam a prossecução e o desenvolvimento de actividades de ensino, investigação e prestação de serviços.
 
-###### Art. 7.º A criação de secções ou a sua dissolução compete ao Conselho de Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com o definido no artigo anterior, devendo os respectivos processos seguir a tramitação prevista no [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 7.º A criação de secções ou a sua dissolução compete ao Conselho de Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com o definido no artigo anterior, devendo os respectivos processos seguir a tramitação prevista no [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 8.º A gestão do Departamento é exercida pelos seguintes órgãos:
+Art. 8.º A gestão do Departamento é exercida pelos seguintes órgãos:
 
 a) Conselho de Departamento;
 
 b) Comissão Executiva.
 
-###### Art. 9.º O Conselho de Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 9.º O Conselho de Departamento é constituído por membros permanentes e por membros não permanentes.
 
 1 - São membros permanentes os professores em regime de tempo integral, incluindo os convidados, e os investigadores em áreas científicas representadas no Departamento.
 
 2 - São membros não permanentes os representantes dos docentes e investigadores não doutorados, na área departamental, eleitos para mandatos bienais, de entre todo o pessoal daquelas categorias, e em número não superior a um terço do número de membros permanentes.
 
-###### Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros dez dias do mês de Julho do 1.º ano de cada biénio.
+Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros dez dias do mês de Julho do 1.º ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do Conselho de Departamento ou, na sua falta ou impedimento, o membro mais antigo da categoria mais elevada do Departamento, convocará os docentes e investigadores não doutorados em regime de tempo integral do Departamento para uma sessão especial, a que presidirá.
 
@@ -169,7 +177,7 @@ b) Comissão Executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 11.º - 1 - O Conselho de Departamento é presidido por um professor catedrático ou associado do Departamento.
+Art. 11.º - 1 - O Conselho de Departamento é presidido por um professor catedrático ou associado do Departamento.
 
 2 - O presidente é eleito pelos membros do Conselho para mandato bienal.
 
@@ -189,7 +197,7 @@ b) Comissão Executiva.
 
 10 - O exercício do cargo de presidente do Conselho de Departamento é incompatível com o de presidente de outros órgãos directivos universitários.
 
-###### Art. 12.º Compete ao Conselho de Departamento:
+Art. 12.º Compete ao Conselho de Departamento:
 
 a) Elaborar propostas de alteração ao regulamento do Departamento;
 
@@ -215,7 +223,7 @@ l) Aprovar as propostas de estabelecimento de convénios, de acordos e de contra
 
 m) Deliberar sobre matérias cuja competência lhe haja sido delegada pelos órgãos da Faculdade ou da Universidade.
 
-###### Art. 13.º - 1 - A Comissão Executiva do Departamento é constituída por:
+Art. 13.º - 1 - A Comissão Executiva do Departamento é constituída por:
 
 a) O presidente do Conselho de Departamento;
 
@@ -223,7 +231,7 @@ b) Dois docentes ou investigadores do Departamento designados pelo presidente.
 
 2 - A Comissão Executiva nas suas actividades de gestão, será coadjuvada por um funcionário do quadro do pessoal da Faculdade, que desempenhará as funções de secretário do Departamento.
 
-###### Art. 14.º Compete à Comissão Executiva:
+Art. 14.º Compete à Comissão Executiva:
 
 a) Preparar as reuniões do Conselho de Departamento e executar as suas deliberações;
 
@@ -233,20 +241,20 @@ c) Preparar convénios, acordos e contratos de prestação de serviços;
 
 d) Zelar pela conservação e manutenção das instalações e outros bens afectos ao Departamento.
 
-###### Art. 15.º O presidente do Conselho de Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
+Art. 15.º O presidente do Conselho de Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
 
 ### CAPÍTULO IV — Gestão financeira
 
-###### Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Constituirão também receitas do Departamento as provenientes de prestação de serviços, bem como as doações, legados, subsídios e comparticipações concedidos por quaisquer entidades privadas ou públicas, os quais ficarão sujeitos ao regime de gestão previsto nos artigos 18.º e 19.º do Departamento n.º 66/80, de 9 de Abril.
 
 ### CAPÍTULO V — Instalações e equipamento
 
-###### Art. 17.º Ao Departamento são atribuídas todas as instalações e equipamentos pertencentes as actuais Secções de Ciências Ambientais Básicas, Engenharia do Ambiente, Engenharia Sanitária e, Ordenamento do Território do Departamento de Ciências e Engenharia do Ambiente.
+Art. 17.º Ao Departamento são atribuídas todas as instalações e equipamentos pertencentes as actuais Secções de Ciências Ambientais Básicas, Engenharia do Ambiente, Engenharia Sanitária e, Ordenamento do Território do Departamento de Ciências e Engenharia do Ambiente.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 18.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada do Departamento promoverá as diligências necessárias à realização dos processos eleitorais previstos e regulados.
+Art. 18.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada do Departamento promoverá as diligências necessárias à realização dos processos eleitorais previstos e regulados.
 
 2 - O primeiro mandato dos membros eleitos em consequência dos processos referidos no número anterior terminar no fim do ano lectivo seguinte àquele em que se tiver realizado a eleição.

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-1986-195067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb3b7c7cc7fc68e3218c208de132714829cecfee2eb0880c23a1921d32ac85a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5182dcb9a5d2d559d33e54c5f800812e47ddf0cb6332fc81a43e5f1018642b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Faculdade de Ciências e Tecnologia
+- Regulamento
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:33Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +104,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 10 de Abril de 1986.**
+Assinada em 10 de Abril de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Regulamento do Departamento de Física da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º - 1 - O Departamento de Física da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, adiante designado apenas por «Departamento», constitui uma unidade orgânica permanente de ensino graduado e pós-graduado e de investigação fundamental e aplicada nos domínios da física, da engenharia física e nos destes afins ou interdisciplinares, cabendo-lhe ainda promover o desenvolvimento científico e tecnológico, a prestação de serviços e a efectivação de actividades de extensão universitária naqueles domínios.
+Artigo 1.º - 1 - O Departamento de Física da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, adiante designado apenas por «Departamento», constitui uma unidade orgânica permanente de ensino graduado e pós-graduado e de investigação fundamental e aplicada nos domínios da física, da engenharia física e nos destes afins ou interdisciplinares, cabendo-lhe ainda promover o desenvolvimento científico e tecnológico, a prestação de serviços e a efectivação de actividades de extensão universitária naqueles domínios.
 
 2 - O Departamento poderá subdividir-se em secções, nos termos fixados no [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, desde que a sua dimensão e a pluralidade das matérias científicas por ele abrangidas o recomendem. As secções devem corresponder a áreas diferenciadas do conhecimento, quer ao nível do Departamento quer ainda ao nível da Faculdade.
 
-###### Art. 2.º - 1 - Enquanto unidade de ensino, compete ao Departamento:
+Art. 2.º - 1 - Enquanto unidade de ensino, compete ao Departamento:
 
 a) Garantir o ensino das disciplinas compreendidas nos domínios da física teórica e aplicada;
 
@@ -121,17 +130,17 @@ b) Prosseguir o objectivo de desenvolvimento tecnológico pelos conhecimentos ci
 
 3 - O Departamento prestará serviços de extensão universitária, promovendo a difusão da cultura nas áreas específicas de que se ocupa.
 
-###### Art. 3.º O Departamento poderá estabelecer convénios de cooperação e intercâmbio científicos com entidades públicas ou privadas, nacionais ou estrangeiras, a homologar pelos órgãos centrais da Universidade.
+Art. 3.º O Departamento poderá estabelecer convénios de cooperação e intercâmbio científicos com entidades públicas ou privadas, nacionais ou estrangeiras, a homologar pelos órgãos centrais da Universidade.
 
 ### CAPÍTULO II — Órgãos do Departamento
 
-###### Art. 4.º O Departamento tem os seguintes órgãos:
+Art. 4.º O Departamento tem os seguintes órgãos:
 
 a) O conselho de departamento;
 
 b) A comissão executiva.
 
-###### Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e não permanentes.
+Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e não permanentes.
 
 2 - São membros permanentes os professores catedráticos, associados e auxiliares e investigadores doutorados incluídos na área científica abrangida pelo Departamento.
 
@@ -139,7 +148,7 @@ b) A comissão executiva.
 
 4 - A diferença entre o número dos membros não permanentes provenientes das diversas secções do Departamento não pode ser superior a um.
 
-###### Art. 6.º - 1 - A eleição dos membros permanentes terá lugar nos primeiros dez dias do mês de Julho do primeiro ano de cada biénio.
+Art. 6.º - 1 - A eleição dos membros permanentes terá lugar nos primeiros dez dias do mês de Julho do primeiro ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho de departamento ou, na sua falta ou impedimento, o membro mais antigo da categoria mais elevada do Departamento, convocará para uma reunião os docentes, investigadores e técnicos superiores não doutorados em regime de tempo integral do Departamento.
 
@@ -151,7 +160,7 @@ b) A comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 7.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento em regime de tempo integral e em exercício de funções, eleito por dois anos pelos membros do conselho.
+Art. 7.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento em regime de tempo integral e em exercício de funções, eleito por dois anos pelos membros do conselho.
 
 2 - Em caso de ausência ou impedimento temporário do presidente, o conselho será presidido pelo professor mais antigo da categoria mais elevada do Departamento e em regime de tempo integral.
 
@@ -175,7 +184,7 @@ b) A comissão executiva.
 
 12 - As convocatórias serão assinadas pelo presidente ou seu substituto legal e enviadas aos vogais com a antecedência mínima de 48 horas, salvo em caso de justificada urgência, devendo nelas constar obrigatoriamente a ordem de trabalhos e a data, a hora e o local da reunião.
 
-###### Art. 8.º Ao conselho de departamento incumbe:
+Art. 8.º Ao conselho de departamento incumbe:
 
 a) Elaborar propostas de alteração ao regulamento do Departamento;
 
@@ -211,13 +220,13 @@ q) Deliberar sobre outras matérias que, nos termos do [Decreto-Lei n.º 66/80](
 
 r) Afixar um resumo das deliberações tomadas em qualquer reunião no prazo de seis dias após a sua realização.
 
-###### Art. 9.º A comissão executiva do Departamento é constituída por:
+Art. 9.º A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho de departamento, que preside;
 
 b) Dois docentes ou investigadores do conselho de departamento em regime de tempo integral e em exercício de funções, designados pelo presidente.
 
-###### Art. 10.º À comissão executiva incumbe:
+Art. 10.º À comissão executiva incumbe:
 
 a) Dirigir o Departamento de acordo com a legislação em vigor, com as normas gerais da Faculdade e com as decisões e orientações estabelecidas pelo conselho de departamento;
 
@@ -237,7 +246,7 @@ h) Dar andamento às propostas de admissão de pessoal e de renovação e rescis
 
 i) Zelar pela boa conservação das instalações e do equipamento afectos ao Departamento.
 
-###### Art. 11.º Ao presidente do conselho de departamento incumbe:
+Art. 11.º Ao presidente do conselho de departamento incumbe:
 
 a) Convocar e presidir às reuniões do conselho e da comissão executiva;
 
@@ -247,51 +256,51 @@ c) Representar o Departamento;
 
 d) Exercer, em permanência, as funções que lhe forem cometidas pelo conselho e pela comissão executiva, podendo qualquer membro destes órgãos pedir a ratificação das resoluções do presidente na reunião ordinária seguinte.
 
-###### Art. 12.º O presidente do conselho de departamento pode ser parcialmente dispensado do serviço docente durante o seu mandato, de acordo com as disposições do conselho científico da Faculdade.
+Art. 12.º O presidente do conselho de departamento pode ser parcialmente dispensado do serviço docente durante o seu mandato, de acordo com as disposições do conselho científico da Faculdade.
 
-###### Art. 13.º Nas suas actividades de gestão, a comissão executiva será coadjuvada por um funcionário administrativo com a categoria de chefe de secção, primeiro-oficial ou equiparado, que desempenhará as funções de secretário do Departamento.
+Art. 13.º Nas suas actividades de gestão, a comissão executiva será coadjuvada por um funcionário administrativo com a categoria de chefe de secção, primeiro-oficial ou equiparado, que desempenhará as funções de secretário do Departamento.
 
-###### Art. 14.º Os órgãos directivos da Faculdade e, quando for caso disso, da Universidade funcionam, nos termos da lei, como órgãos de recurso e fiscalização, dentro das suas atribuições, das decisões dos órgãos do Departamento.
+Art. 14.º Os órgãos directivos da Faculdade e, quando for caso disso, da Universidade funcionam, nos termos da lei, como órgãos de recurso e fiscalização, dentro das suas atribuições, das decisões dos órgãos do Departamento.
 
 ### CAPÍTULO III — Secções
 
-###### Art. 15.º As secções são entendidas como unidades orgânicas respeitantes a áreas diferenciadas do conhecimento, com dimensões e características tais que lhes permitam, de forma autónoma, prosseguir e desenvolver actividades de ensino graduado e pós-graduado, de investigação teórica e aplicada e de prestação de serviços naquelas áreas.
+Art. 15.º As secções são entendidas como unidades orgânicas respeitantes a áreas diferenciadas do conhecimento, com dimensões e características tais que lhes permitam, de forma autónoma, prosseguir e desenvolver actividades de ensino graduado e pós-graduado, de investigação teórica e aplicada e de prestação de serviços naquelas áreas.
 
-###### Art. 16.º - 1 - A secção tem como órgão o conselho de secção e ou o coordenador de secção, o qual deverá ser um professor, de carreira ou convidado, em regime de tempo integral e em exercício de funções.
+Art. 16.º - 1 - A secção tem como órgão o conselho de secção e ou o coordenador de secção, o qual deverá ser um professor, de carreira ou convidado, em regime de tempo integral e em exercício de funções.
 
 2 - Compete ao conjunto dos membros da secção deliberar da conveniência em constituir o conselho de secção, com prévio acordo do conselho de departamento.
 
-###### Art. 17.º As competências e atribuições dos órgãos das secções do Departamento serão objecto de normas internas a aprovar pelos órgãos de gestão da Faculdade.
+Art. 17.º As competências e atribuições dos órgãos das secções do Departamento serão objecto de normas internas a aprovar pelos órgãos de gestão da Faculdade.
 
 ### CAPÍTULO IV — Autonomia do Departamento
 
-###### Art. 18.º O Departamento tem autonomia científica e pedagógica no que se refere à organização e realização das suas actividades de ensino, investigação e extensão universitária, podendo propor convénios e acordos com entidades públicas ou privadas, cuja celebração submeterá à Universidade, sem prejuízo da legislação aplicável e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Universidade ou da Faculdade.
+Art. 18.º O Departamento tem autonomia científica e pedagógica no que se refere à organização e realização das suas actividades de ensino, investigação e extensão universitária, podendo propor convénios e acordos com entidades públicas ou privadas, cuja celebração submeterá à Universidade, sem prejuízo da legislação aplicável e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Universidade ou da Faculdade.
 
-###### Art. 19.º O Departamento poderá celebrar convénios, contratos ou termos de tarefa com entidades ou indivíduos nacionais ou estrangeiros para realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual no âmbito das suas atribuições de prestação de serviços.
+Art. 19.º O Departamento poderá celebrar convénios, contratos ou termos de tarefa com entidades ou indivíduos nacionais ou estrangeiros para realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual no âmbito das suas atribuições de prestação de serviços.
 
-###### Art. 20.º - 1 - Com o fim de estimular as suas actividades, o Departamento poderá arrecadar receitas provenientes da prestação de serviços, bem como de subsídios concedidos por quaisquer entidades.
+Art. 20.º - 1 - Com o fim de estimular as suas actividades, o Departamento poderá arrecadar receitas provenientes da prestação de serviços, bem como de subsídios concedidos por quaisquer entidades.
 
 2 - As receitas referidas no número anterior serão escrituradas em contas de ordem, podendo ser aplicadas no próprio ano ou em anos futuros, através de orçamentos privativos.
 
-###### Art. 21.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 20.º, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
+Art. 21.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 20.º, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
 
 2 - Nos termos do número anterior, o conselho de departamento gozará da competência atribuída aos responsáveis dos serviços com autonomia administrativa e financeira.
 
-###### Art. 22.º Serão definidas pelos órgãos directivos de Faculdade as instalações afectas ao Departamento, incluindo áreas para laboratórios, gabinetes, museu, biblioteca e serviços administrativos, que ficarão sob a responsabilidade do Departamento.
+Art. 22.º Serão definidas pelos órgãos directivos de Faculdade as instalações afectas ao Departamento, incluindo áreas para laboratórios, gabinetes, museu, biblioteca e serviços administrativos, que ficarão sob a responsabilidade do Departamento.
 
-###### Art. 23.º Os quadros de pessoal administrativo, técnico, auxiliar e operário da Faculdade deverão explicitar os lugares adstritos ao Departamento.
+Art. 23.º Os quadros de pessoal administrativo, técnico, auxiliar e operário da Faculdade deverão explicitar os lugares adstritos ao Departamento.
 
-###### Art. 24.º Serão descentralizadas para os órgãos do Departamento, de acordo com as normas gerais em vigor na Faculdade, todas as funções de natureza científica e pedagógica que sejam específicas da sua área.
+Art. 24.º Serão descentralizadas para os órgãos do Departamento, de acordo com as normas gerais em vigor na Faculdade, todas as funções de natureza científica e pedagógica que sejam específicas da sua área.
 
-###### Art. 25.º As matérias objecto dos artigos 22.º e 23.º serão definidas em normas a estabelecer pelos órgãos directivos da Faculdade, depois de ouvido o Departamento.
+Art. 25.º As matérias objecto dos artigos 22.º e 23.º serão definidas em normas a estabelecer pelos órgãos directivos da Faculdade, depois de ouvido o Departamento.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 26.º - 1 - Os membros dos órgãos dotados de poder deliberativo são, civil e disciplinarmente, responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 26.º - 1 - Os membros dos órgãos dotados de poder deliberativo são, civil e disciplinarmente, responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior os membros que fizerem exarar em acta a sua oposição às deliberações tomadas e os ausentes que o façam na primeira reunião em que estiverem presentes.
 
-###### Art. 27.º - 1 - Os órgãos com poder deliberativo só podem reunir quando estiver presente a maioria dos seus membros.
+Art. 27.º - 1 - Os órgãos com poder deliberativo só podem reunir quando estiver presente a maioria dos seus membros.
 
 2 - As decisões serão aprovadas por maioria simples.
 
@@ -301,7 +310,7 @@ d) Exercer, em permanência, as funções que lhe forem cometidas pelo conselho 
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 28.º - 1 - No prazo de dez dias após a publicação deste Regulamento o professor mais antigo do Departamento da categoria mais elevada e em efectividade de funções na Faculdade desencadeará os processos eleitorais para a eleição dos membros não permanentes do conselho de departamento.
+Art. 28.º - 1 - No prazo de dez dias após a publicação deste Regulamento o professor mais antigo do Departamento da categoria mais elevada e em efectividade de funções na Faculdade desencadeará os processos eleitorais para a eleição dos membros não permanentes do conselho de departamento.
 
 2 - No prazo de sete dias após as eleições para o conselho de departamento o presidente eleito designará os outros dois membros da comissão executiva.
 

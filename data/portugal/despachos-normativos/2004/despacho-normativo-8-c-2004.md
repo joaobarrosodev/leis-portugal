@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 1º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 912-(19) a 912-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8-c/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-c-2004-486140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54eca618897450365a9216b0d96a321b23948a4bc8c2fde6d61a58b58577f672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70cc3486d4b7fe5a3724944de82e4b1aa081ddaca577cd7af9e39638b5f23c92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Financiamento
-- Turismo
-- Promoção Turística
 - Direcção Geral do Turismo
-- Projeto de Investimento
+- Financiamento
+- ICEP
 - Instituto de Financiamento e Apoio ao Turismo
 - Plano de Consolidação do Turismo
-- Regulamento de Execução do Subprograma Nº 2-promoção e Animação Turística
 - Programa de Intervenções para a Qualificação do Turismo
+- Projeto de Investimento
+- Promoção Turística
+- Regulamento de Execução do Subprograma Nº 2-promoção e Animação Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:286686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302517:por
+  label: "Remetidas para o Instituto de Turismo de Portugal as menções efectuadas ao Instituto de Financiamento e Apoio ao\
+    \ Turismo (IFT) e ao ICEP Portugal, constantes do Regulamento aprovado pelo presente diploma, pelo DN.23/2004.07.04.2004.MECO,\
+    \ DR.IS-B [109] de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2004-302517
+  date: '2004-04-07'
+- type: amended_by
+  target: pt:dre:157992:por
+  label: "Encerradas as candidaturas, sem prejuízo das já apresentadas, á medida 2.4, «Apoio À Diversificação da Oferta de\
+    \ Animação Turística» e reforça a dotação do Subprograma n.º 2 «Promoção e Animação e Animação Turística», do PIQTUR,\
+    \ regulado pelo presente diploma, pelo DN.36-A/2005.06.07.2005.MEI, DR.IS-B [142] de 26.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-a-2005-157992
+  date: '2005-07-06'
+- type: amended_by
+  target: pt:dre:286686:por
+  label: "Encerrada, sem prejuízo das candidaturas já apresentadas, a medida nº 2.3 \"Dinamização do mercado interno\", e\
+    \ suspensa, a partir de 27.05.2006, a apresentação da candidaturas à medida nº 2.2 \"Apoio à captação e potenciação de\
+    \ eventos de projecção internacional\", ambas do subprograma nº 2 \"Promoção e animação turística\", cujo regulamento\
+    \ de execução foi aprovado pelo presente diploma, pelo DN.32/2006.03.05.2006.MEI, DR.IS-B [102] de 26.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/32-2006-286686
+  date: '2006-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/27/2002/04/19/p/dre
   label: null
@@ -97,16 +119,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:48Z'
   warnings: []
   errors: []
 ---
@@ -1135,7 +1173,7 @@ O presente Regulamento aplica-se em Portugal continental e nas Regiões Autónom
 
 5 - Para efeitos de apreciação e decisão, todas as candidaturas apresentadas no âmbito da medida n.º 2.4, a partir da data de entrada em vigor do presente diploma, serão analisadas no 1.º trimestre civil de 2004, nos termos do disposto no artigo 36.º do presente Regulamento.
 
-## APÊNDICE
+APÊNDICE
 
 Avaliação e selecção dos projectos
 
@@ -1155,29 +1193,29 @@ a) Critério A - adequação do projecto aos objectivos e requisitos das acçõe
 
 Medidas n.os 2.1, 2.2 e 2.3
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 Medida n.º 2.4
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 b) Critério B - relevância do projecto no contexto do turismo nacional:
 
 Medidas n.os 2.1, 2.2 e 2.3
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 Medida n.º 2.4
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 c) Critério C - grau de contribuição do projecto para a optimização dos recursos (o grau de contribuição do projecto para a optimização dos recursos poderá ser aferido pelo aproveitamento de sinergias e ou de economias de escala ou pela mobilização de auto financiamento, em função da acções elegíveis que estiverem em causa):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 d) Critério D - impacte estimado do projecto face aos objectivos das acções elegíveis:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:
 
@@ -1199,7 +1237,7 @@ CD - critério D.
 
 5 - A intensidade do apoio a conceder determina-se em função da pontuação obtida pelos projectos nos termos seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
+[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00190035.pdf)
 
 6 - No caso de projectos manifestamente inovadores e ou estruturantes para o turismo nacional, a intensidade do incentivo, indicada no número anterior, poderá ser bonificada até 25 pontos percentuais, a acrescer ao apoio que resulta da pontuação decorrente da apreciação da valia dos projectos.
 

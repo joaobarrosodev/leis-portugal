@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20900/25152522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/512-1986-220125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a48a64cbc13ef0e14a1ee2296899adec384a6497e9c4ec789014d3611ca78057
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e7a8c318e5fe02ca671bccf5968b81f28bd43b904f8b3b02dac578657cbd69f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Teatro
+- Escola Superior de Teatro e Cinema
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:245321:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662704:por
+  label: "Alterado o n.º 1 do n.º 7.º, o n.º 16.º, e o quadro 3 do anexo II ao presente diploma, pela PORT.123/87.23.02.1987.MEC,\
+    \ DR.IS [45] de 23.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1987-662704
+  date: '1987-02-23'
+- type: amended_by
+  target: pt:dre:420594:por
+  label: "Substituidos os nºs 7 a 15 pelos nºs 7 a 15-M, na redacção dada pela Port 123/87 de 23-Fev, pela PORT.648/87.1987.07.23.MEC,\
+    \ DR.IS [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/648-1987-420594
+  date: '1987-07-23'
+- type: amended_by
+  target: pt:dre:549981:por
+  label: "Alterados os quadros 3 e 4 do anexo I e o quadro 3 do anexo II, pela PORT.972/89.09.11.1989.ME, DR.IS [258] de 09.11.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/972-1989-549981
+  date: '1989-11-09'
+- type: amended_by
+  target: pt:dre:685042:por
+  label: "Alterados os nºs 1º, 2º, 3º, 4º, 5º e 6º do presente diploma pela PORT.1172/97.1997.11.17.ME DR.IS-B [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1172-1997-685042
+  date: '1997-11-17'
+- type: amended_by
+  target: pt:dre:172518:por
+  label: "Determinado que, com a entrada em funcionamento do curso de Realização Plástica do Espectáculo e nos termos do art.\
+    \ 2º, cesse a ministração do curso de bacharelato em Realização Plástica do Espectáculo, criado pela presente portaria,\
+    \ na redacção da Port 123/87 de 23-Fev, da Port 648/87 de 23-Jul, da Port 972/89 de 09-Nov e da Port 1172/97 de 17-Nov,\
+    \ pela PORT.1088/2002.2002.08.22.MCES, DR.IS-B [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-2002-172518
+  date: '2002-08-22'
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694180:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, na parte em que autoriza o Instituto Politécnico de Lisboa a conferir o grau de bacharel em Teatro e, seguidamente,\
+    \ em Formação de Actores e em Estudos Teatrais, pela PORT.992/99.1999.11.03.ME,DR.IS-B [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/992-1999-694180
+  date: '1999-11-03'
+- type: repealed_by
+  target: pt:dre:172518:por
+  label: "Revogado, nos termos do art. 2º e na parte em que autorizou o Instituto Politécnico de Lisboa a conferir o grau\
+    \ de bacharel em Realização Plástica do Espéctaculo,pela PORT.1088/2002.2002.08.22.MCES, DR.IS-B [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-2002-172518
+  date: '2002-08-22'
+- type: repealed_by
+  target: pt:dre:245321:por
+  label: "Revogado o presente diploma, com a redacção conferida pelas Port 123/87 de 23-Fev, 648/87 de 23-Jul e 1172/97 de\
+    \ 17-Nov, na parte em que autorizou o Instituto Politécnico de Lisboa, através da sua Escola Superior de Teatro e Cinema,\
+    \ a conferir o grau de bacharel em Teatro e, seguidamente em Produção, nos termos do disposto no nº 1 do nº 3º da PORT.753/2005.29.08.2005.MCTES,\
+    \ DR.IS-B [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/753-2005-245321
+  date: '2005-08-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:50:52Z'
   warnings: []
   errors: []
 ---
@@ -299,8 +363,8 @@ A entrada em funcionamento da área de Produtor do curso de Teatro fica condicio
 
 Ministério da Educação e Cultura.
 
-**Assinada em 8 de Agosto de 1986.**
+Assinada em 8 de Agosto de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20900/25152522.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20900/25152522.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20900/25152522.pdf)

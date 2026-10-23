@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/41/2004/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2004-561861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a19c820f7bd69f0203eb828a36f670d1757aa288014d1f2f2e9fa96c40d46deb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b818e2beaa0bc9d324be2e76315f81f594c9e17b03cf7b17410883cf7f14bc8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda aos Sinistrados
-- Incêndio
 - Catástrofe
+- Incêndio
 - Pensionista
 - Prestações da Segurança Social
 - Prestações Pecuniárias
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:605334:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605334:por
+  label: "Prorrogado até 31 de Janeiro de 2005 o prazo de aplicação constante do nº 3 do presente diploma, pelo DN.11/2005.03.01.2005.MSSFC,\
+    \ DR.IS-B [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2005-605334
+  date: '2005-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/123/2004/08/19/p/dre
   label: null
@@ -88,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/126/2004/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/126/2004/08/28/p/dre
+- type: cites
+  target: pt:dre:480536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626252:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:32Z'
   warnings: []
   errors: []
 ---

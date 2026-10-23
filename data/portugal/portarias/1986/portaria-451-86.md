@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/451-1986-218882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:49:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2249b167c038af32dc929d4f73eab021314a4dbbd3d00bd05c9a3462bf488be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e698128641b8ec96db453a3c1e8cd69aa6a2678fdb566c03e40573c0576ba07a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:49:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Superior Técnico
+- Mestrado
+- Plano de Estudos
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:571269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571377:por
+  label: "Derrogada, na parte referente à regulamentação do curso especializado conducente ao mestrado em Construção, pela\
+    \ PORT.360/90.11.05.1990.ME, DR.IS [108] de 11.05.1990, sem prejuízo do disposto no seu nº 13º.\0º.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-1990-571377
+  date: '1990-05-11'
+- type: amended_by
+  target: pt:dre:571269:por
+  label: "Derrogado o presente diploma, na parte referente à regulamentação do curso especializado conducente ao mestrado\
+    \ em Construção, pela PORT.368/90.12.05.1990.ME, DR.IS [109] de 12.05.1990, sem prejuízo do disposto no n.º 13º (regime\
+    \ de transição) daquele diploma.\0a.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-1990-571269
+  date: '1990-05-12'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:49:20Z'
   warnings: []
   errors: []
 ---
@@ -211,6 +248,6 @@ O início de funcionamento do curso ficará dependente de autorização expressa
 
 Ministério da Educação e Cultura.
 
-**Assinada em 12 de Junho de 1986.**
+Assinada em 12 de Junho de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.

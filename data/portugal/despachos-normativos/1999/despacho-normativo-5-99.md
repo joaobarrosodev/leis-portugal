@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/1999/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-1999-158597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dfbb6874c36d2a152b4daa074e031b3b145c0a78c297c81ca79881e6e6ea209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1793bac3e490836c8ae998cb41b956bc6070de3ad3cb834d761a07028c933597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Atividade Industrial
-- Financiamento
-- Empresa
 - CEE
-- Ministro da Economia
 - Definição de Competências
 - Desenvolvimento Industrial
-- Política Industrial
+- Empresa
 - Estabelecimento Industrial
+- Financiamento
 - Fiscalização
-- Indústria Têxtil
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- Ministro do Equipamento do Planeamento e da Administração do Território
-- Reestruturação Industrial
-- Programa Retex
-- Regime de Apoio
-- Setor Empresarial
-- Sector Industrial
-- Pedip II
-- Sindepedip
 - IAPMEI
+- Indústria
+- Indústria Têxtil
+- Ministro da Economia
+- Ministro do Equipamento do Planeamento e da Administração do Território
+- Pedip II
+- Política Industrial
+- Programa Retex
+- Projeto de Investimento
+- Reestruturação Industrial
+- Regime de Apoio
+- Sector Industrial
+- Setor Empresarial
+- Sindepedip
 - Sistema de Incentivos Pedip
 - Subsídio
 - Subsídio não Reembolsável
@@ -106,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/548/1994/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/548/1994/07/29/p/dre
+- type: cites
+  target: pt:dre:204203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661941:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:36Z'
   warnings: []
   errors: []
 ---

@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-1985-170497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72f6959ffb3a894e98fc2d3bb7c3f2a7f9d4eb55bff309bfa9148906d093d338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ae7e96823754ab8625b271451d4a437dcc907981f1b5e2d4889b2edf29e5fa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Criação de Lugares
+- Extinção de Lugares
+- Hospital da Universidade de Coimbra
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:139752:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601139:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:04Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +129,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
 
-**Assinada em 5 de Novembro de 1985.**
+Assinada em 5 de Novembro de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

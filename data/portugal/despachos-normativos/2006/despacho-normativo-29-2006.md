@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/29/2006/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2006-659156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99aebf2d5c3139960dd43973f1458bd11cc9a79819670e1b338d154f5d258ccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9ede163bb4005720a462a7f78aa740ebe076ecff69244398cfa11b6272ff13c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
-- Financiamento
 - Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
-- Fundo Florestal Permanente
-- Projeto de Investimento
-- Ordenamento Florestal
 - Exploração Florestal
-- Regulamento
+- Financiamento
+- Fundo Florestal Permanente
 - Ifadap
+- Ordenamento Florestal
 - Política Florestal
+- Prevenção de Incêndios
+- Projeto de Investimento
+- Proteção da Floresta
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/35/2005/07/25/p/dre
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/679/2004/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/679/2004/06/19/p/dre
+- type: cites
+  target: pt:dre:240023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596347:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:39Z'
   warnings: []
   errors: []
 ---

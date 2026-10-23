@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-1986-227050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d3c9d6de0768c4ef572947f47e52bbe4281280ce3eccdd4beb154fae3367bf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dd2c6bdc94f02abce75621778065d0ccb9dd8131ca87853011a988dac8eb3df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Financiamento
+- Incentivos Fiscais
+- Sistema Integrado de Incentivos ao Investimento
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADAS A AL C) DO NUM 2, NUM 3, AL B) DO NUM 7 E OS NUM 9 E 10, AL D) DO NUM 12 E NUM 17 PELA PORT 472/86 DE 28-AGO
+    DR.IS [197]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-08-28'
+- type: cites
+  target: pt:dre:268585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348117:por
+  label: Retificada pelo(a) Declaração - Diário da República n.º 199/1986, 1º Suplemento, Série I de 1986-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-348117
+  date: '1986-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:14Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +233,7 @@ Quando os processos forem objecto de diligências por parte da Inspecção-Geral
 
 Ministérios das Finanças e da Indústria e Comércio.
 
-**Assinada em 28 de Março de 1986.**
+Assinada em 28 de Março de 1986.
 
 Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
@@ -216,15 +243,15 @@ Verificação do investimento
 
 Mapa modelo n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 Mapa modelo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 Mapa modelo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 ## ANEXO II — Mapas normalizados para fins do regime geral de incentivos fiscais e financeiros
 
@@ -232,26 +259,26 @@ Verificação dos efeitos do investimento
 
 Mapa modelo n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 Mapa modelo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 ## ANEXO III — Listagem do equipamento integrado no investimento (ver nota a)
 
 1 - Equipamento de origem nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 (nota a) Os bens de equipamento adquiridos em estado de uso deverão igualmente constar de listagem individualizada de idêntico modelo, a anexar.
 
 2 - Equipamento de origem externa (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
 (nota a) Deverá utilizar-se o câmbio à data da aquisição do bem (factura).
 
 ## ANEXO IV — Elementos sobre a operação de financiamento aprovada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)

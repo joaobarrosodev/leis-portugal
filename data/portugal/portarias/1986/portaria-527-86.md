@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21400/25752581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-1986-222029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68d1d4f3e282a211956206466701a371b9c6b578da4053bd1094db21c4f9c9ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93399c5d9957a0b68061197d12ac354850387dc469afbdba017f37e7bbfc05af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Comissão Instaladora
+- Curso de Cinema
+- Ensino Superior
+- Ensino Superior Politécnico
+- Escola Superior de Teatro e Cinema
+- Gabinete Coordenador do Ingresso no Ensino Superior
+- Instituto Politécnico
+- Lisboa
+- Numerus Clausus
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:532870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420591:por
+  label: "Substituidos os n.ºs 8.º a 16.º, pela PORT.645/87.1987.07.23.MEC DR.IS [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/645-1987-420591
+  date: '1987-07-23'
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532870:por
+  label: "Revogada, findo o processo de transição fixado nos termos do artigo 31.º do Regulamento aprovado pela Portaria 413-A/98,\
+    \ de 17 de Julho, na redacção da Port 645/87, de 23-Jul, pela PORT.1005/2000.2000.10.18.ME DR.IS-B [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1005-2000-532870
+  date: '2000-10-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:15Z'
   warnings: []
   errors: []
 ---
@@ -327,8 +357,8 @@ g) Início das aulas do 1.º ano - 27 de Outubro.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 8 de Agosto de 1986.**
+Assinada em 8 de Agosto de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21400/25752581.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21400/25752581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21400/25752581.pdf)

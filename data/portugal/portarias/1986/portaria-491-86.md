@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/491-1986-220086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 303a3c45e7d3b5deffa78b74cd85dc688db7f00c7f164a7d9cc6bf8ced64009e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b4701fc0117c6ba644db8a433d057fbcc2827866a97dbf81e11d1b7adb4228b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Secundária
+- Fundação Francisco FINO
+- Portalegre
+- Prémio
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:370786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:50:21Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +106,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 18 de Agosto de 1986.**
+Assinada em 18 de Agosto de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Regulamento dos Prémios Fundação Francisco Fino
 
-###### Artigo 1.º A Fundição Francisco Fino institui quatro prémios escolares anuais e uma bolsa de estudo com a duração de três anos, atribuídos a alunos das áreas de Mecanotecnia, Contabilidade e Administração, Secretariado e Relações Públicas.
+Artigo 1.º A Fundição Francisco Fino institui quatro prémios escolares anuais e uma bolsa de estudo com a duração de três anos, atribuídos a alunos das áreas de Mecanotecnia, Contabilidade e Administração, Secretariado e Relações Públicas.
 
-###### Art. 2.º - 1 - Cada um dos prémios será constituído por um montante igual a 1% do capital da Fundação, arredondado para o milhar de escudos imediatamente superior quando tal percentagem não corresponder a um valor exacto expresso em milhares de escudos.
+Art. 2.º - 1 - Cada um dos prémios será constituído por um montante igual a 1% do capital da Fundação, arredondado para o milhar de escudos imediatamente superior quando tal percentagem não corresponder a um valor exacto expresso em milhares de escudos.
 
 2 - A bolsa de estudo será de valor igual a 1% do capital da Fundação, por mês, paga a partir do primeiro dia útil de cada mês, com excepção de 1 de Julho a 31 de Agosto, durante três anos lectivos.
 
@@ -113,7 +122,7 @@ Regulamento dos Prémios Fundação Francisco Fino
 
 4 - O valor dos prémios será sempre constituído por uma parte pecuniária e outra comemorativa, nos termos do artigo 4.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.
 
-###### Art. 3.º - 1 - É condição indispensável à atribuição dos prémios que os alunos, ao longo do curso, se distingam, cumulativamente, com os seguintes requisitos:
+Art. 3.º - 1 - É condição indispensável à atribuição dos prémios que os alunos, ao longo do curso, se distingam, cumulativamente, com os seguintes requisitos:
 
 a) Bom aproveitamento escolar;
 
@@ -127,7 +136,7 @@ c) Reconhecido bom comportamento.
 
 4 - Não existindo alunos que reúnam as condições para atribuição dos prémios, será o valor correspondente reintegrado no capital da Fundação.
 
-###### Artigo 4.º - 1 - São condições cumulativamente indispensáveis para atribuição de bolsas de estudo a alunos:
+Artigo 4.º - 1 - São condições cumulativamente indispensáveis para atribuição de bolsas de estudo a alunos:
 
 a) Terem terminado o curso com acesso ao ensino superior nos três anos anteriores;
 
@@ -155,7 +164,7 @@ e) Curso superior que deseja frequentar.
 
 6 - Todos os anos, em data a definir pelo conselho directivo em função do calendário escolar, será publicado, por um prazo nunca inferior a quinze dias, que se poderão candidatar a esta bolsa todos os alunos que pensem preencher os requisitos necessários e pretendam prosseguir a vida escolar.
 
-###### Art. 5.º - 1 - Os candidatos serão notificados da decisão nos termos do artigo 11.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.
+Art. 5.º - 1 - Os candidatos serão notificados da decisão nos termos do artigo 11.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.
 
 2 - Da decisão referida no n.º 1 poderão os interessados reclamar nos termos do n.º 3 do artigo 8.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.
 
@@ -163,14 +172,14 @@ e) Curso superior que deseja frequentar.
 
 4 - Em qualquer dos casos das decisões referidas no n.º 3 do artigo 5.º caberá recurso para o Ministro da Educação e Cultura nos termos do n.º 5 do artigo 8.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.
 
-###### Art. 6.º - 1 - Da atribuição dos prémios será feita publicidade e a sua entrega obedecerá aos princípios do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro (n.º 2 do artigo 13.º), e, sempre que possível, revestida de uma certa solenidade.
+Art. 6.º - 1 - Da atribuição dos prémios será feita publicidade e a sua entrega obedecerá aos princípios do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro (n.º 2 do artigo 13.º), e, sempre que possível, revestida de uma certa solenidade.
 
 2 - O conselho directivo comunicará com a máxima antecedência possível ao conselho geral e ao conselho de administração do Montepio Geral a identificação dos premiados e a data que julga mais oportuna para a entrega dos prémios.
 
-###### Art. 7.º - 1 - Todos os valores que por qualquer razão deixem de ser atribuídos serão capitalizados.
+Art. 7.º - 1 - Todos os valores que por qualquer razão deixem de ser atribuídos serão capitalizados.
 
 Se em dois anos consecutivos nenhuma candidatura for contemplada, poderá o valor correspondente a dez meses de bolsa ser utilizado pela administração, sob proposta do conselho geral, no apoio aos alunos da Escola Secundária de São Lourenço mais carenciados, cujo auxílio lhe seja solicitado e proposto pelo conselho directivo da Escola.
 
 2 - No caso de se extinguir a Escola Secundária de São Lourenço e ou os cursos previstos nos estatutos, serão os prémios e as bolsas de estudo atribuídos no estabelecimento de ensino e cursos mais análogos que lhes sucederem.
 
-###### Art. 8.º Quaisquer prémios só poderão ser atribuídos a alunos que não se encontram nas condições previstas no n.º 2 do artigo 3.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.
+Art. 8.º Quaisquer prémios só poderão ser atribuídos a alunos que não se encontram nas condições previstas no n.º 2 do artigo 3.º do [Decreto-Lei n.º 367/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1979-370786), de 4 de Setembro.

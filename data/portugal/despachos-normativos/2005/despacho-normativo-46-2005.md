@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/46/2005/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-2005-592878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c731354b31084fd9a0895f85bba11d3403e5c00a1e37dde463366e0e5d806b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace62a9c55bb1253aebbe2d017b801d0990ee3cbfd01d8d9a63a63c6c6e26178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- INEM
-- Contrato Individual de Trabalho
-- Regime Laboral
+- Avaliação do Pessoal
 - Carreira Profissional
-- Férias
-- Recrutamento de Pessoal
-- Horas Extraordinárias
-- Faltas
+- Contrato de Trabalho
+- Contrato Individual de Trabalho
 - Descrição de Funções
+- Duração do Trabalho
+- Faltas
+- Férias
+- Funcionário Público
+- Horário de Trabalho
+- Horas Extraordinárias
+- INEM
+- Pessoal Dirigente
 - Promoção Profissional
 - Quadro de Pessoal
-- Contrato de Trabalho
-- Duração do Trabalho
-- Horário de Trabalho
+- Recrutamento de Pessoal
+- Regime Laboral
 - Regulamento Interno
 - Remuneração
 - Segurança Social
-- Avaliação do Pessoal
-- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:74163192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638543:por
+  label: "Mantido em vigor, até à aprovação do regulamento de pessoal, pelo DEC LEI.220/2007.29.05.2007.MS, DR.IS [103] de\
+    \ 29.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2007-638543
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as carreiras Gerais de Técnico Superior, bem como para as categorias de assistente\
+    \ técnico e assistente operacional, nos termos dos arts. 2.º, 4º e 7º, trabalhadores integrados nas carreiras ou titulares\
+    \ das categorias previstas no regulamento interno aprovado pelo presente despacho, extintas a partir da entrada em vigor\
+    \ do Regime de Contrato de Trabalho em Funções Públicas (RCTFP) e revogados, a partir da mesma data, os nºs 1.4 a 1.9,\
+    \ 2.2 e 2.4 a 2.9 do anexo i e n.ºs iii e v a xiii do anexo ii do citado regulamento, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:74163192:por
+  label: Revogadas as disposições normativas constantes do n.º 2.10 do anexo I e do n.º XIV do anexo II, pelo(a) Decreto-Lei
+    n.º 19/2016 - Diário da República n.º 74/2016, Série I de 2016-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2016-74163192
+  date: '2016-04-15'
 article_structure:
   article_count: 62
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:52Z'
   warnings: []
   errors: []
 ---

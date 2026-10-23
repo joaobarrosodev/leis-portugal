@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 204/1986, 1º Suplemento, Série I de 1986-09-05
   number: '204'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2450-(6) a 2450-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/495-a-1986-390813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e3f99dee7171012b831604533154ef29cb09582f6df8e3e6e80add3b1a9c738
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aaa8cc1cb98d548109db1039e6f32f5c0800dd152649317751bd1ed886fe6ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:50:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desenvolvimento Industrial
+- Desenvolvimento Regional
+- Investigação Científica e Tecnológica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:183653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:390812:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO-LEI NUMERO 15-A/88, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 14, 2 SUPLEMENTO, DE\
+    \ 18/9/88.\0/9/88.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:183653:por
+  label: Revogada pelo(a) Decreto-Lei n.º 15-A/88 - Diário da República n.º 14/1988, 2º Suplemento, Série I de 1988-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-a-1988-183653
+  date: '1988-01-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:50:27Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +117,9 @@ Manda o Governo da República Portuguesa, pelos Ministros do Plano e da Administ
 
 Ministérios do Plano e da Administração do Território, da Indústria e Comércio e do Trabalho e Segurança Social.
 
-**Assinada em 5 de Setembro de 1986.**
+Assinada em 5 de Setembro de 1986.
 
-**O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Regulamento para Concessão das Comparticipações Financeiras Previstas no Sistema de Estímulos de Base Regional
 
@@ -219,7 +237,7 @@ Para efeitos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 283-A/86](https://dia
 
 2 - A percentagem referida no número anterior é variável de acordo com as zonas de modulação definidas no anexo VI e corresponde aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 3 - A percentagem sobre as aplicações relevantes referidas no número anterior poderá atingir o valor de 20% para projectos inseridos em subzonas da zona de modulação 3 em que se apliquem instrumentos específicos de política regional.
 
@@ -233,7 +251,7 @@ Para efeitos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 283-A/86](https://dia
 
 1 - O valor da componente da comparticipação financeira ligada à promoção de emprego, referida na alínea b) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, é calculado pelo produto do número de postos de trabalho criados em virtude do investimento por um subsídio unitário variável com as zonas de modulação definidas no anexo VII e correspondente aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 2 - Quando se trate de projectos de mudança de localização, aplicar-se-á um subsídio unitário correspondente à zona de destino relativamente à criação global líquida de postos de trabalho, devendo aplicar-se um subsídio unitário equivalente à diferença entre o subsídio da zona de modulação de destino e o subsídio da zona de modulação de origem, caso essa diferença seja positiva, relativamente aos restantes postos de trabalho.
 
@@ -359,11 +377,11 @@ Pede deferimento,
 
 ## ANEXO II — Mapas normalizados para projectos referidos no artigo 3.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 ## ANEXO III — Mapas normalizados para projectos referidos nos artigos 2.º ou 4.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 ## ANEXO IV — Índice do estudo técnico-económico
 
@@ -543,18 +561,18 @@ V - Anexos ao estudo técnico-económico
 
 ## ANEXO V — Zonas sectorialmente saturadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 ## ANEXO VI — Zonas de modulação (componente regional)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 ## ANEXO VII — Zonas de modulação (criação de emprego)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
 
 ## ANEXO VIII — Comparticipação financeira à inovação e modernização industrial
 
 (% das aplicações relevantes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20401/00060036.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/38/2004/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-2004-622597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16b86b17665c13ec3fb21dafa5541fff331054d7ec68948cad3ac034508abfa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41231a96c839cbbe1cb90f5c55d3c206060afb0e594d694709decb4b54c1d44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:2271440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552281:por
+  label: "Homologada a terceira alteração aos Estatutos do Instituto Politécnico de Leiria, homologados pelo DN 37/95 de 02-Ago,\
+    \ alterados e homologados pelo presente despacho, pelo DN.6/2006.18.01.2006.MCTES, DR.IS-B [25] de 03.02.2006, que os\
+    \ republica em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2006-552281
+  date: '2006-01-18'
+- type: amended_by
+  target: pt:dre:2271440:por
+  label: "Alterado o anexo III ao presente diploma, na redacção do Despacho Normativo 6/2006, de 03 de Fevereiro, pelo DN.3/2007.29.11.2006.MCTES,\
+    \ DR.IIS [4] de 05.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2007-2271440
+  date: '2006-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/37/1995/08/02/p/dre
   label: null
@@ -94,16 +107,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
-  article_count: 85
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 82
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:23Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +201,9 @@ g) Fiscal único.»
 
 Conselho para a avaliação e qualidade
 
-###### Artigo 24.º-A — Composição
+Artigo 24.º-A
+
+Composição
 
 1 - Integram o conselho para a avaliação e qualidade:
 
@@ -178,7 +225,9 @@ g) Um representante das associações de estudantes, a designar por estas.
 
 3 - Os mandatos dos membros referidos nas alíneas f) e g) são de dois anos.
 
-###### Artigo 24.º-B — Competência
+Artigo 24.º-B
+
+Competência
 
 1 - Ao conselho para a avaliação e qualidade compete a definição estratégica das políticas institucionais de avaliação e qualidade a prosseguir pelo Instituto, cabendo-lhe, designadamente:
 
@@ -210,7 +259,9 @@ g) Serviços;
 
 h) Impacte do IPL na comunidade, nomeadamente quanto à empregabilidade dos diplomados e à contribuição para processos de inovação tecnológica.
 
-###### Artigo 24.º-C — Funcionamento
+Artigo 24.º-C
+
+Funcionamento
 
 1 - O conselho reúne, ordinariamente, duas vezes por ano.
 
@@ -218,13 +269,19 @@ h) Impacte do IPL na comunidade, nomeadamente quanto à empregabilidade dos dipl
 
 3 - As funções dos colégios de especialidade e a duração do seu mandato serão definidas pela deliberação que determinar a sua constituição.
 
-#### SECÇÃO VII — Fiscal único
+SECÇÃO VII
 
-###### Artigo 24.º-D — Função
+Fiscal único
+
+Artigo 24.º-D
+
+Função
 
 O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IPL.
 
-###### Artigo 24.º-E — Designação, mandato e remuneração
+Artigo 24.º-E
+
+Designação, mandato e remuneração
 
 1 - O fiscal único é nomeado por despacho do presidente do IPL, ouvido o conselho geral, de entre revisores oficiais ou sociedades de revisores oficiais de contas, se outra forma de recrutamento não for determinada por norma legal imperativa.
 
@@ -234,7 +291,9 @@ O fiscal único é o órgão responsável pelo controlo da legalidade, da regula
 
 4 - A remuneração do fiscal único é a que resultar de norma legal aplicável ou, na sua falta, será fixada pelo conselho geral sob proposta do presidente do IPL.
 
-###### Artigo 24.º-F — Competências
+Artigo 24.º-F
+
+Competências
 
 Compete ao fiscal único:
 
@@ -824,7 +883,9 @@ SUBCAPÍTULO I
 
 Escolas superiores
 
-#### SECÇÃO I — Artigo 31.º
+#### SECÇÃO I
+
+###### Artigo 31.º
 
 Autonomia
 
@@ -986,7 +1047,7 @@ f) Designar os membros do colégio eleitoral a que se referem o n.º 9 do artigo
 
 ###### Artigo 49.º — Nomeação e exercício de funções
 
-**O presidente e os vice-presidentes são nomeados em regime de comissão de serviço pelo presidente do Instituto e exercem funções em regime de dedicação exclusiva, podendo, por sua iniciativa, prestar também serviço docente.**
+O presidente e os vice-presidentes são nomeados em regime de comissão de serviço pelo presidente do Instituto e exercem funções em regime de dedicação exclusiva, podendo, por sua iniciativa, prestar também serviço docente.
 
 ###### Artigo 50.º — Processo eleitoral
 
@@ -1190,13 +1251,17 @@ Constitui património do IPL o conjunto de bens e direitos que, pelo Estado ou o
 
 2 - Aos instrumentos de gestão será dada adequada divulgação.
 
-### CAPÍTULO VI — Artigo 75.º
+### CAPÍTULO VI
+
+###### Artigo 75.º
 
 Avaliação
 
 O IPL definirá e aplicará mecanismos sistemáticos de avaliação das suas actividades, de acordo com o que for estabelecido na lei.
 
-### CAPÍTULO VII — Artigo 76.º
+### CAPÍTULO VII
+
+###### Artigo 76.º
 
 Revisão e alteração dos Estatutos
 
@@ -1252,28 +1317,28 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 III.1 - Instituto Politécnico de Leiria
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
 
 III.2 - Escola Superior de Educação de Leiria
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
 
 III.3 - Escola Superior de Tecnologia e Gestão de Leiria
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
 
 III.4 - Escola Superior de Artes e Design das Caldas da Rainha
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
 
 III.5 - Escola Superior de Tecnologia do Mar de Peniche
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
 
 III.6 - Escola Superior de Enfermagem de Leiria
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
 
 III.7 - Serviços de Acção Social
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)
+[[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58785891.pdf)

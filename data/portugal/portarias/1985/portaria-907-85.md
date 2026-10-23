@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/907-1985-170340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a85ce8ddf6f83f3c474d79daf6c75cc25a8abaddd29a5e1a5247962f10052bd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ef1b56db929256eb3126874cc1bc59c1611f26d466868987d767feffcb2f26f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Superior de Agronomia
+- Orgânica
+- Regulamento
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:38:15Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +103,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 13 de Novembro de 1985.**
+Assinada em 13 de Novembro de 1985.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Regulamento do Departamento de Engenharia Rural do Instituto Superior de Agronomia da Universidade Técnica de Lisboa.
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Engenharia Rural do Instituto Superior de Agronomia, adiante designado por Departamento, constitui uma unidade orgânica de ensino e investigação no domínio da Engenharia Rural e de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade.
+Artigo 1.º O Departamento de Engenharia Rural do Instituto Superior de Agronomia, adiante designado por Departamento, constitui uma unidade orgânica de ensino e investigação no domínio da Engenharia Rural e de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade.
 
-###### Art. 2.º Quanto à actividade docente, ao Departamento compete:
+Art. 2.º Quanto à actividade docente, ao Departamento compete:
 
 a) Promover a aquisição e difusão do conhecimento de engenharia rural e a formação de docentes, investigadores e técnicos de nível superior neste âmbito;
 
@@ -115,7 +123,7 @@ c) Promover a formação de docentes e investigadores, nomeadamente através da 
 
 d) Elaborar propostas de remodelação dos cursos em que figuram as disciplinas integradas no Departamento e colaborar na organização dos planos de estudo de outros cursos, no que respeita a matéria da sua área.
 
-###### Art. 3.º No que respeita à investigação científica essencialmente aplicada, compete ao Departamento:
+Art. 3.º No que respeita à investigação científica essencialmente aplicada, compete ao Departamento:
 
 a) Promover o desenvolvimento do conhecimento nos domínios da engenharia rural, de acordo com os planos e programas de actividades para tal definidos;
 
@@ -125,17 +133,17 @@ c) Elaborar os programas de investigação destinados ao ensino graduado para a 
 
 d) Desenvolver trabalhos de investigação, no âmbito do Departamento, com impacte noutros domínios científicos e tecnológicos e participar em programas interdisciplinares.
 
-###### Art. 4.º - 1 - Quanto às actividades de apoio ao desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consultadoria no domínio da engenharia rural.
+Art. 4.º - 1 - Quanto às actividades de apoio ao desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consultadoria no domínio da engenharia rural.
 
 2 - Ao Departamento competirá promover a divulgação do saber na área das suas secções e contribuir para a generalização do seu conhecimento, compreensão e integração na cultura.
 
 3 - O Departamento poderá propor à Universidade a celebração de convénios e contratos de prestação de serviços com entidades públicas ou privadas.
 
-###### Art. 5.º O Departamento de Engenharia Rural goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade ou do Instituto.
+Art. 5.º O Departamento de Engenharia Rural goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade ou do Instituto.
 
 ### CAPÍTULO II — Secções
 
-###### Art. 6.º - 1 - Atendendo à pluralidade das matérias científicas professadas e investigadas, o Departamento compreende as seguintes secções:
+Art. 6.º - 1 - Atendendo à pluralidade das matérias científicas professadas e investigadas, o Departamento compreende as seguintes secções:
 
 a) Hidráulica;
 
@@ -145,23 +153,23 @@ c) Mecanização Agrária.
 
 2 - As secções são unidades respeitantes a áreas diferenciadas do conhecimento, com dimensões e características que permitam a prossecução e o desenvolvimento de actividades de ensino, investigação e prestação de serviços.
 
-###### Art. 7.º A criação de novas secções ou a dissolução das existentes compete ao conselho do Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com as noções consignadas no artigo anterior, devendo essas alterações ser introduzidas no presente Regulamento, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril. As deliberações serão tomadas por dois terços dos membros do conselho do Departamento.
+Art. 7.º A criação de novas secções ou a dissolução das existentes compete ao conselho do Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com as noções consignadas no artigo anterior, devendo essas alterações ser introduzidas no presente Regulamento, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril. As deliberações serão tomadas por dois terços dos membros do conselho do Departamento.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 8.º A gestão do Departamento é exercida pelos seguintes órgãos:
+Art. 8.º A gestão do Departamento é exercida pelos seguintes órgãos:
 
 a) Conselho do Departamento;
 
 b) Comissão executiva.
 
-###### Art. 9.º - 1 - O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 9.º - 1 - O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes todos os professores catedráticos, associados, auxiliares e convidados em regime de tempo integral e os investigadores doutorados em áreas científicas representadas no Departamento.
 
 3 - São membros não permanentes os representantes dos docentes e investigadores não doutorados, por cada secção, eleitos para mandatos bienais por entre o pessoal daquelas categorias, sem prejuízo do limite fixado na parte final do n.º 3 do artigo 7.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).
 
-###### Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros 10 dias do mês de Outubro, do primeiro ano de cada biénio.
+Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros 10 dias do mês de Outubro, do primeiro ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho do Departamento ou, na sua falta ou impedimento, o membro mais antigo da categoria mais elevada do Departamento convocará os docentes e investigadores não doutorados em regime de tempo integral, da área departamental para uma sessão especial, a que presidirá.
 
@@ -173,7 +181,7 @@ b) Comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 11.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento.
+Art. 11.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento.
 
 2 - O presidente é eleito pelos membros do conselho para mandato bienal.
 
@@ -193,7 +201,7 @@ b) Comissão executiva.
 
 10 - O exercício do cargo de presidente do conselho do Departamento é incompatível com o de presidente de outros Órgãos directivos universitários.
 
-###### Art. 12.º Compete ao conselho do Departamento:
+Art. 12.º Compete ao conselho do Departamento:
 
 a) Elaborar propostas de alteração ao Regulamento do Departamento;
 
@@ -219,7 +227,7 @@ l) Aprovar as propostas de estabelecimento de convénios, de acordos e de contra
 
 m) Deliberar sobre matérias cuja competência lhe haja sido delegada pelos órgãos do Instituto ou da Universidade.
 
-###### Art. 13.º - 1 - A comissão executiva do Departamento é constituída por:
+Art. 13.º - 1 - A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho do Departamento;
 
@@ -227,7 +235,7 @@ b) Dois docentes ou investigadores do Departamento designados pelo presidente.
 
 2 - A comissão executiva, nas suas actividades de gestão, será coadjuvada por um funcionário do quadro do pessoal do Instituto, que desempenhará as funções de secretário do Departamento.
 
-###### Art. 14.º Compete à comissão executiva:
+Art. 14.º Compete à comissão executiva:
 
 a) Preparar as reuniões do conselho do Departamento e executar as suas deliberações;
 
@@ -237,20 +245,20 @@ c) Preparar convénios e contratos de prestação de serviços;
 
 d) Zelar pela conservação e manutenção das instalações e outros bens afectos ao Departamento.
 
-###### Art. 15.º O presidente do conselho do Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
+Art. 15.º O presidente do conselho do Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
 
 ### CAPÍTULO IV — Gestão financeira
 
-###### Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Constituirão também receitas do Departamento as provenientes da prestação de serviços, bem como as doações, legados ou subsídios e comparticipações concedidos por quaisquer entidades públicas ou privadas, as quais ficarão sujeitas ao regime previsto nos artigos 18.º e 19.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO V — Instalações e equipamento
 
-###### Art. 17.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes ao 4.º grupo de disciplinas e à Secção de Mecanização do 6.º grupo de disciplinas do Instituto Superior de Agronomia.
+Art. 17.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes ao 4.º grupo de disciplinas e à Secção de Mecanização do 6.º grupo de disciplinas do Instituto Superior de Agronomia.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 18.º No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
+Art. 18.º No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
 
-###### Art. 19.º Os órgãos de gestão do Instituto deverão tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento no mais breve prazo possível, a partir da sua entrada em vigor.
+Art. 19.º Os órgãos de gestão do Instituto deverão tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento no mais breve prazo possível, a partir da sua entrada em vigor.

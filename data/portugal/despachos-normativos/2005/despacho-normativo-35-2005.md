@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/35/2005/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-2005-240023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 161d5e06bce5b6d85837b81ba53bdb91ef1960dfc995ede955494c3321c0bdbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 937e866a68ac77f24d027937d49e0abc314c191985228d011919595cee9c9891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
-- Financiamento
 - Definição de Competências
 - Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
-- Fundo Florestal Permanente
-- Projeto de Investimento
-- Ordenamento Florestal
 - Exploração Florestal
-- Regulamento
+- Financiamento
+- Fundo Florestal Permanente
 - Ifadap
+- Ordenamento Florestal
 - Política Florestal
+- Prevenção de Incêndios
+- Projeto de Investimento
+- Proteção da Floresta
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:2791126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596347:por
+  label: Alterados os nºs. 7º, 10º, nº 4 do nº 15º e 16º do Regulamento do Programa de Apoios a conceder pelo Fundo Florestal
+    Permanente em 2005-2006, anexo ao presente Despacho e rectificadas as als. a) e b) do nº 2 do nº 12º e al. c) do nº 13º
+    do citado anexo, pelo DN.49/2005.11.10.2005.MADRP, DR.IS-B [206] de 26.10.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-2005-596347
+  date: '2005-10-11'
+- type: amended_by
+  target: pt:dre:659156:por
+  label: "Alterados os nºs 7º e 24º do Regulamento do Programa de Apoios a Conceder pelo Fundo Florestal Permanente aprovado\
+    \ em anexo ao presente diploma, com a redacção que lhe foi conferida pelo DN 49/2005 de 26-Out, pelo DN.29/2006.17.04.2006.MADRP,\
+    \ DR.IS-B [88] de 08.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-2006-659156
+  date: '2006-04-17'
+- type: amended_by
+  target: pt:dre:2791126:por
+  label: "Alterado o n.º 2 do n.º 6.º, n.º 12.º e n.º 14.º do Regulamento aprovado pelo presente diploma, pelo DN.17/2006.03.11.2006.MADRP,\
+    \ DR.IIS [222] de 17.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2006-2791126
+  date: '2006-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2004/06/30/p/dre
   label: null
@@ -94,16 +114,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/679/2004/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/679/2004/06/19/p/dre
+- type: cites
+  target: pt:dre:272612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:33Z'
   warnings: []
   errors: []
 ---

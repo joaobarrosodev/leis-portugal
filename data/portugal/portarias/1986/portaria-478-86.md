@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/478-1986-218961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beee6510e4b84ad1d563b06e1c3eaed9464ff926070dbc950b550a586fb87faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0b999adac2be4ee5984900f966d83e4940c858bd91b8f2770ec6236ef7ba9e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Oncologia
+- Coimbra
+- Instituto Português de Oncologia de Francisco Gentil
+- Lisboa
+- Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
+- Porto
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:527056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:49:56Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +147,9 @@ Um de manipulador de câmara escura, letra L.
 
 Ministérios das Finanças e da Educação e Cultura.
 
-**Assinada em 11 de Agosto de 1986.**
+Assinada em 11 de Agosto de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
 Mapa I anexo à Portaria n.º 478/86
 
@@ -139,7 +159,7 @@ Pessoal técnico
 
 Pessoal técnico de diagnóstico e terapêutica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf)
 
 Mapa II anexo à Portaria n.º 478/86
 
@@ -149,7 +169,7 @@ Pessoal técnico
 
 Pessoal técnico de diagnóstico e terapêutica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf)
 
 Mapa III anexo à Portaria n.º 478/86
 
@@ -159,4 +179,4 @@ Pessoal técnico
 
 Pessoal técnico de diagnóstico e terapêutica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19800/22722273.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/6/2005/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2005-625004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67205ca898c82ce1995cc5f1ee10a203d5da273493f235a3190d6be6ecf5fe7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: effea8df5530c620b7158a8514137b3783cc5706a06c69bc1c19fe5f667dd29d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,23 @@ relationships:
   target: pt:dre:286691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492188:por
+  label: "Prorrogado até 30 de Abril de 2006 o prazo referido no nº 1 do art. 8º pelo DN.52/2005.17.11.2005.MADRP, DR.IS-B\
+    \ [236] de 12.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/52-2005-492188
+  date: '2005-11-17'
+- type: amended_by
+  target: pt:dre:651681:por
+  label: "Alterado o art. 8º do presente Despacho, pelo DN.23/2006.23.03.2006.MADRP, DR.IS-B [72] de 11.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2006-651681
+  date: '2006-03-23'
+- type: amended_by
+  target: pt:dre:286691:por
+  label: "Prorrogado até 31.10.2006 o prazo referido no nº 1 do art. 8º do presente diploma pelo DN.33/2006.28.04.2006.MADRP,\
+    \ DR.IS-B [102] de 26.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/33-2006-286691
+  date: '2006-04-28'
 - type: cites
   target: celex:31998R1636
   label: null
@@ -95,13 +112,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:07Z'
   warnings: []
   errors: []
 ---

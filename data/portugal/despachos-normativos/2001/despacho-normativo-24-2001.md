@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/24/2001/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2001-344194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea85701f950859fc2d3f85dd17a208fdb2f7feb36d5cf1644eef1156013ecc31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65cfb09efaa58c0f4eee04d8a6f569efc8accea4bdfd2d28750e2c4dab37970d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,30 @@ reuse:
 subjects:
 - Análise Laboratorial
 - Aquisição de Bens e Serviços
-- Financiamento
-- Doença Animal
-- Carne de Vaca
-- Direção Geral de Veterinária
-- Definição de Competências
-- Controlo Sanitário
 - BSE
-- Saúde Pública
+- Carne de Vaca
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Doença Animal
+- Financiamento
 - Gado Bovino
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Laboratório Nacional de Investigação Veterinária
 - Preço
 - Regulamento CE
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:611688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611688:por
+  label: "Alteradas as als a) e c) do nº 2 e d) e f) do nº 4 e os nºs 5 e 6 pelo DN.36/2001.2001.09.04.MADRP DR.IS-B [220]\
+    \ de 21/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-2001-611688
+  date: '2001-09-04'
 - type: cites
   target: celex:31998D0272
   label: null
@@ -110,13 +116,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:42Z'
   warnings: []
   errors: []
 ---

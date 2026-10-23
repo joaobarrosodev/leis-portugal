@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/526-1986-222028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:51:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64cbdb4e73c96542f52da4e15b8cd915f0276501ba5c38520c416fd71f932177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e01a6b58c81154a72bf68db780f003ca9de57c673789d9dbe47e144178adb59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:51:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Instituto Superior de Economia
+- Lisboa
+- Mestrado
+- Mestrado em Gestão
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:333308:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333308:por
+  label: "Revogada pela PORT.185/90.14.03.1990.ME, DR.IS [61] de 14.03.1990, sem prejuízo do nº 2 do art. 11º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/185-1990-333308
+  date: '1990-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:51:14Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +161,6 @@ Os titulares de aprovação no curso terão dispensa da prova a que se refere o 
 
 Ministério da Educação e Cultura.
 
-**Assinada em 2 de Setembro de 1986.**
+Assinada em 2 de Setembro de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.

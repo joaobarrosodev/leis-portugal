@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/01/00200/00140014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-1986-616458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 841b33aad5c28a98c54d67d0dd7e835f8b2bb171ea990e76cb174cbbe440df23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eebc90392ec9c30636f2847d438ad5e7f72095ead59552061e7a15cf27c72fc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos
+- Pessoal dos Casinos
+- Regulamento
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:168420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151876:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:168420:por
+  label: "Revogada pela PORT.140/92.1992.03.04.SESS-MESS, DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1992-168420
+  date: '1992-03-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:47:48Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +118,6 @@ Constarão de regulamento, a propor pela Caixa de Previdência, as normas por qu
 
 Secretaria de Estado da Segurança Social.
 
-**Assinada em 2 de Dezembro de 1985.**
+Assinada em 2 de Dezembro de 1985.
 
-**O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.

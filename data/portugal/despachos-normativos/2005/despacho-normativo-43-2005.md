@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/43/2005/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-2005-143080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6455ccc4913c8301562219601543d9c77ff137b83d4fe65e74b90ed9eaf75ee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98aff01bc081611a785a12e16785aaf9438f813008010a0258d137a653323064
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apicultura
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
+- Financiamento
 - Gabinete de Planeamento e Política Agro-alimentar
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Apicultura
 relationships:
 - type: amended_by
   target: pt:dre:1623482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595316:por
+  label: "Alterado o art. 14º do DN 30/2005 de 06-Mai, com a redacção dada pelo presente diploma, pelo DN.47/2005.07.10.2005.MADRP,\
+    \ DR.IS-B [204] de 24.10.200 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/47-2005-595316
+  date: '2005-10-07'
+- type: amended_by
+  target: pt:dre:666971:por
+  label: "Alterado o nº 8 do art. 4º do DN 30/2005 de 06-Mai, com a redacção do presente diploma, pelo DN.17/2006.17.02.2006.MADRP,\
+    \ DR.IS-B [50] de 10.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2006-666971
+  date: '2006-02-17'
 - type: cites
   target: celex:32004R0797
   label: null
@@ -90,15 +102,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/despnorm/30/2005/05/06/p/dre
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:46Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +143,9 @@ b) ...
 
 c) (Revogada.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As candidaturas de âmbito regional relativas à acção n.º 1 apresentadas por agrupamentos de apicultores e as candidaturas relativas às subacções ii) e iii) da acção n.º 2, «Combate à varroose», e à acção n.º 5, «Repovoamento apícola», devem ser apresentadas na direcção regional de agricultura (DRA) respectiva, ou correspondentes serviços das Regiões Autónomas (RA), que, após emitir parecer, as remete à Direcção-Geral de Veterinária (DGV), que, em caso de aprovação, dá das mesmas conhecimento ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA).
 
@@ -185,7 +199,9 @@ a) ...
 
 b) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +253,9 @@ iii) ...
 
 4 - A concessão das ajudas à acção n.º 6 e à subacção v) da acção n.º 2 é definida pelas respectivas entidades avaliadoras.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +311,9 @@ d) ...
 
 e) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +327,9 @@ e) ...
 
 6 - Com excepção das candidaturas relativas às subacções referidas no n.º 4, o INGA comunica às entidades responsáveis pela avaliação das candidaturas, bem como aos candidatos, os resultados da apreciação das mesmas, até aos dias 12 de Dezembro e 30 de Novembro das campanhas de 2006 e 2007, respectivamente, ou no prazo de 20 dias a contar da data de comunicação do GPPAA ao INGA, caso seja necessário recorrer ao disposto no n.º 2 do artigo 10.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -317,7 +339,9 @@ e) ...
 
 4 - Sempre que o montante global das candidaturas aprovadas, relativas a cada acção, for inferior ao respectivo orçamento anual, deve o GPPAA, ouvidos a DGV, o INGA e as organizações representativas do sector, efectuar a majoração das comparticipações definidas no artigo 4.º e cumulativamente, ou em alternativa, a abertura de novo período de apresentação de candidaturas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -335,7 +359,9 @@ b) Acção n.º 6 e subacção n.º 2, os quais devem ser remetidos nos termos e
 
 6 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -361,7 +387,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 

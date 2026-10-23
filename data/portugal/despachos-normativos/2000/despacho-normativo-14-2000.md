@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/14/2000/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2000-414235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc95b52457a28a77b38c50251e98f1a31751b867b5e96c26ec74910fad4f0473
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a435812c7d38e08a789daac64650e22e10ffefc46c984902c02c709eb9323436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ subjects:
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
 - Conselho Administrativo
 - Conselho Científico
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
+- Eleição
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem de são JOÃO
 - Estatuto
-- Conselho Diretivo
-- Conselho Consultivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1997/05/24/p/dre
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 59
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:15Z'
   warnings: []
   errors: []
 ---
@@ -313,7 +337,7 @@ São órgãos de gestão da ESEnfSJ a assembleia de escola e os conselhos direct
 
 ###### Artigo 15.º — Da presidência dos órgãos de gestão
 
-**O presidente do conselho directivo é, por inerência, o presidente da assembleia de escola e do conselho administrativo.**
+O presidente do conselho directivo é, por inerência, o presidente da assembleia de escola e do conselho administrativo.
 
 #### SECÇÃO I — Assembleia de escola
 
@@ -1025,7 +1049,7 @@ b) Para os efeitos referidos no presente artigo, não serão incluídos, se for 
 
 ###### Artigo 57.º — Da eleição para os restantes órgãos
 
-**O presidente do conselho directivo, no prazo de 60 dias após a tomada de posse, desencadeia todos os processos eleitorais dos restantes órgãos cuja constituição depende de eleições.**
+O presidente do conselho directivo, no prazo de 60 dias após a tomada de posse, desencadeia todos os processos eleitorais dos restantes órgãos cuja constituição depende de eleições.
 
 ###### Artigo 58.º — Da revisão dos Estatutos
 

@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/825-1985-171483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59f27853a56f86f23b1c28d1ab33720bca47a938630ac1d0f89ec6177dec362c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e666bb2f9bf6245922e056e2315c3b1d60e506351c71c713e6eb6c7381d7f73b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Química
+- Ensino Superior
+- Faculdade de Engenharia
+- Licenciatura
+- Plano de Estudos
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:421404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421404:por
+  label: "Derrogada, no que respeita ao curso de Licenciatura em Engenharia Electrotécnica pela PORT.436/87.1987.05.25.MEC,\
+    \ DR.IS [119] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1987-421404
+  date: '1987-05-25'
+- type: cites
+  target: pt:dre:373796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:08Z'
   warnings: []
   errors: []
 ---
@@ -118,10 +139,10 @@ O anexo II da [Portaria n.º 672/84](https://diariodarepublica.pt/dr/detalhe/por
 
 Ministério da Educação.
 
-**Assinada em 4 de Outubro de 1985.**
+Assinada em 4 de Outubro de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.
 
-## Anexo V — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25100/36793683.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25100/36793683.pdf)
+## Anexo V — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25100/36793683.pdf)
 
-## Anexo VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25100/36793683.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25100/36793683.pdf)
+## Anexo VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25100/36793683.pdf)

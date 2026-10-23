@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/089b00/24542456.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/16/2003/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2003-226193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4febbb3c825b4dee69c4e783431465fb8908fd2e5941d4a73970e748d01a8b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d38c4d285e22532750b1ce8ad1f6aebba8411d0c68f4c68d576b008634892f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
 - Apoio Técnico
 - Auditoria
-- Financiamento
 - Cooperativa Agrícola
+- Financiamento
 - Fiscalização
 - Ministério da Agricultura Pescas e Alimentação
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Agricultor
 - Política Agrícola
-- Agricultura
 - Setor Privado
 - Taxa
 - Transferência de Competências
@@ -91,16 +91,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/28/1996/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/28/1996/08/19/p/dre
+- type: cites
+  target: pt:dre:406702:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2068737:por
+  label: "Revogado com efeitos a partir da campanha de 2008-2009, pelo DN.17/2007.13.03.2007.MADRP, DR.IIS [70] de 10.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2007-2068737
+  date: '2007-03-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:51Z'
   warnings: []
   errors: []
 ---

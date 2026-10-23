@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 152/2004, 1º Suplemento, Série I-B de 2004-06-30
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4010-(2) a 4010-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/152b01/00020007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/30-a/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-a-2004-386044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b76a8b6cffcbdb0b318b4876697fc951e8f9bf07f5399e74e31bc39ac87cad6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de7925fa79de1a7246f3a331db35f7648c7fd4e52cc29cdfbc83744afebebe6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Ajuste Direto
 - Alienação de Imóveis
-- Gestão Financeira
 - Direcção Geral do Património
 - Gestão do Património
+- Gestão Financeira
 - Hasta Pública
 - Património do Estado
 relationships:
@@ -91,16 +91,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 19
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:13Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +179,7 @@ g) Indicação de outros elementos considerados relevantes e dos contactos para 
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -173,7 +197,7 @@ g) Indicação de outros elementos considerados relevantes e dos contactos para 
 
 8 - Em seguida, há lugar ao exercício de eventuais direitos de preferência e, apresentando-se a preferir mais de uma pessoa com igual direito, reabre-se nova licitação entre elas, nos termos do n.º 6.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Terminados os procedimentos previstos no artigo anterior, o imóvel é adjudicado provisoriamente pela comissão a quem tiver oferecido o preço mais elevado, que deverá, de imediato, proceder ao pagamento de 25% do valor da adjudicação, escolher, se a respectiva modalidade foi previamente admitida, o pagamento em prestações nos termos do artigo seguinte e declarar se o imóvel é para pessoa a designar no prazo de 10 dias úteis.
 
@@ -187,7 +211,7 @@ g) Indicação de outros elementos considerados relevantes e dos contactos para 
 
 6 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O pagamento é efectuado a pronto ou em prestações, nos termos dos números seguintes.
 
@@ -197,7 +221,7 @@ g) Indicação de outros elementos considerados relevantes e dos contactos para 
 
 4 - ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Podem ser vendidos por ajuste directo os imóveis do Estado e dos organismos públicos dotados de personalidade jurídica, com ou sem autonomia financeira, que não revistam a natureza, forma ou designação de empresa, fundação ou associação públicas, nos seguintes casos:
 
@@ -223,7 +247,7 @@ g) Quando o imóvel seja vendido a fundo de investimento imobiliário.
 
 5 - O disposto no n.º 3 do artigo 1.º é aplicável, com as devidas adaptações, ao caso previsto na alínea a) do n.º 1.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - A Direcção-Geral do Património define, em cada caso concreto, quais os procedimentos negociais que, adequados à melhor prossecução do interesse público, devem preceder a adjudicação do imóvel.
 
@@ -231,11 +255,11 @@ g) Quando o imóvel seja vendido a fundo de investimento imobiliário.
 
 3 - Se o valor estimado da venda for superior a (euro) 1000000, deve ser organizado processo, a disponibilizar aos eventuais interessados, contendo designadamente o preço mínimo, as modalidades de pagamento admitidas e os elementos a que se refere o n.º 2 do artigo 2.º, bem como a data limite para a apresentação de propostas.
 
-###### Artigo 12.º
+Artigo 12.º
 
 A venda por ajuste directo pode ficar sujeita a condição, podendo ser fixadas limitações a futuras alienações do imóvel pelo adquirente ou estabelecidas cláusulas resolutivas.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Caso haja lugar a apresentação de duas ou mais propostas no âmbito dos procedimentos fixados nos termos do n.º 1 do artigo 11.º, as propostas devem ser apresentadas nos termos previstos nos n.os 2 e 3 do artigo 4.º, dirigidas ao dirigente máximo dos serviços onde se processa a alienação e acompanhadas dos documentos exigidos nos termos do n.º 1 do artigo 8.º
 
@@ -249,7 +273,7 @@ A venda por ajuste directo pode ficar sujeita a condição, podendo ser fixadas 
 
 6 - Determinado o preço da venda do imóvel, designadamente nos termos dos números anteriores, são notificados os eventuais titulares de direitos de preferência para o exercício dos mesmos.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - No prazo de 20 dias úteis a contar do termo dos procedimentos, designadamente os previstos no artigo anterior, o imóvel é adjudicado mediante despacho do director-geral do Património, no caso de imóveis do Estado, ou do respectivo órgão de gestão, nos restantes casos.
 
@@ -259,13 +283,13 @@ A venda por ajuste directo pode ficar sujeita a condição, podendo ser fixadas 
 
 4 - Ao ajuste directo é aplicável, com as necessárias adaptações, o disposto no artigo 9.º
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - O pagamento é efectuado nos termos do disposto no artigo 7.º e, se a respectiva modalidade foi previamente admitida, o pagamento em prestações é escolhido na proposta.
 
 2 - Após o pagamento integral do preço do imóvel, é emitido o respectivo título de alienação por ajuste directo, nos termos do [Decreto-Lei n.º 115/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2000-300840), de 4 de Julho.
 
-###### Artigo 16.º
+Artigo 16.º
 
 Em tudo o que não esteja especialmente previsto no presente capítulo aplica-se, com as necessárias adaptações, o regime previsto no presente diploma para as hastas públicas.»
 

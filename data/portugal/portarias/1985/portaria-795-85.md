@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7448e8250e608ca5afbbde6bc0262c33b013d72618b853bcce49845eb1d06b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bbcc27ab159a16b0fc159cddb7a3e36941b2e6b281370b4fa439f152f3f36f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Direito
+- Mestrado
+- Plano de Estudos
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:665897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:665897:por
+  label: "Aditada a al. e) ao n.º 1 e a al. e) ao anexo, todos da Port 97/83, de 29-Jan DR.IS [24], na redacção do presente\
+    \ diploma, pela PORT.326/87.1987.04.21.MEC DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-1987-665897
+  date: '1987-04-21'
+- type: cites
+  target: pt:dre:308538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:21Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +136,6 @@ Nota. - O conselho científico oferecerá em cada ano Direito Civil e pelo menos
 
 Ministério da Educação.
 
-**Assinada em 4 de Outubro de 1985.**
+Assinada em 4 de Outubro de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.

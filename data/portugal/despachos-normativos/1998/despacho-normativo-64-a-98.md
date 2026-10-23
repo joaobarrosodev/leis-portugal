@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 204/1998, 1º Suplemento, Série I-B de 1998-09-04
   number: '204'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4654-(2) a 4654-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/204b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/64-a/1998/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/64-a-1998-480574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f1914196c2ab63df9c0b4d35bdceb8efbafa3c85009505f7bb1055a73046185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 376e7d3058d14d14109f689e1e4ce1b37036cfb0b76ca329eedf1ee215634894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,46 @@ subjects:
 - Centro de ÁREA Educativa
 - Colocação de Professores
 - Concurso Público
+- Ensino Básico
 - Gestão Escolar
 - Pessoal Docente
-- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:344426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344426:por
+  label: "Alterados os nºs 10.2 e 10.5 do DN 77/88 de 03-Set do ME (na redacção dada pelo presente diploma e pelos DN 184/91\
+    \ de 16-Ago e 185/93 de 27-Jul), pelo DN.4/2001.2000.12.22.ME, DR.IS-B [17] de 19/Jan/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2001-344426
+  date: '2000-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
+- type: cites
+  target: pt:dre:370214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:09Z'
   warnings: []
   errors: []
 ---

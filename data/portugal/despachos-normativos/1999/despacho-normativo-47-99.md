@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/47/1999/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1999-667748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bddbab133932d6b2455a6a516a9e4d76cd0a441f71380eff28f5fb078187672f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccdcf3daa47b4aac6ba02f0db384e3eec03ca9d1b36f7ccfbbba73c9d4e00447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Apoio ao Investimento
 - Cooperação Interempresas
 - Desenvolvimento Industrial
-- Apoio ao Investimento
-- Projeto de Investimento
+- Empresa
 - Indústria
-- QCA
 - Modernização Industrial
 - Modernização Tecnológica
-- Proteção do Ambiente
-- Prodibeta
 - Pedip II
+- Prodibeta
+- Projeto de Investimento
+- Proteção do Ambiente
+- QCA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/10-a/1998/02/13/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/86/1995/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/86/1995/12/29/p/dre
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644891:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:32Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +172,9 @@ Regime específico aplicável, para efeitos do PRODIBETA, aos projectos candidat
 
 Para efeitos do PRODIBETA, deverá ser observada a seguinte disciplina específica relativamente ao disposto no [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893), no âmbito da sua alínea a) do n.º 1 do artigo 2.º:
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +188,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +214,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +310,9 @@ d) Para empresas com projectos com investimentos superiores a 1,5 milhões de co
 
 5 - Em projectos de investimento superior a 1,5 milhões de contos em capital fixo poderá ser instituído um processo administrativo negocial similar ao utilizado nos projectos estratégicos de regime contratual, a que se refere a alínea b) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893).
 
-## ANEXO A — Metodologia para determinação da valia industrial
+ANEXO A
+
+Metodologia para determinação da valia industrial
 
 I
 
@@ -322,7 +358,7 @@ Critério complementar
 
 Serão objecto de um tratamento mais favorável os projectos que se insiram nas seguintes áreas prioritárias da política industrial:
 
-Que se traduzam na fabricação ou adaptação de produtos provenientes de processos de I&DT apoiados pelo PEDIP II ou por programas comunitários integrados no programa quadro de I&DT;
+Que se traduzam na fabricação ou adaptação de produtos provenientes de processos de I&DT apoiados pelo PEDIP II ou por programas comunitários integrados no programa quadro de I&DT
 
 Que visem o fabrico de equipamentos e ou sistemas produtivos que apresentem redução significativa de impacte ambiental;
 
@@ -346,7 +382,9 @@ Valia normal: apresentar pelo menos Boa adequação nos critérios C1, C2 e C3.
 
 Valia especial: apresentar Muito boa adequação nos critérios C2 e C3 ou apresentar pelo menos Boa adequação em todos os critérios e situarem-se em 'áreas de tratamento mais favorável', definidas no critério complementar.
 
-## ANEXO B — Metodologia do cálculo da percentagem final do incentivo
+ANEXO B
+
+Metodologia do cálculo da percentagem final do incentivo
 
 Projecto de inovação e internacionalização das estruturas empresariais
 
@@ -418,7 +456,9 @@ N = majoração de carácter regional (15%).
 
 3 - A percentagem final do incentivo não deverá ultrapassar 80% das aplicações relevantes a que se refere o n.º 1 do artigo 9.º nem 70% das aplicações relevantes a que se refere o n.º 2 do mesmo artigo.
 
-## ANEXO G — Critérios de enquadramento
+ANEXO G
+
+Critérios de enquadramento
 
 São enquadráveis no âmbito do PRODIBETA os projectos que demonstrem possuir interesse estratégico, aferido através da exigência de que os projectos prossigam uma das seguintes vias de desenvolvimento empresarial:
 

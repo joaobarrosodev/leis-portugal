@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-1986-227074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ad7c6234f938d774ecfde145a40eca063945f177e02c4c29c64381b63203a11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 445d95d64538aad84df68531060f00c6f16a6022da28dcecbd287211671a7f68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Habitação
+- Renda Apoiada
+- Renda Limite
+- Subsídio de Renda de CASA
+relationships:
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:09Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +118,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Obras Públicas, T
 
 Ministérios das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social.
 
-**Assinada em 7 de Maio de 1986.**
+Assinada em 7 de Maio de 1986.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação. - Pelo Ministro do Trabalho e Segurança Social, José Nobre Pinto Sancho, Secretário de Estado da Segurança Social.
 
@@ -113,8 +126,8 @@ Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Al
 
 Tabelas do subsídio de renda de casa para o ano de 1986, a que se referem os artigos 26.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro, e 23.º, n.º 1, do [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194), de 27 de Março.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11500/11951206.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11500/11951206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11500/11951206.pdf)
 
 ## ANEXO II — TABELA DE RENDAS LIMITE, PARA 1986, A QUE SE REFERE O Nº 1 DO ARTº 23º DO D.L. 68/86 DE 27 DE MARÇO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11500/11951206.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11500/11951206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11500/11951206.pdf)

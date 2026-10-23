@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/39/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1999-433777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca870c3d64e713e7531029528210f2819791e48f3e6dd5fadc6a68cf64b68b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e170203e9395ff3d41c82d1c493b621e19d150be23fa8301dfdc1b2cf84e2c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,10 @@ reuse:
 subjects:
 - Almeida
 - Amarante
-- Castanheira de PÊRA
+- Bragança
 - CAÇA
+- Castanheira de PÊRA
+- Évora
 - Figueiró dos Vinhos
 - Góis
 - Lamego
@@ -79,8 +81,6 @@ subjects:
 - Penela
 - Portel
 - Reguengos de Monsaraz
-- Bragança
-- Évora
 - Serpa
 - Tavira
 - Taxa
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/893/1998/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/893/1998/10/10/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235558:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:21Z'
   warnings: []
   errors: []
 ---

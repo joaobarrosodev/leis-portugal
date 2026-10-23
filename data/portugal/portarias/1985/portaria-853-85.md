@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-1985-171516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:36:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78c178ce9f88cf39662c27860a824c1ada3912ce31dbe17cd699ab0fa499c2cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a9021a22fda8f1740e9e9f36739dd11fd22346666e253597704049bc7e62ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:36:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Protecção da Produção Agrícola
+- Certificado de Qualidade
+- Comércio
+- Controlo de Qualidade
+- Preço
+- Produto Agrícola
+- Produto Hortícola
+- Semente
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:194606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614674:por
+  label: "Alterado valor atribuido a cada ponto para efeito do cálculo dos preços a pagar pela certificação de sementes e\
+    \ pela homologação dos produtos fitifarmaceuticos constantes das tabelas anexas, pela PORT.235/89.1989.03.29.MAPA, DR.IS\
+    \ [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/235-1989-614674
+  date: '1989-03-29'
+- type: amended_by
+  target: pt:dre:194606:por
+  label: "Repristinada pela PORT.761/97.1997.08.28.MEPAT, DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/761-1997-194606
+  date: '1997-08-28'
+- type: cites
+  target: pt:dre:475277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563409:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:36:50Z'
   warnings: []
   errors: []
 ---
@@ -114,12 +143,12 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, ao abrig
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Outubro de 1985.**
+Assinada em 16 de Outubro de 1985.
 
-**O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.
 
 Tabela de preços para a certificação de sementes a que se refere o n.º 1.º da Portaria n.º 853/85, de 9 de Novembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/25800/37663766.pdf))](https://files.diariodarepublica.pt/1s/1985/11/25800/37663766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/25800/37663766.pdf)
 
-**O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.

@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1986-228647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b88bb0229b7819500439a9b1c898ba3d55df0f8d50a2001ffa5c30a565a50c32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee03ffe3a01f57c0cb1b87c5f9f6da5b560fe0b61924592efe0fdff0c846d7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Tesouro
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:527206:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:518840:por
+  label: Rectificada pela DECL.DD4724.30.06.1986.PCM, DR.IS [147]2ºSupl de 30.06.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-518840
+  date: '1986-06-30'
+- type: corrected_by
+  target: pt:dre:301047:por
+  label: Rectificada pela DECL.DD4702.29.07.1986.PCM, DR.IS [174]2ºSupl de 31.07.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301047
+  date: '1986-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:45:30Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +112,10 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguint
 
 Ministério das Finanças.
 
-**Assinada em 21 de Maio de 1986.**
+Assinada em 21 de Maio de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 ## ANEXO — Quadro a que se refere o n.º 1.º da Portaria n.º 313/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/14200/14781478.pdf))](https://files.diariodarepublica.pt/1s/1986/06/14200/14781478.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14200/14781478.pdf)

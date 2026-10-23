@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/21/2003/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-2003-532814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69c4a625d3b74f0c9fe307a22da8d13af52dcadf3f84f0568ee1c3a2c31315ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ced2dcae535892493dcde3b3dad2d7004dcb2e960db05127deb09091ff33bedc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,30 @@ reuse:
 subjects:
 - Carreira de Investigação e Fiscalização
 - Concurso de Ingresso
-- Recrutamento de Pessoal
 - Exame Médico
-- Serviço de Estrangeiros e Fronteiras
 - Incapacidade Física
+- Recrutamento de Pessoal
 - Regulamento
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/290-a/2001/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-a/2001/11/17/p/dre
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:58Z'
   warnings: []
   errors: []
 ---

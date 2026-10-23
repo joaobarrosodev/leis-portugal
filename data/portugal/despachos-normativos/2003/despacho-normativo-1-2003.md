@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/012b00/01460149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/1/2003/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2003-176546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6a4b175b743a42e795b1b987bbdd81fb5e4d30701af46e9d3201fa1ae9d32c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7410e64832ed2b6ff8118265ccca0b964c3d3d83ae5162b8ee362fbf606d921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Farmacêutica
-- Etiquetagem
-- Medicamento
+- Comércio
 - Embalagem
+- Etiquetagem
+- Indústria Farmacêutica
+- Medicamento
 - Preço de Venda
 - Produto Farmacêutico
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:572664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505644:por
+  label: "Alterados os n.ºs 1 a 3, revogado o n.º 4, alterado o cap. III do anexo A, bem como o anexo B, pelo DN.34/2004.25.06.2004.MS,\
+    \ DR.IS-B [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/34-2004-505644
+  date: '2004-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/1994/04/19/p/dre
   label: null
@@ -114,16 +120,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
+- type: cites
+  target: pt:dre:235927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614350:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603942:por
+  label: "Revogados os n.ºs 8 e 9, pelo DN.4/2004.19.11.2003.MS, DR.IS-B [13] de 16.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2004-603942
+  date: '2003-11-19'
+- type: repealed_by
+  target: pt:dre:572664:por
+  label: "Revogado, com a redacção conferida pelos DN 4/2004 de 16-Jan e 34/2004 de 21-Jul, pelo DN.17/2005.26.07.2004.MS,\
+    \ DR.IS-B [53] de 16.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2005-572664
+  date: '2004-07-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:41Z'
   warnings: []
   errors: []
 ---
@@ -158,9 +211,9 @@ e) Titular da autorização de introdução no mercado.
 
 2 - A etiqueta referida no n.º 1 e as embalagens de medicamentos abrangidos pelo sistema de preços de referência referidos no n.º 3 obedecerão às especificações técnicas constantes dos anexos A e B do presente despacho, identificados nos termos seguintes:
 
-## Anexo A - especificações técnicas de carácter geral que deverão constar na etiqueta das embalagens de todos os medicamentos abrangidos pelo presente despacho;
+Anexo A - especificações técnicas de carácter geral que deverão constar na etiqueta das embalagens de todos os medicamentos abrangidos pelo presente despacho;
 
-## Anexo B - especificações técnicas dos códigos do medicamento, de geração de preço e do grupo homogéneo que deverão constar da etiqueta das embalagens dos medicamentos e junto a esta.
+Anexo B - especificações técnicas dos códigos do medicamento, de geração de preço e do grupo homogéneo que deverão constar da etiqueta das embalagens dos medicamentos e junto a esta.
 
 3 - No espaço exterior à etiqueta referida no n.º 1, a embalagem abrangida pelo sistema de preços de referência deverá conter as seguintes menções:
 

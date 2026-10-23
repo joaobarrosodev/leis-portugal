@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/038b00/08710873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8/2004/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2004-580355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d510c1cf48a92724622bafadd247f65df691ef64ddbf0291b8f70adce28fe129
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3281a085da645902e186918d9c7d5be04ff2aa7b613545b91940f0c3c13ed8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
+- Algodão
+- Arroz
+- Azeite
 - Azeitona
 - Beterraba
-- Gado Caprino
-- Azeite
 - Citrinos
-- Tomate
-- Arroz
+- Financiamento
 - Forragem
+- Fruticultura
 - Gado Bovino
+- Gado Caprino
+- Gado Ovino
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Trigo
 - Legume de Fruto
 - Leguminosas
-- Tabaco
 - Orientação Agrícola
-- Gado Ovino
-- Prémio aos Produtores de Bovinos Machos
-- Prémio aos Produtores de Vacas Aleitantes
+- Pecuária
 - Poseima
 - Prémio ao Abate
+- Prémio aos Produtores de Bovinos Machos
+- Prémio aos Produtores de Vacas Aleitantes
 - Produção Vegetal
 - Regulamento CE
-- Fruticultura
-- Pecuária
-- Agricultura
-- Algodão
 - Sistema Integrado de Gestão e Controlo
+- Tabaco
+- Tomate
+- Trigo
 - Vinha
 relationships:
 - type: amended_by
   target: pt:dre:578543:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:270026:por
+  label: "Prorrogado, até 30 de Abril, o prazo previsto nas als. a), b) e d) do n.º 1 da parte II do presente diploma, pelo\
+    \ DN.24/2004.15.04.2004.MADRP, DR.IS-B [117] de 19.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2004-270026
+  date: '2004-04-15'
 - type: cites
   target: celex:31966R0136
   label: null
@@ -137,16 +143,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/12/2003/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/12/2003/03/10/p/dre
+- type: repealed_by
+  target: pt:dre:578543:por
+  label: "Revogado o presente diploma, alterado pelo DN 24/2004 de de 19-Mai, pelo DN.18/2005.11.02.2005.MAPF, DR.IS-B [56]\
+    \ de 21.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-2005-578543
+  date: '2005-02-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:46Z'
   warnings: []
   errors: []
 ---

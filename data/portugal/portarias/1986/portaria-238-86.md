@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-1986-227061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24f3f9bded2f3f275f142298bbbcc5a4b7171b022d69102ac9f5d9e58940ce9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17e3c430e5fe47a35a9839a660c24834e7a2dc7883fb128e99f25a2d97778249
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Contabilidade e Administração
+- Curso de Línguas e Secretariado
+- Ensino Superior
+- Instituto Superior de Contabilidade e Administração
+- Plano de Estudos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:619969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:441281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592743:por
+  label: "Revogada pela PORT.1127/2000.2000.11.28.ME DR.IS-B [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1127-2000-592743
+  date: '2000-11-28'
+- type: repealed_by
+  target: pt:dre:619969:por
+  label: "Revogada na parte relativa ao grau de bacharel em contabilidade e administração, nos termos do art. 31º do Regulamento\
+    \ aprovado pela Port 413-A/98 de 17-Jul, pela PORT.1160/2001.2001.10.03.ME, DR.IS-B [230]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2001-619969
+  date: '2001-10-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:24Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +144,9 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1986-1987, 
 
 Ministério da Educação e Cultura.
 
-**Assinada em 2 de Maio de 1986.**
+Assinada em 2 de Maio de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 ## ANEXO I — Instituto Superior de Contabilidade e Administração do Porto
 
@@ -130,7 +156,7 @@ Grau de bacharelato
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf)
 
 ## ANEXO II — Instituto Superior de Contabilidade e Administração do Porto
 
@@ -140,7 +166,7 @@ Grau de bacharelato
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf)
 
 ## ANEXO III — Instituto Superior de Contabilidade e Administração
 
@@ -150,4 +176,4 @@ Grau de bacharelato
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11700/12441246.pdf)

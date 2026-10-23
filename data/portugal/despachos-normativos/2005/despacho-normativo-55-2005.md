@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/242b00/71587160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/55/2005/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-2005-465231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87894a319b2b8a202cea02af27159ea5afca354de66228d11e0a51204a9263a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28ab943294e533eb160b3d430188aca258af583224f725a0fae7ba9386e3a21e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
 - Definição de Competências
-- Projeto de Investimento
+- Exploração Agrícola
+- Financiamento
 - Gabinete de Planeamento e Política Agro-alimentar
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Instituto de Desenvolvimento Rural e Hidráulica
-- Exploração Agrícola
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Orientação Agrícola
+- Pecuária
 - Política Agrícola Comum
 - Prémio aos Produtores de Vacas Aleitantes
+- Produção Animal
 - Produção Leiteira
+- Projeto de Investimento
 - Quota de Produção
 - Regulamento CE
-- Pecuária
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1850890:por
+  label: "Alterado o artigo 5.º pelo DN.8/2007.22.12.2006.MADRP, DR.IIS [17] de 24.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2007-1850890
+  date: '2006-12-22'
+- type: amended_by
+  target: pt:dre:1745437:por
+  label: "Alterados o n.º 10 do art. 3.º, o n.º 2 do art. 5.º e n.º 1 do art. 8.º pelo DN.11/2009.06.03.2009.MADRP, DR.IIS\
+    \ [46] de 06.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2009-1745437
+  date: '2009-03-06'
+- type: amended_by
+  target: pt:dre:2819045:por
+  label: "Alterado o art. 6º, pelo DN.26-B/2009.17.07.2009.SEAAGP-MADRP, DR.IIS [137-2ºSupl] de 17.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-b-2009-2819045
+  date: '2009-07-17'
+- type: amended_by
+  target: pt:dre:918046:por
+  label: "Alterado, a partir de 10.02.2010, o art. 8º (na redacção do DN 11/2009, de 06-Mar) do presente DN, pelo DN.4/2010.05.02.2010.MADRP,\
+    \ DR.IIS [25] de 05.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2010-918046
+  date: '2010-02-05'
 - type: cites
   target: celex:31991R2092
   label: null
@@ -108,16 +130,26 @@ relationships:
   target: celex:32003R1782
   label: null
   source: http://data.europa.eu/eli/reg/2003/1782/oj
+- type: corrected_by
+  target: pt:dre:540189:por
+  label: "Rectificado pela DECL-RECT.8/2006.16.01.2006.PCM, DR.IS-B [17] de 24.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-2006-540189
+  date: '2006-01-16'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, pelo(a) Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:04Z'
   warnings: []
   errors: []
 ---

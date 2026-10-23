@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/12300/12901291.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1986-226982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ff42c89dfff430dbd68017f45e7ce36232192be051e85bd0b254ad85b0cfd4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6de376024dbf05017bc86a6c42cc38735e1688bb1387d1a617e80776d96e63ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Acções
+- Capital Social
+- Empresa Participada
+- Empresa Pública
+- Participação do Estado
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:374423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374423:por
+  label: "Revogada pela LEI.71/88.24.05.1988.AR, DR.IS [120] de 24.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-1988-374423
+  date: '1988-05-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:54Z'
   warnings: []
   errors: []
 ---
@@ -157,6 +192,6 @@ d) Não ocorrendo, nos termos previstos na alínea anterior, a transmissão da p
 
 Ministério das Finanças.
 
-**Assinada em 15 de Maio de 1986.**
+Assinada em 15 de Maio de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

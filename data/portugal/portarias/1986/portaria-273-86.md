@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12900/13371339.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-1986-226999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:44:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44b0a74c1c9b3d94d7a195a227a761996375d5c510886975e3766769515e091e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c4667c746f8530d7ac514e232b89237c62007072749389c87a5f8ea0991ae78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:44:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aldeamento Turístico
+- Apartamento Turístico
+- Estabelecimento Hoteleiro
+- Utilidade Turística
 relationships:
 - type: amended_by
   target: pt:dre:295169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442949:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:44:19Z'
   warnings: []
   errors: []
 ---
@@ -201,6 +213,6 @@ b) Que respeitem as condições de protecção do ambiente das áreas sensíveis
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 16 de Maio de 1986.**
+Assinada em 16 de Maio de 1986.
 
-**O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.**
+O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.

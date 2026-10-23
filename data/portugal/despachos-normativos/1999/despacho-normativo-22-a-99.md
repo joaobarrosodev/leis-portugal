@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 98/1999, 1º Suplemento, Série I-B de 1999-04-27
   number: '98'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2262-(2) a 2262-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/22-a/1999/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-a-1999-445521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:34:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d3daf411cfb5fb6d4a711090de376f162456a5b945c7845812214f52e8b2ba2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b5b4e3e4e2cd27ac94b9b89e85b254407c973d73242421426bbf5831fba379d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:34:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,52 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Financiamento
-- Turismo
-- Promoção Turística
+- Apoio ao Investimento
 - Cooperação Interempresas
 - Criação de Serviços
 - Definição de Competências
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Direcção Geral do Turismo
-- Rescisão de Contrato
-- Região de Turismo
-- Património Cultural
+- Financiamento
 - Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
-- Secretário de Estado do Turismo
-- Pagamento
-- Informação Turística
 - Fundo de Turismo
+- ICEP
+- Informação Turística
 - Orçamento
+- Pagamento
 - Parecer
+- Património Cultural
 - Património Histórico
-- Desenvolvimento Económico
+- Património Natural
 - Prazo
 - Programa
 - Programa Especial de Dinamização da Actividade Turística
-- Património Natural
+- Projeto de Investimento
+- Promoção Turística
+- Região de Turismo
+- Rescisão de Contrato
+- Secretário de Estado do Turismo
 - Setor Privado
 - Setor Público
 - Subsídio
 - Subsídio não Reembolsável
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre
+- type: cites
+  target: pt:dre:214264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566808:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:34:56Z'
   warnings: []
   errors: []
 ---
@@ -393,22 +401,22 @@ V = A(I) + B(N) + C(P)+ D(G)
 
 2.1 - O subcritério A tem por objectivo avaliar o impacte do projecto na procura turística relativamente à atenuação da sazonalidade e a outros desequilíbrios, quer se tenha por referência o País, a área promocional, a marca/destino ou o produto, da seguinte forma:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
 
 2.2 - O subcritério B destina-se a aferir os efeitos da notoriedade do País, da área promocional, da marca/destino ou produto sobre a oferta turística no mercado exterior e no mercado interior Portugal/Espanha, tendo por base os seguintes parâmetros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
 
 2.3 - O subcritério C destina-se a avaliar a intensidade da cooperação entre o sector privado e o sector público através do envolvimento relativo destes sectores no financiamento do projecto.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
 
 2.4 - O subcritério D constitui um indicador do grau de cobertura financeira própria pelo estabelecimento da relação entre a afectação de meios financeiros próprios e o total de despesas elegíveis através dos parâmetros seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
 
 ## ANEXO II
 
 Nos termos do n.º 8.º, a intensidade do incentivo a conceder pelo PEDAT é função da valia do projecto estabelecida pela seguinte pontuação:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b01/00020005.pdf)

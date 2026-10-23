@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1985, 9º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 4260-(150) a 4260-(181)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/976-1985-546593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55d2cf4cb92a73f9111988bbefee1b3fa40b21debd807d4050f893a8d3973786
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce2e2feec4614f5b82e7f98a098e36f1e44e2b65b097fa8cc6ddd73d749c298f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Alimentação Humana
+- Análise Laboratorial
+- Comércio
+- Controlo de Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:446373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:179994:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:446373:por
+  label: "Revogada pelo DEC LEI.290/2003.15.11.2003.MADRP, DR.IS-A [265] de 15.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2003-446373
+  date: '2003-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:54Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +112,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 31 de Dezembro de 1985.**
+Assinada em 31 de Dezembro de 1985.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 Métodos de análise
 
@@ -344,7 +358,7 @@ TABELA
 
 [Índice de refracção de soluções de sacarose a 20ºC ("20)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
 
 Determinação dos açúcares redutores, expressos em açúcares invertidos
 
@@ -780,7 +794,7 @@ V(índice o) x 25 x f/C x V(índice 1)
 
 TABELA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
 
 Os factores de correcção f, para valores intermédios aos apresentados na tabela, poderão ser obtidos por interpolação.
 
@@ -1306,7 +1320,7 @@ l o percurso óptico expresso em centímetros;
 
 d a densidade (massa específica);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
 
 5.1.2 -Determinação do número de pontos. - Sendo 1 ponto = 7,5 unidades ICUMSA, calcula-se o número de pontos utilizando a expressão:
 
@@ -1314,7 +1328,7 @@ Número de pontos = unidades ICUMSA/7,5
 
 Graus Brix - Tabela de conversão em massa específica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
 
 Determinação da cor em solução
 
@@ -1444,7 +1458,7 @@ Pode ser obtido a partir de uma garrafa de CO(índice 2) líquido, munida de uma
 
 Material de laboratório de uso corrente e nomeadamente o aparelho de Monier Williams, como ilustrado na fig. 1. Liga-se um balão de fundo redondo (A) de 1500 ml, de preferência de duas tubuladoras, a um refrigerante de refluxo (B) do modo indicado na figura. Liga-se a extremidade superior do refrigerante, por um tubo vertical (C), de 4 mm a 4,5 mm de diâmetro interior, a um frasco de Erlenmeyer (D) de 200 ml e depois a 2 tubos de Peligot (E) e (F). O tubo vertical (C) prolonga-se até o fundo do frasco de Erlenmeyer. Todas as ligações devem ser perfeitamente estanques.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
 
 5 - Técnica
 
@@ -1798,7 +1812,7 @@ Neste caso a expressão de cálculo será:
 
 mg As/kg (p. p. m.) = (m(índice 2) - m(índice 1))/m(índice o)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30109/01500181.pdf)
 
 Determinação do teor de chumbo
 
@@ -2026,4 +2040,4 @@ mg Cu/kg (p. p. m.) = ((m(índice 2) - m(índice 1)) x 50)/m(índice o)
 
 7.3 - Apresentação. - Os resultados apresentam-se arredondados às décimas.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

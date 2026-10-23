@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 142/1986, 1º Suplemento, Série I de 1986-06-24
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1486-(4) a 1486-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14201/00040007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-b-1986-621744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91ad28516ce9b245c66ab253943ca800427681fd405866891671062a07836f3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a921720a1a20794c631eb2d6c1fed13ff1d6636fc202fc120c44a3f561e1717c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Gestão de Empresas
+- Ensino Superior Politécnico
+- Escola Superior de Gestão
+- Instituto Politécnico
+- Plano de Estudos
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:643918:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374872:por
+  label: "Alterado o plano de estudos constante dos quadros do anexo I, pela PORT.305/88.12.05.1988.ME, DR.IS [110] de 12.05.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/305-1988-374872
+  date: '1988-05-12'
+- type: amended_by
+  target: pt:dre:186533:por
+  label: "Alterado o plano de estudos aprovado no presente diploma, pela PORT.230/92.24.03.1992.ME, DR.IS-B [70] de 24.03.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-1992-186533
+  date: '1992-03-24'
+- type: amended_by
+  target: pt:dre:649085:por
+  label: "Substituído o plano de estudos aprovado pelo presente diploma, alterado nas Portarias n.ºs 305/88, de 12 de Maio,\
+    \ e 230/92, de 24 de Março, pela PORT.971/97.15.09.1997.ME, DR.IS-B [213] de 15.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/971-1997-649085
+  date: '1997-09-15'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:148796:por
+  label: Rectificada pela DECL.DD4609.02.09.1986.PCM, DR.IS [225]2ºSupl de 30.09.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-148796
+  date: '1986-09-02'
+- type: repealed_by
+  target: pt:dre:643918:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, pela PORT.1051/99.1999.11.27.ME,DR.IS-B [277] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-1999-643918
+  date: '1999-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:45:37Z'
   warnings: []
   errors: []
 ---
@@ -161,8 +205,8 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 4 de Junho de 1986.**
+Assinada em 4 de Junho de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/14201/00040007.pdf))](https://files.diariodarepublica.pt/1s/1986/06/14201/00040007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14201/00040007.pdf)

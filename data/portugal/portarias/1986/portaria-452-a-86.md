@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 190/1986, 2º Suplemento, Série I de 1986-08-20
   number: '190'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2106-(5) a 2106-(58)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf
 entry_into_force_dates: []
@@ -46,40 +46,441 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/452-a-1986-468672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13e8cf56c75aa1b53792aeeb3c94b436c7261324c402685d03d8d6e6a4f11ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb5db9d040d5549913ae1909275edb3bb3f1ea04cdb182fc6c546d36ffb0f7fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Agricultura
+- Direcção Geral da Pecuária
+- Direcção Geral das Pescas
+- Direcção Geral dos Serviços Centrais
+- Escola Profissional de Pesca
+- Gabinete de Estudos e Planeamento das Pescas
+- Gabinete de Planeamento
+- Instituto de Gestão e Estruturação Fundiária
+- Instituto de Qualidade Alimentar
+- Instituto Nacional de Investigação Agrária e Extensão Rural
+- Instituto Nacional de Investigação das Pescas
+- Instituto Português de Conservas de Peixe
+- Lisboa
+- Ministério da Agricultura Pescas e Alimentação
+- Quadro de Pessoal
+- REDE de Informação e Contabilidade Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:332765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599758:por
+  label: "Alargado o quadro de pessoal da Direcção Geral das Pescas, constante do presente diploma, pela PORT.10/87.1987.01.06.MF\
+    \ DR.IS [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/10-1987-599758
+  date: '1987-01-06'
+- type: amended_by
+  target: pt:dre:421192:por
+  label: "Alterado o quadro de pessoal do Gabinete de Planeamento pela PORT.381/87.1987.05.06.MF DR.IS [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-1987-421192
+  date: '1987-05-06'
+- type: amended_by
+  target: pt:dre:421406:por
+  label: "Alterado o quadro de pessoal da Direção-Geral de Agricultura, pela PORT.434/87.1987.05.25.MF, DR.IS [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/434-1987-421406
+  date: '1987-05-25'
+- type: amended_by
+  target: pt:dre:417255:por
+  label: "Alterado o quadro da Rede de Informação de Contabilidades Agrícolas, aprovado no presente diploma, pela PORT.659/87.29.07.1987.MF,\
+    \ DR.IS [172] de 29.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/659-1987-417255
+  date: '1987-07-29'
+- type: amended_by
+  target: pt:dre:153129:por
+  label: "Alterado o quadro de pessoal do ex-Instituto Nacional de Investigação Agrária e Extensão Rural, pelo DEC LEI.5-A/88.14.01.1988.MAPA,\
+    \ DR.IS [11]2ºSupl de 14.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1988-153129
+  date: '1988-01-14'
+- type: amended_by
+  target: pt:dre:373438:por
+  label: "Alterada a designação do quadro de pessoal do ex-Gabinete de Planeamento, parte que respeita à carreira de informática,\
+    \ passando a carreira de programador de sistemas a designar-se por carreira de sistemas/aplicações, pela PORT.288/88.06.05.1988.MF,\
+    \ DR.IS [105] de 06.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-1988-373438
+  date: '1988-05-06'
+- type: amended_by
+  target: pt:dre:374784:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação das Pescas, constante do mapa I anexo ao presente\
+    \ diploma, na parte respeitante à carreira de técnico auxiliar de BAD, pela PORT.312/88.18.05.1988.MF, DR.IS [115] de\
+    \ 18.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-1988-374784
+  date: '1988-05-18'
+- type: amended_by
+  target: pt:dre:357306:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, na redacção do Dec Lei 5-A/88, de 14-Jan, pela PORT.759/88.25.11.1988.MF,\
+    \ DR.IS [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/759-1988-357306
+  date: '1988-11-25'
+- type: amended_by
+  target: pt:dre:620714:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal técnico\
+    \ superior, pela PORT.457/89.21.06.1989.MF, DR.IS [140] de 21.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-1989-620714
+  date: '1989-06-21'
+- type: amended_by
+  target: pt:dre:551216:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Pecuária, pelo DEC LEI.438/89.19.12.1989.MAPA, DR.IS [290] de 19.12.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1989-551216
+  date: '1989-12-19'
+- type: amended_by
+  target: pt:dre:333566:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, aprovado no presente diploma, pela PORT.51/90.22.01.1990.MF,\
+    \ DR.IS [18] de 22.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-1990-333566
+  date: '1990-01-22'
+- type: amended_by
+  target: pt:dre:332409:por
+  label: "Alterado o quadro de pessoal do Instituto de Qualidade Alimentar, pela PORT.168/90.02.03.1990.MF, DR.IS [51] de\
+    \ 02.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1990-332409
+  date: '1990-03-02'
+- type: amended_by
+  target: pt:dre:574917:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal do Instituto Nacional de Investigação\
+    \ Agrária, pela PORT.396/90.26.05.1990.MF, DR.IS [121] de 26.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-1990-574917
+  date: '1990-05-26'
+- type: amended_by
+  target: pt:dre:572904:por
+  label: "Alterado o quadro de pessoal do IAPA, constante do mapa anexo ao presente diploma, pelo DN.50/90.18.07.1990.MF,\
+    \ DR.IS [164] de 18.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-1990-572904
+  date: '1990-07-18'
+- type: amended_by
+  target: pt:dre:574151:por
+  label: "Criado um lugar de assessor principal no quadro de pessoal do Instituto de Apoio à Transformação e Comercialização\
+    \ dos Produtos Agro-Alimentares, pelo DN.86/90.22.08.1990.MF, DR.IS [193] de 22.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/86-1990-574151
+  date: '1990-08-22'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Extintos diversos lugares no quadro de pessoal da Direcção-Geral da Pecuária pelo DR.43/90.19.12.1990.MAPA, DR.IS\
+    \ [291] de 19.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:508598:por
+  label: "Alterado o quadro de pessoal do Instituto de Qualidade Alimentar, a que se refere o mapa anexo ao presente diploma,\
+    \ pela PORT.71/91.28.01.1991.MF, DR.IS-B [23] de 28.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-1991-508598
+  date: '1991-01-28'
+- type: amended_by
+  target: pt:dre:151725:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal técnico\
+    \ superior, pelo DN.23/92.10.02.1991.MF, DR.IS-B [34] de 10.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-1992-151725
+  date: '1991-02-10'
+- type: amended_by
+  target: pt:dre:621742:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal auxiliar,\
+    \ pela PORT.253/91.28.03.1991.MF, DR.IS-B [73] de 28.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-1991-621742
+  date: '1991-03-28'
+- type: amended_by
+  target: pt:dre:640084:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal técnico\
+    \ superior, pelo DN.108/91.21.05.1991.MF, DR.IS-B [116] de 21.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/108-1991-640084
+  date: '1991-05-21'
+- type: amended_by
+  target: pt:dre:673190:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal técnico\
+    \ superior, pelo DN.137/91.12.07.1991.MF, DR.IS-B [158] de 12.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/137-1991-673190
+  date: '1991-07-12'
+- type: amended_by
+  target: pt:dre:675244:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal técnico\
+    \ superior, pelo DN.161/91.12.08.1991.MF, DR.IS-B [184] de 12.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/161-1991-675244
+  date: '1991-08-12'
+- type: amended_by
+  target: pt:dre:168816:por
+  label: "Alterado o quadro de pessoal do Instituto de Qualidade Alimentar, relativamente às carreiras de biblioteca e documentação,\
+    \ pela PORT.125/92.29.02.1992.MF, DR.IS-B [51] de 29.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-1992-168816
+  date: '1992-02-29'
+- type: amended_by
+  target: pt:dre:175508:por
+  label: "Alterado o quadro de pessoal do Instituto de Qualidade Alimentar, na parte referente ao pessoal de informática e\
+    \ de técnico nutricionista, pela PORT.170/92.13.03.1992.MF, DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-1992-175508
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:175509:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal de informática,\
+    \ pela PORT.171/92.13.03.1992.MF, DR.IS-B [61] de 13.03.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/171-1992-175509
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:192603:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, relativamente às carreiras de informática, pela PORT.295/92.03.04.1992.MF,\
+    \ DR.IS-B [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1992-192603
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:527213:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, na parte referente ao pessoal técnico superior, pelo\
+    \ DN.66/92.12.05.1992.MF, DR.IS-B [109] de 12.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/66-1992-527213
+  date: '1992-05-12'
+- type: amended_by
+  target: pt:dre:527215:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, na parte referente ao pessoal técnico superior, pelo\
+    \ DN.67/92.12.05.1992.MF, DR.IS-B [109] de 12.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/67-1992-527215
+  date: '1992-05-12'
+- type: amended_by
+  target: pt:dre:301429:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal de biblioteca\
+    \ e documentação e de arquivo e pessoal técnico de serviço social, pela PORT.503/92.19.06.1992.MF, DR.IS-B [139] de 19.06.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1992-301429
+  date: '1992-06-19'
+- type: amended_by
+  target: pt:dre:231136:por
+  label: "Alterado o quadro de pessoal do Instituto de Qualidade Alimentar, pela PORT.912/92.22.09.1992.MF, DR.IS-B [219]\
+    \ de 22.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-1992-231136
+  date: '1992-09-22'
+- type: amended_by
+  target: pt:dre:228437:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, na parte referente às carreiras de biblioteca e documentação,\
+    \ pela PORT.959/92.07.10.1992.MF, DR.IS-B [231] de 07.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/959-1992-228437
+  date: '1992-10-07'
+- type: amended_by
+  target: pt:dre:220696:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Investigação Agrária, na parte referente ao pessoal técnico\
+    \ superior de serviço social, pela PORT.1010/92.26.10.1992.MF, DR.IS-B [247] de 26.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1010-1992-220696
+  date: '1992-10-26'
+- type: amended_by
+  target: pt:dre:618153:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, na parte referente ao pessoal técnico superior de serviço\
+    \ social, pela PORT.1109/92.04.12.1992.MF, DR.IS-B [280] de 04.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1109-1992-618153
+  date: '1992-12-04'
+- type: amended_by
+  target: pt:dre:408700:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos e Planeamento das Pescas, pelo DN.257/92.31.12.1992.MF, DR.IS-B\
+    \ [301] de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/257-1992-408700
+  date: '1992-12-31'
+- type: amended_by
+  target: pt:dre:634911:por
+  label: "Alterado o quadro de pessoal do Instituto de Qualidade Alimentar, pela PORT.281/93.12.03.1993.MF, DR.IS-B [60] de\
+    \ 12.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-1993-634911
+  date: '1993-03-12'
+- type: amended_by
+  target: pt:dre:634573:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, pelo DN.37/93.18.03.1993.MF, DR.IS-B [65] de 18.03.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/37-1993-634573
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:260909:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, pelo DN.95/93.09.06.1993.MF, DR.IS-B [134] de 09.06.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/95-1993-260909
+  date: '1993-06-09'
+- type: amended_by
+  target: pt:dre:376807:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Pecuária, na parte eferente ao pessoal de informática, pela PORT.638/93.05.07.1993.MF,\
+    \ DR.IS-B [155] de 05.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/638-1993-376807
+  date: '1993-07-05'
+- type: amended_by
+  target: pt:dre:685436:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos e Planeamento das Pescas, pelo DN.354/93.06.11.1993.MF, DR.IS-B\
+    \ [260] de 06.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/354-1993-685436
+  date: '1993-11-06'
+- type: amended_by
+  target: pt:dre:521620:por
+  label: "Alterado o quadro de pessoal do ex-Instituto de Qualidade Alimentar, pelo DN.74/94.07.02.1994.MF, DR.IS-B [31] de\
+    \ 07.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/74-1994-521620
+  date: '1994-02-07'
+- type: amended_by
+  target: pt:dre:522051:por
+  label: "Alterado o quadro de pessoal do ex-Gabinete de Estudos e Planeamento das Pescas, pelo DN.93/94.10.02.1994.MF, DR.IS-B\
+    \ [34] de 10.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/93-1994-522051
+  date: '1994-02-10'
+- type: amended_by
+  target: pt:dre:522057:por
+  label: "Alterado o quadro do ex-Gabinete de Estudos e Planeamento das Pescas, pelo DN.94/94.10.02.1994.MF, DR.IS-B [34]\
+    \ de 10.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/94-1994-522057
+  date: '1994-02-10'
+- type: amended_by
+  target: pt:dre:283738:por
+  label: "Alterado o quadro de pessoal do ex-Instituto de Qualidade Alimentar, pelo DN.149/94.17.03.1994.MF, DR.IS-B [64]\
+    \ de 17.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/149-1994-283738
+  date: '1994-03-17'
+- type: amended_by
+  target: pt:dre:283912:por
+  label: "Alterado o quadro de pessoal da ex-Direcção-Geral da Pecuária, pelo DN.152/94.18.03.1994.MF, DR.IS-B [65] de 18.03.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/152-1994-283912
+  date: '1994-03-18'
+- type: amended_by
+  target: pt:dre:259692:por
+  label: "Alterado o quadro de pessoal do ex-Gabinete de Estudos e Planeamento das Pescas, pelo DN.218/94.31.03.1994.MF, DR.IS-B\
+    \ [76] de 31.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/218-1994-259692
+  date: '1994-03-31'
+- type: amended_by
+  target: pt:dre:259708:por
+  label: "Alterado o quadro de pessoal do ex-Gabinete de Estudos e Planeamento das Pescas, pelo DN.219/94.31.03.1994.MF, DR.IS-B\
+    \ [76] de 31.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/219-1994-259708
+  date: '1994-03-31'
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661944:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477582:por
+  label: Rectificada pela DECL.DD4502.27.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477582
+  date: '1986-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:49:21Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +503,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Agr
 
 Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 
-**Assinada em 15 de Julho de 1986.**
+Assinada em 15 de Julho de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 Nota justificativa
 
@@ -276,11 +677,11 @@ Mapa I anexo a que se refere o n.º 1
 
 Gabinete do Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Rede de Informação do Contabilidades Agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Técnicos auxiliares
 
@@ -300,11 +701,11 @@ c) Zelar pelo funcionamento e conservação dos equipamentos.
 
 Direcção-Geral dos Serviços Centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Conteúdo funcional da carreira de agente técnico do frio
 
@@ -366,7 +767,7 @@ Colaboração em estudos de mercados e sectores.
 
 Instituto de Qualidade - Alimentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar
 
@@ -382,19 +783,19 @@ Apoio técnico às comissões técnicas de normalização e ao Conselho Técnico
 
 Direcção-Geral da Agricultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Direcção-Geral da Pecuária
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA II
 
-## Anexo à Portaria n.º 452-A/86
+Anexo à Portaria n.º 452-A/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Conteúdo da carreira de técnico auxiliar
 
@@ -428,7 +829,7 @@ Preenchimento e catalogação de diversas fichas de funcionamento diário, visan
 
 Instituto Nacional de Investigação Agrária e de Extensão Rural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Técnicos auxiliares
 
@@ -450,7 +851,7 @@ e) Zelar pelo funcionamento e conservação do equipamento.
 
 Instituto de Gestão e Estruturação Fundiária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Descrição do conteúdo funcional respeitante à carreira de técnico auxiliar constante do quadro
 
@@ -488,13 +889,13 @@ Direcção-Geral das Pescas
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA II
 
 Categorias a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA III
 
@@ -508,13 +909,13 @@ Instituto Nacional de Investigação das Pescas
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA II
 
 Categorias extinguir ao abrigo do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA III
 
@@ -538,7 +939,7 @@ e) Zelar pelo funcionamento e conservação do equipamento.
 
 Instituto Português de Conservas de Peixe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Conteúdo funcional da carreira de técnicos auxiliares
 
@@ -550,7 +951,7 @@ Observação e registo de dados relativos ao sector da indústria transformadora
 
 Gabinete de Estudos e Planeamento das Pescas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 Conteúdo funcional da carreira dos técnicos auxiliares
 
@@ -560,13 +961,13 @@ Escola Profissional de Pescas de Lisboa
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA II
 
 Careiras a extinguir - n.º 2, artigo 2.º, do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19002/00050058.pdf)
 
 MAPA III
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 142/2005, 1º Suplemento, Série I-B de 2005-07-26
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4374-(2) a 4374-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/142b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/36-a/2005/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-a-2005-157992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2f236754a8873e26cc1f67ecb61c38f041aecdd9e9b413f4b84d7eceafb2dd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ec164ad593f141a44355d5ae40a1dc8d8bb0413d2aef172970416d9b19fb9cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Instituto de Formação Turística
 - Direcção Geral do Turismo
 - Dotação Orçamental
-- Regulamento de Execução do Subprograma N.º 3-emprego e Formação
-- Regulamento de Execução do Subprograma Nº 2-promoção e Animação Turística
-- Regulamento de Execução do Subprograma Nº 5-inovação Informação e Novas Tecnologias
+- Instituto de Formação Turística
 - Programa de Intervenções para a Qualificação do Turismo
+- Regulamento de Execução do Subprograma N.º 3-emprego e Formação
 - Regulamento de Execução do Subprograma Nº 1-estruturação Qualificação e Potenciação da Oferta
+- Regulamento de Execução do Subprograma Nº 2-promoção e Animação Turística
 - Regulamento de Execução do Subprograma Nº 4-investigação Planeamento e Qualidade
+- Regulamento de Execução do Subprograma Nº 5-inovação Informação e Novas Tecnologias
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:2245196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676196:por
+  label: "Alterados o art. 4º do anexo I e os arts. 5º e 6º do anexo II do DN 24/2002 de 18-Abr, com as alterações constantes\
+    \ do presente diploma, pelo DN.12/2006.30.01.2006.MEI, DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2006-676196
+  date: '2006-01-30'
+- type: amended_by
+  target: pt:dre:676641:por
+  label: "Alterados os arts. 25º e 26º e o apêndice do Regulamento de Execução do Subprograma nº 1 \"Estruturação, Qualificação\
+    \ e Potenciação da Oferta\" do PIQTUR, aprovado em anexo ao DN 8-A/2004 de 18-Fev, com a redacção do presente diploma,\
+    \ e reaberta uma fase para apresentação de candidaturas, com início a 24.02.2006 e que decorrerrá por 90 dias consecutivos,\
+    \ ao referido Subprograma nº 1., pelo DN.13/2006.30.01.2006.MEI, DR.IS-B [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2006-676641
+  date: '2006-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/23/2004/05/10/p/dre
   label: null
@@ -93,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:36Z'
   warnings: []
   errors: []
 ---

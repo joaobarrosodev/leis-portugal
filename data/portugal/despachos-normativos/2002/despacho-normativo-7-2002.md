@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/034b00/10641065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/7/2002/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2002-273663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8114f5acd2e1f5c76cd6f8f2c86fcc57a4520d555a9f6619e9e21b6e1104c0ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b42dcc6b0b50bd524d028d14492ad16667984ce1130ee45b05c96d6dbac895c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Doença Vegetal
+- Controlo Sanitário
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Proteção Fitossanitária
-- Produção Vegetal
+- Doença Vegetal
+- Financiamento
 - Fruticultura
+- Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:1595879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantido em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1999/01/12/p/dre
   label: null
@@ -113,16 +118,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/60/1998/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/60/1998/09/01/p/dre
+- type: cites
+  target: pt:dre:314421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684844:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1595879:por
+  label: "Revogado pelo DN.10/2006.04.09.2006.MADRP, DR.IIS [188] de 28.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2006-1595879
+  date: '2006-09-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:39:36Z'
   warnings: []
   errors: []
 ---

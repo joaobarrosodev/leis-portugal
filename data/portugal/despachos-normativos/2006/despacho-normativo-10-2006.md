@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/034b00/12581259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/10/2006/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2006-683670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad924170f0b845da6ae7a68a9aba01c6348b03c20ba89af199fa899db3a82fd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02563dd97f32bc177a749f9547621a34602d3a072508faba3b11d31100ec77d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2021988:por
+  label: "Revogados, a partir de 16.02.2009, os Estatutos do Instituto Politécnico do Porto, publicados pelo DN 76/95, de\
+    \ 29-Nov, com as alterações introduzidas pelo presente diploma, pelo DN.5/2009.02.02.2009.MCTES, DR.IIS [22] de 02.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2009-2021988
+  date: '2009-02-02'
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:13Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +175,9 @@ Eleição
 
 15 - (Anterior n.º 14.)
 
-###### Artigo 15.º — Colégio eleitoral
+Artigo 15.º
+
+Colégio eleitoral
 
 1 - ...
 
@@ -178,7 +203,9 @@ c) Dos três corpos, no caso de aquela situação se verificar em todos eles.
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 33.º — Unidades orgânicas
+Artigo 33.º
+
+Unidades orgânicas
 
 1 - O Instituto integra as seguintes escolas superiores:
 
@@ -210,7 +237,9 @@ g) [Anterior alínea e).]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 38.º — Director ou conselho directivo
+Artigo 38.º
+
+Director ou conselho directivo
 
 1 - ...
 
@@ -228,13 +257,17 @@ g) [Anterior alínea e).]
 
 8 - ...
 
-###### Artigo 67.º — Escolas em regime de instalação
+Artigo 67.º
+
+Escolas em regime de instalação
 
 1 - As escolas que se encontrem em regime de instalação regem-se pelo disposto na lei geral e especial aplicável, sem prejuízo da plena integração e participação nos órgãos e actividades do Instituto.
 
 2 - A passagem ao regime estatutário depende de deliberação favorável do conselho geral, logo que se encontrem reunidas as condições necessárias para esse fim.
 
-###### Artigo 68.º — Regime supletivo
+Artigo 68.º
+
+Regime supletivo
 
 1 - Sempre que uma nova escola cesse o regime de instalação, o conselho geral estabelecerá o regime de funcionamento transitório que deverá vigorar até à aprovação dos respectivos estatutos.
 

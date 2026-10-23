@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 90/1986, 1º Suplemento, Série I de 1986-04-18
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 960-(1) a 960-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/09001/00010003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/151-a-1986-250431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:41:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c72d48865587574111a08832ee657c2cae5b4ddf5299af0afbb9d809df8f99f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15ebcefe62105aa0cc68258b075a0f42186312551735deb4f9239f9abcefc5e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carne de Vaca
+- Definição de Competências
+- Direitos Aduaneiros
+- Gado Bovino
+- Garantia
+- Importação
+- Junta Nacional dos Produtos Pecuários
+- Países Terceiros
+- Preço
+- Troca Intracomunitária
+relationships:
+- type: corrected_by
+  target: pt:dre:301041:por
+  label: Rectificada pela DECL.DD4690.02.07.1986.PCM, DR.IS [174]2ºSupl de 31.07.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301041
+  date: '1986-07-02'
+- type: corrected_by
+  target: pt:dre:477599:por
+  label: Rectificada pela DECL.DD4488.03.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477599
+  date: '1986-10-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:41:24Z'
   warnings: []
   errors: []
 ---
@@ -164,10 +184,10 @@ b) Nos restantes casos:
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 18 de Abril de 1986.**
+Assinada em 18 de Abril de 1986.
 
 Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
 
 ## ANEXO — Coeficientes técnicos para o cálculo dos direitos niveladores aplicados, referidos no n.º 5.º desta portaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09001/00010003.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09001/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09001/00010003.pdf)

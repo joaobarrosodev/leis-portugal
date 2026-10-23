@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 115/2001, 1º Suplemento, Série I-B de 2001-05-18
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2928-(2) a 2928-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/115b01/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/23-a/2001/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-2001-352502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a11524b139ee59bf88fef8298e1c27b9c94cd4caf0de846203ba0b9665875e8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affc76254f8ad93ddd29440e2c98b0d59607db70cbb168376662af31f8a93471
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Director Artístico
 - Apoio ao Investimento
+- Director Artístico
+- Financiamento
 - Música
 - Orquestra
 - Política Cultural
@@ -86,16 +86,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/56/1992/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/56/1992/04/29/p/dre
+- type: cites
+  target: pt:dre:402542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403891:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:320346:por
+  label: "Rectificado pela DECL-RECT.13-V/2001.2001.06.26.PCM, DR.IS-B[150]3ºSUPL de 30/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-v-2001-320346
+  date: '2001-06-26'
+- type: repealed_by
+  target: pt:dre:2913878:por
+  label: "Revogado pelo DESP.1793/2012.08.02.2012.SECU-PCM, DR.IIS [28] de 08.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1793-2012-2913878
+  date: '2012-02-08'
 article_structure:
   article_count: 28
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:42Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +146,9 @@ Nos termos da alínea c) do artigo 199.º da Constituição e da alínea h) do a
 
 Ministério da Cultura, 15 de Maio de 2001. - O Ministro da Cultura, José Estêvão Cangarato Sasportes.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Princípios gerais
 

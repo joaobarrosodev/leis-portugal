@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1986-218945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:48:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec52c52f9a12616e381c3c473626c5d68fd72c751d447444ecb874ccb5a7bdba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a33b14683c0373466b90e8a98de99ea5a1b41affd45e5d3f8eb0492339371b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:48:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Castelo Branco
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Curso de Produção Florestal
+- Escola Superior Agrária
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:355370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496736:por
+  label: "ALTERADA A REDACÇÃO DOS QUADROS I, II E III PELA PORTARIA 883/87, PUBLICADA NO DR.IS, 265, DE 871117, PASSANDO A\
+    \ SER A CONSTANTE DOS ANEXOS DA REFERIDA PORTARIA ALTERADO O QUADRO III DO ANEXO I PELA PORTARIA 676/90, PUBLICADA NO\
+    \ DR.IS, 189, DE 900817, NA REDACÇÃO DADA PELA PORTARIA 883/87, PUBLICADA NO DR.IS, 265, DE 871117.\0 265, DE 871117.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-1987-496736
+- type: amended_by
+  target: pt:dre:573561:por
+  label: "Alterado o quadro III do anexo I e aditado um nº 2º-A, pela PORT.676/90.17.08.1990.ME, DR.IS [189] de 17.08.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/676-1990-573561
+  date: '1990-08-17'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355370:por
+  label: "Revogada, findo o prazo estabelecido no art. 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, na parte\
+    \ em que confere nova redacção à Port 855/83, de 26-Ago - Autoriza o Instituto Politécnico de Castelo Branco, através\
+    \ da sua Escola Superior Agrária, a conferir o Grau de bacharel em Engenharia Agrícola e em Engenharia Animal, pela PORT.515/99.1999.07.19.ME\
+    \ DR.IS-B [166]/\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1999-355370
+  date: '1999-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:48:35Z'
   warnings: []
   errors: []
 ---
@@ -153,8 +193,8 @@ b) No trabalho de fim de curso a que se refere o n.º 2.º
 
 Ministério da Educação e Cultura.
 
-**Assinada em 26 de Junho de 1986.**
+Assinada em 26 de Junho de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/18000/19571962.pdf))](https://files.diariodarepublica.pt/1s/1986/08/18000/19571962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/18000/19571962.pdf)

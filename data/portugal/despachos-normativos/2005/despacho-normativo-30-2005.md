@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/05/088b00/32943299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/30/2005/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2005-534992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8168b59fce753875c3e83a40bf7075f70c1fea11cd87a805acbbd80044bcbfa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3964a2158d66220ab999210de8d4447e4a3aa2ae1c6dfeebfd2062b57dbde0c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuda Comunitária
-- Programa Apicola Nacional
-- Doença Animal
+- Apicultura
+- Comércio
 - Comissão de Acompanhamento
-- Direção Geral de Veterinária
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Regional de Agricultura
 - Direcção Regional de Desenvolvimento Agrário
+- Doença Animal
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Produção
-- Apicultura
 - Madeira.região Autónoma
-- Açores
-- Comércio
+- Produção
+- Programa Apicola Nacional
 relationships:
 - type: amended_by
   target: pt:dre:3048923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:143080:por
+  label: "Alterados os arts. 2º, 4º, 5º, 7º, 9º, 10º, 11º, 13º e 14º do presente diploma, pelo DN.43/2005.19.08.2005.MADRP,\
+    \ DR.IS-B [175] de 12.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-2005-143080
+  date: '2005-08-19'
+- type: amended_by
+  target: pt:dre:595316:por
+  label: "Alterado o art. 14º deste diploma, com a redacção introduzida pelo DN 43/2005 de 12-Set, pelo DN.47/2005.07.10.2005.MADRP,\
+    \ DR.IS-B [204] de 24.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/47-2005-595316
+  date: '2005-10-07'
+- type: amended_by
+  target: pt:dre:666971:por
+  label: "Alterado o nº 8 do art. 4º, do presente diploma, com a redacção dada pelo DN 43/2005 de 12-Set, pelo DN.17/2006.17.02.2006.MADRP,\
+    \ R.IS-B [50] de 10.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-2006-666971
+  date: '2006-02-17'
+- type: amended_by
+  target: pt:dre:1461207:por
+  label: "Alterado os prazos fixados no n.º 3 do artigo 7.º e n.º 2 do artigo 9.º do presente diploma, pelo DN.13/2006.29.09.2006.MADRP,\
+    \ DR.IIS [200] de 17.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-2006-1461207
+  date: '2006-09-29'
 - type: cites
   target: celex:32004R0797
   label: null
@@ -92,16 +116,26 @@ relationships:
   target: celex:32004R0917
   label: null
   source: http://data.europa.eu/eli/reg/2004/917/oj
+- type: corrected_by
+  target: pt:dre:226829:por
+  label: "Rectificado pela DECL-RECT.48/2005.30.05.2005.PCM, DR.IS-B [113] de 15.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/48-2005-226829
+  date: '2005-05-30'
+- type: repealed_by
+  target: pt:dre:3048923:por
+  label: "Revogado pelo DN.23/2008.18.04.2008.MADRP, DR.IIS [77] de 18.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2008-3048923
+  date: '2008-04-18'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:26Z'
   warnings: []
   errors: []
 ---

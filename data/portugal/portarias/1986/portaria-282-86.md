@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-1986-228830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9887b22c057a4c136530ef8768ebe363057431366d06a1ae70e19696a446e3cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fadad89f5d21c270dc53a34b86cd3aa0ad7bc87cec9626a7bd2cdba08dc06694
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Condutor
+- Gabinete Governamental
+- Integração de Trabalhadores
+- Ministério da Defesa Nacional
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391994:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:44:38Z'
   warnings: []
   errors: []
 ---
@@ -102,18 +123,18 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e d
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 23 de Maio de 1986.**
+Assinada em 23 de Maio de 1986.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 MAPA I
 
 Quadro de pessoal a que se refere o n.º 1.º da Portaria n.º 282/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13500/14071408.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13500/14071408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13500/14071408.pdf)
 
 MAPA II
 
 1 - Gabinete do Ministro da Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13500/14071408.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13500/14071408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13500/14071408.pdf)

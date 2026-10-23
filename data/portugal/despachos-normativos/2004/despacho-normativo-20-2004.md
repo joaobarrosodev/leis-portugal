@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/102b00/26952695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/20/2004/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2004-302290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a12b90183edd4ed907bd213f1cb56da33c782076a58ce0a61628aba9fa31807b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4792dcf3a474dd93d3d4d1715895d357582b76a8634ac18a5d5711125905a7ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Investigação e Fiscalização
-- Serviço de Estrangeiros e Fronteiras
 - Estágio de Formação
 - Regulamento de Estágio
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:66922018:por
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/17/2003/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/17/2003/04/17/p/dre
+- type: cites
+  target: pt:dre:239605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66922018:por
+  label: Revogado o presente Despacho, pelo(a) Despacho Normativo n.º 7/2015 - Diário da República n.º 67/2015, Série II de
+    2015-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-2015-66922018
+  date: '2015-04-07'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:58Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +131,9 @@ Os artigos 4.º, 9.º, 10.º e 18.º do Regulamento do Estágio Probatório de I
 
 3 - Os programas correspondentes a cada uma das disciplinas serão aprovados por despacho do director-geral do SEF, mediante proposta do coordenador do estágio.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Durante a fase formativa teórica, os estagiários serão submetidos a provas para os efeitos de avaliação de conhecimentos em cada disciplina, sendo obrigatória a realização de pelo menos uma prova escrita final nas disciplinas que integram o grupo I.
 
@@ -125,13 +141,17 @@ Os artigos 4.º, 9.º, 10.º e 18.º do Regulamento do Estágio Probatório de I
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A classificação dos estagiários em cada uma das disciplinas será graduada de 0 a 20 valores.
 
 2 - A classificação final da fase formativa teórica será a resultante da média aritmética simples da classificação obtida em cada uma das disciplinas que compõem os grupos I e II.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Determinam a reprovação no estágio:
 

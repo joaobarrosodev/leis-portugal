@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/37/2003/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-2003-504504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:40:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b9a530e2fd7c9e94269d54394d0a796963666612fa509afd26cbd1f2e76e1f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e45206ec18f506cc4c9f9a485d29ad078686e28afd981fb3d0a64539eea3c22f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Espetáculos e Divertimentos Públicos
-- Produção Cinematográfica
-- Informatização
-- ICAM
-- Cinema
 - Actividade Artística
+- Cinema
+- Espetáculos e Divertimentos Públicos
+- ICAM
+- Informatização
+- Produção Cinematográfica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2003/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/2003/06/20/p/dre
+- type: cites
+  target: pt:dre:692851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:40:24Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +130,7 @@ b) O servidor do ICAM responsável por receber as informações enviadas está c
 
 c) O promotor de espectáculos deve, através da sua aplicação informática, gerar ficheiros de texto na linguagem XML que sejam validados pelo seguinte esquema XML (XML schema):
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59455951.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59455951.pdf)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59455951.pdf)
 
 O esquema XML acima apresentado encontra-se disponível para download no seguinte endereço: https://www.ec.icam.pt/schema/icam_pvb.xsd.
 
@@ -134,7 +138,7 @@ Este esquema XML fornecido pelo ICAM para validação dos ficheiros de XML a tra
 
 d) A seguinte estrutura de XML demonstra um ficheiro de XML correctamente gerado pela aplicação informática:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59455951.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59455951.pdf)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59455951.pdf)
 
 As instruções a negrito nunca podem ser alteradas.
 

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-1986-227443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c206c868a93a3028bf519d3bd85a91930e81abfac429a79629297733074462dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a29de39a13eceae6da927c9a2c557ef3372d477e885a5e09dac60604f843ee0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Fruto
 relationships:
 - type: amended_by
   target: pt:dre:611676:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO A PARTE RESPEITANTE AO TOMATE PELA PORTARIA NUMERO 333/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO\
+    \ 106, DE 9/5/89.\0/5/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:611676:por
+  label: "Revogado o anexo III do presente diploma, pela PORT.333/89.09.05.1989.MAPA, DR.IS [106] de 09.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/333-1989-611676
+  date: '1989-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:42:08Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +118,9 @@ b) Em 1 de Outubro de 1986, para os citrinos e tomate.
 
 Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 8 de Abril de 1986.**
+Assinada em 8 de Abril de 1986.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 ## ANEXO I — Normas de qualidade para maçãs e peras
 
@@ -208,7 +224,7 @@ Nenhuma limitação é imposta para os frutos das categorias II e III, quando ap
 
 Para todas as categorias exigem-se os diâmetros mínimos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
 
 Por excepção: para as variedades de Verão que figuram na lista limitativa do quadro D, a exigência do calibre mínimo não é aplicada para as variedades comercializadas entre 10 de Junho e 31 de Julho de cada ano.
 
@@ -494,7 +510,7 @@ Karmijn de Sonnaville.
 
 Para as variedades não mencionadas acima, a carepa é admitida dentro dos seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
 
 QUADRO C
 
@@ -880,7 +896,7 @@ B) Escalas de calibragem:
 
 Clementinas e monreals, tangerinas, satsumas, wilkings, outras mandarinas e seus híbridos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
 
 Para as tangerinas, satsumas, wilkings, outras mandarinas e seus híbridos de diâmetros superiores a 63 mm a classificação é a seguinte:
 
@@ -892,11 +908,11 @@ N.º 1 X - 63-74.
 
 Laranjas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
 
 Limões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
 
 C) Homogeneidade de calibragem:
 
@@ -1168,7 +1184,7 @@ B) Homogeneidade:
 
 As escalas de calibre abaixo indicadas são obrigatórias para os tomates de categoria «extra» e I:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10300/10551064.pdf)
 
 Os tomates sulcados correspondentes ao calibre mais elevado não podem ser classificados na categoria «extra».
 

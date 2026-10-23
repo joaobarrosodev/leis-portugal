@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/26/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1999-321949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5967260774fee8ce64782d56a65758361f6b1963f576e271d2e79dd0eaad3290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3960059d12beda32ea80d9ad9789166a996691af0792d739f8cd069caab81313
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Tecnologia da Informação
-- Desenvolvimento Industrial
-- Política Industrial
-- Mudança Tecnológica
-- Equipamento Eletrónico
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Industrial
+- Equipamento Eletrónico
+- Financiamento
 - Indústria da Informação
 - Indústria Electrónica
-- Reestruturação Industrial
-- Pratic
 - Madeira.região Autónoma
+- Mudança Tecnológica
+- Política Industrial
+- Pratic
+- Projeto de Investimento
+- Reestruturação Industrial
 - Sideram
 - Sistema de Incentivos Regionais
 - Subsídio
+- Tecnologia da Informação
 relationships:
 - type: amended_by
   target: pt:dre:667565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667565:por
+  label: "Alterado o anexo III do DN 84/95 de 27-Dez, na redacção dada pelo presente diploma, pelo DN.48/99.1999.09.22.MECO,\
+    \ DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1999-667565
+  date: '1999-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/193/1994/07/19/p/dre
   label: null
@@ -116,16 +122,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52/1998/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52/1998/04/20/p/dre
+- type: cites
+  target: pt:dre:175358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643123:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:35:02Z'
   warnings: []
   errors: []
 ---
@@ -166,11 +200,13 @@ c) ...
 
 5 - São susceptíveis de apoio no âmbito do PRATIC os pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão, localizados nas regiões abrangidas pelo Sistema de Incentivos Regionais (SIR), e pelo Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), criado pelo [Decreto Legislativo Regional n.º 2/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1996-620079), de 13 de Fevereiro.
 
-## ANEXO IV
+ANEXO IV
 
 Regime específico aplicável, para efeitos de PRATIC, aos projectos candidatos no âmbito do disposto no [Despacho Normativo n.º 549/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/549-1994-231894) (IIDE0104), de 29 de Julho, alterado pelo [Despacho Normativo n.º 39/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1995-478214), de 7 de Agosto.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +240,9 @@ a) ...
 
 b) (Não aplicável.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Poderão ser majorados em 15% os projectos situados em concelhos reconhecidos por despacho conjunto dos ministros competentes como profundamente afectados por transformações industriais e ou com taxas de desemprego acima da média nacional durante o período de 1995 a 1997.
 

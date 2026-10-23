@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/26/2001/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2001-332039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c033445c5a003f289570541f94b40f04ba07b00c9114c4fa0fb9693b84bbb82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c770f446c932b00ba95f651e8ba17f24daf31448e1ea754f59ca8d9da81c340
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Centro Português de Fotografia
 - Edição de Publicações
-- Património Cultural
 - Fotografia
+- Património Cultural
 - Protecção do Património
 - Regulamento
 - Regulamento de Apoio à Edição
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/160/1997/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/160/1997/06/25/p/dre
+- type: cites
+  target: pt:dre:163597:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:37:46Z'
   warnings: []
   errors: []
 ---

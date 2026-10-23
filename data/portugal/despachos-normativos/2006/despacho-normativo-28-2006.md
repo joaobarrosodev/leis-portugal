@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/085b00/32173222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/28/2006/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2006-660320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:43:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8909361437b99ac1196a8b5ba043a11c5cab527f0b9404828a85f5045abac16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 492e3d9b0192161dd20157b9b2dcc8937bb645634bb529e696a1e744574b2765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:43:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Lares
 - Especificação Técnica
-- Residência
+- Lares
 - Proteção ao Deficiente
 - Regulamento
+- Residência
 relationships:
 - type: amended_by
   target: pt:dre:66639520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:66639520:por
+  label: Revoga, a partir de 03.03.2015, o presente diploma, pelo(a) Portaria n.º 59/2015 - Diário da República n.º 42/2015,
+    Série I de 2015-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-2015-66639520
+  date: '2015-03-02'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:43:39Z'
   warnings: []
   errors: []
 ---
