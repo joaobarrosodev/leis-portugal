@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11200/20012001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1987-421453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a52ab24a159cc15d94fc4900385410c37b4bb584b108e6cf34cfb040fe638972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16cdb89b05398bbfd7f5df715a0166037bcccefa61a393454c3568ee648686b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Bancário
+- Instituição de Crédito
+- Instituições Parabancárias
+- JURO de MORA
+- Regime Jurídico
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:260888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:227446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325760:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260888:por
+  label: "Revogado, a partir de 06.08.2013, o Dec Lei 344/78 de 17-nov, alterado pelo presente diploma, pelo DEC LEI.58/2013.08.05.2013.MF,\
+    \ DR.IS [88] de 08.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2013-260888
+  date: '2013-05-08'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:26Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ A medida poderá ter especial relevo para as pequenas e médias empresas e, de u
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 344/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1978-325760), de 17 de Novembro, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 83/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1986-227446), de 6 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 344/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1978-325760), de 17 de Novembro, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 83/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1986-227446), de 6 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 5.º — Juros
 
@@ -113,16 +133,16 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 6 - Não podem ser capitalizados juros correspondentes a um período inferior a três meses.
 
-###### Art. 2.º O disposto no presente diploma entra em vigor no 30.º dia após a respectiva publicação.
+Art. 2.º O disposto no presente diploma entra em vigor no 30.º dia após a respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Maio de 1987.**
+Promulgado em 5 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1987.**
+Referendado em 5 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

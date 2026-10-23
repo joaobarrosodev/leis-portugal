@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1987-665877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59b31060da635d45ee81cdfd3d3bab1cf11a97a5abfbe02c11e887b9cf2d9e34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20eaeb5ee78d6bb1fc5b1f4d4e2aa841f4b905778e90d9590b483355a43b329d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abate de Animais
+- Indemnização
+relationships:
+- type: cites
+  target: pt:dre:348768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:16Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +114,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º No cálculo das indemnizações por abate sanitário, a que se referem o artigo 5.º do [Decreto-Lei n.º 26114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26114-1935-538232), de 23 de Novembro de 1935, o artigo único do [Decreto-Lei n.º 29181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29181-1938-348768), de 24 de Novembro de 1938, o artigo 8.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e o § 2.º do artigo 26.º do Regulamento Geral de Saúde Pecuária, aprovado por decreto real de 1889, será levada em conta a qualificação da exploração e o valor zootécnico dos animais abatidos, para a fixação do montante compensatório.
+Artigo 1.º No cálculo das indemnizações por abate sanitário, a que se referem o artigo 5.º do [Decreto-Lei n.º 26114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26114-1935-538232), de 23 de Novembro de 1935, o artigo único do [Decreto-Lei n.º 29181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29181-1938-348768), de 24 de Novembro de 1938, o artigo 8.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e o § 2.º do artigo 26.º do Regulamento Geral de Saúde Pecuária, aprovado por decreto real de 1889, será levada em conta a qualificação da exploração e o valor zootécnico dos animais abatidos, para a fixação do montante compensatório.
 
-###### Art. 2.º O montante compensatório a que se refere o artigo anterior será fixado por despacho dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, podendo ser revisto sempre que as circunstâncias o justifiquem.
+Art. 2.º O montante compensatório a que se refere o artigo anterior será fixado por despacho dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, podendo ser revisto sempre que as circunstâncias o justifiquem.
 
-###### Art. 3.º O presente diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
+Art. 3.º O presente diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03100/04750480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d97b986be106c10a1ac287dbd6f37243ec2b4d909e323f77811170ca8099cc17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173703706ffefe197012b9c5e7ebed8939d6adc2559b97bfdba826801137a630
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspecção Geral da Administração do Território
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:398495:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614669:por
+  label: Alterados os arts. 13º, 20º, 26º, 27º e 28º e aditado o art. 26º-A pelo DEC LEI.99/89.29.03.1989.MPAT, DR.IS [73]
+    de 29.03.1989, que substituiu, pelos seus anexos I, II e III, os anexos I e II do presente diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1989-614669
+  date: '1989-03-29'
+- type: amended_by
+  target: pt:dre:516267:por
+  label: Alterados os arts. 3º e 10º pelo DEC LEI.121-A/90.12.04.1990.MPLAT, DR.IS [86-Supl] de 12.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-a-1990-516267
+  date: '1990-04-12'
+- type: amended_by
+  target: pt:dre:375435:por
+  label: "Alterado o art. 28º (com a redacção constante do Dec Lei 99/89 de 29-Mar) pelo DEC LEI.242/93.08.07.1993.MPLAT,\
+    \ DR.IS-A [158] de 08.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1993-375435
+  date: '1993-07-08'
+- type: amended_by
+  target: pt:dre:534795:por
+  label: "Prevista a sua fusão com a Inspecção-Geral das Obras Públicas Transportes e Comunicações, pelo DEC LEI.23/96.1996.03.20.PCM\
+    \ DR.IS-A [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1996-534795
+  date: '1996-03-20'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Inspecção-Geral das Administração do Território\
+    \ (integrada no Ministério do Equipamento do Planeamento e da Administração do Território pelo Dec Lei 23/96, de 20-Mar),\
+    \ cuja Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:508819:por
+  label: "Alterada a estrutura salarial da carreira técnica superior de inspecção pelo DR.5/2000.2000.02.10.PCM DR.IS-B [73]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-2000-508819
+  date: '2000-02-10'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Transferida a Inspecção-Geral da Administração do Território da Presidência do Conselho de Ministros para o Ministério\
+    \ do Ambiente e do Ordenamento do Território, pelo DEC LEI.267-A/2000.2000.10.20.PCM DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Inspecção-Geral da Administração do Território (integrada no agora extinto Ministério das Cidades, Ordenamento do\
+    \ Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Inspecção-Geral cuja orgânica foi aprovada\
+    \ no presente diploma, colocando-a na dependência do Ministro de Estado e da Administração Interna, e sendo a competência\
+    \ relativa à definição das orientações estratégicas no domínio do ordenamento do território e do ambiente, bem como o\
+    \ acompanhamento da sua execução, exercida pelo Ministro de Estado e da Administração Interna em articulação com o Ministro\
+    \ do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Determinada a reestruturação da Inspecção-Geral da Administração do Território, cuja orgânica foi aprovada no presente\
+    \ diploma, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, passando a designar-se Inspecção-Geral da\
+    \ Administração Local, nos termos dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:398495:por
+  label: "Revogado, a partir de 01.10.2007, pelo DEC LEI.326-A/2007.28.09.2007.PCM, DR.IS [188]Supl de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-a-2007-398495
+  date: '2007-09-28'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:22Z'
   warnings: []
   errors: []
 ---
@@ -470,19 +548,19 @@ O inspector-geral, os subinspectores-gerais, o director de Serviços de Estudos 
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 15 de Janeiro de 1987.**
+Promulgado em 15 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Janeiro de 1987.**
+Referendado em 21 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal dirigente e de chefia a que se refere o artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03100/04750480.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03100/04750480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03100/04750480.pdf)
 
 ## ANEXO II — Reverso do cartão modelo n.º 1
 

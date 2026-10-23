@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/25500/39453945.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1987-497582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9a3bda888d1138cceab3e7636d84296553c4c581fa836a6ebb3127ea44026df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b2b40b7acfb8ff2d40d8d00c4fdeae29e88de22082c535895f8bd4397a2281
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto Português do Património Cultural
+- Património Cultural
+- Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:410287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:410287:por
+  label: "Revogado pelo DEC LEI.106-F/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-f-1992-410287
+  date: '1992-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:47Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +109,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao Instituto Português do Património Cultural compete determinar, precedendo autorização do membro do Governo responsável pela cultura, o embargo administrativo de quaisquer obras ou trabalhos, licenciados ou efectuados, em desconformidade com legislação relativa ao património cultural, nomeadamente nas zonas de protecção dos monumentos nacionais, dos imóveis de interesse público, das zonas especiais de protecção dos imóveis de interesse arqueológico, bem como noutras áreas expressamente designadas na lei.
+Artigo 1.º Ao Instituto Português do Património Cultural compete determinar, precedendo autorização do membro do Governo responsável pela cultura, o embargo administrativo de quaisquer obras ou trabalhos, licenciados ou efectuados, em desconformidade com legislação relativa ao património cultural, nomeadamente nas zonas de protecção dos monumentos nacionais, dos imóveis de interesse público, das zonas especiais de protecção dos imóveis de interesse arqueológico, bem como noutras áreas expressamente designadas na lei.
 
-###### Art. 2.º Nos casos de obras licenciadas ou promovidas por organismos da administração central, dotados ou não de personalidade jurídica, a autorização prevista no artigo anterior será dada por despacho conjunto dos ministros responsáveis da cultura e da tutela.
+Art. 2.º Nos casos de obras licenciadas ou promovidas por organismos da administração central, dotados ou não de personalidade jurídica, a autorização prevista no artigo anterior será dada por despacho conjunto dos ministros responsáveis da cultura e da tutela.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 23 de Outubro de 1987.**
+Promulgado em 23 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1987.**
+Referendado em 28 de Outubro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

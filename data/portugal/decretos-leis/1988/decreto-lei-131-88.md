@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 672edf352a79f521a08ecbdc45f439eec9fdd17b23d27195ae75aaca313394dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2b4b4e22ed5a13b10fb55607a63c6b68cd8a4ee54a4a7b81254b149e848488f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Económica para a Europa
+- Comissão Nacional para a Cooperação
+- Comissão Nacional para a Cooperação com o Comité de Habitação e Planifícação da Comissão Económica para a Europa
+- Comité de Habitação Construção e Planifícação
+- Conselho Superior de Obras Públicas e Transportes
+- Habitação
+- Obras Públicas
+- Orgânica
+- Planeamento Urbano
+relationships:
+- type: cites
+  target: pt:dre:442972:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:25Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +106,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 3.º, 4.º e 6.º do [Decreto-Lei n.º 409/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1983-442972), de 23 de Novembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º, 4.º e 6.º do [Decreto-Lei n.º 409/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1983-442972), de 23 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º São cometidas à Comissão Nacional as seguintes atribuições:
+Art. 3.º São cometidas à Comissão Nacional as seguintes atribuições:
 
 1.º Promover estudos de interesse para a participação do País nas actividades do Comité;
 
@@ -105,18 +118,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4.º ...
 
-###### Art. 4.º A composição da Comissão Nacional é definida em portaria conjunta dos membros do Governo responsáveis pelas áreas do planeamento e da administração do território, negócios estrangeiros e obras públicas, transportes e comunicações e inclui obrigatoriamente representantes do Conselho Superior de Obras Públicas e Transportes, do Instituto Nacional de Habitação, do Instituto de Gestão e Alienação do Património Habitacional do Estado e do Laboratório Nacional de Engenharia Civil.
+Art. 4.º A composição da Comissão Nacional é definida em portaria conjunta dos membros do Governo responsáveis pelas áreas do planeamento e da administração do território, negócios estrangeiros e obras públicas, transportes e comunicações e inclui obrigatoriamente representantes do Conselho Superior de Obras Públicas e Transportes, do Instituto Nacional de Habitação, do Instituto de Gestão e Alienação do Património Habitacional do Estado e do Laboratório Nacional de Engenharia Civil.
 
-###### Art. 6.º As representações dos organismos integrantes da Comissão Nacional, nos termos do artigo 4.º, são asseguradas por um vogal efectivo e por um vogal suplente, a designar preferencialmente de entre o pessoal dirigente.
+Art. 6.º As representações dos organismos integrantes da Comissão Nacional, nos termos do artigo 4.º, são asseguradas por um vogal efectivo e por um vogal suplente, a designar preferencialmente de entre o pessoal dirigente.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva Miguel - José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 6 de Abril de 1988.**
+Promulgado em 6 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1988.**
+Referendado em 8 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

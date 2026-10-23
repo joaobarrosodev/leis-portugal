@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 41/1987, 1º Suplemento, Série I de 1987-02-18
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 744-(1) a 744-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1987-254631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bed9a52fd7a8950a8c530a147dbd8d6673f8767815c96f8f7315b20812ac7fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 388b2410a1d2fcfbff9a9c509b173b530d5fbe1879b1163e471476da629cdcea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Agrupamento de Produtores
+- Ajuda Comunitária
+- Apoio ao Investimento
+- CEE
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
+- Formação Profissional
+- Jovem Agricultor
+- Política Agrícola
+- Política Agrícola Comum
+- Região Desfavorecida
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:487700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496734:por
+  label: Suspensas as ajudas financeiras ao sector bovino leiteiro previstas no presente diploma, que envolvam aumentos do
+    efectivo das explorações, pelo(a) Decreto-Lei n.º 358/87 - Diário da República n.º 265/1987, Série I de 1987-11-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1987-496734
+  date: '1987-11-17'
+- type: amended_by
+  target: pt:dre:549984:por
+  label: Alterada a redacção do art. 22.º e revogada a Sec III do Tít III do presente diploma, relativa aos serviços de gestão,
+    bem como toda a legislação complementar, com excepção do DR 24-B/86, de 30-jul, pelo(a) Decreto-Lei n.º 389/89 - Diário
+    da República n.º 258/1989, Série I de 1989-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1989-549984
+  date: '1989-11-09'
+- type: amended_by
+  target: pt:dre:574886:por
+  label: "Suspenso o nº 5 do art. 7º do presente diploma enquanto vigorar o regime de ajudas previsto no DEC LEI.173/90.02.06.1990.MAPA,\
+    \ DR.IS [127] de 02.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1990-574886
+  date: '1990-06-02'
+- type: repealed_by
+  target: pt:dre:371784:por
+  label: Revogada a Sec I do Tit IV, pelo(a) Decreto-Lei n.º 211/88 - Diário da República n.º 138/1988, Série I de 1988-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1988-371784
+  date: '1988-06-17'
+- type: repealed_by
+  target: pt:dre:487700:por
+  label: "Revogado, sem prejuízo do disposto no art. 63º, pelo DEC LEI.81/91.19.02.1991.MAPA, DR.IS-A [41]] de 19.02.1991,\
+    \ que mantém em vigor, até à publicação de novas medidas ao seu abrigo, toda a legislação complementar.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1991-487700
+  date: '1991-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:35Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +165,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ## TÍTULO I — Disposições gerais
 
-###### Artigo 1.º A acção comum instituída pelo Regulamento (CEE) n.º [797/85](https://data.europa.eu/eli/reg/1985/797/oj?locale=pt), de 12 de Março, do Conselho, que visa a melhoria da eficácia das estruturas agrícolas, é aplicada em Portugal nos termos daquele Regulamento e deste diploma.
+Artigo 1.º A acção comum instituída pelo Regulamento (CEE) n.º [797/85](https://data.europa.eu/eli/reg/1985/797/oj?locale=pt), de 12 de Março, do Conselho, que visa a melhoria da eficácia das estruturas agrícolas, é aplicada em Portugal nos termos daquele Regulamento e deste diploma.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 1) Agricultor a título principal:
 
@@ -151,7 +195,7 @@ c) A detida pela pessoa colectiva sempre que os respectivos administradores ou g
 
 8) Regiões desfavorecidas: as regiões que constam da lista publicada em anexo à Directiva n.º [86/467/CEE](https://data.europa.eu/eli/dir/1986/467/oj?locale=pt), de 14 de Julho, do Conselho, relativa à lista comunitária das zonas agrícolas desfavorecidas na acepção da Directiva n.º [75/268/CEE](https://data.europa.eu/eli/dir/1975/268/oj?locale=pt) (Portugal).
 
-###### Art. 3.º - 1 - De acordo com o Regulamento (CEE) n.º [129/78](https://data.europa.eu/eli/reg/1978/129/oj?locale=pt), de 24 de Janeiro, do Conselho, os valores monetários expressos neste diploma em ECUs são convertidos anualmente para escudos, mediante a aplicação da taxa de câmbio representativa em vigor em 1 de Janeiro do ano em que é decidida a concessão da ajuda.
+Art. 3.º - 1 - De acordo com o Regulamento (CEE) n.º [129/78](https://data.europa.eu/eli/reg/1978/129/oj?locale=pt), de 24 de Janeiro, do Conselho, os valores monetários expressos neste diploma em ECUs são convertidos anualmente para escudos, mediante a aplicação da taxa de câmbio representativa em vigor em 1 de Janeiro do ano em que é decidida a concessão da ajuda.
 
 2 - Quando o pagamento da ajuda for escalonado durante vários anos, no cálculo do montante a pagar em cada ano é utilizada a taxa representativa fixada no dia 1 de Janeiro desse ano.
 
@@ -159,13 +203,13 @@ c) A detida pela pessoa colectiva sempre que os respectivos administradores ou g
 
 ## TÍTULO II — Ajudas aos investimentos nas explorações agrícolas
 
-###### Art. 4.º As ajudas previstas neste título visam contribuir para a melhoria dos rendimentos agrícolas, bem como das condições de vida, de trabalho e de produção nas explorações agrícolas.
+Art. 4.º As ajudas previstas neste título visam contribuir para a melhoria dos rendimentos agrícolas, bem como das condições de vida, de trabalho e de produção nas explorações agrícolas.
 
 #### SECÇÃO I — Ajudas comparticipadas pela Comunidade
 
 ##### SUBSECÇÃO I — Regime geral
 
-###### Art. 5.º - 1 - Têm acesso às ajudas referidas nesta secção os agricultores que:
+Art. 5.º - 1 - Têm acesso às ajudas referidas nesta secção os agricultores que:
 
 a) Sejam agricultores a título principal;
 
@@ -191,7 +235,7 @@ b) Cujo plano de melhoria, referido na alínea c) do n.º 1, não preveja, para 
 
 7 - As declarações prestadas relativas ao preenchimento das condições referidas nas alíneas a), b) e d) do n.º 1 serão confirmadas pelos serviços competentes do MAPA ou dos governos regionais, conforme os casos.
 
-###### Art. 6.º - 1 - Do plano de melhoria referido na alínea c) do n.º 1 do artigo anterior deve constar, designadamente:
+Art. 6.º - 1 - Do plano de melhoria referido na alínea c) do n.º 1 do artigo anterior deve constar, designadamente:
 
 a) A descrição da situação da exploração agrícola à data da sua apresentação;
 
@@ -207,7 +251,7 @@ c) A indicação das acções a empreender, com destaque para os investimentos p
 
 5 - É ainda admissível, nos termos do disposto no n.º 3, a aquisição ou substituição de máquinas e equipamentos mecânicos.
 
-###### Art. 7.º - 1 - Podem beneficiar das ajudas previstas nesta secção os investimentos que visem:
+Art. 7.º - 1 - Podem beneficiar das ajudas previstas nesta secção os investimentos que visem:
 
 a) A melhoria qualitativa e a reconversão da produção em função das necessidades do mercado;
 
@@ -229,23 +273,23 @@ Aos pedidos apresentados a partir de 1 de Janeiro de 1988 aplicar-se-á o regime
 
 7 - Não é concedida qualquer ajuda aos investimentos efectuados nos sectores das aves e dos ovos.
 
-###### Art. 8.º - 1 - As ajudas previstas nesta secção são concedidas através de um subsídio em capital aos investimentos previstos no plano de melhoria aprovado, com exclusão dos efectuados com a compra de terras, de suínos, de aves e ovos e de vitelos de engorda.
+Art. 8.º - 1 - As ajudas previstas nesta secção são concedidas através de um subsídio em capital aos investimentos previstos no plano de melhoria aprovado, com exclusão dos efectuados com a compra de terras, de suínos, de aves e ovos e de vitelos de engorda.
 
 2 - Nos investimentos feitos em capital fixo vivo não referidos no n.º 1, apenas a primeira aquisição prevista no plano de melhoria beneficia da ajuda.
 
-###### Art. 9.º - 1 - O subsídio em capital referido no artigo anterior respeita às despesas de investimento elegíveis, salvo na parte em que estas despesas excedam os 60000 ECUs por UHT no termo do plano de melhoria e 120000 ECUs por exploração agrícola.
+Art. 9.º - 1 - O subsídio em capital referido no artigo anterior respeita às despesas de investimento elegíveis, salvo na parte em que estas despesas excedam os 60000 ECUs por UHT no termo do plano de melhoria e 120000 ECUs por exploração agrícola.
 
 2 - O pagamento do subsídio em capital referido no artigo anterior é feito em prestações, a definir pelo organismo encarregado do seu processamento de acordo com a natureza e o ritmo da realização dos investimentos que forem objecto de ajuda.
 
-###### Art. 10.º - 1 - O valor do subsídio referido no artigo 8.º corresponde a 35% do montante do investimento em capital fundiário e a 20% do montante do investimento em capital de exploração fixo, sendo, no entanto, de 45% e 30%, respectivamente, quando a exploração agrícola se situe em região desfavorecida.
+Art. 10.º - 1 - O valor do subsídio referido no artigo 8.º corresponde a 35% do montante do investimento em capital fundiário e a 20% do montante do investimento em capital de exploração fixo, sendo, no entanto, de 45% e 30%, respectivamente, quando a exploração agrícola se situe em região desfavorecida.
 
 2 - As percentagens referidas no número anterior são acrescidas de dez pontos percentuais durante os 30 meses seguintes à data da entrada em vigor do presente diploma.
 
-###### Art. 11.º - 1 - Os beneficiários da ajuda prevista nesta secção que, após a execução de um plano de melhoria, continuem a preencher as condições dos n.os 1 e 4 do artigo 5.º podem apresentar novo plano de melhoria com vista a obter nova ajuda.
+Art. 11.º - 1 - Os beneficiários da ajuda prevista nesta secção que, após a execução de um plano de melhoria, continuem a preencher as condições dos n.os 1 e 4 do artigo 5.º podem apresentar novo plano de melhoria com vista a obter nova ajuda.
 
 2 - Durante cada período de seis anos só podem, porém, ser aceites dois planos de melhoria por cada beneficiário, não podendo os investimentos susceptíveis de vir a beneficiar de ajuda exceder, no seu conjunto, os limites referidos no n.º 1 do artigo 9.º
 
-###### Art. 12.º - 1 - O plano de melhoria referido no artigo 5.º tanto pode respeitar a uma só exploração como a diversas explorações associadas, nos termos do Decreto-Lei n.º 513-J/79, de 26 de Dezembro, com vista à sua integração total ou parcial.
+Art. 12.º - 1 - O plano de melhoria referido no artigo 5.º tanto pode respeitar a uma só exploração como a diversas explorações associadas, nos termos do Decreto-Lei n.º 513-J/79, de 26 de Dezembro, com vista à sua integração total ou parcial.
 
 2 - Nas explorações associadas em que apenas parte das mesmas seja integrada, o plano de melhoria abrangerá também as partes não integradas que continuem a ser geridas individualmente pelos agricultores associados.
 
@@ -259,13 +303,13 @@ Aos pedidos apresentados a partir de 1 de Janeiro de 1988 aplicar-se-á o regime
 
 ##### SUBSECÇÃO II — Jovem agricultor
 
-###### Art. 13.º Os jovens agricultores podem beneficiar:
+Art. 13.º Os jovens agricultores podem beneficiar:
 
 a) De uma ajuda à primeira instalação;
 
 b) De uma ajuda suplementar equivalente a 25% do montante da ajuda concedida nos termos dos n.os 1 e 2 do artigo 10.º
 
-###### Art. 14.º - 1 - É concedida ajuda à primeira instalação ao jovem agricultor que:
+Art. 14.º - 1 - É concedida ajuda à primeira instalação ao jovem agricultor que:
 
 a) Se instale como agricultor a título principal;
 
@@ -289,17 +333,17 @@ c) Que, embora não satisfaça as condições referidas nas alíneas anteriores,
 
 3 - A exploração agrícola é tida por economicamente viável desde que assegure um rendimento de trabalho por UHT superior ao salário mínimo nacional para os sectores não agrícolas.
 
-###### Art. 15.º - 1 - A ajuda à primeira instalação é concedida através de um subsídio em capital de 7500 ECUs e de uma bonificação de 5% da taxa de juro, para um período máximo de quinze anos, nos empréstimos concedidos num prazo máximo de dois anos, a contar da data da sua primeira instalação, para a compra, construção ou melhoria da habitação própria rural, localizada na área da sua exploração.
+Art. 15.º - 1 - A ajuda à primeira instalação é concedida através de um subsídio em capital de 7500 ECUs e de uma bonificação de 5% da taxa de juro, para um período máximo de quinze anos, nos empréstimos concedidos num prazo máximo de dois anos, a contar da data da sua primeira instalação, para a compra, construção ou melhoria da habitação própria rural, localizada na área da sua exploração.
 
 2 - O valor da bonificação, actualizado à taxa de desconto do Banco de Portugal, não pode ultrapassar 6000 ECUs, acumulável com outras ajudas eventualmente previstas noutros regimes legais.
 
-###### Art. 16.º - 1 - A concessão da ajuda à primeira instalação depende da apresentação pelo interessado de declaração passada pelos serviços competentes do MAPA ou dos governos regionais ou ainda, por sua delegação, pelos agrupamentos de produtores ou associações de agricultores legalmente constituídos, donde conste que o jovem agricultor assume pela primeira vez a gestão de uma exploração agrícola.
+Art. 16.º - 1 - A concessão da ajuda à primeira instalação depende da apresentação pelo interessado de declaração passada pelos serviços competentes do MAPA ou dos governos regionais ou ainda, por sua delegação, pelos agrupamentos de produtores ou associações de agricultores legalmente constituídos, donde conste que o jovem agricultor assume pela primeira vez a gestão de uma exploração agrícola.
 
 2 - Com o plano de exploração referido na alínea d) do n.º 1 do artigo 14.º deve o interessado apresentar declaração, conforme formulário a distribuir pelos serviços competentes, do MAPA ou dos governos regionais, conforme o caso, com a assinatura reconhecida pelos mesmos serviços mediante a apresentação do bilhete de identidade, em que assuma que preenche as condições referidas nas alíneas a) a c) e os compromissos referidos nas alíneas e) e f), todas do n.º 1 do artigo 14.º
 
 3 - As declarações prestadas relativas ao preenchimento das condições referidas nas alíneas a) e c) do n.º 1 do artigo 14.º serão confirmadas pelos serviços competentes do MAPA ou dos governos regionais, conforme o caso.
 
-###### Art. 17.º - 1 - A ajuda suplementar referida na alínea b) do artigo 13.º é concedida aos jovens agricultores que apresentem um plano de melhoria dentro dos cinco anos seguintes ao da primeira instalação e preencham os requisitos enunciados no n.º 1 do artigo 14.º
+Art. 17.º - 1 - A ajuda suplementar referida na alínea b) do artigo 13.º é concedida aos jovens agricultores que apresentem um plano de melhoria dentro dos cinco anos seguintes ao da primeira instalação e preencham os requisitos enunciados no n.º 1 do artigo 14.º
 
 2 - Quando a primeira instalação seja anterior à data da entrada em vigor deste diploma, os jovens agricultores têm direito à ajuda suplementar desde que respeitem o prazo previsto no n.º 1, a contar da data da primeira instalação, para a apresentação dos respectivos planos de melhoria.
 
@@ -313,11 +357,11 @@ c) Que, embora não satisfaça as condições referidas nas alíneas anteriores,
 
 #### SECÇÃO II — Ajudas nacionais
 
-###### Art. 18.º As ajudas previstas nesta secção são pagas nos termos do n.º 2 do artigo 9.º
+Art. 18.º As ajudas previstas nesta secção são pagas nos termos do n.º 2 do artigo 9.º
 
 ##### SUBSECÇÃO I — Regime geral
 
-###### Art. 19.º - 1 - O agricultor que beneficiar das ajudas referidas na secção I pode beneficiar também de uma ajuda nacional relativamente à fracção do investimento que exceda os limites fixados no n.º 1 do artigo 9.º, ressalvados os condicionalismos previstos na primeira parte do n.º 2 do artigo 11.º, desde que os investimentos se destinem:
+Art. 19.º - 1 - O agricultor que beneficiar das ajudas referidas na secção I pode beneficiar também de uma ajuda nacional relativamente à fracção do investimento que exceda os limites fixados no n.º 1 do artigo 9.º, ressalvados os condicionalismos previstos na primeira parte do n.º 2 do artigo 11.º, desde que os investimentos se destinem:
 
 a) A construções rurais;
 
@@ -329,11 +373,11 @@ c) A melhoramentos fundiários.
 
 3 - Para efeitos de determinação da fracção do investimento que é objecto de ajuda nos termos do n.º 1, dever-se-á calcular o peso relativo das diferentes componentes no investimento total e fazê-lo incidir na parte que excede os limites fixados no n.º 1 do artigo 9.º
 
-###### Art. 20.º Se o beneficiário das ajudas referidas nos n.os 1 e 2 do artigo 10.º for um jovem agricultor, o valor da ajuda referida no n.º 1 do artigo anterior é acrescido de 25%, nos termos da alínea b) do artigo 13.º
+Art. 20.º Se o beneficiário das ajudas referidas nos n.os 1 e 2 do artigo 10.º for um jovem agricultor, o valor da ajuda referida no n.º 1 do artigo anterior é acrescido de 25%, nos termos da alínea b) do artigo 13.º
 
 ##### SUBSECÇÃO II — Regime especial
 
-###### Art. 21.º - 1 - O agricultor cuja exploração necessite de um volume de trabalho superior a uma UHT pode beneficiar de uma ajuda nacional, mediante a apresentação de um plano de exploração, conforme formulário a distribuir pelos serviços competentes, desde que, observadas as demais condições do presente artigo, satisfaça, pelo menos, o requisito referido na alínea b) do n.º 1 do artigo 5.º
+Art. 21.º - 1 - O agricultor cuja exploração necessite de um volume de trabalho superior a uma UHT pode beneficiar de uma ajuda nacional, mediante a apresentação de um plano de exploração, conforme formulário a distribuir pelos serviços competentes, desde que, observadas as demais condições do presente artigo, satisfaça, pelo menos, o requisito referido na alínea b) do n.º 1 do artigo 5.º
 
 2 - O plano de exploração deve demonstrar a viabilidade económica dos investimentos.
 
@@ -347,13 +391,13 @@ c) A melhoramentos fundiários.
 
 7 - A declaração prestada relativa ao preenchimento da condição referida no n.º 1 deste artigo será confirmada pelos serviços competentes do MAPA ou dos governos regionais, conforme o caso.
 
-###### Art. 22.º - 1 - O valor da ajuda concedida nos termos de n.º 1 do artigo anterior corresponde a 26% do montante do investimento em capital fundiário e a 15% do montante do investimento em capital de exploração fixo, sendo, no entanto, de 33,5% e 22,5%, respectivamente, quando a exploração agrícola se situe em região desfavorecida.
+Art. 22.º - 1 - O valor da ajuda concedida nos termos de n.º 1 do artigo anterior corresponde a 26% do montante do investimento em capital fundiário e a 15% do montante do investimento em capital de exploração fixo, sendo, no entanto, de 33,5% e 22,5%, respectivamente, quando a exploração agrícola se situe em região desfavorecida.
 
 2 - As percentagens referidas no número anterior são acrescidas de 7,5 pontos percentuais durante os 30 meses seguintes à data da entrada em vigor deste diploma.
 
 3 - Quando o investimento se destinar à realização de economia de energia, à protecção e melhoria do meio ambiente, ou melhoramentos fundiários, o valor da ajuda referida no n.º 1 é calculado nos termos previstos nos n.os 1 e 2 do artigo 10.º deste diploma.
 
-###### Art. 23.º - 1 - O agricultor cuja exploração não necessita de um volume de trabalho superior a uma UHT e que não esteja em condições de apresentar um plano de melhoria pode beneficiar, a seu pedido, nos investimentos inferiores ou iguais a 25000 ECUs, de uma ajuda nacional idêntica à referida nos n.os 1 e 2 do artigo 10.º, mediante a apresentação de um plano de exploração, conforme formulário a distribuir pelos serviços competentes, desde que, observadas as demais condições do presente artigo, satisfaça, pelo menos, o requisito referido na alínea b) do n.º 1 do artigo 5.º
+Art. 23.º - 1 - O agricultor cuja exploração não necessita de um volume de trabalho superior a uma UHT e que não esteja em condições de apresentar um plano de melhoria pode beneficiar, a seu pedido, nos investimentos inferiores ou iguais a 25000 ECUs, de uma ajuda nacional idêntica à referida nos n.os 1 e 2 do artigo 10.º, mediante a apresentação de um plano de exploração, conforme formulário a distribuir pelos serviços competentes, desde que, observadas as demais condições do presente artigo, satisfaça, pelo menos, o requisito referido na alínea b) do n.º 1 do artigo 5.º
 
 2 - O plano de exploração deve demonstrar a viabilidade económica dos investimentos.
 
@@ -365,13 +409,13 @@ c) A melhoramentos fundiários.
 
 6 - Com o plano de exploração referido no n.º 1 deve o interessado apresentar declaração conforme o disposto no n.º 6 do artigo 21.º, que será confirmada nos termos do n.º 7 do mesmo artigo.
 
-###### Art. 24.º - 1 - Sem prejuízo do disposto na subsecção seguinte, as ajudas previstas nos artigos 21.º e seguintes serão sujeitas às condições referidas nos n.os 2, 4, 5, 6 e 7 do artigo 7.º e no artigo 8.º
+Art. 24.º - 1 - Sem prejuízo do disposto na subsecção seguinte, as ajudas previstas nos artigos 21.º e seguintes serão sujeitas às condições referidas nos n.os 2, 4, 5, 6 e 7 do artigo 7.º e no artigo 8.º
 
 2 - Sem prejuízo da legislação aplicável ao sector do leite e produtos lácteos, os investimentos efectuados no sector da produção de leite só beneficiarão de ajudas no caso de não elevarem o número de vacas leiteiras acima de 40 unidades por UHT e por exploração.
 
 ##### SUBSECÇÃO III — Ajudas à aquisição de prédios rústicos e outros investimentos
 
-###### Art. 25.º - 1 - São concedidas ajudas à aquisição de prédios rústicos quando integrada nos planos referidos nos artigos 6.º, 21.º e 23.º e desde que, nos termos da lei, tal aquisição seja considerada operação de emparcelamento da propriedade rústica.
+Art. 25.º - 1 - São concedidas ajudas à aquisição de prédios rústicos quando integrada nos planos referidos nos artigos 6.º, 21.º e 23.º e desde que, nos termos da lei, tal aquisição seja considerada operação de emparcelamento da propriedade rústica.
 
 2 - No caso da primeira instalação de jovens agricultores é concedida ajuda à aquisição de prédios rústicos necessária à realização do plano de melhoria.
 
@@ -381,7 +425,7 @@ c) A melhoramentos fundiários.
 
 5 - Os níveis das ajudas são de 33% do montante do investimento ou do valor das tornas e de 41% quando a exploração agrícola se situar em região desfavorecida.
 
-###### Art. 26.º - 1 - Podem ainda ser concedidas ajudas, com respeito do disposto nos n.os 2 a 7 do artigo 7.º, relativamente à parcela do investimento que não exceda os 60000 ECUs no termo do plano de melhoria e 120000 ECUs por exploração agrícola, nos seguintes casos:
+Art. 26.º - 1 - Podem ainda ser concedidas ajudas, com respeito do disposto nos n.os 2 a 7 do artigo 7.º, relativamente à parcela do investimento que não exceda os 60000 ECUs no termo do plano de melhoria e 120000 ECUs por exploração agrícola, nos seguintes casos:
 
 a) Investimentos necessários no sector das aves e dos ovos, em consequência de obrigações impostas por autoridades públicas, com vista à protecção ou melhoria do meio ambiente, desde que não determinem aumento de produção;
 
@@ -397,9 +441,9 @@ c) Compra de gado susceptível de obter ajuda nos termos do artigo 8.º e ainda 
 
 #### SECÇÃO I — Contabilidade de gestão
 
-###### Art. 27.º Aos agricultores a título principal que pretendam introduzir nas respectivas explorações uma contabilidade de gestão será concedida, a seu pedido, uma ajuda comparticipada pela Comunidade de acordo com os artigos seguintes.
+Art. 27.º Aos agricultores a título principal que pretendam introduzir nas respectivas explorações uma contabilidade de gestão será concedida, a seu pedido, uma ajuda comparticipada pela Comunidade de acordo com os artigos seguintes.
 
-###### Art. 28.º - 1 - A contabilidade introduzida pelos agricultores nos termos do artigo anterior deve incluir:
+Art. 28.º - 1 - A contabilidade introduzida pelos agricultores nos termos do artigo anterior deve incluir:
 
 a) O inventário anual de abertura e fecho de exercicio;
 
@@ -415,7 +459,7 @@ b) A elaboração do balanço e da conta de exploração;
 
 c) A apresentação de elementos necessários à apreciação da eficiência da gestão da exploração, designadamente a determinação do rendimento do trabalho por UHT.
 
-###### Art. 29.º - 1 - O montante da ajuda referida no artigo 27.º é de 1050 ECUs, pagos ao longo de cinco anos do seguinte modo:
+Art. 29.º - 1 - O montante da ajuda referida no artigo 27.º é de 1050 ECUs, pagos ao longo de cinco anos do seguinte modo:
 
 a) 40% no início do ano da introdução da contabilidade;
 
@@ -425,17 +469,17 @@ b) 15% em cada um dos anos seguintes.
 
 3 - Sempre que a contabilidade referida no artigo 27.º for executada com o apoio técnico dos serviços competentes do MAPA ou dos governos regionais, conforme os casos, o montante da ajuda é de 700 ECUs.
 
-###### Art. 30.º A concessão da ajuda à introdução de contabilidade na exploração agrícola implica para o agricultor a obrigação de a manter, pelo menos, nos cinco anos seguintes àquele em que foi efectuado o primeiro pagamento referido na alínea a) do n.º 1 do artigo anterior.
+Art. 30.º A concessão da ajuda à introdução de contabilidade na exploração agrícola implica para o agricultor a obrigação de a manter, pelo menos, nos cinco anos seguintes àquele em que foi efectuado o primeiro pagamento referido na alínea a) do n.º 1 do artigo anterior.
 
-###### Art. 31.º Para efeito de fiscalização, controle e normalização de informação, a contabilidade deverá ser organizada de modo a permitir o preenchimento anual da ficha de exploração, a fornecer pelos serviços competentes, a qual ficará arquivada junto dos restantes documentos de contabilidade.
+Art. 31.º Para efeito de fiscalização, controle e normalização de informação, a contabilidade deverá ser organizada de modo a permitir o preenchimento anual da ficha de exploração, a fornecer pelos serviços competentes, a qual ficará arquivada junto dos restantes documentos de contabilidade.
 
-###### Art. 32.º O agricultor beneficiário obriga-se, à data do pedido da ajuda, a facultar, com reserva do anonimato, os dados contabilísticos da sua exploração, sempre que tal lhe seja solicitado pelo MAPA ou pelos serviços competentes dos governos regionais, para efeito de informação técnico-económica, estudos científicos e recolha de informação, designadamente no quadro da rede de informação de contabilidade agrícola (RICA).
+Art. 32.º O agricultor beneficiário obriga-se, à data do pedido da ajuda, a facultar, com reserva do anonimato, os dados contabilísticos da sua exploração, sempre que tal lhe seja solicitado pelo MAPA ou pelos serviços competentes dos governos regionais, para efeito de informação técnico-económica, estudos científicos e recolha de informação, designadamente no quadro da rede de informação de contabilidade agrícola (RICA).
 
-###### Art. 33.º Não beneficiam da ajuda referida no artigo 27.º os agricultores que recebam qualquer outra ajuda ou subsídio estatal referente à sua contabilidade.
+Art. 33.º Não beneficiam da ajuda referida no artigo 27.º os agricultores que recebam qualquer outra ajuda ou subsídio estatal referente à sua contabilidade.
 
 #### SECÇÃO II — Agrupamentos de produtores
 
-###### Art. 34.º - 1 - Os agrupamentos de produtores poderão requerer e beneficiar de ajudas comparticipadas pela Comunidade, destinadas a contribuir para os custos da sua gestão nos dois primeiros anos.
+Art. 34.º - 1 - Os agrupamentos de produtores poderão requerer e beneficiar de ajudas comparticipadas pela Comunidade, destinadas a contribuir para os custos da sua gestão nos dois primeiros anos.
 
 2 - As ajudas referidas no número anterior só são concedidas aos agrupamentos de produtores que revistam as seguintes formas:
 
@@ -463,13 +507,13 @@ d) Ter sido constituídos depois de 1 de Janeiro de 1986.
 
 5 - Por despacho do Ministro da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes, podem ainda, a título excepcional, beneficiar da ajuda prevista no n.º 1 deste artigo quaisquer agrupamentos de produtores já constituídos nos termos da lei e que depois de Janeiro de 1986 preencham as condições no número anterior.
 
-###### Art. 35.º A ajuda referida no artigo anterior é concedida sob a forma de subsídio em capital, que não ultrapassará 15000 ECUs por agrupamento.
+Art. 35.º A ajuda referida no artigo anterior é concedida sob a forma de subsídio em capital, que não ultrapassará 15000 ECUs por agrupamento.
 
-###### Art. 36.º A fixação do montante a atribuir e as condições de pagamento serão efectuadas por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes.
+Art. 36.º A fixação do montante a atribuir e as condições de pagamento serão efectuadas por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes.
 
 #### SECÇÃO III — Serviços de gestão
 
-###### Art. 37.º - 1 - A requerimento das associações de agricultores, podem ser concedidas ajudas comparticipadas pela Comunidade para criação de serviços de gestão das explorações agrícolas.
+Art. 37.º - 1 - A requerimento das associações de agricultores, podem ser concedidas ajudas comparticipadas pela Comunidade para criação de serviços de gestão das explorações agrícolas.
 
 2 - As ajudas referidas no número anterior destinam-se a contribuir para os custos dos serviços de gestão encarregados de analisar os resultados de contabilidade e de outros dados referentes às explorações agrícolas.
 
@@ -485,21 +529,21 @@ d) Empregar a tempo inteiro pelo menos um técnico qualificado em gestão e cont
 
 e) Ter um número de associados não inferior a quinze agricultores.
 
-###### Art. 38.º As ajudas referidas no artigo anterior são concedidas sob a forma de subsídio em capital, no montante de 12000 ECUs por técnico qualificado, pago em cinco prestações anuais iguais e sucessivas, com início no primeiro ano de actividade.
+Art. 38.º As ajudas referidas no artigo anterior são concedidas sob a forma de subsídio em capital, no montante de 12000 ECUs por técnico qualificado, pago em cinco prestações anuais iguais e sucessivas, com início no primeiro ano de actividade.
 
 #### SECÇÃO IV — Formação profissional
 
-###### Art. 39.º - 1 - É criado, nos termos desta secção, um regime de ajudas comparticipadas pela Comunidade ao aperfeiçoamento profissional agrícola, a proporcionar através de cursos ou estágios de formação de agricultores de mão-de-obra familiar e assalariados rurais que tenham ultrapassado a idade da escolaridade obrigatória, e bem assim de cursos ou estágios para a formação de dirigentes e quadros de agrupamentos de produtores, de cooperativas agrícolas e de sociedades de agricultura de grupo de natureza a definir por portaria do Ministro da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes.
+Art. 39.º - 1 - É criado, nos termos desta secção, um regime de ajudas comparticipadas pela Comunidade ao aperfeiçoamento profissional agrícola, a proporcionar através de cursos ou estágios de formação de agricultores de mão-de-obra familiar e assalariados rurais que tenham ultrapassado a idade da escolaridade obrigatória, e bem assim de cursos ou estágios para a formação de dirigentes e quadros de agrupamentos de produtores, de cooperativas agrícolas e de sociedades de agricultura de grupo de natureza a definir por portaria do Ministro da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes.
 
 2 - Só beneficiam do regime de ajudas referido no número anterior os cursos de formação complementar para jovens agricultores que tenham uma duração mínima de 150 horas.
 
 3 - As ajudas concedidas ao abrigo do regime previsto no n.º 1 destinam-se a contribuir para as despesas com a organização, funcionamento e frequência dos cursos ou estágios nele referidos.
 
-###### Art. 40.º O montante das ajudas referidas no artigo anterior, que não poderá ultrapassar 4500 ECUs por participante, será fixado, caso a caso, em função da natureza e duração do curso, por despacho do Ministro da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes.
+Art. 40.º O montante das ajudas referidas no artigo anterior, que não poderá ultrapassar 4500 ECUs por participante, será fixado, caso a caso, em função da natureza e duração do curso, por despacho do Ministro da Agricultura, Pescas e Alimentação, no continente, ou, nas regiões autónomas, das respectivas entidades competentes.
 
 #### SECÇÃO V — Medidas de natureza florestal a aplicar nas explorações agrícolas
 
-###### Art. 41.º - 1 - Podem ser concedidas ajudas comparticipadas pela Comunidade aos investimentos nas explorações agrícolas destinados a:
+Art. 41.º - 1 - Podem ser concedidas ajudas comparticipadas pela Comunidade aos investimentos nas explorações agrícolas destinados a:
 
 a) Arborização de superfícies agrícolas;
 
@@ -525,7 +569,7 @@ c) Subscrevam declaração pela qual se obriguem a cumprir os procedimentos téc
 
 4 - Com o projecto florestal referido na alínea b) do n.º 2 deve o interessado apresentar declaração, conforme formulário a distribuir pelos serviços competentes do MAPA ou dos governos regionais, conforme o caso, com a assinatura reconhecida pelos mesmos serviços mediante a apresentação do bilhete de identidade, da qual conste que preenche a condição referida na alínea a) do n.º 2, que também poderá ser confirmada por aqueles serviços.
 
-###### Art. 42.º - 1 - As ajudas referidas no artigo anterior são concedidas sob a forma de subsídio em capital, sendo o seu pagamento feito nos termos do n.º 2 do artigo 9.º e o respectivo montante fixado pela forma seguinte:
+Art. 42.º - 1 - As ajudas referidas no artigo anterior são concedidas sob a forma de subsídio em capital, sendo o seu pagamento feito nos termos do n.º 2 do artigo 9.º e o respectivo montante fixado pela forma seguinte:
 
 a) 75% do montante do investimento para explorações associadas, nos termos do artigo 12.º do presente diploma, com área florestal mínima de 50 ha;
 
@@ -541,7 +585,7 @@ d) 50% do montante do investimento para as restantes explorações, excepto no c
 
 #### SECÇÃO I — Indemnizações compensatórias
 
-###### Art. 43.º - 1 - Para efeitos da presente secção, entende-se por:
+Art. 43.º - 1 - Para efeitos da presente secção, entende-se por:
 
 a) Agricultor de região desfavorecida: a pessoa singular que, residindo habitualmente em região como tal considerada, dedique à actividade agrícola pelo menos 50% do seu tempo total de trabalho e explore, no mínimo, 1 ha ou 0,50 ha de superfície agrícola útil localizada naquela região, conforme se trate do continente ou das Regiões Autónomas dos Açores e da Madeira;
 
@@ -557,7 +601,7 @@ c) As sociedades que, nos termos do respectivo estatuto, tenham por objecto excl
 
 3 - Sempre que as explorações agrícolas recorram a baldios para alimentação do seu efectivo pecuário, a área destes será considerada, proporcionalmente ao número de cabeças que os utilizem, para determinação da superfície agrícola útil das explorações em causa.
 
-###### Art. 44.º - 1 - São atribuídas anualmente indemnizações compensatórias, a pagar numa única prestação, comparticipadas pela Comunidade, aos agricultores que se obriguem, por declaração escrita, com a assinatura reconhecida pelos serviços competentes do MAPA ou dos governos regionais, conforme o caso, a manter a actividade agrícola e o efectivo pecuário, se for caso disso, durante um período não inferior a cinco anos, com início na data do primeiro pagamento.
+Art. 44.º - 1 - São atribuídas anualmente indemnizações compensatórias, a pagar numa única prestação, comparticipadas pela Comunidade, aos agricultores que se obriguem, por declaração escrita, com a assinatura reconhecida pelos serviços competentes do MAPA ou dos governos regionais, conforme o caso, a manter a actividade agrícola e o efectivo pecuário, se for caso disso, durante um período não inferior a cinco anos, com início na data do primeiro pagamento.
 
 2 - O agricultor que deixe de ser beneficiário de indemnizações compensatórias fica desvinculado do compromisso referido no número anterior desde que:
 
@@ -573,7 +617,7 @@ d) Passe a receber uma pensão de reforma ou de incapacidade permanente.
 
 4 - Não têm direito à acumulação de indemnizações compensatórias os agricultores de região desfavorecida que sejam membros de agrupamentos de agricultores de região desfavorecida nos termos da alínea b) do n.º 1 do artigo anterior.
 
-###### Art. 45.º - 1 - Os montantes das indemnizações compensatórias são determinados, de acordo com o disposto nos artigos 46.º e 47.º, em função da gravidade dos condicionalismos naturais e permanentes de cada região que afectam a actividade agrícola.
+Art. 45.º - 1 - Os montantes das indemnizações compensatórias são determinados, de acordo com o disposto nos artigos 46.º e 47.º, em função da gravidade dos condicionalismos naturais e permanentes de cada região que afectam a actividade agrícola.
 
 2 - O montante da indemnização compensatória é fixado para bovinos, ovinos, caprinos e equinos, convertidos em cabeças normais, adiante designadas por CN, de acordo com a tabela de conversão constante do mapa anexo a este diploma, por hectare de superfície cultivada, nos termos da alínea d) do n.º 1 do artigo 46.º, sem prejuízo do disposto nos n.os 3 e 4 do presente artigo.
 
@@ -583,7 +627,7 @@ d) Passe a receber uma pensão de reforma ou de incapacidade permanente.
 
 5 - Para efeito do cálculo do montante da indemnização compensatória não pode ser excedida a relação de 1 CN/ha de superfície forrageira.
 
-###### Art. 46.º O montante das indemnizações compensatórias a atribuir a agricultores individuais no continente é o seguinte:
+Art. 46.º O montante das indemnizações compensatórias a atribuir a agricultores individuais no continente é o seguinte:
 
 1) Nas zonas de montanha, acima dos 700 m, a norte do Tejo, e 800 m, a sul do Tejo, ou com declives médios superiores a 25%:
 
@@ -613,7 +657,7 @@ c) Para as dez CN seguintes (21 a 30) ... 30 ECU/CN
 
 4) Para a determinação da área cultivada a que se refere a alínea d) do n.º 1 deve ser deduzida a superfície destinada à alimentação do efectivo pecuário, a superfície destinada à produção de trigo e a superfície ocupada com pomares de macieiras, pereiras e pessegueiros, em plena produção, que exceda 0,50 ha por exploração.
 
-###### Art. 47.º O montante da indemnização compensatória a atribuir a agricultores individuais nas Regiões Autónomas dos Açores e da Madeira é o seguinte:
+Art. 47.º O montante da indemnização compensatória a atribuir a agricultores individuais nas Regiões Autónomas dos Açores e da Madeira é o seguinte:
 
 a) Para as primeiras dez CN (1 a 10) ... 80 ECU/CN
 
@@ -623,23 +667,23 @@ c) Para as dez CN seguintes (21 a 30) ... 40 ECU/CN
 
 d) E apenas para a ilha da Madeira, de 0,5 ha a 10 ha de superfície cultivada, observado o disposto no n.º 4) do artigo anterior ... 50 ECU/ha
 
-###### Art. 48.º - 1 - Sempre que se trate de agrupamentos de agricultores, o montante da indemnização compensatória é calculado nos termos do número seguinte, quando for atribuído a CN, e no respeito pelo disposto no n.º 5 do artigo 45.º, para o efectivo da exploração, até ao limite de 100 CN ou de 100 ha nas regiões de montanha previstos no n.º 1 do artigo 46.º e na ilha da Madeira, consoante os casos.
+Art. 48.º - 1 - Sempre que se trate de agrupamentos de agricultores, o montante da indemnização compensatória é calculado nos termos do número seguinte, quando for atribuído a CN, e no respeito pelo disposto no n.º 5 do artigo 45.º, para o efectivo da exploração, até ao limite de 100 CN ou de 100 ha nas regiões de montanha previstos no n.º 1 do artigo 46.º e na ilha da Madeira, consoante os casos.
 
 2 - O montante da indemnização compensatória a atribuir a agrupamentos de agricultores de região desfavorecida é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf)
 
-###### Art. 49.º Sempre que o beneficiário de uma indemnização compensatória proceda à florestação de toda ou parte das superfícies que servem de base ao cálculo da indemnização, estas superfícies podem, até ao termo do prazo máximo de quinze anos, contados a partir da data da florestação, ser consideradas para o cálculo daquela indemnização.
+Art. 49.º Sempre que o beneficiário de uma indemnização compensatória proceda à florestação de toda ou parte das superfícies que servem de base ao cálculo da indemnização, estas superfícies podem, até ao termo do prazo máximo de quinze anos, contados a partir da data da florestação, ser consideradas para o cálculo daquela indemnização.
 
-###### Art. 50.º Quando a exploração agrícola do beneficiário da indemnização compensatória se localizar em duas ou mais regiões distintas, considera-se para efeito da atribuição daquela indemnização a região onde se situar a maior parte da superfície agrícola útil (SAU) da exploração.
+Art. 50.º Quando a exploração agrícola do beneficiário da indemnização compensatória se localizar em duas ou mais regiões distintas, considera-se para efeito da atribuição daquela indemnização a região onde se situar a maior parte da superfície agrícola útil (SAU) da exploração.
 
 #### SECÇÃO II — Outras medidas
 
-###### Art. 51.º - 1 - Em região desfavorecida que tenha uma vocação turística ou artesanal, o plano de melhoria referido na alínea c) do n.º 1 do artigo 5.º pode prever, para além dos investimentos essencialmente agrícolas enunciados no título II, outros de natureza turística ou artesanal a realizar na exploração agrícola, beneficiando estes de um subsídio em capital comparticipado pela Comunidade equivalente a 45% do investimento e a pagar nos termos do n.º 2 do artigo 9.º
+Art. 51.º - 1 - Em região desfavorecida que tenha uma vocação turística ou artesanal, o plano de melhoria referido na alínea c) do n.º 1 do artigo 5.º pode prever, para além dos investimentos essencialmente agrícolas enunciados no título II, outros de natureza turística ou artesanal a realizar na exploração agrícola, beneficiando estes de um subsídio em capital comparticipado pela Comunidade equivalente a 45% do investimento e a pagar nos termos do n.º 2 do artigo 9.º
 
 2 - Os investimentos de natureza turística ou artesanal referidos no número anterior não podem, no entanto, exceder 40000 ECUs por exploração, tendo em conta os limites referidos no n.º 1 do artigo 9.º
 
-###### Art. 52.º - 1 - Nas regiões desfavorecidas são concedidas ajudas aos investimentos colectivos economicamente viáveis destinados à produção de forragens para alimentação de bovinos de carne, ovinos e caprinos e, em particular:
+Art. 52.º - 1 - Nas regiões desfavorecidas são concedidas ajudas aos investimentos colectivos economicamente viáveis destinados à produção de forragens para alimentação de bovinos de carne, ovinos e caprinos e, em particular:
 
 a) À aquisição de alfaias agrícolas para a preparação do solo e realização da sementeira, colheita, secagem e transporte de forragens;
 
@@ -693,13 +737,13 @@ b) Aos investimentos referidos nos n.os 3 e 4 é concedida uma ajuda de 75% do m
 
 ## TÍTULO V — Das sanções
 
-###### Art. 53.º - 1 - No caso de infracção ao disposto no presente diploma, designadamente violação dos compromissos assumidos nos termos do n.º 6 do artigo 5.º, do n.º 2 do artigo 16.º, do n.º 4 do artigo 17.º, do n.º 6 dos artigos 21.º e 23.º e do n.º 4 do artigo 41.º, serão os infractores notificados para, no prazo de quinze dias, restituir as importâncias recebidas, acrescidas de juros calculados à taxa legal desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
+Art. 53.º - 1 - No caso de infracção ao disposto no presente diploma, designadamente violação dos compromissos assumidos nos termos do n.º 6 do artigo 5.º, do n.º 2 do artigo 16.º, do n.º 4 do artigo 17.º, do n.º 6 dos artigos 21.º e 23.º e do n.º 4 do artigo 41.º, serão os infractores notificados para, no prazo de quinze dias, restituir as importâncias recebidas, acrescidas de juros calculados à taxa legal desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
 2 - No caso de o reembolso não ser feito dentro do prazo previsto no número anterior, passarão a incidir sobre as importâncias em dívida juros à taxa moratória máxima legalmente estabelecida, contados desde o termo do referido prazo até ao efectivo reembolso.
 
 3 - Verificada a situação prevista no número anterior, constitui-se o beneficiário na obrigação de cumulativamente pagar ao organismo responsável pelo pagamento das respectivas ajudas os encargos resultantes do acompanhamento da execução do projecto e as despesas extrajudiciais para cobrança do montante devido, fixando-se esta obrigação no montante pecuniário correspondente a 10% do valor total do investimento projectado.
 
-###### Art. 54.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo organismo pagador das ajudas.
+Art. 54.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo organismo pagador das ajudas.
 
 2 - As execuções instauradas pelo organismo pagador das ajudas, para as quais é sempre competente o foro cível da comarca de Lisboa, iniciam-se pela penhora, independentemente da citação dos interessados.
 
@@ -707,40 +751,40 @@ b) Aos investimentos referidos nos n.os 3 e 4 é concedida uma ajuda de 75% do m
 
 ## TÍTULO VI — Disposições finais
 
-###### Art. 55.º Qualquer beneficiário poderá, por requerimento, desistir do plano apresentado ou da respectiva execução, desde que, simultaneamente, proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
+Art. 55.º Qualquer beneficiário poderá, por requerimento, desistir do plano apresentado ou da respectiva execução, desde que, simultaneamente, proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
 
-###### Art. 56.º Sempre que uma exploração ou empresa agrícola tiver parte da sua área localizada em região desfavorecida, é considerada, para efeito de fixação do montante das ajudas a conceder nos termos deste diploma, a região onde se situar a maior parte da superfície agrícola útil (SAU) daquela.
+Art. 56.º Sempre que uma exploração ou empresa agrícola tiver parte da sua área localizada em região desfavorecida, é considerada, para efeito de fixação do montante das ajudas a conceder nos termos deste diploma, a região onde se situar a maior parte da superfície agrícola útil (SAU) daquela.
 
-###### Art. 57.º Os nacionais de países que não pertençam à CEE não são abrangidos pelos regimes de ajudas previstos neste diploma.
+Art. 57.º Os nacionais de países que não pertençam à CEE não são abrangidos pelos regimes de ajudas previstos neste diploma.
 
-###### Art. 58.º Os investimentos que tenham sido objecto de ajudas no âmbito do sistema previsto neste diploma não podem beneficiar de qualquer outro tipo de ajuda concedida ao abrigo de demais legislação em vigor.
+Art. 58.º Os investimentos que tenham sido objecto de ajudas no âmbito do sistema previsto neste diploma não podem beneficiar de qualquer outro tipo de ajuda concedida ao abrigo de demais legislação em vigor.
 
-###### Art. 59.º - 1 - Para o continente vigora o Decreto Regulamentar n.º 24-B/86, de 30 de Julho, relativo à execução e demais condições de aplicabilidade do Decreto-Lei n.º 172-G/86, de 30 de Junho, sem prejuízo do disposto no número seguinte e entendendo-se as remissões nele feitas para o Decreto-Lei n.º 172-G/86 como feitas para as correspondentes disposições do presente diploma.
+Art. 59.º - 1 - Para o continente vigora o Decreto Regulamentar n.º 24-B/86, de 30 de Julho, relativo à execução e demais condições de aplicabilidade do Decreto-Lei n.º 172-G/86, de 30 de Junho, sem prejuízo do disposto no número seguinte e entendendo-se as remissões nele feitas para o Decreto-Lei n.º 172-G/86 como feitas para as correspondentes disposições do presente diploma.
 
 2 - As entidades competentes das regiões autónomas para a execução do presente diploma, bem como as demais condições associadas ao respectivo circuito de funcionamento, serão definidas pelos respectivos órgãos de governo próprio.
 
-###### Art. 60.º Ficam sujeitos ao regime estabelecido pelo presente diploma os projectos apresentados ao abrigo do Decreto-Lei n.º 172-G/86, de 30 de Junho.
+Art. 60.º Ficam sujeitos ao regime estabelecido pelo presente diploma os projectos apresentados ao abrigo do Decreto-Lei n.º 172-G/86, de 30 de Junho.
 
-###### Art. 61.º - 1 - É revogado o Decreto-Lei n.º 172-G/86, de 30 de Junho, com excepção do n.º 2 do seu artigo 57.º
+Art. 61.º - 1 - É revogado o Decreto-Lei n.º 172-G/86, de 30 de Junho, com excepção do n.º 2 do seu artigo 57.º
 
 2 - O presente diploma produz efeitos a partir de 1 de Setembro de 1986, no continente, e de 1 de Novembro de 1986, nas Regiões Autónomas dos Açores e da Madeira.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 14 de Fevereiro de 1987.**
+Promulgado em 14 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1987.**
+Referendado em 18 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 2 do artigo 45.º
 
 Tabela de conversão de bovinos, equinos, ovinos e caprinos em cabeças normais (CN)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04101/00010012.pdf)
 
 Estes coeficientes aplicam-se aos montantes fixados por CN indicados nos artigos 46.º e 47.º do presente diploma.

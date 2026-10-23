@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1987-496107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1966f8222699d3f9bfc28794ddb59076e9093b65fc7118cdb43526ce7c5b175
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 525245e576aa48fcfef3543ec82e128c88bf9892dbedb3b871e98ef0a56dfdf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Portuguesa de Pesca
+- Património do Estado
 relationships:
 - type: amended_by
   target: pt:dre:144217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144217:por
+  label: "Alterado o art. 1º pelo DEC LEI.29-A/2011.01.03.2011.MFAP, DR.IS [42-Supl] de 01.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:39Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +114,7 @@ Nestes termos, face ao manifesto interesse público que o citado conjunto encerr
 
 O Governo decreta, ao abrigo da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Ao abrigo do disposto no artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património em liquidação da extinta Companhia Portuguesa de Pesca, S. A. R. L. (em liquidação), o estabelecimento industrial Olho de Boi, sito no lugar do mesmo nome, freguesia de Santiago, concelho de Almada, distrito de Setúbal, compreendendo:
+Artigo 1.º - 1 - Ao abrigo do disposto no artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património em liquidação da extinta Companhia Portuguesa de Pesca, S. A. R. L. (em liquidação), o estabelecimento industrial Olho de Boi, sito no lugar do mesmo nome, freguesia de Santiago, concelho de Almada, distrito de Setúbal, compreendendo:
 
 a) Prédio rústico e urbano, denominado «Olho de Boi», sito no lugar do mesmo nome, freguesia de Santiago, concelho de Almada, distrito de Setúbal, registado na Conservatória do Registo Predial de Almada sob o n.º 48, a fl. 142 v.º do livro B-1.º, confrontando a norte com o rio Tejo, a sul com rocha, a nascente com terrenos da Companhia Portuguesa de Pesca, S. A. R. L., e a poente com Domingos Afonso;
 
@@ -119,18 +134,18 @@ e) Duas parcelas de terreno, com as áreas de 2282 m2 e 1370 m2, adquiridas em h
 
 5 - O disposto no n.º 1 constitui título suficiente, para efeitos de registo na aludida Conservatória, da aquisição pelo Estado do direito de propriedade sobre os prédios que, nos termos aí estabelecidos, para ele transitam.
 
-###### Art. 2.º - 1 - O Estado obriga-se a entregar à massa em liquidação, caso haja lugar a tal, o montante correspondente à diferença entre o valor que vier a ser fixado para os bens ora reservados na avaliação realizada nos termos do n.º 3 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e o valor dos créditos a que tem direito na massa em liquidação.
+Art. 2.º - 1 - O Estado obriga-se a entregar à massa em liquidação, caso haja lugar a tal, o montante correspondente à diferença entre o valor que vier a ser fixado para os bens ora reservados na avaliação realizada nos termos do n.º 3 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e o valor dos créditos a que tem direito na massa em liquidação.
 
 2 - Para os efeitos do número anterior, os louvados elaborarão lista nominativa dos bens reservados pelo n.º 2 do artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - José de Oliveira Costa - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 16 de Outubro de 1987.**
+Promulgado em 16 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1987.**
+Referendado em 21 de Outubro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

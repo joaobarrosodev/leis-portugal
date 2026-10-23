@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00900/01410142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1987-599489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d22224e293a6ec902ab2c4cd714f74c04398738df936f88c15a6659682f29a9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b9a655955bdd5e781999ebee9cae1c2a835ec6ab49ad1c42d77b94f17292345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assinatura Reconhecida
+- Bilhete de Identidade
+- Documentação Administrativa
+- Modernização Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:145862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478043:por
+  label: "Alterada redacção do art. único do presente diploma, pelo DEC LEI.207/95.1995.08.14.MJ, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1995-478043
+  date: '1995-08-14'
+- type: cites
+  target: pt:dre:395890:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145862:por
+  label: "Revogado, a partir de 25.12.1996, o art. único, pelo DEC LEI.250/96.1996.12.24.MJ\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1996-145862
+  date: '1996-12-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:31Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +119,7 @@ Assim:
 
 O Governo decreta, nos termos da alíneas a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - A exibição do bilhete de identidade do signatário de qualquer documento tem o mesmo valor legal do reconhecimento por semelhança da respectiva assinatura.
+Artigo único. - 1 - A exibição do bilhete de identidade do signatário de qualquer documento tem o mesmo valor legal do reconhecimento por semelhança da respectiva assinatura.
 
 2 - Nenhuma entidade pode exigir a legalização de documentos por via de reconhecimento por semelhança se o bilhete de identidade do signatário lhe for exibido.
 
@@ -111,12 +129,12 @@ O Governo decreta, nos termos da alíneas a) do n.º 1 do artigo 201.º da Const
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 24 de Dezembro de 1986.**
+Promulgado em 24 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

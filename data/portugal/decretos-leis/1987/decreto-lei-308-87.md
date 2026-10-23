@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18000/30543061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1987-417817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8118f86fec7466490b6acd3c8f8242b99a28e6412096d51da31f97c0acd79ef9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 825fe270c91dc115db314cc323bd1318688e883987d53147797d860811be3aa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Estatuto
+- Orgânica
+- Portos
 relationships:
 - type: amended_by
   target: pt:dre:223011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DO EQUIPAMENTO SOCIAL PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0L"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantida em vigor a al c) do art 50º pelo Dec Lei.224-A/96. 1996.11.26.MJ - Aprova o Código das Custas Judiciais\
+    \ - DR.IS-A [274]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: cites
+  target: pt:dre:141030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686576:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:620727:por
+  label: "Revogado o nº 2 do art. 3º do Estatuto Orgânico aprovado pelo presente diploma, pelo DEC LEI.201/89.22.06.1989.MOPTC,\
+    \ DR.IS [[141]] de 22.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1989-620727
+  date: '1989-06-22'
+- type: repealed_by
+  target: pt:dre:223011:por
+  label: "Revogado pelo DEC LEI.335/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1998-223011
+  date: '1998-11-03'
 article_structure:
-  article_count: 54
+  article_count: 53
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:07Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +163,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto Orgânico da Administração dos Portos do Douro e Leixões, anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto Orgânico da Administração dos Portos do Douro e Leixões, anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º Até à entrada em vigor do estatuto de pessoal a que se refere o artigo 42.º do citado Estatuto Orgânico, manter-se-á em vigor o regime hoje aplicável.
+Art. 2.º Até à entrada em vigor do estatuto de pessoal a que se refere o artigo 42.º do citado Estatuto Orgânico, manter-se-á em vigor o regime hoje aplicável.
 
-###### Art. 3.º - 1 - Mantêm-se em funções os membros do actual conselho de administração até à nomeação dos novos órgãos previstos no Estatuto Orgânico, competindo-lhes assegurar o exercício das competências previstas no Estatuto para aquele órgão.
+Art. 3.º - 1 - Mantêm-se em funções os membros do actual conselho de administração até à nomeação dos novos órgãos previstos no Estatuto Orgânico, competindo-lhes assegurar o exercício das competências previstas no Estatuto para aquele órgão.
 
 2 - Mantêm-se igualmente em funções os titulares das chefias de direcção de serviços e de divisão, que ficarão sujeitas a confirmação pelo novo órgão de administração a nomear, no prazo de 180 dias a contar da entrada em vigor do estatuto de pessoal a que se refere o artigo 2.º
 
-###### Art. 4.º A Administração dos Portos do Douro e Leixões poderá manter durante o corrente ano a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo Estatuto Orgânico relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
+Art. 4.º A Administração dos Portos do Douro e Leixões poderá manter durante o corrente ano a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo Estatuto Orgânico relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
 
-###### Art. 5.º O presente diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
 
-###### Art. 6.º Ficam revogados os Decretos-Leis n.os 36977, de 20 de Julho de 1948, 38537, de 24 de Novembro de 1951, [477/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1972-686576), de 27 de Novembro, e [135/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1973-674838), de 28 de Março, [Decreto Regulamentar n.º 22/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1977-141030), de 23 de Março, bem como toda a demais legislação geral e especial que contrarie o disposto no presente diploma.
+Art. 6.º Ficam revogados os Decretos-Leis n.os 36977, de 20 de Julho de 1948, 38537, de 24 de Novembro de 1951, [477/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1972-686576), de 27 de Novembro, e [135/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1973-674838), de 28 de Março, [Decreto Regulamentar n.º 22/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1977-141030), de 23 de Março, bem como toda a demais legislação geral e especial que contrarie o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Manuel Carlos Carvalho Fernandes - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Julho de 1987.**
+Referendado em 24 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -452,7 +517,7 @@ c) Obter de terceiros que tenham realizado operações por conta da APDL as info
 
 ###### Artigo 20.º — Assistência às reuniões do conselho de administração
 
-**O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.**
+O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.
 
 ###### Artigo 21.º — Funcionamento da comissão de fiscalização
 
@@ -830,7 +895,7 @@ Para efeitos das suas relações comerciais com a banca, a APDL é livre na esco
 
 ###### Artigo 52.º — Autofinanciamento
 
-**O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APDL, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.**
+O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APDL, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.
 
 ###### Artigo 53.º — Tribunais competentes
 
@@ -838,4 +903,4 @@ Para efeitos das suas relações comerciais com a banca, a APDL é livre na esco
 
 2 - São da competência dos tribunais administrativos os julgamentos dos recursos dos actos definitivos e executórios dos órgãos da APDL sujeitos a um regime de direito público, bem como o julgamento das acções sobre validade, interpretação ou execução dos contratos administrativos por ela celebrados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18000/30543061.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18000/30543061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18000/30543061.pdf)

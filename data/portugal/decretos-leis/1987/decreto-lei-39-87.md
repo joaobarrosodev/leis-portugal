@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02200/03320333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1987-663333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cb7f95530914387e52199811d5c573e88bd8935a649beb013b6fded3ada2b55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36b1d0c6846257e7e1bfa5b2a7d4747128eb2b70a0d2ea8793f7c38a01e7deda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668332:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogado pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:29Z'
   warnings: []
   errors: []
 ---
@@ -96,57 +126,57 @@ Assim:
 
 Nos termos e em execução do disposto no n.º 1 do artigo 15.º e no artigo 45.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Constituem fauna cinegética ou caça as espécies animais que constam da lista anexa a este diploma.
+Artigo 1.º - 1 - Constituem fauna cinegética ou caça as espécies animais que constam da lista anexa a este diploma.
 
 2 - Constituem ainda fauna cinegética todos os animais domésticos ou domesticados que perderam essa condição.
 
-###### Art. 2.º As espécies animais pertencentes à fauna cinegética só podem ser caçadas nos locais, nos períodos, pelos processos e com os condicionamentos legalmente definidos.
+Art. 2.º As espécies animais pertencentes à fauna cinegética só podem ser caçadas nos locais, nos períodos, pelos processos e com os condicionamentos legalmente definidos.
 
-###### Art. 3.º - 1 - É proibido caçar as espécies animais não pertencentes à fauna cinegética, sem prejuízo do disposto nos n.os 2 e 3 do artigo 18.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no número seguinte.
+Art. 3.º - 1 - É proibido caçar as espécies animais não pertencentes à fauna cinegética, sem prejuízo do disposto nos n.os 2 e 3 do artigo 18.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no número seguinte.
 
 2 - Os pardais e os melros podem ser abatidos pelos agricultores, desde que se encontrem a causar prejuízos nas culturas, podendo também ser abatidos os abelharucos em condições a definir por despacho do Secretário de Estado da Agricultura.
 
 3 - O lobo e o sisão, estando sujeitos a estatuto especial, podem ser objecto de controle populacional, a efectuar após acordo entre a Direcção-Geral das Florestas (DGF) e o Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN).
 
-###### Art. 4.º É proibido caçar nos povoados, nos terrenos adjacentes das escolas, instalações militares, estações radioeléctricas, faróis, institutos científicos, hospitais e estabelecimentos de protecção à terceira idade e à infância, instalações turísticas, parques de campismo e desportivos ou estabelecimentos similares e junto das instalações industriais ou de criação animal e, bem assim, em quaisquer terrenos que circundem os locais referidos numa faixa de 250 m.
+Art. 4.º É proibido caçar nos povoados, nos terrenos adjacentes das escolas, instalações militares, estações radioeléctricas, faróis, institutos científicos, hospitais e estabelecimentos de protecção à terceira idade e à infância, instalações turísticas, parques de campismo e desportivos ou estabelecimentos similares e junto das instalações industriais ou de criação animal e, bem assim, em quaisquer terrenos que circundem os locais referidos numa faixa de 250 m.
 
-###### Art. 5.º - 1 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 14.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, entende-se por terrenos murados aqueles que se encontrem circundados em toda a sua extensão por muros ou paredes com a altura mínima de 1,50 m.
+Art. 5.º - 1 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 14.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, entende-se por terrenos murados aqueles que se encontrem circundados em toda a sua extensão por muros ou paredes com a altura mínima de 1,50 m.
 
 2 - A faixa de protecção às casas de habitação a que a mesma alínea a) se refere é de 250 m.
 
-###### Art. 6.º - 1 - Depende de autorização da DGF a importação e exportação de exemplares vivos ou mortos de qualquer espécie cinegética, salvo o disposto no número seguinte, e ainda das espécies incluídas na Convenção CITES, em que a autoridade administrativa nacional é o SNPRCN.
+Art. 6.º - 1 - Depende de autorização da DGF a importação e exportação de exemplares vivos ou mortos de qualquer espécie cinegética, salvo o disposto no número seguinte, e ainda das espécies incluídas na Convenção CITES, em que a autoridade administrativa nacional é o SNPRCN.
 
 2 - Fica autorizada a importação ou exportação de exemplares mortos de qualquer espécie cinegética, desde que transportados por caçadores habilitados a caçar no país da proveniência e sem prejuízo de outros condicionamentos legalmente definidos, designadamente de natureza sanitária e aduaneira.
 
-###### Art. 7.º - 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e demais disposições legais e regulamentares sobre a caça são atribuídas à DGF, sem prejuízo do disposto no número seguinte, as receitas previstas no artigo 39.º da referida lei, a qual fará a sua gestão nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+Art. 7.º - 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e demais disposições legais e regulamentares sobre a caça são atribuídas à DGF, sem prejuízo do disposto no número seguinte, as receitas previstas no artigo 39.º da referida lei, a qual fará a sua gestão nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
 2 - Os municípios que tenham intervenção no processo de concessão de licenças e cobrança de quaisquer taxas previstas nas disposições legais sobre a caça ficam autorizados a arrecadar 25% do montante das taxas referidas como contrapartida pelos serviços prestados.
 
-###### Art. 8.º - 1 - É proibido o exercício da caça nas áreas definidas como zonas de ordenamento cinegético ao abrigo do [Decreto-Lei n.º 407-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-c-1975-668332), de 30 de Julho, e, bem assim, em todos os outros locais em que, por disposição legal, seja proibido o acto venatório, até à integração dessas zonas nos regimes cinegéticos geral ou especiais definidos pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+Art. 8.º - 1 - É proibido o exercício da caça nas áreas definidas como zonas de ordenamento cinegético ao abrigo do [Decreto-Lei n.º 407-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-c-1975-668332), de 30 de Julho, e, bem assim, em todos os outros locais em que, por disposição legal, seja proibido o acto venatório, até à integração dessas zonas nos regimes cinegéticos geral ou especiais definidos pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
 
 2 - Durante a época venatória de 1986-1987, o exercício da caça nas áreas definidas como zonas de caça condicionada ao abrigo do disposto nos artigos 122.º a 127.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, e 2.º do [Decreto-Lei n.º 407-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-c-1975-668332), de 30 de Julho, e na [Portaria n.º 129/85](https://diariodarepublica.pt/dr/detalhe/portaria/129-1985-326158), de 7 de Março, só é permitido nos termos e com os condicionamentos definidos nos regulamentos próprios de cada uma dessas zonas e normas subsidiárias.
 
 3 - O exercício da caça nos terrenos abrangidos pelo sistema nacional de áreas protegidas, nos termos do [Decreto Regulamentar n.º 3/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1986-616412), de 8 de Janeiro, é regulamentado em conjunto pela DGF e pelo SNPRCN.
 
-###### Art. 9.º - 1 - Mantêm-se em vigor na época venatória de 1986-1987 as disposições legais e regulamentares relativas aos locais, períodos, processos, contingentes diários e demais condicionamentos definidos para o exercício da caça a cada uma das espécies cinegéticas.
+Art. 9.º - 1 - Mantêm-se em vigor na época venatória de 1986-1987 as disposições legais e regulamentares relativas aos locais, períodos, processos, contingentes diários e demais condicionamentos definidos para o exercício da caça a cada uma das espécies cinegéticas.
 
 2 - Às espécies cinegéticas indicadas sob os n.os A-48 (zarro-comum) e A-50 (zarro-negrinha) da lista anexa a este diploma aplicam-se as normas legais e regulamentares definidas para a caça aos patos.
 
-###### Art. 10.º O presente diploma não se aplica às regiões autónomas.
+Art. 10.º O presente diploma não se aplica às regiões autónomas.
 
-###### Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1986. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lista a que se refere o n.º 1 do artigo 1.º
 

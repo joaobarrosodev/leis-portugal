@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18000/30623068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1987-417818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06ccdef8ac9e84acce175306358501d31ecd277f8119ccb635833537d9477676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c776aeec748acd5f3689ee26fdc7e74cde39a44ec3261b6f9c1681cf112969
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração do Porto de Lisboa
+- Orgânica
+- Portos
 relationships:
 - type: amended_by
   target: pt:dre:223015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Passou para a dependência do Ministro do Equipamento Social, pelo DEC LEI.296-A/95.17.11.1995.PCM, DR.IS-A [266]Supl\
+    \ de 17.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantida em vigor a al c) do art 51º pelo Dec Lei.224-A/96. 1996.11.26.MJDR.IS-A [274]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: cites
+  target: pt:dre:178351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686599:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223015:por
+  label: "Revogado pelo DEC LEI.336/98.1998.11.03.MEPAT, DR.IS-A [254] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/336-1998-223015
+  date: '1998-11-03'
 article_structure:
-  article_count: 55
+  article_count: 54
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:09Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +160,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Administração-Geral do Porto de Lisboa (AGPL) passa a designar-se Administração do Porto de Lisboa (APL) e a reger-se pelo Estatuto Orgânico que vai publicado em anexo e faz parte integrante do presente diploma.
+Artigo 1.º A Administração-Geral do Porto de Lisboa (AGPL) passa a designar-se Administração do Porto de Lisboa (APL) e a reger-se pelo Estatuto Orgânico que vai publicado em anexo e faz parte integrante do presente diploma.
 
-###### Art. 2.º Até à entrada em vigor do estatuto de pessoal a que se refere o artigo 42.º do citado Estatuto Orgânico, manter-se-á em vigor o regime hoje aplicável.
+Art. 2.º Até à entrada em vigor do estatuto de pessoal a que se refere o artigo 42.º do citado Estatuto Orgânico, manter-se-á em vigor o regime hoje aplicável.
 
-###### Art. 3.º - 1 - Mantêm-se em funções os membros do actual conselho de administração até à nomeação dos novos órgãos previstos no Estatuto Orgânico, competindo-lhes assegurar o exercício das competências previstas no Estatuto para aquele órgão.
+Art. 3.º - 1 - Mantêm-se em funções os membros do actual conselho de administração até à nomeação dos novos órgãos previstos no Estatuto Orgânico, competindo-lhes assegurar o exercício das competências previstas no Estatuto para aquele órgão.
 
 2 - Mantêm-se igualmente em funções os titulares das chefias de direcção de serviços e de divisão, que ficarão sujeitas a confirmação pelo novo órgão de administração a nomear, no prazo de 180 dias a contar da entrada em vigor do estatuto de pessoal a que se refere o artigo 2.º
 
-###### Art. 4.º A Administração do Porto de Lisboa poderá manter durante o corrente ano a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo Estatuto Orgânico relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
+Art. 4.º A Administração do Porto de Lisboa poderá manter durante o corrente ano a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo Estatuto Orgânico relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
 
-###### Art. 5.º O presente diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
 
-###### Art. 6.º Ficam revogados os Decretos-Leis n.os 36976, de 20 de Julho de 1948, 47489, de 9 de Janeiro de 1967, [475/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1972-686599), de 25 de Novembro, [134/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1973-674841), de 28 de Março, e o [Decreto n.º 889/76](https://diariodarepublica.pt/dr/detalhe/decreto/889-1976-416417), de 30 de Dezembro, bem como toda a demais legislação geral e especial que contrarie o disposto no presente diploma.
+Art. 6.º Ficam revogados os Decretos-Leis n.os 36976, de 20 de Julho de 1948, 47489, de 9 de Janeiro de 1967, [475/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1972-686599), de 25 de Novembro, [134/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1973-674841), de 28 de Março, e o [Decreto n.º 889/76](https://diariodarepublica.pt/dr/detalhe/decreto/889-1976-416417), de 30 de Dezembro, bem como toda a demais legislação geral e especial que contrarie o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Manuel Carlos Carvalho Fernandes - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Julho de 1987.**
+Referendado em 24 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -392,7 +454,7 @@ c) Obter de terceiros que tenham realizado operações por conta da APL as infor
 
 ###### Artigo 21.º — Assistência às reuniões do conselho de administração
 
-**O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.**
+O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.
 
 ###### Artigo 22.º — Funcionamento da comissão de fiscalização
 
@@ -760,7 +822,7 @@ Para efeitos das suas relações comerciais com a banca, a APL é livre na escol
 
 ###### Artigo 53.º — Autofinanciamento
 
-**O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APL, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.**
+O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APL, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.
 
 ###### Artigo 54.º — Tribunais competentes
 

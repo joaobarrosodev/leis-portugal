@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12300/21422142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1987-421784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a61c94dbca5f06229aed65a354ce537f495a2a457a9981899751a7f9db5eb8e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41b6fc80f6512161db89be3d2552635f754cba1820d8903727c871a54c14786f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Berlengas
+- Proteção do Ambiente
+- Reserva Natural
+- Reserva Natural da Berlenga
 relationships:
 - type: amended_by
   target: pt:dre:546991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:565189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546991:por
+  label: Revogado pelo DEC LEI.293/89.02.09.1989.MPAT, DR.IS [202] de 02.09.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1989-546991
+  date: '1989-09-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:40Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +107,9 @@ Verificando-se a necessidade de estabelecer os mecanismos legais que possibilite
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Ao [Decreto-Lei n.º 264/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189), de 3 de Setembro, é aditado um artigo 6.º-A, com a seguinte redacção:
+Artigo único. Ao [Decreto-Lei n.º 264/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189), de 3 de Setembro, é aditado um artigo 6.º-A, com a seguinte redacção:
 
-###### Artigo 6.º-A - 1 - Na área da reserva marinha é proibido:
+Artigo 6.º-A - 1 - Na área da reserva marinha é proibido:
 
 a) Fazer caça submarina;
 
@@ -106,12 +119,12 @@ b) Transportar ou deter armas ou outros meios destinados à prática da caça su
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - José António da Silveira Godinho - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 15 de Maio de 1987.**
+Promulgado em 15 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

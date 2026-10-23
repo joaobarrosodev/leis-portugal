@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1988-285363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddb1d34247b3124263877ff7a0b642a75a07a90d37423bfbd362bbc1544309ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 923e4d22d3691153528a8ddb2716f08fcb1c740ec45acf9577ba80a4b679da9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Ortopédico de Santana
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1943556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498772:por
+  label: "Alterado o quadro de pessoal, na parte referente à carreira médica hospitalar, pela PORT.49/91.18.01.1991.MF, DR.IS-B\
+    \ [15] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-1991-498772
+  date: '1991-01-18'
+- type: amended_by
+  target: pt:dre:291924:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico-profissional - área de informática, pela PORT.979/91.24.09.1991.MF,\
+    \ DR.IS-B [220] de 24.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/979-1991-291924
+  date: '1991-09-24'
+- type: amended_by
+  target: pt:dre:175517:por
+  label: "Alterado o quadro de pessoal pela PORT.174/92.13.03.1992.MF, DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/174-1992-175517
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:354344:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico superior de saúde, pela PORT.729/93.12.08.1993.MF,\
+    \ DR.IS-B [188] de 12.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/729-1993-354344
+  date: '1993-08-12'
+- type: amended_by
+  target: pt:dre:1943556:por
+  label: "Alterado o quadro de pessoal constante do anexo ao presente diploma, pela PORT.468/2000(2ªSÉRIE).2000.03.02.MS DR.IIS\
+    \ [75] DE 29/MAR/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/468-2000-1943556
+  date: '2000-03-02'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222402:por
+  label: Rectificado pela DECL.DD2665.1988.05.31.PCM,DR.IS [126]3º Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-222402
+  date: '1988-05-31'
+- type: corrected_by
+  target: pt:dre:239389:por
+  label: Rectificado pela DECL.DD4149.1988.08.23.PCM DR.IS [201]SUPL DE 31/AGO/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-239389
+  date: '1988-08-23'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:39Z'
   warnings: []
   errors: []
 ---
@@ -190,19 +243,19 @@ Considera-se prorrogado o regime de instalação do Hospital de Sant'Ana desde o
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 9 de Abril de 1988.**
+Promulgado em 9 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1988.**
+Referendado em 12 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09600/16041609.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09600/16041609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09600/16041609.pdf)
 
 ## ANEXO — Conteúdo funcional da carreira de técnico-adjunto de contabilidade
 

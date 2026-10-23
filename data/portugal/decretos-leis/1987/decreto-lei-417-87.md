@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 300/1987, 8º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 4440-(272) a 4440-(273)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30008/02720273.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1987-406154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8499e5319a6671431f5e9e4e7883a373acaf67c4d620f717412f011ab05fcb72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fffce543dea36a6ea15c21d2c0ca766699c6ff72525937bcefb0ed2112ef9661
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BEI
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:56Z'
   warnings: []
   errors: []
 ---
@@ -100,27 +111,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Ministro das Finanças autorizado, em representação do Governo, a mandatar o Banco de Portugal com os poderes de administrar, por conta e em representação do Estado, o produto do empréstimo no montante equivalente a 6,5 milhões de contos, contraído pela República Portuguesa junto do Banco Europeu de Investimento ao abrigo da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro.
+Artigo 1.º - 1 - Fica o Ministro das Finanças autorizado, em representação do Governo, a mandatar o Banco de Portugal com os poderes de administrar, por conta e em representação do Estado, o produto do empréstimo no montante equivalente a 6,5 milhões de contos, contraído pela República Portuguesa junto do Banco Europeu de Investimento ao abrigo da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro.
 
 2 - O produto do empréstimo a administrar pelo Banco de Portugal destinar-se-á a financiar projectos e programas para o desenvolvimento de pequenas e médias empresas industriais.
 
-###### Art. 2.º As restantes condições do mandato referido no artigo anterior serão aprovadas pelo Ministro das Finanças, tendo em atenção as cláusulas do acordo celebrado entre o Estado e o Banco Europeu de Investimento.
+Art. 2.º As restantes condições do mandato referido no artigo anterior serão aprovadas pelo Ministro das Finanças, tendo em atenção as cláusulas do acordo celebrado entre o Estado e o Banco Europeu de Investimento.
 
-###### Art. 3.º As condições essenciais da operação referida no presente decreto-lei são as constantes da ficha publicada em anexo.
+Art. 3.º As condições essenciais da operação referida no presente decreto-lei são as constantes da ficha publicada em anexo.
 
-###### Art. 4.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ficha técnica
 
@@ -134,7 +145,7 @@ Agente (do mutuário) - Banco de Portugal.
 
 Finalidade - financiamento de iniciativas de pequena e média dimensão nos sectores industrial, turístico e de serviços (excluindo o comércio), assim como de iniciativas que contribuam para a realização de economias de energia ou protecção do ambiente, situadas em Portugal.
 
-# Parte deste empréstimo poderá ainda ser eventualmente utilizada no financiamento de aumentos de capital de empresas promotoras dos projectos a realizar, de acordo com o prescrito no parágrafo anterior.
+Parte deste empréstimo poderá ainda ser eventualmente utilizada no financiamento de aumentos de capital de empresas promotoras dos projectos a realizar, de acordo com o prescrito no parágrafo anterior.
 
 Montante - equivalente a 6,5 milhões de contos (cerca de 40 milhões de ecus).
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06300/10421044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1987-662147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b6e04e955943c3968a59fa82a6b41250473ddc49f6d8cbe432988ade1999c61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0347bb6e4039f27c404c790d238b942f075b1a1b19ce294d92040b4ac31b2ee5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305819:por
+  label: Rectificado pela DECL.DD2298.1987.04.01.PCM, DR.IS[99]-4ºSUPL de 30/ABR/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-305819
+  date: '1987-04-01'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:11Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +122,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Âmbito e finalidades
 
-###### Artigo 1.º - 1 - É criado o quadro permanente das praças do Exército.
+Artigo 1.º - 1 - É criado o quadro permanente das praças do Exército.
 
 2 - Consideram-se praças do quadro permanente do Exército (praças do QP) as que, destinadas voluntariamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem no Exército com carácter de permanência.
 
-###### Art. 2.º As principais finalidades do quadro permanente de praças do Exército são as seguintes:
+Art. 2.º As principais finalidades do quadro permanente de praças do Exército são as seguintes:
 
 a) Garantir a existência de praças possuidoras de especialidades de formação mais complexa ou mais sensível;
 
@@ -114,7 +134,7 @@ b) Constituir a fonte prioritária de recrutamento de sargentos dos quadros perm
 
 ### CAPÍTULO II — Hierarquia e funções
 
-###### Art. 3.º - 1 - As praças do QP distribuem-se hierarquicamente, em ordem decrescente, pelos seguintes postos, que lhes são privativos:
+Art. 3.º - 1 - As praças do QP distribuem-se hierarquicamente, em ordem decrescente, pelos seguintes postos, que lhes são privativos:
 
 Cabo-de-secção;
 
@@ -136,7 +156,7 @@ Soldado.
 
 4 - Os distintivos destes novos postos serão definidos em diploma próprio.
 
-###### Art. 4.º - 1 - As praças do QP na situação de activo são inscritas num único quadro, por postos e por ordem de antiguidade, e pertencerão a uma arma ou serviço a definir por despacho do Chefe do Estado-Maior do Exército.
+Art. 4.º - 1 - As praças do QP na situação de activo são inscritas num único quadro, por postos e por ordem de antiguidade, e pertencerão a uma arma ou serviço a definir por despacho do Chefe do Estado-Maior do Exército.
 
 2 - O efectivo daquele quadro e a sua distribuição por postos são os que a seguir se indicam:
 
@@ -146,17 +166,17 @@ b) Cabo-adjunto: 300.
 
 ### CAPÍTULO III — Ingresso
 
-###### Art. 5.º O ingresso no quadro permanente de praças faz-se pela forma seguinte:
+Art. 5.º O ingresso no quadro permanente de praças faz-se pela forma seguinte:
 
 a) Para as praças que terminaram com aproveitamento o curso de formação de praças do QP: independentemente de vacatura, determinando a classificação obtida o seu ordenamento na escala de antiguidades;
 
 b) Para as praças aprovadas em concurso específico: mediante vacatura, determinando a classificação obtida o seu ordenamento na escala de antiguidades.
 
-###### Art. 6.º As praças do QP que tenham prestado, no mínimo, seis anos de serviço efectivo, assim o requeiram e a tanto sejam autorizadas passam à situação de reserva se reunirem as respectivas condições, ou à situação militar prevista na Lei do Serviço Militar.
+Art. 6.º As praças do QP que tenham prestado, no mínimo, seis anos de serviço efectivo, assim o requeiram e a tanto sejam autorizadas passam à situação de reserva se reunirem as respectivas condições, ou à situação militar prevista na Lei do Serviço Militar.
 
 ### CAPÍTULO IV — Situações
 
-###### Art. 7.º Em função da disponibilidade para o serviço, as praças do QP podem encontrar-se numa das seguintes situações:
+Art. 7.º Em função da disponibilidade para o serviço, as praças do QP podem encontrar-se numa das seguintes situações:
 
 a) Activo;
 
@@ -164,37 +184,37 @@ b) Reserva;
 
 c) Reforma.
 
-###### Art. 8.º É aplicável às praças do QP, nos aspectos respectivos, o consignado sobre as situações de reserva e de reforma no [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro, e em demais legislação em vigor relativa aos quadros permanentes do Exército, sem prejuízo do definido neste diploma.
+Art. 8.º É aplicável às praças do QP, nos aspectos respectivos, o consignado sobre as situações de reserva e de reforma no [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro, e em demais legislação em vigor relativa aos quadros permanentes do Exército, sem prejuízo do definido neste diploma.
 
-###### Art. 9.º O limite de idade de passagem à situação de reserva das praças do QP é de 57 anos.
+Art. 9.º O limite de idade de passagem à situação de reserva das praças do QP é de 57 anos.
 
 ### CAPÍTULO V — Promoções
 
-###### Art. 10.º - 1 - As praças do QP ascendem aos postos referidos no artigo 3.º por promoção.
+Art. 10.º - 1 - As praças do QP ascendem aos postos referidos no artigo 3.º por promoção.
 
 2 - Durante a frequência do curso de formação de praças do QP os instruendos são graduados no posto de cabo-adjunto.
 
-###### Art. 11.º Para serem promovidas, as praças do QP têm de satisfazer as seguintes condições:
+Art. 11.º Para serem promovidas, as praças do QP têm de satisfazer as seguintes condições:
 
 a) Condições gerais: comuns a todos os militares;
 
 b) Condições especiais: próprias do posto e das várias especialidades.
 
-###### Art. 12.º É condição especial de promoção ao posto de cabo-adjunto a aprovação no curso de formação de praças do QP ou em concurso específico.
+Art. 12.º É condição especial de promoção ao posto de cabo-adjunto a aprovação no curso de formação de praças do QP ou em concurso específico.
 
-###### Art. 13.º É condição especial de promoção ao posto de cabo-de-secção ter, no mínimo, oito anos de serviço efectivo no posto de cabo-adjunto.
+Art. 13.º É condição especial de promoção ao posto de cabo-de-secção ter, no mínimo, oito anos de serviço efectivo no posto de cabo-adjunto.
 
-###### Art. 14.º A promoção de cabo-adjunto a cabo-de-secção é feita por escolha.
+Art. 14.º A promoção de cabo-adjunto a cabo-de-secção é feita por escolha.
 
-###### Art. 15.º As praças do QP podem ingressar nos quadros de oficiais ou de sargentos nas condições expressas nos apropriados diplomas legais.
+Art. 15.º As praças do QP podem ingressar nos quadros de oficiais ou de sargentos nas condições expressas nos apropriados diplomas legais.
 
 ### CAPÍTULO VI — Curso de formação
 
-###### Art. 16.º - 1 - Para ingresso no quadro permanente de praças, estas deverão frequentar um curso de formação de praças do QP.
+Art. 16.º - 1 - Para ingresso no quadro permanente de praças, estas deverão frequentar um curso de formação de praças do QP.
 
 2 - Quando circunstâncias o aconselharem, o Exército pode recorrer ao recrutamento por concurso específico, para o quadro permanente de praças, a definir por portaria.
 
-###### Art. 17.º - 1 - Podem ser admitidas ao curso de formação de praças do QP as praças que, tendo frequentado com aproveitamento o curso de promoção a cabo, o requeiram ao Chefe do Estado-Maior do Exército e tal seja deferido, e desde que satisfaçam cumulativamente às seguintes condições:
+Art. 17.º - 1 - Podem ser admitidas ao curso de formação de praças do QP as praças que, tendo frequentado com aproveitamento o curso de promoção a cabo, o requeiram ao Chefe do Estado-Maior do Exército e tal seja deferido, e desde que satisfaçam cumulativamente às seguintes condições:
 
 a) Estarem na 1.ª ou 2.ª classe de comportamento militar, terem bom comportamento civil e espírito militar;
 
@@ -224,11 +244,11 @@ c) Louvores averbados;
 
 d) Menoridade.
 
-###### Art. 18.º O número de instruendos a admitir ao curso de formação de praças do QP e respectivas especialidades ou e qualificações são fixados, anualmente, por despacho do Chefe do Estado-Maior do Exército.
+Art. 18.º O número de instruendos a admitir ao curso de formação de praças do QP e respectivas especialidades ou e qualificações são fixados, anualmente, por despacho do Chefe do Estado-Maior do Exército.
 
-###### Art. 19.º As condições e regime de funcionamento do curso de formação de praças do QP são reguladas no âmbito da competência administrativa do Chefe do Estado-Maior do Exército prevista no artigo 57.º n.º 2, alíneas a) e c), da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.
+Art. 19.º As condições e regime de funcionamento do curso de formação de praças do QP são reguladas no âmbito da competência administrativa do Chefe do Estado-Maior do Exército prevista no artigo 57.º n.º 2, alíneas a) e c), da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.
 
-###### Art. 20.º São excluídos definitivamente do curso de formação de praças do QP:
+Art. 20.º São excluídos definitivamente do curso de formação de praças do QP:
 
 a) Os candidatos que reprovem duas vezes nas operações do respectivo concurso de admissão;
 
@@ -236,26 +256,26 @@ b) Os instruendos que percam duas vezes o curso por desistência ou reprovação
 
 ### CAPÍTULO VII — Disposições transitórias e finais
 
-###### Art. 21.º Podem ser admitidas ao curso de formação de praças do QP, para além do número de instruendos fixado por despacho do Chefe do Estado-Maior do Exército previsto no artigo 18.º do presente decreto-lei, as praças readmitidas do Exército que satisfaçam às condições estabelecidas nas alíneas a), b), d), e), g) e h) do n.º 1 do artigo 17.º do presente decreto-lei e que o requeiram ao Chefe do Estado-Maior do Exército e tal seja deferido.
+Art. 21.º Podem ser admitidas ao curso de formação de praças do QP, para além do número de instruendos fixado por despacho do Chefe do Estado-Maior do Exército previsto no artigo 18.º do presente decreto-lei, as praças readmitidas do Exército que satisfaçam às condições estabelecidas nas alíneas a), b), d), e), g) e h) do n.º 1 do artigo 17.º do presente decreto-lei e que o requeiram ao Chefe do Estado-Maior do Exército e tal seja deferido.
 
-###### Art. 22.º As praças readmitidas do Exército podem optar, durante a frequência do curso de formação de praças do QP e após o seu ingresso neste quadro, pelo seu vencimento base como readmitidas, ou pelo que está definido para o posto em que foram graduadas, ou para aquele a que ascenderam por promoção.
+Art. 22.º As praças readmitidas do Exército podem optar, durante a frequência do curso de formação de praças do QP e após o seu ingresso neste quadro, pelo seu vencimento base como readmitidas, ou pelo que está definido para o posto em que foram graduadas, ou para aquele a que ascenderam por promoção.
 
-###### Art. 23.º - 1 - É extinto o actual sistema de readmissão de praças do Exército, cessando os ingressos no respectivo quadro, com vista à sua gradual extinção.
+Art. 23.º - 1 - É extinto o actual sistema de readmissão de praças do Exército, cessando os ingressos no respectivo quadro, com vista à sua gradual extinção.
 
 2 - A carreira militar das praças readmitidas do Exército, bem como as respectivas regalias, não será prejudicada pela extinção do sistema de readmissão.
 
-###### Art. 24.º Os vencimentos base a abonar mensalmente ao cabo-de-secção e ao cabo-adjunto são os mesmos que estão legalmente estipulados para, respectivamente, o cabo e o primeiro-marinheiro do grupo A da Armada.
+Art. 24.º Os vencimentos base a abonar mensalmente ao cabo-de-secção e ao cabo-adjunto são os mesmos que estão legalmente estipulados para, respectivamente, o cabo e o primeiro-marinheiro do grupo A da Armada.
 
-###### Art. 25.º Enquanto não forem aprovados e postos em execução os novos estatutos militares que passarão a regular a carreira militar dos quadros permanentes, designadamente as normas comuns, aos casos omissos no presente diploma aplicar-se-á, com as necessárias adaptações e por analogia, a legislação actualmente em vigor para os quadros permanentes do Exército.
+Art. 25.º Enquanto não forem aprovados e postos em execução os novos estatutos militares que passarão a regular a carreira militar dos quadros permanentes, designadamente as normas comuns, aos casos omissos no presente diploma aplicar-se-á, com as necessárias adaptações e por analogia, a legislação actualmente em vigor para os quadros permanentes do Exército.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

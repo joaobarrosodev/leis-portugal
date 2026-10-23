@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02300/03470348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1987-663292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aa5792aa74236bd9327242d7e6dfc7e232dd0bf808f3bbead1622a06700800f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 632478a75123efc11645fba653bb7ad7e049867caabbd4f8578fc88ece4be6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Contribuições e Impostos
+- Importação
+- Impostos Indirectos
+- Isenção Fiscal
+- IVA
+- Mercadoria
+- Tratado CEE
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:621714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:550442:por
+  label: "Alterado o art. 1.º pela LEI.96/89.1989.12.12.AR DR.IS [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/96-1989-550442
+  date: '1989-12-12'
+- type: repealed_by
+  target: pt:dre:621714:por
+  label: Revogado o presente diploma, na redação da Lei 96/89 de 12-dez, pelo Decreto-Lei n.º 290/92 - Diário da República
+    n.º 298/1992, Série I-A de 1992-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1992-621714
+  date: '1992-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:57Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +116,7 @@ Assim:
 
 No uso da autorização legislativa conferida pela alínea c) do artigo 44.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas de um país da Comunidade Económica Europeia por um particular, independentemente do seu domicílio, residência habitual ou centro da sua actividade profissional, com destino a um outro particular que se encontre no território nacional, são isentas, na importação, de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo.
+Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas de um país da Comunidade Económica Europeia por um particular, independentemente do seu domicílio, residência habitual ou centro da sua actividade profissional, com destino a um outro particular que se encontre no território nacional, são isentas, na importação, de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo.
 
 2 - Para efeitos do disposto no número anterior, entende-se por pequenas remessas sem carácter comercial as remessas que contêm mercadorias que preencham as seguintes condições:
 
@@ -143,20 +164,20 @@ e) Chá:
 
 Extractos ou essências de chá: 80 g.
 
-###### Art. 2.º - 1 - Para efeitos do disposto no presente diploma, o ecu é definido pelo Regulamento Financeiro de 21 de Dezembro de 1977.
+Art. 2.º - 1 - Para efeitos do disposto no presente diploma, o ecu é definido pelo Regulamento Financeiro de 21 de Dezembro de 1977.
 
 2 - O contravalor em moeda nacional do ecu, a tomar em consideração para aplicação do presente diploma, é o resultante da aplicação da taxa de câmbio em vigor no primeiro dia útil do mês de Outubro de cada ano, com efeitos a partir de 1 de Janeiro do ano seguinte.
 
-###### Art. 3.º Quando o valor das mercadorias contidas numa pequena remessa na acepção do artigo 1.º exceder os montantes mencionados nesse artigo, o imposto sobre o valor acrescentado e os impostos especiais sobre o consumo não serão aplicados quando o montante global a cobrar for igual ou inferior a 3 ECU.
+Art. 3.º Quando o valor das mercadorias contidas numa pequena remessa na acepção do artigo 1.º exceder os montantes mencionados nesse artigo, o imposto sobre o valor acrescentado e os impostos especiais sobre o consumo não serão aplicados quando o montante global a cobrar for igual ou inferior a 3 ECU.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 2 de Janeiro de 1987.**
+Promulgado em 2 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

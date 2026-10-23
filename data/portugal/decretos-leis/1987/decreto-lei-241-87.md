@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13400/23042304.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1987-419176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21889adf33a7f0ae1187bdcc7b75ea30b7c12c5c6d52adf7d163b8a68f2d5425
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5674245bf36fe3d47cca90b32e5baa1bf99f080953a3ba29fee25104a08a095
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- CEE
+- Cereal
+- Comissão do Mercado de Cereais
+- Direcção Geral das Alfândegas
+- Imposto Compensatório
+- Iroma
+- Organização Comum de Mercado
+- Política Agrícola Comum
+- Regulamento CE
+- Restituição a Exportação
+- Restituição a Produção
 relationships:
 - type: amended_by
   target: pt:dre:612403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:274265:por
+  label: "Revogado pelo DEC LEI.483-F/88.28.12.1988.MAPA, DR.IS [299-2ºSupl] de 28.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/483-f-1988-274265
+  date: '1988-12-28'
+- type: repealed_by
+  target: pt:dre:612403:por
+  label: Revogado, no que diz respeito aos direitos niveladores do arroz, pelo(a) Decreto-Lei n.º 56/89 - Diário da República
+    n.º 44/1989, Série I de 1989-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1989-612403
+  date: '1989-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:01Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +128,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os montantes dos direitos niveladores e das restituições à produção e à exportação a aplicar aos produtos inseridos na organização dos mercados, criada pelo [Decreto-Lei n.º 61/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1986-196209), de 25 de Março, são dimanados da Comissão do Mercado dos Cereais e divulgados, por aviso do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), à Direcção-Geral das Alfândegas (DGA) dois dias antes ao da sua entrada em vigor.
+Artigo 1.º Os montantes dos direitos niveladores e das restituições à produção e à exportação a aplicar aos produtos inseridos na organização dos mercados, criada pelo [Decreto-Lei n.º 61/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1986-196209), de 25 de Março, são dimanados da Comissão do Mercado dos Cereais e divulgados, por aviso do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), à Direcção-Geral das Alfândegas (DGA) dois dias antes ao da sua entrada em vigor.
 
-###### Art. 2.º Competirá à DGA colocar à disposição dos agentes económicos interessados o aviso referido no artigo anterior a partir do dia da entrada em vigor dos respectivos direitos niveladores.
+Art. 2.º Competirá à DGA colocar à disposição dos agentes económicos interessados o aviso referido no artigo anterior a partir do dia da entrada em vigor dos respectivos direitos niveladores.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - António Amaro de Matos - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 28 de Maio de 1987.**
+Promulgado em 28 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1987.**
+Referendado em 30 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

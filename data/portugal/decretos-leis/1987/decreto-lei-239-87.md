@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1987-419073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8347e2753d76253bde0dc83d2322abedfdb7469b704aa3c1f48486fb8845cc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64cbc3925afc752415f4564b21aa92362cc26dd268c8c3a6637f71719fd91078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Tribunal de Contas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:59Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +93,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O § 1.º do artigo 1.º do Decreto com força de lei n.º 22257, de 25 de Fevereiro de 1933, passa a ter a seguinte redacção:
+Artigo 1.º O § 1.º do artigo 1.º do Decreto com força de lei n.º 22257, de 25 de Fevereiro de 1933, passa a ter a seguinte redacção:
 
 § 1.º O presidente e, pelo menos, cinco juízes serão licenciados em Direito, de idade não inferior a 30 anos à data da nomeação e com, pelo menos, cinco anos de prática de foro ou serviço da magistratura ou de magistério universitário. Dois juízes poderão ser escolhidos de entre indivíduos doutorados em Direito, Economia, Finanças e Organização e Gestão de Empresas, ou de entre habilitados com licenciatura em Economia, Finanças ou Organização e Gestão de Empresas, desde que, neste caso, exerçam há mais de cinco anos funções de magistério universitário em faculdades que ministrem estes cursos, e ainda de entre directores-gerais ou equiparados com, pelo menos, cinco anos de exercício das suas funções.
 
-###### Art. 2.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Maio de 1987.**
+Promulgado em 28 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1987.**
+Referendado em 30 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

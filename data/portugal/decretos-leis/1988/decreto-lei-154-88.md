@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09900/17401742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1988-285482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d167cb7a4c877fd4970160f9447ad9df86576907b7c0af789bb1630b19b3184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62f2b29d1299aedeab415ef7200cd18413ea77ea2e86f219b0f106b04c4d758f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Maternidade
+- Paternidade
+- Proteção à Infância
+- Protecção à Família
+- Protecção da Maternidade
+- Subsídio de Adopção
+- Subsídio de Maternidade
+- Subsídio de Paternidade
+- Subsídio para Assistência a Descendentes Doentes
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:603961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643722:por
+  label: "Alterados os artigos 1.º a 3.º, 7.º, 12.º, 14.º, 20.º e aditados os artigos 12.º-A, 15.º-A e 22.º-A, pelo DEC LEI.333/95.23.12.1995.MESS,\
+    \ DR.IS-A [295] de 23.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1995-643722
+  date: '1995-12-23'
+- type: amended_by
+  target: pt:dre:223422:por
+  label: "Alterados os arts. 1º, 2º, 3º, 7º e 19º, com as alterações introduzidas pelo Dec Lei 333/95; e aditados os arts.\
+    \ 12º-B e 15º-B todos pelo DEC LEI.347/98.1998.11.09.MTS, DR.IS-A [259]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1998-223422
+  date: '1998-11-09'
+- type: amended_by
+  target: pt:dre:275867:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 5.º, 20.º e 22.º, aditados os arts. 12.º-C e 12.º-D e revogado o art. 22.º-A do\
+    \ presente diploma, com as alterações do Dec Lei 333/95, de 23-Dez DR.IS-A [295] e Dec Lei 347/98, de 09-Nov DR.IS-A [259],\
+    \ pelo DEC LEI.77/2000.2000.05.09.MTS DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2000-275867
+  date: '2000-05-09'
+- type: amended_by
+  target: pt:dre:546624:por
+  label: "Alterados os arts. 9º e 14º do presente diploma, este último na redacção do Dec Lei 333/95 de 23-Dez, pelo DEC LEI.77/2005.13.04.2005.MSSFC,\
+    \ DR.IS-A [72] de 13.04.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2005-546624
+  date: '2005-04-13'
+- type: amended_by
+  target: pt:dre:386845:por
+  label: "Determinado, que o certificado de incapacidade temporária para o trabalho por estado de doença (CIT) que ateste\
+    \ o período de incapacidade temporária para o trabalho para prestar assistência a descendentes dos beneficiários ou equiparados\
+    \ substitui o requerimento para atribuição do subsídio para assistência na doença a descendentes menores ou deficientes,\
+    \ previsto no artigo 19.º do presente diploma, com a redacção que lhe foi dada pelo Decreto-Lei 333/95 de 23 de Dezembro,\
+    \ pela PORT.24/2008.10.01.2008.MTSSO, DR.IS [7] de 10.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2008-386845
+  date: '2008-01-10'
+- type: amended_by
+  target: pt:dre:456212:por
+  label: "Alterados , a partir de 01.08.2008, os art. 11º, 12º-A (na redacção do Dec Lei 333/95, de 23-Dez) 19º (na redacção\
+    \ do Dec Lei 347/98, de 09-Nov) e 20º (na redacção dos Dec Lei 333/95, de 23-Dez e 77/2000, de 09-Maio) todos do presente\
+    \ diploma, pelo DEC LEI.105/2008.25.06.2008.MTSSO, DR.IS [121] de 25.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2008-456212
+  date: '2008-06-25'
+- type: cites
+  target: pt:dre:152335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662360:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287472:por
+  label: Rectificado pela DECL.DD2743.1988.06.07.PCM,DR.IS [149]Supl de 30.06.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-287472
+  date: '1988-06-07'
+- type: repealed_by
+  target: pt:dre:603961:por
+  label: "Revogado, bem como as respectivas alterações, a partir de 01.05.2009, pelo DEC LEI.91/2009.09.04.2009.MTSSO, DR.IS\
+    \ [70] de 09.04.2009 e mantidos transitoriamente em vigor os n.ºs 2 e 3 do artigo 10.º, nos termos do nº 2 do art. 86º\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2009-603961
+  date: '2009-04-09'
 article_structure:
   article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:47Z'
   warnings: []
   errors: []
 ---
@@ -252,12 +331,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 12 de Abril de 1988.**
+Promulgado em 12 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
 O Presidende da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1988.**
+Referendado em 15 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

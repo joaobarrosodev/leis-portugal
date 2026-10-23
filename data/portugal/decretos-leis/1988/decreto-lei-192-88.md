@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12500/23192324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa401e87ea13c67685db70dce9274898f5b6fceb13c0105c6141494263b6cda7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3526910937c1279b2b4ceff5ff4169663f187e0ef9d79db84dd1efd95758b072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Geral
+- Controlo de Qualidade
+- Definição de Competências
+- Fiscalização
+- Gestão Financeira
+- Instituto do Vinho do Porto
+- Integração de Trabalhadores
+- Orgânica
+- Pessoal Dirigente
+- Porto
+- Regime de Pessoal
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:468404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 140/89 DE 25-FEV DR.IS [47].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-02-25'
+- type: amended_by
+  target: pt:dre:612244:por
+  label: "Alterado o quadro de pessoal, criado pelo presente diploma, pela PORT.140/89.25.02.1989.MF, DR.IS [47] de 25.02.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1989-612244
+  date: '1989-02-25'
+- type: amended_by
+  target: pt:dre:575363:por
+  label: "Alterado o quadro de pessoal pela PORT.474/90.27.06.1990.MF, DR.IS [146] de 27.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1990-575363
+  date: '1990-06-27'
+- type: amended_by
+  target: pt:dre:190595:por
+  label: ALTERADO O ARTIGO 12 PELO DEC LEI 41/92 DE 31-MAR DR.IS-A [76].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1992-190595
+  date: '1992-03-31'
+- type: cites
+  target: pt:dre:358346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468404:por
+  label: "Revogado, com a redacção do Dec Lei 75/95 de 19-Abr, a partir da entrada em vigor do DEC LEI.278/2003.06.11.2003.MADRP,\
+    \ DR.IS-A [257] de 06.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-2003-468404
+  date: '2003-11-06'
 article_structure:
   article_count: 34
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:23Z'
   warnings: []
   errors: []
 ---
@@ -466,12 +533,12 @@ Com a entrada em vigor do presente diploma são revogados o [Decreto-Lei n.º 26
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Gonzaga de Sousa Morais Cardoso - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

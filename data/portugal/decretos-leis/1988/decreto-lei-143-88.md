@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09400/15831585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1988-285308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fb735518cbae627d5ed0ebaaa1873290bb12edbd8a36d0096e62400258c24b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a700705844bbee4145f2e08c252910175caf615fa7823d55cc19a2f39e2d7e99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Caixa Geral de Aposentações
+- Caixa Nacional de Previdência
+- Centro Nacional de Pensões
+- Pensão de Aposentação
+- Pensão de Reforma
+- Pensão Unificada
+- Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
+- Regime Geral da Segurança Social
+- Regime Jurídico
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:275441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275441:por
+  label: "Revogado, a partir de 01.09.1992, pelo DEC LEI.159/92.31.07.1992.MESS, DR.IS-A [175] de 31.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1992-275441
+  date: '1992-07-31'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:37Z'
   warnings: []
   errors: []
 ---
@@ -196,12 +220,12 @@ Este diploma entra em vigor no primeiro dia do quinto mês seguinte ao da sua pu
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Abril de 1988.**
+Promulgado em 9 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1988.**
+Referendado em 12 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caefd159f7d1773607fad99f16fea64b021714cd4a022a404b003daed6326b73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 008d6588ed44c3a17da746a7a8882a7460a2c27235f875c8b5ce15f8b86755fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indemnização
+- Nacionalização
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:197687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:630781:por
+  label: "Alterados os art.s 2º, 8º, 10º e 11º, pelo DEC LEI.199/91.29.05.1991.MAPA, DR.IS-A [123] de 29.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1991-630781
+  date: '1991-05-29'
+- type: amended_by
+  target: pt:dre:197687:por
+  label: "Aditado o art. 16º e alterados os arts. 3º, 5º, 9º, 13º, 14º do presente diploma, bem como os arts. 8º, 10º, 11º\
+    \ e 15º, na redacção do Dec Lei 199/91 DE 29-Mai, pelo DEC LEI.38/95.1995.02.14.MA, DR.IS-A [38]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1995-197687
+  date: '1995-02-14'
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476676:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:30Z'
   warnings: []
   errors: []
 ---
@@ -172,11 +199,11 @@ No desenvolvimento do regime contido na [Lei n.º 80/77](https://diariodarepubli
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O cálculo das indemnizações definitivas devidas pela nacionalização e expropriação de bens e direitos ao abrigo da legislação sobre a reforma agrária far-se-á de acordo com os critérios e normas do presente diploma e com observância das disposições da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro.
+Artigo 1.º - 1 - O cálculo das indemnizações definitivas devidas pela nacionalização e expropriação de bens e direitos ao abrigo da legislação sobre a reforma agrária far-se-á de acordo com os critérios e normas do presente diploma e com observância das disposições da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro.
 
 2 - As lacunas na interpretação e aplicação das normas do presente diploma serão preenchidas mediante recurso ao Código das Expropriações ou, subsidiariamente, à lei geral e aos princípios gerais de direito.
 
-###### Art. 2.º - 1 - Serão objecto imediato de indemnização definitiva, calculada nos termos deste diploma:
+Art. 2.º - 1 - Serão objecto imediato de indemnização definitiva, calculada nos termos deste diploma:
 
 a) Os prédios rústicos objecto de expropriação ou nacionalização ao abrigo da legislação sobre reforma agrária, neles se compreendendo todo o capital fundiário constituído por terra e plantações, melhoramentos fundiários e obras e construções;
 
@@ -186,7 +213,7 @@ c) Os prédios urbanos expropriados ou nacionalizados ao abrigo da legislação 
 
 2 - A indemnização definitiva pela perda dos frutos pendentes dos prédios rústicos nacionalizados ou expropriados ao abrigo da legislação sobre reforma agrária continuará a ser determinada e paga ao abrigo das disposições em vigor sobre a matéria.
 
-###### Art. 3.º - 1 - As indemnizações definitivas calculadas nos termos deste diploma visam compensar:
+Art. 3.º - 1 - As indemnizações definitivas calculadas nos termos deste diploma visam compensar:
 
 a) A perda do direito de propriedade, perfeita ou imperfeita, sobre os bens indicados no artigo 2.º, n.º 1;
 
@@ -204,7 +231,7 @@ c) O valor das prestações atribuídas ao abrigo do artigo 12.º da [Lei n.º 8
 
 d) Outras prestações eventualmente atribuídas como adiantamentos por conta das indemnizações devidas.
 
-###### Art. 4.º - 1 - As indemnizações definitivas referidas no artigo 3.º, n.º 1, alínea a), são calculadas em relação à propriedade perfeita sobre os bens, sendo o valor encontrado repartido nos termos seguintes, caso sejam afectados outros direitos reais de gozo ou direitos de arrendamento:
+Art. 4.º - 1 - As indemnizações definitivas referidas no artigo 3.º, n.º 1, alínea a), são calculadas em relação à propriedade perfeita sobre os bens, sendo o valor encontrado repartido nos termos seguintes, caso sejam afectados outros direitos reais de gozo ou direitos de arrendamento:
 
 a) Em primeiro lugar, será calculado o valor do arrendamento afectado, caso exista, nos termos do n.º 2;
 
@@ -216,7 +243,7 @@ b) Em segundo lugar, o valor remanescente será repartido entre o direito de pro
 
 4 - No caso de bens em compropriedade, a parte da indemnização definitiva que caberá a cada proprietário será a correspondente à sua quota na compropriedade.
 
-###### Art. 5.º - 1 - A indemnização pela privação temporária do uso e fruição prevista na alínea c) do n.º 1 do artigo 3.º corresponderá ao rendimento líquido dos bens durante o período em que o seu titular houver ficado privado do respectivo uso e fruição.
+Art. 5.º - 1 - A indemnização pela privação temporária do uso e fruição prevista na alínea c) do n.º 1 do artigo 3.º corresponderá ao rendimento líquido dos bens durante o período em que o seu titular houver ficado privado do respectivo uso e fruição.
 
 2 - O rendimento líquido a que se refere o n.º 1 será calculado com base nos critérios definidos no artigo 10.º, n.º 2.
 
@@ -224,15 +251,15 @@ b) Em segundo lugar, o valor remanescente será repartido entre o direito de pro
 
 4 - Se a reserva houver sido atribuída sobre prédio diverso do que foi ocupado, nacionalizado ou expropriado, haverá lugar à indemnização por privação temporária de uso e fruição, na medida em que o valor da reserva houver sido abatido ao valor do prédio ocupado, nacionalizado ou expropriado nos termos do artigo 3.º, n.º 2, alínea a).
 
-###### Art. 6.º Os proprietárias de prédios urbanos encravados nos prédios expropriados ou nacionalizados ao abrigo da legislação sobre reforma agrária poderão requerer ao Estado, no prazo de um ano, a respectiva expropriação mediante justa indemnização, sendo o processo de expropriação e a determinação da indemnização devida regulados pelo Código das Expropriações.
+Art. 6.º Os proprietárias de prédios urbanos encravados nos prédios expropriados ou nacionalizados ao abrigo da legislação sobre reforma agrária poderão requerer ao Estado, no prazo de um ano, a respectiva expropriação mediante justa indemnização, sendo o processo de expropriação e a determinação da indemnização devida regulados pelo Código das Expropriações.
 
-###### Art. 7.º - 1 - As indemnizações definitivas pela expropriação ou nacionalização ao abrigo da legislação sobre reforma agrária serão fixadas com base no valor real e corrente desses bens e direitos, apurado nos termos deste diploma, de modo a assegurar uma justa compensação pela privação dos mesmos bens e direitos.
+Art. 7.º - 1 - As indemnizações definitivas pela expropriação ou nacionalização ao abrigo da legislação sobre reforma agrária serão fixadas com base no valor real e corrente desses bens e direitos, apurado nos termos deste diploma, de modo a assegurar uma justa compensação pela privação dos mesmos bens e direitos.
 
 2 - O valor atrás indicado deve referir-se à data da ocupação, nacionalização ou expropriação, consoante o acto que tenha ocorrido em primeiro lugar.
 
 ### CAPÍTULO II — Processo para determinação do valor das indemnizações
 
-###### Art. 8.º - 1 - A indemnização definitiva devida pelas nacionalizações ou expropriações ao abrigo da legislação sobre reforma agrária será determinada a pedido dos indemnizandos.
+Art. 8.º - 1 - A indemnização definitiva devida pelas nacionalizações ou expropriações ao abrigo da legislação sobre reforma agrária será determinada a pedido dos indemnizandos.
 
 2 - Podem requerer a determinação da indemnização definitiva os titulares de bens ou direitos nacionalizados ou expropriados ao abrigo da legislação sobre reforma agrária ou os seus herdeiros ou legatários que declarem não ser titulares ao abrigo da legislação em vigor de direito à atribuição de reservas, ainda por exercer total ou parcialmente.
 
@@ -248,7 +275,7 @@ b) Em segundo lugar, o valor remanescente será repartido entre o direito de pro
 
 8 - Às comissões e respectivos membros será assegurado o necessário apoio técnico e a adequada uniformização de critérios em termos a regulamentar no despacho referido no número anterior.
 
-###### Art. 9.º - 1 - Será organizado um único processo para o cálculo da indemnização definitiva relativa aos bens e direitos da mesma pessoa sitos no mesmo distrito.
+Art. 9.º - 1 - Será organizado um único processo para o cálculo da indemnização definitiva relativa aos bens e direitos da mesma pessoa sitos no mesmo distrito.
 
 2 - No caso de um dos bens ou direitos respeitar a várias pessoas, o cálculo do valor do bem ou direito, para efeitos de indemnização, decorrerá no processo que primeiro se iniciar, devendo sempre ser notificados os demais titulares do início do processo de avaliação dos valores que resultarem do cálculo realizado, os quais poderão designar representante, que acompanhará todos os trabalhos da comissão e cujo parecer será registado na respectiva proposta final.
 
@@ -256,7 +283,7 @@ b) Em segundo lugar, o valor remanescente será repartido entre o direito de pro
 
 ### CAPÍTULO III — Critérios para determinação do valor das indemnizações
 
-###### Art. 10.º - 1 - O valor do capital fundiário resulta da soma dos dois valores seguintes:
+Art. 10.º - 1 - O valor do capital fundiário resulta da soma dos dois valores seguintes:
 
 a) Valor da terra, plantações e melhoramentos fundiários;
 
@@ -276,7 +303,7 @@ c) Os preços médios dos produtos da terra, os custos médios dos factores de p
 
 5 - No caso de dúvida ou incerteza sobre a composição ou estado do capital fundiário à data da ocupação, nacionalização ou expropriação, deverá a comissão tentar proceder à reconstituição da situação àquela data, colhendo e recebendo prova testemunhal, pericial, documental ou qualquer outra que esteja disponível e devendo realizar exames ao local.
 
-###### Art. 11.º - 1 - O valor do capital de exploração abrangido pela nacionalização ou expropriação ou que haja sido retirado aos seus proprietários com a ocupação será indemnizado com base no inventário realizado na data da ocupação, nacionalização ou expropriação, desde que o mesmo haja sido assinado pelo representante do Estado e pela pessoa que foi objecto da ocupação, nacionalização ou expropriação ou pelo seu representante.
+Art. 11.º - 1 - O valor do capital de exploração abrangido pela nacionalização ou expropriação ou que haja sido retirado aos seus proprietários com a ocupação será indemnizado com base no inventário realizado na data da ocupação, nacionalização ou expropriação, desde que o mesmo haja sido assinado pelo representante do Estado e pela pessoa que foi objecto da ocupação, nacionalização ou expropriação ou pelo seu representante.
 
 2 - Na falta de inventário nos termos do número anterior, deverá a comissão tentar proceder à reconstituição da situação à data da ocupação, nacionalização ou expropriação, colhendo e recebendo a prova testemunhal, pericial, documental ou qualquer outra que esteja disponível e podendo realizar exames ao local.
 
@@ -284,15 +311,15 @@ c) Os preços médios dos produtos da terra, os custos médios dos factores de p
 
 4 - Os bens que integram o capital de exploração serão avaliados segundo as regras e critérios definidos pelo [Decreto-Lei n.º 2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1979-476676), de 9 de Janeiro.
 
-###### Art. 12.º O valor dos prédios urbanos expropriados ou nacionalizados ao abrigo da legislação sobre reforma agrária será calculado de acordo com os critérios definidos pelo Código das Expropriações.
+Art. 12.º O valor dos prédios urbanos expropriados ou nacionalizados ao abrigo da legislação sobre reforma agrária será calculado de acordo com os critérios definidos pelo Código das Expropriações.
 
-###### Art. 13.º - 1 - Sendo atribuída reserva ao titular de bens e direitos que hajam sido objecto de nacionalização ou expropriação, o valor dos bens e direitos atribuídos como reserva será apurado de acordo com as mesmas regras e critérios aplicados para a determinação do valor dos bens e direitos expropriados e nacionalizados, mas será reportado à situação real do bem ou direito reservado à data da devolução.
+Art. 13.º - 1 - Sendo atribuída reserva ao titular de bens e direitos que hajam sido objecto de nacionalização ou expropriação, o valor dos bens e direitos atribuídos como reserva será apurado de acordo com as mesmas regras e critérios aplicados para a determinação do valor dos bens e direitos expropriados e nacionalizados, mas será reportado à situação real do bem ou direito reservado à data da devolução.
 
 2 - No caso de ser devolvida parte da terra que foi nacionalizada ou expropriada, presume-se, salvo prova em contrário, que o valor unitário do capital fundiário apurado a data da ocupação, nacionalização ou expropriação é idêntico ao valor do mesmo capital fundiário à data da devolução, correspondendo a diferença entre os dois valores em causa à diferença das respectivas áreas de terreno.
 
 3 - O disposto no n.º 2 é igualmente aplicável à atribuição de novo arrendamento como reserva do arrendatário de terras ocupadas, nacionalizadas ou expropriadas.
 
-###### Art. 14.º - 1 - Os proprietários ou titulares de outros direitos reais de gozo sobre bens nacionalizados ou expropriados a quem haja sido atribuída reserva em data posterior à da ocupação, nacionalização ou expropriação terão direito a uma indemnização pela privação temporária do uso e fruição dos bens devolvidos.
+Art. 14.º - 1 - Os proprietários ou titulares de outros direitos reais de gozo sobre bens nacionalizados ou expropriados a quem haja sido atribuída reserva em data posterior à da ocupação, nacionalização ou expropriação terão direito a uma indemnização pela privação temporária do uso e fruição dos bens devolvidos.
 
 2 - A indemnização prevista no número anterior corresponderá aos rendimentos líquidos previsíveis do bem atribuído à data da expropriação ou nacionalização e à data da devolução como reserva, e após dedução das compensações já recebidas pela perda de alguns desses rendimentos.
 
@@ -302,16 +329,16 @@ c) Os preços médios dos produtos da terra, os custos médios dos factores de p
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 6 de Maio de 1988.**
+Promulgado em 6 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1988.**
+Referendado em 13 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do ANEXO I ao ANEXO X
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12600/23372344.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12600/23372344.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12600/23372344.pdf)

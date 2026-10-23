@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05300/09320934.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1987-662373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 348d054114a6f4ec57f51344bca96ea1bbc6bf81c80172cf0fbdc9b32eeef67c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce8fe0f0969f4321b71cf798ef12414e9132bc09564f41404d831d433226965b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Região Demarcada do DÃO
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539211:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:48Z'
   warnings: []
   errors: []
 ---
@@ -111,29 +142,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei visa harmonizar a legislação regulamentadora da Região Demarcada do Dão (RDD) aos princípios e normas estabelecidos na [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+Artigo 1.º O presente decreto-lei visa harmonizar a legislação regulamentadora da Região Demarcada do Dão (RDD) aos princípios e normas estabelecidos na [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
-###### Art. 2.º - 1 - Para os efeitos do disposto no artigo 5.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, é reconhecida a constituição e a actividade da vigente FVD, considerando-a como associação regional, pessoa colectiva de direito privado e utilidade pública.
+Art. 2.º - 1 - Para os efeitos do disposto no artigo 5.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, é reconhecida a constituição e a actividade da vigente FVD, considerando-a como associação regional, pessoa colectiva de direito privado e utilidade pública.
 
 2 - É reconhecida à FVD a prossecução da sua actividade incentivadora, disciplinadora, regulamentados e económica, com o objectivo de preservar o património regional e nacional que é a denominação de origem «Vinho do Dão», mediante o exercício das competências legalmente cometidas, próprias e adequadas aos serviços de interesse público prestados pela FVD.
 
 3 - Nos casos em que se mostre necessária a adopção de procedimentos regulamentares incidindo sobre a produção e comercialização dos vinhos do Dão, a vigorarem no âmbito regional ou nacional, compete à FVD a propositura daqueles junto do Ministro da Agricultura, Pescas e Alimentação (MAPA).
 
-###### Art. 3.º - 1 - A FVD providenciará, em colaboração com a designada «comissão de apoio» informalmente constituída, a modificação dos seus estatutos no prazo de 60 dias contados da data da publicação do presente decreto-lei, por forma a adequá-los ao disposto na [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+Art. 3.º - 1 - A FVD providenciará, em colaboração com a designada «comissão de apoio» informalmente constituída, a modificação dos seus estatutos no prazo de 60 dias contados da data da publicação do presente decreto-lei, por forma a adequá-los ao disposto na [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
 2 - A FVD, após a alteração estatutária referida no número anterior, passará a designar-se, para os efeitos legais, Comissão de Viticultura da Região do Dão (CVRD) e poderá utilizar a designação tradicional «Federação dos Vinicultores do Dão».
 
 3 - A modificação dos estatutos, nos termos dispostos nos números anteriores, deverá ser obtida mediante recurso ao instrumento notarial adequado, seguido da competente publicação no Diário da República, contendo o texto integral daqueles.
 
-###### Art. 4.º É da competência do MAPA a nomeação do representante do Estado na CVRD, nos termos do disposto no n.º 1 do artigo 8.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+Art. 4.º É da competência do MAPA a nomeação do representante do Estado na CVRD, nos termos do disposto no n.º 1 do artigo 8.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
-###### Art. 5.º A associação resultante da alteração dos estatutos da actual FVD considera-se, para todos os efeitos, de natureza jurídica privada, subordinada aos princípios e normas do Código Civil, com excepção das alterações no regime comum introduzidas pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+Art. 5.º A associação resultante da alteração dos estatutos da actual FVD considera-se, para todos os efeitos, de natureza jurídica privada, subordinada aos princípios e normas do Código Civil, com excepção das alterações no regime comum introduzidas pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
-###### Art. 6.º - 1 - A associação mencionada no artigo anterior assume todos os direitos e obrigações, bem como as atribuições e competências da FVD.
+Art. 6.º - 1 - A associação mencionada no artigo anterior assume todos os direitos e obrigações, bem como as atribuições e competências da FVD.
 
 2 - Exceptuem-se do disposto no número anterior os valores financeiros passivos, bem como as existências em vinhos comuns e aguardentes, que serão liquidados pelo INGA (Instituto Nacional de Garantia Agrícola), que, para os efeitos de liquidação do ex-Fundo de Abastecimento e deste passivo e existências, constituirá uma estrutura específica e transitória, dando-se aos saldos da liquidação o destino previsto para os da liquidação daquele organismo extinto.
 
-###### Art. 7.º - 1 - O pessoal afecto à FVD transita para os quadros de pessoal do IVP, que, para o efeito, procederá ao alargamento do seu quadro de pessoal, na estrita medida da necesidade de integração do pessoal, nos termos expostos, sem encargos adicionais, e no respeito pelas categorias e carreiras e demais direitos adquiridos por aquele, mediante a publicação de portaria contendo os novos lugares do quadro, e no respeito pelo disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+Art. 7.º - 1 - O pessoal afecto à FVD transita para os quadros de pessoal do IVP, que, para o efeito, procederá ao alargamento do seu quadro de pessoal, na estrita medida da necesidade de integração do pessoal, nos termos expostos, sem encargos adicionais, e no respeito pelas categorias e carreiras e demais direitos adquiridos por aquele, mediante a publicação de portaria contendo os novos lugares do quadro, e no respeito pelo disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
 2 - A integração do pessoal, nos termos referidos no número anterior, terá lugar com dispensa de quaisquer formalidades, excepto a anotação pelo Tribunal de Contas.
 
@@ -143,22 +174,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O exercício da acção disciplinar sobre o pessoal mencionado no n.º 1 será assegurado pelo IVP.
 
-###### Art. 8.º - 1 - O IVP e a futura CVRD celebrarão um acordo, com duração indeterminada, respeitante à prestação de serviço do pessoal da FVD, que manterá as funções que vem exercendo após a aprovação das alterações estatutárias previstas nos artigos anteriores.
+Art. 8.º - 1 - O IVP e a futura CVRD celebrarão um acordo, com duração indeterminada, respeitante à prestação de serviço do pessoal da FVD, que manterá as funções que vem exercendo após a aprovação das alterações estatutárias previstas nos artigos anteriores.
 
 2 - Os encargos resultantes da aplicação do disposto no número anterior serão suportados pela futura CVRD.
 
-###### Art. 9.º Da aplicação do disposto no presente decreto-lei não poderá, em nenhum caso, resultar qualquer acréscimo de encargos para o IVP.
+Art. 9.º Da aplicação do disposto no presente decreto-lei não poderá, em nenhum caso, resultar qualquer acréscimo de encargos para o IVP.
 
-###### Art. 10.º Mantém-se em vigor a legislação regulamentadora da RDD em tudo o que não contrariar o disposto no presente decreto-lei.
+Art. 10.º Mantém-se em vigor a legislação regulamentadora da RDD em tudo o que não contrariar o disposto no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 18 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 5 de Fevereiro de 1987.**
+Promulgado em 5 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1987.**
+Referendado em 11 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

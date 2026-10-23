@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1987-599741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ba642a2ef5cfd2168b1525305c5f8788e05488ba63e47e01e0536dd581cf94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: facfd65f1cb9eaac4b0875b8267b9ddad31c4399d9382a3f94a48b95e48a93f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Direitos de Importação
+- Exportação
+- Importação
+- Livre Circulação de Mercadorias
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:45Z'
   warnings: []
   errors: []
 ---
@@ -90,21 +96,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei estabelece as regras relativas ao regime de trocas comerciais padrão de mercadorias exportadas para reparação, a seguir denominado «regime de trocas comerciais padrão».
+Artigo 1.º O presente decreto-lei estabelece as regras relativas ao regime de trocas comerciais padrão de mercadorias exportadas para reparação, a seguir denominado «regime de trocas comerciais padrão».
 
-###### Art. 2.º - 1 - Entende-se por regime de trocas comerciais padrão o regime aduaneiro que permite importar, com isenção total ou parcial dos direitos de importação, produtos de substituição que se substituem às mercadorias de qualquer espécie ou origem exportadas do território aduaneiro da Comunidade com vista à sua reparação, incluindo a sua restauração ou afinação, mercadorias estas a seguir denominadas «mercadorias de exportação».
+Art. 2.º - 1 - Entende-se por regime de trocas comerciais padrão o regime aduaneiro que permite importar, com isenção total ou parcial dos direitos de importação, produtos de substituição que se substituem às mercadorias de qualquer espécie ou origem exportadas do território aduaneiro da Comunidade com vista à sua reparação, incluindo a sua restauração ou afinação, mercadorias estas a seguir denominadas «mercadorias de exportação».
 
 2 - O regime de trocas comerciais padrão está sujeito a regras idênticas às previstas no Decreto-Lei n.º 99/86, de 17 de Maio, que instituiu o regime de aperfeiçoamento passivo, salvo disposições especiais previstas pelo presente diploma.
 
 3 - O regime de trocas comerciais padrão não é aplicável às mercadorias que permaneçam na Comunidade ao abrigo do regime de aperfeiçoamento activo nem às mercadorias sujeitas à política agrícola comum ou aos regimes específicos aplicáveis, por força do artigo 235.º do tratado que instituiu a Comunidade Económica Europeia, a certas mercadorias resultantes de transformação de produtos agrícolas.
 
-###### Art. 3.º - 1 - Quando as circunstâncias o justifiquem, os produtos de substituição podem, nas condições fixadas pelo director-geral das Alfândegas, ser importados antes da exportação das mercadorias de exportação, ficando esta importação antecipada equiparada à importação referida no n.º 1 do artigo 2.º
+Art. 3.º - 1 - Quando as circunstâncias o justifiquem, os produtos de substituição podem, nas condições fixadas pelo director-geral das Alfândegas, ser importados antes da exportação das mercadorias de exportação, ficando esta importação antecipada equiparada à importação referida no n.º 1 do artigo 2.º
 
 2 - A importação antecipada de um produto de substituição fica subordinada à constituição de uma fiança que cubra o montante dos direitos de importação.
 
 3 - A fiança referida no n.º 2 será cancelada após o pagamento dos direitos de importação exigíveis por aplicação do artigo 8.º
 
-###### Art. 4.º - 1 - Os produtos de substituição deverão classificar-se pela mesma subposição pautal, ser da mesma qualidade comercial e possuir as mesmas características técnicas que as mercadorias de exportação, se estas últimas tivessem sido objecto da reparação prevista.
+Art. 4.º - 1 - Os produtos de substituição deverão classificar-se pela mesma subposição pautal, ser da mesma qualidade comercial e possuir as mesmas características técnicas que as mercadorias de exportação, se estas últimas tivessem sido objecto da reparação prevista.
 
 2 - Quando as mercadorias de exportação tiverem sido utilizadas antes da exportação, os produtos de substituição devem igualmente ter sido utilizados, não podendo ser produtos novos.
 
@@ -112,13 +118,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O director-geral das Alfândegas pode autorizar que o prazo estipulado no n.º 3 seja excedido em casos excepcionais devidamente justificados.
 
-###### Art. 5.º - 1 - O director-geral das Alfândegas concederá, por meio de autorizações globais ou especiais, o benefício do regime das trocas comerciais padrão aos interessados, a seu pedido, antes da exportação das mercadorias ou da importação antecipada dos produtos de substituição.
+Art. 5.º - 1 - O director-geral das Alfândegas concederá, por meio de autorizações globais ou especiais, o benefício do regime das trocas comerciais padrão aos interessados, a seu pedido, antes da exportação das mercadorias ou da importação antecipada dos produtos de substituição.
 
 2 - O director-geral das Alfândegas pode conceder o benefício do regime das trocas comerciais padrão aos interessados, a seu pedido, apresentado, o mais tardar, no momento da importação dos produtos de substituição, se a exportação das mercadorias tiver sido efectuada no âmbito de uma autorização do regime de aperfeiçoamento passivo.
 
 3 - Se o recurso ao regime das trocas comerciais padrão tiver por efeito a obtenção de uma vantagem não justificada no plano da isenção dos direitos de importação, o director-geral das Alfândegas não concederá o benefício.
 
-###### Art. 6.º - 1 - A importação dos produtos de substituição deverá ter lugar no prazo máximo de seis meses a contar da data da aceitação pelos serviços aduaneiros do documento de exportação das mercadorias de exportação.
+Art. 6.º - 1 - A importação dos produtos de substituição deverá ter lugar no prazo máximo de seis meses a contar da data da aceitação pelos serviços aduaneiros do documento de exportação das mercadorias de exportação.
 
 2 - O prazo referido no n.º 1 poderá, mediante pedido, devidamente justificado, do titular da autorização, ser prorrogado pelos directores das alfândegas, sem que a sua duração total possa exceder doze meses.
 
@@ -126,7 +132,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O prazo referido no n.º 3 poderá, mediante pedido, devidamente justificado, do titular da autorização, ser prorrogado pelos directores das alfândegas, sem que a sua duração total possa exceder quatro meses.
 
-###### Art. 7.º - 1 - A importação dos produtos de substituição só pode ser efectuada pelo titular da autorização ou por sua conta.
+Art. 7.º - 1 - A importação dos produtos de substituição só pode ser efectuada pelo titular da autorização ou por sua conta.
 
 2 - Só é permitida a importação de produtos de substituição que substituam mercadorias que tenham sido ou que venham a ser exportadas do País.
 
@@ -134,18 +140,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Podem, todavia, de acordo com o procedimento previsto nos n.os 2 e 3 do artigo 28.º da Directiva do Conselho n.º [69/73/CEE](http://data.europa.eu/eli/dir/1969/73/oj?locale=pt), de 4 de Março de 1969, ser adoptadas disposições que permitam importar no País produtos de substituição de mercadorias de exportação exportados de outro Estado membro.
 
-###### Art. 8.º - 1 - A isenção, total ou parcial, dos direitos de importação referida no artigo 2.º efectuar-se-á em conformidade com as regras estabelecidas nos artigos 10.º e 11.º do Decreto-Lei n.º 99/86, de 17 de Maio, sendo os produtos de substituição equiparados aos produtos reimportados referidos nos citados artigos.
+Art. 8.º - 1 - A isenção, total ou parcial, dos direitos de importação referida no artigo 2.º efectuar-se-á em conformidade com as regras estabelecidas nos artigos 10.º e 11.º do Decreto-Lei n.º 99/86, de 17 de Maio, sendo os produtos de substituição equiparados aos produtos reimportados referidos nos citados artigos.
 
 2 - Todavia, quando os produtos de substituição foram objecto de uma importação antecipada, o montante dos direitos de importação que seria aplicável às mercadorias de exportação se estas tivessem sido importadas do país donde provêm os produtos de substituição será determinado em conformidade com a taxa ou o montante aplicável na data da aceitação pelas autoridades aduaneiras do documento de exportação das referidas mercadorias, sendo esta data igualmente determinante para a fixação da quantidade, da natureza e do valor das mercadorias em causa.
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 24 de Dezembro de 1986.**
+Promulgado em 24 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

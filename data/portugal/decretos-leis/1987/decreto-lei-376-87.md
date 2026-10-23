@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 284/1987, 1º Suplemento, Série I de 1987-12-11
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4292-(2) a 4292-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/28401/00020031.pdf
 entry_into_force_dates: []
@@ -46,40 +46,160 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f4a552bcca73b5d4642199f460ce1c4cdb7e4132272663e9f79b7963ed073de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cbc4d5de103b1a1fc50fe12e860da01d85956d965094a83e3c7d03d0c9d9514
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Centro de Formação Permanente de Oficiais de Justiça
+- Criação de Serviços
+- Definição de Competências
+- Documentação
+- Estatuto dos Funcionários de Justiça
+- Função Pública
+- Gestão de Recursos Humanos
+- Informatização
+- Ministério Público
+- Oficial de Justiça
+- Orgânica
+- Organização Judiciária
+- Pessoal de Justiça
+- Tribunal Judicial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "CONFERIDA NOVA REDACÇÃO NOS ARTIGOS 3, 6, 12, 22, 24, 39, 44, 50, 77, 82, 96, 106, 183, 187, 193, 194, 196 E 199,\
+    \ ADITADOS OS ARTIGOS 65-A, 184-A, 195-A E 206-A E REVOGADOS OS ARTIGOS 26 E 27 O NUMERO 3 DO ARTIGO 83 E O NUMERO 3 DO\
+    \ ARTIGO 184 PELO DECRETO LEI 167/89, DE 23 DE MAIO, PUBLICADO NO DR.IS, 118, DE 890523. SUBSTITUÍDOS O MAPA I ANEXO,\
+    \ BEM COMO AS TABELAS ANEXAS PELO MAPA I E PELAS TABELAS ANEXAS AO DECRETO LEI 167/89, DE 23 DE MAIO, PUBLICADO NO DR.IS,\
+    \ 118, DE 890523. CONFERIDA NOVA REDACÇÃO AOS ARTIGOS 3, 39, 43, 44, 71, 72, 74, 80, 85, 86, 181, 182 E 182-A, PELO DECRETO\
+    \ LEI 378/91, DE 9 DE OUTUBRO, PUBLICADO NO DR.IS-A, 232, DE 911009. DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA\
+    \ GERAL, DA NORMA COSTANTE DO ARTIGO 204, PELO ACÓRDÃO DO TCS 347/92, PUBLICADO NO DR.IS-A, 279, DE 921203, NA PARTE EM\
+    \ QUE ALTERA O DISPOSTO NO ARTIGO 49, ALÍNEA A) DO DECRETO LEI 483/76, DE 760619. CONFERIDA NOVA REDACÇÃO AOS ARTIGOS\
+    \ 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 21, 23, 24, 33, 34, 35, 36, 39, 40, 43, 46, 48, 50, 55, 56, 57, 58, 59, 60, 62,\
+    \ 66, 68, 69, 71, 73, 74, 75, 78, 82, 84, 85, 86, 91, 96, 97, 99, 100, 105, 107, 108, 109, 130, 179, 181 E 182-A, ADITADOS\
+    \ OS ARTIGOS 49-A E 71-A E REVOGADOS OS ARTIGOS 42, 189 E 204 PELO DECRETO LEI 364/93, DE 22 DE OUTUBRO, PUBLICADO NO\
+    \ DR.IS-A, 248, DE 931022.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:469069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:304095:por
+  label: "Alterado o art. 3º, na redação do Dec Lei 167/89, de 23-maio, Dec Lei 378/91, de 09-out, e Dec Lei 64/93, de 22-out,\
+    \ pelo DEC LEI.167/94.1994.06.15.MJ, DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1994-304095
+  date: '1994-06-15'
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterados os arts. 2º, 82º e 85º do presente diploma, na redacção do Dec Lei 167/89 de 23-Mai, do Dec Lei 270/90,\
+    \ de 03-Set, do Dec Lei 378/91 de 09-Out, do Dec Lei 364/93 de 22-Out e do Dec Lei 167/94, de 15-Jun pela LEI.44/96.1996.09.03.AR,\
+    \ DR.IS-A [204] e aditado o art. 7º-A pela mesma Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:367398:por
+  label: "Alterados os arts. 40.º, 43.º, 44.º, 46.º, 55.º, 61.º, 67.º, 68.º e 71.º bem como a epígrafe da secção IV do Cap.\
+    \ IV pelo DEC LEI.150/97.1997.06.16.MJ DR.IS-A [136], na redacção conferida pelos Dec Lei 378/91 de 09-Out e 364/93 de\
+    \ 22-Out.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1997-367398
+  date: '1997-06-16'
+- type: amended_by
+  target: pt:dre:264333:por
+  label: "Declaradas inconstitucionais com força obrigatória geral, as normas constantes do art. 95º e da al. a) do art. 107º,\
+    \ na parte em que resulta a atribuição ao conselho dos Oficiais de Justiça, do presente diploma, pelo AC.73/2002.2002.02.20.TCS,\
+    \ DR.IS-A [64] de 2002/MAR/16\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/73-2002-264333
+  date: '2002-02-20'
+- type: cites
+  target: pt:dre:180190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219505:por
+  label: Rectificado pela DECL.DD790.1988.03.10.PCM,DR.IS [76]2ºSupl de 31.03.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219505
+  date: '1988-03-10'
+- type: repealed_by
+  target: pt:dre:556837:por
+  label: Revogados o nº5 do art. 63º, os nºs. 2 e 3 do art. 82º, o art. 83º e o nº5 do art. 183º pelo DEC LEI.270/90.03.09.1990.MJ,
+    DR.IS [203] de 03.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1990-556837
+  date: '1990-09-03'
+- type: repealed_by
+  target: pt:dre:428653:por
+  label: "Revogados os arts. 28º a 208º, com excepção do art. 182º-A (aditado pelo Dec Lei 167/89 de 23-Mai, na redacção dada\
+    \ pelo Dec Lei 378/91 de 09-Out e pelo Dec Lei 364/93 de 22-Out) e do art. 183º (na redacção dada pelo Dec Lei 167/89\
+    \ de 23-Mai) pelo DEC LEI.343/99.1999.08.26.MJ,DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1999-428653
+  date: '1999-08-26'
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o art. 182º-A pelo DEC LEI.229/2005.29.12.2005.MFAP, DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
-  article_count: 206
+  article_count: 204
   section_count: 44
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:10Z'
   warnings: []
   errors: []
 ---
@@ -450,7 +570,7 @@ g) Desempenhar quaisquer outras funções conferidas por lei.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 17.ºRegisto de entrada de processos, denúncias e papéis
+Artigo 17.ºRegisto de entrada de processos, denúncias e papéis
 
 1 - Os processos, denúncias e papéis apresentados na secretaria são registados em livro próprio.
 
@@ -490,7 +610,7 @@ O Conselho Superior da Magistratura, a Procuradoria-Geral da República e o Cons
 
 2 - Nas comarcas onde existam secretarias-gerais o arquivo centraliza-se nas mesmas.
 
-###### Artigo 23.ºInutilização ou microfilmagem
+Artigo 23.ºInutilização ou microfilmagem
 
 1 - Ponderadas a sua antiguidade e espécies e atenta a falta de espaço nos arquivos, pode o Ministro da Justiça, em condições a definir por portaria, determinar a inutilização ou microfilmagem dos processos e inquéritos findos, bem como dos demais livros e papéis.
 
@@ -1670,7 +1790,9 @@ d) Cinco anos, para as penas de aposentação compulsiva e demissão.
 
 #### SECÇÃO VIII — Processo disciplinar
 
-##### SUBSECÇÃO I — Artigo 152.º
+##### SUBSECÇÃO I
+
+###### Artigo 152.º
 
 Processo disciplinar
 
@@ -1782,7 +1904,7 @@ Revisão de decisões disciplinares
 
 2 - O requerimento, processado por apenso ao processo disciplinar, deve conter os fundamentos do pedido e a indicação dos meios de prova a produzir e ser instruído com os documentos que o interessado tenha podido obter.
 
-###### Artigo 171.ºSequência do processo de revisão
+Artigo 171.ºSequência do processo de revisão
 
 1 - Recebido o requerimento, o Conselho dos Oficiais de Justiça decide, no prazo de 30 dias, se se verificarem os pressupostos da revisão.
 
@@ -2036,15 +2158,15 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1988, com excepção do
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 3 de Dezembro de 1987.**
+Promulgado em 3 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Dezembro de 1987.**
+Referendado em 7 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -2226,4 +2348,4 @@ Orientar, fiscalizando e colaborando, a limpeza das instalações e pequenos ser
 
 Desempenhar as demais funções conferidas por lei ou determinação superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/28401/00020031.pdf))](https://files.diariodarepublica.pt/1s/1987/12/28401/00020031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/28401/00020031.pdf)

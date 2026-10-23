@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06100/10281028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1987-662314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88d82fd678f3b08f33114b58cca857c9bec5c988a23b6c325c8fb725696d4bf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3844d81173398d8601066cee1e9c97cdc50eacb00ad9664906f20eba9ad378c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:146549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:227224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146549:por
+  label: Revogado pelo DEC LEI.103-C/89.1989.04.04.MIE DR.IS [78]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-c-1989-146549
+  date: '1989-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:03Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +112,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 46.º das Condições Gerais de Venda de Energia Eléctrica em Alta Tensão, anexo ao [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, passa a ter a seguinte redacção:
+Artigo único. O artigo 46.º das Condições Gerais de Venda de Energia Eléctrica em Alta Tensão, anexo ao [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, garantia bancária ou depósito em dinheiro de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.
+Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, garantia bancária ou depósito em dinheiro de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.
 
 § único. No fim do contrato, no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

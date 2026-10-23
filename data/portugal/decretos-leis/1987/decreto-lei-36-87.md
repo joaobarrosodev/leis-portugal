@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01900/02980298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1987-663355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4a4e142eeb23d072ba68834c8a3978455002ebf22e6cb410add743aa28d631b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f934d90be2d4c7b8572937f1110f17d3a790adfded1ddfd2abe901b15fa96e03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo Africano de Desenvolvimento
+- Portugal
+- Promissoria do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406309:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:56Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +111,15 @@ Considerando que pelo Decreto-Lei n.º 252-B/85, de 27 de Agosto, foi autorizado
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo da alínea b) do artigo 3.º do [Decreto-Lei n.º 352-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-b-1985-406309), de 27 de Agosto, e de harmonia com o disposto no artigo 4.º do mesmo decreto-lei, é autorizada a emissão de uma promissória, no valor de 405566146$00, destinada ao pagamento da segunda prestação da contribuição de Portugal para o FAD, integrada na 4.ª reconstituição de recursos deste Fundo.
+Artigo 1.º Ao abrigo da alínea b) do artigo 3.º do [Decreto-Lei n.º 352-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-b-1985-406309), de 27 de Agosto, e de harmonia com o disposto no artigo 4.º do mesmo decreto-lei, é autorizada a emissão de uma promissória, no valor de 405566146$00, destinada ao pagamento da segunda prestação da contribuição de Portugal para o FAD, integrada na 4.ª reconstituição de recursos deste Fundo.
 
-###### Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e a promissória será entregue no Banco de Portugal, ao qual incumbe, nos termos do artigo 5.º do [Decreto-Lei n.º 466/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1982-379166), de 14 de Dezembro, desempenhar as funções de depositário em Portugal dos haveres em escudos do FAD.
+Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e a promissória será entregue no Banco de Portugal, ao qual incumbe, nos termos do artigo 5.º do [Decreto-Lei n.º 466/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1982-379166), de 14 de Dezembro, desempenhar as funções de depositário em Portugal dos haveres em escudos do FAD.
 
-###### Art. 3.º - 1 - A promissória a emitir não é negociável nem vence juros e é pagável à vista e ao par, creditando a conta do FAD no Banco de Portugal.
+Art. 3.º - 1 - A promissória a emitir não é negociável nem vence juros e é pagável à vista e ao par, creditando a conta do FAD no Banco de Portugal.
 
 2 - No caso de pagamento parcial da importância representada pela promissória, emitir-se-á uma nova promissória, com as mesmas características e de valor nominal correspondente à quantia que ficar por pagar.
 
-###### Art. 4.º - 1 - Da promissória constarão:
+Art. 4.º - 1 - Da promissória constarão:
 
 a) O número de ordem;
 
@@ -119,12 +135,12 @@ e) Os direitos, isenções e garantias de que goza e que são os constantes das 
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

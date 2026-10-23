@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 17/1988, 3º Suplemento, Série I de 1988-01-21
   number: '17'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 248-(20) a 248-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01703/00200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1988-506396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd73e510219e792a302779f29a480c63c76b04ead889f8451d3f9465b9dbbfe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b39931bbbf6d1970b06f65321048545b031d67b924864bd9c28c0fe6e3eec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:425487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620723:por
+  label: "Alterado o art. 3º pelo DEC LEI.202/89.22.06.1989.MS, DR.IS [[141]] de 22.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1989-620723
+  date: '1989-06-22'
+- type: amended_by
+  target: pt:dre:1552392:por
+  label: "PORT.DD347.12.09.1990.MS, DR.IIS [211] de 12.09.1990 (Al. d) do nº2 do art. 3º e nº1 do art. 9º )\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-1552392
+  date: '1990-09-12'
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569893:por
+  label: "Revogados os nºs 2, 3 e 4 do art. 9º, continuando transitoriamente a aplicar-se aos centros de responsabilidade\
+    \ existentes até à sua transformação em CRIL, pelo DEC LEI.374/99.1999.09.18.MS,DR.IS-A [219] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1999-569893
+  date: '1999-09-18'
+- type: repealed_by
+  target: pt:dre:425487:por
+  label: "Revogado pela LEI.27/2002.2002.11.08.AR,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2002-425487
+  date: '2002-11-08'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:22Z'
   warnings: []
   errors: []
 ---
@@ -302,12 +342,12 @@ Mediante autorização do Ministro da Saúde, os hospitais podem associar-se e c
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 13 de Janeiro de 1988.**
+Promulgado em 13 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Janeiro de 1988.**
+Referendado em 15 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

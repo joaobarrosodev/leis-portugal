@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1987-498102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f52190c436a9337642bee73df21d746779cf5d0273fdd0ca5ecb417bc2242cdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d2ed9adb4bec0eb88e64584429207e86a95a10d3222c79eac6c019bc706de6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Consultivo de Alimentação Animal
+- Direcção Geral da Pecuária
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:329202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473275:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:07Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +109,9 @@ Assim:
 
 O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É criado o Conselho Consultivo de Alimentação Animal, abreviadamente designado por CCAA, o qual funciona junto da Direcção-Geral da Pecuária.
+Artigo 1.º É criado o Conselho Consultivo de Alimentação Animal, abreviadamente designado por CCAA, o qual funciona junto da Direcção-Geral da Pecuária.
 
-###### Art. 2.º Compõem o Conselho Consultivo de Alimentação Animal:
+Art. 2.º Compõem o Conselho Consultivo de Alimentação Animal:
 
 1) Um representante de cada um dos seguintes organismos:
 
@@ -132,13 +143,13 @@ e) Associação Portuguesa da Indústria Farmacêutica;
 
 3) Quando for julgado conveniente e a convite do presidente, poderão também participar nos trabalhos do CCAA representantes de outros organismos, associações, entidades ou personalidades especialmente competentes em função da matéria.
 
-###### Art. 3.º - 1 - O CCAA é presidido pelo director-geral da Pecuária ou por um seu representante.
+Art. 3.º - 1 - O CCAA é presidido pelo director-geral da Pecuária ou por um seu representante.
 
 2 - A Direcção-Geral da Pecuária prestará todo o apoio técnico e administrativo necessário ao funcionamento do CCAA.
 
 3 - As reuniões do CCAA serão convocadas pelo seu presidente.
 
-###### Art. 4.º São competências do CCAA:
+Art. 4.º São competências do CCAA:
 
 a) Emitir parecer, a pedido dos organismos competentes, sobre a harmonização da legislação nacional de alimentos para animais com as correspondentes disposições da CEE;
 
@@ -150,18 +161,18 @@ d) Propor aos organismos competentes o estudo e a implementação de linhas de i
 
 e) Dar parecer sobre questões relacionadas com a alimentação animal que lhe sejam solicitadas por quaisquer entidades.
 
-###### Art. 5.º Os membros do CCAA são obrigados, mesmo após a cessação das suas funções, a não divulgar as informações que, por sua natureza, estejam abrangidas pelo segredo profissional, designadamente as respeitantes às empresas e respectivas relações comerciais ou elementos dos seus preços de custo e processos de fabrico, bem como a não divulgar as informações a que tenham acesso durante os trabalhos da Comissão, sempre que o presidente os informar de que o parecer solicitado ou a questão apresentada incide sobre uma matéria de carácter confidencial.
+Art. 5.º Os membros do CCAA são obrigados, mesmo após a cessação das suas funções, a não divulgar as informações que, por sua natureza, estejam abrangidas pelo segredo profissional, designadamente as respeitantes às empresas e respectivas relações comerciais ou elementos dos seus preços de custo e processos de fabrico, bem como a não divulgar as informações a que tenham acesso durante os trabalhos da Comissão, sempre que o presidente os informar de que o parecer solicitado ou a questão apresentada incide sobre uma matéria de carácter confidencial.
 
-###### Art. 6.º São revogados os Decretos n.os [104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202) e [41/80](https://diariodarepublica.pt/dr/detalhe/decreto/41-1980-473275), de 28 de Setembro e de 3 de Julho, respectivamente.
+Art. 6.º São revogados os Decretos n.os [104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202) e [41/80](https://diariodarepublica.pt/dr/detalhe/decreto/41-1980-473275), de 28 de Setembro e de 3 de Julho, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1987. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Novembro de 1987.**
+Promulgado em 21 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Novembro de 1987.**
+Referendado em 26 de Novembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

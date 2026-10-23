@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/27200/41024102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1987-499013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84df5b7cc2ef9124f4931d6f8f4fe277875bfe239570f6848c8fc170cb136e31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 415c63859bc6832b0850005c60a876fe6029566e41046fa8d5309feaeea9f0ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:418038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:57Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +117,16 @@ Assim:
 
 O Governo decreta, ao abrigo do n.º 1 e da alínea b) do n.º 2 do artigo 3.º, da alínea e) do artigo 5.º e do n.º 3 do artigo 8.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É alterado para 270 milhões de contos o montante de 120 milhões de contos a que se refere o artigo 1.º do [Decreto-Lei n.º 324/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1987-418038), de 31 de Agosto.
+Artigo único. É alterado para 270 milhões de contos o montante de 120 milhões de contos a que se refere o artigo 1.º do [Decreto-Lei n.º 324/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1987-418038), de 31 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 12 de Novembro de 1987.**
+Promulgado em 12 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Novembro de 1987.**
+Referendado em 18 de Novembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

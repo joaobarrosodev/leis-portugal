@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15300/26512651.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1987-420183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fdd88f59d803780c82b6ee17febcd77e9a201c00a75bee528baf0e53e3fc4d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28b6394d93c2dafd1cb09a8d8ad74f873fc4d8782035edd1107f2542fedcce8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estrada
+- Gabinete da Área de Sines
+- Propriedade do Estado
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:39Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +102,26 @@ Verificando-se que nessa resolução se estipula a reafectação do património 
 
 Constatando-se, ainda, que interessa transferir para o domínio público do Estado as estradas construídas pelo GAS e, do antecedente, sob a sua jurisdição: O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É transmitida para o Estado e integrada no domínio público a propriedade das seguintes estradas do GAS definidas no esboço corográfico anexo, que ficam sob jurisdição da Junta Autónoma de Estradas:
+Artigo 1.º É transmitida para o Estado e integrada no domínio público a propriedade das seguintes estradas do GAS definidas no esboço corográfico anexo, que ficam sob jurisdição da Junta Autónoma de Estradas:
 
 1) Da via R41, que se desenvolve entre Santo André e o entroncamento com a estrada nacional n.º 120-1 e R53, com o comprimento de 16009 m;
 
 2) Do troço da via rápida R52, com início na variante à estrada nacional n.º 120 até ao nó de ligação com a R41, incluindo o respectivo nó de ligação desnivelado, com o comprimento de 8519 m.
 
-###### Art. 2.º As estradas a que se refere o artigo 1.º têm o valor de 498500000$00 e são integradas no património do Estado sem quaisquer ónus ou encargos.
+Art. 2.º As estradas a que se refere o artigo 1.º têm o valor de 498500000$00 e são integradas no património do Estado sem quaisquer ónus ou encargos.
 
-###### Art. 3.º O disposto no artigo 1.º constitui título bastante da transferência para todos os efeitos legais, incluindo o de registo.
+Art. 3.º O disposto no artigo 1.º constitui título bastante da transferência para todos os efeitos legais, incluindo o de registo.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1987. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 4 de Junho de 1987.**
+Promulgado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15300/26512651.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15300/26512651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15300/26512651.pdf)

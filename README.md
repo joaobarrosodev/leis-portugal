@@ -430,6 +430,18 @@ leis-portugal collect dre --ref /dr/detalhe/decreto-lei/140-2009-494543
 
 Para cada diploma são recolhidos o texto, os metadados, as alterações e retificações registadas na análise jurídica do DRE e os descritores temáticos (`--no-relations` e `--no-subjects` desligam os dois últimos). O DRE não tem API pública: o conector usa os endpoints internos da aplicação web, a 1 pedido por segundo. Se o DRE mudar esses endpoints, a recolha falha com um erro explícito em vez de gravar um dia vazio.
 
+Verificar o acervo contra os sitemaps públicos do DRE, que listam todos os documentos publicados por tipo, e recolher os que faltam:
+
+```bash
+leis-portugal collect dre --missing --dry-run
+```
+
+```bash
+leis-portugal collect dre --missing --workers 6
+```
+
+A verificação conta, para cada tipo do vocabulário (`config/document_types.yml`), quantos documentos o DRE lista, quantos estão no acervo e quantos faltam, e grava as contagens em `reports/dre_sitemap_coverage.json` (resumidas em `COBERTURA.md`). Com `--dry-run` só conta. Os tipos sobretudo da 2.ª Série (despachos, avisos, editais, deliberações…, listados em `sitemap_optional`) são contados mas só recolhidos com `--all` ou quando indicados em `--types` (p. ex. `--types lei,decreto-lei`). Os documentos que não foi possível recolher ficam em `reports/dre_missing_failures.jsonl`. Se a recolha for interrompida, basta correr o mesmo comando: só recolhe o que continua em falta.
+
 Recolher atos da União Europeia (EUR-Lex/CELLAR), com a mesma informação que os diplomas portugueses (texto do JO ou consolidado, EuroVoc, autores, publicação no JO, vigência e relações nos dois sentidos):
 
 ```bash

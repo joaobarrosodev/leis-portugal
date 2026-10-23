@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1988-374187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b45cbcc559f160b2e6830c810889e05a2569c5af38d619bf97f2135c43063d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c581adbf51c1664cd44be3a49c2d81fc50779bd5ea770ca1beda858c7aeb66a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso Público
+- Contrato de Concessão
+- Exploração Portuária
+- Gabinete da Navegabilidade do Douro
+- Porto Fluvial
+relationships:
+- type: cites
+  target: pt:dre:324338:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:35Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +103,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Gabinete de Navegabilidade do Douro autorizado a celebrar, nos termos das bases anexas ao presente decreto-lei, que dele fazem parte integrante, contratos de concessão, precedidos de concurso público, respeitantes à exploração dos portos fluviais de Sardoura e de Régua-Lamego.
+Artigo 1.º - 1 - Fica o Gabinete de Navegabilidade do Douro autorizado a celebrar, nos termos das bases anexas ao presente decreto-lei, que dele fazem parte integrante, contratos de concessão, precedidos de concurso público, respeitantes à exploração dos portos fluviais de Sardoura e de Régua-Lamego.
 
 2 - A concessão será outorgada após homologação pelo Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º Serão considerados como condições de preferência na adjudicação da concessão, por ordem decrescente da sua importância, sem prejuízo de uma apreciação global:
+Art. 2.º Serão considerados como condições de preferência na adjudicação da concessão, por ordem decrescente da sua importância, sem prejuízo de uma apreciação global:
 
 a) Conhecimento do sistema de funcionamento de um porto;
 
@@ -114,37 +123,47 @@ f) Exploração simultânea dos dois portos.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1988.**
+Referendado em 18 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Bases
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 Esta concessão tem por objecto a exploração dos portos de Sardoura e de Régua-Lamego, das suas dependências, instalações e terrenos anexos que lhe sejam confiados pelo GND, ou que o concessionário venha a construir ou adquirir para o funcionamento do porto.
 
-###### Base II — Exclusividade
+Base II
+
+Exclusividade
 
 A concessão da exploração destas instalações portuárias é realizada em regime de exclusividade.
 
-###### Base III — Instalações portuárias
+Base III
+
+Instalações portuárias
 
 As instalações portuárias de Sardoura e Régua-Lamego incluem os cais e os terraplenos anexos, a definir no caderno de encargos dos respectivos concursos.
 
-###### Base IV — Prazo da concessão
+Base IV
+
+Prazo da concessão
 
 1 - A concessão é dada pelo prazo de quinze anos contados a partir da data do visto do Tribunal de Contas do respectivo contrato, renovável por períodos de dez anos, desde que nisso acordem mutuamente concedente e concessionário, até um ano antes do termo do prazo de concessão ou das suas prorrogações.
 
 2 - Decorrido o prazo de concessão ou de uma sua prorrogação, pode o GND acordar com o concessionário o estabelecimento de um novo regime de exploração, mediante novo contrato por um ou mais períodos de dez anos.
 
-###### Base V — Utilização das zonas portuárias
+Base V
+
+Utilização das zonas portuárias
 
 1 - Os portos objecto desta concessão destinam-se exclusivamente às seguintes operações e actividades:
 
@@ -176,7 +195,9 @@ f) As forças e os serviços de segurança.
 
 5 - A circulação de pessoas, veículos e bens afectos às entidades mencionadas no n.º 2 processa-se de acordo com as regras vigentes na área da concessão.
 
-###### Base VI — Equipamentos e estruturas
+Base VI
+
+Equipamentos e estruturas
 
 1 - O equipamento necessário ao funcionamento e manutenção deste serviço público está a cargo do concessionário.
 
@@ -192,7 +213,9 @@ f) As forças e os serviços de segurança.
 
 7 - A obrigação referida no número anterior não abrange a conservação dos muros-cais, nem dos fundos adjacentes, que constitui obrigação do GND, excluídos os cabeços de amarração e argolas.
 
-###### Base VII — Regime de exploração
+Base VII
+
+Regime de exploração
 
 1 - A exploração dos portos será feita em regime de serviço público, de forma regular e contínua, em conformidade com o regulamento a que se refere a base VIII.
 
@@ -216,7 +239,9 @@ g) Cumprir todas as disposições previstas na lei para o exercício da activida
 
 4 - O concessionário é inteiramente responsável pelos prejuízos ou danos causados a terceiros no exercício da sua actividade.
 
-###### Base VIII — Regulamento de exploração
+Base VIII
+
+Regulamento de exploração
 
 1 - As normas a observar na exploração do terminal constarão de regulamento a apresentar, no prazo de 30 dias a contar da data do início da concessão, pelo concessionário ao GND e por este aprovado.
 
@@ -226,13 +251,17 @@ g) Cumprir todas as disposições previstas na lei para o exercício da activida
 
 4 - O GND, ouvido o concessionário, poderá alterar as normas estabelecidas no regulamento de exploração.
 
-###### Base IX — Tarifário
+Base IX
+
+Tarifário
 
 1 - As taxas devidas pela execução de operações e pela prestação de serviços no âmbito da concessão serão convenientemente publicitadas e afixadas nos locais próprios dos portos objecto da concessão.
 
 2 - Os valores das taxas podem corresponder a serviços globais ou operações parcelares.
 
-###### Base X — Pessoal e regime de trabalho
+Base X
+
+Pessoal e regime de trabalho
 
 1 - O pessoal utilizado na exploração dos portos pertencerá aos quadros do concessionário, ou será por ele recrutado sob sua responsabilidade, e deverá possuir habilitações e formação adequadas para a realização do serviço que lhe for cometido.
 
@@ -240,13 +269,17 @@ g) Cumprir todas as disposições previstas na lei para o exercício da activida
 
 3 - O concessionário dará conhecimento ao GND do seu quadro de pessoal, do regime de trabalho e dos horários de trabaho do pessoal e do funcionamento do porto.
 
-###### Base XI — Fiscalização
+Base XI
+
+Fiscalização
 
 1 - As actividades exercidas nas instalações portuárias objecto desta concessão serão fiscalizadas pelo GND, sem prejuízo das competências específicas cometidas a outros serviços do Estado com jurisdição no local.
 
 2 - Para o exercício das funções dos diferentes agentes de fiscalização, ser-lhes-á facultado livre acesso a todas as instalações.
 
-###### Base XII — Deliberações a homologar pelo GND
+Base XII
+
+Deliberações a homologar pelo GND
 
 1 - Carecem de homologação do GND as deliberações do concessionário que alterem o seu estatuto jurídico, nomeadamente as que tenham por fim:
 
@@ -260,7 +293,9 @@ d) O aumento, integração ou redução do capital social, caso o concessionári
 
 2 - Estas deliberações ter-se-ão por aprovadas se o GND se não pronunciar no prazo de 30 dias, a contar da data do registo de entrada na sua secretaria da respectiva documentação.
 
-###### Base XIII — Deliberações a autorizar pelo GND
+Base XIII
+
+Deliberações a autorizar pelo GND
 
 1 - Estão sujeitas a autorização do GND as deliberações dos concessionários que tenham por fim:
 
@@ -268,7 +303,9 @@ a) A alienação, locação ou operação, por qualquer forma, dos direitos emer
 
 b) O trespasse, a subconcessão ou cedência, por qualquer título ou prazo, da exploração do porto a terceiros.
 
-###### Base XIV — Taxas e rendas
+Base XIV
+
+Taxas e rendas
 
 1 - O concessionário pagará ao GND, pelos terrenos que lhe são postos à disposição, uma renda anual de:
 
@@ -304,13 +341,17 @@ Superior a 100000 t - 4%.
 
 7 - O valor das taxas e rendas mencionadas nos n.os 1 e 3 desta base serão objecto de correcção anual, a operar de acordo com a variação percentual a fixar por portaria do Ministério das Obras Públicas, Transportes e Comunicações.
 
-###### Base XV — Termo da concessão
+Base XV
+
+Termo da concessão
 
 1 - Finda a concessão, pelo decurso do prazo ou pela rescisão, reverterão para o GND todas a instalações e equipamentos fixos que nessa data constituam os portos e tenham sido custeados pelo concessionário, os quais lhe serão entregues sem dependência de qualquer formalidade e livres de qualquer ónus ou encargo, em estado de bom funcionamento, conservação e sergurança, não podendo o concessionário reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
 2 - Sem prejuízo do disposto na base XVI para o resgaste, o concessionário terá direito a ser indemnizado do custo de obras, instalações e equipamentos fixos que construir ou montar no decurso do prazo da concessão, diminuído da amortização entretanto efectuada, à razão de 1/15 do respectivo valor por cada ano, desde que essas obras, instalações ou equipamentos não sejam previstos no plano de exploração constante da sua proposta inicial e sejam destinados a melhorar o seu funcionamento e, ainda, tenham sido previamente autorizados, caso a caso, pelo GND com a aprovação do respectivo custo e período de amortização.
 
-###### Base XVI — Resgate da concessão
+Base XVI
+
+Resgate da concessão
 
 1 - O GND poderá resgatar a concessão decorridos cinco anos a partir do início do respectivo contrato, mediante notificação com pelo menos um ano de antecedência.
 
@@ -320,7 +361,9 @@ Superior a 100000 t - 4%.
 
 4 - No caso de resgate, o concessionário terá direito a uma indemnização igual ao custo dos bens que à data do resgate constituam o seu investimento para a exploração do porto, diminuído de 1/15 por cada ano decorrido desde a data de aquisição dos respectivos bens.
 
-###### Base XVII — Rescisão da concessão
+Base XVII
+
+Rescisão da concessão
 
 1 - O GND pode dar por finda a concessão, mediante rescisão do contrato, quando reconheça ter ocorrido qualquer dos factos seguintes:
 
@@ -352,13 +395,17 @@ j) Não reconstituição de caução, nos termos do n.º 2 da base XX.
 
 5 - A rescisão da concessão implica a perda, a favor do GND, da caução a que se refere a base XX, sem prejuízo da responsabilidade civil em que incorrer o concessionário e das sanções previstas na lei ou no contrato.
 
-###### Base XVIII — Caso de guerra ou de emergência grave
+Base XVIII
+
+Caso de guerra ou de emergência grave
 
 1 - Em caso de guerra ou de emergência grave o GND reserva-se o direito de gerir e explorar os portos nas condições das leis aplicáveis.
 
 2 - Durante o período em que o GND exercer esse direito suspende-se, em relação a todo o objecto da concessão, o prazo a que se refere o n.º 1 da base IV.
 
-###### Base XIX — Sequestro
+Base XIX
+
+Sequestro
 
 1 - O GND poderá tomar conta da exploração dos portos quando se der ou estiver iminente a cessação ou interrupção total ou parcial dessa exploração, ou se mostrarem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento, susceptíveis de comprometer a regularidade da exploração.
 
@@ -368,7 +415,9 @@ j) Não reconstituição de caução, nos termos do n.º 2 da base XX.
 
 4 - Se o concessionário não quiser ou não puder retomar a exploração ou, quando o tiver feito, continuarem a verificar-se graves deficiências na organização e funcionamento dos portos, o GND poderá declarar a imediata rescisão do contrato.
 
-###### Base XX — Caução
+Base XX
+
+Caução
 
 1 - O concessionário depositará à ordem do GND a caução de 1000000$00 como garantia das obrigações emergentes do contrato de concessão.
 
@@ -378,7 +427,9 @@ j) Não reconstituição de caução, nos termos do n.º 2 da base XX.
 
 4 - A caução, garantia ou seguro serão objecto de actualização anual a fixar nos termos do referido no n.º 7 da base XIV.
 
-###### Base XXI — Incumprimento das obrigações
+Base XXI
+
+Incumprimento das obrigações
 
 1 - Pelo incumprimento de obrigações assumidas no âmbito do contrato de concessão, quando não lhe corresponda sanção mais grave, nos termos dos artigos anteriores ou do regulamento de exploração será o concessionário punido com coima de 50000$00 a 500000$00, segundo a gravidade da infracção, a aplicar por deliberação da comissão directiva do GND, que, comunicada por escrito ao concessionário, produzirá os seus efeitos independentemente de qualquer outra formalidade, sem prejuízo da audição prévia do concessionário.
 
@@ -388,7 +439,9 @@ j) Não reconstituição de caução, nos termos do n.º 2 da base XX.
 
 4 - A negligência é punível.
 
-###### Base XXII — Divergências
+Base XXII
+
+Divergências
 
 1 - São imeditamente executadas as deliberações e as intimações do GND no âmbito da execução do contrato, ficando assegurada ao concessionário, de harmonia com a lei geral, a impugnação contenciosa da respectiva legalidade.
 

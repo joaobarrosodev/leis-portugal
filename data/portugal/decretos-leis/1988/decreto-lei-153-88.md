@@ -46,36 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1988-285480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85dc3df0d4f062030ce9672ddc2f4dd16f508d95d26a1b3d476fdd5c72c19018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f541e73b1884ee2d7ceb1019ee642dc7ca1252e3a2effc76cd2e2a4c0462889
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Superior de Educação Física
+- Orgânica
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287465:por
+  label: Rectificado pela DECL.DD2739.1988.06.06.PCM,DR.IS [149]Supl de 30/Jun/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-287465
+  date: '1988-06-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:48Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +164,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto Superior de Educação Física, da Universidade Técnica de Lisboa, adiante designado abreviadamente por ISEF, é um estabelecimento de ensino superior universitário.
+Artigo 1.º - 1 - O Instituto Superior de Educação Física, da Universidade Técnica de Lisboa, adiante designado abreviadamente por ISEF, é um estabelecimento de ensino superior universitário.
 
 2 - O ISEF tem personalidade jurídica e goza de autonomia administrativa, financeira, pedagógica e científica, sem prejuízo das orientações estabelecidas pelo Governo e pelos órgãos próprios de governo da Universidade, no âmbito das respectivas competências.
 
-###### Art. 2.º - 1 - O ISEF tem como atribuições:
+Art. 2.º - 1 - O ISEF tem como atribuições:
 
 a) Ministrar a formação académica conducente à concessão dos graus de licenciado, mestre e doutor;
 
@@ -106,7 +178,7 @@ c) Promover acções de extensão universitária, incluindo a prestação de ser
 
 2 - A prestação de serviços à comunidade, a que se refere a alínea c) do número anterior, será objecto de regulamento a aprovar pelo Ministro da Educação, sob proposta do ISEF, ouvido o reitor da Universidade Técnica de Lisboa.
 
-###### Art. 3.º As atribuições do Instituto dirigem-se ao ensino superior e à investigação, nomeadamente nas seguintes áreas:
+Art. 3.º As atribuições do Instituto dirigem-se ao ensino superior e à investigação, nomeadamente nas seguintes áreas:
 
 a) Educação física, como desenvolvimento no sistema escolar das capacidades e hábitos de cultura física;
 
@@ -118,19 +190,19 @@ d) Educação especial e reabilitação, como desenvolvimento das capacidades ps
 
 e) Ergonomia, como desenvolvimento da formação profissional e das adaptações corporais ao rendimento do sector produtivo.
 
-###### Art. 4.º - 1 - A Universidade Técnica de Lisboa confere, através do ISEF, os graus de licenciado, mestre e doutor.
+Art. 4.º - 1 - A Universidade Técnica de Lisboa confere, através do ISEF, os graus de licenciado, mestre e doutor.
 
 2 - Aos cursos de licenciatura em ensino ministrados pelo Instituto é aplicado o estabelecido no artigo único do [Decreto-Lei n.º 423/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1978-325139), de 22 de Dezembro.
 
-###### Art. 5.º - 1 - No âmbito das suas atribuições, o ISEF manterá estreita colaboração com os organismos e entidades públicas ou privadas, nacionais ou estrangeiras, por qualquer forma interessados na promoção do ensino e da investigação nas áreas científicas em que se desenvolve a sua acção.
+Art. 5.º - 1 - No âmbito das suas atribuições, o ISEF manterá estreita colaboração com os organismos e entidades públicas ou privadas, nacionais ou estrangeiras, por qualquer forma interessados na promoção do ensino e da investigação nas áreas científicas em que se desenvolve a sua acção.
 
 2 - Para efeitos do disposto no número anterior, o ISEF poderá celebrar convénios, acordos ou contratos, que serão objecto de prévia homologação pelo reitor da Universidade Técnica de Lisboa ou, quando celebrados com organismos ou entidades estrangeiros, pelo Ministro da Educação.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 6.º O ISEF possui os órgãos de gestão científica, pedagógica e administrativa previstos na lei para as escolas integradas na Universidade Técnica de Lisboa.
+Art. 6.º O ISEF possui os órgãos de gestão científica, pedagógica e administrativa previstos na lei para as escolas integradas na Universidade Técnica de Lisboa.
 
-###### Art. 7.º São serviços do ISEF:
+Art. 7.º São serviços do ISEF:
 
 a) A Secretaria;
 
@@ -142,7 +214,7 @@ d) O Serviço de Edições;
 
 e) O Centro de Informática.
 
-###### Art. 8.º Para apoio específico ao ensino, à investigação científica e a extensão, o ISEF disporá, ainda, de:
+Art. 8.º Para apoio específico ao ensino, à investigação científica e a extensão, o ISEF disporá, ainda, de:
 
 a) Laboratórios;
 
@@ -152,15 +224,15 @@ c) Serviços de apoio médico;
 
 d) Serviços de meios áudio-visuais.
 
-###### Art. 9.º A Secretaria é dirigida por um secretário, o qual terá a competência prevista no [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro.
+Art. 9.º A Secretaria é dirigida por um secretário, o qual terá a competência prevista no [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro.
 
-###### Art. 10.º A Secretaria compreende:
+Art. 10.º A Secretaria compreende:
 
 a) A Repartição de Administração e Finanças;
 
 b) A Repartição Académica.
 
-###### Art. 11.º - 1 - A Repartição de Administração e Finanças é dirigida por um chefe de repartição e exerce a sua acção nos domínios do pessoal, da contabilidade, do orçamento e conta, do economato e inventário e do expediente e arquivo dos documentos a ela respeitantes.
+Art. 11.º - 1 - A Repartição de Administração e Finanças é dirigida por um chefe de repartição e exerce a sua acção nos domínios do pessoal, da contabilidade, do orçamento e conta, do economato e inventário e do expediente e arquivo dos documentos a ela respeitantes.
 
 2 - A Repartição de Administração e Finanças compreende a Secção de Pessoal e a Secção de Orçamento e Contabilidade.
 
@@ -204,7 +276,7 @@ h) Velar pela conservação e aproveitamento do material;
 
 i) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos serviços.
 
-###### Art. 12.º - 1 - A Repartição Académica é dirigida por um chefe de repartição e exerce a sua acção nos domínios da vida escolar dos alunos e do expediente e arquivo dos documentos a eles respeitantes.
+Art. 12.º - 1 - A Repartição Académica é dirigida por um chefe de repartição e exerce a sua acção nos domínios da vida escolar dos alunos e do expediente e arquivo dos documentos a eles respeitantes.
 
 2 - A Repartição Académica compreende a Secção de Alunos e a Secção de Expediente e Arquivo.
 
@@ -222,41 +294,41 @@ a) Organizar e manter actualizado o arquivo dos processos individuais dos alunos
 
 b) Passar certidões de matrícula, inscrição, frequência e outras relativas a actos que constem do serviço e não sejam de natureza reservada.
 
-###### Art. 13.º Adstrita à Repartição de Administração e Finanças, funciona a Tesouraria, dirigida por um tesoureiro, com as atribuições e competências previstas no artigo 38.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
+Art. 13.º Adstrita à Repartição de Administração e Finanças, funciona a Tesouraria, dirigida por um tesoureiro, com as atribuições e competências previstas no artigo 38.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
 
-###### Art. 14.º - 1 - A Biblioteca exerce a sua acção nos domínios da biblioteconomia, da selecção, da catalogação e da divulgação da documentação e informação.
+Art. 14.º - 1 - A Biblioteca exerce a sua acção nos domínios da biblioteconomia, da selecção, da catalogação e da divulgação da documentação e informação.
 
 2 - A direcção da Biblioteca incumbe a um professor, a designar nos termos da alínea d) do artigo 21.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
 
-###### Art. 15.º - 1 - O serviço de edições desenvolve a sua acção nos domínios da composição, duplicação, impressão e brochura da documentação de carácter pedagógico e científico, bem como no da sua distribuição por oferta, permuta ou venda.
+Art. 15.º - 1 - O serviço de edições desenvolve a sua acção nos domínios da composição, duplicação, impressão e brochura da documentação de carácter pedagógico e científico, bem como no da sua distribuição por oferta, permuta ou venda.
 
 2 - O serviço de edições é dirigido pelo técnico superior de maior categoria nele colocado.
 
-###### Art. 16.º - 1 - Ao Centro de Informática compete a prestação de serviços ao nível do processamento e do apoio técnico, através das áreas operacionais de aplicações científicas, bem como ao nível da promoção de iniciativas de divulgação das técnicas informáticas.
+Art. 16.º - 1 - Ao Centro de Informática compete a prestação de serviços ao nível do processamento e do apoio técnico, através das áreas operacionais de aplicações científicas, bem como ao nível da promoção de iniciativas de divulgação das técnicas informáticas.
 
 2 - O Centro de Informática é dirigido por um professor, a designar para o efeito pelo presidente do conselho directivo, sob proposta do conselho científico, pelo período de um ano, renovável por períodos de igual duração.
 
-###### Art. 17.º - 1 - Os laboratórios desenvolvem a sua acção nos domínios do apoio às aulas práticas dos planos de estudos dos cursos do ISEF, bem como nos do desenvolvimento de projectos de investigação ou do apoio à comunidade.
+Art. 17.º - 1 - Os laboratórios desenvolvem a sua acção nos domínios do apoio às aulas práticas dos planos de estudos dos cursos do ISEF, bem como nos do desenvolvimento de projectos de investigação ou do apoio à comunidade.
 
 2 - Os laboratórios são dirigidos pelos professores responsáveis pelas disciplinas a que dizem respeito.
 
-###### Art. 18.º - 1 - O museu tem por finalidade o apoio ao ensino, à investigação e à promoção de iniciativas de animação e de acção cultural sobre as actividades corporais dos Portugueses, num quadro histórico e antropológico.
+Art. 18.º - 1 - O museu tem por finalidade o apoio ao ensino, à investigação e à promoção de iniciativas de animação e de acção cultural sobre as actividades corporais dos Portugueses, num quadro histórico e antropológico.
 
 2 - O museu é dirigido por um professor, de entre os responsáveis pelas disciplinas curriculares da sua vocação, a designar pelo presidente do conselho directivo, sob proposta do conselho científico, pelo período de um ano, renovável por períodos de igual duração.
 
-###### Art. 19.º - 1 - Os serviços de apoio médico destinam-se ao exame preventivo, à consulta e ao tratamento dos estudantes e de todos os que expressamente estejam integrados em actividades dos cursos ministrados pelo ISEF, bem como em projectos de investigação ou em acções de extensão universitária desenvolvidos pela instituição.
+Art. 19.º - 1 - Os serviços de apoio médico destinam-se ao exame preventivo, à consulta e ao tratamento dos estudantes e de todos os que expressamente estejam integrados em actividades dos cursos ministrados pelo ISEF, bem como em projectos de investigação ou em acções de extensão universitária desenvolvidos pela instituição.
 
 2 - A direcção dos serviços de apoio médico incumbe a um professor da especialidade, a designar pelo presidente do conselho directivo, sob proposta do conselho científico.
 
-###### Art. 20.º - 1 - O serviço de meios áudio-visuais tem por fim a coordenação da utilização e manutenção do equipamento e dos suportes áudio-visuais de apoio ao ensino, à investigação e a actividades de extensão organizadas pelo ISEF, por si próprio ou em colaboração com outras entidades, e ainda a produção dos diferentes tipos de material didáctico indispensável ao seu funcionamento, bem como a organização e arquivo da videoteca, da filmoteca, da diapoteca e de outro material afim.
+Art. 20.º - 1 - O serviço de meios áudio-visuais tem por fim a coordenação da utilização e manutenção do equipamento e dos suportes áudio-visuais de apoio ao ensino, à investigação e a actividades de extensão organizadas pelo ISEF, por si próprio ou em colaboração com outras entidades, e ainda a produção dos diferentes tipos de material didáctico indispensável ao seu funcionamento, bem como a organização e arquivo da videoteca, da filmoteca, da diapoteca e de outro material afim.
 
 2 - O serviço de meios áudio-visuais é dirigido por um professor, a designar pelo presidente do conselho directivo, ouvidos os presidentes do conselho científico e do conselho pedagógico, pelo período de um ano, renovável por períodos de igual duração.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 21.º Os regimes de posse, titularidade e administração dos bens patrimoniais do ISEF são os previstos para os estabelecimentos universitários, nomeadamente, nos Decretos n.os 19848 e 18717, de 2 de Junho de 1931 e de 27 de Julho de 1930, respectivamente.
+Art. 21.º Os regimes de posse, titularidade e administração dos bens patrimoniais do ISEF são os previstos para os estabelecimentos universitários, nomeadamente, nos Decretos n.os 19848 e 18717, de 2 de Junho de 1931 e de 27 de Julho de 1930, respectivamente.
 
-###### Art. 22.º - 1 - Constituem receitas do ISEF:
+Art. 22.º - 1 - Constituem receitas do ISEF:
 
 a) As dotações consignadas no Orçamento do Estado a favor da instituição;
 
@@ -276,17 +348,17 @@ f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 23.º - 1 - O quadro do pessoal docente do ISEF será fixado por portaria dos Ministros das Finanças e da Educação, sob proposta do conselho científico, ouvido o reitor da Universidade Técnica de Lisboa.
+Art. 23.º - 1 - O quadro do pessoal docente do ISEF será fixado por portaria dos Ministros das Finanças e da Educação, sob proposta do conselho científico, ouvido o reitor da Universidade Técnica de Lisboa.
 
 2 - O quadro do pessoal de investigação é o constante do mapa I anexo ao presente diploma.
 
 3 - O quadro de pessoal dirigente, técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar é o constante do mapa II anexo ao presente diploma.
 
-###### Art. 24.º As formas de recrutamento e os regimes de provimento do pessoal docente são os previstos no Estatuto da Carreira Docente Universitária, publicado em anexo à [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e na legislação complementar.
+Art. 24.º As formas de recrutamento e os regimes de provimento do pessoal docente são os previstos no Estatuto da Carreira Docente Universitária, publicado em anexo à [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e na legislação complementar.
 
-###### Art. 25.º As formas de recrutamento e os regimes de provimento do pessoal de investigação são os previstos no [Decreto-Lei n.º 68/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1988-287589), de 3 de Março, e na legislação complementar.
+Art. 25.º As formas de recrutamento e os regimes de provimento do pessoal de investigação são os previstos no [Decreto-Lei n.º 68/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1988-287589), de 3 de Março, e na legislação complementar.
 
-###### Art. 26.º - 1 - Sem prejuízo do disposto para o pessoal dirigente, docente, de investigação, de informática e de enfermagem, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 26.º - 1 - Sem prejuízo do disposto para o pessoal dirigente, docente, de investigação, de informática e de enfermagem, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -304,7 +376,7 @@ a) No lugar de origem, quando à comissão não se seguir o provimento definitiv
 
 b) No lugar do quadro do Instituto em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 27.º - 1 - Ao recrutamento e selecção do pessoal é aplicável a lei geral, salvo o disposto nos números seguintes.
+Art. 27.º - 1 - Ao recrutamento e selecção do pessoal é aplicável a lei geral, salvo o disposto nos números seguintes.
 
 2 - O provimento do lugar de secretário será efectuado nos termos do artigo 3.º do [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro.
 
@@ -326,9 +398,9 @@ b) No lugar do quadro do Instituto em que vier a ser provido definitivamente, fi
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 28.º Enquanto não dispuser das instalações necessárias ao funcionamento integral das actividades curriculares e de extensão universitária, o ISEF utilizará as infra-estruturas do Vale do Jamor afectas ao Estádio Nacional, em regime de prioridade, sem prejuízo da salvaguarda das exigências de preparação das representações desportivas nacionais.
+Art. 28.º Enquanto não dispuser das instalações necessárias ao funcionamento integral das actividades curriculares e de extensão universitária, o ISEF utilizará as infra-estruturas do Vale do Jamor afectas ao Estádio Nacional, em regime de prioridade, sem prejuízo da salvaguarda das exigências de preparação das representações desportivas nacionais.
 
-###### Art. 29.º - 1 - A integração do pessoal actualmente em serviço no ISEF em lugares do quadro criados pelo presente diploma far-se-á, sem prejuízo do disposto na lei geral, de acordo com as seguintes regras:
+Art. 29.º - 1 - A integração do pessoal actualmente em serviço no ISEF em lugares do quadro criados pelo presente diploma far-se-á, sem prejuízo do disposto na lei geral, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -340,41 +412,41 @@ b) Para a categoria correspondente às funções que o funcionário ou agente ac
 
 4 - O tempo de serviço prestado na categoria que deu origem à transição conta como prestado na nova categoria, para efeitos de progressão na carreira, desde que as funções anteriormente exercidas correspondam às da categoria para que se operou a transição.
 
-###### Art. 30.º Durante três anos, a contar da data da publicação do presente diploma, os lugares de técnico-adjunto principal, de 1.ª classe e de 2.ª classe serão providos de entre funcionários da mesma classe da carreira de técnico auxiliar, providos em lugares constantes do quadro de pessoal do Instituto, que reúnam, cumulativamente, os seguintes requisitos:
+Art. 30.º Durante três anos, a contar da data da publicação do presente diploma, os lugares de técnico-adjunto principal, de 1.ª classe e de 2.ª classe serão providos de entre funcionários da mesma classe da carreira de técnico auxiliar, providos em lugares constantes do quadro de pessoal do Instituto, que reúnam, cumulativamente, os seguintes requisitos:
 
 a) Curso complementar do ensino secundário;
 
 b) Frequência, com aproveitamento, de um curso de formação profissional adequado, aprovado por despacho conjunto dos Ministros das Finanças e da Educação.
 
-###### Art. 31.º É subsidiariamente aplicável ao ISEF a legislação geral em vigor para as universidades, em tudo o que não for contrariado pelo presente diploma.
+Art. 31.º É subsidiariamente aplicável ao ISEF a legislação geral em vigor para as universidades, em tudo o que não for contrariado pelo presente diploma.
 
-###### Art. 32.º - 1 - É revogado o [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, em tudo o que respeite ao Instituto Superior de Educação Física, da Universidade Técnica de Lisboa.
+Art. 32.º - 1 - É revogado o [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, em tudo o que respeite ao Instituto Superior de Educação Física, da Universidade Técnica de Lisboa.
 
 2 - É revogado o [Decreto-Lei n.º 382/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1986-220875), de 14 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 12 de Abril de 1988.**
+Promulgado em 12 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1988.**
+Referendado em 15 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Quadro do pessoal de Investigação a que se refere o n.º 2 do artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09900/17331739.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09900/17331739.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09900/17331739.pdf)
 
 MAPA II
 
 Quadro do pessoal a que se refere o n.º 3 do artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09900/17331739.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09900/17331739.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09900/17331739.pdf)
 
 ## Anexo — Descrições dos conteúdos funcionais de carreiras técnico-profissionais
 

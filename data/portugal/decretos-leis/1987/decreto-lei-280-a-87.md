@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 162/1987, 3º Suplemento, Série I de 1987-07-17
   number: '162'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2836-(8) a 2836-(105)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 919e173996fefe302b758f0f1e97b47fd53bba8ef2ad2c6812f73607f3944371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1003016ffcccac56ed1f76cabe49b9ce929501f61745177be7dd7347ea1f2ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Embalagem
+- Etiquetagem
+- Notificação
+- Produto Químico
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:223464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285131:por
+  label: "Alterados os anexos I, IV e VI-D pelo DEC LEI.124/88.20.04.1988.MPLAT, DR.IS [92] de 20.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1988-285131
+  date: '1988-04-20'
+- type: amended_by
+  target: pt:dre:244740:por
+  label: "Alterados os anexos I (alterado pelos Dec Lei 124/88 de 20-Abr) II e V pelo DEC LEI.46-A/89.20.02.1989.MPAT, DR.IS\
+    \ [42-Supl] de 20.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-a-1989-244740
+  date: '1989-02-20'
+- type: amended_by
+  target: pt:dre:573097:por
+  label: "Aditada a nota F ao anexo I e alterado o mesmo anexo pelo DEC LEI.247/90.30.07.1990.MARN, DR.IS [174] de 30.07.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1990-573097
+  date: '1990-07-30'
+- type: corrected_by
+  target: pt:dre:482403:por
+  label: Rectificado pela DECL.DD4231.04.11.1987.PCM, DR.IS [276]Supl de 30.11.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-482403
+  date: '1987-11-04'
+- type: repealed_by
+  target: pt:dre:223464:por
+  label: "Revogado pelo DEC LEI.82/95.22.04.1995.MARN, DR.IS-A [95] de 22.04.1995, a partir da entrada em vigor da portaria\
+    \ a que se refere o art. 4º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1995-223464
+  date: '1995-04-22'
 article_structure:
   article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:41Z'
   warnings: []
   errors: []
 ---
@@ -481,7 +515,7 @@ c) A obrigação do símbolo E torna facultativos os símbolos F e O.
 
 2 - As dimensões do rótulo devem, se possível, ser as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf)
 
 3 - Cada símbolo deve ocupar, no mínimo, um décimo da área do rótulo, sem, contudo, ser inferior a 1 cm2.
 
@@ -561,14 +595,14 @@ O presente diploma entra em vigor:
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 15 de Maio de 1987.**
+Promulgado em 15 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16203/00080105.pdf)

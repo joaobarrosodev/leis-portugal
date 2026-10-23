@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1988-373594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36f7b52d99b835d4b8e99acefe6d668c8af352267b8ae6affb083b8c55c82198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b95f409a61e0583ba7d7ea454116ba8641e9c8680731094f97eb1caeffd5b88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- CECA
+- Cessação do Contrato de Trabalho
+- Contrato de Trabalho
+- Definição de Competências
+- Desemprego
+- Formação Profissional
+- Indemnização
+- Instituto do Emprego e Formação Profissional
+- Posto de Trabalho
+- Prestação de Pré-reforma
+- Prestações da Segurança Social
+- Proteção Social
+- Reforma Antecipada
+- Segurança Social
+- Subsídio de Desemprego
 relationships:
 - type: amended_by
   target: pt:dre:612416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612416:por
+  label: Alterado o art. 38.º pelo(a) Decreto-Lei n.º 58/89 - Diário da República n.º 44/1989, Série I de 1989-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1989-612416
+  date: '1989-02-22'
+- type: corrected_by
+  target: pt:dre:239383:por
+  label: Rectificado [no referente ao art. 35º] pela DECL.DD4145.1988.08.19.PCM DR.IS [201]Supl de 31.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-239383
+  date: '1988-08-19'
 article_structure:
   article_count: 39
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:48Z'
   warnings: []
   errors: []
 ---
@@ -358,12 +384,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - José Albino da Silva Peneda.
 
-**Promulgado em 12 de Abril de 1988.**
+Promulgado em 12 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1988.**
+Referendado em 15 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

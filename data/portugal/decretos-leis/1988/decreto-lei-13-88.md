@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c83b6418a9495d5353f8f6414fae4139f8f1090a22602587e8b24ba53a8fbfde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cafbf59967b1610917c4c87f76a5942eef0a1f1762aa936b33bbaf7ce14a0687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:565269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:179871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324937:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565269:por
+  label: Revogado o art. 64.º do Dec Lei 81/85 de 28-Mar, com a redacção dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    398/90 - Diário da República n.º 284/1990, Série I de 1990-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1990-565269
+  date: '1990-12-11'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:23Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +126,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro previsto no artigo 62.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, posteriormente alterado pelo artigo 1.º do [Decreto-Lei n.º 310/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871), de 30 de Julho, passa a ser o seguinte:
+Artigo 1.º O quadro previsto no artigo 62.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, posteriormente alterado pelo artigo 1.º do [Decreto-Lei n.º 310/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871), de 30 de Julho, passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01200/01300131.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01200/01300131.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01200/01300131.pdf)
 
-###### Art. 2.º O valor estatutário da pensão mensal, a que se refere o quadro previsto no artigo anterior, será futuramente fixado por portaria conjunta do Primeiro-Ministro, do Ministro das Finanças e do Ministro do Emprego e da Segurança Social.
+Art. 2.º O valor estatutário da pensão mensal, a que se refere o quadro previsto no artigo anterior, será futuramente fixado por portaria conjunta do Primeiro-Ministro, do Ministro das Finanças e do Ministro do Emprego e da Segurança Social.
 
-###### Art. 3.º O valor das pensões estatutárias do regime especial de segurança social das actividades agrícolas, quando referentes a beneficiários em situação de interrupção de contribuições, corresponde ao que lhe deve ser atribuído no ano do início da pensão.
+Art. 3.º O valor das pensões estatutárias do regime especial de segurança social das actividades agrícolas, quando referentes a beneficiários em situação de interrupção de contribuições, corresponde ao que lhe deve ser atribuído no ano do início da pensão.
 
-###### Art. 4.º O artigo 64.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, passa a ter a seguinte redacção:
+Art. 4.º O artigo 64.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 64.º — Pensões de sobrevivência
 
@@ -126,12 +142,12 @@ Sempre que haja lugar à acumulação de pensão de sobrevivência do regime esp
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

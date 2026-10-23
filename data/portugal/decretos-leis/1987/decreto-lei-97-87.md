@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05200/09120913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1987-662485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c214cdc55a9667f4b9046d542776ecfa80f2d9f6253c7895b64692b7c5e62be3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1e5bdd59c128d0de6aba8d75f69e44917f1b4a958967582852e7615234cec7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cadastro Industrial
+- Estabelecimento Industrial
+- Registo Obrigatório
 relationships:
 - type: amended_by
   target: pt:dre:540665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540665:por
+  label: "Revogado o presente diploma, a partir da entrada em vigor do Dec Lei.174/2006.25.08.2006.MEI, DR.IS [164] de 25.08.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2006-540665
+  date: '2006-08-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:52Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +120,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O cadastro dos estabelecimentos industriais existentes no País será organizado pela Direcção-Geral da Indústria (DGI), tendo por base o registo obrigatório previsto neste diploma.
+Artigo 1.º - 1 - O cadastro dos estabelecimentos industriais existentes no País será organizado pela Direcção-Geral da Indústria (DGI), tendo por base o registo obrigatório previsto neste diploma.
 
 2 - O registo destina-se a fixar a actividade ou actividades económicas a que cada estabelecimento industrial está afecto.
 
-###### Art. 2.º Para os efeitos decorrentes do presente diploma, entende-se por estabelecimento industrial todo aquele que for abrangido pelo regime de autorização nos termos do Regulamento de Instalação e Laboração dos Estabelecimentos Industriais em vigor, aprovado pelo [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966.
+Art. 2.º Para os efeitos decorrentes do presente diploma, entende-se por estabelecimento industrial todo aquele que for abrangido pelo regime de autorização nos termos do Regulamento de Instalação e Laboração dos Estabelecimentos Industriais em vigor, aprovado pelo [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966.
 
-###### Art. 3.º - 1 - É objecto de registo obrigatório, para efeito de cadastro industrial:
+Art. 3.º - 1 - É objecto de registo obrigatório, para efeito de cadastro industrial:
 
 a) A instalação de todos os estabelecimentos industriais;
 
@@ -127,36 +144,36 @@ c) A alteração da actividade industrial desenvolvida.
 
 6 - O registo previsto neste artigo não concede direitos no que se refere ao acesso à actividade industrial.
 
-###### Art. 4.º - 1 - Todos os estabelecimentos industriais já instalados à data da entrada em vigor deste diploma deverão ser registados no período que decorre entre 30 dias e 120 dias após aquela data.
+Art. 4.º - 1 - Todos os estabelecimentos industriais já instalados à data da entrada em vigor deste diploma deverão ser registados no período que decorre entre 30 dias e 120 dias após aquela data.
 
 2 - Consideram-se como anos de referência, para os dados a apresentar pelos estabelecimentos referidos no n.º 1 deste artigo, os anos de 1983, 1984 e 1985.
 
 3 - De três em três anos, independentemente do disposto no n.º 1 do artigo 3.º, e nas condições a regulamentar por portaria dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, deverá ser efectuada a actualização do registo de todos os estabelecimentos industriais.
 
-###### Art. 5.º Após a organização do cadastro industrial, a DGI obriga-se a fornecer ao Instituto Nacional de Estatística o ficheiro de base, bem como as respectivas actualizações.
+Art. 5.º Após a organização do cadastro industrial, a DGI obriga-se a fornecer ao Instituto Nacional de Estatística o ficheiro de base, bem como as respectivas actualizações.
 
-###### Art. 6.º A fiscalização do cumprimento do disposto no presente diploma cabe à DGI, que poderá delegar a sua competência nas delegações regionais do MIC.
+Art. 6.º A fiscalização do cumprimento do disposto no presente diploma cabe à DGI, que poderá delegar a sua competência nas delegações regionais do MIC.
 
-###### Art. 7.º - 1 - A inobservância do disposto no presente diploma constitui contra-ordenação, punível com coima cujo valor se situará entre 2000$00 e 500000$00 e que será graduada em função da dimensão do estabelecimento e da actividade nele exercida.
+Art. 7.º - 1 - A inobservância do disposto no presente diploma constitui contra-ordenação, punível com coima cujo valor se situará entre 2000$00 e 500000$00 e que será graduada em função da dimensão do estabelecimento e da actividade nele exercida.
 
 2 - A negligência é punível.
 
 3 - As coimas previstas no n.º 1 serão aplicadas pelo director-geral da Indústria, podendo este delegar essa competência, total ou parcialmente, nos dirigentes das delegações regionais do MIC.
 
-###### Art. 8.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações.
+Art. 8.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações.
 
-###### Art. 9.º São revogados os artigos 3.º, 4.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 519-I1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-i1-1979-157059), de 29 de Dezembro.
+Art. 9.º São revogados os artigos 3.º, 4.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 519-I1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-i1-1979-157059), de 29 de Dezembro.
 
-###### Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 11 de Fevereiro de 1987.**
+Promulgado em 11 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1987.**
+Referendado em 18 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

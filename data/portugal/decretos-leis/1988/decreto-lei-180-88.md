@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1988-374776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8797041df9ad871bb01f56c574011591e9b6efa05019488c210eca59b4c16e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e5688f04b488233fef64ef13b90b21bfa7f15e29938c739c8e22497a8d2efce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Comércio Externo
+- Declaração de Exportação
+- Exportação
 relationships:
 - type: amended_by
   target: pt:dre:556803:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:239384:por
+  label: Rectificado pela DECL.DD4146.1988.08.01.PCM DR.IS [201]SUPL DE 31/AGO/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-239384
+  date: '1988-08-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:15Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +109,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º - 1 - O presente diploma visa regular a exportação de mercadorias do território aduaneiro nacional quando forem enviadas, por qualquer via, para um Estado membro da Comunidade Europeia ou para um país terceiro, bem como para outros destinos equiparados a uma exportação, sem prejuízo das disposições adoptadas no âmbito da política agrícola comum.
+Artigo 1.º - 1 - O presente diploma visa regular a exportação de mercadorias do território aduaneiro nacional quando forem enviadas, por qualquer via, para um Estado membro da Comunidade Europeia ou para um país terceiro, bem como para outros destinos equiparados a uma exportação, sem prejuízo das disposições adoptadas no âmbito da política agrícola comum.
 
 2 - Consideram-se destinos assimilados a uma exportação as seguintes operações:
 
@@ -118,7 +127,7 @@ d) Quaisquer outros destinos assimilados a uma exportação por disposição leg
 
 5 - Consideram-se também como efectivamente exportadas as mercadorias que, depois de cumpridas as formalidades aduaneiras de exportação, forem colocadas a coberto dos regimes aduaneiros de entreposto ou de zona franca.
 
-###### Art. 2.º - 1 - Para efeitos da aplicação do presente diploma, entende-se por:
+Art. 2.º - 1 - Para efeitos da aplicação do presente diploma, entende-se por:
 
 a) Exportação: a expedição de mercadorias para outro Estado membro, bem como a exportação definitiva ou temporária ou a reexportação de mercadorias do território aduaneiro da Comunidade;
 
@@ -134,13 +143,13 @@ e) Código das mercadorias: o conjunto formado pelos algarismos correspondentes 
 
 ### CAPÍTULO II — Declaração de exportação
 
-###### Art. 3.º A exportação do território aduaneiro nacional, referida no n.º 1 do artigo 1.º, está subordinada à entrega numa estância aduaneira, nas condições definidas no presente diploma, de uma declaração de exportação, adiante denominada apenas como declaração.
+Art. 3.º A exportação do território aduaneiro nacional, referida no n.º 1 do artigo 1.º, está subordinada à entrega numa estância aduaneira, nas condições definidas no presente diploma, de uma declaração de exportação, adiante denominada apenas como declaração.
 
-###### Art. 4.º - 1 - A declaração deve ser feita por escrito nos formulários comunitários previstos nos Regulamentos (CEE) n.os [678/85](http://data.europa.eu/eli/reg/1985/678/oj?locale=pt) do Conselho, de 18 de Fevereiro de 1985, e [1900/85](http://data.europa.eu/eli/reg/1985/1900/oj?locale=pt) do Conselho, de 8 de Julho de 1985.
+Art. 4.º - 1 - A declaração deve ser feita por escrito nos formulários comunitários previstos nos Regulamentos (CEE) n.os [678/85](http://data.europa.eu/eli/reg/1985/678/oj?locale=pt) do Conselho, de 18 de Fevereiro de 1985, e [1900/85](http://data.europa.eu/eli/reg/1985/1900/oj?locale=pt) do Conselho, de 8 de Julho de 1985.
 
 2 - A declaração deve ser assinada, conter os elementos e ser acompanhada dos documentos necessários à identificação das mercadorias, ao cálculo dos direitos de exportação e à aplicação das demais disposições que regulam a exportação das mercadorias em causa.
 
-###### Art. 5.º Os elementos exigidos no n.º 2 do artigo anterior são os seguintes:
+Art. 5.º Os elementos exigidos no n.º 2 do artigo anterior são os seguintes:
 
 a) O nome, a morada e o código de identificação da entidade habilitada a despachar;
 
@@ -176,7 +185,7 @@ q) O número de série precedido da ou das letras indicadoras do organismo de em
 
 r) A enumeração dos documentos juntos à declaração.
 
-###### Art. 6.º - 1 - Devem ser juntos ou apresentados com a declaração, para efeitos do disposto no n.º 2 do artigo 4.º, os seguintes documentos:
+Art. 6.º - 1 - Devem ser juntos ou apresentados com a declaração, para efeitos do disposto no n.º 2 do artigo 4.º, os seguintes documentos:
 
 a) A factura comercial;
 
@@ -192,7 +201,7 @@ d) A lista de volumes ou documento equivalente indicando o conteúdo de cada um 
 
 4 - No caso previsto no número anterior, os serviços aduaneiros tomarão as disposições necessárias para que os documentos em causa só possam ser utilizados posteriormente para a quantidade ou valor para que permaneçam válidos.
 
-###### Art. 7.º - 1 - Quando o declarante se não achar habilitado a preencher a declaração no que respeita à descrição das mercadorias, e desde que estas se encontrem sujeitas a controle aduaneiro, pode requerer o exame prévio ou a extracção de amostras, mediante pedido escrito.
+Art. 7.º - 1 - Quando o declarante se não achar habilitado a preencher a declaração no que respeita à descrição das mercadorias, e desde que estas se encontrem sujeitas a controle aduaneiro, pode requerer o exame prévio ou a extracção de amostras, mediante pedido escrito.
 
 2 - O pedido referido no número anterior deverá ser formulado em impresso próprio e conter os seguintes elementos:
 
@@ -204,15 +213,15 @@ c) A quantidade, qualidade, marcas e números dos volumes, o peso bruto e a desi
 
 d) O local onde se encontram as mercadorias.
 
-###### Art. 8.º - 1 - O exame prévio ou a extracção de amostras são autorizados pelo chefe da estância aduaneira na qual as mercadorias tenham sido consideradas apresentadas, nos termos do artigo 10.º, indicando-se, no caso de uma extracção de amostras, as quantidades a extrair.
+Art. 8.º - 1 - O exame prévio ou a extracção de amostras são autorizados pelo chefe da estância aduaneira na qual as mercadorias tenham sido consideradas apresentadas, nos termos do artigo 10.º, indicando-se, no caso de uma extracção de amostras, as quantidades a extrair.
 
 2 - O exame prévio ou a extracção de amostras são efectuados sob controle da estância aduaneira, sendo as manipulações das mercadorias feitas sob a responsabilidade e a expensas do declarante.
 
-###### Art. 9.º As amostras extraídas ficam sujeitas ao estabelecido nos artigos 24.º e 25.º
+Art. 9.º As amostras extraídas ficam sujeitas ao estabelecido nos artigos 24.º e 25.º
 
 ### CAPÍTULO III — Apresentação às alfândegas
 
-###### Art. 10.º - 1 - As mercadorias a exportar devem ser apresentadas nas estâncias aduaneiras competentes para o cumprimento das formalidades de exportação a elas referentes, a designar por despacho do director-geral das Alfândegas, ou em outro local designado ou aprovado pelas autoridades aduaneiras para esse efeito.
+Art. 10.º - 1 - As mercadorias a exportar devem ser apresentadas nas estâncias aduaneiras competentes para o cumprimento das formalidades de exportação a elas referentes, a designar por despacho do director-geral das Alfândegas, ou em outro local designado ou aprovado pelas autoridades aduaneiras para esse efeito.
 
 2 - Consideram-se apresentadas numa estância aduaneira as mercadorias cuja presença no recinto dessa estância ou num outro local designado ou aprovado pelos serviços aduaneiros tenha sido comunicada a estes últimos, nas formas regulamentares, a fim de lhes permitir assegurar a fiscalização ou o controle das mercadorias.
 
@@ -220,21 +229,21 @@ d) O local onde se encontram as mercadorias.
 
 ### CAPÍTULO IV — Entrega da declaração
 
-###### Art. 11.º - 1 - A declaração deve ser entregue na estância aduaneira competente para a realização da exportação, durante o respectivo horário normal de funcionamento e após apresentação das mercadorias nessa estância, ou num dos locais referidos no artigo anterior.
+Art. 11.º - 1 - A declaração deve ser entregue na estância aduaneira competente para a realização da exportação, durante o respectivo horário normal de funcionamento e após apresentação das mercadorias nessa estância, ou num dos locais referidos no artigo anterior.
 
 2 - A pedido e expensas do declarante, pode a declaração ser entregue fora do horário normal de funcionamento da estância aduaneira referida no número anterior.
 
 3 - É equiparada à entrega da declaração numa estância aduaneira a entrega dessa declaração aos funcionários da referida estância num outro local designado para esse efeito no âmbito de acordos celebrados entre os serviços aduaneiros e o interessado.
 
-###### Art. 12.º - 1 - Em derrogação do disposto no artigo anterior, a declaração poderá ser entregue antes de as mercadorias serem apresentadas, sendo, nesse caso, fixado pelo chefe da estância aduaneira um prazo não inferior a cinco dias úteis para aquela apresentação, determinado em função das circunstâncias de cada caso.
+Art. 12.º - 1 - Em derrogação do disposto no artigo anterior, a declaração poderá ser entregue antes de as mercadorias serem apresentadas, sendo, nesse caso, fixado pelo chefe da estância aduaneira um prazo não inferior a cinco dias úteis para aquela apresentação, determinado em função das circunstâncias de cada caso.
 
 2 - Ultrapassado o prazo fixado no número anterior, a declaração será considerada como não tendo sido entregue.
 
-###### Art. 13.º O disposto nos artigos 10.º a 12.º não obsta à aplicação de proibições ou restrições justificadas por razões de moralidade, de ordem e de segurança públicas, de protecção da saúde e da vida das pessoas e dos animais ou de preservação das plantas, de protecção do património nacional com valor artístico, histórico ou arqueológico ou de protecção da propriedade industrial ou comercial.
+Art. 13.º O disposto nos artigos 10.º a 12.º não obsta à aplicação de proibições ou restrições justificadas por razões de moralidade, de ordem e de segurança públicas, de protecção da saúde e da vida das pessoas e dos animais ou de preservação das plantas, de protecção do património nacional com valor artístico, histórico ou arqueológico ou de protecção da propriedade industrial ou comercial.
 
 ### CAPÍTULO V — Aceitação da declaração
 
-###### Art. 14.º - 1 - As declarações que, nos termos dos artigos 5.º e 6.º, contenham todos os elementos e às quais tenham sido juntos todos os documentos necessários à realização da exportação serão, após efectivado o controle de aceitação previsto no número seguinte, imediatamente aceites e numeradas.
+Art. 14.º - 1 - As declarações que, nos termos dos artigos 5.º e 6.º, contenham todos os elementos e às quais tenham sido juntos todos os documentos necessários à realização da exportação serão, após efectivado o controle de aceitação previsto no número seguinte, imediatamente aceites e numeradas.
 
 2 - Para efeitos do disposto no número anterior, entende-se por controle de aceitação o conjunto de operações destinadas a averiguar se nada obsta à aceitação da declaração, incidindo, designadamente, sobre a competência da estância aduaneira, a habilitação do declarante para despachar, os requisitos de forma relativos à declaração, os elementos declarados e a apresentação ou junção à declaração dos documentos cuja entrega ou apresentação seja obrigatória.
 
@@ -242,7 +251,7 @@ d) O local onde se encontram as mercadorias.
 
 4 - Todavia, quando, em aplicação do n.º 1 do artigo 12.º, uma declaração for entregue antes de as mercadorias a que se refere terem sido apresentadas na estância aduaneira ou num outro local designado pelos serviços aduaneiros, tal declaração só poderá ser aceite depois da apresentação das mercadorias aos serviços aduaneiros competentes na acepção do n.º 1 do artigo 10.º
 
-###### Art. 15.º - 1 - A pedido do declarante, podem as declarações aceites nos termos do artigo 14.º ser rectificadas relativamente a um ou mais dos elementos referidos no n.º 1 do artigo 5.º, desde que:
+Art. 15.º - 1 - A pedido do declarante, podem as declarações aceites nos termos do artigo 14.º ser rectificadas relativamente a um ou mais dos elementos referidos no n.º 1 do artigo 5.º, desde que:
 
 a) A rectificação tenha sido pedida antes de as mercadorias terem deixado a estância aduaneira ou o local designado para esse efeito, salvo se esse pedido incidir sobre elementos cuja exactidão os serviços aduaneiros tenham a possibilidade de verificar mesmo na ausência das mercadorias;
 
@@ -256,7 +265,7 @@ a) Correcção, na própria declaração, do elemento ou elementos em causa;
 
 b) A entrega de uma nova declaração destinada a substituir a original e considerando-se a data de aceitação desta para efeitos do disposto no artigo 28.º
 
-###### Art. 16.º - 1 - O chefe da estância aduaneira, a pedido do declarante, autorizará a anulação de uma declaração já aceite, desde que o pedido tenha sido formulado antes da saída da mercadoria do território aduaneiro nacional.
+Art. 16.º - 1 - O chefe da estância aduaneira, a pedido do declarante, autorizará a anulação de uma declaração já aceite, desde que o pedido tenha sido formulado antes da saída da mercadoria do território aduaneiro nacional.
 
 2 - Todavia, quando os serviços aduaneiros tiverem informado o declarante da sua intenção de proceder a um exame das mercadorias a que a declaração se refere, o pedido de anulação só se poderá efectuar depois de realizado esse exame.
 
@@ -282,15 +291,15 @@ d) Se for caso disso, e em conformidade com as disposições em vigor, satisfize
 
 #### SECÇÃO I — Conferência da declaração e dos documentos e exame das mercadorias
 
-###### Art. 17.º Sem prejuízo do controle de aceitação previsto no artigo 14.º, os serviços aduaneiros procederão, nos termos das disposições regulamentares aplicáveis, à conferência da declaração e dos documentos e, se for caso disso, ao exame de toda ou de parte das mercadorias, consoante os casos, para efeitos do controle da declaração.
+Art. 17.º Sem prejuízo do controle de aceitação previsto no artigo 14.º, os serviços aduaneiros procederão, nos termos das disposições regulamentares aplicáveis, à conferência da declaração e dos documentos e, se for caso disso, ao exame de toda ou de parte das mercadorias, consoante os casos, para efeitos do controle da declaração.
 
-###### Art. 18.º - 1 - Quando, para os fins previstos no artigo anterior, haja que se proceder ao exame das mercadorias, será o mesmo efectuado nos locais e durante as horas previstas para o efeito.
+Art. 18.º - 1 - Quando, para os fins previstos no artigo anterior, haja que se proceder ao exame das mercadorias, será o mesmo efectuado nos locais e durante as horas previstas para o efeito.
 
 2 - A pedido do declarante, podem os serviços aduaneiros autorizar o exame das mercadorias em locais ou durante horas diferentes das acima referidas, sendo as despesas daí resultantes suportadas pelo declarante.
 
 3 - O transporte das mercadorias para os locais onde se deva proceder ao exame, à embalagem, à reembalagem e a todas as outras manipulações necessárias para esse exame será efectuado pelo declarante ou sob a sua responsabilidade, ficando a seu cargo as despesas que daí resultem.
 
-###### Art. 19.º - 1 - Quando, para os fins previstos no artigo 17.º, haja lugar ao exame das mercadorias, o declarante tem o direito de assistir a esse exame ou de se fazer representar.
+Art. 19.º - 1 - Quando, para os fins previstos no artigo 17.º, haja lugar ao exame das mercadorias, o declarante tem o direito de assistir a esse exame ou de se fazer representar.
 
 2 - Quando, para os mesmos fins, os serviços aduaneiros exigirem que o declarante assista ao exame ou se faça representar, informarão dessa decisão o declarante ou o seu representante.
 
@@ -302,11 +311,11 @@ d) Se for caso disso, e em conformidade com as disposições em vigor, satisfize
 
 6 - As conclusões a que as autoridades aduaneiras chegarem aquando do exame realizado nas condições referidas no número anterior farão fé como se este tivesse sido realizado na presença do declarante.
 
-###### Art. 20.º - 1 - Caso os serviços aduaneiros decidam proceder ao exame de apenas uma parte das mercadorias declaradas, indicarão, sem que o declarante possa opor-se a essa escolha, quais as que pretendem examinar.
+Art. 20.º - 1 - Caso os serviços aduaneiros decidam proceder ao exame de apenas uma parte das mercadorias declaradas, indicarão, sem que o declarante possa opor-se a essa escolha, quais as que pretendem examinar.
 
 2 - Sem prejuízo do direito reconhecido ao declarante de exigir que o exame incida sobre a totalidade das mercadorias objecto da declaração quando considerar que os resultados parciais obtidos não são válidos para o resto das mercadorias declaradas, os resultados do exame realizado nas condições previstas no número anterior são extensivos à totalidade das mercadorias declaradas.
 
-###### Art. 21.º - 1 - Quando os serviços aduaneiros tiverem procedido à conferência da declaração e dos documentos que a acompanham ou ao exame das mercadorias, indicarão, pelo menos no exemplar da declaração a eles destinado ou num documento junto, os elementos que foram objecto dessa conferência ou desse exame, bem como os seus resultados.
+Art. 21.º - 1 - Quando os serviços aduaneiros tiverem procedido à conferência da declaração e dos documentos que a acompanham ou ao exame das mercadorias, indicarão, pelo menos no exemplar da declaração a eles destinado ou num documento junto, os elementos que foram objecto dessa conferência ou desse exame, bem como os seus resultados.
 
 2 - Em caso de exame parcial das mercadorias, serão também indicadas as referências dos volumes examinados.
 
@@ -320,7 +329,7 @@ d) Se for caso disso, e em conformidade com as disposições em vigor, satisfize
 
 #### SECÇÃO II — Extracção de amostras
 
-###### Art. 22.º - 1 - Durante o exame das mercadorias podem os serviços aduaneiros extrair amostras para análise ou controle aprofundado das mercadorias objecto da declaração, informando desse facto o declarante ou o seu representante.
+Art. 22.º - 1 - Durante o exame das mercadorias podem os serviços aduaneiros extrair amostras para análise ou controle aprofundado das mercadorias objecto da declaração, informando desse facto o declarante ou o seu representante.
 
 2 - As despesas ocasionadas pela análise ou controle referidos no número anterior são suportadas pela administração aduaneira.
 
@@ -332,19 +341,19 @@ d) Se for caso disso, e em conformidade com as disposições em vigor, satisfize
 
 6 - Em caso de recusa do declarante em assistir à extracção das amostras ou em designar outra pessoa para o fim previsto no número anterior, ou, ainda, caso não preste toda a assistência necessária com vista a facilitar a operação, aplicar-se-á o disposto nos n.os 4 e 5 do artigo 19.º
 
-###### Art. 23.º - 1 - As extracções serão efectuadas pelos próprios serviços aduaneiros, podendo estes, no entanto, pedir que sejam efectuadas, sob o seu controle, pelo declarante ou por uma pessoa por ele designada.
+Art. 23.º - 1 - As extracções serão efectuadas pelos próprios serviços aduaneiros, podendo estes, no entanto, pedir que sejam efectuadas, sob o seu controle, pelo declarante ou por uma pessoa por ele designada.
 
 2 - As extracções serão efectuadas de acordo com os métodos previstos para esse efeito pelas disposições em vigor.
 
 3 - As quantidades a extrair não devem exceder as necessárias para permitir a análise ou o controle aprofundado, incluindo uma eventual contra-análise.
 
-###### Art. 24.º Quando os serviços aduaneiros tenham extraído amostras para análise e controle aprofundado, autorizarão a exportação das mercadorias em causa sem esperar pelos resultados dessa análise ou desse controle, salvo se existirem outros motivos que o impeçam, aplicando-se, neste caso, o disposto no artigo 31.º
+Art. 24.º Quando os serviços aduaneiros tenham extraído amostras para análise e controle aprofundado, autorizarão a exportação das mercadorias em causa sem esperar pelos resultados dessa análise ou desse controle, salvo se existirem outros motivos que o impeçam, aplicando-se, neste caso, o disposto no artigo 31.º
 
-###### Art. 25.º - 1 - As quantidades extraídas pelos serviços aduaneiros a título de amostra não são deduzidas da quantidade de mercadoria declarada.
+Art. 25.º - 1 - As quantidades extraídas pelos serviços aduaneiros a título de amostra não são deduzidas da quantidade de mercadoria declarada.
 
 2 - Quando as circunstâncias o permitirem, o declarante pode ser autorizado a substituir as quantidades de mercadoria retiradas a título de amostra por mercadorias idênticas, a fim de completar a remessa.
 
-###### Art. 26.º - 1 - Salvo se forem inutilizadas pela análise ou pelo controle efectuados, as amostras extraídas serão restituídas ao declarante, a seu pedido e a expensas suas, desde que a sua conservação pelos serviços aduaneiros se mostre desnecessária, nomeadamente quando se tenham esgotado as possibilidades de recurso do declarante contra as decisões tomadas em processo técnico pelo tribunal competente com fundamento nos resultados dessa análise ou controle aprofundado.
+Art. 26.º - 1 - Salvo se forem inutilizadas pela análise ou pelo controle efectuados, as amostras extraídas serão restituídas ao declarante, a seu pedido e a expensas suas, desde que a sua conservação pelos serviços aduaneiros se mostre desnecessária, nomeadamente quando se tenham esgotado as possibilidades de recurso do declarante contra as decisões tomadas em processo técnico pelo tribunal competente com fundamento nos resultados dessa análise ou controle aprofundado.
 
 2 - As amostras cuja restituição não tenha sido requerida pelo declarante podem ser quer inutilizadas, quer conservadas para facilitar o exame pelos serviços aduaneiros de operações posteriores.
 
@@ -352,23 +361,23 @@ d) Se for caso disso, e em conformidade com as disposições em vigor, satisfize
 
 ### CAPÍTULO VII — Liquidação e cobrança dos encargos devidos
 
-###### Art. 27.º - 1 - O resultado da conferência da declaração e dos documentos, acompanhada ou não do exame das mercadorias, servirá de base para o cálculo dos direitos de exportação ou das restituições e de outros montantes previstos na exportação e para a aplicação de todas as outras disposições comunitárias que regulem a exportação das mercadorias.
+Art. 27.º - 1 - O resultado da conferência da declaração e dos documentos, acompanhada ou não do exame das mercadorias, servirá de base para o cálculo dos direitos de exportação ou das restituições e de outros montantes previstos na exportação e para a aplicação de todas as outras disposições comunitárias que regulem a exportação das mercadorias.
 
 2 - Quando não se proceder nem à conferência da declaração e dos documentos nem ao exame das mercadorias, esse cálculo e essa aplicação efectuar-se-ão em conformidade com os elementos da declaração.
 
 3 - O disposto no n.º 1 não obsta a que sejam efectuados controles posteriores pelos serviços aduaneiros nem às consequências que daí possam resultar por aplicação das disposições em vigor, particularmente no que respeita a uma modificação do montante dos direitos de exportação aplicados a essas mercadorias ou das restituições ou de outros montantes na exportação que tenham sido concedidos.
 
-###### Art. 28.º A data da aceitação da declaração é a data a considerar para:
+Art. 28.º A data da aceitação da declaração é a data a considerar para:
 
 a) A determinação das taxas ou dos montantes dos direitos de exportação a que estejam eventualmente sujeitas as mercadorias, bem como dos outros elementos necessários para o cálculo desses direitos;
 
 b) A aplicação das outras disposições comunitárias que regulem a exportação das mercadorias.
 
-###### Art. 29.º Sem prejuízo das modificações susceptíveis de ocorrer por aplicação do n.º 3 do artigo 27.º, o montante dos direitos de exportação determinado pelos serviços aduaneiros será por eles liquidado e registado segundo as formalidades administrativas previstas para esse efeito e comunicado, à escolha desses serviços, ao declarante ou à pessoa que o representa.
+Art. 29.º Sem prejuízo das modificações susceptíveis de ocorrer por aplicação do n.º 3 do artigo 27.º, o montante dos direitos de exportação determinado pelos serviços aduaneiros será por eles liquidado e registado segundo as formalidades administrativas previstas para esse efeito e comunicado, à escolha desses serviços, ao declarante ou à pessoa que o representa.
 
 ### CAPÍTULO VIII — Autorização de exportação das mercadorias
 
-###### Art. 30.º - 1 - A autorização de exportação é concedida globalmente quanto à totalidade das mercadorias objecto da declaração.
+Art. 30.º - 1 - A autorização de exportação é concedida globalmente quanto à totalidade das mercadorias objecto da declaração.
 
 2 - Quando a indicação da data da autorização de exportação for necessária para assegurar o respeito pelas disposições aplicáveis às mercadorias objecto da declaração, os serviços aduaneiros poderão proceder à respectiva aposição, quer na própria declaração, quer em qualquer outro documento apropriado.
 
@@ -376,7 +385,7 @@ b) A aplicação das outras disposições comunitárias que regulem a exportaç�
 
 4 - As mercadorias objecto da autorização de exportação manter-se-ão sob controle aduaneiro até ao momento da sua efectiva exportação.
 
-###### Art. 31.º - 1 - Enquanto se aguarda o resultado dos controles efectuados relativos à conferência dos elementos da declaração ou dos documentos que a acompanham, ou ao exame das mercadorias, e sempre que não seja possível averiguar os elementos necessários para a determinação dos direitos de exportação ou das restituições ou de outros montantes aos quais a exportação das mercadorias possa dar lugar, o chefe da estância aduaneira poderá autorizar, contudo, a exportação dessas mercadorias com observância do disposto nos n.os 2 e 3, salvo se existirem outros motivos que o impeçam.
+Art. 31.º - 1 - Enquanto se aguarda o resultado dos controles efectuados relativos à conferência dos elementos da declaração ou dos documentos que a acompanham, ou ao exame das mercadorias, e sempre que não seja possível averiguar os elementos necessários para a determinação dos direitos de exportação ou das restituições ou de outros montantes aos quais a exportação das mercadorias possa dar lugar, o chefe da estância aduaneira poderá autorizar, contudo, a exportação dessas mercadorias com observância do disposto nos n.os 2 e 3, salvo se existirem outros motivos que o impeçam.
 
 2 - A concessão da autorização referida no número anterior dará lugar à imediata liquidação e registo dos direitos de exportação calculados de acordo com os elementos constantes da declaração.
 
@@ -390,7 +399,7 @@ b) A aplicação das outras disposições comunitárias que regulem a exportaç�
 
 ### CAPÍTULO IX — Dispensa de declaração escrita
 
-###### Art. 32.º - 1 - Sem prejuízo das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, não será exigida declaração escrita relativamente às mercadorias:
+Art. 32.º - 1 - Sem prejuízo das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, não será exigida declaração escrita relativamente às mercadorias:
 
 a) Exportadas para fins não comerciais, nos termos da legislação aplicável;
 
@@ -402,7 +411,7 @@ c) Contidas em pequenos volumes, expedidos por qualquer via, quando, na sua tota
 
 ### CAPÍTULO X — Elaboração de declarações globais, periódicas ou recapitulativas
 
-###### Art. 33.º - 1 - Por portaria do Ministro das Finanças serão definidos os requisitos e as condições a preencher pelos interessados por forma a serem autorizados a apresentar ou a inserir posteriormente determinados elementos da declaração de exportação sob a forma de declarações complementares de carácter global, periódico ou recapitulativo.
+Art. 33.º - 1 - Por portaria do Ministro das Finanças serão definidos os requisitos e as condições a preencher pelos interessados por forma a serem autorizados a apresentar ou a inserir posteriormente determinados elementos da declaração de exportação sob a forma de declarações complementares de carácter global, periódico ou recapitulativo.
 
 2 - Os elementos complementares serão considerados como constituindo, conjuntamente com os elementos das declarações a que respeitam, um acto único e indivisível, produzindo efeitos à data da aceitação da declaração inicial correspondente.
 
@@ -412,9 +421,9 @@ c) Contidas em pequenos volumes, expedidos por qualquer via, quando, na sua tota
 
 ### CAPÍTULO XI — Concessão da autorização de exportação antes da entrega da declaração
 
-###### Art. 34.º Por portaria do Ministro das Finanças serão definidos os requisitos e as condições em que pode ser autorizada a exportação das mercadorias logo que estas tenham sido apresentadas, na acepção do n.º 2 do artigo 10.º, sem que a declaração de exportação respectiva tenha sido entregue.
+Art. 34.º Por portaria do Ministro das Finanças serão definidos os requisitos e as condições em que pode ser autorizada a exportação das mercadorias logo que estas tenham sido apresentadas, na acepção do n.º 2 do artigo 10.º, sem que a declaração de exportação respectiva tenha sido entregue.
 
-###### Art. 35.º - 1 - Nos casos referidos no artigo anterior, a autorização para exportar as mercadorias ficará subordinada à entrega, na estância aduaneira competente, de um pedido de exportação assinado pelo interessado e acompanhado das facturas comerciais que contenham os elementos necessários para a identificação das mercadorias, designadamente os elementos referidos nas alíneas i) e l) do n.º 1 do artigo 5.º, se for caso disso.
+Art. 35.º - 1 - Nos casos referidos no artigo anterior, a autorização para exportar as mercadorias ficará subordinada à entrega, na estância aduaneira competente, de um pedido de exportação assinado pelo interessado e acompanhado das facturas comerciais que contenham os elementos necessários para a identificação das mercadorias, designadamente os elementos referidos nas alíneas i) e l) do n.º 1 do artigo 5.º, se for caso disso.
 
 2 - As facturas comerciais deverão ser acompanhadas de todos os documentos a cuja apresentação estiver subordinada a aplicação das medidas comunitárias decorrentes da exportação das mercadorias em causa.
 
@@ -424,7 +433,7 @@ c) Contidas em pequenos volumes, expedidos por qualquer via, quando, na sua tota
 
 5 - Na factura que for apresentada na altura de cada exportação, nos termos do n.º 1, deverá fazer-se referência à autorização dada em resultado desse pedido global.
 
-###### Art. 36.º - 1 - Os serviços aduaneiros podem condicionar a autorização para exportar as mercadorias ao seu exame, tomando por base os elementos que figuram na factura ou nos documentos que a acompanham.
+Art. 36.º - 1 - Os serviços aduaneiros podem condicionar a autorização para exportar as mercadorias ao seu exame, tomando por base os elementos que figuram na factura ou nos documentos que a acompanham.
 
 2 - Será sempre obrigatório o exame físico das mercadorias sujeitas à regulamentação em vigor no âmbito da política agrícola comum, nomeadamente quando o produto a exportar puder vir a beneficiar de restituições à exportação.
 
@@ -432,7 +441,7 @@ c) Contidas em pequenos volumes, expedidos por qualquer via, quando, na sua tota
 
 4 - Ultimada a exportação, todos os documentos ficarão na posse dos serviços aduaneiros, com excepção das licenças que ficarem válidas para mais de uma remessa, que serão restituídas ao declarante depois de lhes serem imputadas as quantidades exportadas, mencionando-se nelas a factura correspondente.
 
-###### Art. 37.º - 1 - A declaração relativa às mercadorias a que se refere a autorização mencionada no artigo 34.º deverá ser entregue na estância aduaneira competente dentro de um prazo de 24 horas a contar da aceitação da factura comercial.
+Art. 37.º - 1 - A declaração relativa às mercadorias a que se refere a autorização mencionada no artigo 34.º deverá ser entregue na estância aduaneira competente dentro de um prazo de 24 horas a contar da aceitação da factura comercial.
 
 2 - O prazo previsto no número anterior pode ser alargado em casos especiais devidamente justificados.
 
@@ -442,9 +451,9 @@ c) Contidas em pequenos volumes, expedidos por qualquer via, quando, na sua tota
 
 5 - As declarações produzirão efeitos na data em que os referidos serviços aceitarem a factura comercial mencionada no n.º 3.
 
-###### Art. 38.º O director-geral das Alfândegas poderá autorizar nas condições que vierem a ser definidas por portaria do Ministro das Finanças, as pessoas singulares ou colectivas que procedam frequentemente à exportação de mercadorias, a seguir denominadas «exportadores autorizados», a expedir para fora do território aduaneiro nacional as referidas mercadorias directamente dos seus estabelecimentos, sem entrega prévia na estância aduaneira competente da declaração mencionada no artigo 3.º
+Art. 38.º O director-geral das Alfândegas poderá autorizar nas condições que vierem a ser definidas por portaria do Ministro das Finanças, as pessoas singulares ou colectivas que procedam frequentemente à exportação de mercadorias, a seguir denominadas «exportadores autorizados», a expedir para fora do território aduaneiro nacional as referidas mercadorias directamente dos seus estabelecimentos, sem entrega prévia na estância aduaneira competente da declaração mencionada no artigo 3.º
 
-###### Art. 39.º - 1 - Para a expedição das mercadorias dos estabelecimentos dos exportadores autorizados, nos termos do artigo 38.º, deverão os interessados subordinar-se aos requisitos seguintes:
+Art. 39.º - 1 - Para a expedição das mercadorias dos estabelecimentos dos exportadores autorizados, nos termos do artigo 38.º, deverão os interessados subordinar-se aos requisitos seguintes:
 
 a) Informar dessa expedição os serviços aduaneiros competentes, na forma e segundo as modalidades por eles determinadas, a fim de obter a autorização para exportar as mercadorias em causa;
 
@@ -460,38 +469,38 @@ c) Manter à disposição dos serviços aduaneiros competentes todos os document
 
 5 - Quando a estância aduaneira decidir proceder ao exame das mercadorias, este realizar-se-á tomando por base os elementos que figurem na escrita do interessado.
 
-###### Art. 40.º - 1 - A declaração relativa às mercadorias que forem objecto da autorização referida no artigo 38.º deverá ser entregue na estância aduaneira competente dentro do prazo que for fixado para o efeito pelas autoridades competentes.
+Art. 40.º - 1 - A declaração relativa às mercadorias que forem objecto da autorização referida no artigo 38.º deverá ser entregue na estância aduaneira competente dentro do prazo que for fixado para o efeito pelas autoridades competentes.
 
 2 - Para efeito da aplicação do disposto no artigo 28.º, esta declaração produzirá efeitos na data em que as mercadorias sejam lançadas na escrita do exportador autorizado.
 
 3 - O n.º 4 do artigo 37.º aplicar-se-á igualmente em caso de se recorrer as disposições deste regime simplificado.
 
-###### Art. 41.º O lançamento das mercadorias na escrita do exportador autorizado previsto na alínea b) do n.º 1 do artigo 39.º pode ser substituído por qualquer outra formalidade definida pelos serviços aduaneiros competentes e que apresente garantias análogas.
+Art. 41.º O lançamento das mercadorias na escrita do exportador autorizado previsto na alínea b) do n.º 1 do artigo 39.º pode ser substituído por qualquer outra formalidade definida pelos serviços aduaneiros competentes e que apresente garantias análogas.
 
 ### CAPÍTULO XII — Substituição de todas ou parte das menções da declaração por dados codificados
 
-###### Art. 42.º - 1 - As autoridades competentes podem autorizar o declarante a substituir a totalidade ou parte dos elementos da declaração escrita referida no artigo 3.º pela transmissão à estância aduaneira designada para esse efeito, tendo em vista o seu tratamento por computador, dos dados codificados ou estabelecidos por qualquer outra forma determinada por essas autoridades que correspondam aos elementos exigíveis para as declarações escritas.
+Art. 42.º - 1 - As autoridades competentes podem autorizar o declarante a substituir a totalidade ou parte dos elementos da declaração escrita referida no artigo 3.º pela transmissão à estância aduaneira designada para esse efeito, tendo em vista o seu tratamento por computador, dos dados codificados ou estabelecidos por qualquer outra forma determinada por essas autoridades que correspondam aos elementos exigíveis para as declarações escritas.
 
 2 - As condições de transmissão dos dados referidos no n.º 1 serão fixadas por meio de portaria do Ministro das Finanças.
 
 ### CAPÍTULO XIII — Disposições finais
 
-###### Art. 43.º Quando uma declaração de exportação abranger vários artigos, os elementos relativos a cada artigo são considerados como constituindo uma declaração separada.
+Art. 43.º Quando uma declaração de exportação abranger vários artigos, os elementos relativos a cada artigo são considerados como constituindo uma declaração separada.
 
-###### Art. 44.º Quando a exportação das mercadorias estiver sujeita a regime especial, observar-se-ão também as formalidades preceituadas na respectiva legislação, devendo o seu cumprimento constar especificamente da respectiva declaração.
+Art. 44.º Quando a exportação das mercadorias estiver sujeita a regime especial, observar-se-ão também as formalidades preceituadas na respectiva legislação, devendo o seu cumprimento constar especificamente da respectiva declaração.
 
-###### Art. 45.º As disposições do presente decreto-lei prevalecem sobre quaisquer normas que estabeleçam em sentido contrário.
+Art. 45.º As disposições do presente decreto-lei prevalecem sobre quaisquer normas que estabeleçam em sentido contrário.
 
-###### Art. 46.º O presente decreto-lei entra em vigor em 1 de Junho de 1988.
+Art. 46.º O presente decreto-lei entra em vigor em 1 de Junho de 1988.
 
 Visto e aprovado em Conselho de Ministros de 7 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Maio de 1988.**
+Promulgado em 6 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1988.**
+Referendado em 10 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

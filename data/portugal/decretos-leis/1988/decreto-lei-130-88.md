@@ -48,40 +48,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1988-285138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f047da0c2d4963a619f19e39de99b5ef78dfb9f4fa63288c53fc255e87cbaee9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b26a3a9ede86d28330be7763a3b89dc9dcce3b77d478d8f7feada6e7b0f237ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso Superior de Gestão Bancária
+- Curso Superior de Gestão Hoteleira
+- Curso Superior de Gestão Seguradora
+- Curso Superior de Segurança Social
+- Ensino Particular
+- Ensino Superior Politécnico
+- Instituto Superior Politécnico Internacional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:606720:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632887:por
+  label: "ALTERADO O PLANO DE ESTUDOS DO CURSO SUPERIOR DE SEGURANÇA SOCIAL, PELA PORTARIA 779/93, DE 3 DE SETEMBRO, PUBLICADO\
+    \ NO DR.IS-B, 207, DE 930903.\030903.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-1993-632887
+- type: amended_by
+  target: pt:dre:606720:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 3º, a autorização de funcionamento dos cursos\
+    \ de bacharelato em Gestão Bancária e em Gestão Seguradora, cujos funcionamentos foram autorizados pelo presente diploma,\
+    \ pela PORT.1222/2004.20.09.2004.MCIES, DR.IS-B [222] de 20.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1222-2004-606720
+  date: '2004-09-20'
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:24Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +137,7 @@ Assim:
 
 O Governo decreta, nos termos do n.º 3 do artigo 56.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a criação de um estabelecimento particular de ensino superior denominado Instituto Superior Politécnico Internacional (ISPI), de que é titular a SIPEC - Sociedade Internacional de Promoção de Ensino e Cultura, S. A., e o seu funcionamento em Lisboa.
+Artigo 1.º - 1 - É autorizada a criação de um estabelecimento particular de ensino superior denominado Instituto Superior Politécnico Internacional (ISPI), de que é titular a SIPEC - Sociedade Internacional de Promoção de Ensino e Cultura, S. A., e o seu funcionamento em Lisboa.
 
 2 - É autorizada a criação e funcionamento no mesmo estabelecimento dos seguintes cursos:
 
@@ -122,34 +159,34 @@ a) 12.º ano de escolaridade, 4.º curso, via de ensino, com aprovação em duas
 
 b) 12.º ano de escolaridade, 3.º curso, via de ensino, com proveniência da área D, ou 2.º e 3.º cursos, com proveniência da área C, e aprovação numa segunda língua estrangeira no 10.º e 11.º anos.
 
-###### Art. 2.º - 1 - Aos diplomas emitidos pelo ISPI pela conclusão do curso superior de Segurança Social e do curso superior de Secretariado Internacional é reconhecida a produção de efeitos correspondentes aos da titularidade do grau de bacharelato do ensino público.
+Art. 2.º - 1 - Aos diplomas emitidos pelo ISPI pela conclusão do curso superior de Segurança Social e do curso superior de Secretariado Internacional é reconhecida a produção de efeitos correspondentes aos da titularidade do grau de bacharelato do ensino público.
 
 2 - Aos cursos superiores de Gestão Hoteleira, de Gestão Bancária e de Gestão Seguradora, o eventual reconhecimento dos efeitos definidos no número anterior será estabelecido em diploma complementar, antes da conclusão dos mesmos pelos primeiros alunos neles matriculados, se confirmada a sua conformação aos pareceres das comissões de especialistas designadas nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril.
 
-###### Art. 3.º - 1 - A autorização é concedida pelo prazo de três anos, considerando-se automaticamente renovada pelo mesmo período se não for, justificadamente, decidido o contrário.
+Art. 3.º - 1 - A autorização é concedida pelo prazo de três anos, considerando-se automaticamente renovada pelo mesmo período se não for, justificadamente, decidido o contrário.
 
 2 - As autorizações e reconhecimentos conferidos pelo presente diploma não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação de parecer das comissões de especialistas, ouvidas nos termos do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com o citado diploma e legislação complementar.
 
-###### Art. 4.º - 1 - Os planos de estudo dos cursos ora autorizados são os constantes do anexo ao presente diploma.
+Art. 4.º - 1 - Os planos de estudo dos cursos ora autorizados são os constantes do anexo ao presente diploma.
 
 2 - A quaisquer eventuais alterações curriculares será aplicável o n.º 1.º da [Portaria n.º 269/86](https://diariodarepublica.pt/dr/detalhe/portaria/269-1986-226856), de 3 de Junho.
 
-###### Art. 5.º Os números máximos de alunos admitidos à matricula e à frequência total de cada um dos cursos autorizados no presente diploma serão fixados mediante portaria do Ministro da Educação, nos termos dos artigos 1.º e 3.º do [Decreto-Lei n.º 121/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1986-226874), de 28 de Maio.
+Art. 5.º Os números máximos de alunos admitidos à matricula e à frequência total de cada um dos cursos autorizados no presente diploma serão fixados mediante portaria do Ministro da Educação, nos termos dos artigos 1.º e 3.º do [Decreto-Lei n.º 121/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1986-226874), de 28 de Maio.
 
 Visto e aprovado em Conselho de Ministros, 11 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
 
-**Promulgado na Guarda em 30 de Março de 1988.**
+Promulgado na Guarda em 30 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1988.**
+Referendado em 5 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — INSTITUTO SUPERIOR POLITÉCNICO INTERNACIONAL
 
 (I.S.P.I.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09200/15111514.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09200/15111514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09200/15111514.pdf)

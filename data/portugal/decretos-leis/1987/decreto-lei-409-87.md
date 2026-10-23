@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1987, 4º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4440-(227) a 4440-(232)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30004/02270232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ded420b0a8dd1b6e854d024ea83aefd8e0be0f5c050f3a03bbd17607ba7dd4bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8bf1adf9eb745eaa4881af2208e327bfc76af8de980b85a96f7d8b9c9f5c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:569551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612422:por
+  label: "Alterado o quadro de pessoal a que se refere o art. 9º, e dada nova redacção ao art. 12º pelo DEC LEI.60/89.23.02.1989.MOPTC,\
+    \ DR.IS [45] de 23.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1989-612422
+  date: '1989-02-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 10, 12, 14, 16, 17, 19 E 20, ADITADOS OS ART 12-A, 16-A, 18-A, 19-A, 20-A, 22-A E 22-B, PELO DEC\
+    \ LEI 124/91 DE 21-MAR DR.IS-A [67]\0IS-A [67]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-21'
+- type: amended_by
+  target: pt:dre:471162:por
+  label: "Alterados os art.s 10º, 12º (este com a redacção do Dec Lei 60/89 de 23-Fev), 14º, 16º, 17º, 19º 2 20º, aditados\
+    \ os art.s 12º-A, 16º-A, 18º-A, 20º-A, 22º-A e 22º-B, e substituído o quadro de pessoal a que se refere o art. 9º (na\
+    \ redacção do Dec Lei 60/89, de 23-Fev), pelo DEC LEI.124/91.21.03.1991.MF, DR.IS-A [67] de 21.03.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1991-471162
+  date: '1991-03-21'
+- type: amended_by
+  target: pt:dre:534795:por
+  label: "Prevista a sua fusão, com a Inspecção-Geral da Administração do Território, pelo DEC LEI.23/96.1996.03.20.PCM DR.IS-A\
+    \ [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1996-534795
+  date: '1996-03-20'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrada no Ministério do Equipamento Social, a Inspecção-Geral de Obras Públicas Transportes e Comunicações, cuja\
+    \ Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:288444:por
+  label: "Alterados os arts. 1º, 2º e 6º e aditado o art. 6º-A pelo DEC LEI.116/2002.2002.04.20.MES DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2002-288444
+  date: '2002-04-20'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Atribuída nova denominação à Inspecção-Geral de Obras Públicas, Transportes e Comunicações, cuja criação e orgânica\
+    \ constam do Dec Lei 409/87, de 31-Dez, posteriormente alterado nos Dec Lei 60/89 de 23-Fev, 124/91 de 21-Mar e 116/2002\
+    \ de 20-Abr, passando a designar-se Inspecção-Geral das Obras Públicas, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A\
+    \ [45] de 04.03.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: cites
+  target: pt:dre:220097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569551:por
+  label: "Revogado, nos termos do artigo 4.º do do Decreto-Lei n.º 210/2006, de 27 de Outubro, pelo DR.81-A/2007.31.07.2007.MOPTC,\
+    \ DR.IS [146]3ºSupl de 31.07.2007, a partir de 01.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-a-2007-569551
+  date: '2007-07-31'
 article_structure:
   article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:47Z'
   warnings: []
   errors: []
 ---
@@ -346,16 +402,16 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 30 de Dezembro de 1987.**
+Promulgado em 30 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1987.**
+Referendado em 30 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 (Quadro de pessoal a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/30004/02270232.pdf))](https://files.diariodarepublica.pt/1s/1987/12/30004/02270232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/30004/02270232.pdf)

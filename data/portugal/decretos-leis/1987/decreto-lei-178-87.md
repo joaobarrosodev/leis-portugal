@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1987-666320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a713595441ba19266d303223bab1aa3e3cf68a136bee527e748057cd6c9cf545
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eef0b3659b822715d72b17ce6dbacc17eb09b8fc8f2f5aea5461611798f7018d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administrador Hospitalar
+- Carreira Profissional
+- Gestão Hospitalar
+relationships:
+- type: cites
+  target: pt:dre:475325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:00Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +105,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos administradores da carreira de administração hospitalar, quando em exercício de funções em serviços do Ministério da Saúde, ser-lhes-á contada a totalidade do tempo desse exercício, para efeitos dos períodos referidos nas alíneas a) do n.º 1, b) do n.º 2 e b) do n.º 3 do artigo 8.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), de 8 de Maio.
+Artigo 1.º Aos administradores da carreira de administração hospitalar, quando em exercício de funções em serviços do Ministério da Saúde, ser-lhes-á contada a totalidade do tempo desse exercício, para efeitos dos períodos referidos nas alíneas a) do n.º 1, b) do n.º 2 e b) do n.º 3 do artigo 8.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), de 8 de Maio.
 
-###### Art. 2.º A nomeação para as funções a que se refere o número anterior faz suspender a comissão de serviço em que se encontram, devendo as respectivas funções hospitalares ser asseguradas nos termos do artigo 11.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 2.º A nomeação para as funções a que se refere o número anterior faz suspender a comissão de serviço em que se encontram, devendo as respectivas funções hospitalares ser asseguradas nos termos do artigo 11.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 3.º Ficam revogados os n.os 4 e 5 do artigo 8.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), de 8 de Maio.
+Art. 3.º Ficam revogados os n.os 4 e 5 do artigo 8.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), de 8 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

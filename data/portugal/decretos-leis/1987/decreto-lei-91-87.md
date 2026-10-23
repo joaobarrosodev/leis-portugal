@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04900/08740877.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1987-662739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf6ad409ca4f6e0138a44475974b5927dba43e9fd863f1f5b4dcf0d5b5aac631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73e2992e4231cee544f1645624f86b23a54cede9056378253eebfe8823008dbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Gabinete do Serviço Cívico dos Objectores de Consciência
+- Objector de Consciência
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:545641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356571:por
+  label: "Alterados os artigos 3.º, 4.º, 5.º, 13.º, 17.º e revogado o artigo 16.º, pelo DEC LEI.451/88.13.12.1988.PCM, DR.IS\
+    \ [286] de 13.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1988-356571
+  date: '1988-12-13'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete do Serviço Cívico dos Objectores de Consciência, criado no presente\
+    \ diploma, sendo as suas atribuições integradas no Instituto Português da Juventude, criado no Dec Lei 333/93, de 29-Set,\
+    \ pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, nos termos dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:152300:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234917:por
+  label: "Revogado pelo DEC LEI.191/92.08.09.1992.PCM, DR.IS-A [207] de 08.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1992-234917
+  date: '1992-09-08'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:47Z'
   warnings: []
   errors: []
 ---
@@ -347,12 +373,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 5 de Fevereiro de 1987.**
+Promulgado em 5 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1987.**
+Referendado em 11 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

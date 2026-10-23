@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00400/00400050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee8139ec124bb1438f76b701fb3fc2c3ca2f6eddc7267d5f76c735f2b0af5a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0ed2d2488058a9200e9e7d235da9616a832d8affccfb9ed7cd70c9b33401ea6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Industrial
+- Contribuição Predial
+- Imposto sobre a Indústria Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:232737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661163:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:07Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +158,11 @@ Espera-se, pois, que da aplicação do imposto resulte, por mais esta via, um in
 
 Nestes termos, no uso da autorização conferida pelo artigo 22.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados os artigos 315.º a 382.º, que constituem a parte II do CCPIIA.
+Artigo 1.º São revogados os artigos 315.º a 382.º, que constituem a parte II do CCPIIA.
 
-###### Art. 2.º É aprovada a parte II do Código referido no artigo anterior, a qual nele se integrará e que vai em anexo ao presente decreto-lei, tendo a mesma força vinculativa.
+Art. 2.º É aprovada a parte II do Código referido no artigo anterior, a qual nele se integrará e que vai em anexo ao presente decreto-lei, tendo a mesma força vinculativa.
 
-###### Art. 3.º - 1 - São revogados o n.º 24.º do artigo 14.º e o n.º 10.º e o § 4.º do artigo 18.º do CCI.
+Art. 3.º - 1 - São revogados o n.º 24.º do artigo 14.º e o n.º 10.º e o § 4.º do artigo 18.º do CCI.
 
 2 - O § único do artigo 1.º, o n.º 25.º do artigo 14.º e os artigos 25.º e 80.º do mesmo Código passam a ter a seguinte redacção:
 
@@ -144,7 +178,7 @@ c) As actividades agrícolas, silvícolas e pecuárias integradas em actividades
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -152,7 +186,7 @@ c) As actividades agrícolas, silvícolas e pecuárias integradas em actividades
 
 ...
 
-###### Art. 25.º Não contam para a determinação do lucro tributável:
+Art. 25.º Não contam para a determinação do lucro tributável:
 
 a) As mais-valias e as menos-valias;
 
@@ -164,7 +198,7 @@ b) Os proveitos ou ganhos e os custos ou perdas das actividades sujeitas a impos
 
 ...
 
-###### Art. 80.º As taxas da contribuição industrial são as seguintes:
+Art. 80.º As taxas da contribuição industrial são as seguintes:
 
 a) ...
 
@@ -174,7 +208,7 @@ b) ...
 
 ...
 
-###### Art. 4.º O n.º 2.º do artigo 1.º, as alíneas a) e b), o § 1.º e a alínea b) do § 4.º do artigo 19.º, os artigos 20.º, 21.º e 22.º-A, a alínea b) e o § único do artigo 31.º, o § único do artigo 47.º e o § único do artigo 48.º do Código do Imposto de Mais-Valias passam a ter a seguinte redacção:
+Art. 4.º O n.º 2.º do artigo 1.º, as alíneas a) e b), o § 1.º e a alínea b) do § 4.º do artigo 19.º, os artigos 20.º, 21.º e 22.º-A, a alínea b) e o § único do artigo 31.º, o § único do artigo 47.º e o § único do artigo 48.º do Código do Imposto de Mais-Valias passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -184,7 +218,7 @@ b) ...
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 a) Até ao dia 20 de Setembro do ano seguinte àquele a que respeita o imposto, tratando-se de contribuintes do grupo A da contribuição industrial ou do imposto sobre a indústria agrícola e de entidades referidas no artigo 22.º-A que devessem pertencer a este grupo;
 
@@ -210,21 +244,21 @@ b) Nos prazos estabelecidos nos respectivos códigos para a fixação da matéri
 
 § 7.º ...
 
-###### Art. 20.º Os contribuintes do grupo A da contribuição industrial ou do imposto sobre a indústria agrícola que, em determinado exercício, transmitirem globalmente, a título oneroso, estabelecimento estável ou conjunto de elementos do seu activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, ou de uns e outros indiscriminadamente, mencionarão expressamente essa circunstância na declaração modelo n.º 2, no espaço reservado às «observações», e imputarão rateadamente a soma ou importância recebida a cada uma das rubricas do activo em que se incluam os bens alienados.
+Art. 20.º Os contribuintes do grupo A da contribuição industrial ou do imposto sobre a indústria agrícola que, em determinado exercício, transmitirem globalmente, a título oneroso, estabelecimento estável ou conjunto de elementos do seu activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, ou de uns e outros indiscriminadamente, mencionarão expressamente essa circunstância na declaração modelo n.º 2, no espaço reservado às «observações», e imputarão rateadamente a soma ou importância recebida a cada uma das rubricas do activo em que se incluam os bens alienados.
 
-###### Art. 21.º Os contribuintes tributados em contribuição industrial ou em imposto sobre a indústria agrícola apresentarão, na repartição de finanças competente para a liquidação desses impostos, com as respectivas declarações de rendimentos, anuais ou de cessação, uma declaração modelo n.º 2, na qual mencionarão as importâncias das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração, em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
+Art. 21.º Os contribuintes tributados em contribuição industrial ou em imposto sobre a indústria agrícola apresentarão, na repartição de finanças competente para a liquidação desses impostos, com as respectivas declarações de rendimentos, anuais ou de cessação, uma declaração modelo n.º 2, na qual mencionarão as importâncias das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração, em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
 
 § único. Não tendo havido transmissão onerosa de elementos do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, será feita menção nesse sentido na declaração apresentada para efeitos da contribuição industrial ou do imposto sobre a indústria agrícola.
 
 ...
 
-###### Art. 22.º-A. As pessoas singulares ou colectivas não sujeitas a contribuição industrial ou a imposto sobre a indústria agrícola ou isentas destes impostos, mas não isentas do imposto de mais-valias a que se refere o n.º 2 do artigo 1.º, apresentarão a declaração modelo n.º 2 dentro dos prazos em que teriam de apresentar as declarações para efeitos daqueles impostos se fossem devidos e na repartição de finanças competente para a sua liquidação.
+Art. 22.º-A. As pessoas singulares ou colectivas não sujeitas a contribuição industrial ou a imposto sobre a indústria agrícola ou isentas destes impostos, mas não isentas do imposto de mais-valias a que se refere o n.º 2 do artigo 1.º, apresentarão a declaração modelo n.º 2 dentro dos prazos em que teriam de apresentar as declarações para efeitos daqueles impostos se fossem devidos e na repartição de finanças competente para a sua liquidação.
 
 § único ...
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 a) ...
 
@@ -234,15 +268,15 @@ b) Nos demais casos, conjuntamente com a da contribuição industrial ou do impo
 
 ...
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § único. Sendo a falta cometida por contribuinte isento de contribuição industrial ou de imposto sobre a indústria agrícola, a multa será de 1000$00 a 100000$00, salvo tratando-se de entidade que, se não beneficiasse da isenção de contribuição industrial, seria tributada pelo grupo C.
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § único. As inexactidões ou omissões respeitantes a elementos exigidos pelo artigo 20.º e a inobservância do disposto no § único do artigo 21.º serão punidas nos termos das disposições do CCI ou do CCPIIA, aplicáveis a idênticas faltas cometidas nas respectivas declarações em que tais elementos devem figurar.
 
-###### Art. 5.º - 1 - A parte II do CCPIIA, em anexo ao presente decreto-lei, entra em vigor em 1 de Janeiro de 1987, para incidir sobre os lucros tributáveis desse ano, sendo o respectivo imposto liquidado e cobrado em 1988, nos termos do n.º 2 do artigo 22.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril.
+Art. 5.º - 1 - A parte II do CCPIIA, em anexo ao presente decreto-lei, entra em vigor em 1 de Janeiro de 1987, para incidir sobre os lucros tributáveis desse ano, sendo o respectivo imposto liquidado e cobrado em 1988, nos termos do n.º 2 do artigo 22.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril.
 
 2 - As pessoas singulares ou colectivas que em 1 de Janeiro de 1987 exerçam actividades agrícolas, silvícolas ou pecuárias e que atinjam os limites previstos no artigo 344.º do referido Código deverão apresentar até 31 do mesmo mês uma declaração de modelo a aprovar para efeitos de controle da respectiva situação tributária.
 
@@ -252,29 +286,29 @@ b) Nos demais casos, conjuntamente com a da contribuição industrial ou do impo
 
 5 - A presunção prevista no número anterior implica também o cumprimento das obrigações decorrentes do Código, designadamente as respeitantes à escrita e à apresentação da declaração de rendimentos, reportada ao ano de 1987.
 
-###### Art. 6.º - 1 - As pessoas singulares ou colectivas que passam a ficar sujeitas a contribuição industrial em virtude das alterações introduzidas pelo presente diploma deverão apresentar, no prazo de 30 dias a contar da sua publicação, na repartição de finanças competente, as declarações a que se refere o artigo 111.º do respectivo Código.
+Art. 6.º - 1 - As pessoas singulares ou colectivas que passam a ficar sujeitas a contribuição industrial em virtude das alterações introduzidas pelo presente diploma deverão apresentar, no prazo de 30 dias a contar da sua publicação, na repartição de finanças competente, as declarações a que se refere o artigo 111.º do respectivo Código.
 
 2 - No prazo de 60 dias a contar da mesma data, as pessoas a que se refere o número anterior deverão possuir contabilidade devidamente organizada, se forem tributadas pelo grupo A da contribuição industrial, ou os livros referidos nos artigos 133.º e 133.º-A do respectivo Código, se forem do grupo B ou C, com observância, na parte aplicável, do disposto nos artigos 50.º ou 65.º do Código do Imposto sobre o Valor Acrescentado, devendo, na sua escrituração, incluir-se todas as operações relativas à actividade desenvolvida desde 1 de Janeiro de 1987.
 
-###### Art. 7.º Sem prejuízo do cumprimento das obrigações decorrentes do presente diploma e dos códigos por ele alterados, a instauração de processos de transgressão só poderá ser feita com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+Art. 7.º Sem prejuízo do cumprimento das obrigações decorrentes do presente diploma e dos códigos por ele alterados, a instauração de processos de transgressão só poderá ser feita com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
 
 Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 12 de Dezembro de 1986.**
+Promulgado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Dezembro de 1986.**
+Referendado em 17 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-# PARTE II — Imposto sobre a indústria agrícola
+## PARTE II — Imposto sobre a indústria agrícola
 
 ### CAPÍTULO I — Incidência
 
-###### Art. 315.º O imposto sobre a indústria agrícola incide sobre o lucro das actividades agrícolas, silvícolas e pecuárias exercidas no teritório nacional.
+Art. 315.º O imposto sobre a indústria agrícola incide sobre o lucro das actividades agrícolas, silvícolas e pecuárias exercidas no teritório nacional.
 
 § 1.º Consideram-se abrangidas nas actividades a que se refere o corpo deste artigo as de natureza comercial ou industrial, meramente acessórias ou complementares daquelas, que utilizem, de forma exclusiva, os produtos das próprias explorações agrícolas, silvícolas ou pecuárias e ainda as seguintes destas dependentes:
 
@@ -288,7 +322,7 @@ d) A utilização acessória, permanente ou ocasional, dos prédios para outros 
 
 § 2.º Considera-se também sujeito a este imposto o lucro das explorações de marinhas de sal e apícolas, incluindo as que procedam às actividades acessórias ou complementares nos termos do parágrafo anterior, bem como o lucro das actividades autónomas referidas na alínea c) do parágrafo anterior.
 
-###### Art. 316.º Não estão sujeitos a imposto sobre a indústria agrícola:
+Art. 316.º Não estão sujeitos a imposto sobre a indústria agrícola:
 
 a) O lucro das actividades agrícolas e pecuárias não conexas com a exploração da terra ou em que esta tenha carácter manifestamente acessório, designadamente a suinicultura, avicultura, cunicultura e bovinicultura; as culturas hidropónicas; a produção de cogumelos em tabuleiros; as aquícolas, piscícolas e equivalentes; a canicultura; a criação de aves canoras, ornamentais e de fantasia; a criação de animais para obter peles e pêlo ou para experiências de laboratório;
 
@@ -298,17 +332,17 @@ c) Os excedentes líquidos gerados, em cada exercício, pelas cooperativas agrí
 
 § único. Consideram-se integradas em actividades de natureza comercial ou industrial as agrícolas, silvícolas e pecuárias cujos produtos se destinem a ser utilizados ou consumidos, em mais de 60%, naquelas actividades.
 
-###### Art. 317.º O imposto é devido por todas as pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam actividades agrícolas, silvícolas ou pecuárias, em prédio ou prédios próprios ou de outrem por efeito de qualquer acto ou contrato, no território nacional, sobre os lucros aí realizados.
+Art. 317.º O imposto é devido por todas as pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam actividades agrícolas, silvícolas ou pecuárias, em prédio ou prédios próprios ou de outrem por efeito de qualquer acto ou contrato, no território nacional, sobre os lucros aí realizados.
 
 § único. As sociedades civis sob forma comercial e as sociedades comerciais, ainda que irregulares, bem como as restantes sociedades civis e outros entes de facto, ficam abrangidos pelo corpo deste artigo desde que constituam uma unidade produtiva sujeita a imposto.
 
-###### Art. 318.º Os contribuintes do imposto sobre a indústria agrícola distribuem-se por dois grupos:
+Art. 318.º Os contribuintes do imposto sobre a indústria agrícola distribuem-se por dois grupos:
 
 1.º O grupo A com tributação incidente sobre os lucros efectivamente obtidos pelos contribuintes e determinados através da sua contabilidade;
 
 2.º O grupo B com tributação sobre os lucros que presumivelmente os contribuintes obtiveram.
 
-###### Art. 319.º São tributadas pelo grupo A:
+Art. 319.º São tributadas pelo grupo A:
 
 a) As sociedades anónimas e em comandita por acções;
 
@@ -320,25 +354,25 @@ d) Os contribuintes não mencionados nas alíneas anteriores cujos lucros tribut
 
 e) Os contribuintes deste imposto simultaneamente abrangidos pelo grupo A da contribuição industrial e não incluídos nas alíneas anteriores.
 
-###### Art. 320.º São tributados pelo grupo B os restantes contribuintes.
+Art. 320.º São tributados pelo grupo B os restantes contribuintes.
 
 § 1.º Os contribuintes do grupo B podem optar pela sua inclusão no grupo A, devendo manifestar a sua pretensão na declaração de que trata o artigo 340.º
 
 § 2.º Os contribuintes que tiverem optado nos termos do parágrafo anterior só decorridos três anos poderão requerer o seu regresso ao grupo B, desde que não satisfaçam as condições previstas no artigo anterior.
 
-###### Art. 321.º Sob proposta do director-geral das Contribuições e Impostos, ouvido o Serviço de Fiscalização Tributária, o Ministro das Finanças poderá, por despacho devidamente fudamentado, determinar a inclusão no grupo A de qualquer contribuinte do grupo B.
+Art. 321.º Sob proposta do director-geral das Contribuições e Impostos, ouvido o Serviço de Fiscalização Tributária, o Ministro das Finanças poderá, por despacho devidamente fudamentado, determinar a inclusão no grupo A de qualquer contribuinte do grupo B.
 
-###### Art. 322.º As circunstâncias que determinam a inclusão no grupo A deverão verificar-se no princípio do ano a que o imposto respeita ou no começo da actividade, quando iniciada nesse ano.
+Art. 322.º As circunstâncias que determinam a inclusão no grupo A deverão verificar-se no princípio do ano a que o imposto respeita ou no começo da actividade, quando iniciada nesse ano.
 
 § 1.º No prazo de oito dias a contar da fixação definitiva do lucro tributável do último ano, a repartição de finanças notificará da sua inclusão no grupo A os contribuintes referidos na alínea d) do artigo 319.º
 
 § 2.º Se, posteriormente, em três anos consecutivos os lucros tributáveis ou os proveitos anuais dos contribuintes forem inferiores aos limites que determinaram a sua inclusão no grupo A, poderão estes requerer a passagem para o grupo B.
 
-###### Art. 323.º As actividades sujeitas a imposto sobre a indústria agrícola terão a designação que lhes competir segundo a Classificação das Actividades Portuguesas por Ramos de Actividade (CAE).
+Art. 323.º As actividades sujeitas a imposto sobre a indústria agrícola terão a designação que lhes competir segundo a Classificação das Actividades Portuguesas por Ramos de Actividade (CAE).
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 324.º Estão isentos do imposto sobre a indústria agrícola:
+Art. 324.º Estão isentos do imposto sobre a indústria agrícola:
 
 1.º O Estado e qualquer dos seus serviços, estabelecimento e organismos, ainda que personalizados, compreendendo a Santa Casa da Misericórdia de Lisboa e os órgãos de coordenação da assistência;
 
@@ -348,7 +382,7 @@ e) Os contribuintes deste imposto simultaneamente abrangidos pelo grupo A da con
 
 4.º Quaisquer outras entidades ou pessoas declaradas de utilidade pública não abrangidas pelas demais disposições deste capítulo.
 
-###### Art. 325.º Estão temporariamente isentos de imposto:
+Art. 325.º Estão temporariamente isentos de imposto:
 
 1.º As sociedades de agricultura de grupo legalmente constituídas, durante o prazo de dez anos contado desde a sua constituição;
 
@@ -358,29 +392,29 @@ e) Os contribuintes deste imposto simultaneamente abrangidos pelo grupo A da con
 
 § 2.º No reconhecimento das isenções previstas no n.º 1.º às sociedades já constituídas imputa-se, no cômputo do prazo, o período já decorrido durante os anos em que o imposto esteve suspenso.
 
-###### Art. 326.º Ficam igualmente isentas do imposto as actividades agrícolas, silvícolas ou pecuárias cujo lucro tributável anual, no seu conjunto, não seja superior a 300000$00.
+Art. 326.º Ficam igualmente isentas do imposto as actividades agrícolas, silvícolas ou pecuárias cujo lucro tributável anual, no seu conjunto, não seja superior a 300000$00.
 
 § único. Quando o lucro exceda os limites da isenção, por todo ele se pagará imposto, mas sem que a importância deste possa ser maior que o excesso.
 
-###### Art. 327.º Às isenções previstas nos n.os 3.º e 4.º do artigo 324.º aplica-se o disposto no artigo 10.º do presente Código.
+Art. 327.º Às isenções previstas nos n.os 3.º e 4.º do artigo 324.º aplica-se o disposto no artigo 10.º do presente Código.
 
-###### Art. 328.º Os incentivos fiscais CFI - «crédito fiscal por investimento» e DLRR - «dedução de lucros retidos e reinvestidos», instituídos em sede de contribuição industrial pelo [Decreto-Lei n.º 197-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-c-1986-661163), de 18 de Julho, são aplicáveis às actividades sujeitas a imposto sobre a indústria agrícola, com as necessárias adaptações a regulamentar por portaria do Ministro das Finanças.
+Art. 328.º Os incentivos fiscais CFI - «crédito fiscal por investimento» e DLRR - «dedução de lucros retidos e reinvestidos», instituídos em sede de contribuição industrial pelo [Decreto-Lei n.º 197-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-c-1986-661163), de 18 de Julho, são aplicáveis às actividades sujeitas a imposto sobre a indústria agrícola, com as necessárias adaptações a regulamentar por portaria do Ministro das Finanças.
 
 § único. Para efeitos do corpo deste artigo considera-se o conceito de investimento contido na alínea a) do n.º 1 do artigo 2.º e no artigo 9.º, ambos do [Decreto-Lei n.º 197-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-c-1986-661163), de 18 de Julho, incluindo, num e noutro caso, terrenos e instalações desde que afectos e imprescindíveis à exploração agrícola.
 
-###### Art. 329.º É aplicável ao imposto sobre a indústria agrícola o que se encontra estabelecido no artigo 34.º deste Código.
+Art. 329.º É aplicável ao imposto sobre a indústria agrícola o que se encontra estabelecido no artigo 34.º deste Código.
 
-###### Art. 330.º Sempre que a isenção se encontre de algum modo condicionada, a não observância das condições estabelecidas determinará a imediata sujeição do contribuinte às regras gerais de tributação.
+Art. 330.º Sempre que a isenção se encontre de algum modo condicionada, a não observância das condições estabelecidas determinará a imediata sujeição do contribuinte às regras gerais de tributação.
 
 ### CAPÍTULO III — Determinação da matéria colectável
 
 #### SECÇÃO I — Grupo A
 
-###### Art. 331.º O lucro tributável reportar-se-á ao saldo da conta de resultados líquidos do exercício anterior, eventualmente corrigido nos termos deste Código, e relativo ao conjunto das actividades exercidas, quer em prédios próprios, quer de outrem, situados na área da mesma ou de diferentes repartições de finanças.
+Art. 331.º O lucro tributável reportar-se-á ao saldo da conta de resultados líquidos do exercício anterior, eventualmente corrigido nos termos deste Código, e relativo ao conjunto das actividades exercidas, quer em prédios próprios, quer de outrem, situados na área da mesma ou de diferentes repartições de finanças.
 
-###### Art. 332.º Na determinação do lucro tributável observar-se-ão, na parte aplicável, as disposições constantes da secção I do capítulo III do CCI, sem prejuízo da regulamentação estabelecida nos artigos seguintes.
+Art. 332.º Na determinação do lucro tributável observar-se-ão, na parte aplicável, as disposições constantes da secção I do capítulo III do CCI, sem prejuízo da regulamentação estabelecida nos artigos seguintes.
 
-###### Art. 333.º Consideram-se ainda proveitos realizados no exercício:
+Art. 333.º Consideram-se ainda proveitos realizados no exercício:
 
 1.º O valor de todos os produtos principais e secundários, espontâneos ou obtidos por cultura, quer sejam anuais, quer plurianuais;
 
@@ -394,7 +428,7 @@ e) Os contribuintes deste imposto simultaneamente abrangidos pelo grupo A da con
 
 6.º Os subsídios do investimento na parte correspondente às reintegrações e amortizações do exercício dos bens subsidiados.
 
-###### Art. 334.º Consideram-se custos imputáveis ao exercício:
+Art. 334.º Consideram-se custos imputáveis ao exercício:
 
 1.º A parte dos encargos das explorações silvícolas plurianuais, suportados durante o ciclo da produção, equivalente à percentagem que a extracção do exercício representa na produção total do mesmo produto e ainda não considerada em exercício anterior, actualizada pelos coeficientes de desvalorização da moeda fixados nos termos do artigo 15.º do Código do Imposto de Mais-Valias;
 
@@ -402,17 +436,17 @@ e) Os contribuintes deste imposto simultaneamente abrangidos pelo grupo A da con
 
 3.º O valor das crias e de todos os produtos existentes no início do exercício.
 
-###### Art. 335.º Para efeitos do disposto na alínea c) do artigo 37.º do CCI, também não se considera como custo o imposto sobre a indústria agrícola.
+Art. 335.º Para efeitos do disposto na alínea c) do artigo 37.º do CCI, também não se considera como custo o imposto sobre a indústria agrícola.
 
-###### Art. 336.º Além dos critérios valorimétricos previstos no CCI, poderá utilizar-se também nas actividades agrícolas, silvícolas e pecuárias o preço de venda corrente no mercado, deduzido de uma percentagem não superior a 20%, desde que tal preço seja objecto de controle inequívoco.
+Art. 336.º Além dos critérios valorimétricos previstos no CCI, poderá utilizar-se também nas actividades agrícolas, silvícolas e pecuárias o preço de venda corrente no mercado, deduzido de uma percentagem não superior a 20%, desde que tal preço seja objecto de controle inequívoco.
 
 § único. Os preços de reposição ou de venda são os constantes de elementos oficiais ou de cotação do mercado no dia mais próximo do fim do exercício e, na sua falta, os últimos que, em condições normais, tenham sido praticados pelo contribuinte e sejam aceites pela Direcção-Geral das Contribuições e Impostos, ouvido o Serviço de Informação de Mercados Agrícolas, do Ministério da Agricultura, Pescas e Alimentação.
 
-###### Art. 337.º - 1 - Não constituem proveitos ou ganhos do exercício os rendimentos tributáveis em outros impostos desde que não estejam relacionados com o exercício da actividade.
+Art. 337.º - 1 - Não constituem proveitos ou ganhos do exercício os rendimentos tributáveis em outros impostos desde que não estejam relacionados com o exercício da actividade.
 
 2 - Não são considerados custos os encargos relacionados com a realização dos proveitos ou ganhos tributáveis em outros impostos.
 
-###### Art. 338.º Na determinação do lucro tributável deduzir-se-ão ainda, quanto às actividades exercidas em prédios próprios:
+Art. 338.º Na determinação do lucro tributável deduzir-se-ão ainda, quanto às actividades exercidas em prédios próprios:
 
 1.º A renda fundiária constante da matriz ou a parte que proporcionalmente lhe corresponder se nos mesmos prédios se exercerem formas de exploração mista;
 
@@ -420,19 +454,19 @@ e) Os contribuintes deste imposto simultaneamente abrangidos pelo grupo A da con
 
 3.º O rendimento colectável dos prédios ou parte de prédios urbanos, afectos exclusivamente ao exercício das actividades, ainda que isentos de contribuição predial.
 
-###### Art. 339.º As competências consultivas previstas na alínea a) do artigo 36.º do CCI ficam a pertencer ao Ministro da Agricultura, Pescas e Alimentação.
+Art. 339.º As competências consultivas previstas na alínea a) do artigo 36.º do CCI ficam a pertencer ao Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 340.º Os contribuintes do grupo A apresentarão nos meses de Abril a Junho ou no prazo de 30 dias a contar da cessação total da actividade a declaração modelo n.º 2, do grupo A, deste imposto e respectivos anexos, nos mesmos termos dos artigos 45.º e seguintes da secção I do capítulo III do CCI.
+Art. 340.º Os contribuintes do grupo A apresentarão nos meses de Abril a Junho ou no prazo de 30 dias a contar da cessação total da actividade a declaração modelo n.º 2, do grupo A, deste imposto e respectivos anexos, nos mesmos termos dos artigos 45.º e seguintes da secção I do capítulo III do CCI.
 
 #### SECÇÃO II — Grupo B
 
-###### Art. 341.º O lucro tributável dos contribuintes do grupo B será determinado, com as necessárias adaptações, mediante aplicação das disposições para o mesmo grupo, constantes da secção II do capítulo III do CCI, com excepção do disposto nos artigos 55.º, 56.º, 57.º e 58.º, e tendo em conta os condicionalismos próprios das actividades agrícolas, silvícolas e pecuárias e as disposições seguintes.
+Art. 341.º O lucro tributável dos contribuintes do grupo B será determinado, com as necessárias adaptações, mediante aplicação das disposições para o mesmo grupo, constantes da secção II do capítulo III do CCI, com excepção do disposto nos artigos 55.º, 56.º, 57.º e 58.º, e tendo em conta os condicionalismos próprios das actividades agrícolas, silvícolas e pecuárias e as disposições seguintes.
 
 § 1.º Aos contribuintes com contabilidade devidamente organizada é aplicável o disposto no artigo 50.º do CCI.
 
 § 2.º Quando se trate de explorações autónomas e distintas poderá o director-geral das Contribuições e Impostos, a requerimento dos interessados, devidamente fundamentado, autorizar a tributação separada por cada exploração em causa, deixando, porém, neste caso, de beneficiar, com referência a todas as actividades sujeitas a imposto, da isenção prevista no artigo 326.º
 
-###### Art. 342.º Quando o chefe da repartição de finanças entender que o montante do lucro tributável a fixar deve divergir, em mais de 25%, do que resulta da consideração dos elementos constantes da declaração do contribuinte, será esta submetida a uma comissão, para o efeito constituída em cada repartição de finanças nos termos do § 1.º deste artigo, à qual competirá, de harmonia com as disposições referidas no artigo anterior, calcular os valores respectivos, fixando o montante do lucro tributável em causa.
+Art. 342.º Quando o chefe da repartição de finanças entender que o montante do lucro tributável a fixar deve divergir, em mais de 25%, do que resulta da consideração dos elementos constantes da declaração do contribuinte, será esta submetida a uma comissão, para o efeito constituída em cada repartição de finanças nos termos do § 1.º deste artigo, à qual competirá, de harmonia com as disposições referidas no artigo anterior, calcular os valores respectivos, fixando o montante do lucro tributável em causa.
 
 § 1.º A comissão a que alude o corpo deste artigo será assim constituída:
 
@@ -450,9 +484,9 @@ Vogais - um delegado da Fazenda Nacional nomeado pelo director de finanças do d
 
 § 6.º Nas repartições de finanças onde o elevado número de contribuintes o justifique poderá o director de finanças do distrito autorizar o funcionamento de mais de uma comissão, designando, para o efeito, os respectivos delegados da Fazenda Nacional, bem como os funcionários para presidentes, além do chefe da repartição, devendo este providenciar quanto à indicação dos restantes vogais.
 
-###### Art. 343.º O disposto nos artigos 333.º a 339.º é aplicável aos contribuintes do grupo B, com as adaptações adequadas ao sistema de escrita adoptado.
+Art. 343.º O disposto nos artigos 333.º a 339.º é aplicável aos contribuintes do grupo B, com as adaptações adequadas ao sistema de escrita adoptado.
 
-###### Art. 344.º Os contribuintes que exerçam actividades agrícolas, silvícolas ou pecuárias em prédios rústicos cujo rendimento colectável total seja igual ou superior a 100000$00 ou hajam realizado proveitos ou lucros tributáveis superiores, respectivamente, a 3000000$00 ou 300000$00, relativamente ao ano anterior, apresentarão as seguintes declarações:
+Art. 344.º Os contribuintes que exerçam actividades agrícolas, silvícolas ou pecuárias em prédios rústicos cujo rendimento colectável total seja igual ou superior a 100000$00 ou hajam realizado proveitos ou lucros tributáveis superiores, respectivamente, a 3000000$00 ou 300000$00, relativamente ao ano anterior, apresentarão as seguintes declarações:
 
 a) Modelo n.º 3, em triplicado, no mês de Fevereiro, os que não tiverem contabilidade devidamente organizada;
 
@@ -468,7 +502,7 @@ c) Documento comprovativo dos créditos considerados incobráveis nos termos do 
 
 d) Quaisquer outros elementos reputados de interesse à justa determinação do lucro tributável.
 
-###### Art. 345.º No caso de cessação total do exercício da actividade, as declarações a que se referem as alíneas do artigo anterior serão apresentadas no prazo de 30 dias a contar da data em que tal facto ocorreu.
+Art. 345.º No caso de cessação total do exercício da actividade, as declarações a que se referem as alíneas do artigo anterior serão apresentadas no prazo de 30 dias a contar da data em que tal facto ocorreu.
 
 § 1.º Para efeitos do disposto no corpo deste artigo, a cessação terá lugar:
 
@@ -478,17 +512,17 @@ d) Relativamente aos outros contribuintes, quando deixe de exercer-se a activida
 
 § 2.º Sempre que se verifique a cessação do exercício da actividade em qualquer prédio, seja ou não acompanhada de cessação total da actividade do contribuinte, deverá este comunicar o facto por escrito, no prazo de 30 dias a contar da cessação, à repartição de finanças em cuja área a mesma se verificou.
 
-###### Art. 346.º As declarações a que se refere o artigo 344.º serão apresentadas na repartição de finanças em cuja área se situe a actividade principal ou sede, conforme se trate de pessoa singular ou colectiva.
+Art. 346.º As declarações a que se refere o artigo 344.º serão apresentadas na repartição de finanças em cuja área se situe a actividade principal ou sede, conforme se trate de pessoa singular ou colectiva.
 
 § único. Se as actividades abrangerem prédios localizados em áreas de repartições diferentes, os contribuintes que não possuam contabilidade devidamente organizada apresentarão também, em cada uma destas, declarações, em triplicado, mas somente no respeitante à parte da actividade aí exercida.
 
-###### Art. 347.º O chefe da repartição de finanças, sempre que presuma que quaisquer pessoas realizaram proveitos ou lucros não inferiores aos limites referidos no artigo 344.º, deverá notificá-las para apresentarem, no prazo de 30 dias, a respectiva declaração.
+Art. 347.º O chefe da repartição de finanças, sempre que presuma que quaisquer pessoas realizaram proveitos ou lucros não inferiores aos limites referidos no artigo 344.º, deverá notificá-las para apresentarem, no prazo de 30 dias, a respectiva declaração.
 
 § único. A notificação a que se refere este artigo deverá ser feita pessoalmente ou nos termos do artigo 13.º do [Decreto-Lei n.º 217/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1976-500937), de 25 de Março.
 
-###### Art. 348.º A referência existente no CCI à declaração modelo n.º 3 corresponderá, no CCPIIA, às declarações modelo n.º 2, do grupo B, ou modelo n.º 3, conforme o caso.
+Art. 348.º A referência existente no CCI à declaração modelo n.º 3 corresponderá, no CCPIIA, às declarações modelo n.º 2, do grupo B, ou modelo n.º 3, conforme o caso.
 
-###### Art. 349.º Os contribuintes abrangidos pelo disposto no artigo 344.º que não possuam contabilidade devidamente organizada deverão possuir os seguintes elementos de escrita:
+Art. 349.º Os contribuintes abrangidos pelo disposto no artigo 344.º que não possuam contabilidade devidamente organizada deverão possuir os seguintes elementos de escrita:
 
 a) Livros de registo de receitas e de despesas;
 
@@ -502,33 +536,33 @@ c) Livro de registo das imobilizações.
 
 § 3.º Os livros, incluindo os referidos no parágrafo anterior, deverão ser apresentados na competente repartição de finanças, antes de utilizados, para que o respectivo chefe assine os termos de abertura e de encerramento, numere as folhas e as rubrique.
 
-###### Art. 350.º Os delegados do respectivo ramo das actividades referidas no artigo 315.º, que devem integrar a comissão prevista no artigo 72.º do CCI, serão designados de entre os contribuintes sujeitos a imposto, no continente, pela assembleia distrital e, nas Regiões Autónomas dos Açores e da Madeira, pela respectiva Secretaria Regional de Finanças e a nomeação a que se refere o artigo 73.º do mesmo Código deverá recair preferentemente em técnicos indicados pelos serviços regionais dependentes do Ministério da Agricultura, Pescas e Alimentação.
+Art. 350.º Os delegados do respectivo ramo das actividades referidas no artigo 315.º, que devem integrar a comissão prevista no artigo 72.º do CCI, serão designados de entre os contribuintes sujeitos a imposto, no continente, pela assembleia distrital e, nas Regiões Autónomas dos Açores e da Madeira, pela respectiva Secretaria Regional de Finanças e a nomeação a que se refere o artigo 73.º do mesmo Código deverá recair preferentemente em técnicos indicados pelos serviços regionais dependentes do Ministério da Agricultura, Pescas e Alimentação.
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 351.º A taxa do imposto sobre a indústria agrícola é de 10%, sem prejuízo do disposto no § único do artigo 326.º
+Art. 351.º A taxa do imposto sobre a indústria agrícola é de 10%, sem prejuízo do disposto no § único do artigo 326.º
 
 § único. Sobre este imposto não recai qualquer adicional para o Estado.
 
-###### Art. 352.º O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvidos os Ministros da Agricultura, Pescas e Alimentação e do Plano e da Administração do Território, poderá conceder a redução a metade da taxa do imposto sobre a indústria agrícola às empresas que se constituam nas regiões rurais economicamente mais desfavorecidas.
+Art. 352.º O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvidos os Ministros da Agricultura, Pescas e Alimentação e do Plano e da Administração do Território, poderá conceder a redução a metade da taxa do imposto sobre a indústria agrícola às empresas que se constituam nas regiões rurais economicamente mais desfavorecidas.
 
 § único. A redução só poderá ter lugar nos primeiros dez anos, contados do começo da exploração.
 
 ### CAPÍTULO V — Liquidação
 
-###### Art. 353.º Na liquidação do imposto sobre a indústria agrícola aplicar-se-á, com as necessárias adaptações, o disposto no capítulo V do CCI quanto aos contribuintes dos grupos A e B, com excepção do artigo 89.º
+Art. 353.º Na liquidação do imposto sobre a indústria agrícola aplicar-se-á, com as necessárias adaptações, o disposto no capítulo V do CCI quanto aos contribuintes dos grupos A e B, com excepção do artigo 89.º
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 354.º Na cobrança do imposto sobre a indústria agrícola aplicar-se-á, com as necessárias adaptações, o disposto no capítulo VI do CCI quanto aos contribuintes dos grupos A e B.
+Art. 354.º Na cobrança do imposto sobre a indústria agrícola aplicar-se-á, com as necessárias adaptações, o disposto no capítulo VI do CCI quanto aos contribuintes dos grupos A e B.
 
 § único. As referências feitas no CCI ao conhecimento de cobrança modelo n.º 10 e à declaração modelo n.º 2 considerar-se-ão feitas, respectivamente, aos modelos n.os 5 e 2, do grupo A, deste imposto.
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 355.º É aplicável à fiscalização dos grupos A e B do imposto sobre a indústria agrícola, com as necessárias adaptações, o disposto nos artigos 110.º, 112.º a 115.º, 126.º, 134.º e 135.º do CCI, sem prejuízo do estabelecido nos artigos seguintes.
+Art. 355.º É aplicável à fiscalização dos grupos A e B do imposto sobre a indústria agrícola, com as necessárias adaptações, o disposto nos artigos 110.º, 112.º a 115.º, 126.º, 134.º e 135.º do CCI, sem prejuízo do estabelecido nos artigos seguintes.
 
-###### Art. 356.º As pessoas singulares ou colectivas sujeitas a imposto sobre a indústria agrícola deverão apresentar, de harmonia com o § 1.º deste artigo, a declaração modelo n.º 1 na repartição de finanças em cuja área se situe, respectivamente, a exploração principal ou sede e ainda nas repartições de finanças em cujas áreas se localizem prédios abrangidos pelas explorações.
+Art. 356.º As pessoas singulares ou colectivas sujeitas a imposto sobre a indústria agrícola deverão apresentar, de harmonia com o § 1.º deste artigo, a declaração modelo n.º 1 na repartição de finanças em cuja área se situe, respectivamente, a exploração principal ou sede e ainda nas repartições de finanças em cujas áreas se localizem prédios abrangidos pelas explorações.
 
 § 1.º A declaração será feita em duplicado e entregue antes que principie o exercício da actividade na área de cada repartição de finanças, quando as explorações se estabeleçam em prédios rústicos com um total de rendimento colectável igual ou superior a 100000$00 e, no prazo de 30 dias, após ter sido ultrapassado o limite dos proveitos referidos no artigo 344.º
 
@@ -536,17 +570,17 @@ c) Livro de registo das imobilizações.
 
 § 3.º São dispensadas do cumprimento do preceituado neste artigo as pessoas que beneficiaram de alguma das isenções estabelecidas nos n.os 1.º e 2.º do artigo 325.º
 
-###### Art. 357.º A Direcção-Geral das Contribuições e Impostos poderá solicitar aos serviços do Estado ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a quaisquer empresas ou entidades, os elementos de que careça para controle da matéria colectável, o que deverá ser satisfeito no prazo de 30 dias.
+Art. 357.º A Direcção-Geral das Contribuições e Impostos poderá solicitar aos serviços do Estado ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a quaisquer empresas ou entidades, os elementos de que careça para controle da matéria colectável, o que deverá ser satisfeito no prazo de 30 dias.
 
 ### CAPÍTULO VIII — Reclamações, impugnações e recursos
 
-###### Art. 358.º Ao imposto sobre a indústria agrícola e aplicável, com as necessárias adaptações, o disposto no capítulo VIII do CCI.
+Art. 358.º Ao imposto sobre a indústria agrícola e aplicável, com as necessárias adaptações, o disposto no capítulo VIII do CCI.
 
 § único. Na aplicação do estabelecido no § 1.º do artigo 136.º do CCI ter-se-ão ainda em conta os artigos 331.º a 338.º do presente Código.
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 359.º A falta das declarações exigidas nos artigos 340.º, 344.º e 345.º e respectivo § 2.º e § único do artigo 346.º, bem como as omissões ou inexactidões nelas praticadas ou nos documentos que as devam acompanhar, serão punidas nos termos seguintes:
+Art. 359.º A falta das declarações exigidas nos artigos 340.º, 344.º e 345.º e respectivo § 2.º e § único do artigo 346.º, bem como as omissões ou inexactidões nelas praticadas ou nos documentos que as devam acompanhar, serão punidas nos termos seguintes:
 
 a) No caso de simples negligência, com multa de 3000$00 a 300000$00, sendo o infractor contribuinte do grupo A, e com multa de 1000$00 a 100000$00, tratando-se de contribuinte do grupo B;
 
@@ -556,35 +590,35 @@ b) Havendo dolo, com multa igual ao dobro do imposto não liquidado, no mínimo 
 
 Verificando-se também a infracção prevista no artigo 146.º-A do mesmo Código, aplicável por força dos artigos seguintes, o prazo para a regularização contar-se-á a partir do termo do prazo designado naquele artigo.
 
-###### Art. 360.º Tratando-se das infracções a que se refere o artigo anterior, relativas à declaração e documentos exigidos no artigo 356.º, observar-se-á o seguinte:
+Art. 360.º Tratando-se das infracções a que se refere o artigo anterior, relativas à declaração e documentos exigidos no artigo 356.º, observar-se-á o seguinte:
 
 1.º Reduzir-se-ão a metade os limites das multas estabelecidas nas alíneas a) e b) do artigo anterior;
 
 2.º Se o infractor estiver isento do imposto, será punido com multa de 1000$00 a 30000$00.
 
-###### Art. 361.º Aos contribuintes do grupo A do imposto sobre a indústria agrícola é aplicável o disposto nos artigos 144.º, 145.º, 146.º-A, 147.º, 147.º-A, 160.º e 161.º do CCI quanto aos contribuintes do mesmo grupo.
+Art. 361.º Aos contribuintes do grupo A do imposto sobre a indústria agrícola é aplicável o disposto nos artigos 144.º, 145.º, 146.º-A, 147.º, 147.º-A, 160.º e 161.º do CCI quanto aos contribuintes do mesmo grupo.
 
-###### Art. 362.º Aos contribuintes do grupo B do imposto sobre a indústria agrícola é aplicável o disposto nos artigos 146.º, 146.º-A, 147.º e 147.º-A do CCI quanto aos contribuintes do mesmo grupo.
+Art. 362.º Aos contribuintes do grupo B do imposto sobre a indústria agrícola é aplicável o disposto nos artigos 146.º, 146.º-A, 147.º e 147.º-A do CCI quanto aos contribuintes do mesmo grupo.
 
 § único. As referências feitas nos mesmos artigos aos livros exigidos no artigo 133.º devem considerar-se feitas aos livros exigidos no artigo 349.º deste Código.
 
-###### Art. 363.º A infracção ao disposto no artigo 369.º será punida com a multa de 30000$00 a 600000$00.
+Art. 363.º A infracção ao disposto no artigo 369.º será punida com a multa de 30000$00 a 600000$00.
 
-###### Art. 364.º As infracções por falta de entrega dos elementos solicitados nos termos do artigo 357.º, bem como as omissões ou inexactidões neles praticadas, serão punidas com multa de 1000$00 a 60000$00, salvo se forem cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 303.º
+Art. 364.º As infracções por falta de entrega dos elementos solicitados nos termos do artigo 357.º, bem como as omissões ou inexactidões neles praticadas, serão punidas com multa de 1000$00 a 60000$00, salvo se forem cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 303.º
 
-###### Art. 365.º Pela apresentação fora do prazo de quaisquer declarações exigidas na parte II deste Código e bem assim por qualquer infracção não especialmente sancionada nos artigos anteriores será aplicável a multa de 1000$00 a 60000$00.
+Art. 365.º Pela apresentação fora do prazo de quaisquer declarações exigidas na parte II deste Código e bem assim por qualquer infracção não especialmente sancionada nos artigos anteriores será aplicável a multa de 1000$00 a 60000$00.
 
-###### Art. 366.º Na aplicação das multas observar-se-á o disposto nos artigos 294.º, 303.º e 305.º a 314.º
+Art. 366.º Na aplicação das multas observar-se-á o disposto nos artigos 294.º, 303.º e 305.º a 314.º
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 367.º As sociedades com sede no estrangeiro ou nos territórios sob administração portuguesa que tenham a direcção efectiva no território nacional serão consideradas, para efeitos deste Código, como tendo aí a sua sede.
+Art. 367.º As sociedades com sede no estrangeiro ou nos territórios sob administração portuguesa que tenham a direcção efectiva no território nacional serão consideradas, para efeitos deste Código, como tendo aí a sua sede.
 
-###### Art. 368.º As pessoas singulares ou colectivas que beneficiem de isenção temporária de imposto sobre a indústria agrícola ficam sujeitas ao cumprimento das obrigações estabelecidas na parte II deste Código para os contribuintes não isentos.
+Art. 368.º As pessoas singulares ou colectivas que beneficiem de isenção temporária de imposto sobre a indústria agrícola ficam sujeitas ao cumprimento das obrigações estabelecidas na parte II deste Código para os contribuintes não isentos.
 
-###### Art. 369.º Os contribuintes do grupo A e as sociedades regularmente constituídas de harmonia com a legislação comercial pertencentes ao grupo B ficam obrigados a possuir contabilidade devidamente organizada.
+Art. 369.º Os contribuintes do grupo A e as sociedades regularmente constituídas de harmonia com a legislação comercial pertencentes ao grupo B ficam obrigados a possuir contabilidade devidamente organizada.
 
-###### Art. 370.º O Serviço de Informação de Mercados Agrícolas do Ministério da Agricultura, Pescas e Alimentação remeterá anualmente, no mês de Janeiro, com referência ao ano anterior e relativamente a cada repartição de finanças, um mapa das médias dos preços de venda, pelos produtores, dos produtos agrícolas, silvícolas e pecuários normalmente produzidos nas respectivas áreas, tendo em conta os preços correntemente praticados, no mercado local, nos períodos de maior intensidade de vendas, às seguintes entidades:
+Art. 370.º O Serviço de Informação de Mercados Agrícolas do Ministério da Agricultura, Pescas e Alimentação remeterá anualmente, no mês de Janeiro, com referência ao ano anterior e relativamente a cada repartição de finanças, um mapa das médias dos preços de venda, pelos produtores, dos produtos agrícolas, silvícolas e pecuários normalmente produzidos nas respectivas áreas, tendo em conta os preços correntemente praticados, no mercado local, nos períodos de maior intensidade de vendas, às seguintes entidades:
 
 1.º Instituto Geográfico e Cadastral, um exemplar relativo a todas as repartições de finanças, para efeitos do disposto no § 1.º do artigo 71.º;
 
@@ -594,8 +628,8 @@ Verificando-se também a infracção prevista no artigo 146.º-A do mesmo Códig
 
 § 2.º As entidades a que se referem os n.os 1.º e 2.º poderão, a todo o tempo, solicitar ao serviço mencionado no corpo deste artigo os elementos disponíveis de informação sobre mercados agrícolas, incluindo os dos anos anteriores.
 
-###### Art. 371.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, notas, relações ou participações que lhes forem remetidas em duplicado ou triplicado, salvo tratando-se da declaração modelo n.º 2, do grupo A, do imposto sobre a indústria agrícola, caso em que será devolvido o original do conhecimento modelo n.º 5 ou o recibo modelo n.º 6, conforme o caso.
+Art. 371.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, notas, relações ou participações que lhes forem remetidas em duplicado ou triplicado, salvo tratando-se da declaração modelo n.º 2, do grupo A, do imposto sobre a indústria agrícola, caso em que será devolvido o original do conhecimento modelo n.º 5 ou o recibo modelo n.º 6, conforme o caso.
 
-###### Art. 372.º As declarações, notas, relações ou participações e outros documentos a apresentar nas repartições de finanças pelos contribuintes, serviços públicos e quaisquer entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e fraquiado, para devolução imediata, também sob registo, dos duplicados ou dos documentos, quando for caso disso.
+Art. 372.º As declarações, notas, relações ou participações e outros documentos a apresentar nas repartições de finanças pelos contribuintes, serviços públicos e quaisquer entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e fraquiado, para devolução imediata, também sob registo, dos duplicados ou dos documentos, quando for caso disso.
 
-###### Art. 373.º As disposições dos dois artigos anteriores aplicar-se-ão igualmente em matéria de contribuição predial.
+Art. 373.º As disposições dos dois artigos anteriores aplicar-se-ão igualmente em matéria de contribuição predial.

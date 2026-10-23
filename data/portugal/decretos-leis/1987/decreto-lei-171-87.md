@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09100/15951596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1987-666322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ad99fcf121010a904aafe49164d9ff215e7ab7cc981b8f9831eda531205336
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7edc094301e87af685c522231b339b3f54846898910fcd2061596ffa47e95df3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Pensões
+- Instituto de Seguros de Portugal
+- Seguro
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:66041391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508454:por
+  label: "Revogado, a partir de 01.07.1991, o nº 3 do art. 21º do Dec 17555, de 05-Nov 1929, na redacção dada pelo art. 2º\
+    \ do presente diploma, pelo DEC LEI.50/91.25.01.1991.MF, DR.IS-A [21] de 25.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1991-508454
+  date: '1991-01-25'
+- type: repealed_by
+  target: pt:dre:66041391:por
+  label: Revogado, a partir de 01.02.2015, pelo(a) Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2015-66041391
+  date: '2015-01-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:54Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +138,7 @@ Assim:
 
 No uso da autorização conferida pelas alíneas e), f) e g) do n.º 1 do artigo 61.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As entidades gestoras dos fundos de pensões autorizadas a exercer a sua actividade em Portugal devem, em cada ano, ao Instituto de Seguros de Portugal (ISP) um montante correspondente à aplicação de uma taxa sobre a totalidade das contribuições efectuadas pelos associados e pelos participantes para os correspondentes fundos de pensões.
+Artigo 1.º - 1 - As entidades gestoras dos fundos de pensões autorizadas a exercer a sua actividade em Portugal devem, em cada ano, ao Instituto de Seguros de Portugal (ISP) um montante correspondente à aplicação de uma taxa sobre a totalidade das contribuições efectuadas pelos associados e pelos participantes para os correspondentes fundos de pensões.
 
 2 - A taxa referida no número anterior, que não poderá, no entanto, exceder o limite máximo de 0,1%, será fixada anualmente pelo Ministro das Finanças, tendo em consideração a proposta apresentada pelo ISP.
 
@@ -115,9 +150,9 @@ No uso da autorização conferida pelas alíneas e), f) e g) do n.º 1 do artigo
 
 6 - A taxa referida no n.º 2 é fixada em 0,1% relativamente ao ano de 1987.
 
-###### Art. 2.º O artigo 21.º do [Decreto n.º 17555](https://diariodarepublica.pt/dr/detalhe/decreto/17555-1929-290413), de 5 de Novembro de 1929, passa a ter a seguinte redacção:
+Art. 2.º O artigo 21.º do [Decreto n.º 17555](https://diariodarepublica.pt/dr/detalhe/decreto/17555-1929-290413), de 5 de Novembro de 1929, passa a ter a seguinte redacção:
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 1.º ...
 
@@ -125,22 +160,22 @@ No uso da autorização conferida pelas alíneas e), f) e g) do n.º 1 do artigo
 
 3.º A uma taxa de 1,75% sobre a receita processada, líquida de estornos e anulações, relativa aos prémios de seguro directamente subscritos pelas empresas, com exclusão do ramo «Vida».
 
-###### Art. 3.º A alínea a) do n.º 1 do artigo 29.º do [Decreto-Lei n.º 234/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1981-576950), de 3 de Agosto, passa a ter a seguinte redacção:
+Art. 3.º A alínea a) do n.º 1 do artigo 29.º do [Decreto-Lei n.º 234/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1981-576950), de 3 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 29.º - 1 - ...
+Art. 29.º - 1 - ...
 
 a) 1% dos prémios ou contribuições relativos a seguros, em caso de morte, do ramo «Vida», e respectivas coberturas complementares e a seguro dos ramos «Doença», «Acidentes», «Veículos terrestres» e «Responsabilidade civil de veículos terrestres a motor», cobrados no continente;
 
-###### Art. 4.º As alterações introduzidas nos termos do artigo 2.º do presente diploma produzem efeitos a partir de 1 de Janeiro de 1987.
+Art. 4.º As alterações introduzidas nos termos do artigo 2.º do presente diploma produzem efeitos a partir de 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

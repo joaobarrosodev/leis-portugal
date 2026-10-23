@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08200/13901391.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d85f941a92029b1d438c7ea2494018646aa5bb5d68efe02069d958a12199746
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9412c24fd4c75f515fb3b0beb9f543f18060326d26a4ced6b43fe624a5332606
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário da República
+- Diploma Legal
+- Formulário dos Diplomas
 relationships:
 - type: amended_by
   target: pt:dre:234316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234316:por
+  label: "Revogado, a partir de 16.11.1998, pela LEI.74/98.1998.11.11.AR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/74-1998-234316
+  date: '1998-11-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:08Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +128,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os diplomas emanados do Governo obedecem aos presentes formulários:
+Artigo 1.º Os diplomas emanados do Governo obedecem aos presentes formulários:
 
 a) Decretos-leis previstos na alínea a) do n.º 1 do artigo 201.º da Constituição:
 
@@ -112,15 +140,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 b) Decretos-leis previstos na alínea b) do n.º 1 do artigo 201.º da Constituição:
 
@@ -132,15 +160,15 @@ No uso da autorização legislativa concedida pelo artigo ... da Lei n.º .../..
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 c) Decretos-leis previstos na alínea c) do n.º 1 do artigo 201.º da Constituição:
 
@@ -152,15 +180,15 @@ No desenvolvimento do regime jurídico estabelecido pela Lei (ou Decreto-Lei) n.
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 d) Decretos regulamentares:
 
@@ -174,15 +202,15 @@ Presidência do Conselho de Ministros, ... de ... de ... (data).
 
 (Assinaturas do Primeiro-Ministro e ministros competentes.)
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 e) Decretos previstos na alínea c) do n.º 1 do artigo 200.º da Constituição:
 
@@ -194,13 +222,13 @@ Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinatu
 
 Ratificado (ou Assinado, conforme se trate de tratados solenes ou de acordos em forma simplificada) em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 f) Decretos previstos na alínea g) do artigo 202.º da Constituição:
 
@@ -212,15 +240,15 @@ Presidência do Conselho de Ministros, ... de ... de ... (data).
 
 (Assinaturas do Primeiro-Ministro e ministros competentes.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 g) Resoluções do Conselho de Ministros:
 
@@ -240,7 +268,7 @@ Manda o Governo, pelo ... (indicar o membro competente), o seguinte:
 
 (Indicação do departamento governamental.)
 
-**Assinada em ...**
+Assinada em ...
 
 (Assinatura do membro ou membros do Governo.)
 
@@ -252,23 +280,23 @@ O ... (indicar o membro do Governo) faz saber o seguinte:
 
 (Indicação do departamento governamental.)
 
-**Assinado em ...**
+Assinado em ...
 
 (Assinatura do membro do Governo.)
 
-###### Art. 2.º Os decretos de nomeação dos membros dos governos regionais obedecem ao seguinte formulário:
+Art. 2.º Os decretos de nomeação dos membros dos governos regionais obedecem ao seguinte formulário:
 
 Ao abrigo do n.º 3 (ou n.º 4, consoante o caso) do artigo 233.º da Constituição, nomeio:
 
 (Segue-se o texto).
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma d..., ... (assinatura).**
+O Ministro da República para a Região Autónoma d..., ... (assinatura).
 
-###### Art. 3.º As propostas de lei do Governo devem conter uma exposição de motivos e obedecer ao presente formulário:
+Art. 3.º As propostas de lei do Governo devem conter uma exposição de motivos e obedecer ao presente formulário:
 
 Assim:
 
@@ -278,18 +306,18 @@ Nos termos da alínea d) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-###### Art. 4.º São revogadas as disposições constantes do n.º 1 do artigo 9.º, relativamente aos diplomas emanados do Governo, e dos n.os 4, 5, 6 e 7 do artigo 10.º da [Lei n.º 6/83](https://diariodarepublica.pt/dr/detalhe/lei/6-1983-454286), de 29 de Julho.
+Art. 4.º São revogadas as disposições constantes do n.º 1 do artigo 9.º, relativamente aos diplomas emanados do Governo, e dos n.os 4, 5, 6 e 7 do artigo 10.º da [Lei n.º 6/83](https://diariodarepublica.pt/dr/detalhe/lei/6-1983-454286), de 29 de Julho.
 
-###### Art. 5.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+Art. 5.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 24 de Março de 1988.**
+Promulgado em 24 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1988.**
+Referendado em 25 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

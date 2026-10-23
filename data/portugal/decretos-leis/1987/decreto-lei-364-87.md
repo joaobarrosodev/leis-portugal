@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/27400/41604161.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1987-498553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b396732e658f909a687db57b37259a3f51b78abf814881a444961971fb74db7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c0bd03eab375a504d7694f08e9e65008e1c49807c55c66f85c1f9879274770b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Valores
+- Mercado de Títulos
+- Obrigações do Tesouro
 relationships:
+- type: amended_by
+  target: pt:dre:150509:por
+  label: "19920204 - ALTERADO O ARTIGO 1 PELO DECRETO LEI 11/92, PUBLICADO NO DR.IS-A, 29. \029."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1992-150509
 - type: amended_by
   target: pt:dre:241413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:436643:por
+  label: "Alterada a redacção do art. 5º pelo DEC LEI.5-A/94.1994.01.11.MF, DR.IS-A [8]Supl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1994-436643
+  date: '1994-01-11'
+- type: repealed_by
+  target: pt:dre:241413:por
+  label: "Revogado, na redacção dada pelo Dec Lei 11/92 de 04-Fev e pelo Dec Lei 5-A/94 de 11-Jan, pelo DEC LEI.280/98.1998.09.17.MF;\
+    \ DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1998-241413
+  date: '1998-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:59Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +120,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os empréstimos internos de médio prazo que o Governo esteja autorizado a contrair podem ser denominados e representados por obrigações do Tesouro (OT), com as características e as condições técnicas previstas no presente diploma.
+Artigo 1.º Os empréstimos internos de médio prazo que o Governo esteja autorizado a contrair podem ser denominados e representados por obrigações do Tesouro (OT), com as características e as condições técnicas previstas no presente diploma.
 
-###### Art. 2.º - 1 - As emissões das obrigações mencionadas no artigo anterior são referenciadas pela taxa de juro da emissão e pela data de reembolso, mês e ano, tendo as obrigações o valor nominal de 10000$00.
+Art. 2.º - 1 - As emissões das obrigações mencionadas no artigo anterior são referenciadas pela taxa de juro da emissão e pela data de reembolso, mês e ano, tendo as obrigações o valor nominal de 10000$00.
 
 2 - A taxa de juro da emissão é a taxa de colocação determinada nos termos do n.º 1 do artigo 5.º
 
@@ -114,11 +132,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Os títulos com a mesma taxa de juro e data de reembolso consideram-se fungíveis, ainda que emitidos em datas diferentes.
 
-###### Art. 3.º - 1 - As OT são colocadas no sistema financeiro em sessões de mercado realizadas com essa finalidade.
+Art. 3.º - 1 - As OT são colocadas no sistema financeiro em sessões de mercado realizadas com essa finalidade.
 
 2 - Têm acesso directo às referidas sessões as instituições de crédito bem como as instituições financeiras ou entidades especializadas em transacção de valores mobiliários para o efeito autorizadas pelo Ministo das Finanças, podendo as mesmas actuar por conta própria ou de terceiros.
 
-###### Art. 4.º - 1 - As propostas de compra das OT devem ser apresentadas à Junta do Crédito Público, nos termos que esta fixar, antes do início de cada sessão do respectivo mercado.
+Art. 4.º - 1 - As propostas de compra das OT devem ser apresentadas à Junta do Crédito Público, nos termos que esta fixar, antes do início de cada sessão do respectivo mercado.
 
 2 - As propostas referidas no número anterior são seleccionadas por ordem crescente das taxas de rendimento pretendido, desde que não superiores à taxa máxima de juro que o Estado estiver disposto a pagar, até perfazer o montante das obrigações a colocar.
 
@@ -126,7 +144,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Em cada sessão de mercado, a emissão pode ser tomada firme por quaisquer instituições financeiras, em condições a acordar entre estas e o Ministro das Finanças.
 
-###### Art. 5.º - 1 - Em cada sessão de mercado, a taxa a que as OT são colocadas é determinada em função da procura, considerando os montantes e respectivas taxas de rendimento propostos, ou será previamente fixada, por despacho do Ministro das Finanças.
+Art. 5.º - 1 - Em cada sessão de mercado, a taxa a que as OT são colocadas é determinada em função da procura, considerando os montantes e respectivas taxas de rendimento propostos, ou será previamente fixada, por despacho do Ministro das Finanças.
 
 2 - As obrigações são colocadas por um valor que, por aplicação da taxa de colocação a que se refere o número anterior, proporcione a taxa de rendimento pretendida pelo adquirente, em condições a definir por portaria do Ministro das Finanças.
 
@@ -134,38 +152,38 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os juros são contados e pagos semestralmente, salvo quanto ao primeiro período de contagem e pagamento, que poderá ser inferior.
 
-###### Art. 6.º - 1 - As OT podem ser transaccionadas no mercado secundário, tanto pelas instituições que as hajam subscrito como pelo Banco de Portugal, actuando este por conta própria ou como agente do Estado.
+Art. 6.º - 1 - As OT podem ser transaccionadas no mercado secundário, tanto pelas instituições que as hajam subscrito como pelo Banco de Portugal, actuando este por conta própria ou como agente do Estado.
 
 2 - As instituições a que se refere o n.º 2 do artigo 3.º podem colocar as obrigações junto do público.
 
 3 - Os detentores das referidas obrigações podem transaccioná-las entre si, através das instituições a que se refere o n.º 2 do artigo 3.º
 
-###### Art. 7.º A colocação e a subsequente movimentação das OT efectuam-se por forma meramente escritural entre contas-títulos.
+Art. 7.º A colocação e a subsequente movimentação das OT efectuam-se por forma meramente escritural entre contas-títulos.
 
-###### Art. 8.º - 1 - O reembolso das OT e o pagamento dos respectivos juros são efectuados nas datas de vencimento pelas instituições onde se encontrem abertas as contas-títulos referidas no artigo anterior.
+Art. 8.º - 1 - O reembolso das OT e o pagamento dos respectivos juros são efectuados nas datas de vencimento pelas instituições onde se encontrem abertas as contas-títulos referidas no artigo anterior.
 
 2 - A Junta do Crédito Público promove, nas datas de vencimento, a efectivação do débito na conta do Tesouro pelas importâncias necessárias ao pagamento das amortizações e juros.
 
 3 - Nas mesmas datas, o Banco de Portugal debita a conta da Junta do Crédito Público e credita as contas das instituições pelas importâncias correspondentes.
 
-###### Art. 9.º A importância das subscrições feitas pelas instituições é entregue por estas no Banco de Portugal, como Caixa Geral do Tesouro, na data do início de contagem de juros.
+Art. 9.º A importância das subscrições feitas pelas instituições é entregue por estas no Banco de Portugal, como Caixa Geral do Tesouro, na data do início de contagem de juros.
 
-###### Art. 10.º As OT gozam dos privilégios e garantias reconhecidos aos restantes títulos da dívida pública.
+Art. 10.º As OT gozam dos privilégios e garantias reconhecidos aos restantes títulos da dívida pública.
 
-###### Art. 11.º - 1 - Compete à Junta do Crédito Público o serviço da dívida pública constituída nos termos do presente diploma e a emissão das instruções que se mostrem necessárias ao funcionamento do mercado e publicação de informação estatística relativa às OT.
+Art. 11.º - 1 - Compete à Junta do Crédito Público o serviço da dívida pública constituída nos termos do presente diploma e a emissão das instruções que se mostrem necessárias ao funcionamento do mercado e publicação de informação estatística relativa às OT.
 
 2 - A Junta do Crédito Público prestará todas as informações necessárias à Direcção-Geral do Tesouro, que se deve fazer representar, bem como o Banco de Portugal, nas sessões de colocação das obrigações.
 
-###### Art. 12.º Serão inscritas no Orçamento do Estado as verbas indispensáveis para acorrer ao serviço da dívida pública regulada pelo presente diploma.
+Art. 12.º Serão inscritas no Orçamento do Estado as verbas indispensáveis para acorrer ao serviço da dívida pública regulada pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 12 de Novembro de 1987.**
+Promulgado em 12 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Novembro de 1987.**
+Referendado em 18 de Novembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

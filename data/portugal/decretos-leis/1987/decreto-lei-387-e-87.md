@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 298/1987, 2º Suplemento, Série I de 1987-12-29
   number: '298'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4424-(42) a 4424-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29802/00420043.pdf
 entry_into_force_dates: []
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-e-1987-670286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a58aeb67ed2047775cc95cf8fa766a2b2113580c70f065ea6d29bf6b88352810
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bd7df7a11ef0ee3197e43544dd91795c16c1027d8c329be0517a47a51e4b607
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
 relationships:
 - type: amended_by
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626590:por
+  label: "Alterado o art. 16.º do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, na redacção do presente\
+    \ diploma, pelo DEC LEI.317/95.28.11.1995.MJ, DR.IS-A [275] de 28.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-1995-626590
+  date: '1995-11-28'
+- type: amended_by
+  target: pt:dre:448110:por
+  label: "Alterados os arts 12.º e 16.º do Código de Processo Penal, aprovado pelo Dec Lei 78/87 de 17-Fev, na redacção do\
+    \ presente diploma, e republicado com a redacção actual pela LEI.59/98.25.08.1998.AR, DR.IS-A [195] de 25.08.1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1998-448110
+  date: '1998-08-25'
+- type: amended_by
+  target: pt:dre:641082:por
+  label: "Alterado a partir de 15.09.2007, o art 12º do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, na\
+    \ redacção do presente diploma, pela LEI.48/2007.29.08.2007.AR, DR.IS [166] de 29.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2007-641082
+  date: '2007-08-29'
+- type: amended_by
+  target: pt:dre:258493:por
+  label: Alterado o art. 16º do Código de Processo Penal, aprovado pelo Dec Lei 78/87, de 17-fev, na redação do presente diploma,
+    pela LEI.20/2013.21.02.2013.AR, DR.IS [37] de 21.02.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2013-258493
+  date: '2013-02-21'
+- type: cites
+  target: pt:dre:631195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694035:por
+  label: "Revogado o art 1º pelo DEC LEI.17/91.1991.01.10.MJ DR.IS-A [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1991-694035
+  date: '1991-01-10'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:22Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +141,7 @@ Aproveita-se, ainda, o ensejo para se proceder à rectificação de alguns lapso
 
 Nestes termos, e no uso da autorização concedida pela [Lei n.º 42/87](https://diariodarepublica.pt/dr/detalhe/lei/42-1987-631195), o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º - 1 - As transgressões ou contravenções puníveis só com pena de multa ou com medida de segurança não detentiva seguem a tramitação processual prevista no artigo 3.º do [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, com as seguintes especialidades:
+Artigo 1.º - 1 - As transgressões ou contravenções puníveis só com pena de multa ou com medida de segurança não detentiva seguem a tramitação processual prevista no artigo 3.º do [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, com as seguintes especialidades:
 
 a) A remessa a tribunal, pelos órgãos de polícia criminal, dos autos de notícia levantados equivale ao requerimento previsto na alínea a) do n.º 2 daquele artigo desde que contenham os elementos nele previstos;
 
@@ -117,7 +155,7 @@ e) Não tendo havido pagamento voluntário no prazo determinado, o juiz designa 
 
 2 - Não se aplicam aos processos a que se refere o número anterior o disposto nos artigos 390.º, 395.º, 396.º, 397.º e 398.º do Código de Processo Penal nem a alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro.
 
-###### Art. 2.º O artigo 5.º, n.º 2, do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 5.º, n.º 2, do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passa a ter a seguinte redacção:
 
 A lei processual penal não se aplica aos processos iniciados anteriormente à sua vigência quando da sua aplicabilidade imediata possa resultar:
 
@@ -125,7 +163,7 @@ a) ...
 
 b) ...
 
-###### Art. 3.º O artigo 12.º, n.º 1, do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 12.º, n.º 1, do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 12.º — Competência das relações
 
@@ -135,7 +173,7 @@ a) ...
 
 b) Exercer as demais atribuições conferidas por lei.
 
-###### Art. 4.º O artigo 16.º do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passa a ter a seguinte redacção:
+Art. 4.º O artigo 16.º do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 16.º — Competência do tribunal singular
 
@@ -153,16 +191,16 @@ c) Cuja pena máxima, abstractamente aplicável, for igual ou inferior a três a
 
 4 - (O actual n.º 3.)
 
-###### Art. 5.º O presente diploma entra em vigor na mesma data em que começar a vigorar o Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro.
+Art. 5.º O presente diploma entra em vigor na mesma data em que começar a vigorar o Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 29 de Dezembro de 1987.**
+Promulgado em 29 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1987.**
+Referendado em 29 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

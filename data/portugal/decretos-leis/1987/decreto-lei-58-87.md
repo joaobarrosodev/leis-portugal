@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1987-663145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 776e3ec6d17640407f756f81cc1f04612f8dfc7f360d28d8af9f9c583e2d671f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47436a15c7a23ff6c300aeeb9886433d95aec283bf3519dfb4e15e061185a799
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:250639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:16Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +103,18 @@ Considerando que este procedimento não é necessário no âmbito da prestação
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aditado ao artigo 576.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, o seguinte parágrafo:
+Artigo único. É aditado ao artigo 576.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, o seguinte parágrafo:
 
 § único. A notificação prevista no corpo deste artigo não terá lugar quando a exigibilidade da dívida aduaneira resultar do decurso do prazo de prorrogação do pagamento dos direitos.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

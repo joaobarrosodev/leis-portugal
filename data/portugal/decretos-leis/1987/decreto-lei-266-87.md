@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/14800/25182521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1987-419608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f30f93631f905ac5d25827939e5f55186c764c96784a706ee1219b6957bc88cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6b06ec36af56b60617de28ed5f2b88b42173746b2295a323d74d01d46591dcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Direitos de Importação
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: corrected_by
+  target: pt:dre:449767:por
+  label: Rectificado pela DECL.DD4399.20.07.1987.PCM, DR.IS [174-supl] de 31.07.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-449767
+  date: '1987-07-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:26Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +113,9 @@ No uso da autorização conferida pela alínea b) do artigo 36.º da Lei n.º 49
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma quando estejam nas condições previstas nos artigos 9.º e 10.º do Suspende a cobrança da totalidade dos direitos de importação aplicáveis a certas mercadorias quando estejam nas condições previstas nos artigos 9.º e 10.º do [Tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) ou quando originárias da EFTA, durante o ano de 1987 ou quando originárias da EFTA, durante o ano de 1987, e nos limites dos contingentes pautais referidos naquele anexo.
+Artigo 1.º É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma quando estejam nas condições previstas nos artigos 9.º e 10.º do Suspende a cobrança da totalidade dos direitos de importação aplicáveis a certas mercadorias quando estejam nas condições previstas nos artigos 9.º e 10.º do [Tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) ou quando originárias da EFTA, durante o ano de 1987 ou quando originárias da EFTA, durante o ano de 1987, e nos limites dos contingentes pautais referidos naquele anexo.
 
-###### Art. 2.º - 1 - A atribuição do benefício consagrado no presente decreto-lei deverá ter em conta, relativamente a cada contingente, o montante das importações efectivamente realizadas pelos importadores tradicionais dos produtos em causa nos 24 meses que antecederam a data da publicação do diploma legal que o instituiu. A cada um dos referidos importadores tradicionais e para cada um dos contingentes caberá um quantitativo proporcional àquele montante.
+Art. 2.º - 1 - A atribuição do benefício consagrado no presente decreto-lei deverá ter em conta, relativamente a cada contingente, o montante das importações efectivamente realizadas pelos importadores tradicionais dos produtos em causa nos 24 meses que antecederam a data da publicação do diploma legal que o instituiu. A cada um dos referidos importadores tradicionais e para cada um dos contingentes caberá um quantitativo proporcional àquele montante.
 
 2 - Aos importadores referidos no número anterior caberá fazer prova das importações realizadas no período em causa.
 
@@ -111,20 +125,20 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 5 - Na admissão e no modo de gestão observar-se-á o disposto na Portaria n.º 787/86, de 31 de Dezembro.
 
-###### Art. 3.º O disposto no presente diploma produz efeitos desde 1 de Janeiro de 1987.
+Art. 3.º O disposto no presente diploma produz efeitos desde 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 9 de Junho de 1987.**
+Promulgado em 9 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Junho de 1987.**
+Referendado em 11 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Lista a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/14800/25182521.pdf))](https://files.diariodarepublica.pt/1s/1987/07/14800/25182521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/14800/25182521.pdf)

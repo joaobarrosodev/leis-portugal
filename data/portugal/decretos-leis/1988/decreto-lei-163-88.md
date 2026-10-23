@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1988-374830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd7b50d78e852f63cbf3722f607e6ff6ff46b7bc88422b20e88b6067d59f7742
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 886c6f62fff4a2ea6ce8f797cb5c6cec3f98ae2e5d0449e65040e36f7a26c66c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formação Profissional
+- Instituto Superior de Engenharia
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:573105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573105:por
+  label: "Alterado o art. 3º pelo DEC LEI.242/90.1990.07.26.ME DR.IS [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1990-573105
+  date: '1990-07-26'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608189:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222408:por
+  label: Rectificado pela DECL.DD2659.1988.05.23.PCM,DR.IS [126]3º Supl de 31/Mai/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-222408
+  date: '1988-05-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:57Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +133,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro.
+Artigo 1.º Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro.
 
-###### Art. 2.º Enquanto não obtiverem as condições estabelecidas no [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, para efeitos de acesso ao 1.º escalão de vencimento os mestres dos quadros dos institutos superiores de engenharia mantêm o escalão de vencimentos que lhes foi atribuído pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 133/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1980-474086), de 17 de Maio.
+Art. 2.º Enquanto não obtiverem as condições estabelecidas no [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, para efeitos de acesso ao 1.º escalão de vencimento os mestres dos quadros dos institutos superiores de engenharia mantêm o escalão de vencimentos que lhes foi atribuído pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 133/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1980-474086), de 17 de Maio.
 
-###### Art. 3.º O curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1989.
+Art. 3.º O curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 29 de Abril de 1988.**
+Promulgado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

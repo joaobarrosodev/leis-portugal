@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12300/21432143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1987-421671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34c3a889c42c82d03ad6b9be09bf6940e2c4e87eb9edb22fc9c2e3d0986bc788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a61a25af41cf47bd568ddb29d1fa66fa46d5093fa857784821762497ba74ae96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Boletim Oficial de Macau
+- Código do Processo Civil
+- Macau
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:42Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +136,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aplicáveis ao território de Macau, devendo ser publicados no respectivo Boletim Oficial, os seguintes diplomas:
+Artigo 1.º São aplicáveis ao território de Macau, devendo ser publicados no respectivo Boletim Oficial, os seguintes diplomas:
 
 a) [Decreto-Lei n.º 121/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1976-506793), de 11 de Fevereiro;
 
@@ -116,16 +152,16 @@ f) [Decreto-Lei n.º 207/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 g) [Decreto-Lei n.º 381-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-a-1985-476742), de 28 de Setembro.
 
-###### Art. 2.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 2.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 13 de Maio de 1987.**
+Promulgado em 13 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

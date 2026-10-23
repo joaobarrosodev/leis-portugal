@@ -47,36 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1987-419187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d9cad703d1ffc2a4920a9188316e0e2615f31757d58075aec7ea5a9a5fae80e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85ef13d71041a772e582ee054f3aea86c272498b87a94e8f4830e8773aea3f6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Accionista
+- Banco Comercial
+- Banco de Investimento
+- Capital Social
+- Desenvolvimento Regional
+- Factoring
+- Fundo de Investimento Mobiliário
+- Instituição de Crédito
+- Instituições Parabancárias
+- Investimento
+- Locação Financeira
+- Mediação de Capitais
+- Orgânica
+- Regime Jurídico
+- Seguro
+- Setor Privado
+- Sociedade de Desenvolvimento Regional
+- Sociedade de Factoring
+- Sociedade de Gestão e Investimento Imobiliário
+- Sociedade de Investimento
+- Sociedade de Locação Financeira
+- Sociedade Mediadora
+- Sociedade Parabancária
+relationships:
+- type: cites
+  target: pt:dre:152331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496332:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:49Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +182,7 @@ i) O artigo 6.º do [Decreto-Lei n.º 499/80](https://diariodarepublica.pt/dr/de
 
 j) O n.º 4 do artigo 2.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho.
 
-###### Art. 2.º - 1 - Qualquer pessoa singular ou colectiva que, directamente ou por interposta pessoa, seja titular de acções ou de outras partes de capital representativas de, pelo menos, 15% do capital social de sociedades anónimas de seguros, de instituições de crédito ou parabancárias deve comunicar ao Instituto de Seguros de Portugal (ISP) ou ao Banco de Portugal (BP), consoante se trate, respectivamente, de sociedades anónimas de seguros ou de instituições de crédito ou parabancárias, o montante da respectiva participação. Idêntica obrigação recai sobre as sociedades participadas em relação às participações atrás referidas de que tenham conhecimento.
+Art. 2.º - 1 - Qualquer pessoa singular ou colectiva que, directamente ou por interposta pessoa, seja titular de acções ou de outras partes de capital representativas de, pelo menos, 15% do capital social de sociedades anónimas de seguros, de instituições de crédito ou parabancárias deve comunicar ao Instituto de Seguros de Portugal (ISP) ou ao Banco de Portugal (BP), consoante se trate, respectivamente, de sociedades anónimas de seguros ou de instituições de crédito ou parabancárias, o montante da respectiva participação. Idêntica obrigação recai sobre as sociedades participadas em relação às participações atrás referidas de que tenham conhecimento.
 
 2 - Para efeitos do disposto no número anterior, consideram-se interpostas pessoas as referidas no n.º 2 do artigo 447.º do Código das Sociedades.
 
@@ -127,16 +190,16 @@ j) O n.º 4 do artigo 2.º do [Decreto-Lei n.º 291/85](https://diariodarepublic
 
 4 - Do incumprimento do disposto no n.º 1, implicando o desconhecimento da parte do ISP ou do BP da situação de titularidade do capital social igual ou superior a 15%, decorre que o direito de voto em assembleia geral é limitado ao máximo de 15%.
 
-###### Art. 3.º Os actuais titulares das participações referidas no n.º 1 do artigo anterior, bem como as instituições participadas, deverão fazer as respectivas comunicações no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei.
+Art. 3.º Os actuais titulares das participações referidas no n.º 1 do artigo anterior, bem como as instituições participadas, deverão fazer as respectivas comunicações no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Maio de 1987.**
+Promulgado em 28 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1987.**
+Referendado em 30 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

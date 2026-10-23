@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13300/22882290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1987-419188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 194338444ad908f72dd200c9a94ed3abd19ef0cee5b42065bdbcc647cf8118fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b95503d41cbca6ebe3220ece4e3ad18f6a5d741f3aaf5bf93810d5a273b38328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lagoa de Albufeira
+- Medidas Preventivas
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:51Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +117,7 @@ Nestes termos, ao abrigo do artigo 5.º do [Decreto-Lei n.º 613/76](https://dia
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A área da lagoa de Albufeira constante da planta anexa fica sujeita, pelo prazo de dois anos, às medidas preventivas e cautelares previstas neste diploma.
+Artigo 1.º - 1 - A área da lagoa de Albufeira constante da planta anexa fica sujeita, pelo prazo de dois anos, às medidas preventivas e cautelares previstas neste diploma.
 
 2 - A área a que se refere o número anterior é delimitada:
 
@@ -106,7 +125,7 @@ A norte da lagoa de Albufeira, por uma linha que se inicia perpendicularmente à
 
 A sul da lagoa, à distância de 400 m da estrada nacional n.º 377, segue até aos terrenos confinantes com a ribeira da Ferraria, prolongando-se por esta até cerca de 1,5 km. Retoma a estrada nacional n.º 377 entre os quilómetros 31 e 32 pelo caminho que passa por Aiana de Baixo, segue pela estrada nacional n.º 377 até ao caminho que liga a estrada nacional n.º 377 à Amieira, seguindo esse caminho, que, entrecruzando outros, passa pela ribeira das Lajes, Fetais, rio da Prata, ribeira da Crieira, até à foz.
 
-###### Art. 2.º Na área delimitada nos termos do artigo anterior fica sujeita a autorização do Serviço Nacional de Parques, Reservas e Conservação da Natureza a prática dos seguintes actos:
+Art. 2.º Na área delimitada nos termos do artigo anterior fica sujeita a autorização do Serviço Nacional de Parques, Reservas e Conservação da Natureza a prática dos seguintes actos:
 
 a) Construção, reconstrução ou ampliação de edifícios ou quaisquer outras instalações, incluindo murar ou vedar prédios;
 
@@ -142,7 +161,7 @@ q) Utilização de embarcações a motor na lagoa, salvo para fins científicos 
 
 r) Exploração não autorizada de recursos vivos na lagoa.
 
-###### Art. 3.º - 1 - A violação do disposto no artigo anterior constitui contra-ordenação, punível com coima:
+Art. 3.º - 1 - A violação do disposto no artigo anterior constitui contra-ordenação, punível com coima:
 
 a) De 50000$00 a 2000000$00, a violação do disposto nas alíneas a) a j);
 
@@ -164,7 +183,7 @@ b) 25% para a Câmara Municipal de Sesimbra;
 
 c) 25% para os cofres do Estado.
 
-###### Art. 4.º - 1 - Independentemente do processamento por contra-ordenação, os infractores ao disposto no artigo 2.º são obrigados a repor a situação anterior à infracção à sua custa e sem direito a qualquer indemnização.
+Art. 4.º - 1 - Independentemente do processamento por contra-ordenação, os infractores ao disposto no artigo 2.º são obrigados a repor a situação anterior à infracção à sua custa e sem direito a qualquer indemnização.
 
 2 - Se os infractores não cumprirem a obrigação estipulada no número anterior no prazo que lhes for fixado pela entidade que aplica a coima, a Câmara Municipal de Sesimbra mandará proceder a demolições, obras ou trabalhos necessários à reposição da situação anterior à infracção, a expensas dos infractores, a quem apresentará nota das despesas efectuadas.
 
@@ -172,18 +191,18 @@ c) 25% para os cofres do Estado.
 
 4 - Em caso de não ser possível a reposição da situação anterior à infracção, poderão ser fixados os trabalhos necessários à minimização dos prejuízos causados, aplicando-se, em caso de incumprimento, o disposto nos números anteriores.
 
-###### Art. 5.º Em tudo o que não estiver especialmente previsto neste diploma em matéria de contra-ordenações é aplicável o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+Art. 5.º Em tudo o que não estiver especialmente previsto neste diploma em matéria de contra-ordenações é aplicável o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Maio de 1987.**
+Promulgado em 26 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Maio de 1987.**
+Referendado em 27 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/13300/22882290.pdf))](https://files.diariodarepublica.pt/1s/1987/06/13300/22882290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/13300/22882290.pdf)

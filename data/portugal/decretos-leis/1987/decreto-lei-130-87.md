@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1987-662137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84566a1ba70ac4c7126a5297e3f39dedbf1b464e29dc2194425bc0bb1a01aebf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecf46c8a3be18bde7bd538cec855650684b253669f65b3764474d5417d4c3a8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção Financeira
+- Incentivos Fiscais
+- Mercado de Capitais
+relationships:
+- type: cites
+  target: pt:dre:151950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:16Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +111,24 @@ Por último, equipara-se a oferta pública de venda das acções à emissão por
 
 No uso da autorização conferida pelos n.os 1 e 2 do artigo 44.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As sociedades que procedam até 31 de Dezembro de 1987 à oferta pública de acções através de emissão com subscrição pública beneficiarão, nos três primeiros exercícios encerrados após a data da emissão, da redução de 40% das taxas da contribuição industrial, desde que se verifiquem os seguintes requisitos:
+Artigo 1.º As sociedades que procedam até 31 de Dezembro de 1987 à oferta pública de acções através de emissão com subscrição pública beneficiarão, nos três primeiros exercícios encerrados após a data da emissão, da redução de 40% das taxas da contribuição industrial, desde que se verifiquem os seguintes requisitos:
 
 a) Que as acções representativas do capital das sociedades em causa estejam cotadas no mercado oficial de qualquer das bolsas de valores na data da emissão ou, tendo requerido a admissão à cotação antes dessa data, a mesma bolsa haja reconhecido que só com a emissão pública se encontrem verificadas todas as condições de admissão, devendo, num e noutro caso, manter-se a cotação até ao final do ano a que respeita a redução;
 
 b) Que o número de acções que constituem a oferta pública corresponda, pelo menos, a 300000 contos de valor nominal ou a um quarto do capital social resultante da constituição ou do aumento do capital.
 
-###### Art. 2.º No caso de o contribuinte estar a beneficiar ainda da redução de taxa estabelecida no artigo 1.º do [Decreto-Lei n.º 172/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1986-228614), de 30 de Junho, a redução da taxa referida no artigo 1.º deste diploma só será aplicável ao exercício, de 1989.
+Art. 2.º No caso de o contribuinte estar a beneficiar ainda da redução de taxa estabelecida no artigo 1.º do [Decreto-Lei n.º 172/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1986-228614), de 30 de Junho, a redução da taxa referida no artigo 1.º deste diploma só será aplicável ao exercício, de 1989.
 
-###### Art. 3.º Para os efeitos do disposto no artigo 1.º, a oferta pública de venda de acções é equiparada a emissão por subscrição pública, desde que efectuada em qualquer bolsa de valores e que sejam preenchidos os requisitos referidos nas alíneas a) e b) daquele normativo.
+Art. 3.º Para os efeitos do disposto no artigo 1.º, a oferta pública de venda de acções é equiparada a emissão por subscrição pública, desde que efectuada em qualquer bolsa de valores e que sejam preenchidos os requisitos referidos nas alíneas a) e b) daquele normativo.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02100/03270328.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1987-663325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56170c7da3b6d7035b5e751be70a59ff377dfe20ef5bc9ced16d0a4b56e5ab7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d338fde9002f9521ed8a1daf86d3382d9f3233ff0ab7e041abace4543c5a5039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actividade Artística
+- Espetáculos e Divertimentos Públicos
+- Profissão Artística
 relationships:
 - type: amended_by
   target: pt:dre:248247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518225:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:248247:por
+  label: "Revogada , a partir de 12.02.2008, pela LEI.4/2008.07.02.2008.AR, DR.IS [27] de 07.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2008-248247
+  date: '2008-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:12Z'
   warnings: []
   errors: []
 ---
@@ -109,20 +137,20 @@ de 26 de Janeiro
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados os artigos 3.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840) e 18.º a 34.º e 35.º a 45.º do regulamento aprovado pelo [Decreto n.º 43190](https://diariodarepublica.pt/dr/detalhe/decreto/43190-1960-514849), ambos os diplomas datados de 23 de Setembro de 1960 e que regulam as condições gerais do exercício da actividade dos profissionais de espectáculos.
+Artigo 1.º São revogados os artigos 3.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840) e 18.º a 34.º e 35.º a 45.º do regulamento aprovado pelo [Decreto n.º 43190](https://diariodarepublica.pt/dr/detalhe/decreto/43190-1960-514849), ambos os diplomas datados de 23 de Setembro de 1960 e que regulam as condições gerais do exercício da actividade dos profissionais de espectáculos.
 
-###### Art. 2.º É revogado o [Decreto n.º 44233](https://diariodarepublica.pt/dr/detalhe/decreto/44233-1962-518225), de 12 de Março de 1962.
+Art. 2.º É revogado o [Decreto n.º 44233](https://diariodarepublica.pt/dr/detalhe/decreto/44233-1962-518225), de 12 de Março de 1962.
 
-###### Art. 3.º É revogado o n.º 7 do artigo 41.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959.
+Art. 3.º É revogado o n.º 7 do artigo 41.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

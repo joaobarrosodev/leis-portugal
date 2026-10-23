@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1988-285284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4943bf6f7895462c92a803e052fc1c70a3180912715dbd2cb0e6744fc8cb912d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c45d98bce580bc10a14cf6cbf3b788892d118ef1bc832010aefd1e6d987e6e03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Domínio Privado do Estado
+- Gabinete da Área de Sines
+- Propriedade do Estado
+- Transferência Patrimonial
+- Transmissão da Propriedade
+relationships:
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:30Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +104,24 @@ Considerando, no entanto, a obrigação imposta não só pelo simples critério 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É transmitida para o domínio privado do Estado a propriedade de 80 fogos habitacionais do Gabinete da Área de Sines (GAS), sitos no Bairro do Pinhal, Centro Urbano de Santo André, a identificar em portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e da Justiça.
+Artigo 1.º - 1 - É transmitida para o domínio privado do Estado a propriedade de 80 fogos habitacionais do Gabinete da Área de Sines (GAS), sitos no Bairro do Pinhal, Centro Urbano de Santo André, a identificar em portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e da Justiça.
 
 2 - Os fogos referidos no n.º 1 ficam afectos à Direcção-Geral dos Serviços Prisionais, do Ministério da Justiça, para instalação de funcionários do Estabelecimento Prisional Central de Pinheiro da Cruz.
 
-###### Art. 2.º - 1 - Os imóveis referidos no artigo anterior têm o valor actual de 389290000$00.
+Art. 2.º - 1 - Os imóveis referidos no artigo anterior têm o valor actual de 389290000$00.
 
 2 - Por conta do activo referido no número anterior, e em cumprimento do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho, o Ministério da Justiça inscreverá anualmente no seu orçamento uma verba, a definir pela Direcção-Geral do Património do Estado, a título de renda anual, a qual será transferida para a Direcção-Geral do Tesouro e afecta à liquidação da dívida contraída pelo GAS.
 
-###### Art. 3.º O disposto no presente diploma e a portaria referida no n.º 1 do artigo 1.º constituem título bastante de transmissão de propriedade para todos os efeitos legais, incluindo os de registo predial.
+Art. 3.º O disposto no presente diploma e a portaria referida no n.º 1 do artigo 1.º constituem título bastante de transmissão de propriedade para todos os efeitos legais, incluindo os de registo predial.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira.
 
-**Promulgado na Guarda em 30 de Março de 1988.**
+Promulgado na Guarda em 30 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1988.**
+Referendado em 5 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

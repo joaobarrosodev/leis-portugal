@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1988-282700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad9390f4c42cae2a4bdad663ba3924483c7e9cc7dce61b73262d257f2cc6f01c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1112c7fc7a9aa388e64c4f2c7257dc2f7631ab6848a4224b6f37e8eb71a68c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Universidade de Trás-os-montes e ALTO Douro
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O MAPA III PELA PORT 395/91 DE 10-MAI DR.IS-B [107]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I ANEXO PELA PORT 1267/95 DE 25-OUT DR.IS-B [247]\0DR.IS-B [247]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-25'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 41.º a 47.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:32Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +172,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º - 1 - A Universidade de Trás-os-Montes e Alto Douro, adiante designada, abreviadamente, por Universidade ou UTAD, é uma pessoa colectiva pública, dotada de autonomia pedagógica, científica, administrativa e financeira, sob tutela do Ministro da Educação.
+Artigo 1.º - 1 - A Universidade de Trás-os-Montes e Alto Douro, adiante designada, abreviadamente, por Universidade ou UTAD, é uma pessoa colectiva pública, dotada de autonomia pedagógica, científica, administrativa e financeira, sob tutela do Ministro da Educação.
 
 2 - A UTAD tem por fins:
 
@@ -120,7 +186,7 @@ c) A prestação de serviços directos à comunidade, numa base de valorização
 
 ### CAPÍTULO II — Dos órgãos, serviços e suas competências
 
-###### Art. 2.º - 1 - Para a prossecução das suas atribuições a UTAD disporá de órgãos e serviços.
+Art. 2.º - 1 - Para a prossecução das suas atribuições a UTAD disporá de órgãos e serviços.
 
 2 - São órgãos da UTAD:
 
@@ -150,7 +216,7 @@ f) A Assessoria de Planeamento.
 
 4 - A UTAD disporá ainda de serviços sociais, com a estrutura, atribuições e condições de funcionamento fixadas pelo [Decreto Regulamentar n.º 52/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1986-222606), de 6 de Outubro.
 
-###### Art. 3.º - 1 - O reitor é nomeado por despacho do Ministro da Educação de entre os professores catedráticos de nomeação definitiva em efectividade de funções na UTAD, precedendo eleição, por escrutínio secreto, do senado universitário, em reunião convocada especialmente para esse efeito.
+Art. 3.º - 1 - O reitor é nomeado por despacho do Ministro da Educação de entre os professores catedráticos de nomeação definitiva em efectividade de funções na UTAD, precedendo eleição, por escrutínio secreto, do senado universitário, em reunião convocada especialmente para esse efeito.
 
 2 - O processo da eleição a que se refere o número anterior será fixado por regulamento a aprovar por despacho do Ministro da Educação, sob proposta do senado universitário.
 
@@ -170,13 +236,13 @@ d) Exercer as competências que por lei ou pelos estatutos não sejam atribuída
 
 6 - É permitido ao reitor assistir às reuniões dos órgãos de gestão da UTAD a que não presida por direito próprio, assumindo, nesse caso, a presidência das reuniões, com voto de qualidade.
 
-###### Art. 4.º - 1 - O reitor é coadjuvado por vice-reitores, nos quais pode delegar toda ou parte da sua competência.
+Art. 4.º - 1 - O reitor é coadjuvado por vice-reitores, nos quais pode delegar toda ou parte da sua competência.
 
 2 - Os vice-reitores serão nomeados por despacho do Ministro da Educação de entre professores catedráticos em efectividade de funções na UTAD, sob proposta do reitor.
 
 3 - Por despacho do reitor será designado o vice-reitor, que o deverá substituir nas suas ausências e impedimentos.
 
-###### Art. 5.º - 1 - O senado universitário é composto:
+Art. 5.º - 1 - O senado universitário é composto:
 
 a) Pelo reitor, que presidirá;
 
@@ -204,11 +270,11 @@ j) Por duas individualidades de reconhecido mérito da região.
 
 4 - A duração do mandato dos membros eleitos do senado é de dois anos.
 
-###### Art. 6.º - 1 - O senado só pode reunir e deliberar validamente quando a maioria dos elementos presentes forem doutorados.
+Art. 6.º - 1 - O senado só pode reunir e deliberar validamente quando a maioria dos elementos presentes forem doutorados.
 
 2 - Das reuniões do senado serão elaboradas actas, que, depois de aprovadas, serão assinadas pelo presidente e pelo administrador.
 
-###### Art. 7.º - 1 - Compete ao senado universitário:
+Art. 7.º - 1 - Compete ao senado universitário:
 
 a) Aprovar as alterações aos estatutos da UTAD;
 
@@ -230,7 +296,7 @@ i) Instituir prémios escolares;
 
 j) Coadjuvar o reitor no exercício do poder disciplinar, nos termos da lei e dos estatutos.
 
-###### Art. 8.º - 1 - O conselho científico é composto por todos os doutores em efectividade de funções na UTAD.
+Art. 8.º - 1 - O conselho científico é composto por todos os doutores em efectividade de funções na UTAD.
 
 2 - Ao conselho científico compete deliberar sobre todos os assuntos de natureza científica e, designadamente:
 
@@ -252,9 +318,9 @@ h) Fazer propostas e dar parecer sobre a aquisição de equipamento científico 
 
 3 - O conselho científico funcionará em plenário, em comissão coordenadora, e por comissões especializadas.
 
-###### Art. 9.º O conselho científico rege-se por regulamento a aprovar por portaria do Ministro da Educação, sob proposta do conselho.
+Art. 9.º O conselho científico rege-se por regulamento a aprovar por portaria do Ministro da Educação, sob proposta do conselho.
 
-###### Art. 10.º - 1 - O conselho pedagógico tem a competência prevista no artigo 21.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e é constituído por representantes dos docentes e dos discentes da UTAD.
+Art. 10.º - 1 - O conselho pedagógico tem a competência prevista no artigo 21.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e é constituído por representantes dos docentes e dos discentes da UTAD.
 
 2 - O conselho pedagógico é presidido por um dos docentes membros do conselho, a eleger por escrutínio secreto de entre todos os doutorados da UTAD.
 
@@ -262,7 +328,7 @@ h) Fazer propostas e dar parecer sobre a aquisição de equipamento científico 
 
 4 - O mandato do presidente e dos vogais do conselho tem a duração de dois anos e termina com a entrada em funções dos novos membros.
 
-###### Art. 11.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial da UTAD.
+Art. 11.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial da UTAD.
 
 2 - O conselho administrativo é composto:
 
@@ -314,9 +380,9 @@ q) Deliberar sobre todos os assuntos que, nos termos da legislação aplicável,
 
 6 - Das reuniões do conselho administrativo serão lavradas actas, a assinar pelos membros presentes, das quais constarão as deliberações sobre as matérias tratadas e as respectivas declarações de voto.
 
-###### Art. 12.º Para efeitos de ensino, investigação e extensão, a UTAD organiza-se em áreas científicas e estas em departamentos ou secções.
+Art. 12.º Para efeitos de ensino, investigação e extensão, a UTAD organiza-se em áreas científicas e estas em departamentos ou secções.
 
-###### Art. 13.º São áreas científicas da UTAD:
+Art. 13.º São áreas científicas da UTAD:
 
 a) A área de Ciências Agrárias;
 
@@ -326,7 +392,7 @@ c) A área de Ciências da Educação;
 
 d) A área de Ciências Humanas e Sociais.
 
-###### Art. 14.º Consideram-se desde já integradas nas áreas científicas a que se refere o artigo anterior as seguintes secções:
+Art. 14.º Consideram-se desde já integradas nas áreas científicas a que se refere o artigo anterior as seguintes secções:
 
 a) Na área de Ciências Agrárias, as secções de:
 
@@ -360,7 +426,7 @@ Letras;
 
 Desportos.
 
-###### Art. 15.º - 1 - A direcção de gestão de cada área científica serão asseguradas por um coordenador.
+Art. 15.º - 1 - A direcção de gestão de cada área científica serão asseguradas por um coordenador.
 
 2 - O coordenador da área será um doutor, de preferência professor catedrático da UTAD, nomeado pelo reitor, ouvidos o conselho científico e as secções que integram a área.
 
@@ -368,23 +434,23 @@ Desportos.
 
 4 - O coordenador da área pode, por motivos devidamente fundamentados, propor que a representação da área seja atribuída temporariamente a um delegado, a designar por despacho do reitor de entre os doutores da área, sob parecer favorável do conselho científico.
 
-###### Art. 16.º - 1 - A direcção e gestão de cada secção serão asseguradas por um director de secção.
+Art. 16.º - 1 - A direcção e gestão de cada secção serão asseguradas por um director de secção.
 
 2 - O director de secção será, sempre que possível, um doutor, nomeado pelo reitor, ouvidos o conselho científico e a secção.
 
 3 - Quando excepcionais circunstâncias o exijam, o director da secção será nomeado pelo reitor, sob proposta do conselho científico, de entre elementos não doutorados.
 
-###### Art. 17.º Os coordenadores das áreas e os directores de secção serão nomeados por um período de dois anos, renovável por períodos de igual duração.
+Art. 17.º Os coordenadores das áreas e os directores de secção serão nomeados por um período de dois anos, renovável por períodos de igual duração.
 
-###### Art. 18.º - 1 - As competências das secções são as fixadas para os departamentos pelo artigo 5.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 18.º - 1 - As competências das secções são as fixadas para os departamentos pelo artigo 5.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - As secções serão convertidas em departamentos à medida que se verificarem as condições previstas no n.º 1 do artigo 3.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 19.º Junto da UTAD funciona o Centro de Estudos de Desenvolvimento Regional, criado pela [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, com a estrutura e atribuições previstas no [Decreto Regulamentar n.º 47/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1982-397171), de 4 de Agosto.
+Art. 19.º Junto da UTAD funciona o Centro de Estudos de Desenvolvimento Regional, criado pela [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, com a estrutura e atribuições previstas no [Decreto Regulamentar n.º 47/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1982-397171), de 4 de Agosto.
 
-###### Art. 20.º Os Serviços Administrativos e os Serviços Académicos são coordenados pelo administrador.
+Art. 20.º Os Serviços Administrativos e os Serviços Académicos são coordenados pelo administrador.
 
-###### Art. 21.º - 1 - O administrador é provido, em comissão de serviço, por despacho do reitor, de entre licenciados com curso superior adequado, ouvido o senado universitário.
+Art. 21.º - 1 - O administrador é provido, em comissão de serviço, por despacho do reitor, de entre licenciados com curso superior adequado, ouvido o senado universitário.
 
 2 - Compete ao administrador:
 
@@ -400,7 +466,7 @@ c) Propor a distribuição do pessoal pelos serviços por ele coordenados e vela
 
 5 - O administrador é substituído pelo director dos Serviços Administrativos nas suas faltas ou impedimentos.
 
-###### Art. 22.º - 1 - Os Serviços Administrativos exercem a sua acção nos domínios da administração financeira e patrimonial, do pessoal e do expediente e arquivo.
+Art. 22.º - 1 - Os Serviços Administrativos exercem a sua acção nos domínios da administração financeira e patrimonial, do pessoal e do expediente e arquivo.
 
 2 - Os Serviços Administrativos são dirigidos por um director de serviços e compreendem:
 
@@ -408,7 +474,7 @@ a) A Repartição de Expediente e Pessoal;
 
 b) A Repartição de Administração Financeira e Patrimonial.
 
-###### Art. 23.º - 1 - A Repartição de Expediente e Pessoal exerce a sua acção nos domínios do regime jurídico e da formação do pessoal e da organização e arquivo dos respectivos processos.
+Art. 23.º - 1 - A Repartição de Expediente e Pessoal exerce a sua acção nos domínios do regime jurídico e da formação do pessoal e da organização e arquivo dos respectivos processos.
 
 2 - A Repartição de Expediente e Pessoal compreende:
 
@@ -440,7 +506,7 @@ e) Instruir os processos relativos a horas extraordinárias, pagamento de servi�
 
 f) Realizar acções de formação e aperfeiçoamento do pessoal não docente da UTAD.
 
-###### Art. 24.º - 1 - A Repartição de Administração Financeira e Patrimonial exerce as suas actividades nos domínios do orçamento e contabilidade e do economato e património.
+Art. 24.º - 1 - A Repartição de Administração Financeira e Patrimonial exerce as suas actividades nos domínios do orçamento e contabilidade e do economato e património.
 
 2 - A Repartição de Administração Financeira e Patrimonial compreende:
 
@@ -476,7 +542,7 @@ d) Organizar e manter actualizado o inventário e cadastro dos bens móveis e im
 
 5 - Adstrita à Repartição de Administração Financeira e Patrimonial funcionará uma tesouraria, dirigida por um tesoureiro.
 
-###### Art. 25.º - 1 - Os Serviços Académicos exercem a sua acção nos domínios pedagógico, da vida escolar dos alunos, das provas para a obtenção dos títulos e graus académicos, bem como das respectivas equivalências.
+Art. 25.º - 1 - Os Serviços Académicos exercem a sua acção nos domínios pedagógico, da vida escolar dos alunos, das provas para a obtenção dos títulos e graus académicos, bem como das respectivas equivalências.
 
 2 - Os Serviços Académicos são dirigidos por um director de serviços e compreendem:
 
@@ -484,7 +550,7 @@ a) A Repartição de Alunos, constituída pela Secção de Matrículas e Inscri�
 
 b) A Secção Pedagógica.
 
-###### Art. 26.º - 1 - A Repartição de Alunos exerce as suas actividades nos domínios da informação e da organização e acompanhamento dos processos relativos à matrícula, inscrição, frequência e aproveitamento dos alunos.
+Art. 26.º - 1 - A Repartição de Alunos exerce as suas actividades nos domínios da informação e da organização e acompanhamento dos processos relativos à matrícula, inscrição, frequência e aproveitamento dos alunos.
 
 2 - À Repartição de Alunos, pela Secção de Matrículas e Inscrições, compete:
 
@@ -504,7 +570,7 @@ b) Organizar e manter actualizado o arquivo dos processos individuais dos alunos
 
 c) Passar certidões de matrícula, inscrição, frequência e outras relativas a actos que constem do serviço e não sejam de natureza reservada.
 
-###### Art. 27.º À Secção Pedagógica compete:
+Art. 27.º À Secção Pedagógica compete:
 
 a) Manter acutalizados os dados respeitantes aos programas e planos de estudos dos cursos ministrados na UTAD;
 
@@ -514,11 +580,11 @@ c) Passagem de diplomas e de cartas de doutor, de mestre e de licenciado e respe
 
 d) Submeter a despacho os processos de equiparação a bolseiro.
 
-###### Art. 28.º - 1 - Os Serviços Editoriais e de Extensão são dirigidos por um director de serviços e exercem a sua acção nos domínios da edição e distribuição de obras de carácter pedagógico, científico, técnico e cultural, da recolha, tratamento e difusão da documentação e informação com interesse para a UTAD e para a comunidade e ainda da coordenação e da integração funcional das bibliotecas nela existentes ou a integrar.
+Art. 28.º - 1 - Os Serviços Editoriais e de Extensão são dirigidos por um director de serviços e exercem a sua acção nos domínios da edição e distribuição de obras de carácter pedagógico, científico, técnico e cultural, da recolha, tratamento e difusão da documentação e informação com interesse para a UTAD e para a comunidade e ainda da coordenação e da integração funcional das bibliotecas nela existentes ou a integrar.
 
 2 - Os Serviços Editoriais e de Extensão compreendem o Centro de Recursos de Ensino e Aprendizagem da UTAD.
 
-###### Art. 29.º - 1 - Os Serviços Técnicos exercem a sua acção nos domínios da programação e construção de obras, da conservação e reparação do material e da exploração e gestão agrárias.
+Art. 29.º - 1 - Os Serviços Técnicos exercem a sua acção nos domínios da programação e construção de obras, da conservação e reparação do material e da exploração e gestão agrárias.
 
 2 - Os Serviços Técnicos são dirigidos por um director de serviços e compreendem:
 
@@ -548,9 +614,9 @@ a) A coordenação, implantação e desenvolvimento dos planos de exploração a
 
 b) A gestão das propriedades agrícolas da UTAD.
 
-###### Art. 30.º A actividade dos Serviços Técnicos será exercida em estreita colaboração com a Assessoria de Planeamento.
+Art. 30.º A actividade dos Serviços Técnicos será exercida em estreita colaboração com a Assessoria de Planeamento.
 
-###### Art. 31.º - 1 - A Assessoria Jurídica é coordenada pelo técnico superior de maior categoria nela colocado.
+Art. 31.º - 1 - A Assessoria Jurídica é coordenada pelo técnico superior de maior categoria nela colocado.
 
 2 - Compete à Assessoria Jurídica:
 
@@ -560,13 +626,13 @@ b) A instrução de inquéritos ou processos disciplinares ordenados pelos órg�
 
 c) A recolha, sistematização e divulgação da legislação com interesse para os serviços.
 
-###### Art. 32.º - 1 - A Assessoria de Planeamento é coordenada pelo técnico superior de maior categoria nela colocado.
+Art. 32.º - 1 - A Assessoria de Planeamento é coordenada pelo técnico superior de maior categoria nela colocado.
 
 2 - A Assessoria de Planeamento exerce a sua acção nos domínios da programação e dos planeamentos técnico e financeiro da UTAD e da estatística.
 
 ### CAPÍTULO III — Da gestão administrativa, financeira e patrimonial
 
-###### Art. 33.º - 1 - Na gestão administrativa e financeira da UTAD serão tidos em consideração os princípios de gestão por objectivos.
+Art. 33.º - 1 - Na gestão administrativa e financeira da UTAD serão tidos em consideração os princípios de gestão por objectivos.
 
 2 - A gestão económica e financeira da UTAD orientar-se-á pelos seguintes instrumentos de previsão:
 
@@ -580,7 +646,7 @@ c) Orçamentos privativos.
 
 4 - O conselho administrativo promoverá, com base no programa de actividades aprovado para cada ano económico, a elaboração de orçamentos privativos anuais para a aplicação das receitas próprias da UTAD.
 
-###### Art. 34.º No uso da autonomia administrativa e financeira conferida pelo presente diploma, a UTAD poderá:
+Art. 34.º No uso da autonomia administrativa e financeira conferida pelo presente diploma, a UTAD poderá:
 
 a) Autorizar e efectuar directamente o pagamento das suas despesas, mediante fundos requisitados em conta das dotações atribuídas no Orçamento do Estado, de cuja aplicação tem de prestar contas no termo de cada ano económico;
 
@@ -588,7 +654,7 @@ b) Dispor de receitas próprias provenientes do exercício das suas actividades 
 
 c) Arrendar directamente os edifícios indispensáveis à prossecução das suas actividades.
 
-###### Art. 35.º - 1 - A UTAD arrecadará e administrará as receitas próprias e satisfará, por meio delas, as despesas inerentes à prossecução dos seus fins.
+Art. 35.º - 1 - A UTAD arrecadará e administrará as receitas próprias e satisfará, por meio delas, as despesas inerentes à prossecução dos seus fins.
 
 2 - São receitas da UTAD:
 
@@ -614,7 +680,7 @@ j) O produto de taxas, emolumentos, multas e penalidades ou de quaisquer outras 
 
 ### CAPÍTULO IV — Do pessoal (quadros do pessoal)
 
-###### Art. 36.º - 1 - Os quadros do pessoal docente, investigador e não docente da UTAD são os constantes dos mapas I, II e III anexos a este diploma.
+Art. 36.º - 1 - Os quadros do pessoal docente, investigador e não docente da UTAD são os constantes dos mapas I, II e III anexos a este diploma.
 
 2 - O pessoal não docente da UTAD é agrupado do seguinte modo:
 
@@ -632,9 +698,9 @@ f) Pessoal operário;
 
 g) Pessoal auxiliar.
 
-###### Art. 37.º As formas de recrutamento e os regimes de provimento do pessoal docente e do pessoal investigador são os constantes do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com as alterações, por ratificação, introduzidas pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e do [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro, respectivamente.
+Art. 37.º As formas de recrutamento e os regimes de provimento do pessoal docente e do pessoal investigador são os constantes do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com as alterações, por ratificação, introduzidas pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e do [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro, respectivamente.
 
-###### Art. 38.º - 1 - O provimento do pessoal não docente nos lugares do quadro a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 38.º - 1 - O provimento do pessoal não docente nos lugares do quadro a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -652,13 +718,13 @@ a) No lugar de origem, quando à comissão não se seguir o provimento definitiv
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 39.º O lugar de administrador será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, conjugado com o disposto no artigo 22.º do presente diploma.
+Art. 39.º O lugar de administrador será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, conjugado com o disposto no artigo 22.º do presente diploma.
 
-###### Art. 40.º Os lugares de director de serviços e de chefe de divisão serão providos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 40.º Os lugares de director de serviços e de chefe de divisão serão providos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 41.º Os lugares de chefe de repartição serão providos de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado.
+Art. 41.º Os lugares de chefe de repartição serão providos de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 42.º Serão providos nos termos do disposto no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho:
+Art. 42.º Serão providos nos termos do disposto no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho:
 
 a) Os lugares de assessor principal, primeiro-assessor, técnico superior principal e de 1.ª e 2.ª classes;
 
@@ -682,33 +748,33 @@ j) Os lugares de telefonista principal e de 1.ª e 2.ª classes;
 
 l) Os lugares de encarregado, auxiliar administrativo principal e de 1.ª e 2.ª classes.
 
-###### Art. 43.º Os lugares das carreiras de informática serão providos nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 43.º Os lugares das carreiras de informática serão providos nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 44.º A carreira de fiel de armazém, que se desenvolve pelas categorias de fiel de armazém principal e de 1.ª e 2.ª classes, a que correspondem, respectivamente, as letras L, O e Q, é uma carreira horizontal, cujo recrutamento obedecerá às seguintes regras:
+Art. 44.º A carreira de fiel de armazém, que se desenvolve pelas categorias de fiel de armazém principal e de 1.ª e 2.ª classes, a que correspondem, respectivamente, as letras L, O e Q, é uma carreira horizontal, cujo recrutamento obedecerá às seguintes regras:
 
 a) O ingresso na categoria mais baixa da carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;
 
 b) O acesso fica condicionado à permanência de cinco anos de bom e efectivo serviço na categoria anterior.
 
-###### Art. 45.º Os lugares de pessoal operário são providos nos termos da lei geral.
+Art. 45.º Os lugares de pessoal operário são providos nos termos da lei geral.
 
-###### Art. 46.º A carreira de tractorista, que se desenvolve pelas categorias de tractorista principal e tractorista, a que correspondem, respectivamente, as letras O e Q, é uma carreira horizontal, cujo recrutamento obedecerá às seguintes regras:
+Art. 46.º A carreira de tractorista, que se desenvolve pelas categorias de tractorista principal e tractorista, a que correspondem, respectivamente, as letras O e Q, é uma carreira horizontal, cujo recrutamento obedecerá às seguintes regras:
 
 a) O ingresso na carreira de tractorista fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e respectiva carta de condução;
 
 b) O acesso à categoria de tractorista principal fica condicionado à permanência de cinco anos de bom e efectivo serviço na categoria anterior.
 
-###### Art. 47.º A carreira de tratador de animais, que se desenvolve pelas categorias de tratador de animais principal e de 1.ª e 2.ª classes, a que correspondem, respectivamente, as letras O, Q e R, é uma carreira horizontal, cujo recrutamento obedecerá às seguintes regras:
+Art. 47.º A carreira de tratador de animais, que se desenvolve pelas categorias de tratador de animais principal e de 1.ª e 2.ª classes, a que correspondem, respectivamente, as letras O, Q e R, é uma carreira horizontal, cujo recrutamento obedecerá às seguintes regras:
 
 a) O ingresso na categoria mais baixa da carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;
 
 b) O provimento nas categorias de acesso far-se-á mediante concurso, nos termos da lei, de entre funcionários de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço.
 
-###### Art. 48.º Os tesoureiros terão direito a abono para falhas do montante de 10% do vencimento da categoria de ingresso na carreira.
+Art. 48.º Os tesoureiros terão direito a abono para falhas do montante de 10% do vencimento da categoria de ingresso na carreira.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 49.º - 1 - A integração do pessoal actualmente em serviço na UTAD em lugares dos quadros constantes dos mapas anexos ao presente diploma far-se-á, sem prejuízo da lei geral, de acordo com as seguintes regras:
+Art. 49.º - 1 - A integração do pessoal actualmente em serviço na UTAD em lugares dos quadros constantes dos mapas anexos ao presente diploma far-se-á, sem prejuízo da lei geral, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -722,38 +788,38 @@ b) Para categoria correspondente às funções que o funcionário ou agente actu
 
 5 - O tempo de serviço prestado na categoria que deu origem à transição conta como prestado na nova categoria para efeitos de progressão na carreira, desde que no exercício efectivo de funções correspondentes às da categoria para que se operou a transição.
 
-###### Art. 50.º Os concursos para acesso às novas categorias criadas nos diversos grupos de pessoal, de acordo com a estrutura de carreiras estabelecida pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, só poderão ser abertos após a entrada em vigor das portarias de execução a que se refere o artigo 46.º do citado diploma, a elaborar no âmbito do Ministério da Educação.
+Art. 50.º Os concursos para acesso às novas categorias criadas nos diversos grupos de pessoal, de acordo com a estrutura de carreiras estabelecida pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, só poderão ser abertos após a entrada em vigor das portarias de execução a que se refere o artigo 46.º do citado diploma, a elaborar no âmbito do Ministério da Educação.
 
-###### Art. 51.º Sempre que não seja possível constituir o senado universitário pela forma prevista no n.º 1 do artigo 6.º deste diploma, a sua constituição será fixada pelo reitor, ouvido o conselho científico e respeitada a proporcionalidade constante daquela disposição legal.
+Art. 51.º Sempre que não seja possível constituir o senado universitário pela forma prevista no n.º 1 do artigo 6.º deste diploma, a sua constituição será fixada pelo reitor, ouvido o conselho científico e respeitada a proporcionalidade constante daquela disposição legal.
 
-###### Art. 52.º Os actuais órgãos da UTAD manterão as competências que lhes estão confiadas até à institucionalização e entrada em funcionamento dos órgãos previstos neste diploma.
+Art. 52.º Os actuais órgãos da UTAD manterão as competências que lhes estão confiadas até à institucionalização e entrada em funcionamento dos órgãos previstos neste diploma.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 7 de Janeiro de 1988.**
+Promulgado em 7 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1988.**
+Referendado em 12 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Quadro do pessoal docente da Universidade de Trás-os-Montes e Alto Douro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf))](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf)
 
 MAPA II
 
 Quadro do pessoal investigador da Universidade de Trás-os-Montes e Alto Douro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf))](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf)
 
 MAPA III
 
 Universidade de Trás-os-Montes e Alto Douro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf))](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/02300/02900299.pdf)

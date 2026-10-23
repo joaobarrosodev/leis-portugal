@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15000/25832584.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1987-420000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a97ee663532ee87246b3c7e5bfabbd6d17035e977ed94048ee0166f2089ee0de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327ba41a5f6f2fb776a0408f18f0c651c2d3270d890d1da0bc075b3c0ec306fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assunção de Dívidas
+- Crédito Agrícola de Emergência
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449765:por
+  label: Rectificado pela DECL.DD4407.31.07.1987.PCM, DR.IS [174-Supl] de 31.07.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-449765
+  date: '1987-07-31'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO-LEI NUMERO 483-A/88, PUBLICADO NO DI&#193;RIO DA REP&#218;BLICA, I S&#201;RIE, NUMERO 299,\
+    \ SUPLEMENTO, DE 28/12/88.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:30Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +138,7 @@ Usando da autorização conferida pelo artigo 3.º da Lei n.º 49/87, de 31 de D
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Estado assume perante as instituições de crédito que, com base em parecer do Instituto de Reorganização Agrária, actual Instituto de Gestão e Estruturação Fundiária, concederam financiamentos ao abrigo do crédito agrícola de emergência (CAE) as dívidas que, segundo a Comissão de Análise do CAE, sejam de cumprimento impossível pelos mutuários.
+Artigo 1.º - 1 - O Estado assume perante as instituições de crédito que, com base em parecer do Instituto de Reorganização Agrária, actual Instituto de Gestão e Estruturação Fundiária, concederam financiamentos ao abrigo do crédito agrícola de emergência (CAE) as dívidas que, segundo a Comissão de Análise do CAE, sejam de cumprimento impossível pelos mutuários.
 
 2 - As dívidas objecto de assunção pelo Estado são constituídas, exclusivamente, pelos valores seguintes:
 
@@ -119,29 +152,29 @@ d) Prejuízos sofridos pelas entidades intermediárias com a gestão do CAE, dev
 
 3 - Incluem-se nas dívidas objecto de assunção pelo Estado discriminadas nas alíneas a) a d) do n.º 2 do presente artigo os juros vencidos e não pagos, calculados à taxa de juros compensatórios aplicada ao CAE, expurgados de capitalizações por períodos inferiores a um ano e devidos até à data da colocação do empréstimo.
 
-###### Art. 2.º - 1 - Para pagamento destas dívidas o Estado emitirá um empréstimo interno amortizável pelo montante total das dívidas às instituições de crédito referidas no artigo anterior.
+Art. 2.º - 1 - Para pagamento destas dívidas o Estado emitirá um empréstimo interno amortizável pelo montante total das dívidas às instituições de crédito referidas no artigo anterior.
 
 2 - O empréstimo será denominado «Obrigações do Tesouro - Crédito agrícola de emergência - 1987».
 
-###### Art. 3.º O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, tem o limite máximo nominal de 17 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
+Art. 3.º O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, tem o limite máximo nominal de 17 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
 
-###### Art. 4.º - 1 - A representação deste empréstimo será feita em certificados de dívida inscrita correspondentes a qualquer quantidade de obrigações de valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - A representação deste empréstimo será feita em certificados de dívida inscrita correspondentes a qualquer quantidade de obrigações de valor nominal de 1000$00 cada uma.
 
 2 - Os certificados de dívida inscrita representativos deste empréstimo levarão as assinaturas de chancela do Ministro das Finanças, do vogal presidente e de outro vogal da Junta do Crédito Público, bem como o selo branco da mesma Junta.
 
-###### Art. 5.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e dos reembolsos a partir do vencimento ou da amortização, por força das receitas gerais do Estado, e da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
+Art. 5.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e dos reembolsos a partir do vencimento ou da amortização, por força das receitas gerais do Estado, e da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
 
-###### Art. 6.º - 1 - O empréstimo será colocado em cada instituição de crédito para pagamento das dívidas assumidas, nos termos do artigo 1.º
+Art. 6.º - 1 - O empréstimo será colocado em cada instituição de crédito para pagamento das dívidas assumidas, nos termos do artigo 1.º
 
 2 - Os valores a colocar em cada instituição de crédito irão sendo indicados pela Comissão de Análise do CAE à Junta do Crédito Público, a qual emitirá as respectivas cautelas, a substituir, oportunamente, por certificados de dívida inscrita.
 
-###### Art. 7.º - 1 - O empréstimo vence juros semestralmente, em 30 de Junho e 31 de Dezembro de cada ano, à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período de contagem de juros, acrescida de dois pontos percentuais.
+Art. 7.º - 1 - O empréstimo vence juros semestralmente, em 30 de Junho e 31 de Dezembro de cada ano, à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período de contagem de juros, acrescida de dois pontos percentuais.
 
 2 - O primeiro período de contagem de juros inicia-se na data de colocação do empréstimo.
 
 3 - Os juros vencidos durante o ano de 1987 serão capitalizados e os restantes, a vencer nos anos subsequentes, serão pagos nas respectivas datas de vencimento.
 
-###### Art. 8.º - 1 - A duração do empréstimo é de dez anos, contados a partir da sua emissão.
+Art. 8.º - 1 - A duração do empréstimo é de dez anos, contados a partir da sua emissão.
 
 2 - A amortização do empréstimo far-se-á em dezoito prestações semestrais, em 30 de Junho e 31 de Dezembro de cada ano, em prestações de capital iguais e sucessivas, vencendo-se a primeira em 30 de Junho de 1988.
 
@@ -149,20 +182,20 @@ d) Prejuízos sofridos pelas entidades intermediárias com a gestão do CAE, dev
 
 4 - No caso de alguns dos créditos objecto do presente diploma virem a ser recuperáveis, nomeadamente as dívidas abrangidas pela alínea c) do n.º 2 do artigo 1.º, o Estado tem direito de regresso sobre as importâncias recuperadas, podendo afectá-las à amortização do empréstimo junto das instituições credoras dos mesmos.
 
-###### Art. 9.º O pagamento dos juros e das amortizações será averbado nos certificados representativos das obrigações do empréstimo.
+Art. 9.º O pagamento dos juros e das amortizações será averbado nos certificados representativos das obrigações do empréstimo.
 
-###### Art. 10.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo regulado por este diploma.
+Art. 10.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo regulado por este diploma.
 
-###### Art. 11.º Não é aplicável a este empréstimo a disposição do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
+Art. 11.º Não é aplicável a este empréstimo a disposição do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - António Amaro de Matos.
 
-**Promulgado em 9 de Junho de 1987.**
+Promulgado em 9 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Junho de 1987.**
+Referendado em 11 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

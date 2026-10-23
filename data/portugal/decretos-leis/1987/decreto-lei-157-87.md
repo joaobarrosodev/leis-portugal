@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/07600/12981302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1987-666550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e496d5e82034eeb381744c49d6be02471e3e42ca70db0f5f632929b7a1caed9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9b21d3ef202aff95a8ab018309e49ba26b93c91f7876f856b63689edb8f0450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento Consular
+- TAXA de Câmbio
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 99, 4 SUPLEMENTO, DE 30/4/87.\0/87.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:613932:por
+  label: Alterados os n.ºs 4 e 7 do art. 1.º da Tabela de Emolumentos Consulares, aprovada pelo Dec Lei 46641 de 13-nov 1965,
+    na redação do presente diploma, pelo DEC LEI.84/89.23.03.1989.MNE, DR.IS [69] de 23.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1989-613932
+  date: '1989-03-23'
+- type: cites
+  target: pt:dre:379968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607351:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:41Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +134,9 @@ Considerou-se oportuno alterar não só as taxas da tabela de emolumentos consul
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 19.º e 24.º da tabela de emolumentos consulares, aprovada pelo [Decreto-Lei n.º 46641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46641-1965-511670), de 13 de Novembro de 1965, com as alterações introduzidas pelos Decretos-Leis n.os 47010 e 633/70, [Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/lei/4-1982-607351) e [Decreto-Lei n.º 463/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1982-379968), respectivamente de 16 de Maio de 1966, 22 de Dezembro, 15 de Abril e 30 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 19.º e 24.º da tabela de emolumentos consulares, aprovada pelo [Decreto-Lei n.º 46641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46641-1965-511670), de 13 de Novembro de 1965, com as alterações introduzidas pelos Decretos-Leis n.os 47010 e 633/70, [Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/lei/4-1982-607351) e [Decreto-Lei n.º 463/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1982-379968), respectivamente de 16 de Maio de 1966, 22 de Dezembro, 15 de Abril e 30 de Novembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 #### SECÇÃO I — Protecção consular
 
@@ -497,24 +534,24 @@ Por cada lauda seguinte ... 380$00
 
 89.º Qualquer acto escrito, transcrito ou registado não especificado na presente tabela ... 1000$00
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Os indivíduos de menores recursos financeiros poderão ter o desconto de 50% nos actos a que correspondem os emolumentos designados nos n.os 4.º, 6.º, 45.º, 49.º, 55.º, 56.º, 63.º 84.º e 89.º quando não estejam em condições de lhes ser aplicada a alínea a) do artigo 15.º
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 A metade dos emolumentos provenientes da aplicação desta tabela cobrada nos consulados não de carreira e nos vice-consulados pertencerá ao cônsul, vice-cônsul ou encarregado da gerência no respectivo posto, que a embolsarão directamente.
 
-###### Art. 2.º O presente diploma entrará em vigor 30 dias depois da data da sua publicação.
+Art. 2.º O presente diploma entrará em vigor 30 dias depois da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18100/30703070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1987-417833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c641bda97ca8ef52369ae89ac8d9dcfc7c1a146619b145e52fd436e37f3cbc65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d81e6660458ea78fea32e39f27b8bb7d534d906e86f7c013e1612cf54c4e75e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combustível
+- Contribuições e Impostos
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:606559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673422:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:11Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +118,22 @@ No uso da autorização legislativa conferida pela alínea e) do artigo 36.º da
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 133/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1982-606559), de 23 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 133/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1982-606559), de 23 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 3.º Ficam isentos do imposto os óleos minerais classificados pelos artigos pautais 27.10.A.III a) 1 e 27.10.A.III a) 2 da Pauta dos Direitos de Importação, quando se destinem exclusivamente a usos industriais, excepto como carburante, e lhes não seja dada outra aplicação.
+Art. 3.º Ficam isentos do imposto os óleos minerais classificados pelos artigos pautais 27.10.A.III a) 1 e 27.10.A.III a) 2 da Pauta dos Direitos de Importação, quando se destinem exclusivamente a usos industriais, excepto como carburante, e lhes não seja dada outra aplicação.
 
-###### Art. 2.º O presente diploma aplica-se ainda aos casos pendentes em que os direitos e demais imposições se encontrem garantidos.
+Art. 2.º O presente diploma aplica-se ainda aos casos pendentes em que os direitos e demais imposições se encontrem garantidos.
 
-###### Art. 3.º É revogado o artigo 15.º do [Decreto-Lei n.º 23801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23801-1934-673422), de 27 de Abril de 1934.
+Art. 3.º É revogado o artigo 15.º do [Decreto-Lei n.º 23801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23801-1934-673422), de 27 de Abril de 1934.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1987. - Aníbal António Cavaco Silva - Manuel Carlos Carvalho Fernandes - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1987.**
+Referendado em 23 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

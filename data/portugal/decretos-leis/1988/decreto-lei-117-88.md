@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08500/14151418.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1988-284739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2437d160ea378ee695d1eba273a252243165ee3253a6ba5c9133fd70a7321e67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be28470576f49fc917b1b976b00965e5d0ff71fad905a88f9de0ea8035b9f42e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Controlo de Qualidade
+- Equipamento Eléctrico
+- Normas de Segurança
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:386826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 7.º, 10.º a 12.º e 14.º a 18.º, pelo DEC LEI.139/95.14.06.1995.MIE, DR.IS-A [136] de 14.06.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterados os arts. 10º, 11º, 14º e 16º, com a redacção dada pelo Dec Lei 139/95 de 14-Jun, pelo DEC LEI.374/98.1998.11.24.MECO\
+    \ DR.IS-A [272]u\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
+- type: repealed_by
+  target: pt:dre:386826:por
+  label: "Revogado, a partir de 15.01.2008, na redacção dada pelos Decretos-Leis n.os 139/95, de 14 de Junho, e 374/98, de\
+    \ 24 de Novembro, pelo DEC LEI.6/2008.10.01.2008.MEI, DR.IS [7] de 10.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2008-386826
+  date: '2008-01-10'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:12Z'
   warnings: []
   errors: []
 ---
@@ -256,12 +279,12 @@ O presente decreto-lei entra em vigor decorridos 30 dias após a data da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Março de 1988.**
+Promulgado em 24 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Março de 1988.**
+Referendado em 28 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

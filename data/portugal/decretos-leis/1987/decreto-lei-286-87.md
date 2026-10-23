@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1987-420615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09776225c86cbcfaba8b6916f7378e82f9e76fcad7a6351ff6e97ac6e86136ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88952351a14052bf12cfde34074f7a054fce02d35a44c5202c796d8aa71ef1fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:46Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +120,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal médico dos quadros de pessoal dos serviços coordenados pelo Gabinete de Planeamento e de Coordenação do Combate à Droga (GPCCD) fica abrangido pelo regime da carreira médica hospitalar estabelecido pelo [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, com as adaptações decorrentes dos artigos seguintes.
+Artigo 1.º O pessoal médico dos quadros de pessoal dos serviços coordenados pelo Gabinete de Planeamento e de Coordenação do Combate à Droga (GPCCD) fica abrangido pelo regime da carreira médica hospitalar estabelecido pelo [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, com as adaptações decorrentes dos artigos seguintes.
 
-###### Art. 2.º - 1 - O regime de trabalho do pessoal a que se refere o artigo anterior é, em regra, o de tempo completo.
+Art. 2.º - 1 - O regime de trabalho do pessoal a que se refere o artigo anterior é, em regra, o de tempo completo.
 
 2 - Por conveniência de serviço, e sob proposta do director-geral do GPCCD, o Ministro da Justiça pode fixar as modalidades de tempo completo prolongado ou de tempo parcial.
 
-###### Art. 3.º - 1 - Os lugares de assistente hospitalar e de chefe de serviço hospitalar dos quadros de pessoal a que se refere o artigo 1.º são providos, respectivamente, por médicos com o grau de assistente hospitalar ou equivalente e com o grau de chefe de serviço hospitalar.
+Art. 3.º - 1 - Os lugares de assistente hospitalar e de chefe de serviço hospitalar dos quadros de pessoal a que se refere o artigo 1.º são providos, respectivamente, por médicos com o grau de assistente hospitalar ou equivalente e com o grau de chefe de serviço hospitalar.
 
 2 - Os assistentes hospitalares dos quadros de pessoal referidos no número anterior com, pelo menos, cinco anos de exercício correspondente a este grau podem candidatar-se aos concursos de habilitação para chefe de serviço hospitalar abertos pelo Ministério da Saúde.
 
-###### Art. 4.º - 1 - As operações de recrutamento e selecção do pessoal médico dos serviços dependentes do GPCCD são feitas nos termos dos regulamentos dos concursos de provimento para idênticos lugares dos quadros ou mapas de pessoal dos estabelecimentos dependentes do Ministério da Saúde.
+Art. 4.º - 1 - As operações de recrutamento e selecção do pessoal médico dos serviços dependentes do GPCCD são feitas nos termos dos regulamentos dos concursos de provimento para idênticos lugares dos quadros ou mapas de pessoal dos estabelecimentos dependentes do Ministério da Saúde.
 
 2 - A competência para autorizar a abertura dos concursos é do Ministro da Justiça, podendo ser delegada no director-geral do GPCCD.
 
 3 - As referências feitas nos regulamentos mencionados no n.º 1 à Direcção-Geral dos Hospitais, ao Departamento de Recursos Humanos da Saúde e às comissões inter-hospitalares devem entender-se como feitas, quando tal seja adequado, ao GPCCD.
 
-###### Art. 5.º - 1 - Os mapas III, IV e V anexos ao [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 3 de Setembro, são alterados, na parte referente ao pessoal técnico superior (pessoal médico), de acordo com os mapas anexos ao presente diploma.
+Art. 5.º - 1 - Os mapas III, IV e V anexos ao [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 3 de Setembro, são alterados, na parte referente ao pessoal técnico superior (pessoal médico), de acordo com os mapas anexos ao presente diploma.
 
 2 - O pessoal médico provido em lugares dos quadros dos serviços dependentes do GPCCD transita para a nova carreira de acordo com as seguintes regras:
 
@@ -126,34 +146,34 @@ b) Os médicos-chefes de clínica transitam para o grau e lugar de chefe de serv
 
 3 - O tempo de serviço prestado na categoria de especialista é contado, para todos os efeitos, como prestado no exercício correspondente ao grau de assistente hospitalar.
 
-###### Art. 6.º Os concursos para admissão de médicos especialistas cuja abertura tenha sido decidida por despacho emitido em data anterior à data da entrada em vigor do presente decreto-lei continuarão a sua tramitação normal, devendo fazer-se os provimentos na categoria de assistente hospitalar.
+Art. 6.º Os concursos para admissão de médicos especialistas cuja abertura tenha sido decidida por despacho emitido em data anterior à data da entrada em vigor do presente decreto-lei continuarão a sua tramitação normal, devendo fazer-se os provimentos na categoria de assistente hospitalar.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 9 de Julho de 1987.**
+Promulgado em 9 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1987.**
+Referendado em 15 de Julho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA III
 
 Centro Regional do Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf)
 
 MAPA IV
 
 Centro Regional do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf)
 
 MAPA V
 
 Centro Regional do Centro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16900/29132914.pdf)

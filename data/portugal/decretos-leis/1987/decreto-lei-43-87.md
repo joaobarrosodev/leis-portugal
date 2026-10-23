@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02300/03510352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1987-663293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd91539f73240fa5285cbf83d571b1b8c1b6636e48e7e21db21a63b003804dd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e7703c3feb3ed1e9a66253b55c781336e9f25a30827aaf26dcdbf4843580bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casa do Douro
+- Instituto do Vinho do Porto
+- Região Demarcada do Douro
+- Taxa
+- Vinho
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:273264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500044:por
+  label: "Revogadas as alíneas a) e b) do artigo 1.º e o artigo 3.º, pelo DEC LEI.83/92.07.05.1992.MA, DR.IS-A [105] de 07.05.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1992-500044
+  date: '1992-05-07'
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogadas as als. c) e d) do art. 1.º e o art. 2.º, pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado o art 1º (excepto as al c) e d) na parte aplicável ao vinho licoroso, apto a dar vinho do Porto), bem como\
+    \ os art 2º e 3º pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
+- type: repealed_by
+  target: pt:dre:150763:por
+  label: "Revogada as alíneas c) e d) do art 1º pelo Dec Lei.173/97.1997.07.16.MADRP, DR.IS-A [162], que, no entanto, mantém\
+    \ em vigor, na parte aplicável ao vinho generoso apto à denominação de origem Vinho do Porto, as taxas fixadas no present\
+    \ diploma até á publicação das portarias e do aviso previstos no seu art 9º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1997-150763
+  date: '1997-07-16'
+- type: repealed_by
+  target: pt:dre:493025:por
+  label: "Revogado, a partir de 02.09.2009, o Dec 16330, de 08-Jan de 1929, na redacção do art. 4º do presente diploma, mantendo-se\
+    \ transitoriamente em vigor até à publicação das portarias e dos regulamentos previstos, relativamente às matérias que\
+    \ estes visam regulamentar, pelo DEC LEI.173/2009.03.08.2009.MADRP, DR.IS [148] de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2009-493025
+  date: '2009-08-03'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:00Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +168,7 @@ Assim:
 
 No uso da autorização legislativa conferida pelo artigo 72.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São actualizadas para os montantes indicados as importâncias cobradas ao abrigo dos seguintes diplomas:
+Artigo 1.º São actualizadas para os montantes indicados as importâncias cobradas ao abrigo dos seguintes diplomas:
 
 a) [Decreto-Lei n.º 23984](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23984-1934-464846), de 8 de Junho de 1934, artigo 19.º: 4$00;
 
@@ -120,20 +178,20 @@ c) Decreto-Lei n.º 30408, de 30 de Abril de 1940, artigo 49.º, n.os 1.º, 2,º
 
 d) Decreto-Lei n.º 30408, de 30 de Abril de 1940, artigo 52.º, n.º 3.º: 1$00 para o vinho generoso e $50 para o vinho de mesa.
 
-###### Art. 2.º É mantido o valor de $25 vigente relativamente ao vinho de mesa e cobrado em conformidade com o disposto nos n.os 1.º e 2.º do artigo 49.º do Decreto-Lei n.º 30408, de 30 de Abril de 1940.
+Art. 2.º É mantido o valor de $25 vigente relativamente ao vinho de mesa e cobrado em conformidade com o disposto nos n.os 1.º e 2.º do artigo 49.º do Decreto-Lei n.º 30408, de 30 de Abril de 1940.
 
-###### Art. 3.º É mantido o disposto no artigo 19.º do [Decreto-Lei n.º 23984](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23984-1934-464846), de 8 de Junho de 1934, quanto à repartição das importâncias cobradas.
+Art. 3.º É mantido o disposto no artigo 19.º do [Decreto-Lei n.º 23984](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23984-1934-464846), de 8 de Junho de 1934, quanto à repartição das importâncias cobradas.
 
-###### Art. 4.º É revogado o artigo 14.º do [Decreto n.º 16330](https://diariodarepublica.pt/dr/detalhe/decreto/16330-1929-273264), de 8 de Janeiro de 1929, que obriga ao pagamento de imposto de entrada no EG, mantendo-se, todavia, a conveniente acção de controle, nomeadamente a estipulada no artigo 8.º do mesmo diploma.
+Art. 4.º É revogado o artigo 14.º do [Decreto n.º 16330](https://diariodarepublica.pt/dr/detalhe/decreto/16330-1929-273264), de 8 de Janeiro de 1929, que obriga ao pagamento de imposto de entrada no EG, mantendo-se, todavia, a conveniente acção de controle, nomeadamente a estipulada no artigo 8.º do mesmo diploma.
 
 Visto e aprovado em Conselho de Ministros de 18 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - António Amaro de Matos.
 
-**Promulgado em 2 de Janeiro de 1987.**
+Promulgado em 2 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

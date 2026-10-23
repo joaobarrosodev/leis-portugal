@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14200/23862393.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f4055d18b589a0e6a15f7566eb992a1c7f160ac8cd3f8ff6aad9f5b1baca29b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c0259233df580a67af6e358f216533fe95f2fc372b17c4cfc3c844a7799f54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Poluição Sonora
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:2521316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546986:por
+  label: "Alterados os arts. 4º, 20º, 21º, 22º, 33º, 35º, 36º e 37º , aditado o capítulo X, composto pelo art. 40º e substituídos\
+    \ os quadros n.os 9 e 10 do anexo II do Regulamento Geral sobre o Ruído, aprovado pelo presente diploma, pelo DEC LEI.292/89.02.09.1989.MPAT,\
+    \ DR.IS [202] de 02.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1989-546986
+  date: '1989-09-02'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:217128:por
+  label: "REVOGADO A PARTIR DA ENTRADA EM VIGOR DA REGULAMENTAÇÃO OS ARTIGOS 16, 17 E 18 DO REGULAMENTO GERAL SOBRE O RUÍDO,\
+    \ PELO DECRETO LEI 72/92, PUBLICADO NO DR.IS-A, 98, DE 920428.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1992-217128
+- type: repealed_by
+  target: pt:dre:615046:por
+  label: "Revogado, mantendo-se contudo em vigor o disposto nos arts. 6º a 9º até à entrada em vigor de novos requisitos acústicos\
+    \ para edifícios, pelo DEC LEI.292/2000.2000.11.14.MAOT DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2000-615046
+  date: '2000-11-14'
 article_structure:
-  article_count: 79
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:14Z'
   warnings: []
   errors: []
 ---
@@ -96,145 +120,147 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Geral sobre o Ruído, adiante designado «Regulamento», e seus anexos, os quais fazem parte integrante do presente decreto-lei.
+Artigo 1.º É aprovado o Regulamento Geral sobre o Ruído, adiante designado «Regulamento», e seus anexos, os quais fazem parte integrante do presente decreto-lei.
 
-###### Art. 2.º O presente Regulamento será revisto decorrido o prazo de três anos contado da data da sua entrada em vigor, cabendo ao membro do Governo que superintenda no domínio do ambiente a iniciativa da revisão, com base nas informações prestadas pelas demais entidades interessadas, que, para o efeito, lhe apresentarão relatório anual sobre a sua execução.
+Art. 2.º O presente Regulamento será revisto decorrido o prazo de três anos contado da data da sua entrada em vigor, cabendo ao membro do Governo que superintenda no domínio do ambiente a iniciativa da revisão, com base nas informações prestadas pelas demais entidades interessadas, que, para o efeito, lhe apresentarão relatório anual sobre a sua execução.
 
-###### Art. 3.º O presente Regulamento entrará em vigor no dia 1 de Janeiro de 1988.
+Art. 3.º O presente Regulamento entrará em vigor no dia 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - António Luís Mendes Baptista Pereira - Luís Fernando Mira Amaral.
 
-**Promulgado em 28 de Maio de 1987.**
+Promulgado em 28 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Junho de 1987.**
+Referendado em 2 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 REGULAMENTO GERAL SOBRE O RUÍDO
 
 ÍNDICE
 
-### Capítulo I - Princípios gerais:
+Capítulo I - Princípios gerais:
 
-###### Artigo 1.º Definições e referências.
+Artigo 1.º Definições e referências.
 
-###### Artigo 2.º Âmbito de aplicação.
+Artigo 2.º Âmbito de aplicação.
 
-###### Artigo 3.º Sujeição a autorização ou licenciamento.
+Artigo 3.º Sujeição a autorização ou licenciamento.
 
-### Capítulo II - Locais para implantação de edifícios:
+Capítulo II - Locais para implantação de edifícios:
 
-###### Artigo 4.º Classificação.
+Artigo 4.º Classificação.
 
-###### Artigo 5.º Edifícios escolares e hospitalares.
+Artigo 5.º Edifícios escolares e hospitalares.
 
-### Capítulo III - Requisitos técnico-funcionais dos edifícios:
+Capítulo III - Requisitos técnico-funcionais dos edifícios:
 
-#### Secção I - Edifícios para habitação:
+Secção I - Edifícios para habitação:
 
 ###### Artigo 6.º Requisitos.
 
-#### Secção II - Edifícios escolares:
+Secção II - Edifícios escolares:
 
-###### Artigo 7.º Requisitos gerais.
+Artigo 7.º Requisitos gerais.
 
-###### Artigo 8.º Edifícios destinados ao ensino de deficientes auditivos.
+Artigo 8.º Edifícios destinados ao ensino de deficientes auditivos.
 
-#### Secção III - Edifícios hospitalares ou similares:
+Secção III - Edifícios hospitalares ou similares:
 
 ###### Artigo 9.º Requisitos.
 
-#### Secção IV - Edifícios para indústria, comércio e serviços:
+Secção IV - Edifícios para indústria, comércio e serviços:
 
-###### Artigo 10.º Requisitos.
+Artigo 10.º Requisitos.
 
-### Capítulo IV - Laboração de indústrias, comércio e serviços:
+Capítulo IV - Laboração de indústrias, comércio e serviços:
 
-#### Secção I - Equipamentos:
+Secção I - Equipamentos:
 
-###### Artigo 11.º Certificação acústica.
+Artigo 11.º Certificação acústica.
 
-###### Artigo 12.º Comercialização e instalação.
+Artigo 12.º Comercialização e instalação.
 
-###### Artigo 13.º Requisitos especiais.
+Artigo 13.º Requisitos especiais.
 
-#### Secção II - Ruído para o exterior dos edifícios:
+Secção II - Ruído para o exterior dos edifícios:
 
-###### Artigo 14.º Níveis sonoros.
+Artigo 14.º Níveis sonoros.
 
-#### Secção III - Ruído no interior dos edifícios:
+Secção III - Ruído no interior dos edifícios:
 
-###### Artigo 15.º Actividades que requeiram concentração e sossego.
+Artigo 15.º Actividades que requeiram concentração e sossego.
 
-###### Artigo 16.º Locais de trabalho.
+Artigo 16.º Locais de trabalho.
 
-###### Artigo 17.º Dispositivos de protecção individual.
+Artigo 17.º Dispositivos de protecção individual.
 
-###### Artigo 18.º Rastreios audiométricos periódicos.
+Artigo 18.º Rastreios audiométricos periódicos.
 
-###### Artigo 19.º Tempo de reverberação.
+Artigo 19.º Tempo de reverberação.
 
-### Capítulo V - Actividades ruidosas:
+Capítulo V - Actividades ruidosas:
 
-###### Artigo 20.º Requisitos.
+Artigo 20.º Requisitos.
 
-###### Artigo 21.º Proximidade de edifícios.
+Artigo 21.º Proximidade de edifícios.
 
 ### Capítulo VI - Tráfego:
 
-#### Secção I - Tráfego rodoviário e ferroviário - ruído para o exterior dos veículos:
+Secção I - Tráfego rodoviário e ferroviário - ruído para o exterior dos veículos:
 
-###### Artigo 22.º Ruído global de funcionamento.
+Artigo 22.º Ruído global de funcionamento.
 
-###### Artigo 23.º Travões de ar comprimido.
+Artigo 23.º Travões de ar comprimido.
 
-###### Artigo 24.º Veículos destinados a circular sobre carris.
+Artigo 24.º Veículos destinados a circular sobre carris.
 
-#### Secção II - Tráfego rodoviário e ferroviário - ruído no interior dos veículos:
+Secção II - Tráfego rodoviário e ferroviário - ruído no interior dos veículos:
 
-###### Artigo 25.º Veículos destinados ao transporte de passageiros.
+Artigo 25.º Veículos destinados ao transporte de passageiros.
 
-#### Secção III - Tráfego aéreo:
+Secção III - Tráfego aéreo:
 
-###### Artigo 26.º Níveis sonoros máximos.
+Artigo 26.º Níveis sonoros máximos.
 
-###### Artigo 27.º Outras especificações.
+Artigo 27.º Outras especificações.
 
-#### Secção IV - Vias de tráfego:
+Secção IV - Vias de tráfego:
 
-###### Artigo 28.º Providências a adoptar.
+Artigo 28.º Providências a adoptar.
 
-### Capítulo VII - Sinalização sonora:
+Capítulo VII - Sinalização sonora:
 
-###### Artigo 29.º Avisadores sonoros.
+Artigo 29.º Avisadores sonoros.
 
-###### Artigo 30.º Sinais privativos.
+Artigo 30.º Sinais privativos.
 
-###### Artigo 31.º Sinalização sonora em edifícios.
+Artigo 31.º Sinalização sonora em edifícios.
 
-###### Artigo 32.º Alarme contra intrusão.
+Artigo 32.º Alarme contra intrusão.
 
-### Capítulo VIII - Fiscalização:
+Capítulo VIII - Fiscalização:
 
-###### Artigo 33.º Competência.
+Artigo 33.º Competência.
 
-###### Artigo 34.º Apoio técnico.
+Artigo 34.º Apoio técnico.
 
-###### Artigo 35.º Certificação de aparelhos.
+Artigo 35.º Certificação de aparelhos.
 
-### Capítulo IX - Sanções e processo:
+Capítulo IX - Sanções e processo:
 
-###### Artigo 36.º Contra-ordenações.
+Artigo 36.º Contra-ordenações.
 
-###### Artigo 37.º Processamento e aplicação das coimas.
+Artigo 37.º Processamento e aplicação das coimas.
 
-###### Artigo 38.º Sanções acessórias.
+Artigo 38.º Sanções acessórias.
 
-###### Artigo 39.º Remissão. — CAPÍTULO I
+###### Artigo 39.º Remissão.
+
+### CAPÍTULO I
 
 Princípios gerais
 
@@ -592,4 +618,4 @@ b) Índices de isolamento sonoro R(índice 45) e Ia, em decibels e Ip, em decibe
 
 c) Isolamento sonoro de um elemento de construção - relação entre a energia incidente, W(índice 1), e a energia transmitida, W(índice 2), em decibels.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14200/23862393.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14200/23862393.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14200/23862393.pdf)

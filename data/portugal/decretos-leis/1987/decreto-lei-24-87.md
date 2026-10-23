@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1987-663509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de7ab4fa0a6674adb816851fd58048a8755d0259219fd357fa0f44541144af5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4919ce5d0c781e99f6ca50606e42902f383f4150ed4dbb032fd05c28a05db2c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Planeamento Económico
+- Plano Económico
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:301040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402943:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:00Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +106,27 @@ de 13 de Janeiro
 
 Em desenvolvimento do regime contido na [Lei n.º 10/86](https://diariodarepublica.pt/dr/detalhe/lei/10-1986-402943), de 30 de Abril, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o Plano para 1986, elaborado de harmonia com as grandes opções constantes da [Lei n.º 10/86](https://diariodarepublica.pt/dr/detalhe/lei/10-1986-402943), de 30 de Abril.
+Artigo 1.º - 1 - É aprovado o Plano para 1986, elaborado de harmonia com as grandes opções constantes da [Lei n.º 10/86](https://diariodarepublica.pt/dr/detalhe/lei/10-1986-402943), de 30 de Abril.
 
 2 - O texto, designado «Plano para 1986», faz parte integrante do presente diploma.
 
-###### Art. 2.º Serão elaborados pelos serviços competentes relatórios de execução do Plano relativamente ao ano de 1986.
+Art. 2.º Serão elaborados pelos serviços competentes relatórios de execução do Plano relativamente ao ano de 1986.
 
-###### Art. 3.º A distribuição, por natureza e por empresa, do montante global inscrito no Orçamento do Estado para 1986 a título de dotação é a constante da [Resolução do Conselho de Ministros n.º 62/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-1986-301040), publicada no Diário da República, 1.ª série, n.º 174, de 31 de Julho de 1986.
+Art. 3.º A distribuição, por natureza e por empresa, do montante global inscrito no Orçamento do Estado para 1986 a título de dotação é a constante da [Resolução do Conselho de Ministros n.º 62/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-1986-301040), publicada no Diário da República, 1.ª série, n.º 174, de 31 de Julho de 1986.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir da data da entrada em vigor da [Lei n.º 10/86](https://diariodarepublica.pt/dr/detalhe/lei/10-1986-402943), de 30 de Abril.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir da data da entrada em vigor da [Lei n.º 10/86](https://diariodarepublica.pt/dr/detalhe/lei/10-1986-402943), de 30 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 26 de Novembro de 1986.**
+Promulgado em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Dezembro de 1986.**
+Referendado em 2 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Plano para 1986
 
@@ -140,11 +156,11 @@ Com o objectivo de atingir o crescimento programado para o investimento, o Gover
 
 1 - Despesa global (taxas de variação em volume)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 Balança de transações correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 II - Programa de investimentos e despesas de desenvolvimento da administração central
 
@@ -156,7 +172,7 @@ Apresenta-se, em seguida, uma discriminação das dotações por programas.
 
 PIDDAC/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 III - Programas integrados de desenvolvimento regional
 
@@ -268,7 +284,7 @@ De referir ainda as acções de formação dos técnicos e empregados do IFADAP 
 
 PDRITM - Programação financeira para 1986 (contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 Programa Integrado de Desenvolvimento Regional da Cova da Beira
 
@@ -334,7 +350,7 @@ Desenvolvimento do turismo, pela construção de um parque de campismo.
 
 Cova da Beira - Programação financeira para 1986 (contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 Programa Integrado de Desenvolvimento Regional do Baixo Mondego
 
@@ -396,7 +412,7 @@ Melhoria das acessibilidades, a promover no âmbito da viação rural, e acçõe
 
 Baixo Mondego - Programação financeira para 1986 (contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 Programa de Desenvolvimento Regional da Zona Crítica Alentejana
 
@@ -540,7 +556,7 @@ Acções nos sectores da saúde, rede escolar do ensino primário e secundário,
 
 Zona Crítica Alentejana - Programação financeira para 1986 (contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
 
 Programa Integrado de Desenvolvimento Regional do Nordeste Algarvio
 
@@ -650,4 +666,4 @@ Formação.
 
 Nordeste Algarvio - Programação financeira para 1986 (contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01000/01480171.pdf)

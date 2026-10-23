@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1987-662899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05a7d0a40ccf17cc1926465321afbd1255548be669a57e301d1fcb05ab793467
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49d79c2dfbc5ba76f0a0a8467dfc48d6eeafcd13006bc6c5fecf854a1a4b0e8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Isenção Fiscal
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:369432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:396558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601113:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:21Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +117,7 @@ Ouvidos os órgãos de governo próprio da RAA:
 
 No uso da autorização conferida pelo artigo 77.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As entidades que participem no capital social de empresas cuja instalação venha a ser autorizada na zona franca de Santa Maria poderão beneficiar dos seguintes incentivos fiscais:
+Artigo 1.º As entidades que participem no capital social de empresas cuja instalação venha a ser autorizada na zona franca de Santa Maria poderão beneficiar dos seguintes incentivos fiscais:
 
 a) Consideração como custos do exercício, para efeitos da contribuição industrial do exercício a que respeita, da totalidade da sua participação no capital social da sociedade constituída;
 
@@ -112,7 +127,7 @@ c) Isenção de imposto de mais-valias devido pelos aumentos de capital das mesm
 
 d) Isenção de sisa e de imposto sobre as sucessões e doações relativamente às transmissões, a título oneroso ou gratuito, consoante o caso, de partes sociais, quotas, acções e de outros bens que integrem o património das empresas instaladas na zona franca de Santa Maria, desde que a respectiva actividade seja exercida exclusivamente naquela zona franca.
 
-###### Art. 2.º As empresas cuja instalação venha a ser autorizada na zona franca de Santa Maria poderão beneficiar dos seguintes benefícios fiscais:
+Art. 2.º As empresas cuja instalação venha a ser autorizada na zona franca de Santa Maria poderão beneficiar dos seguintes benefícios fiscais:
 
 a) Isenção de sisa e de imposto sobre as sucessões e doações devidos pelas aquisições de bens imóveis destinados à sua instalação;
 
@@ -124,13 +139,13 @@ d) Isenção de taxas e impostos locais;
 
 e) Isenção de impostos extraordinários sobre lucros e despesas.
 
-###### Art. 3.º São isentos de imposto de capitais e de imposto complementar os juros de empréstimos contraídos por empresas instaladas na zona franca de Santa Maria junto de instituições de crédito estrangeiras, bem como os juros de obrigações emitidas pelas mesmas empresas, desde que o produto desses empréstimos se destine à realização de investimentos e ao seu normal funcionamento naquela zona franca.
+Art. 3.º São isentos de imposto de capitais e de imposto complementar os juros de empréstimos contraídos por empresas instaladas na zona franca de Santa Maria junto de instituições de crédito estrangeiras, bem como os juros de obrigações emitidas pelas mesmas empresas, desde que o produto desses empréstimos se destine à realização de investimentos e ao seu normal funcionamento naquela zona franca.
 
-###### Art. 4.º Sobre as remunerações dos trabalhadores admitidos nas empresas instaladas na mencionada zona franca com menos de 22 anos, em regime de estágio ou de aprendizagem, não incidirão deduções para a Segurança Social por parte da entidade patronal até que atinjam aquela idade.
+Art. 4.º Sobre as remunerações dos trabalhadores admitidos nas empresas instaladas na mencionada zona franca com menos de 22 anos, em regime de estágio ou de aprendizagem, não incidirão deduções para a Segurança Social por parte da entidade patronal até que atinjam aquela idade.
 
-###### Art. 5.º São isentos de qualquer contribuição ou imposto os rendimentos resultantes da concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processos de fabrico ou conservação de produtos e direitos análogos, bem como os recebidos pela prestação de informações respeitantes a experiência adquirida no sector industrial, comercial ou científico.
+Art. 5.º São isentos de qualquer contribuição ou imposto os rendimentos resultantes da concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processos de fabrico ou conservação de produtos e direitos análogos, bem como os recebidos pela prestação de informações respeitantes a experiência adquirida no sector industrial, comercial ou científico.
 
-###### Art. 6.º - 1 - Os incentivos referidos nos artigos anteriores serão concedidos em regime contratual, devendo atender-se na respectiva concessão, segundo as prioridades a definir em diploma regional, designadamente aos critérios seguintes:
+Art. 6.º - 1 - Os incentivos referidos nos artigos anteriores serão concedidos em regime contratual, devendo atender-se na respectiva concessão, segundo as prioridades a definir em diploma regional, designadamente aos critérios seguintes:
 
 a) Utilização de recursos regionais;
 
@@ -142,7 +157,7 @@ d) Sector de actividade.
 
 2 - Na concessão de isenções dos impostos sobre o rendimento deverão ter-se presentes os efeitos decorrentes das medidas que forem aplicáveis para eliminar as duplas tributações internacionais.
 
-###### Art. 7.º Às empresas estrangeiras registadas na zona franca de Santa Maria, bem como aos respectivos sócios e titulares, será garantida:
+Art. 7.º Às empresas estrangeiras registadas na zona franca de Santa Maria, bem como aos respectivos sócios e titulares, será garantida:
 
 a) Liberdade de repatriação de capitais investidos e lucros;
 
@@ -150,20 +165,20 @@ b) Liberdade de transferência de fundos referentes a operações comerciais;
 
 c) Não imposição de restrições à importação de capitais e simplificação dos respectivos procedimentos administrativos.
 
-###### Art. 8.º - 1 - À empresa concessionária da zona franca de Santa Maria e às demais empresas a que se faz referência no n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 54/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1982-396558), de 23 de Agosto, poderá o Governo Regional dos Açores autorizar a aquisição ou uso de instalações permanentes na RAA, se tal se revelar indispensável para o exercício eficiente e rentável das respectivas actividades.
+Art. 8.º - 1 - À empresa concessionária da zona franca de Santa Maria e às demais empresas a que se faz referência no n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 54/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1982-396558), de 23 de Agosto, poderá o Governo Regional dos Açores autorizar a aquisição ou uso de instalações permanentes na RAA, se tal se revelar indispensável para o exercício eficiente e rentável das respectivas actividades.
 
 2 - As instalações a que se refere o número anterior deverão identificar que se trata de empresas registadas na zona franca de Santa Maria e todo o processo documental da actividade das empresas deve efectuar-se através do centro em Santa Maria.
 
-###### Art. 9.º As empresas cuja instalação vier a ser autorizada na zona franca de Santa Maria deverão dispor de uma contabilidade adequada, de modo que possa distinguir-se, clara e inequivocamente, o lucro das actividades exercidas na zona franca, com observância do disposto no § único do artigo 22.º do Código da Contribuição Industrial, se for caso disso.
+Art. 9.º As empresas cuja instalação vier a ser autorizada na zona franca de Santa Maria deverão dispor de uma contabilidade adequada, de modo que possa distinguir-se, clara e inequivocamente, o lucro das actividades exercidas na zona franca, com observância do disposto no § único do artigo 22.º do Código da Contribuição Industrial, se for caso disso.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Vasco Joaquim da Rocha Vieira - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 15 de Janeiro de 1987.**
+Promulgado em 15 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Janeiro de 1987.**
+Referendado em 21 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

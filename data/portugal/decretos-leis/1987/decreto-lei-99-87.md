@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1987-662475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 035ab86350dd508373005ab029412ab649d1e3811ab7c14b759d1680d606a44d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cef0e7bdf2477b1d8e86d8b50be28d990cda4644bbb450e913c3be3a34f375d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Empresa Pública
+- Financiamento
+- Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas
+- Ministério das Finanças
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:241227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609328:por
+  label: Alterado, com efeitos a 01.01.89, o art. 5.º e substituído o quadro anexo ao presente diploma pelo(a) Decreto-Lei
+    n.º 21/89 - Diário da República n.º 16/1989, Série I de 1989-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1989-609328
+  date: '1989-01-19'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Extinto o Gabinete para a An&#225;lise do Financiamento do Estado e das Empresas P&#250;blicas (GAFEEP), criado\
+    \ pelo presente diploma, pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:325553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218164:por
+  label: Rectificado pela DECL.DD4411.06.05.1987.PCM, DR.IS [124-2.º Supl] de 30.05.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218164
+  date: '1987-05-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:53Z'
   warnings: []
   errors: []
 ---
@@ -127,11 +162,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado, no âmbito do Ministério das Finanças, o Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas, adiante designado por GAFEEP.
+Artigo 1.º - 1 - É criado, no âmbito do Ministério das Finanças, o Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas, adiante designado por GAFEEP.
 
 2 - O GAFEEP é um órgão de assessoria e apoio directo ao Ministro das Finanças.
 
-###### Art. 2.º É atribuição do GAFEEP preparar matérias a submeter ao Ministro das Finanças para efeito de deliberações que respeitem ao exercício da tutela financeira do sector público, administrativo e empresarial, designadamente:
+Art. 2.º É atribuição do GAFEEP preparar matérias a submeter ao Ministro das Finanças para efeito de deliberações que respeitem ao exercício da tutela financeira do sector público, administrativo e empresarial, designadamente:
 
 a) Analisar agregadamente as necessidades de financiamento, quer para funcionamento, quer para investimento, do sector público administrativo (SPA) e do sector empresarial do Estado (SEE) e apreciar a sua compatibilidade com a programação monetária e com os objectivos macroeconómicos de cada ano;
 
@@ -151,7 +186,7 @@ h) Apreciar as incidências financeiras dos contratos-programas e de outros inst
 
 i) Elaborar anualmente relatório sobre os financiamentos dos SPA e SEE.
 
-###### Art. 3.º No exercício das suas atribuições compete, designadamente, ao GAFEEP:
+Art. 3.º No exercício das suas atribuições compete, designadamente, ao GAFEEP:
 
 a) Articular a sua actividade especialmente com o Gabinete de Estudos Económicos, a Inspecção-Geral de Finanças, a Direcção-Geral da Contabilidade Pública e a Direcção-Geral do Tesouro;
 
@@ -159,13 +194,13 @@ b) Em colaboração com a Direcção-Geral da Contabilidade Pública, com os gab
 
 c) Obter do Banco de Portugal, do Instituto Nacional de Seguros e das instituições bancárias e parabancárias todos os elementos de informação sobre o financiamento de qualquer entidade ou grupo de entidades dos SPA e SEE.
 
-###### Art. 4.º - 1 - O GAFEEP será dirigido por um director, o qual é equiparado, para todos os efeitos legais, a director-geral.
+Art. 4.º - 1 - O GAFEEP será dirigido por um director, o qual é equiparado, para todos os efeitos legais, a director-geral.
 
 2 - O director é coadjuvado por um subdirector, o qual é equiparado, para todos os efeitos legais, a subdirector-geral.
 
 3 - O GAFEEP compreende o pessoal constante do quadro anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 5.º - 1 - O GAFEEP terá um quadro de consultores, habilitados com licenciatura em Economia, Gestão de Empresas ou outras que se mostrem adequadas à prossecução das atribuições, abrangendo as seguintes categorias:
+Art. 5.º - 1 - O GAFEEP terá um quadro de consultores, habilitados com licenciatura em Economia, Gestão de Empresas ou outras que se mostrem adequadas à prossecução das atribuições, abrangendo as seguintes categorias:
 
 a) Consultor;
 
@@ -187,32 +222,32 @@ c) Em requisição, para trabalhadores de empresas públicas, no âmbito do regi
 
 5 - O desempenho de funções no GAFEEP está isento do cumprimento de horário de trabalho, não lhe sendo, por isso, devida qualquer remuneração por trabalho extraordinário.
 
-###### Art. 6.º - 1 - O apoio administrativo ao GAFEEP será assegurado por pessoal da Secretaria-Geral do Ministério das Finanças a destacar para o efeito, ou por pessoal a requisitar ou a destacar de outros serviços do Estado, nos termos da legislação em vigor.
+Art. 6.º - 1 - O apoio administrativo ao GAFEEP será assegurado por pessoal da Secretaria-Geral do Ministério das Finanças a destacar para o efeito, ou por pessoal a requisitar ou a destacar de outros serviços do Estado, nos termos da legislação em vigor.
 
 2 - O apoio informático ao GAFEEP será prestado pelo Instituto de Informática do Ministério das Finanças, em moldes a fixar por despacho do Ministro das Finanças.
 
-###### Art. 7.º O pessoal a prestar serviço no GAFEEP não pode ser prejudicado no seu emprego, na estabilidade e progressão da sua carreira, no regime de segurança social e nas demais regalias de que beneficie.
+Art. 7.º O pessoal a prestar serviço no GAFEEP não pode ser prejudicado no seu emprego, na estabilidade e progressão da sua carreira, no regime de segurança social e nas demais regalias de que beneficie.
 
-###### Art. 8.º É extinto o Secretariado Permanente para as Empresas Públicas (SPEP), criado pelo [Decreto-Lei n.º 99/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1985-325553), de 8 de Abril.
+Art. 8.º É extinto o Secretariado Permanente para as Empresas Públicas (SPEP), criado pelo [Decreto-Lei n.º 99/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1985-325553), de 8 de Abril.
 
-###### Art. 9.º - 1 - Por despacho do Ministro das Finanças e com recurso às verbas inscritas no orçamento do Ministério das Finanças e às disponibilidades existentes nas dotações postas à disposição do ex-SPEP, serão satisfeitos os encargos de funcionamento do GAFEEP.
+Art. 9.º - 1 - Por despacho do Ministro das Finanças e com recurso às verbas inscritas no orçamento do Ministério das Finanças e às disponibilidades existentes nas dotações postas à disposição do ex-SPEP, serão satisfeitos os encargos de funcionamento do GAFEEP.
 
 2 - Todos os valores activos e passivos, a titularidade de todos os bens móveis e imóveis e todos os direitos e obrigações, contratuais ou não, do SPEP são transferidos para o GAFEEP.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em Bragança em 25 de Fevereiro de 1987.**
+Promulgado em Bragança em 25 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Fevereiro de 1987.**
+Referendado em 25 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf))](https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf)

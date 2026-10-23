@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1988-374779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3169f424959833503ba04f0b6b46e13b287fbcd66731bed5253d2b300cd6becc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aca3f5823fa55ca2ae8997f7b2cf1331534cde7967c6d9ae8279640af4d3e513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- CTT
+- Multa
+- Portugal Telecom
+- Preço
+- Regulamento
+- Regulamento do Serviço Público de Correios
+- Serviço Postal
+- Serviço Público de Correios
+- União Postal Universal
 relationships:
 - type: amended_by
   target: pt:dre:553038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553038:por
+  label: "Determinada a manutenção das disposições do Regulamento do Serviço Público de Correios, pela LEI.17/2012.26.04.2012.AR,\
+    \ DR.IS [82] de 26.04.2012, nos termos do seu art. 58º. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2012-553038
+  date: '2012-04-26'
+- type: cites
+  target: pt:dre:180672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649525:por
+  label: null
+  source: null
 article_structure:
-  article_count: 91
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 90
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:08Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +170,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Serviço Público de Correios, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Serviço Público de Correios, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º A regulamentação posterior que, no âmbito do serviço público de correios explorado em regime exclusivo, se mostre necessária revestirá a forma de decreto regulamentar.
+Art. 2.º A regulamentação posterior que, no âmbito do serviço público de correios explorado em regime exclusivo, se mostre necessária revestirá a forma de decreto regulamentar.
 
-###### Art. 3.º - 1 - A criação, suspensão e extinção de serviços de correios incluídos no regime de exclusivo são actos da competência do ministro responsável pelo sector das comunicações.
+Art. 3.º - 1 - A criação, suspensão e extinção de serviços de correios incluídos no regime de exclusivo são actos da competência do ministro responsável pelo sector das comunicações.
 
 2 - Compete à empresa operadora:
 
@@ -114,7 +186,7 @@ c) A fixação do horário de funcionamento dos estabelecimentos postais, tendo 
 
 3 - A empresa operadora deve garantir a divulgação das alterações que ocorram na exploração do serviço postal.
 
-###### Art. 4.º - 1 - Sem prejuízo do disposto no n.º 2, são revogados todos os diplomas e disposições legais anteriormente aplicáveis ao serviço postal, designadamente os seguintes:
+Art. 4.º - 1 - Sem prejuízo do disposto no n.º 2, são revogados todos os diplomas e disposições legais anteriormente aplicáveis ao serviço postal, designadamente os seguintes:
 
 a) Regulamento para os Serviços dos Correios, aprovado pelo Decreto de 14 de Junho de 1902;
 
@@ -148,25 +220,25 @@ p) [Portaria n.º 618/85](https://diariodarepublica.pt/dr/detalhe/portaria/618-1
 
 2 - Os diplomas referidos no número anterior mantêm-se em vigor até à sua substituição pela regulamentação a emitir ao abrigo do presente diploma.
 
-###### Art. 5.º - 1 - A partir de 1 de Janeiro de 1990 cessam todas as isenções e reduções de taxas aplicáveis aos serviços oficiais, ainda em vigor, mantendo-se as facilidades concedidas quanto à forma de apresentação dos objectos a que as mesmas respeitam e à execução dos respectivos serviços, sem prejuízo do disposto no número seguinte.
+Art. 5.º - 1 - A partir de 1 de Janeiro de 1990 cessam todas as isenções e reduções de taxas aplicáveis aos serviços oficiais, ainda em vigor, mantendo-se as facilidades concedidas quanto à forma de apresentação dos objectos a que as mesmas respeitam e à execução dos respectivos serviços, sem prejuízo do disposto no número seguinte.
 
 2 - As normas especiais respeitantes à execução dos serviços referidos no número anterior serão fixadas em portaria a emitir pelo ministro responsável pelo sector das comunicações no prazo de seis meses a contar da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 29 de Abril de 1988.**
+Promulgado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento do Serviço Público de Correios
 
-# PARTE I — Do serviço público de correios
+## PARTE I — Do serviço público de correios
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -638,7 +710,7 @@ a) Nos estabelecimentos postais;
 
 b) Nos domicílios dos destinatários.
 
-# PARTE II — Dos serviços complementares da rede postal
+## PARTE II — Dos serviços complementares da rede postal
 
 ### CAPÍTULO I — Das encomendas postais
 
@@ -822,7 +894,7 @@ b) A taxa que estiver estabelecida para a liquidação.
 
 Pode a empresa operadora criar outras formas de cobrança, de acordo com normas por ela a definir.
 
-# PARTE III — Das garantias
+## PARTE III — Das garantias
 
 ###### Artigo 73.º — Reclamações
 
@@ -940,7 +1012,7 @@ b) Para as encomendas registadas, a importância correspondente ao produto da ta
 
 2 - Sem prejuízo do disposto no número anterior, são aplicáveis ao serviço de títulos à cobrança as disposições do artigo antecedente.
 
-# PARTE IV — Das contra-ordenações postais
+## PARTE IV — Das contra-ordenações postais
 
 ###### Artigo 84.º — Tipos de contra-ordenações
 
@@ -1014,4 +1086,4 @@ O pagamento da coima não dispensa o infractor do pagamento das tarifas postais 
 
 O produto das coimas aplicadas, por contra-ordenações postais constituirá receita do Estado.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

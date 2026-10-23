@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/19000/32643266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4d7225329f85113281235b7265bd97d7846cd4c01b30ffdf04f90d0fb00a06e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b028e8dd61cfd863e53872423b5702526b0c79388702b6de62543b0a74b5f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete do Nó Ferroviário de Lisboa
+- Orgânica
+- Personalidade Jurídica
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372653:por
+  label: "Alterado o art. 8º pelo DEC LEI.252/88.18.07.1988.MOPTC, DR.IS [164] de 18.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-1988-372653
+  date: '1988-07-18'
+- type: amended_by
+  target: pt:dre:616450:por
+  label: "Alterados os arts. 5.º, 6.º e 10.º pelo DEC LEI.275/92.12.12.1992.MOPTC, DR.IS-A [286] de 12.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1992-616450
+  date: '1992-12-12'
+- type: amended_by
+  target: pt:dre:476739:por
+  label: "Extinto o Gabinete do Nó Ferroviário de Lisboa, pelo Dec Lei 104/97.1997.04.29.MEPAT, DR.IS-A [99] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1997-476739
+  date: '1997-04-29'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:14Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +141,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o Gabinete do Nó Ferroviário de Lisboa, organismo com carácter eventual, sob a tutela do Ministro das Obras Públicas, Transportes e Comunicações, gozando de personalidade jurídica e autonomia administrativa.
+Artigo 1.º - 1 - É criado o Gabinete do Nó Ferroviário de Lisboa, organismo com carácter eventual, sob a tutela do Ministro das Obras Públicas, Transportes e Comunicações, gozando de personalidade jurídica e autonomia administrativa.
 
 2 - O Gabinete do Nó Ferroviário de Lisboa, adiante designado por Gabinete, tem a sua sede em Lisboa.
 
-###### Art. 2.º O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Ministério das Obras Públicas, Transportes e Comunicações.
+Art. 2.º O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Ministério das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 3.º - 1 - O Gabinete tem por atribuições a promoção, a coordenação, o desenvolvimento e o controle de todas as actividades relacionadas com o nó ferroviário de Lisboa, sendo da sua competência, nomeadamente:
+Art. 3.º - 1 - O Gabinete tem por atribuições a promoção, a coordenação, o desenvolvimento e o controle de todas as actividades relacionadas com o nó ferroviário de Lisboa, sendo da sua competência, nomeadamente:
 
 a) Promover a elaboração de todos os estudos que se tornem necessários à realização dessas actividades ou com ela relacionados;
 
@@ -151,11 +175,11 @@ i) Promover o pagamento das despesas.
 
 5 - Com a transferência das obras prevista no n.º 3, a CP assume perante o Estado a responsabilidade do Gabinete como mutuário dos financiamentos concedidos, com a correspondente conversão em dotação de capital da CP dos créditos do Estado destinados a investimentos com infra-estruturas de longa duração ou deles decorrentes e ainda os investimentos de carácter social.
 
-###### Art. 4.º - 1 - A CP e o Gabinete acordarão, em protocolo, o modo de articulação das duas entidades nas acções e decisões que devem ser tomadas relativamente à execução e desenvolvimento de cada um dos projectos e sua futura integração na exploração da CP, sem prejuízo da representação desta empresa pública no órgão de direcção do Gabinete.
+Art. 4.º - 1 - A CP e o Gabinete acordarão, em protocolo, o modo de articulação das duas entidades nas acções e decisões que devem ser tomadas relativamente à execução e desenvolvimento de cada um dos projectos e sua futura integração na exploração da CP, sem prejuízo da representação desta empresa pública no órgão de direcção do Gabinete.
 
 2 - As divergências entre a CP e o Gabinete relativas ao conteúdo e execução do protocolo que não puderem ser dirimidas por acordo serão decididas por despacho do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente e quatro vogais.
+Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente e quatro vogais.
 
 2 - O presidente do conselho directivo será um dos membros do conselho de gerência da CP especialmente designado pelo Governo para esse efeito.
 
@@ -171,7 +195,7 @@ d) Um pela CP.
 
 4 - Nas faltas e impedimentos do presidente, este é substituído pelo vogal indicado pelo próprio conselho directivo do Gabinete.
 
-###### Art. 6.º - 1 - Ao presidente cabe, sem prejuízo do disposto no n.º 4 do artigo anterior, representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
+Art. 6.º - 1 - Ao presidente cabe, sem prejuízo do disposto no n.º 4 do artigo anterior, representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
 
 2 - Ao vogal indicado pelo Ministro das Finanças compete superintender nos serviços administrativos e de expediente do Gabinete e coordenar as acções de carácter financeiro.
 
@@ -179,11 +203,11 @@ d) Um pela CP.
 
 4 - O Gabinete vincula-se juridicamente pela assinatura de dois membros do seu conselho directivo ou por mandatários constituídos por deliberação desse conselho.
 
-###### Art. 7.º - 1 - O conselho directivo delibera por maioria dos membros no exercício de funções.
+Art. 7.º - 1 - O conselho directivo delibera por maioria dos membros no exercício de funções.
 
 2 - O presidente do conselho directivo tem voto de qualidade.
 
-###### Art. 8.º - 1 - O Gabinete é assistido por um conselho técnico consultivo, com a seguinte composição:
+Art. 8.º - 1 - O Gabinete é assistido por um conselho técnico consultivo, com a seguinte composição:
 
 a) Um representante do Ministério das Obras Públicas, Transportes e Comunicações, que presidirá;
 
@@ -207,13 +231,13 @@ j) Um representante do Laboratório Nacional de Engenharia Civil.
 
 2 - Os membros do conselho técnico consultivo referidos no número anterior são nomeados pelo Ministro das Obras Públicas, Transportes e Comunicações, sob proposta dos ministros que tutelam os respectivos organismos.
 
-###### Art. 9.º - 1 - O conselho técnico consultivo reúne em sessões plenárias por determinação do Ministro das Obras Públicas, Transportes e Comunicações ou a solicitação do presidente do conselho directivo.
+Art. 9.º - 1 - O conselho técnico consultivo reúne em sessões plenárias por determinação do Ministro das Obras Públicas, Transportes e Comunicações ou a solicitação do presidente do conselho directivo.
 
 2 - Os membros do conselho técnico consultivo prestarão individualmente a assistência técnica que lhes for solicitada pelo presidente do conselho directivo, dentro das respectivas especialidades.
 
-###### Art. 10.º Os vencimentos e gratificações dos membros do conselho directivo, do pessoal a ele afecto e dos membros do conselho técnico consultivo são fixados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 10.º Os vencimentos e gratificações dos membros do conselho directivo, do pessoal a ele afecto e dos membros do conselho técnico consultivo são fixados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 11.º - 1 - As despesas de funcionamento do Gabinete são suportadas por verbas a inscrever no orçamento do Gabinete do Ministro das Obras Públicas, Transportes e Comunicações.
+Art. 11.º - 1 - As despesas de funcionamento do Gabinete são suportadas por verbas a inscrever no orçamento do Gabinete do Ministro das Obras Públicas, Transportes e Comunicações.
 
 2 - O Gabinete requisitará à 12.ª Delegação da Direcção-Geral da Contabilidade Pública, por conta das verbas destinadas aos empreendimentos do nó ferroviário de Lisboa, as importâncias de que necessita para o pagamento das suas despesas.
 
@@ -231,18 +255,18 @@ d) Despesas de investimento a realizar no ano seguinte, com indicação da respe
 
 5 - O conselho directivo não aprova nem propõe a aprovação de decisões ou contratos que determinem um excesso para além dos valores aprovados referidos na alínea d) do número anterior sem previamente colher a autorização para revisão desses valores.
 
-###### Art. 12.º O Gabinete presta anualmente contas de gerência ao Tribunal de Contas.
+Art. 12.º O Gabinete presta anualmente contas de gerência ao Tribunal de Contas.
 
-###### Art. 13.º A CP submeterá à apreciação do Gabinete quaisquer sugestões ou propostas que entenda dever transmitir sobre o teor e modo de execução dos contratos com vista ao mais perfeito ajustamento dos projectos à sua economia de exploração, dentro dos limites definidos para o custo das obras.
+Art. 13.º A CP submeterá à apreciação do Gabinete quaisquer sugestões ou propostas que entenda dever transmitir sobre o teor e modo de execução dos contratos com vista ao mais perfeito ajustamento dos projectos à sua economia de exploração, dentro dos limites definidos para o custo das obras.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins - Fernando Nunes Ferreira Real.
 
-**Promulgado em 3 de Agosto de 1987.**
+Promulgado em 3 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Agosto de 1987.**
+Referendado em 7 de Agosto de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

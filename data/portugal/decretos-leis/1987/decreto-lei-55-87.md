@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02600/03940397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1987-663315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98cf5270a66d598f68dd599a2ecad782a3fda0d6f71a4ca08b3cf19244ff30dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6bff06058e57c9d6f59ba30956b1182b503d4d7d28fc300212799374bf467df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Gabinete de Estudos e Planeamento de Instalações
+- GNR
+- Governo Civil
+- Inspecção de Explosivos
+- Ministério da Administração Interna
+- Orgânica
+- PSP
+- Secretaria Geral
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
+- Serviço de Estrangeiros e Fronteiras
+- Serviço de Informações de Segurança
+- Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:520432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523409:por
+  label: "Alterados os arts. 4º, 15º, 16º, 20º e aditados os arts. 13º-A 13º-B, pelo DEC LEI.92/92.1992.05.23.MAI, DR.IS-A\
+    \ [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1992-523409
+  date: '1992-05-23'
+- type: amended_by
+  target: pt:dre:689619:por
+  label: "Alterado o art. 6º, pelo DEC LEI.117/93.1993.04.13.MAI, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1993-689619
+  date: '1993-04-13'
+- type: amended_by
+  target: pt:dre:520432:por
+  label: "Determinado que a Direcção-Geral da Administração Interna suceda nas atribuições do domínio do estudo e análise\
+    \ das questões relativas a segurança interna, asilo e imigração, previsão e gestão de emergências, do Gabinete de Estudos\
+    \ e de Planeamento de Instalações, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.78/2007.29.03.2007.MAI,\
+    \ DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2007-520432
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:520452:por
+  label: "Determinado que a Secretaria-Geral suceda nas atribuições da Auditoria Jurídica do MAI, criada pelo art. 3º do Dec\
+    \ Lei 746/74, de 27-Dez, e cuja orgânica consta do presente diploma, pelo DEC LEI.76/2007.29.03.2007.MAI, DR.IS [63] de\
+    \ 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2007-520452
+  date: '2007-03-29'
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516875:por
+  label: "Revogado o art. 20º, pelo DEC LEI.107/92.1992.06.02.MAI, DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1992-516875
+  date: '1992-06-02'
+- type: repealed_by
+  target: pt:dre:545640:por
+  label: "Revogado o presente diploma pelo DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006, que determinou, de\
+    \ acordo ao preceituado no respectivo art. 19º: - a extinção, com fusão, nos termos do disposto no nº 2 do art. 16º daquele\
+    \ diploma, dos seguintes organismos: da Auditoria Jurídica, do Gabinete dos Assuntos Europeus, do Secretariado Técnico\
+    \ dos Assuntos para o Processo Eleitoral (STAPE), do Gabinete de Estudos e Planeamento de Instalações (GEPI), da Direcção-Geral\
+    \ de Viação (DGV) e do Cofre de Previdência da PSP, sendo as suas atribuições integradas: na Secretaria-Geral, na Direcção-Geral\
+    \ da Administração Interna, na Direcção-Geral de Infra-Estruturas e de Equipamentos, na Autoridade Nacional de Segurança\
+    \ Rodoviária, no Instituto da Mobilidade e dos Transportes Terrestres, no Instituto das Infra-Estruturas Rodoviárias e\
+    \ no organismo que deterá as atribuições relativas aos Serviços Sociais da PSP; - a reestruturação: do Serviço Nacional\
+    \ de Bombeiros e Protecção Civil (SNBPC) – que passa a denominar-se Autoridade Nacional de Protecção Civil, da Secretaria-Geral\
+    \ e dos demais serviços e organismos constantes do nº 2 do art. 4º do referido diploma; - e a integração, do Gabinete\
+    \ Nacional SIRENE no Gabinete Coordenador de Segurança, no âmbito da Presidência do Conselho de Ministros.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
 article_structure:
   article_count: 24
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:12Z'
   warnings: []
   errors: []
 ---
@@ -363,12 +450,12 @@ São regovados os Decretos-Leis n.os [342/77](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo.
 
-**Promulgado em 15 de Janeiro de 1987.**
+Promulgado em 15 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Janeiro de 1987.**
+Referendado em 22 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

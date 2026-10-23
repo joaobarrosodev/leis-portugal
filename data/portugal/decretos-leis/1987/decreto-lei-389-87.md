@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1987, 1º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4440-(2) a 4440-(182)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf
 entry_into_force_dates: []
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1987-406106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 795783fd5929dc4747b4130a8ac433c035f48be0366177fe31e1f784b2a56477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 686bbcc8a54aa9dfd3e3c24fdbb8fa05dbd87a9f27efa7ca3ed55565acfab762
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:361107:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:354164:por
+  label: "Alterada a pauta dos direitos de importação, pelo DEC LEI.371/88.17.10.1988.MF, DR.IS [240] de 17.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1988-354164
+  date: '1988-10-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:27Z'
   warnings: []
   errors: []
 ---
@@ -120,32 +128,32 @@ Assim:
 
 No uso da autorização conferida pela alínea b) do artigo 36.º da Lei n.º 49/86, de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a Pauta dos Direitos de Importação para 1988, elaborada com base na Nomenclatura Combinada, estabelecida pelo Regulamento (CEE) n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt), do Conselho, de 23 de Julho de 1987, e que constitui o anexo do presente diploma.
+Artigo 1.º - 1 - É aprovada a Pauta dos Direitos de Importação para 1988, elaborada com base na Nomenclatura Combinada, estabelecida pelo Regulamento (CEE) n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt), do Conselho, de 23 de Julho de 1987, e que constitui o anexo do presente diploma.
 
 2 - A Pauta a que se refere o número anterior será publicada em separata, que constituirá modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1988.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 28 de Dezembro de 1987.**
+Promulgado em 28 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1987.**
+Referendado em 29 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PRIMEIRA PARTE
 
 Disposições preliminares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf))](https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf)
 
 SEGUNDA PARTE
 
 Tabela de direitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf))](https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/30001/00020182.pdf)

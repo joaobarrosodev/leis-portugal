@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1987-417226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59d6701c434745aebb1d5765ea23ffe31e6ac21d3a96967f3db771e8955d6900
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4dc981eaf53227a1953ba00bb360cb901613a8b2070e2c1ca0e621c754444ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Desemprego
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474771:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:57Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +123,9 @@ Assim:
 
 Nos termos do n.º 1 do artigo 25.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, o Governo decreta, ao abrigo da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É revogado o [Decreto n.º 411/74](https://diariodarepublica.pt/dr/detalhe/decreto/411-1974-474771), de 5 de Setembro.
+Artigo 1.º É revogado o [Decreto n.º 411/74](https://diariodarepublica.pt/dr/detalhe/decreto/411-1974-474771), de 5 de Setembro.
 
-###### Art. 2.º - 1 - As situações previstas pelo [Decreto n.º 411/74](https://diariodarepublica.pt/dr/detalhe/decreto/411-1974-474771) são reguladas pelos [Decreto-Lei n.º 160/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1980-474484), de 27 de Maio, e [Decreto-Lei n.º 20/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1985-328843), de 17 de Janeiro, que substituiu o [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, e legislação complementar, os quais definiram a protecção de segurança social:
+Art. 2.º - 1 - As situações previstas pelo [Decreto n.º 411/74](https://diariodarepublica.pt/dr/detalhe/decreto/411-1974-474771) são reguladas pelos [Decreto-Lei n.º 160/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1980-474484), de 27 de Maio, e [Decreto-Lei n.º 20/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1985-328843), de 17 de Janeiro, que substituiu o [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, e legislação complementar, os quais definiram a protecção de segurança social:
 
 a) Da população carenciada não abrangida por regimes contributivos;
 
@@ -109,12 +135,12 @@ b) Dos trabalhadores em situação de desemprego.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1987. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 17 de Julho de 1987.**
+Promulgado em 17 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1987.**
+Referendado em 21 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

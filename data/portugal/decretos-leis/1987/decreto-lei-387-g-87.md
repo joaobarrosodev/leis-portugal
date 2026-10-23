@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1987, 1º Suplemento, Série I de 1987-12-30
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4432-(2) a 4432-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29901/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-g-1987-311217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dec41bd596c5b922b65a76f33f0f48cb7928b4493b203b2dd58429d104683c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e115a91dfadcf24ae2d56cbf29bd9e92fe54bccad378fcaabf01da1f50964bce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Regulamento do Imposto do SELO
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:186877:por
+  label: Rectificado pela DECL.DD2073.30.01.1988.PCM, DR.IS [25]Supl de 30.01.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-186877
+  date: '1988-01-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:25Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +117,9 @@ No uso da autorização legislativa conferida pela alínea a) do artigo 37.º da
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 111.º, 117.º e 118.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 111.º, 117.º e 118.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 7.º O papel para letras terá estampado o escudo da República e deverá conter todos os elementos de identificação constantes da Lei Uniforme sobre Letras e Livranças.
+Art. 7.º O papel para letras terá estampado o escudo da República e deverá conter todos os elementos de identificação constantes da Lei Uniforme sobre Letras e Livranças.
 
 § 1.º As taxas do papel são as indicadas no artigo 101 da Tabela Geral do Imposto do Selo.
 
@@ -108,7 +127,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 3.º O imposto devido pelas livranças nos termos do artigo 101, n.º 2, da Tabela será cobrado pelas instituições bancárias e por elas entregue dentro do prazo estabelecido no artigo 23, ou será pago por meio de verba a liquidar pela repartição de finanças quando as mesmas instituições não procedam ao seu desconto, procedendo-se, neste caso, ao respectivo averbamento.
 
-###### Art. 111.º É permitida a substituição do papel para letras por impressos, privativos dos sacadores, selados pela Imprensa Nacional-Casa da Moeda, desde que contenham estampadas, por qualquer forma, as iniciais ou firmas das pessoas ou sociedades, ou a designação das casas ou estabelecimentos a que respeitarem.
+Art. 111.º É permitida a substituição do papel para letras por impressos, privativos dos sacadores, selados pela Imprensa Nacional-Casa da Moeda, desde que contenham estampadas, por qualquer forma, as iniciais ou firmas das pessoas ou sociedades, ou a designação das casas ou estabelecimentos a que respeitarem.
 
 § 1.º Às letras referidas no corpo do presente artigo aplicam-se as taxas indicadas no artigo 101 da Tabela, ficando sujeitas aos escalões e limites nele estabelecidos.
 
@@ -116,13 +135,13 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 3.º A forma de pagamento do imposto devido pelas letras, prevista no parágrafo anterior, é obrigatória para as empresas públicas e para as sociedades regularmente constituídas com capital superior a 1000000$00, quando o número de letras emitidas durante o ano não seja inferior a 1000.
 
-###### Art. 117.º O selo de que trata o artigo 102 da Tabela corresponde a todas as vias que de uma mesma letra se passarem, sendo devido o imposto por qualquer delas.
+Art. 117.º O selo de que trata o artigo 102 da Tabela corresponde a todas as vias que de uma mesma letra se passarem, sendo devido o imposto por qualquer delas.
 
-###### Art. 118.º O modelo das letras e livranças e suas características serão estabelecidos em portaria do Ministro das Finanças e os demais escritos ou ordens de pagamento, a que se refere o n.º 2 do artigo 101 da Tabela, serão selados por estampilha segundo as regras gerais.
+Art. 118.º O modelo das letras e livranças e suas características serão estabelecidos em portaria do Ministro das Finanças e os demais escritos ou ordens de pagamento, a que se refere o n.º 2 do artigo 101 da Tabela, serão selados por estampilha segundo as regras gerais.
 
-###### Art. 2.º Os artigos 101 e 102 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+Art. 2.º Os artigos 101 e 102 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 101 - Letras, livranças e outros títulos de crédito, sobre o valor:
+Art. 101 - Letras, livranças e outros títulos de crédito, sobre o valor:
 
 1 - Letras:
 
@@ -166,24 +185,24 @@ b) Nos demais casos - 4(por mil) (selo especial).
 
 3 - Ordens e escritos de qualquer natureza, nos quais se determine pagamento ou entrega de dinheiro com cláusula à ordem ou à distância, ainda que sob a forma de correspondência, não sendo cheques sacados no território nacional (estampilha) - 4(por mil).
 
-###### Art. 102 - Letras sacadas no estrangeiro, sobre o seu valor:
+Art. 102 - Letras sacadas no estrangeiro, sobre o seu valor:
 
 a) Quando aceites ou pagas no território nacional - 4(por mil) (selo de verba ou estampilha);
 
 b) Quando se destinem a ser pagas no estrangeiro, mas sejam negociadas no território nacional - 4(por mil) (selo de verba ou estampilha).
 
-###### Art. 3.º São revogados os artigos 18.º, alínea c), 112.º, 113.º, 114.º e 119.º do Regulamento do Imposto do Selo.
+Art. 3.º São revogados os artigos 18.º, alínea c), 112.º, 113.º, 114.º e 119.º do Regulamento do Imposto do Selo.
 
-###### Art. 4.º As alterações introduzidas pelo presente diploma entram em vigor em 1 de Abril de 1988.
+Art. 4.º As alterações introduzidas pelo presente diploma entram em vigor em 1 de Abril de 1988.
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Dezembro de 1987.**
+Promulgado em 22 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Dezembro de 1987.**
+Referendado em 23 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

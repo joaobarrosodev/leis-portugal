@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15100/26172617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1987-419989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef784b851c599a094cf199395c56426662fa667d3a62dffdd64c54d70bc1c061
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ddb9ba26bf8ea66c79cd28afa5bf154f69e1049dcf43fd66d24857e0a365eda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Indústria da Panificação
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:216746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219961:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216746:por
+  label: Revogado pelo DEC LEI.65/92.23.04.1992.MA, DR.IS-A [95] de 23.04.1992, com a entrada em vigor da regulamentação prevista
+    no seu art. 1º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1992-216746
+  date: '1992-04-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:36Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +114,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 8.º e 10.º do [Decreto-Lei n.º 286/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1986-219961), de 6 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 8.º e 10.º do [Decreto-Lei n.º 286/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1986-219961), de 6 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 8.º — Do pessoal de distribuição e venda
 
@@ -125,12 +138,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1987. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 22 de Junho de 1987.**
+Promulgado em 22 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1987.**
+Referendado em 24 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

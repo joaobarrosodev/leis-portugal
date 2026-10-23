@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02500/03890390.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1987-663309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d82dbea8dcfda41b499165307588873ac319c1f178d6dacff7d62cfeaad96e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42acd3d51f48f9dc48b96ea1a3ce4e371c61c302c3e1ca509cd584e8cdb0e3b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Viação
+- Instituto Português da Qualidade
+- Metrologia
+- Tacógrafo
 relationships:
 - type: amended_by
   target: pt:dre:618547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:618547:por
+  label: "Revogado pelo DEC LEI.272/89.19.08.1989.MESS, DR.IS [190] de 19.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1989-618547
+  date: '1989-08-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:12Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +108,15 @@ Assim, considerando o disposto no n.º 1 do artigo 19.º do Regulamento (CEE) n.
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A «homologação CEE» prevista no capítulo II do Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt), de 20 de Dezembro, bem como a prática de todos os demais actos dela decorrentes, compete à Direcção-Geral de Viação (DGV), do Ministério das Obras Públicas, Transportes e Comunicações.
+Artigo 1.º - 1 - A «homologação CEE» prevista no capítulo II do Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt), de 20 de Dezembro, bem como a prática de todos os demais actos dela decorrentes, compete à Direcção-Geral de Viação (DGV), do Ministério das Obras Públicas, Transportes e Comunicações.
 
 2 - Tal homologação será efectuada com base no correspondente certificado, emitido pelo Instituto Português da Qualidade (IPQ), do Ministério da Indústria e Comércio.
 
-###### Art. 2.º O reconhecimento da qualificação de instaladores e reparadores previsto no capítulo III do Regulamento referido no n.º 1 do artigo 1.º, bem como a prática dos demais actos dele decorrentes, compete ao IPQ.
+Art. 2.º O reconhecimento da qualificação de instaladores e reparadores previsto no capítulo III do Regulamento referido no n.º 1 do artigo 1.º, bem como a prática dos demais actos dele decorrentes, compete ao IPQ.
 
-###### Art. 3.º As operações previstas no capítulo VI do anexo I do Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt) serão executadas nos termos da legislação específica do controle metrológico, em instalações oficiais ou para o efeito certificadas pelo IPQ.
+Art. 3.º As operações previstas no capítulo VI do anexo I do Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt) serão executadas nos termos da legislação específica do controle metrológico, em instalações oficiais ou para o efeito certificadas pelo IPQ.
 
-###### Art. 4.º As contra-ordenações ao disposto no Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt) serão punidas nos termos seguintes:
+Art. 4.º As contra-ordenações ao disposto no Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt) serão punidas nos termos seguintes:
 
 1) Com a coima de 5000$00 a 50000$00:
 
@@ -145,18 +154,18 @@ A não conservação das folhas de registo pelo período mínimo de um ano.
 
 § único. Todas as contra-ordenações a que não corresponda pena especial serão punidas com coima de 5000$00 a 50000$00.
 
-###### Art. 5.º A aplicação das coimas previstas no artigo anterior compete à DGV.
+Art. 5.º A aplicação das coimas previstas no artigo anterior compete à DGV.
 
-###### Art. 6.º A fiscalização do cumprimento das disposições referidas no artigo 4.º do presente diploma incumbe às entidades fiscalizadoras referidas nas alíneas a), b) e c) do n.º 3 do artigo 2.º do CE.
+Art. 6.º A fiscalização do cumprimento das disposições referidas no artigo 4.º do presente diploma incumbe às entidades fiscalizadoras referidas nas alíneas a), b) e c) do n.º 3 do artigo 2.º do CE.
 
 Visto e aprovado em Conselho de Ministros de 18 de Dezembro de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins - Luís Fernando Mira Amaral.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

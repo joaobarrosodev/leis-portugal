@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1987-495344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c4eb06e06e64f23ada61e43d5bcb844ed97da66b55da619e55083fc6686a832
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ddda61ab48cbfd7c11f4d12e8f9ddb5cde524c6886de03e88fd59c0b8fae176
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Diploma
+- Direito de Estabelecimento
+- Enfermagem
+- Equivalência de Habilitações Literárias
+- Livre Prestação de Serviços
+- Pessoal de Enfermagem
+- Trabalhador Comunitário
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:151970:por
+  label: "Alterados o art. 3.º e os anexos I e II pelo DEC LEI.21/92.08.02.1992.MS, DR.IS-A [33] de 08.02.1992\092\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1992-151970
+  date: '1992-02-08'
+- type: amended_by
+  target: pt:dre:282518:por
+  label: "Alterado o art. 3.º e revogado o 2.º parágrafo da al. a) do anexo II do presente diploma, na redacção do Dec Lei\
+    \ 21/92 de 08-Fev, pelo DEC LEI.186/93.22.05.1993.MS, DR.IS-A [119] de 22.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1993-282518
+  date: '1993-05-22'
+- type: amended_by
+  target: pt:dre:652698:por
+  label: "Aditados os n.ºs 2 e 3 ao art. 2.º, os n.ºs 3 e 4 ao art. 9.º, e os n.ºs 1, 2 e 3 ao art. 11.º, é substituído o\
+    \ anexo II ao presente diploma na redacção do Dec Lei 21/92, de 08-Fev e 186/93, de 22-Mai, pelo DEC LEI.175/2003.2003.08.02.MS\
+    \ DR.IS-A [177]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2003-652698
+  date: '2003-08-02'
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 14
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:29Z'
   warnings: []
   errors: []
 ---
@@ -210,15 +242,15 @@ As instituições e os serviços competentes para o desempenho das funções que
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1987. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 13 de Agosto de 1987.**
+Promulgado em 13 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Agosto de 1987.**
+Referendado em 15 de Agosto de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Títulos profissionais correspondentes ao exercício das actividades de enfermeiro responsável por cuidados gerais
 
@@ -244,13 +276,15 @@ Inglaterra, País de Gales e Irlanda do Norte - «state registered nurse»;
 
 Na Escócia - «registered general nurse»;
 
-Na Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf))](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf);
+Na Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf);
 
 Em Espanha - «enfermero(a) diplomado(a)»;
 
 Em Portugal - «enfermeiro(a)».
 
-## ANEXO II — Diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais
+ANEXO II
+
+Diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais
 
 a) Na República Federal da Alemanha:
 
@@ -296,9 +330,9 @@ i) No Reino Unido - o certificado de admissão na parte geral do Registo, conced
 
 j) Na Grécia:
 
-1) Quer o diploma de [([ver documento original](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf))](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf) (Escola Superior das Enfermeiras de Cuidados Gerais), certificado conforme pelo Ministério dos Serviços Sociais, quer o diploma de [([ver documento original](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf))](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf) (escolas paramédicas dos centros de educação superior técnica e profissional), emitido pelo Ministério da Educação Nacional e dos Assuntos Religiosos;
+1) Quer o diploma de [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf) (Escola Superior das Enfermeiras de Cuidados Gerais), certificado conforme pelo Ministério dos Serviços Sociais, quer o diploma de [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf) (escolas paramédicas dos centros de educação superior técnica e profissional), emitido pelo Ministério da Educação Nacional e dos Assuntos Religiosos;
 
-2) O [([ver documento original](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf))](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf) (certificado de formação prática da profissão de enfermeira), emitido pelo Ministério dos Serviços Sociais;
+2) O [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/10/22600/36973700.pdf) (certificado de formação prática da profissão de enfermeira), emitido pelo Ministério dos Serviços Sociais;
 
 k) Em Espanha - «título de diplomado universitario en Enfermería» (título de diplomado universitário em Enfermagem), emitido pelo Ministério da Educação e da Ciência.
 

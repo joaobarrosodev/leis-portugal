@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04800/08440858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,168 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1987-662714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9062f2f1da0bd79496c3121f765f749b98a861d7e8584463b590c29ce4126223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bc8d5212a4c1bd4e5f6e8613b1d5e10d2d4dbbeed3c4d208e468592fbc57ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:638731:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL DE 26-MAR DR.IS [75]SUPL DE 31/MAR/1987.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-31'
+- type: amended_by
+  target: pt:dre:665744:por
+  label: "Alargado quadro de pessoal a que se refere o nº 1 do art. 24.º, pela PORT.353/87.1987.04.29.MF DR.IS [98]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-1987-665744
+  date: '1987-04-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 32 PELO DEC LEI 198/87 DE 30-ABR DR.IS [99].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-30'
+- type: amended_by
+  target: pt:dre:665875:por
+  label: "Alterado o art. 32º pelo DEC LEI.198/87.30.04.1987.MOPTC, DR.IS [99] de 30.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1987-665875
+  date: '1987-04-30'
+- type: amended_by
+  target: pt:dre:615246:por
+  label: Integrada no património próprio do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE),
+    cuja orgânica consta do presente diploma, a propriedade de prédios rústicos e urbanos do Gabinete da Área de Sines (GAS),
+    sitos no Centro Urbano de Santo André e na vila de Sines, assim como todos os direitos e obrigações de que o GAS é titular
+    relativamente aos mesmos, previstos no Dec Lei 487/80 de 17-Out, pelo(a) Decreto-Lei n.º 117/89 - Diário da República
+    n.º 87/1989, Série I de 1989-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1989-615246
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:620300:por
+  label: Transferidas para o Instituto de Gestão e Alienação do Património Habitacional do Estado as competências anteriormente
+    cometidas à comissão liquidatária do Fundo de Fomento da Habitação (CL/FFH), pelo DEC LEI.194/89.09.06.1989.MOPTC, DR.IS
+    [132] de 09.06.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1989-620300
+  date: '1989-06-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 625/89 DE 7-AGO DR.IS [180].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-08-07'
+- type: amended_by
+  target: pt:dre:564434:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.1118/90.14.11.1990.MF, DR.IS [263] de 14.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1118-1990-564434
+  date: '1990-11-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL REFERIDO NO NUM 1 DO ART 24 PELA PORT 829/92 DE 25-AGO DR.IS-B [195] (POSTERIORMENTE\
+    \ ALTERADO).\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-25'
+- type: amended_by
+  target: pt:dre:212601:por
+  label: "Alterados os quadros I, II e III, pela PORT.532/96.02.10.1996.PCM, DR.IS-B [229] de 02.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-1996-212601
+  date: '1996-10-02'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Instituto de Gestão e Alienação do Património Habitacional do Estado,\
+    \ criado pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:582408:por
+  label: "Alterado o quadro do pessoal constante do quadro IV anexo, na redacção das Ports. 625/89 de 07-Ago e 829/92 de 25-Ago,\
+    \ pela PORT.712/2000.2000.09.05.MES, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/712-2000-582408
+  date: '2000-09-05'
+- type: amended_by
+  target: pt:dre:1560535:por
+  label: "Alterado o quadro de pessoal pelo DC.1122/2000.2000.11.09.MES, DR.IIS [277] de 30/Nov/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1122-2000-1560535
+  date: '2000-11-09'
+- type: amended_by
+  target: pt:dre:424731:por
+  label: Extinto o Insituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE), transferidas as respectivas
+    competências e atribuições para o Instituto Nacional de Habitação (INH), e revogadas as al. b) e c) do art. 2.º, as als.
+    e) e f) do n.º 1 e b), c) e d) do n.º 2 do art. 3.º, o n.º 1 do art. 8.º, a al. b) do n.º 1 do art. 12.º ,o art. 14.º,
+    a al. a) do n.º 2 do art. 15.º e o art. 34.º pelo DEC LEI.243/2002.2002.11.05.MOPTH, DR.IS-A [255], respetivamente nos
+    termos do disposto nos seus arts. 2.º, 3.º e 16.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-2002-424731
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:605323:por
+  label: "Determinada, até à sua efectiva extinção a integração do Instituto, na estrutura orgânica do Ministéro das Cidades,\
+    \ Administração Local, Habitação e Desenvolvimento Regional, pelo DEC LEI.36/2005.17.02.2005.MCALHDR, DR.IS-A [34] de\
+    \ 17.02.2005, nos termos do seu art. 24.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2005-605323
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Extinto o Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) cuja criação e orgânica\
+    \ constam do presente diploma pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do respectivo\
+    \ art. 29º, sendo as suas atribuições integradas no Instituto da Habitação e da Reabilitação Urbana, criado naquele diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638731:por
+  label: "Determinado que o IHRU, I.P., suceda, nos termos dos nºs 2,3,4 e 5 do art. 21º, nas atribuições do IGAPHE, cuja\
+    \ orgânica consta do presente diploma, e revogado, a partir de 01.06.2007, pelo DEC LEI.223/2007.30.05.2007.MAOTDR, DR.IS\
+    \ [104] de 30.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2007-638731
+  date: '2007-05-30'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660154:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:523425:por
+  label: Rectificado pela DECL.DD2328.1987.03.26.PCM DR.IS [75]SUPL DE 31/MAR/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-523425
+  date: '1987-03-26'
 article_structure:
   article_count: 36
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:43Z'
   warnings: []
   errors: []
 ---
@@ -532,14 +660,14 @@ Enquanto se mantiver em funções a comissão liquidatária do FFH, um dos vogai
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 5 de Fevereiro de 1987.**
+Promulgado em 5 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1987.**
+Referendado em 11 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04800/08440858.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04800/08440858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04800/08440858.pdf)

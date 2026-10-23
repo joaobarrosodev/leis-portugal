@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06300/10541059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1987-662150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e06596843510ee8eb8ead852bf416c363d1eced27e2afbd19eb210e825ed88f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d284efcc0a9380cff6472d9be6b12d5a8585f8648c84d6cf58f9bb9b4daf84e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Elevador
+- Equipamento Eléctrico
 relationships:
 - type: amended_by
   target: pt:dre:520208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificado DR.IS [99]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-30'
+- type: amended_by
+  target: pt:dre:520208:por
+  label: "Alterado o art. 41º e revogados os nºs 8 e 9 do mesmo art. do Regulamento Licenças para Instalações Eléctricas aprovado\
+    \ pelo Dec Lei 26852 de 30-Jul 1936, com a redacção conferida mo presente diploma, pelo DEC LEI.101/2007.02.04.2007.MEI,\
+    \ DR.IS [65] de 02.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2007-520208
+  date: '2007-04-02'
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305828:por
+  label: Rectificado pelo DECL.DD2262.1987.04.24.PCM, DR.IS [99]4ºSUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-305828
+  date: '1987-04-24'
+- type: repealed_by
+  target: pt:dre:475949:por
+  label: "Revogados os arts. 3º e 8º, pelo DEC LEI.110/91.1991.03.18.MIE, DR.IS-A [64], a partir da sua entrada em vigor.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-1991-475949
+  date: '1991-03-18'
+- type: repealed_by
+  target: pt:dre:241646:por
+  label: "Revogado, a partir de 1 de Julho de 1999 pelo DEC LEI.295/98.1998.09.22.MECO DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-1998-241646
+  date: '1998-09-22'
+- type: repealed_by
+  target: pt:dre:391196:por
+  label: "Revogado pelo DEC LEI.320/2002.2002.12.28.MCOTA, DR.IS-A [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2002-391196
+  date: '2002-12-28'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:18Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +157,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º de Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Exercício da Actividade das Associações Inspectoras de Elevadores, abreviadamente designadas por AIE, que constitui o anexo I ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Exercício da Actividade das Associações Inspectoras de Elevadores, abreviadamente designadas por AIE, que constitui o anexo I ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º O licenciamento de elevadores efectuar-se-á de acordo com o anexo II ao presente diploma e que dele faz parte integrante.
+Art. 2.º O licenciamento de elevadores efectuar-se-á de acordo com o anexo II ao presente diploma e que dele faz parte integrante.
 
-###### Art. 3.º - 1 - Enquanto não for revisto o Regulamento de Cobrança de Taxas de Fiscalização Eléctrica, a Direcção-Geral de Energia (DGE) cobrará, por cada elevador, as seguintes taxas:
+Art. 3.º - 1 - Enquanto não for revisto o Regulamento de Cobrança de Taxas de Fiscalização Eléctrica, a Direcção-Geral de Energia (DGE) cobrará, por cada elevador, as seguintes taxas:
 
 a) Taxa de vistoria ou revistoria de elevadores de carga nominal inferior a 100 kg ... 5000$00
 
@@ -122,7 +173,7 @@ d) Taxa de inspecção ou reinspecção periódica de elevador de carga nominal 
 
 2 - As AIE receberão, por cada elevador que vistoriem ou que inspeccionem, 90% do valor das taxas fixadas no número anterior, constituindo o restante receita do Estado.
 
-###### Art. 4.º - 1 - Os elevadores (ascensores e monta-cargas) deverão ser sujeitos a inspecções periódicas pelas direcções de serviços regionais da DGE ou pelas AIE com a seguinte periodicidade:
+Art. 4.º - 1 - Os elevadores (ascensores e monta-cargas) deverão ser sujeitos a inspecções periódicas pelas direcções de serviços regionais da DGE ou pelas AIE com a seguinte periodicidade:
 
 a) Um ano para ascensores instalados em estabelecimentos recebendo público;
 
@@ -144,19 +195,19 @@ g) Seis anos para monta-cargas.
 
 4 - Para os elevadores em exploração à data da entrada em vigor do presente diploma o início das inspecções periódicas será fixado por despacho do director-geral de Energia.
 
-###### Art. 5.º - 1 - Depois de uma transformação importante ou de um desastre caduca o certificado de exploração dos elevadores, pelo que deverá ser requerida nova vistoria.
+Art. 5.º - 1 - Depois de uma transformação importante ou de um desastre caduca o certificado de exploração dos elevadores, pelo que deverá ser requerida nova vistoria.
 
 2 - Nos casos referidos no número anterior a periodicidade das inspecções obrigatórias passará a fazer-se a partir da data da nova vistoria.
 
-###### Art. 6.º - 1 - Aos encargos resultantes do cumprimento das disposições regulamentares de segurança sobre elevadores é aplicável o disposto no artigo 1106.º do Código Civil, com a redacção que lhe foi dada pelo artigo 40.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.
+Art. 6.º - 1 - Aos encargos resultantes do cumprimento das disposições regulamentares de segurança sobre elevadores é aplicável o disposto no artigo 1106.º do Código Civil, com a redacção que lhe foi dada pelo artigo 40.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.
 
 2 - Para os elevadores antigos será regulamentado por portaria do Ministro da Indústria e Comércio, para efeitos da sua recuperação, o enquadramento das obras de conservação e obras de beneficiação.
 
 3 - Os proprietários dos elevadores não poderão opor-se à realização de obras de beneficiação pelos inquilinos, desde que aquelas sejam exigidas por disposições regulamentares de segurança.
 
-###### Art. 7.º Aos elevadores hidráulicos de comando eléctrico, bem como às escadas mecânicas e aos tapetes-rolantes destinados ao transporte de pessoas, aplicam-se as disposições previstas no presente diploma e seus anexos.
+Art. 7.º Aos elevadores hidráulicos de comando eléctrico, bem como às escadas mecânicas e aos tapetes-rolantes destinados ao transporte de pessoas, aplicam-se as disposições previstas no presente diploma e seus anexos.
 
-###### Art. 8.º - 1 - Enquanto não for publicado o novo Regulamento de Segurança de Elevadores e revisto o Regulamento de Licenças para Instalações Eléctricas, e porque constituem contra-ordenações as violações ao disposto no presente diploma e seus anexos, são estabelecidas as seguintes coimas:
+Art. 8.º - 1 - Enquanto não for publicado o novo Regulamento de Segurança de Elevadores e revisto o Regulamento de Licenças para Instalações Eléctricas, e porque constituem contra-ordenações as violações ao disposto no presente diploma e seus anexos, são estabelecidas as seguintes coimas:
 
 a) O proprietário do elevador que o tenha a funcionar sem o certificado de exploração ou o certificado de inspecção periódica será punido com coima de 10000$00 a 100000$00;
 
@@ -182,23 +233,23 @@ g) Qualquer violação das disposições do presente diploma e respectivos anexo
 
 6 - As entidades referidas no n.º 4 responderão, solidariamente, nos termos da lei civil, pelo pagamento das coimas em que forem condenados os agentes das contra-ordenações punidas nos termos do presente artigo.
 
-###### Art. 9.º Fica revogado o n.º 7 do artigo 41.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, e alterado pelo [Decreto-Lei n.º 446/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), de 5 de Junho.
+Art. 9.º Fica revogado o n.º 7 do artigo 41.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, e alterado pelo [Decreto-Lei n.º 446/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), de 5 de Junho.
 
-###### Art. 10.º O presente diploma é aplicável nas Regiões Autónomas dos Açores e da Madeira, com as devidas adequações.
+Art. 10.º O presente diploma é aplicável nas Regiões Autónomas dos Açores e da Madeira, com as devidas adequações.
 
-###### Art. 11.º Este decreto-lei entra em vigor 60 dias após a sua publicação.
+Art. 11.º Este decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Regulamento do Exercício da Actividade das Associações Inspectoras de Elevadores
 

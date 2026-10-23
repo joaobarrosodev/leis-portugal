@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 115/1988, 1º Suplemento, Série I de 1988-05-18
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2110-(4) a 2110-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11501/00040005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-b-1988-476569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0454777fa3be971fd649a72fe98f51c67deb0398e95bfacf5f1797863f667b21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44b87b382637dace4d244c495164e1e906006c558874fbe09d133bf2638f0c50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Investigação e Formação Maria Cândida Marques de Sousa Beirão da Veiga e Cunha
+- Criação de Serviços
+- Reabilitação
+- Secretariado Nacional de Reabilitação
 relationships:
 - type: amended_by
   target: pt:dre:144064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565388:por
+  label: Prorrogado por mais um ano, com efeitos desde 19.05.1990, o prazo previsto no art. 4.º do presente diploma pelo DEC
+    LEI.391/90.10.12.1990.MESS, DR.IS [283] de 10.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1990-565388
+  date: '1990-12-10'
+- type: amended_by
+  target: pt:dre:144064:por
+  label: Prorrogado com efeitos a 20.05.1991 e até 31.05.1992, o prazo do regime de instalação do Centro de Investigação e
+    Formação de Maria Cândida Marques de Sousa Beirão da Veiga da Cunha, fixado pelo art. 4.º do presente diploma pelo(a)
+    Decreto-Lei n.º 5/92 - Diário da República n.º 15/1992, Série I-A de 1992-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1992-144064
+  date: '1992-01-18'
+- type: cites
+  target: pt:dre:374248:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:10Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +221,7 @@ A estrutura orgânica, o regime do pessoal e regras de integração serão objec
 
 O artigo 19.º do [Decreto-Lei n.º 355/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1982-374248), de 6 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 19.º O Secretariado dispõe dos seguintes serviços:
+Art. 19.º O Secretariado dispõe dos seguintes serviços:
 
 a) ...
 
@@ -218,12 +239,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

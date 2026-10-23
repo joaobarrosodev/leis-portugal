@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12200/21272128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1987-421655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac6d1c9787a2ea672283b4add59be15df552b86839b098ee7091001a347276f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c7c77e0a1879535b31b89029afa667050de1a9b9d068647c22434630897d487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218162:por
+  label: Rectificado pela DECL.DD4409.28.05.1987.PCM, DR.IS [124-supl] de 30.05.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218162
+  date: '1987-05-28'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:36Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +134,13 @@ Ponto é, no entanto, que se desvaneçam as complexidades e bloqueamentos dele d
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É revogado o artigo 10.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
+Artigo 1.º É revogado o artigo 10.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 
-###### Art. 2.º O artigo 87.º do Código das Custas Judiciais, constante do [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de Maio de 1962, e ulteriormente alterado pelo [Decreto-Lei n.º 47692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47692-1967-348328), de 11 de Maio de 1967, passa a ter a seguinte redacção:
+Art. 2.º O artigo 87.º do Código das Custas Judiciais, constante do [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de Maio de 1962, e ulteriormente alterado pelo [Decreto-Lei n.º 47692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47692-1967-348328), de 11 de Maio de 1967, passa a ter a seguinte redacção:
 
-###### Artigo 87.º — Divisão da importância de procuradoria
+###### Artigo 87.º
+
+##### Divisão da importância de procuradoria
 
 1 - Da importância arbitrada a título de procuradoria, a que a lei não dê destino especial, é feita a dedução de 62%, que terá o seguinte destino:
 
@@ -129,16 +154,16 @@ c) 45% para a Caixa de Previdência dos Advogados e Solicitadores (CPAS).
 
 3 - Incumbe à CPAS remeter mensalmente ao CGOA e ao CGCS os montantes globais que a estes caibam nas referidas percentagens.
 
-###### Art. 3.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+Art. 3.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 13 de Maio de 1987.**
+Promulgado em 13 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

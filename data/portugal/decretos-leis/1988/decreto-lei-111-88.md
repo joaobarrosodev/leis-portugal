@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1988-286348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29837c88027539f7f8179b932fcc25a53627923023ecd5463bb55c99268c2469
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 094aad3462fce909ccf8c409c9961bc8a06afb8b25c6631eec3fdedbd4dc0608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Activo Imobilizado Corpóreo
+- Código da Contribuição Industrial
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Empresa
+- Inspeção Geral de Finanças
+- Instituto de Seguros de Portugal
+relationships:
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680463:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:07Z'
   warnings: []
   errors: []
 ---
@@ -182,12 +217,12 @@ c) Mapas modelos n.os 6, 7, 7-A, 7-B, 7-C, 7-D e 7-E das reintegrações e amort
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 15 de Março de 1988.**
+Promulgado em 15 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

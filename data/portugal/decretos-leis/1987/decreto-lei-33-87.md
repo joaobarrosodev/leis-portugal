@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1987-663482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5205bd039c519492d2b9c20ed40e3136fef9d177dcf5bc4f2a20be223dc15416
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 184be6225ffec2d958bb186b86068b72331045761d046bc0938975137c862d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo de Qualidade
+- Indústria da Panificação
+- Pão
+relationships:
+- type: cites
+  target: pt:dre:157059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 30
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:27Z'
   warnings: []
   errors: []
 ---
@@ -101,23 +128,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Exercício da Indústria de Panificação anexo ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Exercício da Indústria de Panificação anexo ao presente decreto-lei e que dele faz parte integrante.
 
-###### Art. 2.º Este Regulamento entra em vigor 90 dias após a sua publicação e é aplicável apenas no território do continente.
+Art. 2.º Este Regulamento entra em vigor 90 dias após a sua publicação e é aplicável apenas no território do continente.
 
-###### Art. 3.º Fica revogado, a partir da data da entrada em vigor do Regulamento aprovado pelo presente diploma, o Regulamento do Exercício da Indústria de Panificação aprovado pelo [Decreto-Lei n.º 42477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42477-1959-431979), de 29 de Agosto de 1959.
+Art. 3.º Fica revogado, a partir da data da entrada em vigor do Regulamento aprovado pelo presente diploma, o Regulamento do Exercício da Indústria de Panificação aprovado pelo [Decreto-Lei n.º 42477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42477-1959-431979), de 29 de Agosto de 1959.
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1986. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Exercício da Indústria de Panificação
 
@@ -309,7 +336,9 @@ d) Permitir fácil acesso à entrada e saída das farinhas.
 
 2 - O armazém de farinhas poderá ser substituído por silo especializado, com obediência aos requisitos a que se refere a alínea b) do n.º 2 do artigo 17.º
 
-###### Artigo 22.º — Secção de amassaria
+###### Artigo 22.º
+
+#### Secção de amassaria
 
 A secção de amassaria deverá comunicar facilmente com o armazém de farinhas e com a secção de fornos, ser bem iluminada, permitindo fácil arejamento, e dispor do seguinte equipamento:
 
@@ -323,7 +352,9 @@ d) Amassadeira mecânica;
 
 e) Mesa tendedeira, carros e tabuleiros adequados para o transporte e depósito de massas tendidas, salvo em estabelecimentos com linhas automáticas de fabrico.
 
-###### Artigo 23.º — Secção de fornos
+###### Artigo 23.º
+
+#### Secção de fornos
 
 1 - A secção de fornos deverá comunicar facilmente com a secção de expedição e dispor de entrada independente para os combustíveis sólidos, quando utilizados.
 
@@ -335,7 +366,9 @@ b) Meios eficazes de combate a incêndios.
 
 3 - No caso de o forno ou fornos existentes serem de aquecimento descontínuo é permitido utilizar como combustível lenha ou madeira não tratada ou qualquer outro cuja combustão não seja poluente, sendo proibida a utilização de óleos já usados.
 
-###### Artigo 24.º — Secção de expedição
+###### Artigo 24.º
+
+#### Secção de expedição
 
 A secção de expedição deverá satisfazer os requisitos seguintes:
 
@@ -385,7 +418,9 @@ a) Dispor de armários com divisões individuais para os empregados, com portas,
 
 b) Dispor de armário para pensos e medicamentos de primeiros socorros, com uma cruz branca em fundo verde na porta.
 
-###### Artigo 27.º — Secção de arrecadação
+###### Artigo 27.º
+
+#### Secção de arrecadação
 
 1 - A secção de arrecadação deverá ter as dimensões adequadas à recolha de todo o material de limpeza e conservação do estabelecimento e seu equipamento.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09100/15981599.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1987-666330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b48712eba3fa3157bdd29a888b74e501d9e33c63c8579e068a6a273a3872d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd685b4c3cb7e7b87711634a28bd0a096cc53bc5506de44ad76dc01792e17ea9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Conselho Superior de Obras Públicas e Transportes
+- Construção Civil
+- Empreiteiro de Obras Públicas
+- Ministério das Obras Públicas Transportes e Comunicações
+- Obras Públicas
+- Orgânica
+- Senha de Presença
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219547:por
+  label: "Revogados os arts. 1º e 2º pelo DEC LEI.171/96.1996.09.20.MEPAT, DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1996-219547
+  date: '1996-09-20'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:59Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +140,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 5 do artigo 2.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 5 do artigo 2.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -117,22 +152,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Por cada dia de reunião a que compareçam têm direito a uma senha de presença, no valor de 2000$00, os vogais referidos nas alíneas g) a s) do n.º 1 deste artigo, bem como os vogais das comissões, subcomissões e grupos de trabalho criados no âmbito do Conselho e nele funcionando, com excepção dos pertencentes ao quadro do mesmo organismo.
 
-###### Art. 2.º O artigo 7.º do [Decreto-Lei n.º 37015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37015-1948-384219), de 16 de Agosto de 1948, passa a ter a seguinte redacção:
+Art. 2.º O artigo 7.º do [Decreto-Lei n.º 37015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37015-1948-384219), de 16 de Agosto de 1948, passa a ter a seguinte redacção:
 
-###### Art. 7.º Aos vogais do Conselho, bem como aos vogais das comissões, subcomissões e grupos de trabalho, com residência oficial fora de Lisboa, será abonada, além da requisição de transporte, a ajuda de custo correspondente à categoria de inspector-geral de obras públicas e transportes.
+Art. 7.º Aos vogais do Conselho, bem como aos vogais das comissões, subcomissões e grupos de trabalho, com residência oficial fora de Lisboa, será abonada, além da requisição de transporte, a ajuda de custo correspondente à categoria de inspector-geral de obras públicas e transportes.
 
-###### Art. 3.º O artigo 36.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 36.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 36.º Por cada dia de reunião a que compareçam têm direito a uma senha de presença, no valor de 2000$00, os vogais da Comissão e os seus substitutos, bem como a requisição de transporte e a ajuda de custo correspondente à categoria de inspector-geral de obras públicas e transportes, quando for caso disso.
+Art. 36.º Por cada dia de reunião a que compareçam têm direito a uma senha de presença, no valor de 2000$00, os vogais da Comissão e os seus substitutos, bem como a requisição de transporte e a ajuda de custo correspondente à categoria de inspector-geral de obras públicas e transportes, quando for caso disso.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

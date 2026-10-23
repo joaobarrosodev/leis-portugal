@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1987-665748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a88dcde0076a26c4bca7a47dbc013e678eb902c0a1865b6ee46f90da1fbc00c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91f23f8cec6c4681a8c90736ce4db0a91e0df2a162119f4761c9a2a2fcb10a86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Médico
+- Quadro de Pessoal
+- Serviço de Saúde
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:11Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Considerando a existência do curso de Medicina Dentária a nível superior e a 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o quadro dos oficiais médicos dentistas integrado no quadro dos oficiais do Serviço de Saúde do Exército, com a seguinte constituição:
+Artigo 1.º É criado o quadro dos oficiais médicos dentistas integrado no quadro dos oficiais do Serviço de Saúde do Exército, com a seguinte constituição:
 
 Coronéis ... 1
 
@@ -102,28 +106,28 @@ Majores ... 2
 
 Capitães e subalternos ... 9
 
-###### Art. 2.º O recrutamento para provimento dos lugares do quadro previsto no artigo anterior é feito mediante concurso, cujo regulamento será aprovado por portaria do Ministro da Defesa Nacional.
+Art. 2.º O recrutamento para provimento dos lugares do quadro previsto no artigo anterior é feito mediante concurso, cujo regulamento será aprovado por portaria do Ministro da Defesa Nacional.
 
-###### Art. 3.º - 1 - O ingresso no quadro, após apuramento no concurso de selecção, é condicionado à frequência com aproveitamento de um tirocínio destinado ao completamento dos conhecimentos de natureza militar e técnico-militar dos concorrentes.
+Art. 3.º - 1 - O ingresso no quadro, após apuramento no concurso de selecção, é condicionado à frequência com aproveitamento de um tirocínio destinado ao completamento dos conhecimentos de natureza militar e técnico-militar dos concorrentes.
 
 2 - Os candidatos aprovados no referido concurso e que não tenham prestado serviço efectivo nas Forças Armadas frequentarão o primeiro curso especial de oficiais milicianos que se realize e, desde que obtido aproveitamento após aquele, o respectivo tirocínio.
 
-###### Art. 4.º No início do tirocínio os concorrentes são graduados em alferes, salvo se já possuírem posto igual ou superior, sendo promovidos ao posto de tenente na data do ingresso no quadro, com a antiguidade relativa correspondente à posição que ocuparem na lista ordenada segundo a classificação final obtida no concurso.
+Art. 4.º No início do tirocínio os concorrentes são graduados em alferes, salvo se já possuírem posto igual ou superior, sendo promovidos ao posto de tenente na data do ingresso no quadro, com a antiguidade relativa correspondente à posição que ocuparem na lista ordenada segundo a classificação final obtida no concurso.
 
-###### Art. 5.º O acesso aos postos imediatos na carreira de médico dentista militar efectua-se nos termos previstos no Estatuto do Oficial do Exército.
+Art. 5.º O acesso aos postos imediatos na carreira de médico dentista militar efectua-se nos termos previstos no Estatuto do Oficial do Exército.
 
-###### Art. 6.º Para provimento inicial do quadro abrir-se-á concurso em dois anos consecutivos, por forma a ser preenchida, em cada ano, cerca de metade dos lugares correspondentes ao posto inferior do quadro.
+Art. 6.º Para provimento inicial do quadro abrir-se-á concurso em dois anos consecutivos, por forma a ser preenchida, em cada ano, cerca de metade dos lugares correspondentes ao posto inferior do quadro.
 
-###### Art. 7.º O ingresso no quadro dos oficiais médicos dentistas de militares já pertencentes aos quadros permanentes será regulado por portaria do Ministro da Defesa Nacional.
+Art. 7.º O ingresso no quadro dos oficiais médicos dentistas de militares já pertencentes aos quadros permanentes será regulado por portaria do Ministro da Defesa Nacional.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

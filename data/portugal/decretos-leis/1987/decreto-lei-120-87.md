@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06200/10341035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1987-662296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f7078f3b662b61b3a44c31b8f259344f1039369d5c0889441c9cbd76fbeeac3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8accb20122e140701c976f07039af6414b39d2248fd60b018eef0a15b1f80401
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Pessoal Contratado
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:412068:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:08Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +113,9 @@ Considerando que, por tais factos, se torna necessário adequar alguns aspectos 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - São condições preferenciais de ingresso:
 
@@ -114,9 +127,9 @@ c) Melhores informações;
 
 d) Menor idade.
 
-###### Art. 2.º É aditado um n.º 5 ao artigo 5.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, com a seguinte redacção:
+Art. 2.º É aditado um n.º 5 ao artigo 5.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, com a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - ...
 
@@ -126,16 +139,16 @@ d) Menor idade.
 
 5 - Os militares que, tendo terminado o último período de contrato, declarem desejar concorrer à Academia Militar, à Escola de Sargentos do Exército ou ao curso de formação de praças do quadro permanente do Exército e tenham ou possam vir a obter as condições exigidas nos respectivos concursos são autorizados, excepcionalmente, a efectuar novos períodos anuais de contrato até à sua admissão ou exclusão definitiva nos respectivos cursos.
 
-###### Art. 3.º É revogado o artigo 7.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril.
+Art. 3.º É revogado o artigo 7.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09900/17431756.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,171 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1988-285479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3954c85f9ceb0b96c6b9c2207943ec9e2f805f8eebca81c301f7e79be0566b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 049d42ff37ee3f829d6b7a3e5def986a70aceaa7e7fde78332605cd8d4f3c3be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Turismo
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619699:por
+  label: "Alargada a área de recrutamento de pessoal para o cargo de chefe de Divisão do Planeamento do Gabinete de Estudos\
+    \ e Planeamento da Direcção-Geral do Turismo pela PORT.511/89.1989.07.06.MF DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/511-1989-619699
+  date: '1989-07-06'
+- type: amended_by
+  target: pt:dre:1542869:por
+  label: "Alterado o mapa anexo pelo presente diploma, pela PORT.248/96IIS.1996.10.04.PCM DR.IIS [263] de 13.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-1996-1542869
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:3239111:por
+  label: "Alterado o quadro de pessoal, pela PORT.274/96IIS.1996.11.05.PCM DR.IIS [278] DE 30/NOV/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1996-3239111
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:3239112:por
+  label: "Alterado o quadro de pessoal pela PORT.275/96IIS.1996.11.05.PCM, DR.IIS [278] de 30/Nov/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-1996-3239112
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:1428506:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma pela PORT.878/98(2ªSÉRIE).1998.08.04.PCM,\
+    \ DR.IIS [192] de 21/Ago/1998\0998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-1998-1428506
+  date: '1998-08-04'
+- type: amended_by
+  target: pt:dre:1206403:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.322/99(2ªSÉRIE).1999.02.25.PCM\
+    \ DR.IIS [66] DE 19/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1999-1206403
+  date: '1999-02-25'
+- type: amended_by
+  target: pt:dre:2759487:por
+  label: "Alterado o quadro de pessoal pela PORT.411/99(2ªSÉRIE).1999.04.05.PCM DR.IIS [93] de 21/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1999-2759487
+  date: '1999-04-05'
+- type: amended_by
+  target: pt:dre:1644073:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, mantido em vigor pelo Dec Lei 292/98, pela PORT.451/99(2ªSÉRIE).1999.04.21.PCM\
+    \ DR.IIS [102] de 03/Mai/1999\099\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/451-1999-1644073
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:1203612:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.774/2000(2&#170;S&#201;RIE).2000.05.04.MECO, DR.IIS\
+    \ [113] de 16/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-2000-1203612
+  date: '2000-05-04'
+- type: amended_by
+  target: pt:dre:2002487:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.1527/2000(2ªSÉRIE).2000.09.11.MF, DR.IIS [230] de\
+    \ 04/Out/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1527-2000-2002487
+  date: '2000-09-11'
+- type: amended_by
+  target: pt:dre:2092975:por
+  label: "Alterado o quadro de pessoal pela PORT.512/2003(2&#170;S&#201;RIE).2003.04.04.MFDR.IIS [99] de 29/Abr/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-2003-2092975
+  date: '2003-04-29'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222411:por
+  label: Rectificado pela DECL.DD2662.1988.05.30.PCM,DR.IS [126]3º Supl de 31/Mai/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-222411
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:241440:por
+  label: "Revogado pelo DEC LEI.292/98.1998.09.18.MECO, DR.IS-A [216]. Mantendo-se em vigor o quadro de pessoal até que seja\
+    \ aprovado por portaria o novo quadro de pessoal.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1998-241440
+  date: '1998-09-18'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 62
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 64
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:47Z'
   warnings: []
   errors: []
 ---
@@ -288,7 +419,9 @@ c) Secção de Despesas.
 
 2 - Adstrita à RGF funciona uma tesouraria.
 
-###### Artigo 9.º — Secção de Património e Aprovisionamento
+###### Artigo 9.º
+
+#### Secção de Património e Aprovisionamento
 
 À Secção de Património e Aprovisionamento compete:
 
@@ -310,7 +443,9 @@ h) Planear e assegurar, com observância das disposições legais aplicáveis, a
 
 i) Proceder à distribuição do material pelos serviços e gerir o respectivo depósito, registando o seu movimento e controlando os consumos efectuados.
 
-###### Artigo 10.º — Secção de Orçamento e Conta
+###### Artigo 10.º
+
+#### Secção de Orçamento e Conta
 
 À Secção de Orçamento e Conta compete:
 
@@ -344,7 +479,9 @@ o) Manter organizado o arquivo de toda a documentação das gerências findas;
 
 p) Organizar e apresentar os elementos necessários ao controle do balancete mensal de tesouraria ou a quaisquer outros controles da competência do CA.
 
-###### Artigo 11.º — Secção de Despesas
+###### Artigo 11.º
+
+#### Secção de Despesas
 
 À Secção de Despesas compete:
 
@@ -382,7 +519,9 @@ a) Secção de Pessoal;
 
 b) Secção de Expediente e Arquivo.
 
-###### Artigo 14.º — Secção de Pessoal
+###### Artigo 14.º
+
+#### Secção de Pessoal
 
 À Secção de Pessoal compete:
 
@@ -392,7 +531,9 @@ b) Assegurar as tarefas de administração corrente do pessoal, nomeadamente em 
 
 c) Organizar e manter permanentemente actualizado um registo central biográfico, técnico e disciplinar do pessoal da DGT, emitir certidões e promover a publicação de listas de antiguidades.
 
-###### Artigo 15.º — Secção de Expediente e Arquivo
+###### Artigo 15.º
+
+#### Secção de Expediente e Arquivo
 
 À Secção de Expediente e Arquivo compete:
 
@@ -444,7 +585,9 @@ b) Divisão de Planeamento;
 
 c) Divisão de Inquéritos e Estatísticas.
 
-###### Artigo 18.º — Divisão de Estudos
+###### Artigo 18.º
+
+##### Divisão de Estudos
 
 À Divisão de Estudos compete:
 
@@ -470,7 +613,9 @@ j) Estudar as implicações para a oferta turística nacional resultantes dos pr
 
 l) Assegurar a execução, em geral, dos estudos da competência da DGT.
 
-###### Artigo 19.º — Divisão de Planeamento
+###### Artigo 19.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -484,7 +629,9 @@ d) Acompanhar a execução dos planos de turismo e informar superiormente da res
 
 e) Propor as normas de planeamento para o sector do turismo e promover a sua divulgação e observância.
 
-###### Artigo 20.º — Divisão de Inquéritos e Estatísticas
+###### Artigo 20.º
+
+##### Divisão de Inquéritos e Estatísticas
 
 À Divisão de Inquéritos e Estatísticas compete:
 
@@ -516,7 +663,9 @@ b) Divisão de Relações Internacionais;
 
 c) Divisão de Regionalização.
 
-###### Artigo 22.º — Divisão de Relações Públicas
+###### Artigo 22.º
+
+##### Divisão de Relações Públicas
 
 À Divisão de Relações Públicas compete:
 
@@ -534,7 +683,9 @@ f) Efectuar o esclarecimento directo de questões postas por escrito com o envio
 
 g) Promover os princípios, regras e métodos que contribuam para a melhoria da qualidade dos produtos turísticos nacionais.
 
-###### Artigo 23.º — Divisão de Relações Internacionais
+###### Artigo 23.º
+
+##### Divisão de Relações Internacionais
 
 À Divisão de Relações Internacionais compete:
 
@@ -550,7 +701,9 @@ e) Preparar e dar parecer sobre textos de acordos internacionais;
 
 f) Dar apoio em todas as áreas de cooperação no domínio do turismo com países estrangeiros.
 
-###### Artigo 24.º — Divisão de Regionalização
+###### Artigo 24.º
+
+##### Divisão de Regionalização
 
 À Divisão de Regionalização compete:
 
@@ -596,7 +749,9 @@ b) Divisão de Ordenamento;
 
 c) Divisão de Incentivos.
 
-###### Artigo 27.º — Divisão de Projectos de Instalações Turísticas
+###### Artigo 27.º
+
+##### Divisão de Projectos de Instalações Turísticas
 
 À Divisão de Projectos de Instalações Turísticas compete:
 
@@ -612,7 +767,9 @@ e) Organizar e manter actualizado o ficheiro e os mapas de cadastro de todos os 
 
 f) Emitir, em geral, pareceres, certificados e declarações relativos aos projectos sujeitos à sua apreciação.
 
-###### Artigo 28.º — Divisão de Ordenamento
+###### Artigo 28.º
+
+##### Divisão de Ordenamento
 
 À Divisão de Ordenamento compete:
 
@@ -628,7 +785,9 @@ e) Prestar assistência técnica a obras de iniciativa pública consideradas de 
 
 f) Dar apoio técnico às câmaras municipais e aos órgãos locais e regionais de turismo no âmbito da competência que lhes for legalmente atribuída.
 
-###### Artigo 29.º — Divisão de Incentivos
+###### Artigo 29.º
+
+##### Divisão de Incentivos
 
 À Divisão de Incentivos compete:
 
@@ -658,7 +817,9 @@ c) Divisão de Turismo no Espaço Rural;
 
 d) Divisão de Inspecção.
 
-###### Artigo 31.º — Divisão de Agências de Viagens e Profissões Turísticas
+###### Artigo 31.º
+
+##### Divisão de Agências de Viagens e Profissões Turísticas
 
 À Divisão de Agências de Viagens e Profissões Turísticas compete:
 
@@ -674,7 +835,9 @@ e) Dar parecer quanto à abertura de instalações das empresas de aluguer veíc
 
 f) Cooperar com os organismos competentes na formação profissional turística, designadamente no que se refere à organização de acções específicas que visem a valorização da oferta turística, quer a nível empresarial, quer profissional.
 
-###### Artigo 32.º — Divisão de Estabelecimentos Hoteleiros, Similares e Meios Complementares
+###### Artigo 32.º
+
+##### Divisão de Estabelecimentos Hoteleiros, Similares e Meios Complementares
 
 À Divisão de Estabelecimentos Hoteleiros, Similares e Meios Complementares compete:
 
@@ -686,7 +849,9 @@ c) Orientar e disciplinar as actividades dos estabelecimentos hoteleiros e simil
 
 d) Organizar e manter actualizado o registo e cadastro dos estabelecimentos hoteleiros e similares, meios complementares de alojamento e conjuntos turísticos.
 
-###### Artigo 33.º — Divisão de Turismo no Espaço Rural
+###### Artigo 33.º
+
+##### Divisão de Turismo no Espaço Rural
 
 À Divisão de Turismo no Espaço Rural compete:
 
@@ -698,7 +863,9 @@ c) Propor a regulamentação e assegurar a fiscalização das actividades dos es
 
 d) Organizar e manter actualizado o registo e cadastro das propriedades privadas, proprietários e ou encarregados das mesmas, afectas à prática do turismo de habitação, agro-turismo e turismo rural ou outras formas de oferta turística que vierem a ser instituídas e, bem assim, dos empreendimentos de animação, culturais, desportivos e outros considerados de interesse para o turismo.
 
-###### Artigo 34.º — Divisão de Inspecção
+###### Artigo 34.º
+
+##### Divisão de Inspecção
 
 À Divisão de Inspecção compete:
 
@@ -728,7 +895,9 @@ e) Proceder ao levantamento de autos de notícia e participações relativos às
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-#### SECÇÃO I — Artigo 36.º
+#### SECÇÃO I
+
+###### Artigo 36.º
 
 Dos princípios de gestão
 
@@ -764,7 +933,9 @@ b) A contabilidade da DGT deverá adequar-se às necessidades da respectiva gest
 
 c) A DGT deverá manter uma contabilidade analítica, a fim de proceder ao apuramento dos custos de participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada.
 
-#### SECÇÃO II — Artigo 39.º
+#### SECÇÃO II
+
+###### Artigo 39.º
 
 Receitas próprias
 
@@ -970,18 +1141,18 @@ São revogados o [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 12 de Abril de 1988.**
+Promulgado em 12 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1988.**
+Referendado em 15 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 DIRECÇÃO GERAL DO TURISMO
 
 QUADRO DO PESSOAL DA NOVA LEI ORGÂNICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09900/17431756.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09900/17431756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09900/17431756.pdf)

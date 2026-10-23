@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00800/01300130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1987-599574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eec26f6432b3d0eb12c0890e5b3fb2ae043b6d84271323f30390da57840dd47a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61e4642fce05ea3e0092cede2050777402f7f32dd38c59a166b391f5e32c76ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Direcção Geral da Marinha
+- Marinha
+- Senha de Presença
 relationships:
 - type: amended_by
   target: pt:dre:251979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:251979:por
+  label: "Revogado pelo DEC LEI.44/2002.2002.03.02.MDN DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2002-251979
+  date: '2002-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:52Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +118,20 @@ Nestas circunstâncias, tornando-se necessário assegurar as condições que via
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Quando as reuniões das comissões a que se referem o artigo 4.º do [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro, e o artigo 2.º do [Decreto-Lei n.º 49079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49079-1969-200262), de 25 de Junho de 1969, tiverem lugar fora do horário normal de serviço, os membros civis terão direito a senhas de presença por cada reunião em que compareçam.
+Artigo 1.º Quando as reuniões das comissões a que se referem o artigo 4.º do [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro, e o artigo 2.º do [Decreto-Lei n.º 49079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49079-1969-200262), de 25 de Junho de 1969, tiverem lugar fora do horário normal de serviço, os membros civis terão direito a senhas de presença por cada reunião em que compareçam.
 
-###### Art. 2.º O valor da senha de presença a que se refere o artigo 1.º é fixado em 5% do ordenado mínimo nacional.
+Art. 2.º O valor da senha de presença a que se refere o artigo 1.º é fixado em 5% do ordenado mínimo nacional.
 
-###### Art. 3.º Este diploma entra em vigor no 1.º dia de execução do Orçamento para 1987.
+Art. 3.º Este diploma entra em vigor no 1.º dia de execução do Orçamento para 1987.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

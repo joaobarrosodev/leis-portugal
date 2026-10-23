@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 53/1987, 1º Suplemento, Série I de 1987-03-05
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 936-(1) a 936-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05301/00010006.pdf
 entry_into_force_dates: []
@@ -46,40 +46,159 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-a-1987-521855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34aa22509b2a893a5cdfbddaa83afd47f7e5c0440d4c829d26f9d1f1ee7b3de5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cc785519c764a3c4c662f6a80dc548bb2fb61a7d98d41219e9107510087f82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Aposentação Bonificada
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:431257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417253:por
+  label: "Prorrogados até 31 de Dezembro de 1987, os contratos de trabalho ou de prestação de serviços celebrados no âmbito\
+    \ do Ministério da Justiça, constantes do presente diploma, pelo DEC LEI.291/87.29.07.1987.MJ, DR.IS [172] de 29.07.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1987-417253
+  date: '1987-07-29'
+- type: amended_by
+  target: pt:dre:287594:por
+  label: "Mantidas em vigor as normas constantes dos artigos 13.º, 18.º, 19.º e 20.º, pelo DEC LEI.67/88.02.03.1988.MF, DR.IS\
+    \ [51] de 02.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1988-287594
+  date: '1988-03-02'
+- type: amended_by
+  target: pt:dre:300385:por
+  label: Mantido em vigor o disposto nos arts. 18º, 19º e 20º pelo DEC LEI.79/89.11.03.1989.MF, DR.IS [59-Supl] de 11.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1989-300385
+  date: '1989-03-11'
+- type: amended_by
+  target: pt:dre:147594:por
+  label: "Mantidos em vigor os arts. 18º, 19º e 20º pelo DEC LEI.105-A/90.23.03.1990.MF, DR.IS [69-Supl] de 23.03.1990 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-a-1990-147594
+  date: '1990-03-23'
+- type: amended_by
+  target: pt:dre:272009:por
+  label: "Mantidos em vigor as normas constantes dos art.s 18º e 19º bem como o disposto no art. 20º, pelo DEC LEI.72-A/91.08.02.1991.MF,\
+    \ DR.IS-A [33-Supl] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-1991-272009
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:217926:por
+  label: "Mantidas em vigor as normas constantes dos artigos 18.º e 19.º pelo DEC LEI.62/92.21.04.1992.MF, DR.IS-A [93] de\
+    \ 21.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1992-217926
+  date: '1992-04-21'
+- type: amended_by
+  target: pt:dre:634688:por
+  label: "Mantidas em vigor as normas constantes dos artigos 18.º e 19.º pelo DEC LEI.83/93.18.03.1993.MF, DR.IS-A [65] de\
+    \ 18.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1993-634688
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantidas em vigor as normas constantes dos arts. 18º e 19º pelo DEC LEI.77/94.1994.03.09.MF, DR.IS-A [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Mantidas em vigor as normas constantes dos arts. 18.º e 19.º do presente diploma, pelo DEC LEI.45/95.1995.03.02.MF\
+    \ DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:49Z'
   warnings: []
   errors: []
 ---
@@ -334,12 +453,12 @@ As disposições do presente diploma produzem efeitos desde 1 de Janeiro de 1987
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Vasco Rocha Vieira - Lino Dias Miguel - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - António Amaro de Matos - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - José Bernardo Veloso Falcão e Cunha - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

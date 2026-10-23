@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1988-374799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95002e71874032876378552795c9fcaa170594cfb6094a916331cbcbdacb0d36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9de1826c266f37794354675fc7c6581457e928386e2eec8de5b27f4fd7254bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Eucalipto
+- Exploração Florestal
+- Pinheiro
+- Política Florestal
 relationships:
 - type: amended_by
   target: pt:dre:553442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553442:por
+  label: Mantido em vigor o presente diploma pelo(a) Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13,
+    nos termos do disposto no n.º 2 do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2012-553442
+  date: '2012-03-13'
+- type: cites
+  target: pt:dre:285145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP,\
+    \ DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:06Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +124,17 @@ Considerando que do conjunto concertado de medidas que importa tomar com vista a
 
 O Governo decreta, nos termos da alínea a) no n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Carecem de autorização os cortes finais de povoamentos florestais de pinheiro-bravo em que pelo menos 75% das suas árvores não tenham um diâmetro à altura do peito igual ou superior a 17 cm ou um perímetro à altura do peito igual ou superior a 53 cm.
+Artigo 1.º - 1 - Carecem de autorização os cortes finais de povoamentos florestais de pinheiro-bravo em que pelo menos 75% das suas árvores não tenham um diâmetro à altura do peito igual ou superior a 17 cm ou um perímetro à altura do peito igual ou superior a 53 cm.
 
 2 - A autorização a que se refere o n.º 1 apenas se aplica a explorações florestais com mais de 2 ha.
 
-###### Art. 2.º - 1 - Carecem de autorização os cortes finais de povoamentos florestais de eucalipto em que pelo menos 75% das suas árvores não tenham um diâmetro à altura do peito igual ou superior a 12 cm ou um perímetro à altura do peito igual ou superior a 37,5 cm.
+Art. 2.º - 1 - Carecem de autorização os cortes finais de povoamentos florestais de eucalipto em que pelo menos 75% das suas árvores não tenham um diâmetro à altura do peito igual ou superior a 12 cm ou um perímetro à altura do peito igual ou superior a 37,5 cm.
 
 2 - A autorização a que se refere o n.º 1 apenas se aplica a explorações com mais de 1 ha.
 
-###### Art. 3.º A competência para conceder as autorizações previstas nos artigos anteriores pertence ao chefe da circunscrição florestal da zona em que se situe a exploração ou a sua maior área.
+Art. 3.º A competência para conceder as autorizações previstas nos artigos anteriores pertence ao chefe da circunscrição florestal da zona em que se situe a exploração ou a sua maior área.
 
-###### Art. 4.º - 1 - Para efeitos do disposto nos artigos 1.º e 2.º considera-se:
+Art. 4.º - 1 - Para efeitos do disposto nos artigos 1.º e 2.º considera-se:
 
 a) Corte final - todo o corte, raso ou não, que, independentemente do seu objectivo, promova a remoção de mais de 50% do volume do material lenhoso existente;
 
@@ -116,7 +144,7 @@ c) Diâmetro ou perímetro à altura do peito, abreviadamente designados DAP e P
 
 2 - As medidas estabelecidas são efectuadas sobre casca.
 
-###### Art. 5.º - 1 - Os pedidos de autorização a que se referem os artigos 1.º e 2.º deverão ser efectuados em formulário próprio, fornecido pelos serviços, e entregues na circunscrição ou administração florestal da região onde está instalado o povoamento.
+Art. 5.º - 1 - Os pedidos de autorização a que se referem os artigos 1.º e 2.º deverão ser efectuados em formulário próprio, fornecido pelos serviços, e entregues na circunscrição ou administração florestal da região onde está instalado o povoamento.
 
 2 - O arvoredo a abater deverá estar assinalado à data do pedido de autorização, excepto se se tratar de corte final que remova todas as árvores de uma determinada área, caso em que é suficiente a delimitação dessa área.
 
@@ -126,17 +154,17 @@ c) Diâmetro ou perímetro à altura do peito, abreviadamente designados DAP e P
 
 5 - O indeferimento deve mencionar a possibilidade do recurso referido no número anterior, bem como o seu prazo de interposição.
 
-###### Art. 6.º - 1 - As infracções ao disposto nos artigos 1.º e 2.º constituem contra-ordenações, punidas com coima de 50000$00 a 3000000$00.
+Art. 6.º - 1 - As infracções ao disposto nos artigos 1.º e 2.º constituem contra-ordenações, punidas com coima de 50000$00 a 3000000$00.
 
 2 - A negligência e a tentativa são puníveis.
 
 3 - Como sanção acessória poderá ser declarada a privação de acesso a qualquer benefício de fomento florestal por período de tempo até dois anos.
 
-###### Art. 7.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos serviços da Direcção-Geral das Florestas.
+Art. 7.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos serviços da Direcção-Geral das Florestas.
 
 2 - No exercício desta actividade os serviços referidos no número anterior poderão recorrer à medição de cepos das árvores cortadas, considerando-se equivalentes 21 cm de diâmetro do cepo a 17 cm de DAP no caso do pinho e 14,5 cm de diâmetro do cepo a 12 cm de DAP no caso do eucalipto.
 
-###### Art. 8.º - 1 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência das circunscrições florestais.
+Art. 8.º - 1 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência das circunscrições florestais.
 
 2 - Podem as circunscrições florestais confiar a investigação e a instrução, no todo ou em parte, às autoridades policiais, bem como solicitar o auxílio de outras autoridades ou serviços públicos.
 
@@ -144,20 +172,20 @@ c) Diâmetro ou perímetro à altura do peito, abreviadamente designados DAP e P
 
 4 - O produto das coimas aplicadas reverterá para a Direcção-Geral das Florestas como receita própria.
 
-###### Art. 9.º Nas áreas classificadas definidas no [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, ou em legislação especial, e sem prejuízo do disposto nos n.os 4 e 5 do artigo 5.º, as competências previstas no presente diploma pertencem aos serviços locais do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
+Art. 9.º Nas áreas classificadas definidas no [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, ou em legislação especial, e sem prejuízo do disposto nos n.os 4 e 5 do artigo 5.º, as competências previstas no presente diploma pertencem aos serviços locais do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Art. 10.º É revogado o [Decreto-Lei n.º 439-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-d-1977-582384), de 25 de Outubro.
+Art. 10.º É revogado o [Decreto-Lei n.º 439-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-d-1977-582384), de 25 de Outubro.
 
-###### Art. 11.º Este diploma entra em vigor 30 dias após a sua publicação.
+Art. 11.º Este diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 29 de Abril de 1988.**
+Promulgado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

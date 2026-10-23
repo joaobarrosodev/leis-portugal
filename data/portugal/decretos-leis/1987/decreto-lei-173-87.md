@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09100/15971597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1987-666319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e27e39ae94aa1fa375082e8b1911cd3060ea87ff28a91f71e3f9d85b0eb435ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f5d3d5012b35a27b22fe971aa41e699e282cd805dbf922961d44b945973d5f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
+- Mecenato
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:219140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:56Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +114,9 @@ Nestes termos:
 
 No uso da autorização concedida pelos n.os 1 e 6 do artigo 30.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3.º do artigo 23.º do Código da Contribuição Industrial (CCI) passa a ter a seguinte redacção:
+Artigo 1.º O n.º 3.º do artigo 23.º do Código da Contribuição Industrial (CCI) passa a ter a seguinte redacção:
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 1.º ...
 
@@ -120,9 +136,9 @@ No uso da autorização concedida pelos n.os 1 e 6 do artigo 30.º da [Lei n.º 
 
 § 2.º ...
 
-###### Art. 2.º A alínea d) do artigo 36.º do CCI, introduzida pelo [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º A alínea d) do artigo 36.º do CCI, introduzida pelo [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) ...
 
@@ -134,18 +150,18 @@ d) Se o valor dos donativos exceder os limites fixados nas alíneas anteriores, 
 
 § único. ...
 
-###### Art. 3.º É considerada custo, nos termos e para os efeitos do disposto no artigo 26.º do CCI, relativamente aos exercícios de 1987, 1988 e 1989, a título de remuneração convencional do capital social, uma importância calculada com base nos aumentos de capital realizados em 1987, por entregas em dinheiro e mediante a aplicação de uma taxa igual à taxa de desconto do Banco de Portugal, deduzida de quatro pontos percentuais.
+Art. 3.º É considerada custo, nos termos e para os efeitos do disposto no artigo 26.º do CCI, relativamente aos exercícios de 1987, 1988 e 1989, a título de remuneração convencional do capital social, uma importância calculada com base nos aumentos de capital realizados em 1987, por entregas em dinheiro e mediante a aplicação de uma taxa igual à taxa de desconto do Banco de Portugal, deduzida de quatro pontos percentuais.
 
-###### Art. 4.º O disposto no artigo 1.º aplica-se já ao exercício de 1987 e o disposto no artigo 2.º retrotai os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto.
+Art. 4.º O disposto no artigo 1.º aplica-se já ao exercício de 1987 e o disposto no artigo 2.º retrotai os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

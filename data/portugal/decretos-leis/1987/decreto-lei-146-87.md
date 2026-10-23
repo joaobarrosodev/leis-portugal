@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06900/11851188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1987-662334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 446d746f934bc389b9be289bfd1f92bf8b3e9eecdedb4c1611ab31d92b30aeb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b1e7a8a2857aca55caa568581ee63fba3d0b7455d9f2d8742eb39c45dee266
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Telefone
 relationships:
 - type: amended_by
   target: pt:dre:522799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522799:por
+  label: "Revogado pelo DEC LEI.59/2000.2000.04.19.MES DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2000-522799
+  date: '2000-04-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:31Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +115,13 @@ de 24 de Março
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os edifícios a construir ou a reconstruir devem ser providos de infra-estruturas telefónicas, em conformidade com o disposto no Regulamento de Instalações Telefónicas de Assinante (RITA), a aprovar por decreto regulamentar.
+Artigo 1.º - 1 - Os edifícios a construir ou a reconstruir devem ser providos de infra-estruturas telefónicas, em conformidade com o disposto no Regulamento de Instalações Telefónicas de Assinante (RITA), a aprovar por decreto regulamentar.
 
 2 - Exceptuam-se do disposto no número anterior os edifícios cuja finalidade apresente uma remota probabilidade de virem a necessitar de instalações telefónicas, de acordo com critérios a definir pelas concessionárias da rede telefónica pública, adiante designadas por empresas operadoras.
 
 3 - Nos edifícios, novos ou reconstruídos, que não satisfaçam as condições referidas no n.º 1, as empresas operadoras não são obrigadas a ligar quaisquer equipamentos terminais à rede pública, salvo se o proprietário ou o requisitante instalar, à sua custa, as infra-estruturas adequadas.
 
-###### Art. 2.º Para efeitos do disposto neste diploma e dos seus regulamentos, entende-se por:
+Art. 2.º Para efeitos do disposto neste diploma e dos seus regulamentos, entende-se por:
 
 a) Cabo de entrada (CbE) - cabo que prolonga a rede de distribuição pública até à rede de cabos do edifício. Quando o ponto de distribuição (PD) estiver situado no interior do edifício, o cabo de entrada é parte integrante da rede de distribuição pública. Quando o ponto de distribuição (PD) estiver situado no exterior do edifício, o cabo de entrada é parte integrante da rede intermédia;
 
@@ -142,19 +153,19 @@ o) Rede intermédia (RInt) - conjunto de cabos que liga a rede de cabos do edif�
 
 p) Rede de tubagens de edifício (RTE) - conjunto das redes colectiva e individual de tubagens.
 
-###### Art. 3.º - 1 - A instalação de infra-estruturas telefónicas está dependente da aprovação de um projecto de instalações telefónicas e da aprovação da sua execução, sem prejuízo do disposto no n.º 2.
+Art. 3.º - 1 - A instalação de infra-estruturas telefónicas está dependente da aprovação de um projecto de instalações telefónicas e da aprovação da sua execução, sem prejuízo do disposto no n.º 2.
 
 2 - Se o requerente for dono da obra e declarar expressamente que aquela se destina a habitação ou utilização pelo próprio, pode ser dispensado da apresentação do projecto previsto no n.º 1, ficando, todavia, sujeito ao disposto no n.º 3 do artigo 1.º
 
-###### Art. 4.º - 1 - As licenças para a realização de obras sujeitas a licenciamento municipal ou as autorizações para alteração do destino de edifícios com mudança de infra-estrutura telefónica só podem ser concedidas quando se encontre aprovado o respectivo projecto de instalações telefónicas.
+Art. 4.º - 1 - As licenças para a realização de obras sujeitas a licenciamento municipal ou as autorizações para alteração do destino de edifícios com mudança de infra-estrutura telefónica só podem ser concedidas quando se encontre aprovado o respectivo projecto de instalações telefónicas.
 
 2 - Nos casos previstos no número anterior, o projecto de instalações telefónicas deve ser apresentado na câmara municipal da área do edifício existente ou a construir, que o deve remeter à empresa operadora para aprovação.
 
 3 - A empresa operadora dispõe do prazo máximo de 30 dias, contados a partir da data de recepção do projecto, para emitir um parecer fundamentado e enviá-lo à câmara municipal, findo o qual o projecto considerar-se-á tacitamente aprovado por aquela empresa.
 
-###### Art. 5.º Nos casos não previstos no n.º 1 do artigo 4.º, o projecto de instalações telefónicas deve ser entregue na empresa operadora na área da obra ou edifício, sendo aplicável o disposto no n.º 3 daquele mesmo artigo, devendo, contudo, a comunicação do parecer ser feita ao requerente.
+Art. 5.º Nos casos não previstos no n.º 1 do artigo 4.º, o projecto de instalações telefónicas deve ser entregue na empresa operadora na área da obra ou edifício, sendo aplicável o disposto no n.º 3 daquele mesmo artigo, devendo, contudo, a comunicação do parecer ser feita ao requerente.
 
-###### Art. 6.º - 1 - As infra-estruturas telefónicas referidas no artigo 1.º são constituídas por:
+Art. 6.º - 1 - As infra-estruturas telefónicas referidas no artigo 1.º são constituídas por:
 
 a) A rede de tubagens do edifício;
 
@@ -168,11 +179,11 @@ c) A rede individual de cabos de assinante.
 
 4 - Para efeitos do disposto neste artigo, entende-se por fracção autónoma a fracção de um edifício que forme uma unidade independente, esteja ou não o edifício constituído em regime de propriedade horizontal.
 
-###### Art. 7.º - 1 - As infra-estruturas previstas no presente decreto-lei e no RITA, bem como os materiais a instalar, devem obedecer à regulamentação, especificações e condições técnicas estabelecidas ou a estabelecer pelo Instituto das Comunicações de Portugal (ICP).
+Art. 7.º - 1 - As infra-estruturas previstas no presente decreto-lei e no RITA, bem como os materiais a instalar, devem obedecer à regulamentação, especificações e condições técnicas estabelecidas ou a estabelecer pelo Instituto das Comunicações de Portugal (ICP).
 
 2 - As competências do ICP, no âmbito deste diploma, são exercidas pelos Correios e Telecomunicações de Portugal, enquanto aquele não for implementado.
 
-###### Art. 8.º - 1 - A aprovação da execução do projecto das infra-estruturas deve ser efectuada pelas empresas operadoras e constará da ficha técnica que, para os devidos efeitos, fará a prova do exigido no n.º 1 do artigo 1.º
+Art. 8.º - 1 - A aprovação da execução do projecto das infra-estruturas deve ser efectuada pelas empresas operadoras e constará da ficha técnica que, para os devidos efeitos, fará a prova do exigido no n.º 1 do artigo 1.º
 
 2 - A exploração das infra-estruturas telefónicas fica a cargo das empresas operadoras, devendo observar-se, quanto à sua conservação e ampliação, os princípios seguintes:
 
@@ -186,15 +197,15 @@ d) A ampliação da instalação colectiva de assinante poderá ser efectuada ta
 
 e) A ampliação da instalação individual de um assinante ficará sempre a seu cargo.
 
-###### Art. 9.º As empresas operadoras devem proceder à ligação à rede pública de cada uma das instalações individuais de assinante, devidamente aprovadas, logo que haja pedido para o efeito e os condicionalismos existentes o permitam, sendo destas empresas a responsabilidade dos ensaios finais de funcionamento.
+Art. 9.º As empresas operadoras devem proceder à ligação à rede pública de cada uma das instalações individuais de assinante, devidamente aprovadas, logo que haja pedido para o efeito e os condicionalismos existentes o permitam, sendo destas empresas a responsabilidade dos ensaios finais de funcionamento.
 
-###### Art. 10.º A instalação, exploração e utilização dos equipamentos terminais de assinante continua a reger-se pelas leis e regulamentos correspondentes em tudo quanto não estiver previsto no presente diploma.
+Art. 10.º A instalação, exploração e utilização dos equipamentos terminais de assinante continua a reger-se pelas leis e regulamentos correspondentes em tudo quanto não estiver previsto no presente diploma.
 
-###### Art. 11.º - 1 - Os proprietários dos edifícios ou os assinantes dos serviços de telecomunicações devem facultar, entre as 8 e as 18 horas dos dias úteis, o acesso necessário para a prossecução das tarefas assinaladas no n.º 2 no artigo 8.º ao pessoal técnico das empresas operadoras devidamente identificado.
+Art. 11.º - 1 - Os proprietários dos edifícios ou os assinantes dos serviços de telecomunicações devem facultar, entre as 8 e as 18 horas dos dias úteis, o acesso necessário para a prossecução das tarefas assinaladas no n.º 2 no artigo 8.º ao pessoal técnico das empresas operadoras devidamente identificado.
 
 2 - No caso de aos proprietários ou assinantes assistirem razões válidas que lhes impossibilitem facultar o acesso dos técnicos no referido horário ou lhes determinem graves transtornos por causa desse acesso, deverão acordar com a respectiva empresa operadora a realização da visita noutro horário.
 
-###### Art. 12.º - 1 - O presente diploma entra em vigor em 1 de Janeiro de 1988.
+Art. 12.º - 1 - O presente diploma entra em vigor em 1 de Janeiro de 1988.
 
 2 - As obrigações relativas à rede de cabos do edifício só serão exigíveis 30 meses após a data da entrada em vigor deste diploma.
 
@@ -202,12 +213,12 @@ e) A ampliação da instalação individual de um assinante ficará sempre a seu
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1987.**
+Referendado em 10 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01200/01280129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1988-283374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14de95397908da228341eac9dcf6ca8aedcbc0d9f995ec6f38f1640241cf21f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be60ff47c9b7d6cb5805f5258b02203353e404ab296e3ea0671941b4e867fc0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Direcção Técnica
+- Farmacêutico
 relationships:
 - type: amended_by
   target: pt:dre:641148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641148:por
+  label: "Revogado, a partir de 30.10.2007, pelo DEC LEI.307/2007.31.08.2007.MS, DR.IS [168] de 31.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-2007-641148
+  date: '2007-08-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:55Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 102.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 102.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, passa a ter a seguinte redacção:
 
-###### Art. 102.º - 1 - As empresas produtoras, grossistas, importadoras e exportadoras de especialidades farmacêuticas para uso humano e ou para uso veterinário, e ou de outros produtos farmacêuticos, incluindo matérias-primas ou matérias subsidiárias, não podem exercer a sua actividade sem director técnico que, de forma efectiva e permanente, assuma e exerça a sua direcção técnica.
+Art. 102.º - 1 - As empresas produtoras, grossistas, importadoras e exportadoras de especialidades farmacêuticas para uso humano e ou para uso veterinário, e ou de outros produtos farmacêuticos, incluindo matérias-primas ou matérias subsidiárias, não podem exercer a sua actividade sem director técnico que, de forma efectiva e permanente, assuma e exerça a sua direcção técnica.
 
 2 - A Direcção-Geral de Assuntos Farmacêuticos pode determinar que as empresas referidas no número anterior tenham um ou mais farmacêuticos para coadjuvar o director-técnico, sempre que a efectiva direcção das diferentes fases de manipulação e de controle das preparações nelas produzidas na armazenagem, conservação e distribuição das especialidades farmacêuticas e produtos farmacêuticos não possa ser eficazmente garantida pela actividade exclusiva do director técnico.
 
@@ -115,18 +127,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - As ausências dos directores técnicos podem ser asseguradas por qualquer dos farmacêuticos a que se refere o n.º 2, quando estes existam.
 
-###### Art. 2.º - 1 - O disposto no artigo 102.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, na redacção que lhe é dada pelo artigo anterior, produz efeitos a partir da data da entrada em vigor do presente diploma para as empresas que venham a requerer alvará nos termos da lei.
+Art. 2.º - 1 - O disposto no artigo 102.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, na redacção que lhe é dada pelo artigo anterior, produz efeitos a partir da data da entrada em vigor do presente diploma para as empresas que venham a requerer alvará nos termos da lei.
 
 2 - As empresas que disponham de alvará à data da entrada em vigor do presente diploma deverão regularizar a respectiva direcção técnica até 30 de Junho de 1988, sob pena de lhes ser cassado o referido alvará.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente das República, MÁRIO SOARES.**
+O Presidente das República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14400/24422444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1987-419798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91abfaed8fe40dfb72f4419eb94915744ad91c7c806194bd6dd10c611a0d4d0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4769577ba0a172c52a10575f60a0ca58b91c2769ac4a82ab5974b60b775c2de7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência do Controle das Ajudas Comunitárias ao Sector do Azeite
+- Azeite
+- Criação de Serviços
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:469063:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469063:por
+  label: "Extinta a Agência de Controlo das Ajudas Comunitárias ao Sector do Azeite (ACACSA), criada pelo presente diploma\
+    \ e cuja estrutura orgânica foi aprovada pelo Dec Lei 70/89 de 02-Mar, determinando com a extinção dessa Agência, a caducidade\
+    \ dos contratos de trabalho por esta celebrados, pelo DEC LEI.231/2005.29.12.2005.MADRP, DR.IS-A [249] de 29.12.2005,\
+    \ nos termos dos nºs 2 e 3 do seu art. 3º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2005-469063
+  date: '2005-12-29'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI NUMERO 70/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 144, DE 870626.\070626.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:612857:por
+  label: "Revogado o presente diploma, pelo DEC LEI.70/89.02.03.1989.MAPA, DR.IS [51] de 02.03.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1989-612857
+  date: '1989-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:19Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +127,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza
 
-###### Artigo 1.º - 1 - É criada a Agência do Controle das Ajudas Comunitárias do Sector do Azeite (ACACSA), organismo sob tutela do Ministério da Agricultura, Pescas e Alimentação encarregado da efectivação dos controles e actividades referidos neste diploma.
+Artigo 1.º - 1 - É criada a Agência do Controle das Ajudas Comunitárias do Sector do Azeite (ACACSA), organismo sob tutela do Ministério da Agricultura, Pescas e Alimentação encarregado da efectivação dos controles e actividades referidos neste diploma.
 
 2 - A Agência poderá ser encarregada de outras acções que lhe venham a ser atribuídas superiormente.
 
-###### Art. 2.º - 1 - A Agência é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira, não estando sujeita ao regime de contas de ordem fixado no Decreto-Lei n.º 459/82, de 26 de Novembro.
+Art. 2.º - 1 - A Agência é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira, não estando sujeita ao regime de contas de ordem fixado no Decreto-Lei n.º 459/82, de 26 de Novembro.
 
 2 - A acção da Agência exerce-se em todo o território nacional.
 
 ### CAPÍTULO II — Atribuições
 
-###### Art. 3.º São atribuições da Agência:
+Art. 3.º São atribuições da Agência:
 
 a) Efectuar as verificações, os controles e as demais missões necessárias à aplicação dos regulamentos, directivas e recomendações da CEE no quadro do regime de ajuda à produção do azeite;
 
@@ -136,7 +157,7 @@ h) Exercer as demais funções que lhe sejam cometidas por lei.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 4.º Para o exercício das suas atribuições, a Agência dispõe dos seguintes órgãos:
+Art. 4.º Para o exercício das suas atribuições, a Agência dispõe dos seguintes órgãos:
 
 a) O director;
 
@@ -144,9 +165,9 @@ b) O conselho consultivo;
 
 c) O conselho administrativo.
 
-###### Art. 5.º O director é nomeado pelo Ministro da Agricultura, Pescas e Alimentação e é equiparado, para todos os efeitos, a director de serviços.
+Art. 5.º O director é nomeado pelo Ministro da Agricultura, Pescas e Alimentação e é equiparado, para todos os efeitos, a director de serviços.
 
-###### Art. 6.º Compete ao director:
+Art. 6.º Compete ao director:
 
 a) Dirigir, orientar e coordenar a acção dos órgãos e serviços da Agência;
 
@@ -170,7 +191,7 @@ j) Corresponder-se directamente com todas as entidades oficiais, de quem poderá
 
 l) Representar a Agência em juízo ou fora dele.
 
-###### Art. 7.º - 1 - O conselho consultivo é constituído de forma a permitir a representação de várias regiões:
+Art. 7.º - 1 - O conselho consultivo é constituído de forma a permitir a representação de várias regiões:
 
 a) O director, que preside;
 
@@ -186,7 +207,7 @@ f) Um representante do comércio do azeite.
 
 2 - Os representantes de actividades associadas serão nomeados por despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta das respectivas associações.
 
-###### Art. 8.º Compete ao conselho consultivo:
+Art. 8.º Compete ao conselho consultivo:
 
 a) Participar na elaboração do programa de actividades;
 
@@ -194,7 +215,7 @@ b) Pronunciar-se sobre regulamentos relacionados com o sector;
 
 c) Dar parecer sobre todos os assuntos que lhe sejam submetidos pelo director.
 
-###### Art. 9.º O conselho administrativo é órgão de gestão financeira e é constituído pelos seguintes membros:
+Art. 9.º O conselho administrativo é órgão de gestão financeira e é constituído pelos seguintes membros:
 
 a) O director;
 
@@ -202,7 +223,7 @@ b) O responsável dos serviços financeiros;
 
 c) Um funcionário da carreira técnica superior do Ministério da Agricultura, Pescas e Alimentação, designado pelo director.
 
-###### Art. 10.º Compete ao conselho administrativo:
+Art. 10.º Compete ao conselho administrativo:
 
 a) Promover a elaboração e execução dos projectos de orçamentos da Agência;
 
@@ -214,17 +235,17 @@ d) Zelar pela cobrança de receitas e promover o seu depósito, nos termos legai
 
 e) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
 
-###### Art. 11.º Para obrigar a Agência são necessárias as assinaturas de dois membros do conselho administrativo.
+Art. 11.º Para obrigar a Agência são necessárias as assinaturas de dois membros do conselho administrativo.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 12.º O pessoal da Agência será recrutado de entre os funcionários dos quadros de pessoal dos serviços e organismos autónomos do Ministério da Agricultura, Pescas e Alimentação, de harmonia com os mecanismos de mobilidade previstos na lei geral.
+Art. 12.º O pessoal da Agência será recrutado de entre os funcionários dos quadros de pessoal dos serviços e organismos autónomos do Ministério da Agricultura, Pescas e Alimentação, de harmonia com os mecanismos de mobilidade previstos na lei geral.
 
-###### Art. 13.º Os funcionários da Agência são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Ministro da Agricultura, Pescas e Alimentação, e podem consultar a escrita e demais documentos das explorações agrícolas e empresas relacionadas com os regimes das ajudas do sector do azeite.
+Art. 13.º Os funcionários da Agência são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Ministro da Agricultura, Pescas e Alimentação, e podem consultar a escrita e demais documentos das explorações agrícolas e empresas relacionadas com os regimes das ajudas do sector do azeite.
 
 ### CAPÍTULO V — Regime financeiro
 
-###### Art. 14.º Constituem receitas da Agência;
+Art. 14.º Constituem receitas da Agência;
 
 a) As dotações orçamentais das Comunidades Europeias;
 
@@ -234,18 +255,18 @@ c) Os subsídios ou comparticipações que lhe sejam concedidos;
 
 d) Outras receitas que lhe sejam legal ou contratualmente atribuídas, a título oneroso ou gratuito.
 
-###### Art. 15.º As despesas da Agência são as que resultam da execução dos diplomas que a regem, em conformidade com os orçamentos aprovados.
+Art. 15.º As despesas da Agência são as que resultam da execução dos diplomas que a regem, em conformidade com os orçamentos aprovados.
 
-###### Art. 16.º Mediante despacho conjunto do Ministro das Finanças e do Ministro da Agricultura, Pescas e Alimentação, a Agência poderá contrair na Caixa Geral de Depósitos, ou em outras instituições de crédito, empréstimos e assumir responsabilidades que forem indispensáveis à realização das suas atribuições com consignação de receita própria ou de outras garantias.
+Art. 16.º Mediante despacho conjunto do Ministro das Finanças e do Ministro da Agricultura, Pescas e Alimentação, a Agência poderá contrair na Caixa Geral de Depósitos, ou em outras instituições de crédito, empréstimos e assumir responsabilidades que forem indispensáveis à realização das suas atribuições com consignação de receita própria ou de outras garantias.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1987. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 1 de Junho de 1987.**
+Promulgado em 1 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Junho de 1987.**
+Referendado em 2 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

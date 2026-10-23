@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03100/04880488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1987-662891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c57733b14cc65f6a51db94bf13c24bed1891247ae378a195b1a4023a9f12b177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d8133aec5d37ae614469ec9e67415def7b8f8fb4e87a6cae2408ba2e490e08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Horário de Trabalho
+- Horas Extraordinárias
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DECLARADA A INCONSTITUCIONALIDADE DAS NORMAS REFERIDAS NO ARTIGO 1 PELO ACÓRDÃO 262/90, DE 20 DE DEZEMBRO, PUBLICADO\
+    \ NO DR.IS, 292, QUE DEU NOVA REDACCAO AO DECRETOLEI 409/71, DE 27 DE SETEMBRO.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-12-20'
+- type: amended_by
+  target: pt:dre:371433:por
+  label: "Alterado o art. 46.º do Dec Lei 409/71, de 27-Set, na redacção do presente diploma, pela LEI.61/99.1999.06.30.AR\
+    \ DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-1999-371433
+  date: '1999-06-30'
+- type: amended_by
+  target: pt:dre:332750:por
+  label: "Alterado o art. 48º do Dec Lei 409/71 de 27-Set, com a redacção conferida pelo presente diploma, pelo DEC LEI.170/2001.2001.05.25.MTS\
+    \ DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2001-332750
+  date: '2001-05-25'
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:22Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +132,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 46.º e o artigo 47.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 46.º e o artigo 47.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 46.º — Elaboração dos mapas
 
@@ -114,20 +144,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 A validade dos mapas de horário de trabalho depende da sua conformidade com as disposições aplicáveis em matéria de duração de trabalho e do cumprimento das formalidades estabelecidas neste capítulo.
 
-###### Art. 2.º São revogadas todas as disposições legais que consagrem a necessidade da aprovação dos mapas de horário de trabalho ou sancionem a falta de cumprimento de tal exigência.
+Art. 2.º São revogadas todas as disposições legais que consagrem a necessidade da aprovação dos mapas de horário de trabalho ou sancionem a falta de cumprimento de tal exigência.
 
-###### Art. 3.º O disposto no presente diploma aplica-se aos mapas de horário de trabalho elaborados anteriormente à sua entrada em vigor, desde que ainda não tenha sido comunicada a sua aprovação.
+Art. 3.º O disposto no presente diploma aplica-se aos mapas de horário de trabalho elaborados anteriormente à sua entrada em vigor, desde que ainda não tenha sido comunicada a sua aprovação.
 
-###### Art. 4.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+Art. 4.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 15 de Janeiro de 1987.**
+Promulgado em 15 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Janeiro de 1987.**
+Referendado em 21 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

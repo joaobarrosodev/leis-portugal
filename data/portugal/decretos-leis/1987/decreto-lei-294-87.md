@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1987-417217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 307680843399e790071b0f37675ee39dc4c47106cc20aaeaf24b063389c96466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09de44df6e22393ebca051f65e850af42e3cb739c2a7e73f14f788ad2f733d88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal Civil
+- Pessoal de Enfermagem
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:283166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:54Z'
   warnings: []
   errors: []
 ---
@@ -352,16 +375,16 @@ d) Como enfermeiro-chefe, os enfermeiros-chefes do grau 3.
 
 Visto e aprovado em Conselho de Ministros de 2 de Junho de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 17 de Julho de 1987.**
+Promulgado em 17 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1987.**
+Referendado em 21 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Tabela a que se refere o n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/17400/29832987.pdf))](https://files.diariodarepublica.pt/1s/1987/07/17400/29832987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17400/29832987.pdf)

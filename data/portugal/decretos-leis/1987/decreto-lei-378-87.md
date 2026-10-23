@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/28900/43324333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1987-498085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65bb9c894325d2d6d4e004d627a7b6b6e23ad858c96b2a6fa53d23da0380b9ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d948eb97b23f4999c1860bd2fa50e9a75cff64663e1e7cab724a970af72789d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação de Veículos
+- Missão Diplomática
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:177453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:12Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +113,9 @@ No uso da autorização conferida pela alínea a) do artigo 36.º da [Lei n.º 4
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 1.º, 3.º, 7.º, 8.º, 9.º e 10.º do [Decreto-Lei n.º 371/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1985-177453), de 19 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 3.º, 7.º, 8.º, 9.º e 10.º do [Decreto-Lei n.º 371/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1985-177453), de 19 de Setembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º As missões diplomáticas e consulares de carreira acreditadas em Portugal e os respectivos funcionários são autorizados a possuir, com isenção de direitos de importação e demais imposições fiscais aplicáveis, em regime de reciprocidade, veículos automóveis em sistema de importação temporária destinados ao seu serviço dentro dos limites seguintes:
+Artigo 1.º As missões diplomáticas e consulares de carreira acreditadas em Portugal e os respectivos funcionários são autorizados a possuir, com isenção de direitos de importação e demais imposições fiscais aplicáveis, em regime de reciprocidade, veículos automóveis em sistema de importação temporária destinados ao seu serviço dentro dos limites seguintes:
 
 a) ...
 
@@ -111,11 +127,11 @@ d) ...
 
 e) Os funcionários administrativos e técnicos das missões diplomáticas e dos postos consulares de carreira que não sejam de nacionalidade portuguesa e não tenham em Portugal a sua residência permanente podem possuir, isento de direitos e demais imposições fiscais aplicáveis, um veículo automóvel, o qual deverá ser adquirido ou importado no prazo máximo de seis meses após a data da sua chegada, em regime de reciprocidade.
 
-###### Art. 3.º - 1 - As estâncias aduaneiras despacharão os veículos automóveis importados nos termos do presente diploma mediante a apresentação de franquia autorizada pelos serviços do protocolo do Ministério dos Negócios Estrangeiros e sem exigência de licença de importação num prazo não superior a cinco dias úteis.
+Art. 3.º - 1 - As estâncias aduaneiras despacharão os veículos automóveis importados nos termos do presente diploma mediante a apresentação de franquia autorizada pelos serviços do protocolo do Ministério dos Negócios Estrangeiros e sem exigência de licença de importação num prazo não superior a cinco dias úteis.
 
 2 - ...
 
-###### Art. 7.º - 1 - Os veículos automóveis mencionados nas alíneas a), b), c) e d) do artigo 1.º do presente decreto-lei só podem ser importados definitivamente pelos seus proprietários e sem o pagamento de direitos e demais imposições fiscais aplicáveis passados cinco anos sobre a data da sua entrada ou aquisição em Portugal, salvo nos casos em que o regime de reciprocidade determine outro prazo.
+Art. 7.º - 1 - Os veículos automóveis mencionados nas alíneas a), b), c) e d) do artigo 1.º do presente decreto-lei só podem ser importados definitivamente pelos seus proprietários e sem o pagamento de direitos e demais imposições fiscais aplicáveis passados cinco anos sobre a data da sua entrada ou aquisição em Portugal, salvo nos casos em que o regime de reciprocidade determine outro prazo.
 
 2 - Da aplicação do regime de reciprocidade referido no número anterior não poderá resultar um prazo inferior a dois anos.
 
@@ -125,7 +141,7 @@ e) Os funcionários administrativos e técnicos das missões diplomáticas e dos
 
 5 - Para cumprimento da regra de reciprocidade internacional compete ao Ministro das Finanças, sob proposta do Ministério dos Negócios Estrangeiros, encurtar ou ampliar os prazos referidos no n.º 1.
 
-###### Art. 8.º - 1 - Quando os proprietários dos veículos automóveis a que se refere o n.º 4 do artigo 7.º pretendam importá-los definitivamente antes de decorrido o prazo de reciprocidade será exigida uma percentagem de direitos e das demais imposições fiscais aplicáveis com base na tabela seguinte:
+Art. 8.º - 1 - Quando os proprietários dos veículos automóveis a que se refere o n.º 4 do artigo 7.º pretendam importá-los definitivamente antes de decorrido o prazo de reciprocidade será exigida uma percentagem de direitos e das demais imposições fiscais aplicáveis com base na tabela seguinte:
 
 Anos a partir da entrada em Portugal:
 
@@ -139,7 +155,7 @@ No decurso do 1.º e 2.º - a totalidade;
 
 2 - Se os prazos de reciprocidade tiverem sido modificados de harmonia com o n.º 5 do artigo 7.º, a tabela de percentagem de direitos e demais imposições fiscais a aplicar para a importação definitiva será reajustada proporcionalmente ao número de anos que tiver sido fixado.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - Se forem de cilindrada superior a 2000 cm3 só poderão ser importados definitivamente isentos de direitos e demais imposições fiscais aplicáveis ao fim de sete anos após a data da sua entrada em Portugal no regime privilegiado de importação temporária ou pagando direitos e demais imposições fiscais aplicáveis segundo a tabela seguinte:
 
@@ -157,16 +173,16 @@ No decurso do 1.º, 2.º e 3.º - a totalidade;
 
 3 - Os veículos automóveis referidos no número anterior podem ser importados definitivamente, isentos de direitos e demais imposições fiscais aplicáveis, decorrido que seja o prazo de reciprocidade definido de harmonia com os n.os 2 e 5 do artigo 7.º para o respectivo país, acrescido de dois anos, ou pagando-os segundo a tabela reajustada proporcionalmente ao número de anos fixado.
 
-###### Art. 10.º Nos casos de falecimento do proprietário do veículo importado nos termos do artigo 1.º, ou da sua transferência de Portugal antes de decorridos os prazos mencionados no artigo 7.º, ou ainda em virtude de acidente ou de furto de que resulte a impossibilidade de recuperação do veículo, o Ministro das Finanças poderá dispensar o pagamento dos direitos de importação e demais imposições fiscais aplicáveis sob proposta do Ministério dos Negócios Estrangeiros, desde que se verifique o princípio de reciprocidade.
+Art. 10.º Nos casos de falecimento do proprietário do veículo importado nos termos do artigo 1.º, ou da sua transferência de Portugal antes de decorridos os prazos mencionados no artigo 7.º, ou ainda em virtude de acidente ou de furto de que resulte a impossibilidade de recuperação do veículo, o Ministro das Finanças poderá dispensar o pagamento dos direitos de importação e demais imposições fiscais aplicáveis sob proposta do Ministério dos Negócios Estrangeiros, desde que se verifique o princípio de reciprocidade.
 
 Visto e aprovado em Conselho de Ministro de 13 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 3 de Dezembro de 1987.**
+Promulgado em 3 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Dezembro de 1987.**
+Referendado em 7 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

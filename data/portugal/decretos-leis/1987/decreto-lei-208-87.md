@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1987-421462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c69dad51b17248069a222293c992f92fc5ca4043a18d489a2a8652ba76b6cce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62eabdee2aedf2a5b206197b26e106eade4010b077c5104e54527458d7bcd288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GELO
+- Licenciamento
+- Pesca
+- Porto de Pesca
+- TAXA de Utilização
 relationships:
 - type: amended_by
   target: pt:dre:333152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333152:por
+  label: Alterada a base II anexa pelo DEC LEI.109/90.03.04.1990.MOPTC, DR.IS [78] de 03.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1990-333152
+  date: '1990-04-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:29Z'
   warnings: []
   errors: []
 ---
@@ -99,47 +109,55 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam as juntas autónomas dos portos do continente autorizadas a celebrar, no seguimento de concurso público, contratos de concessão de construção e exploração em regime de serviço público de instalações de fabrico de gelo destinado às embarcações e à indústria e comércio de pesca nos portos sob jurisdição das juntas em que se integram.
+Artigo 1.º Ficam as juntas autónomas dos portos do continente autorizadas a celebrar, no seguimento de concurso público, contratos de concessão de construção e exploração em regime de serviço público de instalações de fabrico de gelo destinado às embarcações e à indústria e comércio de pesca nos portos sob jurisdição das juntas em que se integram.
 
-###### Art. 2.º - 1 - A concessão será outorgada para cada porto em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante, após homologação do Ministro das Obras Públicas, Transportes e Comunicações.
+Art. 2.º - 1 - A concessão será outorgada para cada porto em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante, após homologação do Ministro das Obras Públicas, Transportes e Comunicações.
 
 2 - Os cadernos de encargos para cada porto poderão conter cláusulas especiais indicadas para o caso, desde que não contradigam as bases anexas a este diploma.
 
-###### Art. 3.º As concessionárias deverão estar constituídas à data da outorga de cada concessão como sociedades anónimas ou sociedades por quotas de responsabilidade limitada, obedecendo, na sua constituição, às disposições legais em vigor.
+Art. 3.º As concessionárias deverão estar constituídas à data da outorga de cada concessão como sociedades anónimas ou sociedades por quotas de responsabilidade limitada, obedecendo, na sua constituição, às disposições legais em vigor.
 
-###### Art. 4.º Poderá ser considerado como preferencial para adjudicação de cada concessão, em condições de igualdade, o facto de as sociedades concorrentes, ou as pessoas singulares ou colectivas que as integram, terem experiência comprovada no sector do fabrico de gelo no respectivo porto.
+Art. 4.º Poderá ser considerado como preferencial para adjudicação de cada concessão, em condições de igualdade, o facto de as sociedades concorrentes, ou as pessoas singulares ou colectivas que as integram, terem experiência comprovada no sector do fabrico de gelo no respectivo porto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1987. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 29 de Abril de 1987.**
+Promulgado em 29 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Maio de 1987.**
+Referendado em 6 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 BASES ANEXAS AO DECRETO-LEI N.º 208/87
 
 ### CAPÍTULO I — Objecto e fins da concessão
 
-###### Base I — Âmbito
+Base I
+
+Âmbito
 
 1 - A presente concessão tem por objectivo a construção e exploração contínua e eficiente de uma «fábrica e silo de gelo dividido», adiante designada abreviadamente por «fábrica», na zona do porto de ..., sendo sua finalidade essencial a prestação de serviços a terceiros, em regime de serviço público.
 
 2 - Os terrenos, edifícios e equipamento e outros que vierem a ser autorizados na área da concessão só poderão ser utilizados para fabrico, armazenamento e fornecimento de gelo dividido destinado às embarcações e indústrias e comércio da pesca, não se admitindo o recurso ao gelo em blocos.
 
-###### Base II — Exclusivo
+Base II
+
+Exclusivo
 
 Na zona do porto de ... é atribuído à concessionária, com o contrato de concessão, o exclusivo da fabricação e fornecimento de gelo à embarcações de pesca.
 
-###### Base III — Localização da fábrica
+Base III
+
+Localização da fábrica
 
 A localização da fábrica constará de planta anexa ao caderno de encargos, com as necessárias referências e pormenores de implantação, indicando a área do terreno a afectar à concessão.
 
-###### Base IV — Estabelecimento
+Base IV
+
+Estabelecimento
 
 Compreende-se no estabelecimento o conjunto dos bens que, pelo Estado ou pela concessionária, estão ou vierem a ser implantados nos terrenos da concessão ou a ser-lhes afectos, destinados à exploração, designadamente:
 
@@ -147,7 +165,9 @@ a) Acessos, redes de energia eléctrica, água e esgotos que a Junta Autónoma d
 
 b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de reserva, vedações e outros bens afectos de modo permanente e necessário à exploração dos serviços concedidos e que competirá à concessionária construir ou adquirir e afectar-lhes, nos termos da base V seguinte.
 
-###### Base V — Planos e projectos gerais e específicos e prazos de conclusão do estabelecimento
+Base V
+
+Planos e projectos gerais e específicos e prazos de conclusão do estabelecimento
 
 1 - A organização dos projectos dos edifícios e dos equipamentos a apresentar pelos concorrentes no acto do concurso para adjudicação da concessão deverá obedecer as especificações técnicas anexas ao caderno de encargos e compreenderá memórias descritivas e justificativas, incluindo correspondentes estudos técnico-económicos, e as peças desenhadas necessárias e suficientes para a sua perfeita compreensão, bem como uma lista de equipamentos, aparelhagem e demais componentes do estabelecimento, com indicação das suas características principais, designadamente as operacionais.
 
@@ -155,7 +175,9 @@ b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de r
 
 3 - A construção dos edifícios e das instalações a que se refere a concessão, bem como a aquisição dos equipamentos, aparelhos ou outros apetrechamentos, serão autorizadas pela Junta Autónoma, que ouvirá, quando necessário, o Instituto Nacional do Frio sobre os respectivos projectos e especificações técnicas.
 
-###### Base VI — Ampliação da fábrica
+Base VI
+
+Ampliação da fábrica
 
 1 - À concessionária serão atribuídos direitos de preferência para execução das ampliações da fábrica a construir nas áreas a concessionar quando economicamente forem reconhecidas como justificáveis pela Junta Autónoma.
 
@@ -165,7 +187,9 @@ b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de r
 
 ### CAPÍTULO II — Exploração
 
-###### Base VII — Regime de exploração
+Base VII
+
+Regime de exploração
 
 1 - O regime de exploração da fábrica será o de serviço público, o que se traduzirá na total obrigatoriedade de prestação generalizada dos serviços a todos os potenciais utilizadores e no correspondente controle por parte das entidades oficiais.
 
@@ -175,7 +199,9 @@ b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de r
 
 4 - A concessionária obriga-se a introduzir no apetrechamento dos serviços todos os aperfeiçoamentos técnicos postos em prática em instalações de idênticas características e capacidade.
 
-###### Base VIII — Regulamento de exploração
+Base VIII
+
+Regulamento de exploração
 
 1 - Antes da entrada em funcionamento da fábrica a Junta Autónoma apreciará e aprovará, independentemente do que nesta matéria competir a outros departamentos do Estado, o regulamento da respectiva exploração, referindo as relações entre a concessionária e os utentes, onde, além das condições particulares de funcionamento, devem, nomeadamente, constar os seguintes elementos base:
 
@@ -205,7 +231,9 @@ g) As condições que poderão vir a constituir justo motivo para revisão do re
 
 7 - A executoriedade do regulamento de exploração, bem como das suas alterações, requer homologação do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Base IX — Operações nos cais, terraplenos e obras adjacentes
+Base IX
+
+Operações nos cais, terraplenos e obras adjacentes
 
 1 - A utilização dos cais, terraplenos e outras obras portuárias adjacente aos terrenos objecto da concessão fica sujeita à disciplina e orientação da Junta Autónoma, no sentido de se conseguir equidade para todos os utentes portuários.
 
@@ -213,7 +241,9 @@ g) As condições que poderão vir a constituir justo motivo para revisão do re
 
 3 - Pela utilização ou ocupação das obras ou elementos portuários referidos nos números anteriores cobrará a Junta Autónoma as taxas do Regulamento de Tarifas.
 
-###### Base X — Conservação dos bens afectos à concessão
+Base X
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, de sua conta e responsabilidade, todos os que se destruírem ou mostrarem inadequados para os fins a que se destinam por desgaste físico, avaria, deterioração ou obsolência.
 
@@ -229,19 +259,27 @@ g) As condições que poderão vir a constituir justo motivo para revisão do re
 
 7 - A Junta Autónoma poderá determinar a retirada de qualquer equipamento que se mostre inadequado ao fim a que se destina e à regular e eficiente exploração dos serviços concedidos, impondo, se o tiver por conveniente, a sua substituição; igualmente poderá a Junta Autónoma impor à concessionária a execução, no prazo que fixar, das reparações e beneficiações que se justificarem nos bens afectos à concessão.
 
-###### Base XI — Obras de conservação a cargo da concedente
+Base XI
+
+Obras de conservação a cargo da concedente
 
 Constituirá responsabilidade e encargo da Junta Autónoma a conservação do acesso terrestre às instalações, a manutenção dos fundos nas bacias de manobra fronteiras e nos respectivos canais de acesso e, ainda, a conservação e a reparação dos empedrados e cais que limitarem os terraplenos da área da concessão.
 
-###### Base XII — Fornecimento de água e de energia eléctrica
+Base XII
+
+Fornecimento de água e de energia eléctrica
 
 Os fornecimentos à fábrica de água e de energia eléctrica para iluminação e força motriz serão efectuados por intermédio da Junta Autónoma, mediante o pagamento das taxas devidas nos termos do Regulamento de Tarifas.
 
-###### Base XIII — Vistorias
+Base XIII
+
+Vistorias
 
 Constituirão encargo da concessionária todas as despesas com vistorias aos componentes do estabelecimento por parte dos serviços oficiais competentes.
 
-###### Base XIV — Fiscalização
+Base XIV
+
+Fiscalização
 
 1 - As instalações e as actividades exercidas pela concessionária no âmbito da concessão serão fiscalizadas pelos serviços da respectiva Junta Autónoma, cujas instruções e intimações a concessionária se obriga a cumprir.
 
@@ -251,13 +289,17 @@ Constituirão encargo da concessionária todas as despesas com vistorias aos com
 
 ### CAPÍTULO III — Duração da concessão
 
-###### Base XV — Prazo da concessão
+Base XV
+
+Prazo da concessão
 
 1 - O prazo da concessão será de 30 anos, a contar da aprovação pela Junta Autónoma do regulamento de exploração da fábrica, podendo ser prorrogado por períodos de dez anos, desde que nisso acordem mutuamente concedente e concessionária até um ano antes do termo do prazo da concessão ou das suas prorrogações.
 
 2 - No caso de vir a prover-se as instalações com uma ou mais ampliações ou melhoramentos, os prazos poderão vir a ser alterados nos correspondentes contratos adicionais, tidos em conta os estudos económicos que fundamentarem essas ampliações ou melhoramentos.
 
-###### Base XVI — Termo da concessão
+Base XVI
+
+Termo da concessão
 
 1 - Finda a concessão, pelo decurso do prazo, a Junta Autónoma entrará imediatamente na posse das obras, edifícios, instalações, equipamentos, apetrechamentos e demais bens afectos à concessão, que para ela reverterão gratuitamente, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -281,7 +323,9 @@ Constituirão encargo da concessionária todas as despesas com vistorias aos com
 
 11 - As condições da cedência referida no número anterior e a fixação do valor das instalações a que se refere o n.º 9 serão reguladas por acordo ou, na sua falta, nos termos do disposto no n.º 1 da base XXVIII.
 
-###### Base XVII — Resgate
+Base XVII
+
+Resgate
 
 1 - A Junta Autónoma poderá resgatar a concessão, após decorrido metade do respectivo prazo, mediante autorização do Ministro das Obras Públicas, Transportes e Comunicações, o que só produzirá efeitos decorridos dois anos sobre a data da notificação.
 
@@ -303,7 +347,9 @@ Como receita líquida de exploração consideram-se, para este efeito, 15% das r
 
 9 - A Junta Autónoma poderá liquidar os encargos da aquisição e da indemnização a que se referem, respectivamente, os n.os 5 e 7 desta base, por uma só vez ou em anuidades, até ao limite previsto para o termo do prazo da concessão, vencendo as importâncias em débito juros calculados a uma taxa igual à taxa básica de desconto do Banco de Portugal, adicionada de 1%.
 
-###### Base XVIII — Rescisão
+Base XVIII
+
+Rescisão
 
 1 - A Junta Autónoma, autorizada pelo Ministro das Obras Públicas, Transportes e Comunicações, poderá rescindir o contrato de concessão sempre que do não cumprimento das obrigações essenciais da concessionária resultem graves perturbações na organização e no funcionamento dos serviços concedidos.
 
@@ -335,13 +381,17 @@ g) A violação grave da lei ou de qualquer das cláusulas do contrato de conces
 
 8 - A rescisão não poderá ser declarada, em caso algum, sem prévia audiência da concessionária.
 
-###### Base XIX — Caso de guerra ou emergência grave
+Base XIX
+
+Caso de guerra ou emergência grave
 
 1 - A Junta Autónoma, ou outra entidade por ela designada, poderá, em caso de guerra ou de emergência grave, sob autorização do Ministro das Obras Públicas, Transportes e Comunicações, gerir e explorar os serviços concedidos, nas condições estabelecidas pelas leis de mobilização.
 
 2 - Durante o período em que a Junta Autónoma exercer esse direito suspende-se o decurso do prazo por que for outorgada a concessão, ficando a concessionária exonerada do cumprimento das obrigações a esse período respeitantes.
 
-###### Base XX — Sequestro
+Base XX
+
+Sequestro
 
 1 - A Junta Autónoma poderá tomar conta da administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja iminente a sua cessação total ou parcial por causa imputável à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometer a regularidade da exploração ou a segurança dos utentes.
 
@@ -355,7 +405,9 @@ g) A violação grave da lei ou de qualquer das cláusulas do contrato de conces
 
 ### CAPÍTULO IV — Obrigações especiais
 
-###### Base XXI — Contrapartida pela concessão
+Base XXI
+
+Contrapartida pela concessão
 
 1 - A concessionária pagará à Junta Autónoma, como contrapartida pela concessão da exploração da fábrica, uma anuidade, correspondente à soma das duas parcelas seguintes:
 
@@ -375,7 +427,9 @@ b) Mês a mês, até 60 dias depois do fim do mês a que respeita, pelo que se r
 
 5 - O pagamento das importâncias das anuidades de que trata a presente base efectuar-se-á a partir do início da exploração.
 
-###### Base XXII — Deliberações sujeitas a aprovação
+Base XXII
+
+Deliberações sujeitas a aprovação
 
 1 - Carecem de aprovação da Junta Autónoma quaisquer deliberações da concessionária que tenham por fim:
 
@@ -397,15 +451,21 @@ g) A cessação, temporária ou definitiva, total ou parcial, do serviço conced
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Base XXIII — Obrigações fiscais
+Base XXIII
+
+Obrigações fiscais
 
 A afectação à concessão de terrenos ou de edifícios e instalações na zona do porto não confere à concessionária, às mercadorias ou pescado e aos seus proprietários, ou aos meios de transporte terrestre ou marítimo utilizados, qualquer benefício especial relativamente aos sistemas fiscal e tarifário que vigorem no porto.
 
-###### Base XXIV — Direitos de terceiros
+Base XXIV
+
+Direitos de terceiros
 
 A concessionária será inteiramente responsável pelos prejuízos ou danos causados a terceiros pelo exercício dos poderes que lhe são conferidos pela concessão.
 
-###### Base XXV — Caução
+Base XXV
+
+Caução
 
 1 - A concessionária da fábrica e silo de gelo depositará na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Junta Autónoma, no prazo de 30 dias a contar da data da assinatura do contrato, a importância de 4000 contos, que servirá de garantia ao efectivo cumprimento das obrigações emergentes da concessão e ao pagamento das multas que lhe forem impostas.
 
@@ -413,7 +473,9 @@ A concessionária será inteiramente responsável pelos prejuízos ou danos caus
 
 3 - A caução poderá ser substituída por títulos da dívida pública, garantia bancária ou apólice de seguro de cauções, aceites nos termos legais.
 
-###### Base XXVI — Incumprimento das obrigações
+Base XXVI
+
+Incumprimento das obrigações
 
 1 - À falta de cumprimento das obrigações assumidas pela concessionária, quando lhe não correspondam sanções mais graves, nos termos das bases anteriores ou do regulamento de exploração, poderá ser aplicada multa de 100 a 200 contos, segundo a gravidade e a frequência da infracção, mediante deliberação da Junta Autónoma, a qual, comunicada, por escrito, à concessionária, produzirá os seus efeitos independentemente de qualquer outra formalidade. Os limites das multas atrás referidas serão actualizados em 1 de Janeiro de cada ano, de acordo com a taxa de inflação esperada.
 
@@ -421,12 +483,16 @@ A concessionária será inteiramente responsável pelos prejuízos ou danos caus
 
 3 - O pagamento das multas não isenta a concessionária da responsabilidade civil em que incorrer, nem prejudica a competência de outras autoridades para julgamento das infracções em que lhes caiba intervir.
 
-###### Base XXVII — Elementos estatísticos
+Base XXVII
+
+Elementos estatísticos
 
 1 - A concessionária obriga-se a fornecer à Junta Autónoma, até ao dia 15 do mês seguinte àquele a que digam respeito, os elementos estatísticos referentes ao movimento havido na fábrica e silo de gelo, bem como os elementos contabilísticos que traduzam o resultado da exploração.
 
 2 - Dos elementos referidos no número anterior constarão não só aqueles que permitirão concluir acerca da exploração das instalações mas também da ligação desse movimento com a frota pesqueira, incluindo todas as características e números de interesse portuário, nomeadamente a proveniência das embarcações ou navios, quantitativos por cada uma dessas unidades, suas características e outros.
 
-###### Base XXVIII — Arbitragem
+Base XXVIII
+
+Arbitragem
 
 As questões suscitadas entre a Junta Autónoma e a concessionária sobre a interpretação e a execução do contrato de concessão serão resolvidas por arbitragem, nos termos gerais de direito.

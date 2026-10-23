@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04800/08580860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb927345857d9fa8623b91b8de03f3f9110d12b17de92ae55dfe63973793707f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bedfac69953e1977f311eab313b43f8fbecc2716fb8f6d89ca0d3c2981b1b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheias
+- Domínio Público Hídrico
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, previstas no Dec Lei 468/71 de 05-Nov, com as alterações introduzidas pelo\
+    \ presente diploma, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:553431:por
+  label: "Alterados os arts. 3º, 4º, 5º, 13º e 36º do Dec Lei 468/71 de 01-Nov, com as alterações introduzidas pelo presente\
+    \ diploma, pela LEI.16/2003.2003.06.04.AR DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2003-553431
+  date: '2003-06-04'
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:44Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +152,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 14.º e 15.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º e 15.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 14.º — Zonas ameaçadas pelas cheias
 
@@ -145,9 +194,9 @@ d) Dividir a propriedade rústica em áreas inferiores à unidade mínima de cul
 
 6 - São nulos e de nenhum efeito todos os actos ou licenciamentos que desrespeitem o regime referido nos números anteriores.
 
-###### Art. 2.º O capítulo IV e os artigos 32.º, 33.º e 34.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, passam a ter a seguinte designação, respectivamente, capítulo V e artigos 36.º, 37.º e 38.º
+Art. 2.º O capítulo IV e os artigos 32.º, 33.º e 34.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, passam a ter a seguinte designação, respectivamente, capítulo V e artigos 36.º, 37.º e 38.º
 
-###### Art. 3.º É aditado um novo capítulo IV, denominado «Fiscalização e sanções», ao [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, constituído pelos seguintes artigos:
+Art. 3.º É aditado um novo capítulo IV, denominado «Fiscalização e sanções», ao [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, constituído pelos seguintes artigos:
 
 ###### Artigo 32.º — Sujeição a registo
 
@@ -173,16 +222,16 @@ O ónus real resultante da classificação de uma área como zona adjacente, nos
 
 3 - A tentativa e a negligência são sempre puníveis.
 
-###### Art. 4.º A aplicação do regime estabelecido no presente diploma às Regiões Autónomas dos Açores e da Madeira fica dependente de diploma regional que lhe introduza as devidas adaptações.
+Art. 4.º A aplicação do regime estabelecido no presente diploma às Regiões Autónomas dos Açores e da Madeira fica dependente de diploma regional que lhe introduza as devidas adaptações.
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 5 de Fevereiro de 1987.**
+Promulgado em 5 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1987.**
+Referendado em 11 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

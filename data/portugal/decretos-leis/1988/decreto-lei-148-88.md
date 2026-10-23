@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1988-285366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8996e58258f8def47e9f25bd542544f499017f08471a620a4f8238ded298a8b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f9da63c507be1f162091203881a680a05006492c202fa9127b90aedc871a0bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:146875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146875:por
+  label: "Alterado o quadro de pessoal pela Port.748/96.1996.12.19.PCM, DR.IS-B [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/748-1996-146875
+  date: '1996-12-19'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:40Z'
   warnings: []
   errors: []
 ---
@@ -108,25 +139,25 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza
 
-###### Artigo 1.º A Universidade do Porto é uma pessoa colectiva pública dotada de autonomia administrativa e financeira nos termos da lei, compreendendo os órgãos e serviços previstos no presente diploma.
+Artigo 1.º A Universidade do Porto é uma pessoa colectiva pública dotada de autonomia administrativa e financeira nos termos da lei, compreendendo os órgãos e serviços previstos no presente diploma.
 
 ### CAPÍTULO II — Órgãos e serviços centrais
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 2.º São órgãos da Universidade do Porto:
+Art. 2.º São órgãos da Universidade do Porto:
 
 a) O reitor;
 
 b) O conselho administrativo.
 
-###### Art. 3.º O reitor dirige, orienta e coordena as actividades e serviços da Universidade, de modo a imprimir-lhes unidade, continuidade e eficiência.
+Art. 3.º O reitor dirige, orienta e coordena as actividades e serviços da Universidade, de modo a imprimir-lhes unidade, continuidade e eficiência.
 
-###### Art. 4.º O conselho administrativo é o órgão deliberativo da Universidade em matéria de gestão financeira e patrimonial e tem a composição prevista no [Decreto-Lei n.º 121/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1985-324315), de 22 de Abril.
+Art. 4.º O conselho administrativo é o órgão deliberativo da Universidade em matéria de gestão financeira e patrimonial e tem a composição prevista no [Decreto-Lei n.º 121/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1985-324315), de 22 de Abril.
 
 #### SECÇÃO II — Dos serviços centrais
 
-###### Art. 5.º São serviços da Universidade do Porto:
+Art. 5.º São serviços da Universidade do Porto:
 
 a) A Secretaria-Geral;
 
@@ -140,7 +171,7 @@ e) A Assessoria do Planeamento;
 
 f) O Gabinete de Organização e Recursos Humanos.
 
-###### Art. 6.º - 1 - A Secretaria-Geral exerce as suas atribuições nos domínios da administração financeira e patrimonial, do pessoal, do expediente e arquivo, das informações de carácter pedagógico, do fomento e apoio das actividades circum-escolares e do apoio administrativo ao reitor e aos serviços dele dependentes.
+Art. 6.º - 1 - A Secretaria-Geral exerce as suas atribuições nos domínios da administração financeira e patrimonial, do pessoal, do expediente e arquivo, das informações de carácter pedagógico, do fomento e apoio das actividades circum-escolares e do apoio administrativo ao reitor e aos serviços dele dependentes.
 
 2 - A Secretaria-Geral é dirigida por um administrador e compreende os seguintes serviços:
 
@@ -148,7 +179,7 @@ a) A Direcção dos Serviços Administrativos;
 
 b) A Secção de Assuntos Académicos.
 
-###### Art. 7.º - 1 - Incumbe especialmente ao administrador:
+Art. 7.º - 1 - Incumbe especialmente ao administrador:
 
 a) Orientar e coordenar as actividades dos serviços que constituem a Secretaria-Geral;
 
@@ -168,17 +199,17 @@ h) Assegurar o encaminhamento e o registo de correspondência.
 
 2 - A categoria de administrador da Universidade do Porto é equiparada à de subdirector-geral, para todos os efeitos legais.
 
-###### Art. 8.º - 1 - A Direcção dos Serviços Administrativos (DSA) exerce as suas atribuições no domínio da administração financeira e patrimonial e de pessoal.
+Art. 8.º - 1 - A Direcção dos Serviços Administrativos (DSA) exerce as suas atribuições no domínio da administração financeira e patrimonial e de pessoal.
 
 2 - A DSA é dirigida por um director de serviços e compreende a Repartição de Administração Financeira e Patrimonial e a Repartição de Pessoal e Expediente.
 
 3 - Compete à DSA a coordenação da actividade financeira das faculdades, devendo remeter às competentes direcções de serviços da Direcção-Geral da Contabilidade Pública uma agregação dos respectivos orçamentos e extractos das contas de gerência.
 
-###### Art. 9.º - 1 - A Repartição de Administração Financeira e Patrimonial (RAFP) é dirigida por um chefe de repartição e compreende as Secções de Contabilidade, Orçamento e Conta e de Economato e Inventário.
+Art. 9.º - 1 - A Repartição de Administração Financeira e Patrimonial (RAFP) é dirigida por um chefe de repartição e compreende as Secções de Contabilidade, Orçamento e Conta e de Economato e Inventário.
 
 2 - Adstrita à RAFP funciona uma tesouraria.
 
-###### Art. 10.º À Secção de Contabilidade, Orçamento e Conta compete:
+Art. 10.º À Secção de Contabilidade, Orçamento e Conta compete:
 
 a) Executar a escrituração respeitante à contabilidade;
 
@@ -204,7 +235,7 @@ k) Elaborar os orçamentos em conta de receitas próprias;
 
 l) Elaborar as relações de documentos de despesa a submeter à apreciação e aprovação do conselho administrativo.
 
-###### Art. 11.º À Secção de Economato e Inventário compete:
+Art. 11.º À Secção de Economato e Inventário compete:
 
 a) Organizar os processos de aquisição de material nos termos das disposições legais vigentes;
 
@@ -214,7 +245,7 @@ c) Velar pela conservação e aproveitamento do material e instalações e organ
 
 d) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos serviços e estabelecimentos.
 
-###### Art. 12.º - 1 - A tesouraria é dirigida por um tesoureiro, ao qual compete:
+Art. 12.º - 1 - A tesouraria é dirigida por um tesoureiro, ao qual compete:
 
 a) Preencher e assinar os recibos necessários para o levantamento das dotações orçamentais e para cobrança dos rendimentos próprios dos serviços e apresentá-los, em devido tempo, à assinatura do reitor ou do vogal do conselho administrativo em que essa competência estiver delegada;
 
@@ -234,9 +265,9 @@ h) Organizar e apresentar mensalmente ao conselho administrativo o balancete ref
 
 2 - Por despacho do reitor será designado o funcionário que, sob proposta do tesoureiro, o deverá substituir nas suas faltas e impedimentos.
 
-###### Art. 13.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende a Secção de Pessoal e a Secção de Expediente e Arquivo.
+Art. 13.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende a Secção de Pessoal e a Secção de Expediente e Arquivo.
 
-###### Art. 14.º À Secção de Pessoal compete:
+Art. 14.º À Secção de Pessoal compete:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à promoção, recondução, prorrogação, mobilidade, exoneração, rescisão de contratos, demissão e aposentação do pessoal;
 
@@ -254,7 +285,7 @@ g) Instruir os processos relativos a horas extraordinárias, pagamento de servi�
 
 h) Organizar e movimentar os processos relativos a equiparações a bolseiro.
 
-###### Art. 15.º À Secção de Expediente e Arquivo compete:
+Art. 15.º À Secção de Expediente e Arquivo compete:
 
 a) Organizar e manter actualizado o cadastro do pessoal;
 
@@ -264,13 +295,13 @@ c) Elaborar as listas de antiguidade do pessoal;
 
 d) Preparar os elementos relativos ao pessoal para o anuário e outras publicações da Universidade.
 
-###### Art. 16.º A Secção de Assuntos Académicos é dirigida por um chefe de secção e exerce as suas atribuições nos domínios dos planos de estudos dos cursos ministrados nas escolas e estabelecimentos da Universidade, da equivalência e equiparação de graus e títulos, da passagem dos respectivos diplomas e de fomento e apoio das actividades circum-escolares.
+Art. 16.º A Secção de Assuntos Académicos é dirigida por um chefe de secção e exerce as suas atribuições nos domínios dos planos de estudos dos cursos ministrados nas escolas e estabelecimentos da Universidade, da equivalência e equiparação de graus e títulos, da passagem dos respectivos diplomas e de fomento e apoio das actividades circum-escolares.
 
-###### Art. 17.º - 1 - O Serviço de Documentação e Publicações (SDP) é orientado pelo técnico superior de categoria mais elevada nele colocado e exerce as suas atribuições nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para a Universidade e nos domínios da coordenação técnica e da integração funcional das bibliotecas nela existentes ou a criar.
+Art. 17.º - 1 - O Serviço de Documentação e Publicações (SDP) é orientado pelo técnico superior de categoria mais elevada nele colocado e exerce as suas atribuições nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para a Universidade e nos domínios da coordenação técnica e da integração funcional das bibliotecas nela existentes ou a criar.
 
 2 - Compete, designadamente, ao SDP programar, coordenar e orientar as publicações de carácter pedagógico, científico e cultural da Universidade e dar o apoio técnico e administrativo necessário ao desempenho das atribuições cometidas à Biblioteca Geral e Arquivo da Universidade do Porto, nos termos do [Decreto-Lei n.º 156/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1986-228644), de 24 de Junho.
 
-###### Art. 18.º Ao Gabinete de Relações Públicas, que é orientado pelo técnico superior de categoria mais elevada nele colocado, compete:
+Art. 18.º Ao Gabinete de Relações Públicas, que é orientado pelo técnico superior de categoria mais elevada nele colocado, compete:
 
 a) Colaborar na organização de conferências, exposições, congressos, reuniões ou outras actividades de carácter científico e cultural ou recreativo promovidas ou apoiadas pela reitoria;
 
@@ -280,7 +311,7 @@ c) Assegurar os contactos da Universidade com os meios de comunicação social e
 
 d) Assegurar o secretariado e expediente próprios do reitor, dos vice-reitores e dos pró-reitores.
 
-###### Art. 19.º À Assessoria Jurídica, que é orientada pelo técnico superior de categoria mais elevada nela colocado, compete:
+Art. 19.º À Assessoria Jurídica, que é orientada pelo técnico superior de categoria mais elevada nela colocado, compete:
 
 a) A elaboração dos estudos e pareceres de natureza jurídica, relativos à gestão da Universidade e das escolas e estabelecimentos;
 
@@ -290,7 +321,7 @@ c) A recolha, ordenação e divulgação da legislação com interesse para os s
 
 d) O desempenho de outras funções de natureza jurídica do interesse geral da Universidade ou específico de qualquer das respectivas escolas ou estabelecimentos.
 
-###### Art. 20.º A Assessoria do Planeamento funciona na dependência directa do reitor, sendo-lhe cometidas as seguintes atribuições:
+Art. 20.º A Assessoria do Planeamento funciona na dependência directa do reitor, sendo-lhe cometidas as seguintes atribuições:
 
 a) Elaboração do plano de desenvolvimento da Universidade, de acordo com as orientações dos respectivos órgãos e observadas as condicionantes impostas pelas normas e legislação em vigor;
 
@@ -314,7 +345,7 @@ j) Coordenar os processos de gestão orçamental;
 
 l) Propor os projectos tidos como úteis ao cabal prosseguimento das tarefas cometidas à Universidade.
 
-###### Art. 21.º Ao Gabinete de Organização e Recursos Humanos, que é orientado pelo técnico superior de categoria mais elevada nele colocado, compete:
+Art. 21.º Ao Gabinete de Organização e Recursos Humanos, que é orientado pelo técnico superior de categoria mais elevada nele colocado, compete:
 
 a) Promover acções de formação e de aperfeiçoamento ou reciclagem do pessoal não docente a investigador;
 
@@ -326,21 +357,21 @@ d) Efectuar estudos e propostas sobre organização e métodos de trabalho.
 
 ### CAPÍTULO III — Das escolas da Universidade do Porto
 
-###### Art. 22.º As escolas da Universidade do Porto gozam de autonomia administrativa e financeira, nos termos dos artigos seguintes.
+Art. 22.º As escolas da Universidade do Porto gozam de autonomia administrativa e financeira, nos termos dos artigos seguintes.
 
-###### Art. 23.º - 1 - Além dos órgãos de gestão previstos na lei para os estabelecimentos de ensino superior, as escolas da Universidade do Porto dispõem de um conselho administrativo, composto pelo presidente do conselho directivo, pelo secretário e pelo técnico superior de gestão, ou, na inexistência, ausência, falta ou impedimento deste, pelo chefe de repartição ou seu substituto legal.
+Art. 23.º - 1 - Além dos órgãos de gestão previstos na lei para os estabelecimentos de ensino superior, as escolas da Universidade do Porto dispõem de um conselho administrativo, composto pelo presidente do conselho directivo, pelo secretário e pelo técnico superior de gestão, ou, na inexistência, ausência, falta ou impedimento deste, pelo chefe de repartição ou seu substituto legal.
 
 2 - O conselho administrativo é o órgão de gestão administrativa, financeira e patrimonial da escola.
 
-###### Art. 24.º As escolas da Universidade do Porto são responsáveis perante a reitoria pelo uso da autonomia que lhes for atribuída.
+Art. 24.º As escolas da Universidade do Porto são responsáveis perante a reitoria pelo uso da autonomia que lhes for atribuída.
 
-###### Art. 25.º O reitor fixará, anualmente, por despacho, os limites das competências dos conselhos administrativos das diversas escolas para autorização de despesas.
+Art. 25.º O reitor fixará, anualmente, por despacho, os limites das competências dos conselhos administrativos das diversas escolas para autorização de despesas.
 
-###### Art. 26.º No uso da autonomia administrativa e financeira, compete às escolas autorizarem e efectuarem directamente o pagamento das suas despesas, mediante fundos requisitados, através da reitoria, em conta das dotações comuns atribuídas no Orçamento do Estado às referidas escolas e até ao limite das verbas dos orçamentos privativos de cada uma delas.
+Art. 26.º No uso da autonomia administrativa e financeira, compete às escolas autorizarem e efectuarem directamente o pagamento das suas despesas, mediante fundos requisitados, através da reitoria, em conta das dotações comuns atribuídas no Orçamento do Estado às referidas escolas e até ao limite das verbas dos orçamentos privativos de cada uma delas.
 
-###### Art. 27.º As requisições para levantamento dos fundos referidos no artigo anterior devem ser enviadas à reitoria a tempo de esta poder observar, na sua remessa à respectiva delegação da Direcção-Geral da Contabilidade Pública, os prazos estabelecidos no artigo 18.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
+Art. 27.º As requisições para levantamento dos fundos referidos no artigo anterior devem ser enviadas à reitoria a tempo de esta poder observar, na sua remessa à respectiva delegação da Direcção-Geral da Contabilidade Pública, os prazos estabelecidos no artigo 18.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
-###### Art. 28.º São serviços das escolas da Universidade do Porto:
+Art. 28.º São serviços das escolas da Universidade do Porto:
 
 a) A secretaria;
 
@@ -348,7 +379,7 @@ b) A tesouraria;
 
 c) A biblioteca.
 
-###### Art. 29.º - 1 - Em cada escola haverá um secretário, ao qual compete:
+Art. 29.º - 1 - Em cada escola haverá um secretário, ao qual compete:
 
 a) Orientar e coordenar a actividade dos serviços e superintender no seu funcionamento;
 
@@ -380,7 +411,7 @@ j) Assegurar o encaminhamento e o registo da correspondência.
 
 6 - Sem prejuízo do preceituado no número anterior, os secretários manterão o administrador da Universidade informado dos problemas que interessem ao exercício da competência prevista na alínea b) do n.º 1 do artigo 7.º
 
-###### Art. 30.º - 1 - A secretaria desenvolve as suas actividades nos domínios do expediente, dos assuntos académicos, do pessoal e da contabilidade e património e é dirigida por um chefe de repartição.
+Art. 30.º - 1 - A secretaria desenvolve as suas actividades nos domínios do expediente, dos assuntos académicos, do pessoal e da contabilidade e património e é dirigida por um chefe de repartição.
 
 2 - A secretaria compreende:
 
@@ -388,7 +419,7 @@ a) A Secção de Expediente e Alunos;
 
 b) A Secção de Pessoal e Contabilidade.
 
-###### Art. 31.º - 1 - Em cada escola funciona uma tesouraria, orientada por um tesoureiro, ao qual compete:
+Art. 31.º - 1 - Em cada escola funciona uma tesouraria, orientada por um tesoureiro, ao qual compete:
 
 a) Preencher e assinar os recibos necessários para o levantamento dos fundos orçamentais e para a cobrança dos rendimentos próprios da escola, seus serviços e estabelecimentos anexos e apresentá-los, em devido tempo, à assinatura do presidente do conselho directivo ou do vogal do conselho administrativo em quem essa competência estiver delegada;
 
@@ -408,7 +439,7 @@ h) Organizar e apresentar mensalmente ao conselho administrativo o balancete ref
 
 2 - Por despacho do presidente do conselho directivo será designado o funcionário que, sob proposta do tesoureiro, o deverá substituir nas suas faltas ou impedimentos.
 
-###### Art. 32.º Compete à biblioteca:
+Art. 32.º Compete à biblioteca:
 
 a) Colaborar com o SDP na integração funcional e na organização das bibliotecas universitárias;
 
@@ -422,9 +453,9 @@ d) Proceder ao estudo e avaliação das necessidades dos utilizadores.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 33.º Os quadros do pessoal dirigente, técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar da Universidade do Porto são os constantes dos mapas anexos ao presente diploma.
+Art. 33.º Os quadros do pessoal dirigente, técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar da Universidade do Porto são os constantes dos mapas anexos ao presente diploma.
 
-###### Art. 34.º Ao recrutamento e provimento do pessoal previsto no artigo 33.º é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nas alíneas seguintes:
+Art. 34.º Ao recrutamento e provimento do pessoal previsto no artigo 33.º é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nas alíneas seguintes:
 
 a) O lugar de administrador será provido por despacho do reitor de entre licenciados de reconhecida competência e que possuam experiência válida para o exercício de funções;
 
@@ -438,7 +469,7 @@ e) Os lugares de auxiliar de manutenção serão providos de acordo com as norma
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 35.º - 1 - O pessoal actualmente provido em lugares do quadro aprovados por lei transita, na mesma situação, para os quadros anexos ao presente diploma, de acordo com as seguintes regras:
+Art. 35.º - 1 - O pessoal actualmente provido em lugares do quadro aprovados por lei transita, na mesma situação, para os quadros anexos ao presente diploma, de acordo com as seguintes regras:
 
 a) Para a categoria que já detêm;
 
@@ -448,14 +479,14 @@ b) Para categoria correspondente às funções que desempenha, remunerada pela m
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Alberto José Nunes Correia Ralha.
 
-**Promulgado em 6 de Abril de 1988.**
+Promulgado em 6 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1988.**
+Referendado em 8 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09700/16371675.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09700/16371675.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09700/16371675.pdf)

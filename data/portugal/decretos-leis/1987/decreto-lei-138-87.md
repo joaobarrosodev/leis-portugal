@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1987-662162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d0fe38a8e944a0ee0ee15a0b4499a94b8a51b52e3c50adbd54c458e6e769c5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aa790fb7f74653db83f66ff40d8f5eb982bfbccc1fac0b8008f4b1eca3cfe7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Formação Profissional
+- Marinha
+- Pessoal do MAR
+relationships:
+- type: cites
+  target: pt:dre:580344:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:23Z'
   warnings: []
   errors: []
 ---
@@ -96,36 +104,36 @@ Considerando que a Marinha está particularmente vocacionada para operar e mante
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Designam-se por «navios de treino de mar» as unidades auxiliares da Marinha (UAMs) que, pelas suas características, se destinem a proporcionar prática marítima quer a candidatos a profissionais do mar, quer a instruendos de treino de mar, quer ainda à preparação da juventude em geral.
+Artigo 1.º Designam-se por «navios de treino de mar» as unidades auxiliares da Marinha (UAMs) que, pelas suas características, se destinem a proporcionar prática marítima quer a candidatos a profissionais do mar, quer a instruendos de treino de mar, quer ainda à preparação da juventude em geral.
 
-###### Art. 2.º - 1 - A classificação das UAMs em navios de treino de mar, bem como as normas para a sua manutenção e utilização, constarão de portaria do Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior da Armada.
+Art. 2.º - 1 - A classificação das UAMs em navios de treino de mar, bem como as normas para a sua manutenção e utilização, constarão de portaria do Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior da Armada.
 
 2 - As UAMs classificadas como navios de treino de mar são equiparadas a unidades navais para efeitos de exercício de funções de comando ou outras próprias da prestação de serviço a bordo pelo pessoal militar da Armada.
 
 3 - Compete ao Chefe do Estado-Maior da Armada estabelecer os procedimentos adequados com vista à correcta execução das normas a que se refere o n.º 1.
 
-###### Art. 3.º - 1 - Os comandantes dos navios de treino de mar são oficiais da Armada dos quadros do activo ou da reserva.
+Art. 3.º - 1 - Os comandantes dos navios de treino de mar são oficiais da Armada dos quadros do activo ou da reserva.
 
 2 - As lotações dos navios de treino de mar, a estabelecer nos termos do artigo 8.º do [Decreto-Lei n.º 193/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1981-580344), de 8 de Julho, poderão incluir pessoal dos quadros da reserva.
 
-###### Art. 4.º Supletivamente à missão principal de treino de mar, poderão os navios em causa ser usados em missões de difusão da imagem do País, da sua cultura ou dos seus bens, no estrangeiro, em especial nos países onde existem comunidades portuguesas ou aos quais Portugal esteja ligado por laços históricos ou tradicionais.
+Art. 4.º Supletivamente à missão principal de treino de mar, poderão os navios em causa ser usados em missões de difusão da imagem do País, da sua cultura ou dos seus bens, no estrangeiro, em especial nos países onde existem comunidades portuguesas ou aos quais Portugal esteja ligado por laços históricos ou tradicionais.
 
-###### Art. 5.º - 1 - O planeamento anual da utilização dos navios de treino de mar será fixado por despacho do Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior da Armada.
+Art. 5.º - 1 - O planeamento anual da utilização dos navios de treino de mar será fixado por despacho do Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior da Armada.
 
 2 - Para a elaboração do planeamento serão consideradas as propostas e necessidades apresentadas pelos Ministérios da Agricultura, Pescas e Alimentação, da Educação e Cultura, das Obras Públicas, Transportes e Comunicações e pela Secretaria de Estado da Juventude.
 
 3 - Em conformidade com as normas a que se refere o n.º 1 do artigo 2.º, as condições de utilização dos navios de treino de mar serão reguladas por protocolos a celebrar entre o Ministério da Defesa Nacional e os departamentos do Estado referidos no número anterior e também com instituições de utilidade pública ou organismos privados aos quais se reconheçam capacidade e interesse nacional na utilização deste tipo de navios.
 
-###### Art. 6.º Os encargos de manutenção e operação dos navios de treino de mar são suportados por verbas especialmente inscritas no orçamento do Ministério da Defesa Nacional.
+Art. 6.º Os encargos de manutenção e operação dos navios de treino de mar são suportados por verbas especialmente inscritas no orçamento do Ministério da Defesa Nacional.
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1987.**
+Referendado em 9 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

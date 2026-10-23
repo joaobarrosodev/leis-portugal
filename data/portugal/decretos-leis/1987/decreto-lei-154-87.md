@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/07400/12721272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1987-666523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdf435a4603e849b6857ef5d7e5c15115e7a80b3225f68f303e02772cffb3021
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 891283843874629dd347109169bc775dc77bb571e8acd0e83a29e851a457a1f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Gabinete da Área de Sines
+- Sines
+- Zona Industrial
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:175372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:38Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +120,18 @@ Verificando-se, porém, que, mantendo-se em vigor o [Decreto-Lei n.º 120/73](ht
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alienação, em regime de direito de superfície, dos fogos e lojas propriedade do Gabinete da Área de Sines sitos nos concelhos de Sines e Santiago do Cacém pode ser feita sem sujeição ao clausulado constante da minuta tipo de contrato de direito de superfície anexa à [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho.
+Artigo 1.º A alienação, em regime de direito de superfície, dos fogos e lojas propriedade do Gabinete da Área de Sines sitos nos concelhos de Sines e Santiago do Cacém pode ser feita sem sujeição ao clausulado constante da minuta tipo de contrato de direito de superfície anexa à [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho.
 
-###### Art. 2.º Os contratos existentes à data da entrada em vigor do presente decreto-lei poderão ser adaptados às novas cláusulas de contratação, sem sujeição ao regime de minuta tipo referida no artigo anterior.
+Art. 2.º Os contratos existentes à data da entrada em vigor do presente decreto-lei poderão ser adaptados às novas cláusulas de contratação, sem sujeição ao regime de minuta tipo referida no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Filipe Sales Caldeira da Silva.
 
-**Promulgado em 11 de Março de 1987.**
+Promulgado em 11 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Março de 1987.**
+Referendado em 19 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

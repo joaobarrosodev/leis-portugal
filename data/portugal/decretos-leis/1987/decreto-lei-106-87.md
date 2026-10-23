@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c26a71efcc5b9300245010aa494bd81e7a5b604b349b9e8c9fe8bb5319920952
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea768ab0fa45fc7fe73089cb2d9c30a0108efadd823308af27cfb36c20bf84b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Transporte Gratuito
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:248210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664729:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:53Z'
   warnings: []
   errors: []
 ---
@@ -103,34 +117,34 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A obrigatoriedade de prestação de transporte gratuito ao pessoal pertencente a determinadas entidades decorrente de quaisquer diplomas legais depende da apresentação pelos beneficiários de documento apropriado que possibilite a contabilização por parte das empresas transportadoras dos encargos daí decorrentes.
+Artigo 1.º - 1 - A obrigatoriedade de prestação de transporte gratuito ao pessoal pertencente a determinadas entidades decorrente de quaisquer diplomas legais depende da apresentação pelos beneficiários de documento apropriado que possibilite a contabilização por parte das empresas transportadoras dos encargos daí decorrentes.
 
 2 - As características e condições de emissão do documento a que se refere o número anterior serão definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações.
 
 3 - O documento referido nos números anteriores terá em conta, conforme os casos, os meios de transporte para que é válido e as limitações de ordem geográfica a que fique subordinado.
 
-###### Art. 2.º - 1 - As empresas transportadoras cobrarão das entidades responsáveis o preço correspondente ao transporte, de acordo com as tarifas em vigor, salvo se tiver sido celebrado acordo prevendo condições espaciais de preços.
+Art. 2.º - 1 - As empresas transportadoras cobrarão das entidades responsáveis o preço correspondente ao transporte, de acordo com as tarifas em vigor, salvo se tiver sido celebrado acordo prevendo condições espaciais de preços.
 
 2 - O disposto no n.º 1 do presente artigo não se aplica ao pessoal com funções de fiscalização pertencente aos serviços ou organismos oficiais com competência para fiscalizar a actividade transportadora.
 
 3 - As condições e o âmbito da aplicação do disposto no número anterior serão estabelecidos por portaria conjunta do Ministro das Obras Públicas, Transportes e Comunicações e do ministro do qual dependam os serviços ou organismos referidos naquele número.
 
-###### Art. 3.º Serão inscritas nos orçamentos das entidades responsáveis as verbas necessárias para satisfazer os encargos decorrentes da execução do presente diploma.
+Art. 3.º Serão inscritas nos orçamentos das entidades responsáveis as verbas necessárias para satisfazer os encargos decorrentes da execução do presente diploma.
 
-###### Art. 4.º Mediante aviso feito com a antecedência de 45 dias, as empresas transportadoras podem suspender a execução dos transportes a que se refere o artigo 1.º quando se verificarem atrasos no pagamento da compensação pecuniária já fixada.
+Art. 4.º Mediante aviso feito com a antecedência de 45 dias, as empresas transportadoras podem suspender a execução dos transportes a que se refere o artigo 1.º quando se verificarem atrasos no pagamento da compensação pecuniária já fixada.
 
-###### Art. 5.º São revogados os artigos 7.º e 8.º do [Decreto-Lei n.º 274/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1978-329868), de 6 de Setembro, os artigos 5.º e 6.º do [Decreto-Lei n.º 229/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1979-381983), de 21 de Julho, e a parte final do n.º 3 do artigo 23.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril.
+Art. 5.º São revogados os artigos 7.º e 8.º do [Decreto-Lei n.º 274/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1978-329868), de 6 de Setembro, os artigos 5.º e 6.º do [Decreto-Lei n.º 229/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1979-381983), de 21 de Julho, e a parte final do n.º 3 do artigo 23.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril.
 
-###### Art. 6.º O presente diploma produz efeitos 60 dias após a publicação da portaria a que se refere o n.º 2 do artigo 1.º
+Art. 6.º O presente diploma produz efeitos 60 dias após a publicação da portaria a que se refere o n.º 2 do artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins - Joaquim Maria Fernandes Marques.
 
-**Promulgado em 12 de Fevereiro de 1987.**
+Promulgado em 12 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1987.**
+Referendado em 18 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

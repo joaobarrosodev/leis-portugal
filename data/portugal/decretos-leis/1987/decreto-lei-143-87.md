@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1987-662322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98b6bf11d8543a860fb3ef4d87d38752cd704ec0ef2cc611350cf35fd4597899
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44c294b28c5fad727413938e0a9921cc95fa0680bab1c59c82ba384970396e56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Investigação Científica e Tecnológica
+- Investigador
+- Regime de Exclusividade
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:226629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567176:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287589:por
+  label: "Revogado, com excepção dos artigos 1.º e 2.º, o n.º 1 do artigo 3.º, o artigo 4.º, o n.º 1 do artigo 5.º e o n.º\
+    \ 2 dos artigos 6.º e 7.º, pelo DEC LEI.68/88.03.03.1988.MPLAT, DR.IS [52] de 03.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1988-287589
+  date: '1988-03-03'
+- type: repealed_by
+  target: pt:dre:226629:por
+  label: "Revogado, com excepção dos artigos 1.º e 2.º, o n.º 1 do artigo 3.º, o artigo 4.º, o n.º 1 do artigo 5.º e o n.º\
+    \ 2 dos artigos 6.º e 7.º, pelo DEC LEI.219/92.15.10.1992.MPLAT, DR.IS-A [238] de 15.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1992-226629
+  date: '1992-10-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:28Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +138,9 @@ Implicando, porém, tal revisão um aumento global de despesas não comportável
 
 Assim, o Governo decreta, nos termos de alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se ao pessoal das carreiras de investigação científica instituídas pelo [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro, pelo [Decreto Regulamentar n.º 78/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1980-291870), de 15 de Dezembro, pelo [Decreto Regulamentar n.º 8/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1981-391073), de 20 de Fevereiro, e pelo Decreto-Lei n.º 436/81, de 21 de Dezembro.
+Artigo 1.º O presente diploma aplica-se ao pessoal das carreiras de investigação científica instituídas pelo [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro, pelo [Decreto Regulamentar n.º 78/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1980-291870), de 15 de Dezembro, pelo [Decreto Regulamentar n.º 8/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1981-391073), de 20 de Fevereiro, e pelo Decreto-Lei n.º 436/81, de 21 de Dezembro.
 
-###### Art. 2.º - 1 - Os vencimentos do pessoal da carreira de investigação científica em regime de dedicação exclusiva são calculados, relativamente ao vencimento base do juiz conselheiro do Supremo Tribunal de Justiça, nos seguintes percentagens:
+Art. 2.º - 1 - Os vencimentos do pessoal da carreira de investigação científica em regime de dedicação exclusiva são calculados, relativamente ao vencimento base do juiz conselheiro do Supremo Tribunal de Justiça, nos seguintes percentagens:
 
 Percentagem
 
@@ -119,7 +156,7 @@ Estagiário de investigação ... 50
 
 2 - Os investigadores visitantes auferem uma remuneração mensal igual à categoria a que hajam sido contratualmente equiparados, tendo ainda direito ao abono de um subsídio de deslocação de montante a fixar por despacho conjunto dos Ministros das Finanças e da coordenação da investigação científica.
 
-###### Art. 3.º - 1 - Consideram-se em regime de dedicação exclusiva os elementos das carreiras de investigação das categorias referidas no artigo anterior, em regime de tempo integral, bem como os investigadores visitantes que declarem renunciar ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
+Art. 3.º - 1 - Consideram-se em regime de dedicação exclusiva os elementos das carreiras de investigação das categorias referidas no artigo anterior, em regime de tempo integral, bem como os investigadores visitantes que declarem renunciar ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
 
 2 - A violação do compromisso referido no número anterior implica a reposição das importâncias efectivamente recebidas correspondentes à diferença entre o regime de tempo integral e o regime de dedicação exclusiva, para além da eventual responsabilidade disciplinar.
 
@@ -145,15 +182,15 @@ i) Actividades exercidas, quer no âmbito de contratos entre a instituição a q
 
 4 - A percepção da remuneração prevista na alínea i) do inúmero anterior só poderá ter lugar quando a actividade exercida tiver nível científico ou técnico previamente reconhecido pelo órgão de função de direcção da instituição como adequado à natureza, dignidade e funções desta última, e quando as obrigações decorrentes do contrato ou da aceitação do subsídio não impliquem uma relação estável.
 
-###### Art. 4.º - 1 - Os vencimentos do pessoal investigador em regime de tempo integral correspondem a dois terços dos valores fixados para as respectivas categorias quando em regime de dedicação exclusiva.
+Art. 4.º - 1 - Os vencimentos do pessoal investigador em regime de tempo integral correspondem a dois terços dos valores fixados para as respectivas categorias quando em regime de dedicação exclusiva.
 
 2 - O quantitativo dos vencimentos é sempre arredondado para a centena de escudos imediatamente superior.
 
-###### Art. 5.º - 1 - O acesso ao regime de dedicação exclusiva será efectivado a partir do dia 1 do mês seguinte ao da entrega da declaração de renúncia a que se refere o n.º 1 do artigo 3.º, ou, no caso de se tratar de situação de ingresso na carreira, a partir da data do início efectivo das funções.
+Art. 5.º - 1 - O acesso ao regime de dedicação exclusiva será efectivado a partir do dia 1 do mês seguinte ao da entrega da declaração de renúncia a que se refere o n.º 1 do artigo 3.º, ou, no caso de se tratar de situação de ingresso na carreira, a partir da data do início efectivo das funções.
 
 3 - O pessoal que, à data da entrada em vigor do presente diploma, se encontra em regime de dedicação exclusiva ao abrigo da legislação vigente transita para o novo regime, independentemente de qualquer formalidade.
 
-###### Art. 6.º - 1 - As normas legais aplicáveis à cessação do regime de dedicação exclusiva, ao regresso ao mesmo e à sua fiscalização, bem como no raso de violação do compromisso a que se refere o artigo 3.º, serão definidas pelo Governo.
+Art. 6.º - 1 - As normas legais aplicáveis à cessação do regime de dedicação exclusiva, ao regresso ao mesmo e à sua fiscalização, bem como no raso de violação do compromisso a que se refere o artigo 3.º, serão definidas pelo Governo.
 
 2 - Em tudo o que não contrarie o disposto no presente diploma mantêm-se em vigor as actuais normas sobre as matérias a que se refere o número anterior, enquanto as mesmas não forem objecto de alteração.
 
@@ -161,22 +198,22 @@ i) Actividades exercidas, quer no âmbito de contratos entre a instituição a q
 
 4 - Até à revisão geral do regime de dedicação exclusiva, a cessação do exercício de funções naquele regime implica a impossibilidade de regresso à mesma situação antes do decurso de um ano após aquela cessação.
 
-###### Art. 7.º - 1 - Os investigadores em regime de dedicação exclusiva só podem exercer funções docentes no ensino superior particular e cooperativo a título gracioso e desde que tal resulte de protocolo de colaboração entre as respectivas instituições.
+Art. 7.º - 1 - Os investigadores em regime de dedicação exclusiva só podem exercer funções docentes no ensino superior particular e cooperativo a título gracioso e desde que tal resulte de protocolo de colaboração entre as respectivas instituições.
 
 2 - Os investigadores em regime de tempo integral só podem exercer cumulativamente funções docentes no ensino superior particular e cooperativo e quaisquer actividades de formação com carácter regular até aos limites previstos no [Decreto-Lei n.º 378/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1986-221116), de 10 de Novembro, mediante autorização prévia do órgão de direcção da respectiva instituição.
 
-###### Art. 8.º São revogadas as normas que contrariem o disposto no presente diploma.
+Art. 8.º São revogadas as normas que contrariem o disposto no presente diploma.
 
-###### Art. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1987.
+Art. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1987.**
+Referendado em 10 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

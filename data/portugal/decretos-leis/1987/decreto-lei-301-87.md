@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/17700/30223022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1987-417074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 181b3e0684df5f789012d76cb43f788fe204bc16ccfdc2af1afc3e69095f595f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5599c044220122ef3875d595e0bbeb054245f292f9bf46b7c2e13157c5c880f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desemprego
+- Isenção Fiscal
+- Política de Emprego
+- Posto de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:421642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666324:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:02Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +124,7 @@ Nestes termos:
 
 No uso da autorização legislativa concedida pelo n.º 5 do artigo 30.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É considerado custo do exercício, nos termos e para o efeito do disposto no artigo 26.º do Código da Contribuição Industrial (CCI), o dobro da verba despendida com salários de novos postos de trabalho, nas seguintes condições:
+Artigo 1.º - 1 - É considerado custo do exercício, nos termos e para o efeito do disposto no artigo 26.º do Código da Contribuição Industrial (CCI), o dobro da verba despendida com salários de novos postos de trabalho, nas seguintes condições:
 
 a) Serem os postos de trabalho criados com carácter permanente durante os anos de 1987 e 1988;
 
@@ -112,18 +134,18 @@ b) Que o local de trabalho seja em concelho com especial incidência de desempre
 
 3 - Os concelhos abrangidos pelo disposto na alínea b) do número anterior são os denominados concelhos de «origem» pela alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 225/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1987-421642), de 5 de Junho, e estabelecidos nos termos do n.º 3 do mesmo preceito.
 
-###### Art. 2.º Deverão as empresas juntar às declarações modelos n.os 2 e 3, de que tratam os artigos 45.º e 55.º do CCI, documento, passado pelo Instituto do Emprego e Formação Profissional, que confirme os novos postos de trabalho criados com carácter permanente no respectivo ano, os salários pagos e a localização em concelho com especial incidência de desemprego.
+Art. 2.º Deverão as empresas juntar às declarações modelos n.os 2 e 3, de que tratam os artigos 45.º e 55.º do CCI, documento, passado pelo Instituto do Emprego e Formação Profissional, que confirme os novos postos de trabalho criados com carácter permanente no respectivo ano, os salários pagos e a localização em concelho com especial incidência de desemprego.
 
-###### Art. 3.º O presente benefício fiscal é aplicável aos salários pagos durante os exercícios dos anos de 1987 e 1988.
+Art. 3.º O presente benefício fiscal é aplicável aos salários pagos durante os exercícios dos anos de 1987 e 1988.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda - Joaquim Maria Fernandes Marques.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1987.**
+Referendado em 23 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09700/16761677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1988-285370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a557be848a7fbb8c3ff97fdc9557663b83342327991cbcc81ff37b3c6f1fb1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb6f21f43adb7daa46d42ab2395475d4c2d2f42e546014dc2274a30e77d28245
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:357877:por
+  label: "Alterados os artigos 28.º, 29.º na redacção do presente diploma, e 30.º do Decreto-Lei 328/86, de 30 de Setembro,\
+    \ DR.IS [225], pelo DEC LEI.434/88.21.11.1988.MCT, DR.IS [269] de 21.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-1988-357877
+  date: '1988-11-21'
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]de\
+    \ 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:42Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +130,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O corpo do n.º 1 do artigo 2.º e a respectiva alínea c), o corpo do artigo 3.º, as alíneas a) e e) do n.º 1 do artigo 4.º, as alíneas b), c) e f) do n.º 1 do artigo 5.º, o n.º 3 do artigo 15.º, o n.º 3 do artigo 16.º, os n.os 2 e 3 do artigo 18.º, o n.º 1 do artigo 20.º, o artigo 28.º, o artigo 29.º e as alíneas a) e c) do n.º 1 do artigo 36.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º O corpo do n.º 1 do artigo 2.º e a respectiva alínea c), o corpo do artigo 3.º, as alíneas a) e e) do n.º 1 do artigo 4.º, as alíneas b), c) e f) do n.º 1 do artigo 5.º, o n.º 3 do artigo 15.º, o n.º 3 do artigo 16.º, os n.os 2 e 3 do artigo 18.º, o n.º 1 do artigo 20.º, o artigo 28.º, o artigo 29.º e as alíneas a) e c) do n.º 1 do artigo 36.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Para efeitos do estabelecido no artigo anterior, são atribuições do Ministério do Comércio e Turismo, pela Direcção-Geral do Turismo:
+Art. 2.º - 1 - Para efeitos do estabelecido no artigo anterior, são atribuições do Ministério do Comércio e Turismo, pela Direcção-Geral do Turismo:
 
 a) ...
 
@@ -108,13 +142,13 @@ c) Dar parecer sobre todas as operações de loteamento urbano desde que incluam
 
 2 - ...
 
-###### Art. 3.º No âmbito das atribuições que lhe são cometidas nos termos da alínea a) do n.º 1 do artigo anterior, cabe ao Ministério do Comércio e Turismo, pela Direcção-Geral do Turismo:
+Art. 3.º No âmbito das atribuições que lhe são cometidas nos termos da alínea a) do n.º 1 do artigo anterior, cabe ao Ministério do Comércio e Turismo, pela Direcção-Geral do Turismo:
 
 a) ...
 
 b) ...
 
-###### Art. 4.º - 1 - Para o desempenho das atribuições a que se refere a alínea b) do n.º 1 do artigo 2.º, cabe ao Ministério do Comércio e Turismo, pela Direcção-Geral do Turismo:
+Art. 4.º - 1 - Para o desempenho das atribuições a que se refere a alínea b) do n.º 1 do artigo 2.º, cabe ao Ministério do Comércio e Turismo, pela Direcção-Geral do Turismo:
 
 a) Aprovar, sem prejuízo da competência atribuída a outras entidades nos termos definidos na lei, a localização e os projectos dos estabelecimentos hoteleiros, com excepção dos classificados no grupo 8 a que se refere o n.º 1 do artigo 12.º, e dos demais empreendimentos referidos nas alíneas seguintes;
 
@@ -144,7 +178,7 @@ m ...
 
 3 - ...
 
-###### Art. 5.º - 1 - Compete às câmara municipais, nos termos estabelecidos neste diploma e suas disposições regulamentares:
+Art. 5.º - 1 - Compete às câmara municipais, nos termos estabelecidos neste diploma e suas disposições regulamentares:
 
 a) ...
 
@@ -160,7 +194,7 @@ f) Aplicar, nos termos da lei, sanções por infracções ao disposto no present
 
 2 - ...
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
@@ -168,7 +202,7 @@ f) Aplicar, nos termos da lei, sanções por infracções ao disposto no present
 
 4 - ...
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - ...
 
@@ -176,7 +210,7 @@ f) Aplicar, nos termos da lei, sanções por infracções ao disposto no present
 
 4 - ...
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - Para este efeito, entendem-se por alojamentos particulares os quartos, moradias ou apartamentos que sejam utilizados por turistas, sem obrigatoriedade da prestação de qualquer serviço.
 
@@ -184,7 +218,7 @@ f) Aplicar, nos termos da lei, sanções por infracções ao disposto no present
 
 4 - ...
 
-###### Art. 20.º - 1 - Os processos respeitantes à construção e instalação dos empreendimentos referidos no n.º 1 do artigo anterior serão organizados:
+Art. 20.º - 1 - Os processos respeitantes à construção e instalação dos empreendimentos referidos no n.º 1 do artigo anterior serão organizados:
 
 a) Pela Direcção-Geral do Turismo os respeitantes aos estabelecimentos hoteleiros, salvo os classificados no grupo 8 a que se refere o n.º 1 do artigo 12.º, aos conjuntos turísticos, aos meios complementares de alojamento turístico, empreendimentos de animação, culturais e desportivos de interesse para o turismo e aos estabelecimentos similares dos hoteleiros neles integrados;
 
@@ -192,11 +226,11 @@ b) Pelas câmaras municipais os respeitantes aos estabelecimentos hoteleiros cla
 
 2 - ...
 
-###### Art. 28.º - 1 - Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro, e no n.º 4 do artigo 24.º do presente diploma, a aprovação da localização dos empreendimentos abrangidos pela alínea a) do n.º 1 do artigo 20.º carece de parecer favorável, em matéria de ordenamento do território, da comissão de coordenação regional da área.
+Art. 28.º - 1 - Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro, e no n.º 4 do artigo 24.º do presente diploma, a aprovação da localização dos empreendimentos abrangidos pela alínea a) do n.º 1 do artigo 20.º carece de parecer favorável, em matéria de ordenamento do território, da comissão de coordenação regional da área.
 
-###### Art. 29.º - 1 - O parecer a que se refere o artigo anterior será emitido no prazo de 45 dias a contar da data de recepção do processo na comissão de coordenação regional ou da data de recepção do último dos elementos necessários à adequada instrução do processo.
+Art. 29.º - 1 - O parecer a que se refere o artigo anterior será emitido no prazo de 45 dias a contar da data de recepção do processo na comissão de coordenação regional ou da data de recepção do último dos elementos necessários à adequada instrução do processo.
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 a) Da Direcção-Geral do Turismo, quando se tratar de algum dos empreendimentos referidos na alínea a) do n.º 1 do artigo 20.º;
 
@@ -208,18 +242,18 @@ d) ...
 
 2 - ...
 
-###### Art. 2.º Ao artigo 3.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697) é aditada uma alínea c), do seguinte teor:
+Art. 2.º Ao artigo 3.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697) é aditada uma alínea c), do seguinte teor:
 
 c) Dar parecer sobre todos os projectos de loteamento urbano desde que situados em zonas ou regiões de turismo, ou fora delas, mas, em ambos os casos, sempre que esses projectos incluam qualquer empreendimento cuja aprovação esteja dentro das atribuições e competência da DGT ou se situem em áreas confinantes a tais empreendimentos.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 12 de Abril de 1988.**
+Promulgado em 12 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1988.**
+Referendado em 15 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

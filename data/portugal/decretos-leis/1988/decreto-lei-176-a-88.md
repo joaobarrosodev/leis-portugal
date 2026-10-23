@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 115/1988, 1º Suplemento, Série I de 1988-05-18
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2110-(2) a 2110-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11501/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeb54e5d00550e9aaa2ee6dec5d2520c9078b59b3fd09352cfb416a415a0a9c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e3ded33e3b7990ebbe7ee747339b9565c5d67ed996f3a65bc5917988ed3e82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ordenamento do Território
+- Plano Regional de Ordenamento do Território
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:429407:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564664:por
+  label: Alterados os arts. 3.º, 9.º e 11.º pelo DEC LEI.367/90.26.11.1990.MPLAT, DR.IS [273] de 26.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1990-564664
+  date: '1990-11-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADOS OS ART 16 A 23 E ALTERADA A NUMERACAO DOS ART 16 E, OS QUAIS PASSAM A 24 E 25, RESPECTIVAMENTE, PELO DEC\
+    \ LEI DE 12-OUT DR.IS-A [236]S\0S"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-12'
+- type: amended_by
+  target: pt:dre:619147:por
+  label: "Aditados os art.s 16º a 23º e renumerados os anteriores art.s 16º e 17º - que passam a art.s 24º e 25º -, pelo DEC\
+    \ LEI.249/94.1994.10.12.MPLAT, DR.IS-A [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1994-619147
+  date: '1994-10-12'
+- type: amended_by
+  target: pt:dre:690074:por
+  label: "Alterado o art. 11º, com a redacção que lhe foi dada pelo Dec Lei 367/90 de 26-Nov, pelo DEC LEI.309/95.1995.11.20.MPLAT,\
+    \ DR.IS-A [268]\068]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1995-690074
+  date: '1995-11-20'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:559019:por
+  label: "Revogado pelo DEC LEI.380/99.1999.09.22.MEPAT, DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1999-559019
+  date: '1999-09-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:10Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +149,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os planos regionais de ordenamento do território, adiante designados por PROT, são instrumentos de carácter programático e normativo visando o correcto ordenamento do território através do desenvolvimento harmonioso das suas diferentes parcelas pela optimização das implantações humanas e do uso do espaço e pelo aproveitamento racional dos seus recursos.
+Artigo 1.º Os planos regionais de ordenamento do território, adiante designados por PROT, são instrumentos de carácter programático e normativo visando o correcto ordenamento do território através do desenvolvimento harmonioso das suas diferentes parcelas pela optimização das implantações humanas e do uso do espaço e pelo aproveitamento racional dos seus recursos.
 
-###### Art. 2.º Os PROT abrangem áreas pertencentes a mais de um município, definidas quer pela sua homogeneidade em termos económicos, ecológicos ou outros, quer por representarem interesses ou preocupações que, pela sua interdependência, necessitam de consideração integrada.
+Art. 2.º Os PROT abrangem áreas pertencentes a mais de um município, definidas quer pela sua homogeneidade em termos económicos, ecológicos ou outros, quer por representarem interesses ou preocupações que, pela sua interdependência, necessitam de consideração integrada.
 
-###### Art. 3.º Os PROT têm por objectivo:
+Art. 3.º Os PROT têm por objectivo:
 
 a) Concretizar para a área por eles abrangida a política de ordenamento;
 
@@ -118,7 +161,7 @@ b) Definir as opções e estabelecer os critérios de organização e uso do esp
 
 c) Estabelecer normas gerais de ocupação e utilização que permitam fundamentar um correcto zonamento, utilização e gestão do território abrangido, tendo em conta a salvaguarda de valores naturais e culturais.
 
-###### Art. 4.º - 1 - A elaboração dos PROT é determinada mediante resolução do Conselho de Ministros, ouvidas as câmaras municipais envolvidas, devendo, nomeadamente, constar da referida resolução:
+Art. 4.º - 1 - A elaboração dos PROT é determinada mediante resolução do Conselho de Ministros, ouvidas as câmaras municipais envolvidas, devendo, nomeadamente, constar da referida resolução:
 
 a) A definição da área a abranger pelo PROT;
 
@@ -128,27 +171,27 @@ c) A composição da comissão consultiva do PROT.
 
 2 - A comissão consultiva do PROT será constituída por um representante da Direcção-Geral do Ordenamento do Território, que presidirá, um representante da comissão de coordenação regional, um representante de cada uma das câmaras municipais dos municípios em território abrangido pelo PROT e ainda por representantes de outras entidades públicas ou privadas cuja representação seja considerada relevante.
 
-###### Art. 5.º - 1 - Na sequência da decisão de elaborar um PROT pode o Governo, sob proposta da comissão de coordenação regional, ouvida a comissão consultiva do PROT, estabelecer medidas preventivas destinadas a evitar alterações das circunstâncias e condições existentes que possam comprometer a sua execução ou torná-la mais difícil ou onerosa.
+Art. 5.º - 1 - Na sequência da decisão de elaborar um PROT pode o Governo, sob proposta da comissão de coordenação regional, ouvida a comissão consultiva do PROT, estabelecer medidas preventivas destinadas a evitar alterações das circunstâncias e condições existentes que possam comprometer a sua execução ou torná-la mais difícil ou onerosa.
 
 2 - As medidas preventivas previstas no número anterior regem-se pelas disposições contidas no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, em tudo o que não for contrário ao estabelecido no presente diploma.
 
-###### Art. 6.º - 1 - A elaboração de um PROT é da competência do Ministério do Planeamento e da Administração do Território, através da competente comissão de coordenação regional, com a colaboração da respectiva comissão consultiva e dos departamentos da administração central interessados, bem como dos municípios abrangidos.
+Art. 6.º - 1 - A elaboração de um PROT é da competência do Ministério do Planeamento e da Administração do Território, através da competente comissão de coordenação regional, com a colaboração da respectiva comissão consultiva e dos departamentos da administração central interessados, bem como dos municípios abrangidos.
 
 2 - Para a elaboração do PROT pode ser solicitada a realização de estudos por entidades alheias à Administração.
 
-###### Art. 7.º A elaboração de cada PROT será apoiada, técnica e institucionalmente, por uma comissão consultiva especialmente constituída para o efeito, à qual compete colaborar na definição e programação dos trabalhos a realizar, e, designadamente:
+Art. 7.º A elaboração de cada PROT será apoiada, técnica e institucionalmente, por uma comissão consultiva especialmente constituída para o efeito, à qual compete colaborar na definição e programação dos trabalhos a realizar, e, designadamente:
 
 a) Identificar e considerar os planos, programas e projectos, já existentes ou em prepararão, com eventual implicação para o PROT e assegurar as necessárias compatibilizações;
 
 b) Assegurar a divulgação da informação pertinente para o PROT.
 
-###### Art. 8.º - 1 - A comissão consultiva do PROT reúne sob convocatória da comissão de coordenação regional pelo menos uma vez em cada dois meses.
+Art. 8.º - 1 - A comissão consultiva do PROT reúne sob convocatória da comissão de coordenação regional pelo menos uma vez em cada dois meses.
 
 2 - A primeira reunião da comissão consultiva deverá efectuar-se no prazo de 90 dias a contar da data da resolução do Conselho de Ministros que determinar a elaboração do PROT.
 
 3 - Nas primeiras reuniões a comissão consultiva deve apreciar a proposta da comissão de coordenação regional sobre o programa, calendário e forma de execução dos trabalhos.
 
-###### Art. 9.º - 1 - O PROT será constituído por um relatório e um regulamento.
+Art. 9.º - 1 - O PROT será constituído por um relatório e um regulamento.
 
 2 - O relatório do PROT incluirá peças escritas e gráficas e terá em conta, necessariamente, os seguintes elementos:
 
@@ -174,7 +217,7 @@ j) Estratégia nacional de conservação da natureza.
 
 3 - Do regulamento do PROT constará o regime de ocupação e utilização do território para cada área, através da sua afectação a uma dada vocação.
 
-###### Art. 10.º - 1 - Antes de elaborar o seu parecer final sobre o PROT, a comissão consultiva promoverá consultas às populações sobre o seu conteúdo e propostas.
+Art. 10.º - 1 - Antes de elaborar o seu parecer final sobre o PROT, a comissão consultiva promoverá consultas às populações sobre o seu conteúdo e propostas.
 
 2 - A consulta às populações referida no número anterior concretizar-se-á através de reuniões públicas, a realizar pelo menos na sede de cada um dos concelhos abrangidos pelo PROT.
 
@@ -188,7 +231,7 @@ j) Estratégia nacional de conservação da natureza.
 
 7 - Na sequência das reuniões referidas poderá a comissão consultiva recomendar a alteração do PROT.
 
-###### Art. 11.º - 1 - A elaboração do PROT deve estar concluída no prazo de dezoito meses contados da data da resolução referida no artigo 4.º
+Art. 11.º - 1 - A elaboração do PROT deve estar concluída no prazo de dezoito meses contados da data da resolução referida no artigo 4.º
 
 2 - Após proposta devidamente fundamentada da comissão de coordenação regional, pode o Ministro do Planeamento e da Administração do Território, mediante despacho a publicar no Diário da República, prorrogar o prazo referido no número anterior por período não superior a dezoito meses.
 
@@ -196,30 +239,30 @@ j) Estratégia nacional de conservação da natureza.
 
 4 - Os PROT serão aprovados por resolução do Conselho de Ministros.
 
-###### Art. 12.º - 1 - As normas e princípios constantes dos PROT são vinculativos para todas as entidades públicas e privadas, devendo com eles ser compatibilizados quaisquer outros planos, programas ou projectos de carácter nacional, regional ou local.
+Art. 12.º - 1 - As normas e princípios constantes dos PROT são vinculativos para todas as entidades públicas e privadas, devendo com eles ser compatibilizados quaisquer outros planos, programas ou projectos de carácter nacional, regional ou local.
 
 2 - A desconformidade de quaisquer planos, programas ou projectos enunciados no número anterior relativamente ao PROT acarreta a respectiva nulidade.
 
-###### Art. 13.º A revisão de um PROT, determinada por alteração significativa das circunstâncias ou dos objectivos que o fundamentaram, segue o processo definido no presente diploma para a sua elaboração e aprovação.
+Art. 13.º A revisão de um PROT, determinada por alteração significativa das circunstâncias ou dos objectivos que o fundamentaram, segue o processo definido no presente diploma para a sua elaboração e aprovação.
 
-###### Art. 14.º - 1 - As comissões de coordenação regional documentarão os processos dos PROT com todos os estudos realizados, bem como as peças que expressem as diligências, pareceres, informações, observações e autorizações suscitados pela sua elaboração, apreciação, aprovação e eventuais revisões.
+Art. 14.º - 1 - As comissões de coordenação regional documentarão os processos dos PROT com todos os estudos realizados, bem como as peças que expressem as diligências, pareceres, informações, observações e autorizações suscitados pela sua elaboração, apreciação, aprovação e eventuais revisões.
 
 2 - Os processos mencionados no número anterior são públicos e poderão ser consultados na sede da comissão de coordenação regional respectiva.
 
-###### Art. 15.º As comissões de coordenação regional que, à data da entrada em vigor do presente diploma, tenham iniciado a elaboração de instrumentos de planeamento que se enquadrem no instrumento agora criado poderão, caso seja determinada a elaboração de um PROT, utilizar e nele integrar os estudos já realizados.
+Art. 15.º As comissões de coordenação regional que, à data da entrada em vigor do presente diploma, tenham iniciado a elaboração de instrumentos de planeamento que se enquadrem no instrumento agora criado poderão, caso seja determinada a elaboração de um PROT, utilizar e nele integrar os estudos já realizados.
 
-###### Art. 16.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira com as adaptações decorrentes da transferência de competências do Governo para os respectivos órgãos de governo próprio.
+Art. 16.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira com as adaptações decorrentes da transferência de competências do Governo para os respectivos órgãos de governo próprio.
 
-###### Art. 17.º É revogado o [Decreto-Lei n.º 338/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1983-453798), de 20 de Julho.
+Art. 17.º É revogado o [Decreto-Lei n.º 338/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1983-453798), de 20 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José Manuel Nunes Liberato - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

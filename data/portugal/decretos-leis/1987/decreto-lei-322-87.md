@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/19700/33323332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1987-418039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b1bc547c5e3155f38fc0396a31ccf56df68102c5e19f1312f533018650a78b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efb628263d2408ca9d5776868256e2e2ec23dfcb56f36f6c9cf78046a6bdf2c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Direito de Estabelecimento
+- Enfermagem
+- Formação Profissional
+- Livre Prestação de Serviços
+- Pessoal de Enfermagem
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:3441734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150511:por
+  label: "Alterado o artigo 1.º pelo DEC LEI.15/92.04.02.1992.MS, DR.IS-A [29] de 04.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1992-150511
+  date: '1992-02-04'
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:22Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +118,7 @@ Havendo, assim, que dar cumprimento às disposições constantes da Directiva n.
 
 No desenvolvimento dos princípios constantes da Resolução da Assembleia da República n.º 22/85, o Governo decreta, nos termos da alínea c) do n.º 1 artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A duração mínima do curso de especialização em enfermagem de saúde materna e obstétrica é de dezoito meses, a tempo inteiro, subordinado à posse de um diploma, certificado ou outro título de enfermeiro responsável por cuidados gerais referido no artigo 3.º da Directiva n.º [77/452/CEE](https://data.europa.eu/eli/dir/1977/452/oj?locale=pt), incluindo, de forma integrada, o ensino teórico e prático e incidindo obrigatoriamente, no mínimo, sobre as seguintes matérias:
+Artigo 1.º A duração mínima do curso de especialização em enfermagem de saúde materna e obstétrica é de dezoito meses, a tempo inteiro, subordinado à posse de um diploma, certificado ou outro título de enfermeiro responsável por cuidados gerais referido no artigo 3.º da Directiva n.º [77/452/CEE](https://data.europa.eu/eli/dir/1977/452/oj?locale=pt), incluindo, de forma integrada, o ensino teórico e prático e incidindo obrigatoriamente, no mínimo, sobre as seguintes matérias:
 
 1) Ensino teórico e técnico:
 
@@ -146,22 +164,22 @@ Vigilância e cuidados a parturientes e recém-nascidos, incluindo crianças nas
 
 Cuidados a dispensar em situações patológicas no domínio da ginecologia e da obstetrícia, das doenças dos recém-nascidos e dos lactentes.
 
-###### Art. 2.º O ensino prático será efectuado sob a forma de estágios em estabelecimentos ou serviços reconhecidos pelo Ministério da Saúde, sob orientação de pessoal qualificado em obstetrícia, participando os alunos nas respectivas actividades na medida em que elas contribuírem para a sua formação.
+Art. 2.º O ensino prático será efectuado sob a forma de estágios em estabelecimentos ou serviços reconhecidos pelo Ministério da Saúde, sob orientação de pessoal qualificado em obstetrícia, participando os alunos nas respectivas actividades na medida em que elas contribuírem para a sua formação.
 
-###### Art. 3.º Os planos de estudos e programas em cumprimento do preceituado nos artigos anteriores serão aprovados por despacho do Ministro da Saúde, com intervenção, quando for caso disso, dos respectivos ministros da tutela, e publicados no Diário da República.
+Art. 3.º Os planos de estudos e programas em cumprimento do preceituado nos artigos anteriores serão aprovados por despacho do Ministro da Saúde, com intervenção, quando for caso disso, dos respectivos ministros da tutela, e publicados no Diário da República.
 
-###### Art. 4.º - 1 - As escolas farão depender a concessão dos diplomas do curso de especialização em enfermagem de saúde materna e obstétrica da aprovação no referido curso.
+Art. 4.º - 1 - As escolas farão depender a concessão dos diplomas do curso de especialização em enfermagem de saúde materna e obstétrica da aprovação no referido curso.
 
 2 - Estes diplomas deverão mencionar expressamente que os seus titulares são possuidores do curso de especialização em enfermagem de saúde materna e obstétrica, que confere habilitação como enfermeiro especialista em enfermagem de saúde materna e obstétrica.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1987. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 13 de Agosto de 1987.**
+Promulgado em 13 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SARES.**
+O Presidente da República, MÁRIO SARES.
 
-**Referendado em 15 de Agosto de 1987.**
+Referendado em 15 de Agosto de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

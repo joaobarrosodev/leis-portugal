@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11600/21152117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1988-374663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23b524f501792de56ebc272589a06bc428733be996d81799e4ada0adc00d3dfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7473818726309ba19cfbce54664797a149c53d1160aa53920f96eb3984eeb499
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Cidadão Estrangeiro
+- Contribuições e Impostos
+- Importação
+- Impostos Indirectos
+- Isenção Fiscal
+- IVA
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:243747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:550442:por
+  label: "Alterados os arts. 2.º e 5.º, pela LEI.96/89.1989.12.12.AR DR.IS [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/96-1989-550442
+  date: '1989-12-12'
+- type: amended_by
+  target: pt:dre:469072:por
+  label: Alterados os arts. 2.º e 5.º (na redacção da Lei 96/89, de 12-Dez), pela LEI.65/90.1990.12.28.AR, DR.IS [298]3ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1990-469072
+  date: '1990-12-28'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterados os arts. 2.º e 5.º pela LEI.2/92.1992.03.09.AR DR.IS-A [57]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:621714:por
+  label: "Alterados os arts. 3º e 4º, revogados os arts. 2º, 5º, 6º e 7º e eliminada a coluna 2 do mapa I, bem como o mapa\
+    \ II, anexo ao presente diploma, pelo DEC LEI.290/92.1992.12.28.MF, DR.IS-A [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1992-621714
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:480957:por
+  label: "Alterado o art. 1º pelo DEC LEI.202/95.1995.08.03.MF, DR.IS-A [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1995-480957
+  date: '1995-08-03'
+- type: repealed_by
+  target: pt:dre:243747:por
+  label: Revogado o presente diploma, na redação das Leis 96/89 de 12-dez, 65/90 de 28-dez, e 2/92 de 09-mar, e dos Decs Leis
+    290/92 de 28-dez e 202/95 de 03-ago, pela Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I
+    de 2008-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:12Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +137,7 @@ Assim:
 
 No uso da autorização concedida pela alínea d) do artigo 44.º da Lei n.º 2/88, de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As mercadorias contidas na bagagem pessoal dos viajantes procedentes de um Estado que não seja membro das Comunidades Europeias são isentas, na importação, de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo, desde que:
+Artigo 1.º - 1 - As mercadorias contidas na bagagem pessoal dos viajantes procedentes de um Estado que não seja membro das Comunidades Europeias são isentas, na importação, de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo, desde que:
 
 a) Constituam importações desprovidas de carácter comercial;
 
@@ -103,7 +145,7 @@ b) O seu valor global, impostos incluídos, não exceda 7500$00 por viajante.
 
 2 - O limite da isenção previsto na alínea b) do número anterior é reduzido para o montante de 3750$00, impostos incluídos, relativamente aos viajantes de idade inferior a 15 anos.
 
-###### Art. 2.º - 1 - As mercadorias contidas na bagagem pessoal dos viajantes procedentes de um Estado membro da Comunidade Económica Europeia que satisfaçam as condições previstas nos artigos 9.º e 10.º do [tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) são isentas, na importação, de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo, desde que:
+Art. 2.º - 1 - As mercadorias contidas na bagagem pessoal dos viajantes procedentes de um Estado membro da Comunidade Económica Europeia que satisfaçam as condições previstas nos artigos 9.º e 10.º do [tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) são isentas, na importação, de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo, desde que:
 
 a) Tenham sido adquiridas de acordo com as condições gerais de tributação do mercado interno de um Estado membro e não beneficiem na exportação de qualquer isenção ou reembolso de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo;
 
@@ -113,7 +155,7 @@ c) O seu valor global, impostos incluídos, não exceda 60000$00 por viajante.
 
 2 - O limite previsto na alínea c) do número anterior é reduzido para o montante de 15000$00, impostos incluídos, relativamente a viajantes de idade inferior a 15 anos.
 
-###### Art. 3.º - 1 - O valor dos bens pessoais importados temporariamente ou reimportados após a sua exportação temporária não é considerado para efeitos da determinação dos limites das isenções previstas nos artigos 1.º e 2.º
+Art. 3.º - 1 - O valor dos bens pessoais importados temporariamente ou reimportados após a sua exportação temporária não é considerado para efeitos da determinação dos limites das isenções previstas nos artigos 1.º e 2.º
 
 2 - São consideradas como desprovidas de carácter comercial as importações que tenham um carácter ocasional e respeitem exclusivamente a mercadorias reservadas ao uso pessoal ou familiar dos viajantes ou que se destinem a oferta, não devendo traduzir, quer pela sua natureza, quer pela sua quantidade, qualquer preocupação de ordem comercial.
 
@@ -123,7 +165,7 @@ c) O seu valor global, impostos incluídos, não exceda 60000$00 por viajante.
 
 5 - Quando o valor global de várias mercadorias exceder, por viajante, os montantes previstos nos artigos 1.º ou 2.º, a isenção será concedida até ao limite dos respectivos montantes para aquelas mercadorias que, importadas separadamente, teriam podido beneficiar da isenção, entendendo-se que o valor de uma mercadoria não pode ser fraccionado.
 
-###### Art. 4.º - 1 - Sem prejuízo do disposto nos artigos 1.º e 2.º, as mercadorias constantes do mapa I anexo ao presente diploma só serão isentas de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo dentro dos limites quantitativos nele indicados.
+Art. 4.º - 1 - Sem prejuízo do disposto nos artigos 1.º e 2.º, as mercadorias constantes do mapa I anexo ao presente diploma só serão isentas de imposto sobre o valor acrescentado e de impostos especiais sobre o consumo dentro dos limites quantitativos nele indicados.
 
 2 - Os viajantes de idade inferior a 17 anos não beneficiam de qualquer isenção relativamente às mercadorias referidas nas alíneas a) e b) do mapa I.
 
@@ -131,7 +173,7 @@ c) O seu valor global, impostos incluídos, não exceda 60000$00 por viajante.
 
 4 - O valor das mercadorias mencionadas no mapa I que se encontrem dentro dos limites quantitativos referidos nas colunas I ou II do mesmo, e tendo em conta as restrições dos números anteriores, não é considerado para efeitos da determinação dos montantes do valor global das isenções previstas, respectivamente, nos artigos 1.º e 2.º
 
-###### Art. 5.º - 1 - Os montantes do valor global da isenção referida no n.º 1 do artigo 1.º e no artigo 2.º são reduzidos para 6000$00, impostos incluídos, sempre que se trate dos seguintes viajantes:
+Art. 5.º - 1 - Os montantes do valor global da isenção referida no n.º 1 do artigo 1.º e no artigo 2.º são reduzidos para 6000$00, impostos incluídos, sempre que se trate dos seguintes viajantes:
 
 a) Residentes na zona fronteiriça;
 
@@ -153,7 +195,7 @@ b) Trabalhador fronteiriço, todas as pessoas que, por força da sua actividade 
 
 6 - As mercadorias das posições 71.07 e 71.08 da Pauta dos Direitos de Importação são excluídas da isenção a que se refere o n.º 1 do presente artigo.
 
-###### Art. 6.º - 1 - Os viajantes procedentes de um outro Estado membro devem justificar que as mercadorias transportadas como bagagem satisfazem as condições previstas na alínea a) do n.º 1 do artigo 2.º, sempre que:
+Art. 6.º - 1 - Os viajantes procedentes de um outro Estado membro devem justificar que as mercadorias transportadas como bagagem satisfazem as condições previstas na alínea a) do n.º 1 do artigo 2.º, sempre que:
 
 a) No decurso da viagem tenham estado em trânsito no território de um Estado que não seja membro das Comunidades Europeias, não se considerando trânsito, nesta acepção, o acto de sobrevoar um território sem aterragem;
 
@@ -161,27 +203,27 @@ b) Tenham iniciado a viagem numa parcela de território de um outro Estado membr
 
 2 - Se os viajantes não puderem apresentar a justificação a que se refere o número anterior, a isenção apenas será concedida até aos limites dos montantes referidos no artigo 1.º e das quantidades enumeradas na coluna I do mapa I.
 
-###### Art. 7.º - 1 - Os serviços aduaneiros devem visar os impressos conducentes ao desagravamento fiscal do imposto suportado no Estado membro de procedência pelas mercadorias transportadas como bagagem quando os viajantes o solicitem no momento da declaração aduaneira.
+Art. 7.º - 1 - Os serviços aduaneiros devem visar os impressos conducentes ao desagravamento fiscal do imposto suportado no Estado membro de procedência pelas mercadorias transportadas como bagagem quando os viajantes o solicitem no momento da declaração aduaneira.
 
 2 - São excluídas do regime de isenção previsto neste diploma as mercadorias transportadas como bagagem, ainda que o seu valor global seja inferior ao previsto no artigo 2.º, sempre que os serviços aduaneiros visem os impressos referidos no número anterior.
 
-###### Art. 8.º O imposto sobre o valor acrescentado e os impostos especiais sobre o consumo não serão cobrados quando o seu montante global for igual ou inferior a 1000$00.
+Art. 8.º O imposto sobre o valor acrescentado e os impostos especiais sobre o consumo não serão cobrados quando o seu montante global for igual ou inferior a 1000$00.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 6 de Maio de 1988.**
+Promulgado em 6 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1988.**
+Referendado em 10 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11600/21152117.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11600/21152117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11600/21152117.pdf)
 
 Mapa II
 

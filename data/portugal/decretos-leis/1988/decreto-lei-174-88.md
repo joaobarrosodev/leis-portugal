@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11400/20642065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1988-374802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2ff75ab875d830cd0dc23955ca84b61833b7d27e00d55b62165630a76ae5f13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4e5c248d4c7eaf0eb27416993e4e658758bfff911534f730920c86c53660ce1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Florestal
 relationships:
 - type: amended_by
   target: pt:dre:136900600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553442:por
+  label: Mantido em vigor o presente diploma pelo(a) Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13,
+    nos termos do disposto no n.º 2 do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2012-553442
+  date: '2012-03-13'
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP,\
+    \ DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
+- type: repealed_by
+  target: pt:dre:136900600:por
+  label: Revogado, a partir de 27.12.2020, pelo(a) Decreto-Lei n.º 31/2020 - Diário da República n.º 125/2020, Série I de
+    2020-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2020-136900600
+  date: '2020-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:08Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +119,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É obrigatória a declaração do corte ou arranque de árvores florestais que se destinem a venda ou ao autoconsumo para transformação industrial.
+Artigo 1.º É obrigatória a declaração do corte ou arranque de árvores florestais que se destinem a venda ou ao autoconsumo para transformação industrial.
 
-###### Art. 2.º A declaração referida no artigo 1.º será feita através de manifesto, segundo modelo anexo, a fornecer pela Direcção-Geral das Florestas, um para cada prédio, e aplica-se a arranques, cortes, desbastes ou cortes extraordinários.
+Art. 2.º A declaração referida no artigo 1.º será feita através de manifesto, segundo modelo anexo, a fornecer pela Direcção-Geral das Florestas, um para cada prédio, e aplica-se a arranques, cortes, desbastes ou cortes extraordinários.
 
-###### Art. 3.º Para efeitos do artigo anterior entende-se por:
+Art. 3.º Para efeitos do artigo anterior entende-se por:
 
 a) Corte - qualquer corte que for executado no termo do ciclo económico de povoamentos florestais, manchas, faixas, cortinas arbóreas ou pés de árvores;
 
@@ -112,15 +131,15 @@ b) Desbaste - qualquer corte que for executado durante a fase do crescimento de 
 
 c) Corte extraordinário - qualquer corte que for executado antes do termo do ciclo económico de povoamentos florestais, manchas, faixas, cortinas arbóreas ou pés de árvores (razões fitossanitárias, incêndios florestais, ou por outras razões).
 
-###### Art. 4.º O preenchimento do manifesto é da responsabilidade solidária do produtor e do comprador quando o material lenhoso a que respeita for objecto de venda, ou exclusivamente do produtor quando se destina ao autoconsumo para transformação industrial.
+Art. 4.º O preenchimento do manifesto é da responsabilidade solidária do produtor e do comprador quando o material lenhoso a que respeita for objecto de venda, ou exclusivamente do produtor quando se destina ao autoconsumo para transformação industrial.
 
-###### Art. 5.º Consideram-se produtores florestais para efeitos do manifesto todas as pessoas singulares ou colectivas, públicas ou privadas, que explorem prédios arborizados com espécies florestais, sejam proprietárias ou rendeiros, e ainda todos aqueles que por contrato possam dispor do material lenhoso.
+Art. 5.º Consideram-se produtores florestais para efeitos do manifesto todas as pessoas singulares ou colectivas, públicas ou privadas, que explorem prédios arborizados com espécies florestais, sejam proprietárias ou rendeiros, e ainda todos aqueles que por contrato possam dispor do material lenhoso.
 
-###### Art. 6.º Quando o material lenhoso proveniente do mesmo prédio for adquirido por mais de uma entidade é obrigatório o preenchimento de um manifesto por cada um dos compradores.
+Art. 6.º Quando o material lenhoso proveniente do mesmo prédio for adquirido por mais de uma entidade é obrigatório o preenchimento de um manifesto por cada um dos compradores.
 
-###### Art. 7.º Os manifestos dos cortes deverão ser remetidos à Direcção-Geral das Florestas até 30 dias após a realização do corte, reservando-se aquela o direito de em qualquer momento verificar a veracidade das informações enviadas.
+Art. 7.º Os manifestos dos cortes deverão ser remetidos à Direcção-Geral das Florestas até 30 dias após a realização do corte, reservando-se aquela o direito de em qualquer momento verificar a veracidade das informações enviadas.
 
-###### Art. 8.º - 1 - A falta de remessa do manifesto de corte nos termos e no prazo definido no presente diploma constitui contra-ordenação punível com coima de 5000$00 a 100000$00.
+Art. 8.º - 1 - A falta de remessa do manifesto de corte nos termos e no prazo definido no presente diploma constitui contra-ordenação punível com coima de 5000$00 a 100000$00.
 
 2 - A negligência é punível.
 
@@ -128,24 +147,24 @@ c) Corte extraordinário - qualquer corte que for executado antes do termo do ci
 
 4 - O produto das coimas aplicadas reverterá para a Direcção-Geral das Florestas, como receita própria.
 
-###### Art. 9.º - 1 - Os elementos constantes dos manifestos têm carácter confidencial e destinam-se exclusivamente a dotar a Direcção-Geral das Florestas das informações indispensáveis à gestão do património florestal nacional.
+Art. 9.º - 1 - Os elementos constantes dos manifestos têm carácter confidencial e destinam-se exclusivamente a dotar a Direcção-Geral das Florestas das informações indispensáveis à gestão do património florestal nacional.
 
 2 - A Direcção-Geral das Florestas é responsável pelo tratamento e análise de toda a informação obtida, que será objecto de publicação periódica.
 
-###### Art. 10.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 10.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 29 de Abril de 1988.**
+Promulgado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Manifesto de corte ou arranque de árvores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11400/20642065.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11400/20642065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11400/20642065.pdf)

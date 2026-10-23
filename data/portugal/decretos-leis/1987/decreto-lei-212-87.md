@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1987-421656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc6b3d74887a390b8d9cdbc9fe9cd5db2f881577d1735181036b69a75df86abc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63fd7164cc16e4590ef9697e23788d5b4a47760e4bb0cb4ed5331a02add64a35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Contrato de Reequilibrio Financeiro
+- Crédito Bancário
+- JURO Bonificado
+relationships:
+- type: cites
+  target: pt:dre:180070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662905:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:35Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +111,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada uma linha de crédito até ao montante de 12 milhões de contos para saneamento financeiro dos municípios que recorram aos contratos de reequilíbrio financeiro, regulamentados pelo [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto.
+Artigo 1.º - 1 - É criada uma linha de crédito até ao montante de 12 milhões de contos para saneamento financeiro dos municípios que recorram aos contratos de reequilíbrio financeiro, regulamentados pelo [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto.
 
 2 - Para acesso à linha de crédito a que se refere o número anterior deverão os municípios interessados apresentar no Ministério do Plano e da Administração do Território até 31 de Dezembro de 1987 os documentos de candidatura previstos no artigo 5.º do [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto.
 
-###### Art. 2.º - 1 - Os empréstimos a celebrar ao abrigo do presente diploma destinam-se à consolidação ou liquidação de dívidas dos municípios formalmente constituídas até 31 de Dezembro de 1986.
+Art. 2.º - 1 - Os empréstimos a celebrar ao abrigo do presente diploma destinam-se à consolidação ou liquidação de dívidas dos municípios formalmente constituídas até 31 de Dezembro de 1986.
 
 2 - A consolidação ou liquidação de dívidas a que se refere o n.º 1 não inclui as dívidas dos municípios a empresas públicas não financeiras.
 
@@ -113,38 +125,38 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - As dívidas a que se refere o n.º 1 deverão ser pagas no período de utilização dos empréstimos.
 
-###### Art. 3.º A utilização da linha de crédito a que alude o artigo 1.º deste diploma processar-se-á mediante a assinatura obrigatória de representantes do Ministro do Plano e da Administração do Território e do município interessado e no prazo de seis meses a contar da data da celebração dos contratos.
+Art. 3.º A utilização da linha de crédito a que alude o artigo 1.º deste diploma processar-se-á mediante a assinatura obrigatória de representantes do Ministro do Plano e da Administração do Território e do município interessado e no prazo de seis meses a contar da data da celebração dos contratos.
 
-###### Art. 4.º Por acordo entre os mutuários e as instituições mutuantes, poderão ser prioritariamente afectas ao serviço da dívida dos empréstimos contraídos no âmbito deste diploma as verbas do Fundo de Equilíbrio Financeiro, cuja retenção na fonte será autorizada pelos municípios.
+Art. 4.º Por acordo entre os mutuários e as instituições mutuantes, poderão ser prioritariamente afectas ao serviço da dívida dos empréstimos contraídos no âmbito deste diploma as verbas do Fundo de Equilíbrio Financeiro, cuja retenção na fonte será autorizada pelos municípios.
 
-###### Art. 5.º A taxa de juro dos empréstimos integrados nos contratos de reequilíbrio financeiro, designada por r, será igual à taxa de juro praticada em operações activas de prazo idêntico deduzida das seguintes bonificações, cada uma delas arredondada para o múltiplo de quarto de ponto percentual mais próximo:
+Art. 5.º A taxa de juro dos empréstimos integrados nos contratos de reequilíbrio financeiro, designada por r, será igual à taxa de juro praticada em operações activas de prazo idêntico deduzida das seguintes bonificações, cada uma delas arredondada para o múltiplo de quarto de ponto percentual mais próximo:
 
 a) Bonificação entre 0,07 r, e 0,21 r, a suportar pelas instituições de crédito, conforme não tenham ou tenham créditos sobre o município cujas dívidas sejam objecto de consolidação nos termos deste diploma;
 
 b) Bonificação de 0,14 r, a suportar pelo Estado.
 
-###### Art. 6.º Estes empréstimos poderão beneficiar de um período de carência até cinco anos e o seu prazo total não poderá exceder quinze anos, devendo ser estabelecido em função da situação específica de cada município.
+Art. 6.º Estes empréstimos poderão beneficiar de um período de carência até cinco anos e o seu prazo total não poderá exceder quinze anos, devendo ser estabelecido em função da situação específica de cada município.
 
-###### Art. 7.º O reembolso dos empréstimos integrados em contratos de reequilíbrio financeiro será feito em prestações mensais, iguais e sucessivas, determinadas pelo método das taxas equivalentes.
+Art. 7.º O reembolso dos empréstimos integrados em contratos de reequilíbrio financeiro será feito em prestações mensais, iguais e sucessivas, determinadas pelo método das taxas equivalentes.
 
-###### Art. 8.º Os municípios que celebrem contratos de reequilíbrio financeiro e que beneficiem de outros empréstimos poderão optar, relativamente ao seu capital ainda não vencido em 31 de Dezembro de 1986, pela sua integração nesta linha de crédito ou, alternativamente, pela manutenção daqueles empréstimos nas condições em que foram celebrados. Neste último caso, o reembolso desses empréstimos será feito em regime de prestações mensais e aplica-se-lhe o disposto no artigo 4.º do presente diploma.
+Art. 8.º Os municípios que celebrem contratos de reequilíbrio financeiro e que beneficiem de outros empréstimos poderão optar, relativamente ao seu capital ainda não vencido em 31 de Dezembro de 1986, pela sua integração nesta linha de crédito ou, alternativamente, pela manutenção daqueles empréstimos nas condições em que foram celebrados. Neste último caso, o reembolso desses empréstimos será feito em regime de prestações mensais e aplica-se-lhe o disposto no artigo 4.º do presente diploma.
 
-###### Art. 9.º Sem prejuízo da aplicação do disposto no artigo 13.º do [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto, o não cumprimento das obrigações decorrentes da celebração dos contratos de reequilíbrio financeiro determina a imediata supressão de todas as bonificações de juros concedidas aos municípios.
+Art. 9.º Sem prejuízo da aplicação do disposto no artigo 13.º do [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto, o não cumprimento das obrigações decorrentes da celebração dos contratos de reequilíbrio financeiro determina a imediata supressão de todas as bonificações de juros concedidas aos municípios.
 
-###### Art. 10.º No âmbito da apreciação dos planos de reequilíbrio financeiro, a apresentar pelos municípios, poderá ser solicitado um parecer à instituição de crédito mutuante indicada pelo município, que preceda a decisão prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto.
+Art. 10.º No âmbito da apreciação dos planos de reequilíbrio financeiro, a apresentar pelos municípios, poderá ser solicitado um parecer à instituição de crédito mutuante indicada pelo município, que preceda a decisão prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 322/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1985-180070), de 6 de Agosto.
 
-###### Art. 11.º Dos contratos de reequilíbrio financeiro a celebrar entre os municípios e as instituições de crédito mutuantes deverão constar obrigatoriamente as cláusulas previstas em minuta-tipo, a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Administração do Território.
+Art. 11.º Dos contratos de reequilíbrio financeiro a celebrar entre os municípios e as instituições de crédito mutuantes deverão constar obrigatoriamente as cláusulas previstas em minuta-tipo, a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Administração do Território.
 
-###### Art. 12.º As bonificações a cargo do Estado estabelecidas para esta linha de crédito são liquidadas pela Direcção-Geral do Tesouro, que fica desde já autorizada a inscrever no seu orçamento as verbas necessárias para o efeito.
+Art. 12.º As bonificações a cargo do Estado estabelecidas para esta linha de crédito são liquidadas pela Direcção-Geral do Tesouro, que fica desde já autorizada a inscrever no seu orçamento as verbas necessárias para o efeito.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 15 de Maio de 1987.**
+Promulgado em 15 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

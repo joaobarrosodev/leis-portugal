@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1987-662339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 138c09a02e4c7137eaad0553ae221537ccf828ad16a5a668342a69389d22fd27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b071956660b91ce8737b9609b4d925792b1e2a4875b060ee78cc75107c36328a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior Politécnico
+- Estatuto da Carreira Docente Universitária
+- Pessoal Docente
+- Regime de Exclusividade
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:488485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285369:por
+  label: Alterado o art. 74º do Dec Lei 448/79, de 13-Nov, ratificado, com alterações, pela Lei 19/80, de 16-jul, e alterado
+    pelo art. 3.º do presente diploma, pelo(a) Decreto-Lei n.º 147/88 - Diário da República n.º 97/1988, Série I de 1988-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1988-285369
+  date: '1988-04-27'
+- type: amended_by
+  target: pt:dre:488485:por
+  label: "Alterados os arts. 70.º e 74.º do Estatuto da Carreira Docente Universitária, aprovado pelo Dec Lei 448/79, de 13-Nov,\
+    \ na redacção do presente diploma, pelo DEC LEI.205/2009.31.08.2009.MCTES, DR.IS [168] de 31.08.2009, que o republica\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2009-488485
+  date: '2009-08-31'
+- type: cites
+  target: pt:dre:221116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580288:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:30Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +145,11 @@ Assim, e incorporando já os acréscimos salariais aprovados para a função pú
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se ao pessoal das carreiras docente universitária e docente do ensino superior politécnico.
+Artigo 1.º O presente diploma aplica-se ao pessoal das carreiras docente universitária e docente do ensino superior politécnico.
 
-###### Art. 2.º O artigo 70.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado com alterações pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 70.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado com alterações pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 70.º - 1 - Consideram-se em regime de dedicação exclusiva os docentes referidos no artigo 2.º, os leitores, os docentes convidados e os professores visitantes, em regime de tempo integral, que declarem renunciar ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
+Art. 70.º - 1 - Consideram-se em regime de dedicação exclusiva os docentes referidos no artigo 2.º, os leitores, os docentes convidados e os professores visitantes, em regime de tempo integral, que declarem renunciar ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
 
 2 - A violação do compromisso referido no número anterior implica a reposição das importâncias efectivamente recebidas correspondentes à diferença entre o regime de tempo integral e o regime de dedicação exclusiva, para além da eventual responsabilidade disciplinar.
 
@@ -143,9 +177,9 @@ j) Actividades exercidas, quer no âmbito de contratos entre a instituição a q
 
 4 - A percepção da remuneração prevista na alínea j) do número anterior só poderá ter lugar quando a actividade exercida tiver nível científico ou técnico previamente reconhecido pelo órgão de direcção da universidade ou da escola universitária não integrada como adequado à natureza, dignidade e funções destas últimas e quando as obrigações decorrentes do contrato ou da aceitação do subsídio não impliquem uma relação estável.
 
-###### Art. 3.º O artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado com alterações pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
+Art. 3.º O artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado com alterações pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 74.º - 1 - O vencimento base dos professores catedráticos em regime de dedicação exclusiva é igual ao vencimento base de juiz conselheiro do Supremo Tribunal de Justiça.
+Art. 74.º - 1 - O vencimento base dos professores catedráticos em regime de dedicação exclusiva é igual ao vencimento base de juiz conselheiro do Supremo Tribunal de Justiça.
 
 2 - O vencimento base das restantes categorias docentes do ensino universitário é calculado relativamente ao vencimento base dos professores catedráticos nas seguintes percentagens:
 
@@ -175,7 +209,7 @@ Assistente estagiário ... 55
 
 7 - Os monitores perceberão uma gratificação mensal de montante igual a 40% do vencimento dos assistentes estagiários em regime de tempo integral.
 
-###### Art. 4.º Os vencimentos do pessoal docente do ensino superior politécnico em regime de dedicação exclusiva são calculados relativamente ao vencimento base dos professores catedráticos nas seguintes percentagens:
+Art. 4.º Os vencimentos do pessoal docente do ensino superior politécnico em regime de dedicação exclusiva são calculados relativamente ao vencimento base dos professores catedráticos nas seguintes percentagens:
 
 Percentagem
 
@@ -189,11 +223,11 @@ Assistente do 2.º triénio ... 57
 
 Assistente do 1.º triénio ... 50
 
-###### Art. 5.º - 1 - Os vencimentos do pessoal docente em regime de tempo integral correspondem a dois terços dos valores fixados para as respectivas categorias quando em regime de dedicação exclusiva.
+Art. 5.º - 1 - Os vencimentos do pessoal docente em regime de tempo integral correspondem a dois terços dos valores fixados para as respectivas categorias quando em regime de dedicação exclusiva.
 
 2 - O quantitativo dos vencimentos é sempre arredondado para a centena de escudos imediatamente superior.
 
-###### Art. 6.º - 1 - Na carreira do ensino superior politécnico, consideram-se em regime de dedicação exclusiva todos os que, com as necessárias adaptações, se enquadrem no regime previsto no artigo 2.º
+Art. 6.º - 1 - Na carreira do ensino superior politécnico, consideram-se em regime de dedicação exclusiva todos os que, com as necessárias adaptações, se enquadrem no regime previsto no artigo 2.º
 
 2 - A passagem ao regime de dedicação exclusiva em qualquer das carreiras abrangidas pelo presente diploma depende apenas da entrega, nos serviços competentes da instituição a que esteja vinculado, da declaração a que se refere o artigo 70.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com a redacção que lhe é dada por este diploma.
 
@@ -203,7 +237,7 @@ Assistente do 1.º triénio ... 50
 
 5 - O pessoal que, à data da entrada em vigor do presente diploma, se encontra em regime de dedicação exclusiva ao abrigo da legislação vigente transita para o novo regime independentemente de qualquer formalidade.
 
-###### Art. 7.º - 1 - As normas legais aplicáveis à cessação do regime de dedicação exclusiva, ao regresso ao mesmo e à sua fiscalização, bem como no caso de violação do compromisso previsto no artigo 2.º, serão definidas pelo Governo em termos idênticos para as carreiras abrangidas pelo presente diploma.
+Art. 7.º - 1 - As normas legais aplicáveis à cessação do regime de dedicação exclusiva, ao regresso ao mesmo e à sua fiscalização, bem como no caso de violação do compromisso previsto no artigo 2.º, serão definidas pelo Governo em termos idênticos para as carreiras abrangidas pelo presente diploma.
 
 2 - Em tudo o que não contrarie o disposto no presente diploma mantêm-se em vigor as actuais normas sobre a matéria a que se refere o número anterior enquanto as mesmas não forem objecto de alteração.
 
@@ -211,22 +245,22 @@ Assistente do 1.º triénio ... 50
 
 4 - Até à revisão geral do regime de dedicação exclusiva, a cessação do exercício de funções naquele regime implica a impossibilidade de regresso à mesma situação antes do decurso de um ano após aquela cessação.
 
-###### Art. 8.º - 1 - Os docentes dos ensinos universitário e politécnico em regime de dedicação exclusiva só podem exercer funções docentes no ensino superior particular e cooperativo a título gracioso e desde que tal resulte de protocolo de colaboração entre as respectivas instituições.
+Art. 8.º - 1 - Os docentes dos ensinos universitário e politécnico em regime de dedicação exclusiva só podem exercer funções docentes no ensino superior particular e cooperativo a título gracioso e desde que tal resulte de protocolo de colaboração entre as respectivas instituições.
 
 2 - Os docentes dos ensinos universitário e politécnico em regime de tempo integral só podem exercer cumulativamente funções docentes no ensino superior particular e cooperativo e quaisquer actividades de formação com carácter regular até aos limites previstos no [Decreto-Lei n.º 378/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1986-221116), de 10 de Novembro, mediante autorização prévia do órgão de direcção da respectiva instituição.
 
-###### Art. 9.º São revogadas todas as normas que contrariem o disposto no presente diploma.
+Art. 9.º São revogadas todas as normas que contrariem o disposto no presente diploma.
 
-###### Art. 10.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1987.
+Art. 10.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1987.**
+Referendado em 10 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

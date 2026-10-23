@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12300/22692276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,117 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 351b748bfb79b65285702cfc1c5e618ce44ac97538dd5b598289adf939e09f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7a835e156a9e37abdc21d8420250c6d7834aff0f2c3ee17bb1e9c30053ad603
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Duração do Trabalho
+- Função Pública
+- Horário de Trabalho
+- Horas Extraordinárias
+- Regime Jurídico
+- Trabalho Nocturno
 relationships:
 - type: amended_by
   target: pt:dre:437237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619729:por
+  label: "Aditado um nº 3 ao art. 2.º, pela LEI.17/89.1989.07.05.AR DR.IS [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-1989-619729
+  date: '1989-07-05'
+- type: amended_by
+  target: pt:dre:690985:por
+  label: "Alterada a al. b) do nº 1 do art. 2º, pelo DEC LEI.263/91.26.07.1991.MF, DR.IS-A [170] de 26.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1991-690985
+  date: '1991-07-26'
+- type: amended_by
+  target: pt:dre:241639:por
+  label: "Alterados os arts. 2º, 4º, 12º, 13º e 15º pelo DEC LEI.159/96.1996.09.04.PCM, DR.IS-A [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1996-241639
+  date: '1996-09-04'
+- type: cites
+  target: pt:dre:152334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579922:por
+  label: Rectificado pela DECL.DD2871.1988.07.14.PCM,DR.IS [175]2º Supl de 30/Jul/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-579922
+  date: '1988-07-14'
+- type: repealed_by
+  target: pt:dre:437237:por
+  label: "Revogado o presente diploma, rectificado pela Decl DD2871, de 30-Jul 1988, alterado pela Lei 17/89, de 05-Jul, pelo\
+    \ Dec Lei 263/91, de 26-Jul e pelo Dec Lei 159/96, de 04-Set, pelo DEC LEI.259/98.1998.08.18.PCM, DR.IS-A [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-1998-437237
+  date: '1998-08-18'
 article_structure:
   article_count: 37
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:20Z'
   warnings: []
   errors: []
 ---
@@ -564,12 +641,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

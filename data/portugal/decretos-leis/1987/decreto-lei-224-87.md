@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22693205bbb3b19c0a5f1d57a552ce7ce5a265e2cdfecb8fab131c61b0ce31cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d2f76809df99cc558fff9004a8f57815061f6a2fd54615941230ee419f0567f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente Ecológico
+- Atividade Industrial
+- Catástrofe
+- Estabelecimento Industrial
+- Poluição
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:329987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:257595:por
+  label: "REVOGADO PELO DECRETO LEI 204/93, PUBLICADO NO DR.IS-A, 129, DE 930603.\0603.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1993-257595
 article_structure:
   article_count: 24
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:45Z'
   warnings: []
   errors: []
 ---
@@ -423,15 +433,15 @@ Este decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Fernando Augusto dos Santos Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 15 de Maio de 1987.**
+Promulgado em 15 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estabelecimentos industriais considerados no artigo 2.º
 
@@ -493,7 +503,7 @@ u) Processos de mistura.
 
 2 - Em todo o caso, estas quantidades consideram-se como pertencendo a um conjunto de instalações do mesmo industrial se a distância entre elas for inferior a 500 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf))](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
 
 ## ANEXO III — Lista de substâncias para aplicação dos artigos 8.º, 9.º e 12.º
 
@@ -501,7 +511,7 @@ u) Processos de mistura.
 
 2 - Em todo o caso, estas quantidades consideram-se como pertencendo a um conjunto de instalações do mesmo industrial se a distância entre elas for inferior a 500 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf))](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
 
 N. B. Os números CEE correspondem aos da Directiva n.º [67/548/CEE](https://data.europa.eu/eli/dir/1967/548/oj?locale=pt) e suas modificações.
 
@@ -513,13 +523,13 @@ a) As substâncias que correspondem à primeira linha do quadro;
 
 b) As substâncias que correspondem à segunda linha do quadro, que, devido às suas propriedades físicas e químicas, podem ocasionar riscos de acidentes graves análogos aos ocasionados pelas substâncias da primeira linha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf))](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
 
 2 - Outras substâncias tóxicas:
 
 As substâncias que apresentam os valores seguintes de toxicidade aguda e que têm propriedades físicas e químicas, podendo causar riscos de acidentes graves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf))](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
 
 3 - Substâncias inflamáveis:
 
@@ -589,4 +599,4 @@ ii) Posteriores...
 
 Relatório de acidente grave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf))](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12700/22222231.pdf)

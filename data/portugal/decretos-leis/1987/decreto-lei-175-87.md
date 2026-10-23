@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09100/15981598.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1987-666326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69d5542a63e7e98e03b5a7ba9532527bf49b3d19024345f7b827d3866eeda82e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db3a5ea038af81f3d67903d74a95862ddf02b6fec14641d692780ed1c40ac3d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto da Carreira Docente Universitária
+- Pessoal Docente
+- Regime de Exclusividade
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:662322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663332:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:57Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +117,20 @@ Considerando, por outro lado, a conveniência em adequar a retribuição dos pre
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os vencimentos para o regime de tempo integral dos assistentes do 1.º triénio, estagiários de investigação e assistentes estagiários, assim como os dos assistentes do 2.º triénio, assistentes de investigação, leitores e assistentes, não poderão ser inferiores aos fixados para as letras G e E da tabela de vencimentos da função pública, respectivamente.
+Artigo 1.º Os vencimentos para o regime de tempo integral dos assistentes do 1.º triénio, estagiários de investigação e assistentes estagiários, assim como os dos assistentes do 2.º triénio, assistentes de investigação, leitores e assistentes, não poderão ser inferiores aos fixados para as letras G e E da tabela de vencimentos da função pública, respectivamente.
 
-###### Art. 2.º Os presidentes das comissões instaladoras dos institutos politécnicos são equiparados a professor-coordenador com agregação para efeitos de vencimento.
+Art. 2.º Os presidentes das comissões instaladoras dos institutos politécnicos são equiparados a professor-coordenador com agregação para efeitos de vencimento.
 
-###### Art. 3.º Os efeitos previstos no presente diploma reportam-se a 1 de Janeiro de 1987.
+Art. 3.º Os efeitos previstos no presente diploma reportam-se a 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

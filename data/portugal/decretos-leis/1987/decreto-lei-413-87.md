@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1987, 5º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4440-(242) a 4440-(244)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30005/02420244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5253ec04f927485335598be9a6966acbb382be9ffc18a7d55ddba5b8ea28246
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84453f8e9520c3b55f450e4304b88e0d5c6a7622203998f4fd315953ddedb8a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agente Desportivo
+- Atleta Profissional
+- Carreira Profissional
+- Código do Imposto Profissional
+- Comissão de Trabalhadores
+- Conflito de Trabalho
+- Contrato de Trabalho
+- Contrato Individual de Trabalho
+- Desporto
+- Desporto de ALTA Competição
+- Desporto Profissional
+- Direito do Trabalho
+- Direito Fiscal
+- Direitos do Indivíduo
+- Direitos e Liberdades
+- Direitos Económicos
+- Direitos Sociais
+- Entidade Patronal
+- Evasão Fiscal
+- Fiscalização
+- Futebol
+- Organização Desportiva
+- Processo Judicial
+- Registo Obrigatório
+- Sindicato
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECT DR.IS [300]9SUPL DE 31/DEZ/1987.\087.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:396752:por
+  label: "Declarada inconstitucionalidade, com força obrigatória geral, a norma do art 11º pelo AC 178/97.1997.03.04.TCS (Porc.\
+    \ nº 776/96), DR.IS-A [113] de 16/Mai/1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/178-1997-396752
+  date: '1997-03-04'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:52Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +150,9 @@ Assim:
 
 O Governo decreta, no uso da autorização conferida pelo artigo 63.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 11.º, 52.º, 64.º e 83.º do Código do Imposto Profissional (CIP) passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 11.º, 52.º, 64.º e 83.º do Código do Imposto Profissional (CIP) passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º ...
 
@@ -115,7 +160,7 @@ O Governo decreta, no uso da autorização conferida pelo artigo 63.º da [Lei n
 
 § 3.º Ficam dispensadas da apresentação da declaração as pessoas isentas, nos termos do artigo 4.º ou de legislação especial, quando não aufiram rendimentos do trabalho de outra proveniência e, bem assim, as abrangidas pela alínea a), com excepção dos agentes desportivos praticantes, e pela alínea b) do artigo 2.º, cujas remunerações ou rendimentos provenham de uma única entidade pagadora ou, quando provenientes de mais de uma entidade pagadora, a soma dos respectivos quantitativos não exceda o limite fixado no artigo 5.º, salvo tratando-se, em qualquer caso, de rendimentos em espécie, alimentação e aposentadoria.
 
-###### Art. 11.º A determinação da matéria colectável sujeita a imposto profissional compete:
+Art. 11.º A determinação da matéria colectável sujeita a imposto profissional compete:
 
 a) Ao chefe da repartição de finanças em que deva ser apresentada a declaração modelo n.º 5, com base nos elementos constantes da mesma declaração, em quaisquer outros elementos de que disponha, bem como em informação devidamente fundamentada dos serviços de fiscalização, quando julgado conveniente, sendo tal informação obrigatória quanto às declarações dos agentes desportivos praticantes;
 
@@ -125,64 +170,64 @@ b) ...
 
 § 2.º As declarações dos contribuintes que exerçam apenas actividades por conta de outrem, com excepção dos agentes desportivos praticantes, serão verificadas através das listagens extraídas automaticamente das relações modelo n.º 8, a que se refere o artigo 47.º, e demais elementos existentes, procedendo-se à fixação nos termos previstos no presente artigo somente quando na declaração se reconheça existirem quaisquer faltas, insuficiências ou inexactidões e, bem assim, quando se trate de rendimentos em espécie, alimentação e aposentadoria.
 
-###### Art. 52.º ...
+Art. 52.º ...
 
 § único. As repartições de finanças que receberem os elementos referidos nos artigos 50.º-A e 51.º respeitantes a contribuintes domiciliados na área de outras repartições deverão proceder em conformidade com a parte final do corpo deste artigo.
 
-###### Art. 64.º A falta ou inexactidão das comunicações, das informações ou das cópias a que aludem os artigos 18.º, 49.º, 50.º e 50.º-A e o § único do artigo 54.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 69.º, § 1.º
+Art. 64.º A falta ou inexactidão das comunicações, das informações ou das cópias a que aludem os artigos 18.º, 49.º, 50.º e 50.º-A e o § único do artigo 54.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 69.º, § 1.º
 
-###### Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas, participações ou contratos a que se referem os artigos 6.º, 9.º, 27.º-A, § único, 45.º-A, 47.º, 49.º, 50.º e 50.º-A, quando apresentados em duplicado ou triplicado.
+Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas, participações ou contratos a que se referem os artigos 6.º, 9.º, 27.º-A, § único, 45.º-A, 47.º, 49.º, 50.º e 50.º-A, quando apresentados em duplicado ou triplicado.
 
-###### Art. 2.º São aditados ao CIP os artigos 10.º-A e 50.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao CIP os artigos 10.º-A e 50.º-A, com a seguinte redacção:
 
-###### Art. 10.º-A. No apuramento da matéria colectável dos agentes desportivos praticantes serão deduzidas aos rendimentos declarados as importâncias despendidas com a constituição de seguros de vida, que garantam o pagamento de pensões ou de capital, de fundos de pensões e com outras formas de previdência, salvo se houver lugar a qualquer correcção desses rendimentos.
+Art. 10.º-A. No apuramento da matéria colectável dos agentes desportivos praticantes serão deduzidas aos rendimentos declarados as importâncias despendidas com a constituição de seguros de vida, que garantam o pagamento de pensões ou de capital, de fundos de pensões e com outras formas de previdência, salvo se houver lugar a qualquer correcção desses rendimentos.
 
-###### Art. 50.º-A. As federações desportivas deverão entregar na repartição de finanças da área da sua sede, no mês seguinte ao da sua celebração, cópia, em duplicado, por elas devidamente autenticada, dos contratos celebrados entre agentes desportivos praticantes e as entidades utilizadoras dos seus serviços, ali registados.
+Art. 50.º-A. As federações desportivas deverão entregar na repartição de finanças da área da sua sede, no mês seguinte ao da sua celebração, cópia, em duplicado, por elas devidamente autenticada, dos contratos celebrados entre agentes desportivos praticantes e as entidades utilizadoras dos seus serviços, ali registados.
 
-###### Art. 3.º - 1 - As entidades utilizadoras dos serviços dos agentes desportivos praticantes ficam obrigadas a possuir contabilidade regularmente organizada.
+Art. 3.º - 1 - As entidades utilizadoras dos serviços dos agentes desportivos praticantes ficam obrigadas a possuir contabilidade regularmente organizada.
 
 2 - As entidades referidas no número precedente deverão apresentar na repartição de finanças respectiva, para numeração e rubrica, antes de utilizados, os livros e documentos que venham a ser indicados por portaria conjunta dos Ministros das Finanças e da Educação e se tornem necessários ao cumprimento da exigência estabelecida no número anterior.
 
 3 - A portaria referida no número anterior será publicada no prazo de 90 dias após a publicação do presente diploma.
 
-###### Art. 4.º Os exames às escritas das entidades mencionadas no artigo anterior serão realizados pelos técnicos economistas ou pelos peritos de fiscalização tributária dos serviços da Direcção-Geral das Contribuições e Impostos, conforme a complexidade do exame a realizar.
+Art. 4.º Os exames às escritas das entidades mencionadas no artigo anterior serão realizados pelos técnicos economistas ou pelos peritos de fiscalização tributária dos serviços da Direcção-Geral das Contribuições e Impostos, conforme a complexidade do exame a realizar.
 
 1 - Os funcionários referidos no corpo deste artigo poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e de organismos ligados ao desporto, bem como os livros e documentos dos contribuintes ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
 2 - As autoridades civis e militares deverão prestar àqueles funcionários todo o auxílio que estes lhes requererem para efeito de fiscalização a seu cargo.
 
-###### Art. 5.º As entidades utilizadoras dos serviços dos agentes desportivos praticantes que não arquivarem os livros da sua escrituração e os documentos com ela relacionados ou os não conservarem em boa ordem durante os cinco anos civis subsequentes serão punidas com multa de 5000000$00 a 50000000$00.
+Art. 5.º As entidades utilizadoras dos serviços dos agentes desportivos praticantes que não arquivarem os livros da sua escrituração e os documentos com ela relacionados ou os não conservarem em boa ordem durante os cinco anos civis subsequentes serão punidas com multa de 5000000$00 a 50000000$00.
 
-###### Art. 6.º Incorrem na multa de 1000000$00 a 5000000$00 as entidades referidas no artigo anterior que não possuírem contabilidade regularmente organizada.
+Art. 6.º Incorrem na multa de 1000000$00 a 5000000$00 as entidades referidas no artigo anterior que não possuírem contabilidade regularmente organizada.
 
-###### Art. 7.º As entidades utilizadoras dos serviços dos agentes desportivos praticantes que deixarem atrasar a sua escrita por tempo superior a 90 dias serão punidas com multa de 100000$00 a 1000000$00.
+Art. 7.º As entidades utilizadoras dos serviços dos agentes desportivos praticantes que deixarem atrasar a sua escrita por tempo superior a 90 dias serão punidas com multa de 100000$00 a 1000000$00.
 
-###### Art. 8.º Verificado o atraso da escrita e independentemente do procedimento para a aplicação da correspondente multa, o autuante ou o chefe da repartição de finanças, consoante esteja ou não presente o transgressor, notificará ou mandará notificá-lo para regularizar a sua escrita dentro de um prazo a designar entre 30 e 90 dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 7.º do presente diploma.
+Art. 8.º Verificado o atraso da escrita e independentemente do procedimento para a aplicação da correspondente multa, o autuante ou o chefe da repartição de finanças, consoante esteja ou não presente o transgressor, notificará ou mandará notificá-lo para regularizar a sua escrita dentro de um prazo a designar entre 30 e 90 dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 7.º do presente diploma.
 
-###### Art. 9.º A recusa de exibição da escrita ou dos documentos com ela relacionados ou a sua ocultação, destruição, inutilização, falsificação ou viciação serão punidas com multa de 5000000$00 a 50000000$00, na qual incorrerão, solidariamente com as entidades mencionadas no artigo 5.º, os membros da direcção e do conselho fiscal, técnicos de contas ou responsáveis pela contabilidade, conforme o caso, sem prejuízo do procedimento criminal que ao caso couber.
+Art. 9.º A recusa de exibição da escrita ou dos documentos com ela relacionados ou a sua ocultação, destruição, inutilização, falsificação ou viciação serão punidas com multa de 5000000$00 a 50000000$00, na qual incorrerão, solidariamente com as entidades mencionadas no artigo 5.º, os membros da direcção e do conselho fiscal, técnicos de contas ou responsáveis pela contabilidade, conforme o caso, sem prejuízo do procedimento criminal que ao caso couber.
 
-###### Art. 10.º - 1 - As multas previstas nos artigos 5.º, 6.º, 7.º, 8.º e 9.º do presente diploma serão aplicadas nos termos do Código de Processo das Contribuições e Impostos.
+Art. 10.º - 1 - As multas previstas nos artigos 5.º, 6.º, 7.º, 8.º e 9.º do presente diploma serão aplicadas nos termos do Código de Processo das Contribuições e Impostos.
 
 2 - Nos casos de pagamento espontâneo nos termos dos artigos 7.º e 8.º daquele Código, as multas referidas no número anterior serão reduzidas a metade, revertendo integralmente para o Estado.
 
-###### Art. 11.º Em caso de litígio entre o agente desportivo praticante e a entidade utilizadora dos seus serviços, só poderão ser invocados em juízo os contratos que antes do início da sua vigência tenham sido registados na respectiva federação, considerando-se inexistentes quaisquer cláusulas contratuais que ali não tenham sido registadas.
+Art. 11.º Em caso de litígio entre o agente desportivo praticante e a entidade utilizadora dos seus serviços, só poderão ser invocados em juízo os contratos que antes do início da sua vigência tenham sido registados na respectiva federação, considerando-se inexistentes quaisquer cláusulas contratuais que ali não tenham sido registadas.
 
-###### Art. 12.º Ficará suspensa por um período de dois anos a concessão de subsídios e de quaisquer outros benefícios oficiais a favor das federações desportivas e das entidades utilizadoras dos serviços dos agentes desportivos praticantes, sempre que as mesmas não cumpram as obrigações impostas pelo CIP e pelo presente diploma.
+Art. 12.º Ficará suspensa por um período de dois anos a concessão de subsídios e de quaisquer outros benefícios oficiais a favor das federações desportivas e das entidades utilizadoras dos serviços dos agentes desportivos praticantes, sempre que as mesmas não cumpram as obrigações impostas pelo CIP e pelo presente diploma.
 
-###### Art. 13.º As federações desportivas deverão entregar na repartição de finanças da área da sua sede, até 30 de Junho de 1988, cópia, em duplicado, por elas devidamente autenticada, de todos os contratos em vigor ali registados, celebrados entre agentes desportivos praticantes e as entidades utilizadoras dos respectivos serviços, até 31 de Dezembro de 1987.
+Art. 13.º As federações desportivas deverão entregar na repartição de finanças da área da sua sede, até 30 de Junho de 1988, cópia, em duplicado, por elas devidamente autenticada, de todos os contratos em vigor ali registados, celebrados entre agentes desportivos praticantes e as entidades utilizadoras dos respectivos serviços, até 31 de Dezembro de 1987.
 
-###### Art. 14.º As alterações introduzidas nos artigos 6.º e 11.º do CIP, bem como o artigo 10.º-A, aditado ao mesmo Código, nos termos dos artigos 1.º e 2.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1987 e seguintes, com excepção da parte aplicável aos agentes desportivos praticantes, relativamente aos quais aquelas alterações se aplicam às remunerações e rendimentos, nas condições supra, nos anos de 1988 e seguintes.
+Art. 14.º As alterações introduzidas nos artigos 6.º e 11.º do CIP, bem como o artigo 10.º-A, aditado ao mesmo Código, nos termos dos artigos 1.º e 2.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1987 e seguintes, com excepção da parte aplicável aos agentes desportivos praticantes, relativamente aos quais aquelas alterações se aplicam às remunerações e rendimentos, nas condições supra, nos anos de 1988 e seguintes.
 
-###### Art. 15.º O disposto no artigo 3.º deste diploma entra em vigor 30 dias após a publicação da portaria indicada no mesmo artigo.
+Art. 15.º O disposto no artigo 3.º deste diploma entra em vigor 30 dias após a publicação da portaria indicada no mesmo artigo.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

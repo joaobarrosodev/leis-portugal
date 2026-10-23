@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01000/01460148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1987-663512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f482058cc9e1a8492833a6b95c65d1b45996526d5dabc80b9261a7ec3bb1d511
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17afbabab7a904e88508f0791dfb5aa18a29c18bfbd505037209fa02fad3f11f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Mercado de Capitais
+- Mercado de Títulos
+- Obrigações
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:512994:por
+  label: "Alterado o artigo 2.º e revogado o n.º 1 do artigo 5.º pelo DEC LEI.335/87.15.10.1987.MF, DR.IS [237]Supl de 15.10.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1987-512994
+  date: '1987-10-15'
+- type: cites
+  target: pt:dre:326709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.199, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:51Z'
   warnings: []
   errors: []
 ---
@@ -213,12 +238,12 @@ O presente diploma não se aplica à oferta à subscrição ou à oferta públic
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

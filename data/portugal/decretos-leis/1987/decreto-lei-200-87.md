@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10000/18251831.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1987-421204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f9f5b92060b2dc42d3bd27c4bc63d47070ba3857bae34bdc69c89450b6817d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59c0a8525d513835d9d01a9ef7565440ed4d292ba65a124cf44380a25091e3c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Educação Pré-escolar
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:282714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:282714:por
+  label: "Revogado pelo DEC LEI.35/88.04.02.1988.ME, DR.IS [29] de 04.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1988-282714
+  date: '1988-02-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:22Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +147,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Direcção-Geral de Administração e Pessoal (DGAP) efectuará anualmente, após a colocação dos titulares de lugares suspensos ou extintos, concurso para preenchimento de lugares vagos e disponíveis existentes em escolas do 1.º ciclo do ensino básico que não possam ser assegurados por professores efectivos.
+Artigo 1.º - 1 - A Direcção-Geral de Administração e Pessoal (DGAP) efectuará anualmente, após a colocação dos titulares de lugares suspensos ou extintos, concurso para preenchimento de lugares vagos e disponíveis existentes em escolas do 1.º ciclo do ensino básico que não possam ser assegurados por professores efectivos.
 
 2 - Para efeitos do preenchimento dos lugares referidos no número anterior, os mesmos distribuem-se por distritos e estes agrupam-se em zonas, de acordo com o mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1 - O concurso referido no n.º 1 do artigo anterior decorrerá em duas fases, especificadas no presente diploma.
+Art. 2.º - 1 - O concurso referido no n.º 1 do artigo anterior decorrerá em duas fases, especificadas no presente diploma.
 
 2 - A 1.ª fase do concurso é realizada a nível nacional e visa o preenchimento dos lugares vagos e disponíveis para todo o ano escolar, apurados até 5 de Agosto de cada ano pelos serviços regionais de educação, que deles darão conhecimento à DGAP no prazo de três dias úteis após o termo daquela data.
 
@@ -115,15 +161,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Cada um dos respectivos serviços regionais de educação afixará nos locais de estilo um duplicado da relação de vagas enviadas à DGAP.
 
-###### Art. 3.º Poderão ser opositores ao concurso o previsto no presente diploma professores habilitados com curso que confira a habilitação para a docência do 1.º ciclo do ensino básico e diplomados com o curso especial a que se refere o [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, desde que reúnam os requisitos gerais para provimento em cargos públicos, e ainda os professores efectivos que solicitem colocação ao abrigo da preferência conjugal.
+Art. 3.º Poderão ser opositores ao concurso o previsto no presente diploma professores habilitados com curso que confira a habilitação para a docência do 1.º ciclo do ensino básico e diplomados com o curso especial a que se refere o [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, desde que reúnam os requisitos gerais para provimento em cargos públicos, e ainda os professores efectivos que solicitem colocação ao abrigo da preferência conjugal.
 
-###### Art. 4.º - 1 - Consideram-se sempre opositores à 2.ª fase do concurso os candidatos à 1.ª fase que não tenham nesta obtido colocação.
+Art. 4.º - 1 - Consideram-se sempre opositores à 2.ª fase do concurso os candidatos à 1.ª fase que não tenham nesta obtido colocação.
 
 2 - Poderão ainda ser opositores à 2.ª fase do concurso outros candidatos que, reunindo os requisitos referidos no artigo anterior, não tenham sido opositores à 1.ª fase.
 
 3 - Na 2.ª fase do concurso não haverá colocações por recondução nem ao abrigo da preferência conjugal.
 
-###### Art. 5.º - 1 - Para efeitos de colocação, os candidatos serão ordenados de acordo com os seguintes escalões indicados por ordem de prioridade:
+Art. 5.º - 1 - Para efeitos de colocação, os candidatos serão ordenados de acordo com os seguintes escalões indicados por ordem de prioridade:
 
 a) Professores não efectivos que tenham direito a recondução na escola onde se encontram colocados e a requeiram;
 
@@ -149,7 +195,7 @@ i) Professores não incluídos nas alíneas anteriores que façam prova de possu
 
 4 - No primeiro concurso a realizar após a publicação deste diploma considerar-se-ão as disposições legais aplicáveis no [Decreto-Lei n.º 207/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1982-392375), de 25 de Maio, e legislação complementar, para efeitos de inclusão dos concorrentes nas alíneas a), b) e c) do n.º 1 deste artigo.
 
-###### Art. 6.º - 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, entende-se por recondução a renovação da colocação do docente na escola onde foi colocado.
+Art. 6.º - 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, entende-se por recondução a renovação da colocação do docente na escola onde foi colocado.
 
 2 - Podem solicitar recondução os docentes que cumulativamente reúnam as seguintes condições:
 
@@ -169,7 +215,7 @@ c) Estejam abrangidos pelo disposto no n.º 4 do artigo 18.º e no n.º 2 do art
 
 4 - No concurso a realizar para o ano de 1987-1988 têm direito a recondução, ao abrigo do presente diploma, os docentes reconduzidos para o ano de 1986-1987 e ainda os colocados no mesmo ano que reúnam as demais condições referidas neste artigo.
 
-###### Art. 7.º - 1 - Podem concorrer ao abrigo da preferência conjugal os professores efectivos e os professores que, de acordo com lista definitiva de colocação publicada no Diário da República, tenham adquirido direito a provimento como professores efectivos, uns e outros casados com funcionários ou agentes dos serviços e organismos da administração central, regional ou local, mesmo que na situação de aposentação, reforma ou reserva.
+Art. 7.º - 1 - Podem concorrer ao abrigo da preferência conjugal os professores efectivos e os professores que, de acordo com lista definitiva de colocação publicada no Diário da República, tenham adquirido direito a provimento como professores efectivos, uns e outros casados com funcionários ou agentes dos serviços e organismos da administração central, regional ou local, mesmo que na situação de aposentação, reforma ou reserva.
 
 2 - A colocação ao abrigo da preferência conjugal apenas pode beneficiar um dos cônjuges no caso de serem professores, mesmo que ambos reúnam as condições referidas no número anterior.
 
@@ -185,7 +231,7 @@ b) Prova da situação profissional do cônjuge que refira expressamente que o m
 
 c) Documento comprovativo do local de trabalho do cônjuge passado pelo competente serviço ou atestado de residência.
 
-###### Art. 8.º - 1 - O concurso a que se refere o presente diploma será aberto, em cada ano, mediante aviso a publicar no Diário da República, até ao dia 10 de Maio, pela DGAP.
+Art. 8.º - 1 - O concurso a que se refere o presente diploma será aberto, em cada ano, mediante aviso a publicar no Diário da República, até ao dia 10 de Maio, pela DGAP.
 
 2 - O concurso mencionado no número anterior estará aberto pelo prazo de oito dias úteis contado a partir do dia seguinte ao da publicação do aviso.
 
@@ -193,7 +239,7 @@ c) Documento comprovativo do local de trabalho do cônjuge passado pelo competen
 
 4 - A indicação dos lugares vagos e disponíveis para cada uma das fases será considerada, para efeitos de colocação dos candidatos, sem necessidade de publicação no Diário da República.
 
-###### Art. 9.º - 1 - As candidaturas ao concurso regulamentado pelo presente diploma far-se-ão, mediante a apresentação de um boletim e de uma ficha a editar pela Imprensa Nacional-Casa da Moeda, no serviço regional de educação onde tenham o seu processo constituído.
+Art. 9.º - 1 - As candidaturas ao concurso regulamentado pelo presente diploma far-se-ão, mediante a apresentação de um boletim e de uma ficha a editar pela Imprensa Nacional-Casa da Moeda, no serviço regional de educação onde tenham o seu processo constituído.
 
 2 - Do boletim a que se refere o número anterior constarão obrigatoriamente:
 
@@ -215,9 +261,9 @@ g) Códigos das escolas, concelhos, distritos e zonas a que o candidato concorre
 
 4 - Os respectivos serviços regionais de educação confirmarão os elementos constantes dos boletins e das fichas e remeterão, em prazo a fixar no respectivo aviso de abertura de concurso, à DGAP listas em duplicado, organizadas por ordem alfabética.
 
-###### Art. 10.º Dentro de cada um dos escalões estabelecidos no n.º 1 do artigo 5.º os candidatos serão ordenados por ordem da sua graduação profissional e elementos de desempate de acordo com o disposto na legislação em vigor para o concurso para o quadro geral do ensino primário.
+Art. 10.º Dentro de cada um dos escalões estabelecidos no n.º 1 do artigo 5.º os candidatos serão ordenados por ordem da sua graduação profissional e elementos de desempate de acordo com o disposto na legislação em vigor para o concurso para o quadro geral do ensino primário.
 
-###### Art. 11.º - 1 - Os candidatos à 1.ª fase do concurso indicarão as suas preferências num só boletim, de acordo com uma ou mais das seguintes alíneas:
+Art. 11.º - 1 - Os candidatos à 1.ª fase do concurso indicarão as suas preferências num só boletim, de acordo com uma ou mais das seguintes alíneas:
 
 a) Código de escolas do continente, até ao máximo de 100;
 
@@ -229,7 +275,7 @@ d) Código de zonas do continente, referenciadas no mapa anexo ao presente diplo
 
 2 - Os candidatos que pretendam ser reconduzidos indicarão no seu boletim, como primeira preferência, o código da escola onde se encontram colocados.
 
-###### Art. 12.º - 1 - Para efeitos de colocação, as preferências manifestadas pelos candidatos serão sempre respeitadas, não podendo um candidato com inferior prioridade ou menos graduado dentro da mesma prioridade ultrapassar outro com prioridade superior ou mais graduado.
+Art. 12.º - 1 - Para efeitos de colocação, as preferências manifestadas pelos candidatos serão sempre respeitadas, não podendo um candidato com inferior prioridade ou menos graduado dentro da mesma prioridade ultrapassar outro com prioridade superior ou mais graduado.
 
 2 - Quando um candidato concorrer por zonas, distritos ou concelhos, as respectivas escolas serão percorridas por ordem crescente dos seus números de código, procedendo-se do seguinte modo:
 
@@ -239,7 +285,7 @@ b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre
 
 3 - Os lugares disponíveis resultantes das colocações efectuadas ao abrigo da preferência conjugal serão recuperados automaticamente e acrescidos à relação de lugares para a 1.ª fase do concurso.
 
-###### Art. 13.º - 1 - As listas provisórias de ordenação dos candidatos serão publicadas no Diário da República até ao dia 10 de Julho, podendo os mesmos, no prazo de cinco dias úteis a contar do dia seguinte ao da publicação, reclamar da sua ordenação e dos elementos constantes do verbete individual.
+Art. 13.º - 1 - As listas provisórias de ordenação dos candidatos serão publicadas no Diário da República até ao dia 10 de Julho, podendo os mesmos, no prazo de cinco dias úteis a contar do dia seguinte ao da publicação, reclamar da sua ordenação e dos elementos constantes do verbete individual.
 
 2 - É da competência do director-geral de Administração e Pessoal a decisão sobre as reclamações, que só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais.
 
@@ -251,11 +297,11 @@ b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre
 
 6 - Para todos os efeitos, considera-se que a não apresentação de reclamação por parte dos candidatos dos elementos constantes da lista provisória e do verbete individual referidos no n.º 1 equivale à sua aceitação tácita, daqui resultando a intempestividade do recurso hierárquico dos mesmos elementos.
 
-###### Art. 14.º - 1 - O verbete individual é um documento que os candidatos devam obter junto dos serviços regionais do Ministério da Educação e Cultura onde fizeram a entrega das suas candidaturas logo que tenham conhecimento das listas provisórias de ordenação.
+Art. 14.º - 1 - O verbete individual é um documento que os candidatos devam obter junto dos serviços regionais do Ministério da Educação e Cultura onde fizeram a entrega das suas candidaturas logo que tenham conhecimento das listas provisórias de ordenação.
 
 2 - O verbete individual conterá todos os elementos de ordenação e de preferência de colocação que os candidatos indicaram nos respectivos boletins.
 
-###### Art. 15.º Para efeitos do disposto no n.º 3 do artigo 2.º do presente diploma, serão preenchidos pelos serviços regionais do Ministério da Educação e Cultura os seguintes lugares:
+Art. 15.º Para efeitos do disposto no n.º 3 do artigo 2.º do presente diploma, serão preenchidos pelos serviços regionais do Ministério da Educação e Cultura os seguintes lugares:
 
 a) Lugares vagos e disponíveis não preenchidos na 1.ª fase do concurso por inexistência de candidatos;
 
@@ -263,11 +309,11 @@ b) Lugares vagos e disponíveis supervenientes à 1.ª fase do concurso;
 
 c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorrer do ano lectivo e não possam ser preenchidos por professores do quadro complementar desalojados.
 
-###### Art. 16.º - 1 - Para efeitos de preenchimento dos lugares referidos no artigo anterior, os candidatos referidos nos n.os 1 e 2 do artigo 4.º deste diploma devem inscrever-se no distrito da sua preferência até ao dia 31 de Agosto.
+Art. 16.º - 1 - Para efeitos de preenchimento dos lugares referidos no artigo anterior, os candidatos referidos nos n.os 1 e 2 do artigo 4.º deste diploma devem inscrever-se no distrito da sua preferência até ao dia 31 de Agosto.
 
 2 - As inscrições referidas no número anterior efectuam-se mediante a apresentação de um requerimento, dirigido ao dirigente do serviço regional, acompanhado de um boletim a editar pela Imprensa Nacional-Casa da Moeda.
 
-###### Art. 17.º - 1 - Recebidas as inscrições dos candidatos referidos no n.º 1 do artigo anterior, os respectivos serviços regionais elaborarão uma lista dos docentes inscritos, que será afixada nos locais de estilo até 5 de Setembro.
+Art. 17.º - 1 - Recebidas as inscrições dos candidatos referidos no n.º 1 do artigo anterior, os respectivos serviços regionais elaborarão uma lista dos docentes inscritos, que será afixada nos locais de estilo até 5 de Setembro.
 
 2 - Na lista referida no número anterior os candidatos que foram opositores à 1.ª fase do concurso e não obtiveram colocação serão ordenados de acordo com a sua posição na lista de candidatos não colocados.
 
@@ -275,7 +321,7 @@ c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorr
 
 4 - Os candidatos referidos no artigo anterior poderão reclamar da lista de ordenação nos dois dias úteis seguintes ao da sua afixação.
 
-###### Art. 18.º - 1 - Os candidatos que, por efeitos de candidatura à 1.ª fase do concurso, se mantiverem vinculados para o ano escolar seguinte consideram-se disponíveis para o preenchimento de qualquer lugar vago ou disponível no distrito referido no n.º 1 do artigo 16.º
+Art. 18.º - 1 - Os candidatos que, por efeitos de candidatura à 1.ª fase do concurso, se mantiverem vinculados para o ano escolar seguinte consideram-se disponíveis para o preenchimento de qualquer lugar vago ou disponível no distrito referido no n.º 1 do artigo 16.º
 
 2 - Por conveniência de serviço, os candidatos referidos no número anterior poderão ser colocados em lugares vagos ou disponíveis noutros distritos da zona onde se integra o da sua preferência, segundo regras a fixar por despacho do Ministro da Educação e Cultura, a publicar no Diário da República, ouvidos os sindicatos dos professores.
 
@@ -283,7 +329,7 @@ c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorr
 
 4 - Os candidatos referidos no n.º 1 deste artigo que aceitem colocação até ao início do 2.º período lectivo em distrito carenciado de docentes situado noutra zona terão direito à recondução, ou à inclusão na prioridade da alína c) do artigo 5.º, no concurso seguinte, desde que não tenham dado mais de 30 dias de faltas por ano.
 
-###### Art. 19.º - 1 - As colocações nos lugares referidos no artigo 15.º iniciar-se-ão no dia 10 de Setembro pelos respectivos serviços regionais de educação, que, para o efeito, afixarão no dia 6 do mesmo mês os lugares vagos e disponíveis, apurados até ao dia imediatamente anterior e os motivos da sua existência.
+Art. 19.º - 1 - As colocações nos lugares referidos no artigo 15.º iniciar-se-ão no dia 10 de Setembro pelos respectivos serviços regionais de educação, que, para o efeito, afixarão no dia 6 do mesmo mês os lugares vagos e disponíveis, apurados até ao dia imediatamente anterior e os motivos da sua existência.
 
 2 - Após 15 de Setembro, o prosseguimento das colocações nos lugares referidos no artigo 15.º será realizado semanalmente em dia a fixar pelos respectivos serviços regionais, que, para o efeito, aprovarão e afixarão, também semanalmente, os lugares vagos e disponíveis a preencher e os motivos da sua existência.
 
@@ -297,19 +343,19 @@ c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorr
 
 7 - As listas ordenadas a que se refere o artigo 17.º incluirão uma coluna destinada à indicação da escola atribuída a cada docente e uma outra para indicação da data da colocação.
 
-###### Art. 20.º - 1 - Sempre que o docente titular de um lugar temporariamente disponível se apresente ao serviço, o docente colocado em sua substituição e a leccionar os mesmos alunos cessará funções na respectiva escola, desde que não tenha sido colocado na 1.ª fase do concurso.
+Art. 20.º - 1 - Sempre que o docente titular de um lugar temporariamente disponível se apresente ao serviço, o docente colocado em sua substituição e a leccionar os mesmos alunos cessará funções na respectiva escola, desde que não tenha sido colocado na 1.ª fase do concurso.
 
 2 - Caso o titular se apresente no período de avaliação, o substituto manter-se-á em funções lectivas até ao termo dos respectivos trabalhos.
 
-###### Art. 21.º - 1 - Os candidatos não vinculados ainda sem colocação inscritos nos termos do disposto no n.º 1 do artigo 16.º do presente diploma em distrito onde venha a verificar-se excesso de docentes poderão requerer ao respectivo dirigente regional a anulação da sua inscrição.
+Art. 21.º - 1 - Os candidatos não vinculados ainda sem colocação inscritos nos termos do disposto no n.º 1 do artigo 16.º do presente diploma em distrito onde venha a verificar-se excesso de docentes poderão requerer ao respectivo dirigente regional a anulação da sua inscrição.
 
 2 - A anulação da inscrição não obsta à sua renovação noutro distrito em que se verifique carência de professores.
 
-###### Art. 22.º - 1 - Os professores que vierem a ser colocados na 1.ª fase do concurso e que não aceitarem a colocação que lhes venha a ser atribuída de acordo com as preferências manifestadas não poderão ser colocados em escolas do mesmo nível de ensino oficial durante todo o ano escolar a que o concurso respeita nem em postos oficiais do ciclo preparatório TV.
+Art. 22.º - 1 - Os professores que vierem a ser colocados na 1.ª fase do concurso e que não aceitarem a colocação que lhes venha a ser atribuída de acordo com as preferências manifestadas não poderão ser colocados em escolas do mesmo nível de ensino oficial durante todo o ano escolar a que o concurso respeita nem em postos oficiais do ciclo preparatório TV.
 
 2 - Os docentes constantes da lista referida no artigo 17.º que se recusem a manifestar qualquer preferência de colocação e ou que recusem a colocação que lhes foi atribuída serão incluídos no final da mesma lista e perderão o vínculo, se o tiverem.
 
-###### Art. 23.º - 1 - Os docentes colocados na 1.ª fase do concurso ao abrigo do presente diploma chamados na vigência da respectiva colocação para a prestação do serviço militar obrigatório regressarão, desde que o requeiram no prazo de cinco dias úteis, contado a partir do termo da prestação daquele serviço, à escola onde se encontravam colocados em resultado da 1.ª fase do concurso, sempre que o serviço militar obrigatório termine na vigência daquela colocação.
+Art. 23.º - 1 - Os docentes colocados na 1.ª fase do concurso ao abrigo do presente diploma chamados na vigência da respectiva colocação para a prestação do serviço militar obrigatório regressarão, desde que o requeiram no prazo de cinco dias úteis, contado a partir do termo da prestação daquele serviço, à escola onde se encontravam colocados em resultado da 1.ª fase do concurso, sempre que o serviço militar obrigatório termine na vigência daquela colocação.
 
 2 - Os docentes colocados pelos respectivos serviços regionais de educação de harmonia com o artigo 19.º deste diploma, que venham a encontrar-se na situação definida no número anterior, regressarão, desde que o requeiram no prazo indicado no mesmo número, à escola que lhes fora atribuída, caso a respectiva vaga tenha sido considerada para todo o ano, ou ficarão a aguardar colocação, que será atribuída de acordo com a sua posição na lista ordenada.
 
@@ -325,15 +371,15 @@ c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorr
 
 8 - Os docentes chamados para a prestação do serviço militar obrigatório apresentarão no respectivo serviço regional documento comprovativo da sua incorporação.
 
-###### Art. 24.º - 1 - Os candidatos que, não se encontrando a prestar serviço docente à data da incorporação no serviço militar obrigatório, adquiram, durante a prestação deste, direito à colocação como docentes, em consequência de terem sido opositores à 1.ª fase, beneficiarão do disposto no n.º 1 do artigo anterior.
+Art. 24.º - 1 - Os candidatos que, não se encontrando a prestar serviço docente à data da incorporação no serviço militar obrigatório, adquiram, durante a prestação deste, direito à colocação como docentes, em consequência de terem sido opositores à 1.ª fase, beneficiarão do disposto no n.º 1 do artigo anterior.
 
 2 - Os candidatos nas condições do número anterior que adquiram, durante a prestação do serviço militar, direito à colocação como docentes, em consequência de terem sido opositores à 2.ª fase do concurso, beneficiarão do disposto no n.º 2 do artigo anterior.
 
-###### Art. 25.º - 1 - No prazo de cinco dias a contar do dia seguinte ao da publicação no Diário da República das respectivas listas de colocação os docentes colocados em resultado da 1.ª fase do concurso comunicarão ao respectivo dirigente regional se aceitam a colocação que lhes foi atribuída.
+Art. 25.º - 1 - No prazo de cinco dias a contar do dia seguinte ao da publicação no Diário da República das respectivas listas de colocação os docentes colocados em resultado da 1.ª fase do concurso comunicarão ao respectivo dirigente regional se aceitam a colocação que lhes foi atribuída.
 
 2 - A ausência da comunicação referida no número anterior equivale à não aceitação do lugar.
 
-###### Art. 26.º - 1 - As colocações decorrentes da 1.ª fase do concurso previsto neste diploma reportar-se-ão sempre ao início do respectivo ano escolar, sendo devidos vencimentos aos docentes ininterruptamente desde essa data até ao termo do referido ano escolar.
+Art. 26.º - 1 - As colocações decorrentes da 1.ª fase do concurso previsto neste diploma reportar-se-ão sempre ao início do respectivo ano escolar, sendo devidos vencimentos aos docentes ininterruptamente desde essa data até ao termo do referido ano escolar.
 
 2 - Aos docentes colocados pela primeira vez são devidos os respectivos abonos a partir da data de entrada em exercício de funções.
 
@@ -341,7 +387,7 @@ c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorr
 
 4 - Os docentes a que se refere o n.º 1 deste artigo apresentar-se-ão nas respectivas escolas no dia fixado para o início do ano escolar.
 
-###### Art. 27.º - 1 - As nomeações dos docentes não efectivos coincidem com a data a partir da qual os mesmos adquirem direito ao correspondente abono de vencimento e são da competência do director-geral de Administração e Pessoal, que a poderá delegar nos dirigentes dos respectivos serviços regionais de educação sempre que as colocações se verifiquem na área em que superintendem.
+Art. 27.º - 1 - As nomeações dos docentes não efectivos coincidem com a data a partir da qual os mesmos adquirem direito ao correspondente abono de vencimento e são da competência do director-geral de Administração e Pessoal, que a poderá delegar nos dirigentes dos respectivos serviços regionais de educação sempre que as colocações se verifiquem na área em que superintendem.
 
 2 - As nomeações mencionadas no número anterior consideram-se sempre efectuadas por urgente conveniência de serviço público, aplicando-se-lhes o disposto no artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e no artigo 1.º do [Decreto-Lei n.º 348/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1981-567053), de 22 de Dezembro.
 
@@ -351,9 +397,9 @@ c) Lugares que ficam vagos ou disponíveis, ainda que temporariamente, no decorr
 
 5 - As nomeações dos docentes não efectivos e as colocações resultantes da preferência conjugal poderão ser renovadas por despacho ministerial, com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas e a publicação no Diário da República, sempre que tenha havido formalização da anterior nomeação.
 
-###### Art. 28.º Os vencimentos e demais remunerações devidos aos docentes colocados ao abrigo da preferência conjugal serão processados pelo serviço regional de educação correspondente à escola onde obtiverem aquela colocação.
+Art. 28.º Os vencimentos e demais remunerações devidos aos docentes colocados ao abrigo da preferência conjugal serão processados pelo serviço regional de educação correspondente à escola onde obtiverem aquela colocação.
 
-###### Art. 29.º - 1 - Consideram-se vinculados ao Ministério da Educação e Cultura até ao termo do ano escolar a que a colocação respeita:
+Art. 29.º - 1 - Consideram-se vinculados ao Ministério da Educação e Cultura até ao termo do ano escolar a que a colocação respeita:
 
 a) Os docentes colocados na 1.ª fase do concurso previsto neste diploma;
 
@@ -365,7 +411,7 @@ b) Os professores que tenham concorrido na 1.ª fase do concurso a todas as esco
 
 4 - Os docentes vinculados ao Ministério da Educação e Cultura nos termos do n.º 1 deste artigo consideram-se, para todos os efeitos legais, em serviço desde o início do respectivo ano escolar.
 
-###### Art. 30.º - 1 - Os vencimentos dos docentes não efectivos são processados pelos respectivos serviços regionais do Ministério da Educação e Cultura.
+Art. 30.º - 1 - Os vencimentos dos docentes não efectivos são processados pelos respectivos serviços regionais do Ministério da Educação e Cultura.
 
 2 - Aos docentes vinculados nos termos deste diploma são devidos vencimentos durante todo o ano escolar.
 
@@ -377,7 +423,7 @@ a) Até ao dia imediatamente anterior ao do início do ano escolar, pelo serviç
 
 b) A partir do início do ano escolar, pelo serviço regional em que ficarem a aguardar colocação.
 
-###### Art. 31.º - 1 - Os docentes não efectivos e não vinculados que entrarem em exercício de funções depois de iniciado o ano lectivo terão direito aos respectivos vencimentos durante os meses de interrupção das actividades lectivas desde que nesse ano lectivo hajam prestado um mínimo de 180 dias de efectivo serviço docente contado até 30 de Junho e se mantiverem em serviço ou ligados ao respectivo serviço regional na mesma data.
+Art. 31.º - 1 - Os docentes não efectivos e não vinculados que entrarem em exercício de funções depois de iniciado o ano lectivo terão direito aos respectivos vencimentos durante os meses de interrupção das actividades lectivas desde que nesse ano lectivo hajam prestado um mínimo de 180 dias de efectivo serviço docente contado até 30 de Junho e se mantiverem em serviço ou ligados ao respectivo serviço regional na mesma data.
 
 2 - Os professores não efectivos nas condições do número anterior, que não hajam prestado 180 dias de serviço, terão direito a auferir em cada um dos meses de interrupção das actividades lectivas a remuneração equivalente ao número de dias de serviço prestado, calculado segundo a fórmula:
 
@@ -389,15 +435,15 @@ N corresponde ao número de dias de remuneração a receber em cada um dos meses
 
 S corresponde ao número de dias de serviço docente prestado no decurso do ano escolar.
 
-###### Art. 32.º - 1 - Os docentes abrangidos pelo disposto no n.º 1 do artigo anterior consideram-se em serviço nos meses de interrupção das actividades lectivas, sem prejuízo do direito à licença para férias.
+Art. 32.º - 1 - Os docentes abrangidos pelo disposto no n.º 1 do artigo anterior consideram-se em serviço nos meses de interrupção das actividades lectivas, sem prejuízo do direito à licença para férias.
 
 2 - O disposto no n.º 1 aplicar-se-á aos docentes abrangidos pelo n.º 2 do artigo anterior apenas pelo número de dias a que corresponde o abono do vencimento, podendo os referidos dias ser contados seguidamente.
 
-###### Art. 33.º - 1 - Os docentes que vierem a obter colocação em postos oficiais de recepção do ciclo preparatório TV por efeito de recondução ou de concurso de âmbito nacional, nos termos legalmente estabelecidos, devem requerer, no prazo de três dias após a referida colocação, a anulação das candidaturas que tenham apresentado para efeitos de colocação ao abrigo do presente diploma.
+Art. 33.º - 1 - Os docentes que vierem a obter colocação em postos oficiais de recepção do ciclo preparatório TV por efeito de recondução ou de concurso de âmbito nacional, nos termos legalmente estabelecidos, devem requerer, no prazo de três dias após a referida colocação, a anulação das candidaturas que tenham apresentado para efeitos de colocação ao abrigo do presente diploma.
 
 2 - Serão anuladas as colocações obtidas ao abrigo deste diploma e as obtidas no ciclo preparatório TV aos docentes que não derem cumprimento ao disposto no número anterior, podendo, no entanto, inscrever-se para efeitos de inclusão na lista a que se refere o artigo 17.º do presente diploma.
 
-###### Art. 34.º - 1 - A distribuição de todos os docentes pelos edifícios da mesma escola será feita no âmbito do conselho escolar.
+Art. 34.º - 1 - A distribuição de todos os docentes pelos edifícios da mesma escola será feita no âmbito do conselho escolar.
 
 2 - Quando, para efeitos de aplicação do disposto no número anterior, se verificar a inexistência de acordo, observar-se-ão, sem prejuízo do estabelecido quanto à constituição de turmas e seu acompanhamento, as seguintes prioridades:
 
@@ -411,15 +457,15 @@ d) Colocados ao abrigo da preferência conjugal.
 
 3 - Dentro de cada uma das alíneas referidas no número anterior a respectiva seriação será feita de acordo com a maior antiguidade na escola.
 
-###### Art. 35.º - 1 - Os lugares de escolas situadas em localidades isoladas, nas quais se tenha verificado impossibilidade de fixação de docentes aí colocados sucessivamente, poderão ser preenchidos segundo regras a fixar em portaria do Ministro da Educação e Cultura, ouvidos os sindicatos dos professores.
+Art. 35.º - 1 - Os lugares de escolas situadas em localidades isoladas, nas quais se tenha verificado impossibilidade de fixação de docentes aí colocados sucessivamente, poderão ser preenchidos segundo regras a fixar em portaria do Ministro da Educação e Cultura, ouvidos os sindicatos dos professores.
 
 2 - Os docentes colocados nos termos do número anterior, que pretendam manter-se no mesmo distrito no ano escolar seguinte, poderão requerer a sua colocação em lugares vagos e disponíveis após a colocação dos titulares de lugares suspensos ou extintos, desde que não tenham dado mais de 30 dias de faltas no ano escolar, e, caso sejam vinculados, beneficiarão ainda do disposto no n.º 4 do artigo 18.º do presente diploma.
 
 3 - O início e o termo legalmente fixados para o horário dos professores colocados nas escolas referidas no n.º 1 podem ser alterados às segundas-feiras e às sextas-feiras, sem prejuízo do número de horas lectivas diárias do mesmo horário.
 
-###### Art. 36.º Os lugares que forem atribuídos na 1.ª fase do concurso previsto neste diploma a professores não efectivos colocados em regime especial para o ano escolar seguinte, até 5 de Agosto do ano em que se realiza o concurso, serão recuperados automaticamente para efeitos de colocação de outros candidatos à mesma fase.
+Art. 36.º Os lugares que forem atribuídos na 1.ª fase do concurso previsto neste diploma a professores não efectivos colocados em regime especial para o ano escolar seguinte, até 5 de Agosto do ano em que se realiza o concurso, serão recuperados automaticamente para efeitos de colocação de outros candidatos à mesma fase.
 
-###### Art. 37.º - 1 - Os docentes não efectivos colocados na 1.ª fase do concurso e os docentes não efectivos colocados pelos serviços regionais de educação até 15 de Setembro, em lugares vagos e disponíveis para todo o ano, podem requerer ao director-geral de Administração e Pessoal a troca de lugares até dois dias antes do início das actividades lectivas do respectivo ano escolar.
+Art. 37.º - 1 - Os docentes não efectivos colocados na 1.ª fase do concurso e os docentes não efectivos colocados pelos serviços regionais de educação até 15 de Setembro, em lugares vagos e disponíveis para todo o ano, podem requerer ao director-geral de Administração e Pessoal a troca de lugares até dois dias antes do início das actividades lectivas do respectivo ano escolar.
 
 2 - Cada docente só poderá beneficiar de uma troca de lugares em cada ano escolar.
 
@@ -427,30 +473,30 @@ d) Colocados ao abrigo da preferência conjugal.
 
 4 - Os docentes que trocarem os respectivos lugares manterão os direitos resultantes da sua colocação na primeira escola, designadamente para efeitos de recondução.
 
-###### Art. 38.º - 1 - O director-geral de Administração e Pessoal poderá delegar nos respectivos dirigentes regionais a competência para decidir sobre os pedidos de troca de lugares apresentados pelos docentes não efectivos colocados nos respectivos distritos.
+Art. 38.º - 1 - O director-geral de Administração e Pessoal poderá delegar nos respectivos dirigentes regionais a competência para decidir sobre os pedidos de troca de lugares apresentados pelos docentes não efectivos colocados nos respectivos distritos.
 
 2 - Os pedidos de troca de lugares apresentados pelos docentes não efectivos colocados em distritos diferentes serão informados pelos respectivos dirigentes regionais antes de serem apresentados a despacho do director-geral de Administração e Pessoal.
 
-###### Art. 39.º - 1 - O presente diploma aplica-se integralmente aos educadores de infância que se encontrem nas situações nele previstas para os professores do 1.º ciclo do ensino básico.
+Art. 39.º - 1 - O presente diploma aplica-se integralmente aos educadores de infância que se encontrem nas situações nele previstas para os professores do 1.º ciclo do ensino básico.
 
 2 - Para efeitos de aplicação do disposto no presente diploma, as referências a professores ou docentes, escolas ou estabelecimentos de ensino e ao quadro geral do ensino primário correspondem a educadores de infância, jardins-de-infância da rede pública do Ministério da Educação e Cultura e ao quadro único de educadores de infância de educação pré-escolar da rede pública do Ministério da Educação e Cultura.
 
-###### Art. 40.º O disposto no presente diploma poderá ser aplicado às Regiões Autónomas dos Açores e da Madeira, mediante diploma das respectivas Assembleias Regionais, tendo em conta a realidade insular.
+Art. 40.º O disposto no presente diploma poderá ser aplicado às Regiões Autónomas dos Açores e da Madeira, mediante diploma das respectivas Assembleias Regionais, tendo em conta a realidade insular.
 
-###### Art. 41.º São revogados os Decretos-Leis n.os [207/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1982-392375), de 25 de Maio, [236/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1983-451779), de 4 de Junho, e [180/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1982-392453), de 15 de Maio, na parte respeitante a educadores de infância não efectivos, bem como a respectiva legislação complementar.
+Art. 41.º São revogados os Decretos-Leis n.os [207/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1982-392375), de 25 de Maio, [236/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1983-451779), de 4 de Junho, e [180/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1982-392453), de 15 de Maio, na parte respeitante a educadores de infância não efectivos, bem como a respectiva legislação complementar.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Mapa anexo ao Decreto-Lei n.º 200/87
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18251831.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18251831.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10000/18251831.pdf)

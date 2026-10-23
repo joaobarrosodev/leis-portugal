@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 17/1988, 1º Suplemento, Série I de 1988-01-21
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 248-(2) a 248-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01701/00020016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07108036b0566a4b3c49c62e1b4676fbe1da1e5c4c4a2f4eadbbe3a7eebc451b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bbb7efb67ec2f58e837a848c0be612c7987341877d7035075767afc5b3596c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Contratação de Docentes
+- Contrato de Trabalho
+- Ensino Preparatório
+- Pessoal Docente
+- Preferência Conjugal
 relationships:
 - type: amended_by
   target: pt:dre:624793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234500:por
+  label: Alterado, com efeitos a 01.01.88, o art. 94.º do presente diploma, pelo(a) Decreto-Lei n.º 8/89 - Diário da República
+    n.º 5/1989, Série I de 1989-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1989-234500
+  date: '1989-01-06'
+- type: amended_by
+  target: pt:dre:145799:por
+  label: "Alterado o art 47º pelo Dec Lei .256/96.1996.12.27.ME, DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1996-145799
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:453502:por
+  label: "Alterados os art 10º, 15º, 28º, 52º e 58º pelo Dec Lei. 43-A/97.1997.02.17.ME, DR.IS-A [40]supl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-a-1997-453502
+  date: '1997-02-17'
+- type: amended_by
+  target: pt:dre:534604:por
+  label: "Alterados os art. 7º, 8º, 16º e 58º (este último na redacção da pelo Dec Lei 43-A/97, de 17-Fev), pelo DEC LEI.5-A/2001.2001.01.12.ME,\
+    \ DR.IS-A [10]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-2001-534604
+  date: '2001-01-12'
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680650:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219524:por
+  label: Rectificado pela DECL.DD2176.1988.03.14.PCM,DR.IS [76]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219524
+  date: '1988-03-14'
+- type: repealed_by
+  target: pt:dre:186123:por
+  label: "Revogado pelo DEC LEI.35/2003.2003.02.27.ME DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2003-186123
+  date: '2003-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:13Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +234,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Âmbito pessoal de aplicação
 
-###### Artigo 1.º O presente diploma aplica-se aos professores cuja situação profissional é a definida no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com a redacção dada pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril, no [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, com a redacção dada pelo [Decreto-Lei n.º 50-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-1987-573364), de 29 de Janeiro, e no [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março, com a redacção dada pelo [Decreto-Lei n.º 50-B/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-b-1987-573365), de 29 de Janeiro.
+Artigo 1.º O presente diploma aplica-se aos professores cuja situação profissional é a definida no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com a redacção dada pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril, no [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, com a redacção dada pelo [Decreto-Lei n.º 50-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-1987-573364), de 29 de Janeiro, e no [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março, com a redacção dada pelo [Decreto-Lei n.º 50-B/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-b-1987-573365), de 29 de Janeiro.
 
 ### CAPÍTULO II — Princípios gerais
 
-###### Art. 2.º - 1 - Os lugares dos quadros docentes dos estabelecimentos dos ensinos preparatório e ou secundário resultam do somatório do estabelecido nas alíneas seguintes:
+Art. 2.º - 1 - Os lugares dos quadros docentes dos estabelecimentos dos ensinos preparatório e ou secundário resultam do somatório do estabelecido nas alíneas seguintes:
 
 a) Lugares dos quadros criados por lei que se encontrem providos;
 
@@ -139,13 +262,13 @@ b) Professores dos quadros com nomeação provisória os professores providos co
 
 ### CAPÍTULO III — Da abertura do concurso
 
-###### Art. 3.º O concurso referido no artigo anterior será aberto anualmente pela Direcção-Geral de Administração e Pessoal até ao termo do mês de Fevereiro e constará de aviso a publicar no Diário da República, no qual se inserirão as vagas postas a concurso e quaisquer outros elementos a ele respeitantes, tais como a indicação dos locais de consulta das listas de vagas existentes em resultado da aplicação do artigo 1.º, de ordenação de candidatos e de colocação dos mesmos.
+Art. 3.º O concurso referido no artigo anterior será aberto anualmente pela Direcção-Geral de Administração e Pessoal até ao termo do mês de Fevereiro e constará de aviso a publicar no Diário da República, no qual se inserirão as vagas postas a concurso e quaisquer outros elementos a ele respeitantes, tais como a indicação dos locais de consulta das listas de vagas existentes em resultado da aplicação do artigo 1.º, de ordenação de candidatos e de colocação dos mesmos.
 
-###### Art. 4.º O concurso relativo ao ano escolar de 1988-1989 é especificamente regulado pelas normas constantes deste diploma.
+Art. 4.º O concurso relativo ao ano escolar de 1988-1989 é especificamente regulado pelas normas constantes deste diploma.
 
 ### CAPÍTULO IV — Dos opositores à primeira parte do concurso para o ano de 1988-1989 - Sua ordenação e apresentação ao concurso
 
-###### Art. 5.º Poderão ser opositores à primeira parte do concurso os seguintes candidatos:
+Art. 5.º Poderão ser opositores à primeira parte do concurso os seguintes candidatos:
 
 a) Professores dos quadros com nomeação definitiva já profissionalizados, excluindo nesta alínea os considerados nas alíneas c) e d);
 
@@ -161,7 +284,7 @@ f) Professores profissionalizados não pertencentes aos quadros;
 
 g) Professores portadores de habilitação própria não profissionalizados, excluídos os da alínea e).
 
-###### Art. 6.º - 1 - Os candidatos referidos em cada uma das alíneas do artigo anterior serão ordenados nas prioridades a seguir indicadas:
+Art. 6.º - 1 - Os candidatos referidos em cada uma das alíneas do artigo anterior serão ordenados nas prioridades a seguir indicadas:
 
 Primeira prioridade:
 
@@ -237,7 +360,7 @@ c) Vinculados pela habilitação suficiente os professores que se integrem na al
 
 12 - Em qualquer das situações referidas nos n.os 10 e 11, os candidatos juntarão à sua candidatura documento ou documentos comprovativos dos respectivos requisitos.
 
-###### Art. 7.º - 1 - Os opositores à primeira parte do concurso previsto neste decreto-lei incluídos nas alíneas a), b), c), d) ou f) do artigo 5.º serão ordenados, dentro de cada uma das prioridades estabelecidas no artigo 6.º, por ordem decrescente da respectiva graduação profissional.
+Art. 7.º - 1 - Os opositores à primeira parte do concurso previsto neste decreto-lei incluídos nas alíneas a), b), c), d) ou f) do artigo 5.º serão ordenados, dentro de cada uma das prioridades estabelecidas no artigo 6.º, por ordem decrescente da respectiva graduação profissional.
 
 2 - A graduação profissional referida no número anterior dos professores indicados nas alíneas a), b), d) ou f) do artigo 5.º é determinada pela soma da classificação profissional obtida de acordo com a legislação em vigor à data da sua obtenção, com a parcela N x 1 valor, em que N é o quociente da divisão inteira por 365 dias do número de dias de serviço docente oficial ou equiparado classificado de Bom, contado a partir do dia 1 de Setembro do ano civil em que o professor concluiu a sua profissionalização no grupo, subgrupo, disciplina ou especialidade em que é opositor até ao dia 30 de Setembro imediatamente anterior à data da abertura do concurso, não podendo N exceder 20.
 
@@ -255,7 +378,7 @@ b) Candidatos portadores de maior grau académico;
 
 c) Candidatos mais idosos.
 
-###### Art. 8.º - 1 - Dentro de cada uma das prioridades previstas no artigo 6.º deste diploma, e sem prejuízo da aplicação do disposto no n.º 7 do mesmo artigo, os opositores à primeira parte do concurso incluídos nas alíneas e) ou g) do artigo 5.º são ordenados de acordo com os escalões das habilitações próprias fixadas na legislação em vigor.
+Art. 8.º - 1 - Dentro de cada uma das prioridades previstas no artigo 6.º deste diploma, e sem prejuízo da aplicação do disposto no n.º 7 do mesmo artigo, os opositores à primeira parte do concurso incluídos nas alíneas e) ou g) do artigo 5.º são ordenados de acordo com os escalões das habilitações próprias fixadas na legislação em vigor.
 
 2 - Dentro de cada um dos escalões referidos no número anterior, os candidatos são seriados por ordem decrescente da sua graduação na docência.
 
@@ -287,7 +410,7 @@ c) Candidatos mais idosos.
 
 6 - O tempo de serviço referido no [Decreto-Lei n.º 169/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1985-151527), de 20 de Maio, alterado pelo [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), é considerado como serviço docente oficial para efeitos do concurso previsto neste diploma.
 
-###### Art. 9.º A apresentação à primeira parte do concurso far-se-á mediante o preenchimento de um, e um só, boletim normalizado, do qual constarão, obrigatoriamente:
+Art. 9.º A apresentação à primeira parte do concurso far-se-á mediante o preenchimento de um, e um só, boletim normalizado, do qual constarão, obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -303,7 +426,7 @@ f) Códigos dos estabelecimentos de ensino, dos concelhos, dos distritos e das z
 
 ### CAPÍTULO V — Dos opositores à primeira parte do concurso para o ano de 1988-1989 - Disciplina do concurso
 
-###### Art. 10.º - 1 - Os candidatos ao concurso a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, de acordo com o previsto numa ou mais das seguintes alíneas:
+Art. 10.º - 1 - Os candidatos ao concurso a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, de acordo com o previsto numa ou mais das seguintes alíneas:
 
 a) Códigos de estabelecimentos de ensino do continente, no máximo de 100;
 
@@ -315,15 +438,15 @@ d) Códigos das zonas do continente referenciadas no mapa anexo ao presente dipl
 
 2 - Quando um candidato concorrer por concelhos, distritos ou por zonas, considera-se que manifesta igual preferência por todos os estabelecimentos de ensino de cada um desses concelhos, distritos ou zonas.
 
-###### Art. 11.º - 1 - Os candidatos que sejam professores dos quadros apenas poderão concorrer, nessa qualidade, ao grupo, subgrupo, disciplina ou especialidade em que estão providos.
+Art. 11.º - 1 - Os candidatos que sejam professores dos quadros apenas poderão concorrer, nessa qualidade, ao grupo, subgrupo, disciplina ou especialidade em que estão providos.
 
 2 - Os candidatos que sejam professores dos quadros de nomeação definitiva e possuam também habilitação profissional para outros grupos, subgrupos, disciplinas ou especialidades poderão, não concorrendo ao grupo, subgrupo, disciplina ou especialidade em que estão providos no quadro, optar por candidatar-se a um, e um só, daqueles grupos, subgrupos, disciplinas ou especialidades, na qualidade de professores profissionalizados não pertencentes ao quadro, integrando-se, neste caso, na situação prevista na segunda prioridade do artigo 6.º deste diploma.
 
 3 - Os candidatos que sejam profissionalizados não pertencentes ao quadro com habilitação profissional para mais de um grupo, subgrupo, disciplina ou especialidade apenas se poderão candidatar a um desses grupos, subgrupos, disciplinas ou especialidades.
 
-###### Art. 12.º Serão excluídos do concurso os candidatos que preencherem irregularmente o respectivo boletim de admissão, não podendo ser opositores nos dois concursos imediatamente seguintes, caso se prove intenção dolosa naquelas irregularidades.
+Art. 12.º Serão excluídos do concurso os candidatos que preencherem irregularmente o respectivo boletim de admissão, não podendo ser opositores nos dois concursos imediatamente seguintes, caso se prove intenção dolosa naquelas irregularidades.
 
-###### Art. 13.º - 1 - A primeira parte do concurso a que se refere este diploma realiza-se com recuperação automática de vagas, incluindo as dos professores contratados plurianualmente, que se transformam, para o efeito, em lugares de quadro, de modo que cada concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com menor graduação.
+Art. 13.º - 1 - A primeira parte do concurso a que se refere este diploma realiza-se com recuperação automática de vagas, incluindo as dos professores contratados plurianualmente, que se transformam, para o efeito, em lugares de quadro, de modo que cada concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com menor graduação.
 
 2 - Os lugares extintos por força da aplicação do disposto no n.º 1 do artigo 21.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, consideram-se, para efeitos da primeira parte do concurso previsto neste diploma, automaticamente criados, aplicando-se-lhes o regime de recuperação previsto no número anterior.
 
@@ -333,25 +456,25 @@ d) Códigos das zonas do continente referenciadas no mapa anexo ao presente dipl
 
 5 - De acordo com o estabelecido nos n.os 1 e 2 deste artigo, cada concorrente pode indicar, de entre as suas preferências, os estabelecimentos de ensino em que pretenda ser colocado, independentemente de neles haver lugares vagos à data de abertura do respectivo concurso.
 
-###### Art. 14.º - 1 - As listas provisórias de ordenação dos candidatos serão publicitadas nos termos legais em vigor, podendo os mesmos reclamar, no prazo de oito dias a contar do dia imediato ao da mencionada publicitação dos elementos delas constantes, bem como dos dos verbetes distribuídos pela Direcção-Geral de Administração e Pessoal aos estabelecimentos de ensino e dos quais constam os códigos dos estabelecimentos de ensino, dos concelhos, dos distritos e das zonas e ainda dos grupos, subgrupos, disciplinas ou especialidades a que os candidatos foram opositores, sem prejuízo do disposto no número seguinte.
+Art. 14.º - 1 - As listas provisórias de ordenação dos candidatos serão publicitadas nos termos legais em vigor, podendo os mesmos reclamar, no prazo de oito dias a contar do dia imediato ao da mencionada publicitação dos elementos delas constantes, bem como dos dos verbetes distribuídos pela Direcção-Geral de Administração e Pessoal aos estabelecimentos de ensino e dos quais constam os códigos dos estabelecimentos de ensino, dos concelhos, dos distritos e das zonas e ainda dos grupos, subgrupos, disciplinas ou especialidades a que os candidatos foram opositores, sem prejuízo do disposto no número seguinte.
 
 2 - O prazo de reclamações a que se refere o número anterior será de doze dias em relação aos candidatos que exerçam funções no estrangeiro, como cooperantes, em Macau ou nas regiões autónomas.
 
 3 - Para todos os efeitos, considera-se que a não apresentação de reclamação por parte dos candidatos dos elementos constantes das listas provisórias e dos dos verbetes referidos no n.º 1 deste artigo equivale à aceitação tácita dos mesmos.
 
-###### Art. 15.º - 1 - As desistências do concurso ou de parte das preferências manifestadas ou de alterações às mesmas são admitidas desde que os respectivos pedidos dêem entrada na Direcção-Geral de Administração e Pessoal até ao termo do prazo de reclamações a que se refere o n.º 1 do artigo anterior.
+Art. 15.º - 1 - As desistências do concurso ou de parte das preferências manifestadas ou de alterações às mesmas são admitidas desde que os respectivos pedidos dêem entrada na Direcção-Geral de Administração e Pessoal até ao termo do prazo de reclamações a que se refere o n.º 1 do artigo anterior.
 
 2 - Decididas as reclamações no prazo máximo de 30 dias úteis, contados a partir da última data legal de recepção de reclamações, as listas provisórias converter-se-ão em definitivas, tendo em conta as alterações decorrentes das reclamações julgadas procedentes e das provenientes das desistências.
 
 3 - Das listas definitivas referidas no número anterior cabe recurso hierárquico sem efeito suspensivo.
 
-###### Art. 16.º - 1 - As listas de colocação dos candidatos serão publicitadas nos termos legais em vigor após terem sido homologadas por despacho ministerial.
+Art. 16.º - 1 - As listas de colocação dos candidatos serão publicitadas nos termos legais em vigor após terem sido homologadas por despacho ministerial.
 
 2 - As listas de colocação dos candidatos constituem o único meio que a Direcção-Geral de Administração e Pessoal utilizará para comunicar aos interessados as respectivas colocações.
 
 ### CAPÍTULO VI — Da colocação e posse dos candidatos à primeira parte do concurso para o ano de 1988-1989
 
-###### Art. 17.º - 1 - Todos os candidatos que obtiverem colocação na primeira parte do concurso para o ano de 1988-1989 têm direito ao primeiro provimento como professor do quadro com nomeação definitiva, desde que se encontrem incluídos nas prioridades segunda, quarta ou sétima do artigo 6.º do presente diploma e ainda os que, encontrando-se nas prioridades terceira, quinta, sexta ou décima do mesmo artigo, possuam em 30 de Setembro de 1987, pelo menos, quinze anos de serviço docente oficial ou equiparado ou, estando incluídos na quinta prioridade, possuam cumulativamente 50 anos de idade e dez anos de serviço docente, oficial ou equiparado, ambos reportados àquela data.
+Art. 17.º - 1 - Todos os candidatos que obtiverem colocação na primeira parte do concurso para o ano de 1988-1989 têm direito ao primeiro provimento como professor do quadro com nomeação definitiva, desde que se encontrem incluídos nas prioridades segunda, quarta ou sétima do artigo 6.º do presente diploma e ainda os que, encontrando-se nas prioridades terceira, quinta, sexta ou décima do mesmo artigo, possuam em 30 de Setembro de 1987, pelo menos, quinze anos de serviço docente oficial ou equiparado ou, estando incluídos na quinta prioridade, possuam cumulativamente 50 anos de idade e dez anos de serviço docente, oficial ou equiparado, ambos reportados àquela data.
 
 2 - Todos os candidatos ainda sem provimento como professores do quadro que obtiverem colocação na primeira parte do concurso para o ano de 1988-1989 e não se encontrem nas condições do número anterior têm direito ao provimento como professores do quadro com nomeação provisória.
 
@@ -361,7 +484,7 @@ d) Códigos das zonas do continente referenciadas no mapa anexo ao presente dipl
 
 5 - Nos concursos seguintes os professores previstos no n.º 2 deste artigo incluem-se na terceira prioridade do artigo 6.º, passando a incluir-se na primeira prioridade do mesmo artigo logo que obtenham a profissionalização.
 
-###### Art. 18.º - 1 - Todos os candidatos ao concurso para o ano de 1988-1989 incluídos na alínea f) do artigo 5.º que, estando na segunda prioridade, se candidatarem na situação de vinculados nos termos do artigo 6.º e não obtiverem colocação na primeira parte do referido concurso serão providos como professores do quadro com nomeação definitiva sem que de tal situação resulte a ocupação do correspondente lugar, ficando, contudo, a exercer funções docentes no lugar que obtiverem na segunda parte do concurso.
+Art. 18.º - 1 - Todos os candidatos ao concurso para o ano de 1988-1989 incluídos na alínea f) do artigo 5.º que, estando na segunda prioridade, se candidatarem na situação de vinculados nos termos do artigo 6.º e não obtiverem colocação na primeira parte do referido concurso serão providos como professores do quadro com nomeação definitiva sem que de tal situação resulte a ocupação do correspondente lugar, ficando, contudo, a exercer funções docentes no lugar que obtiverem na segunda parte do concurso.
 
 2 - No caso de os candidatos a que se refere o número anterior não obterem colocação na segunda parte do concurso, ser-lhes-á atribuído serviço em termos a definir no despacho normativo referido no artigo 67.º deste diploma.
 
@@ -369,7 +492,7 @@ d) Códigos das zonas do continente referenciadas no mapa anexo ao presente dipl
 
 4 - Os professores profissionalizados incluídos na segunda prioridade que não concorrerem na situação de vinculados e os incluídos na quarta prioridade que, tanto uns como os outros, não obtenham colocação nem na primeira nem na segunda parte do concurso só poderão concorrer nos concursos seguintes na sétima prioridade.
 
-###### Art. 19.º - 1 - Os candidatos à primeira parte do concurso para o ano de 1988-1989 incluídos nas quinta ou sexta prioridades estabelecidas no artigo 6.º deste diploma que não obtiverem colocação adquirem a categoria de professores do quadro com nomeação provisória, sem que de tal situação resulte ocupação do correspondente lugar, mantendo-se, no entanto, nesse ano escolar, em exercício de funções docentes:
+Art. 19.º - 1 - Os candidatos à primeira parte do concurso para o ano de 1988-1989 incluídos nas quinta ou sexta prioridades estabelecidas no artigo 6.º deste diploma que não obtiverem colocação adquirem a categoria de professores do quadro com nomeação provisória, sem que de tal situação resulte ocupação do correspondente lugar, mantendo-se, no entanto, nesse ano escolar, em exercício de funções docentes:
 
 a) Na escola e no grupo, subgrupo, disciplina ou especialidade em que se encontravam contratados, no que se refere aos candidatos da quinta prioridade;
 
@@ -393,13 +516,13 @@ b) Tiverem, em 30 de Setembro de 1987, quinze anos de serviço docente oficial o
 
 5 - Os docentes referidos no n.º 1 deste artigo que não derem cumprimento ao estabelecido no n.º 2 serão exonerados do lugar do quadro com efeitos a partir do início do ano escolar a que o concurso respeita.
 
-###### Art. 20.º Até à publicação do estatuto do pessoal docente aplicável aos níveis de ensino em apreço, às nomeações e transferências do pessoal docente dos quadros daqueles graus de ensino aplica-se o disposto na legislação em vigor sobre a matéria.
+Art. 20.º Até à publicação do estatuto do pessoal docente aplicável aos níveis de ensino em apreço, às nomeações e transferências do pessoal docente dos quadros daqueles graus de ensino aplica-se o disposto na legislação em vigor sobre a matéria.
 
-###### Art. 21.º - 1 - Os provimentos do pessoal docente dos quadros dos estabelecimentos dos ensinos preparatório e ou secundário entendem-se sempre feitos por urgente conveniência de serviço, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, sendo devidos os respectivos abonos a partir da entrada em exercício de funções.
+Art. 21.º - 1 - Os provimentos do pessoal docente dos quadros dos estabelecimentos dos ensinos preparatório e ou secundário entendem-se sempre feitos por urgente conveniência de serviço, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, sendo devidos os respectivos abonos a partir da entrada em exercício de funções.
 
 2 - O despacho ministerial que homologar a lista de colocação invocará, relativamente a todos os professores dela constantes, a conveniência urgente de serviço.
 
-###### Art. 22.º - 1 - Em 1 de Setembro de cada ano, sem prejuízo das respectivas obrigações e regalias em relação à escola em que prestam serviço e de acordo com os princípios definidos em despacho do Ministro da Educação, os docentes apresentar-se-ão nas escolas em que, nos termos das listas de colocação, lhes haja sido atribuído lugar por efeitos do respectivo concurso ou, no caso de não obtenção de colocação, na escola em que no ano escolar imediatamente anterior se encontravam em exercício de funções.
+Art. 22.º - 1 - Em 1 de Setembro de cada ano, sem prejuízo das respectivas obrigações e regalias em relação à escola em que prestam serviço e de acordo com os princípios definidos em despacho do Ministro da Educação, os docentes apresentar-se-ão nas escolas em que, nos termos das listas de colocação, lhes haja sido atribuído lugar por efeitos do respectivo concurso ou, no caso de não obtenção de colocação, na escola em que no ano escolar imediatamente anterior se encontravam em exercício de funções.
 
 2 - A apresentação a que se refere o número anterior produz efeitos a partir da data marcada para o início do ano escolar.
 
@@ -407,17 +530,17 @@ b) Tiverem, em 30 de Setembro de 1987, quinze anos de serviço docente oficial o
 
 4 - O provimento dos lugares considerados vagos por efeito do disposto nos n.os 1 e 2 do artigo 13.º do presente diploma far-se-á independentemente da publicitação da data da vacatura do lugar, coincidindo a mesma com a data do despacho ministerial que autorize a transferência do antigo titular.
 
-###### Art. 23.º - 1 - Até ao conhecimento oficial pelo respectivo estabelecimento de ensino da recusa do visto do Tribunal de Contas em resultado da aplicação do n.º 1 do artigo 21.º deste diploma, são devidos os abonos aos interessados na qualidade de docentes dos quadros.
+Art. 23.º - 1 - Até ao conhecimento oficial pelo respectivo estabelecimento de ensino da recusa do visto do Tribunal de Contas em resultado da aplicação do n.º 1 do artigo 21.º deste diploma, são devidos os abonos aos interessados na qualidade de docentes dos quadros.
 
 2 - Após a data do conhecimento mencionado no número anterior cessarão de imediato os respectivos abonos na qualidade de professor pertencente aos quadros e, para o efeito, o estabelecimento de ensino informará o interessado.
 
 3 - Os docentes referidos nos n.os 2 e 3 deste artigo poder-se-ão manter, porém, ao serviço, por interesse da Administração, até ao termo do respectivo ano escolar, sendo-lhes nesse caso devidos abonos na qualidade a que legalmente tiverem direito.
 
-###### Art. 24.º - 1 - A apresentação mencionada no artigo 22.º deste diploma confere ao respectivo docente todos os direitos e deveres inerentes à qualidade de professor dos quadros, salvo as excepções expressamente previstas neste diploma.
+Art. 24.º - 1 - A apresentação mencionada no artigo 22.º deste diploma confere ao respectivo docente todos os direitos e deveres inerentes à qualidade de professor dos quadros, salvo as excepções expressamente previstas neste diploma.
 
 2 - Para os efeitos previstos no número anterior, os docentes a que se refere a segunda parte do n.º 1 do artigo 17.º deste diploma consideram-se como professores do quadro profissionalizados.
 
-###### Art. 25.º - 1 - Sem prejuízo do disposto no § único do artigo 4.º do [Decreto-Lei n.º 39945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39945-1954-680650), de 27 de Setembro de 1945, a não comparência dos professores dos ensinos preparatório e secundário para efeitos do disposto no n.º 1 do artigo 22.º deste diploma determina a:
+Art. 25.º - 1 - Sem prejuízo do disposto no § único do artigo 4.º do [Decreto-Lei n.º 39945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39945-1954-680650), de 27 de Setembro de 1945, a não comparência dos professores dos ensinos preparatório e secundário para efeitos do disposto no n.º 1 do artigo 22.º deste diploma determina a:
 
 a) Anulação da colocação;
 
@@ -427,13 +550,13 @@ c) Impossibilidade de, no respectivo ano escolar e nos dois anos subsequentes, s
 
 2 - O disposto no número anterior poderá não ser aplicado em virtude de motivos devidamente justificados e fundamentados, reconhecidos como tais por despacho do director-geral de Administração e Pessoal.
 
-###### Art. 26.º - 1 - Sempre que uma secção de um estabelecimento de ensino preparatório e ou secundário der origem à criação de uma escola, os professores do quadro da escola de origem nas condições das alíneas a), b), c) ou e) do artigo 5.º deste diploma poderão requerer a sua integração no quadro da nova escola.
+Art. 26.º - 1 - Sempre que uma secção de um estabelecimento de ensino preparatório e ou secundário der origem à criação de uma escola, os professores do quadro da escola de origem nas condições das alíneas a), b), c) ou e) do artigo 5.º deste diploma poderão requerer a sua integração no quadro da nova escola.
 
 2 - A integração referida no número anterior far-se-á independentemente de concurso e será requerida até 30 de Novembro imediatamente anterior à data de abertura do primeiro concurso previsto neste diploma em que os lugares da nova escola sejam postos a concurso.
 
 3 - Caso o número de docentes interessados na integração seja superior ao número de vagas existentes em determinado grupo, subgrupo, disciplina ou especialidade, estes serão graduados de acordo com as regras estabelecidas neste diploma para a primeira parte do concurso, preferindo sempre os professores do quadro melhor posicionados.
 
-###### Art. 27.º - 1 - Sempre que numa escola, em determinado grupo, subgrupo, disciplina ou especialidade, surjam situações de excesso de professores do quadro, poderá a Administração transferi-los para o quadro de outra escola da mesma freguesia, vila ou cidade do mesmo nível de ensino.
+Art. 27.º - 1 - Sempre que numa escola, em determinado grupo, subgrupo, disciplina ou especialidade, surjam situações de excesso de professores do quadro, poderá a Administração transferi-los para o quadro de outra escola da mesma freguesia, vila ou cidade do mesmo nível de ensino.
 
 2 - Caso o número de docentes interessados na transferência seja superior ao número de lugares providos em excesso, aplica-se o n.º 3 do artigo anterior.
 
@@ -445,7 +568,7 @@ c) Impossibilidade de, no respectivo ano escolar e nos dois anos subsequentes, s
 
 6 - As transferências referidas nos números anteriores recairão sempre sobre professores do quadro do grupo, subgrupo, disciplina ou especialidade que se integrem nas alíneas a), b), c) ou e) do artigo 5.º deste diploma.
 
-###### Art. 28.º - 1 - Os professores do quadro na situação de licença ilimitada que pretendam reocupar lugar no quadro só o poderão fazer através do concurso regulamentado por este diploma, situando-se, para tal efeito, na primeira prioridade definida no artigo 6.º do presente decreto-lei.
+Art. 28.º - 1 - Os professores do quadro na situação de licença ilimitada que pretendam reocupar lugar no quadro só o poderão fazer através do concurso regulamentado por este diploma, situando-se, para tal efeito, na primeira prioridade definida no artigo 6.º do presente decreto-lei.
 
 2 - Os professores abrangidos pelo número anterior no caso de não obterem colocação na primeira parte do concurso poderão, ainda, candidatar-se à segunda parte na primeira prioridade.
 
@@ -455,19 +578,19 @@ c) Impossibilidade de, no respectivo ano escolar e nos dois anos subsequentes, s
 
 ### CAPÍTULO VII — Das obrigações dos professores providos em resultado da primeira parte do concurso
 
-###### Art. 29.º - 1 - Os docentes do quadro com nomeação definitiva em situação de não ocupação de lugar do quadro e os incluídos na alínea d) do artigo 5.º que, apesar de se terem candidatado a todas as escolas de, pelo menos, uma zona ou grupo, subgrupo, disciplina ou especialidade em que estão providos, não obtiverem colocação na primeira parte do concurso mantêm-se no mesmo estabelecimento de ensino, continuando com a obrigatoriedade de, enquanto não obtiverem colocação na primeira parte do concurso, se candidatarem nas condições expressas neste número.
+Art. 29.º - 1 - Os docentes do quadro com nomeação definitiva em situação de não ocupação de lugar do quadro e os incluídos na alínea d) do artigo 5.º que, apesar de se terem candidatado a todas as escolas de, pelo menos, uma zona ou grupo, subgrupo, disciplina ou especialidade em que estão providos, não obtiverem colocação na primeira parte do concurso mantêm-se no mesmo estabelecimento de ensino, continuando com a obrigatoriedade de, enquanto não obtiverem colocação na primeira parte do concurso, se candidatarem nas condições expressas neste número.
 
 2 - Se os docentes referidos no número anterior não se candidatarem a todas as escolas de, pelo menos, uma zona são excluídos do concurso e exonerados com efeitos a partir do início do ano escolar seguinte.
 
 3 - Nos concursos seguintes, os docentes abrangidos pelo número anterior só poderão candidatar-se à primeira parte nas sétima ou décima prioridades, conforme sejam ou não profissionalizados.
 
-###### Art. 30.º Os candidatos incluídos na alínea g) do artigo 5.º que podendo concorrer na situação de vinculados nos termos do artigo 6.º como tal o não fizerem só poderão candidatar-se nos concursos seguintes, na décima prioridade mencionada no citado artigo 6.º, se à mesma tiverem direito.
+Art. 30.º Os candidatos incluídos na alínea g) do artigo 5.º que podendo concorrer na situação de vinculados nos termos do artigo 6.º como tal o não fizerem só poderão candidatar-se nos concursos seguintes, na décima prioridade mencionada no citado artigo 6.º, se à mesma tiverem direito.
 
-###### Art. 31.º - 1 - Os professores incluídos na terceira prioridade definida no artigo 6.º deste diploma que ocupem lugar obtido por efeitos da primeira parte do concurso previsto neste decreto-lei ou como consequência da aplicação do disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, na redacção dada pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril, poderão candidatar-se a qualquer número de vagas.
+Art. 31.º - 1 - Os professores incluídos na terceira prioridade definida no artigo 6.º deste diploma que ocupem lugar obtido por efeitos da primeira parte do concurso previsto neste decreto-lei ou como consequência da aplicação do disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, na redacção dada pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril, poderão candidatar-se a qualquer número de vagas.
 
 2 - Os professores referidos no número anterior passarão a integrar-se na primeira prioridade do artigo 6.º concluída que seja a respectiva profissionalização.
 
-###### Art. 32.º - 1 - É automaticamente denunciado o contrato plurianual, com efeitos a partir de 1 de Setembro de 1988, aos professores contratados plurianualmente que não se candidatem, na primeira parte do concurso, nas condições expressas na quinta prioridade do artigo 6.º deste diploma.
+Art. 32.º - 1 - É automaticamente denunciado o contrato plurianual, com efeitos a partir de 1 de Setembro de 1988, aos professores contratados plurianualmente que não se candidatem, na primeira parte do concurso, nas condições expressas na quinta prioridade do artigo 6.º deste diploma.
 
 2 - O disposto no número anterior não se aplica aos docentes contratados plurianualmente com pelo menos 50 anos de idade e pelo menos dez anos de serviço docente, ambas as condições reportadas a 30 de Setembro de 1987, que poderão optar por manter-se naquela situação.
 
@@ -477,7 +600,7 @@ c) Impossibilidade de, no respectivo ano escolar e nos dois anos subsequentes, s
 
 ### CAPÍTULO VIII — Demais princípios a aplicar à primeira parte do concurso para os anos de 1989-1990 e seguintes
 
-###### Art. 33.º - 1 - À primeira parte do concurso previsto neste diploma, a realizar para os anos de 1989-1990 e seguintes, são aplicáveis as disposições constantes nos artigos anteriores, com as alterações estabelecidas nas alíneas abaixo referenciadas:
+Art. 33.º - 1 - À primeira parte do concurso previsto neste diploma, a realizar para os anos de 1989-1990 e seguintes, são aplicáveis as disposições constantes nos artigos anteriores, com as alterações estabelecidas nas alíneas abaixo referenciadas:
 
 a) O tempo de serviço reportado a 30 de Setembro de 1987 a que se referem os artigos 6.º, 7.º e 8.º deste diploma passa a reportar-se a 31 de Agosto do ano imediatamente anterior ao da abertura do concurso;
 
@@ -489,7 +612,7 @@ b) A situação de vinculado referida no artigo 6.º do presente diploma passa a
 
 ### CAPÍTULO IX — Dos direitos dos professores colocados na primeira parte do concurso
 
-###### Art. 34.º - 1 - Os professores do quadro com nomeação provisória que como tal sejam providos em resultado dos sucessivos concursos previstos neste diploma farão a sua profissionalização em condições a definir em decreto-lei.
+Art. 34.º - 1 - Os professores do quadro com nomeação provisória que como tal sejam providos em resultado dos sucessivos concursos previstos neste diploma farão a sua profissionalização em condições a definir em decreto-lei.
 
 2 - Os professores referidos no número anterior não poderão ser colocados em regime especial nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, e no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, bem como ser-lhes concedida licença ilimitada.
 
@@ -497,17 +620,17 @@ b) A situação de vinculado referida no artigo 6.º do presente diploma passa a
 
 4 - O diploma referido no n.º 1 definirá, ainda, a situação dos professores que não obtiverem aproveitamento na profissionalização em exercício nas condições nele estabelecidas.
 
-###### Art. 35.º - 1 - Aos professores do quadro com nomeação provisória a que se refere o presente diploma é atribuída a remuneração correspondente à letra de vencimentos de professor provisório portador de habilitação própria sem profissionalização, a que se refere o [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
+Art. 35.º - 1 - Aos professores do quadro com nomeação provisória a que se refere o presente diploma é atribuída a remuneração correspondente à letra de vencimentos de professor provisório portador de habilitação própria sem profissionalização, a que se refere o [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
 
 2 - Aos professores referidos no número anterior, a partir do início do ano escolar em que iniciarem a profissionalização em exercício, é atribuído o vencimento de professor de habilitação própria com profissionalização.
 
-###### Art. 36.º O disposto no n.º 1 do artigo anterior é aplicável aos docentes do quadro com nomeação provisória que, em resultado da segunda parte do concurso, sejam colocados em grupo, subgrupo, disciplina ou especialidade para que possuam habilitação suficiente.
+Art. 36.º O disposto no n.º 1 do artigo anterior é aplicável aos docentes do quadro com nomeação provisória que, em resultado da segunda parte do concurso, sejam colocados em grupo, subgrupo, disciplina ou especialidade para que possuam habilitação suficiente.
 
-###### Art. 37.º A progressão nas fases prevista no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, por parte dos docentes do quadro de nomeação provisória, só se concretizará a partir da data resultante da publicação do n.º 3 do artigo 34.º deste diploma.
+Art. 37.º A progressão nas fases prevista no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, por parte dos docentes do quadro de nomeação provisória, só se concretizará a partir da data resultante da publicação do n.º 3 do artigo 34.º deste diploma.
 
 ### CAPÍTULO X — Da profissionalização dos professores colocados na primeira parte do concurso
 
-###### Art. 38.º - 1 - Os docentes do quadro com nomeação provisória que, chamados para a realização de profissionalização em exercício, a não puderem realizar em virtude de:
+Art. 38.º - 1 - Os docentes do quadro com nomeação provisória que, chamados para a realização de profissionalização em exercício, a não puderem realizar em virtude de:
 
 a) Prestação de serviço militar obrigatório;
 
@@ -523,11 +646,11 @@ farão a sua profissionalização quando cessar tal impedimento.
 
 2 - Para efeitos de concurso considera-se que os docentes previstos no número anterior terminaram a sua profissionalização na data em que a teriam concluído se não se tivesse verificado o impedimento e se tivessem demorado exactamente o mesmo tempo em profissionalização.
 
-###### Art. 39.º - 1 - Aos professores do quadro será concedida a exoneração a seu pedido a partir da data do respectivo despacho ou da data em que o interessado referenciar no seu pedido se se verificar a condição estabelecida no número seguinte.
+Art. 39.º - 1 - Aos professores do quadro será concedida a exoneração a seu pedido a partir da data do respectivo despacho ou da data em que o interessado referenciar no seu pedido se se verificar a condição estabelecida no número seguinte.
 
 2 - O pedido de exoneração referido no número anterior será sempre acompanhado de declaração passada pelo serviço competente comprovativa de que o professor se encontra quite com a Fazenda Nacional.
 
-###### Art. 40.º - 1 - Os professores do quadro com nomeação provisória quando forem chamados ou se encontrem a realizar a profissionalização em exercício e declarem dela desistir serão automaticamente exonerados do respectivo lugar.
+Art. 40.º - 1 - Os professores do quadro com nomeação provisória quando forem chamados ou se encontrem a realizar a profissionalização em exercício e declarem dela desistir serão automaticamente exonerados do respectivo lugar.
 
 2 - Os docentes referidos no número anterior poderão, por interesse da Administração, manter-se em exercício de funções docentes no horário lectivo que lhes fora distribuído com o vencimento correspondente àquele número de horas e na qualidade de professor provisório portador de habilitação própria não profissionalizado.
 
@@ -537,13 +660,13 @@ farão a sua profissionalização quando cessar tal impedimento.
 
 ### CAPÍTULO XI — Da segunda parte do concurso - Opositores, sua ordenação e apresentação a concurso
 
-###### Art. 41.º Poderão candidatar-se à segunda parte do concurso prevista no n.º 3 do artigo 2.º do presente diploma:
+Art. 41.º Poderão candidatar-se à segunda parte do concurso prevista no n.º 3 do artigo 2.º do presente diploma:
 
 a) Os docentes previstos no artigo 5.º deste diploma;
 
 b) Os docentes apenas portadores da habilitação suficiente colocados na 1.ª fase do concurso previsto no [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março, com a redacção dada pelo [Decreto-Lei n.º 50-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-1987-573364), de 29 de Janeiro, para o ano escolar de 1987-1988.
 
-###### Art. 42.º - 1 - Na segunda parte do concurso previsto neste diploma os candidatos serão ordenados segundo as seguintes prioridades:
+Art. 42.º - 1 - Na segunda parte do concurso previsto neste diploma os candidatos serão ordenados segundo as seguintes prioridades:
 
 Primeira prioridade:
 
@@ -601,11 +724,11 @@ b) Serem colocados na segunda parte do concurso.
 
 5 - Os docentes que não dêem cumprimento à alínea a) do n.º 3 e não forem colocados perdem o direito de, no concurso seguinte, concorrer na qualidade de, apenas, portadores de habilitação suficiente.
 
-###### Art. 43.º Os opositores à segunda parte do concurso previsto neste decreto-lei já profissionalizados serão graduados nas prioridades em que se integram por ordem decrescente da respectiva graduação profissional, nos termos do artigo 7.º deste diploma.
+Art. 43.º Os opositores à segunda parte do concurso previsto neste decreto-lei já profissionalizados serão graduados nas prioridades em que se integram por ordem decrescente da respectiva graduação profissional, nos termos do artigo 7.º deste diploma.
 
-###### Art. 44.º Os opositores à segunda parte do concurso previsto neste decreto-lei não profissionalizados serão ordenados em cada uma das prioridades, de acordo com o disposto no artigo 8.º deste decreto-lei, nos grupos, subgrupos, disciplinas ou especialidades para que possuam habilitação própria.
+Art. 44.º Os opositores à segunda parte do concurso previsto neste decreto-lei não profissionalizados serão ordenados em cada uma das prioridades, de acordo com o disposto no artigo 8.º deste decreto-lei, nos grupos, subgrupos, disciplinas ou especialidades para que possuam habilitação própria.
 
-###### Art. 45.º - 1 - Os opositores à segunda parte do concurso previsto neste decreto-lei como portadores de habilitação suficiente serão ordenados nas respectivas prioridades de acordo com o disposto nos números seguintes.
+Art. 45.º - 1 - Os opositores à segunda parte do concurso previsto neste decreto-lei como portadores de habilitação suficiente serão ordenados nas respectivas prioridades de acordo com o disposto nos números seguintes.
 
 2 - Os candidatos referidos no número anterior serão graduados de acordo com os escalões definidos na legislação em vigor.
 
@@ -615,7 +738,7 @@ b) Serem colocados na segunda parte do concurso.
 
 5 - Quando a habilitação suficiente resultar da posse de determinado número de cadeiras, a classificação académica é a média aritmética ponderada, aproximada às décimas, das classificações das cadeiras que permitem a integração no respectivo escalão de habilitações, em que as cadeiras anuais figuram com o peso 2 e as semestrais com o peso 1, de acordo com a fórmula expressa na alínea d) do n.º 4 do artigo 8.º deste diploma.
 
-###### Art. 46.º - 1 - A colocação ao abrigo da preferência conjugal referida no artigo 42.º deste diploma obedecerá às condições a seguir indicadas:
+Art. 46.º - 1 - A colocação ao abrigo da preferência conjugal referida no artigo 42.º deste diploma obedecerá às condições a seguir indicadas:
 
 a) Consideram-se funcionários ou agentes os indivíduos que se encontrem providos em lugares do quadro ou contratados além do quadro, por tempo indeterminado, em serviços e organismos da administração central, regional ou local, das Forças Armadas, da Administração Pública ou dos corpos administrativos, os aposentados que, à data da sua aposentação, se encontravam em qualquer das situações referidas nesta alínea e ainda os professores que, de acordo com a lista definitiva de colocações, tenham adquirido direito ao primeiro provimento como professores do quadro;
 
@@ -631,13 +754,13 @@ d) Os estabelecimentos referidos na alínea anterior serão do nível de ensino 
 
 4 - Para efeitos de colocação ao abrigo da preferência conjugal, os professores dos quadros dos ensinos preparatório e ou secundário candidatar-se-ão nos termos definidos no aviso de abertura do concurso.
 
-###### Art. 47.º Os candidatos ao abrigo da preferência conjugal apresentarão conjuntamente com o boletim de concurso:
+Art. 47.º Os candidatos ao abrigo da preferência conjugal apresentarão conjuntamente com o boletim de concurso:
 
 a) Certificado do estado civil;
 
 b) Prova da situação profissional do cônjuge.
 
-###### Art. 48.º - 1 - Os candidatos que concorrerem na oitava ou nona prioridades do artigo 6.º deste diploma e não obtiverem colocação na primeira parte do concurso renovarão no dia 1 de Setembro do ano escolar a que o concurso respeita o contrato no estabelecimento de ensino no grupo, subgrupo, disciplina ou especialidade em que se encontravam colocados, por efeitos de concurso, à data da abertura do respectivo concurso.
+Art. 48.º - 1 - Os candidatos que concorrerem na oitava ou nona prioridades do artigo 6.º deste diploma e não obtiverem colocação na primeira parte do concurso renovarão no dia 1 de Setembro do ano escolar a que o concurso respeita o contrato no estabelecimento de ensino no grupo, subgrupo, disciplina ou especialidade em que se encontravam colocados, por efeitos de concurso, à data da abertura do respectivo concurso.
 
 2 - Os professores nas condições do número anterior transitarão para os estabelecimentos de ensino em que, na segunda parte do concurso, obtiverem colocação e, no caso de a não obterem, poderão ser deslocados pela Direcção-Geral de Administração e Pessoal, em regime de requisição, nos termos dos Decretos-Leis n.os [373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, e [41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, para qualquer estabelecimento de ensino da zona ou zonas a que concorreram na segunda parte.
 
@@ -645,11 +768,11 @@ b) Prova da situação profissional do cônjuge.
 
 4 - Os abonos resultantes da aplicação do número anterior referentes ao mês de Setembro serão feitos onde originariamente o contrato foi celebrado e os seguintes, e ainda as eventuais alterações do mesmo, processar-se-ão no novo estabelecimento de ensino.
 
-###### Art. 49.º A segunda parte do concurso será aberta por aviso, a publicar nos termos legais em vigor, em conjunto com o aviso de abertura para a primeira parte do concurso.
+Art. 49.º A segunda parte do concurso será aberta por aviso, a publicar nos termos legais em vigor, em conjunto com o aviso de abertura para a primeira parte do concurso.
 
 ### CAPÍTULO XII — Dos opositores à segunda parte do concurso - Disciplina do concurso
 
-###### Art. 50.º - 1 - A apresentação à segunda parte do concurso far-se-á mediante preenchimento de um, e um só, boletim normalizado, do qual constarão, obrigatoriamente:
+Art. 50.º - 1 - A apresentação à segunda parte do concurso far-se-á mediante preenchimento de um, e um só, boletim normalizado, do qual constarão, obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -667,13 +790,13 @@ f) Códigos dos estabelecimentos de ensino dos concelhos, dos distritos e das zo
 
 3 - Os prazos, condições e locais da apresentação dos vários modelos de boletins serão fixados no aviso de abertura do concurso.
 
-###### Art. 51.º - 1 - Os candidatos à segunda parte do concurso titulares de habilitação profissional poderão concorrer, no máximo, a dois grupos, subgrupos, disciplinas ou especialidades para que possuam aquela habilitação.
+Art. 51.º - 1 - Os candidatos à segunda parte do concurso titulares de habilitação profissional poderão concorrer, no máximo, a dois grupos, subgrupos, disciplinas ou especialidades para que possuam aquela habilitação.
 
 2 - Os candidatos à segunda parte do concurso titulares de habilitação própria poderão, com aquela habilitação, concorrer no máximo a um grupo, subgrupo, ou disciplina do ensino preparatório e a um grupo, subgrupo, disciplina ou especialidade do ensino secundário e ainda, com a limitação prevista no n.º 7 do artigo 6.º, na qualidade de portadores de habilitação suficiente, a um grupo, subgrupo, ou disciplina do ensino preparatório e a outro grupo, subgrupo, disciplina ou especialidade do ensino secundário desde que, obrigatoriamente, concorram a um grupo, subgrupo, disciplina ou especialidade para que possuam habilitação própria.
 
 3 - Os candidatos apenas portadores de habilitação suficiente abrangidos pela alínea b) do artigo 41.º poderão, no máximo, concorrer a um grupo, subgrupo, ou disciplina do ensino preparatório e a outro grupo, subgrupo, disciplina ou especialidade do ensino secundário, sendo um deles, obrigatoriamente, aquele em que pela última vez obtiveram colocação.
 
-###### Art. 52.º - 1 - Os candidatos à segunda parte do concurso definido por este diploma indicarão as suas preferências, por ordem de prioridades, de acordo com o previsto numa ou mais das alíneas seguintes:
+Art. 52.º - 1 - Os candidatos à segunda parte do concurso definido por este diploma indicarão as suas preferências, por ordem de prioridades, de acordo com o previsto numa ou mais das alíneas seguintes:
 
 a) Códigos dos estabelecimentos de ensino preparatório e ou secundário do continente, até ao limite de 100;
 
@@ -689,25 +812,25 @@ d) Códigos das zonas do continente referenciados no mapa anexo ao presente dipl
 
 4 - As escolas, individualizadas, a que o candidato concorre poderão ser tanto escolas preparatórias como escolas secundárias, mas o seu número, no conjunto, não poderá ultrapassar o limite previsto na alínea a) do n.º 1 deste artigo.
 
-###### Art. 53.º - 1 - O boletim de concurso para a segunda parte será obrigatoriamente acompanhado de certidão ou certidões comprovativas das habilitações académicas nele declaradas ou de fotocópias notariais, das quais constarão as correspondentes classificações finais, nos termos do n.º 3 do artigo 8.º, sempre expressas na escala de 0 a 20 valores, e, quando for caso disso, de certidão comprovativa do tempo de serviço.
+Art. 53.º - 1 - O boletim de concurso para a segunda parte será obrigatoriamente acompanhado de certidão ou certidões comprovativas das habilitações académicas nele declaradas ou de fotocópias notariais, das quais constarão as correspondentes classificações finais, nos termos do n.º 3 do artigo 8.º, sempre expressas na escala de 0 a 20 valores, e, quando for caso disso, de certidão comprovativa do tempo de serviço.
 
 2 - Nos casos previstos na alínea d) do n.º 4 do artigo 8.º e no n.º 5 do artigo 45.º deste diploma será da responsabilidade do candidato a declaração da média aritmética.
 
 3 - As certidões de habilitações académicas das nos números anteriores, bem como as certidões comprovativas do tempo de serviço, poderão ser, para o caso dos candidatos já com processo constituído em estabelecimentos oficiais dos ensinos preparatório e ou secundário, substituídas por declaração comprovativa, exarada no boletim de concurso pelo conselho directivo, ou por quem as suas vezes fizer, autenticada com o selo branco ou carimbo a óleo em uso pelo mesmo.
 
-###### Art. 54.º O modelo do boletim ou boletins do concurso deverá permitir, no caso de o candidato concorrer à segunda parte exactamente como na primeira, que se evite um duplo preenchimento.
+Art. 54.º O modelo do boletim ou boletins do concurso deverá permitir, no caso de o candidato concorrer à segunda parte exactamente como na primeira, que se evite um duplo preenchimento.
 
-###### Art. 55.º - 1 - Compete ao conselho directivo dos estabelecimentos dos ensinos preparatório e ou secundário, ou a quem as suas vezes fizer, determinar as vagas para a segunda parte do concurso existentes nos respectivos estabelecimentos de ensino por grupo, subgrupo, disciplina ou especialidade, de acordo com as normas de elaboração de horários estabelecidas pela Direcção-Geral do Ensino Básico e Secundário.
+Art. 55.º - 1 - Compete ao conselho directivo dos estabelecimentos dos ensinos preparatório e ou secundário, ou a quem as suas vezes fizer, determinar as vagas para a segunda parte do concurso existentes nos respectivos estabelecimentos de ensino por grupo, subgrupo, disciplina ou especialidade, de acordo com as normas de elaboração de horários estabelecidas pela Direcção-Geral do Ensino Básico e Secundário.
 
 2 - A indicação das vagas referidas no número anterior será feita em data a fixar em cada ano escolar pela Direcção-Geral de Administração e Pessoal.
 
 3 - Os conselhos directivos afixarão nos locais do estilo, e logo após o seu envio para os serviços competentes, o número de vagas referidas no n.º 1 deste artigo.
 
-###### Art. 56.º Para efeitos da indicação das vagas para a segunda parte do concurso, considerar-se-ão apenas como horários completos os compostos de vinte e duas horas semanais de serviço lectivo ou equiparado.
+Art. 56.º Para efeitos da indicação das vagas para a segunda parte do concurso, considerar-se-ão apenas como horários completos os compostos de vinte e duas horas semanais de serviço lectivo ou equiparado.
 
-###### Art. 57.º Compete à Direcção-Geral de Administração e Pessoal ordenar e colocar os candidatos às primeira e segunda partes do concurso previsto neste diploma.
+Art. 57.º Compete à Direcção-Geral de Administração e Pessoal ordenar e colocar os candidatos às primeira e segunda partes do concurso previsto neste diploma.
 
-###### Art. 58.º - 1 - As listas provisórias de ordenação dos candidatos à segunda parte serão publicitadas nos termos legais em vigor, podendo os mesmos reclamar, no prazo de oito dias a contar do dia imediato ao da mencionada publicitação, dos elementos delas constantes, bem como dos dos verbetes distribuídos pela Direcção-Geral de Administração e Pessoal aos estabelecimentos de ensino e dos quais constam os códigos das escolas, dos concelhos, dos distritos e das zonas e ainda dos grupos, subgrupos, disciplinas ou especialidades a que os candidatos forem opositores, sem prejuízo do disposto no número seguinte.
+Art. 58.º - 1 - As listas provisórias de ordenação dos candidatos à segunda parte serão publicitadas nos termos legais em vigor, podendo os mesmos reclamar, no prazo de oito dias a contar do dia imediato ao da mencionada publicitação, dos elementos delas constantes, bem como dos dos verbetes distribuídos pela Direcção-Geral de Administração e Pessoal aos estabelecimentos de ensino e dos quais constam os códigos das escolas, dos concelhos, dos distritos e das zonas e ainda dos grupos, subgrupos, disciplinas ou especialidades a que os candidatos forem opositores, sem prejuízo do disposto no número seguinte.
 
 2 - O prazo de reclamações a que se refere o número anterior será de doze dias em relação aos candidatos que exerçam funções no estrangeiro, como cooperantes, em Macau ou nas regiões autónomas.
 
@@ -719,67 +842,67 @@ d) Códigos das zonas do continente referenciados no mapa anexo ao presente dipl
 
 6 - A não aceitação do lugar em que o candidato venha a ser colocado na segunda parte do concurso implicará a impossibilidade de o mesmo vir a ser colocado no ano a que o concurso respeita e perderá todas as prioridades que tal colocação lhe conferia nos termos definidos no presente diploma.
 
-###### Art. 59.º Para todos os efeitos legais considera-se que a não apresentação de reclamação, por parte dos candidatos, dos elementos constantes das listas provisórias e verbetes referidos no artigo 58.º equivale à aceitação tácita das mesmas listas.
+Art. 59.º Para todos os efeitos legais considera-se que a não apresentação de reclamação, por parte dos candidatos, dos elementos constantes das listas provisórias e verbetes referidos no artigo 58.º equivale à aceitação tácita das mesmas listas.
 
-###### Art. 60.º - 1 - Os docentes que à data da abertura do concurso previsto neste diploma integrem conselhos directivos eleitos nos termos do [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 21 de Outubro, ou comissões instaladoras de estabelecimentos dos ensinos preparatório e ou secundário não poderão, no seu primeiro ano de mandato, candidatar-se à segunda parte do mesmo concurso e, no caso de não obterem colocação na primeira parte, consideram-se, para todos os efeitos, como colocados na escola onde, em resultado de concurso, obtiveram a última colocação.
+Art. 60.º - 1 - Os docentes que à data da abertura do concurso previsto neste diploma integrem conselhos directivos eleitos nos termos do [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 21 de Outubro, ou comissões instaladoras de estabelecimentos dos ensinos preparatório e ou secundário não poderão, no seu primeiro ano de mandato, candidatar-se à segunda parte do mesmo concurso e, no caso de não obterem colocação na primeira parte, consideram-se, para todos os efeitos, como colocados na escola onde, em resultado de concurso, obtiveram a última colocação.
 
 2 - Os docentes que, no decurso do mandato como elementos integrantes de conselhos directivos ou comissões instaladoras, hajam cessado aquelas funções manter-se-ão até ao fim do ano escolar seguinte na mesma escola se o momento da cessação se verificar em data que não permita a apresentação de candidatura ao concurso relativo ao referido ano escolar.
 
-###### Art. 61.º - 1 - Aos candidatos a prestar serviço militar obrigatório são garantidos todos os direitos previstos neste diploma, com excepção dos aspectos remuneratórios, desde que sejam anualmente opositores, ao concurso estabelecido neste decreto-lei nas condições nele previstas.
+Art. 61.º - 1 - Aos candidatos a prestar serviço militar obrigatório são garantidos todos os direitos previstos neste diploma, com excepção dos aspectos remuneratórios, desde que sejam anualmente opositores, ao concurso estabelecido neste decreto-lei nas condições nele previstas.
 
 2 - Os candidatos referidos no número anterior tomarão posse do lugar que obtiverem, através do último concurso, ou assinarão os respectivos contratos na data da sua apresentação ao serviço, desde que esta não ocorra para além dos quinze dias subsequentes ao da sua passagem à disponibilidade e se encontrem dentro do prazo de validade daquela colocação.
 
-###### Art. 62.º - 1 - Para a docência das disciplinas do ensino secundário a funcionar em estabelecimentos de ensino preparatório serão colocados na segunda parte do concurso docentes profissionalizados do ensino secundário e ainda docentes portadores de habilitações próprias ou suficientes para este nível de ensino.
+Art. 62.º - 1 - Para a docência das disciplinas do ensino secundário a funcionar em estabelecimentos de ensino preparatório serão colocados na segunda parte do concurso docentes profissionalizados do ensino secundário e ainda docentes portadores de habilitações próprias ou suficientes para este nível de ensino.
 
 2 - Para efeito do disposto no número anterior, as escolas preparatórias requisitarão os horários elaborados de acordo com o disposto no artigo 56.º do presente diploma.
 
 3 - Os professores profissionalizados a quem for distribuído serviço docente correspondente a grupos, subgrupos, disciplinas ou especialidades do outro nível de ensino serão remunerados na qualidade de profissionalizados.
 
-###### Art. 63.º Para efeitos da aplicação do presente diploma consideram-se habilitações próprias e habilitações suficientes as que como tais se encontrarem consignadas na legislação em vigor.
+Art. 63.º Para efeitos da aplicação do presente diploma consideram-se habilitações próprias e habilitações suficientes as que como tais se encontrarem consignadas na legislação em vigor.
 
-###### Art. 64.º - 1 - Não poderão ser opositores, ao concurso previsto neste diploma os candidatos que exerçam outras funções públicas.
+Art. 64.º - 1 - Não poderão ser opositores, ao concurso previsto neste diploma os candidatos que exerçam outras funções públicas.
 
 2 - O disposto no número anterior não se aplica aos candidatos que, à data da candidatura, apresentem declaração, com assinatura legalmente reconhecida, de opção por colocação na docência, se a ela adquirirem direito, com o concomitante pedido de exoneração do cargo ou funções públicas que exercem.
 
-###### Art. 65.º - 1 - A colocação dos professores dos ensinos preparatório e ou secundário ao abrigo da preferência conjugal processar-se-á de acordo com o presente diploma, em regime de requisição, nos termos dos Decretos-Leis n.os [373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507) e [41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), para o ano escolar a que o concurso diz respeito.
+Art. 65.º - 1 - A colocação dos professores dos ensinos preparatório e ou secundário ao abrigo da preferência conjugal processar-se-á de acordo com o presente diploma, em regime de requisição, nos termos dos Decretos-Leis n.os [373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507) e [41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), para o ano escolar a que o concurso diz respeito.
 
 2 - A requisição mencionada no número anterior far-se-á com dispensa de todas as formalidades, incluindo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 66.º - 1 - Os docentes profissionalizados não pertencentes ao quadro e os provisórios colocados ao abrigo do presente diploma, mas não providos como professores dos quadros, serão contratados nos termos do disposto neste decreto-lei.
+Art. 66.º - 1 - Os docentes profissionalizados não pertencentes ao quadro e os provisórios colocados ao abrigo do presente diploma, mas não providos como professores dos quadros, serão contratados nos termos do disposto neste decreto-lei.
 
 2 - Os docentes referidos no número anterior entram em exercício de funções por conveniência urgente de serviço público, aplicando-se aos respectivos provimentos o disposto no n.º 2 do artigo 21.º deste decreto-lei.
 
 ### CAPÍTULO XIII — Do preenchimento de necessidades transitórias de pessoal docente
 
-###### Art. 67.º As necessidades em termos de pessoal docente que não possam ser satisfeitas através da segunda parte do concurso previsto neste diploma sê-lo-ão de acordo com normas a estabelecer em despacho normativo do Ministro da Educação.
+Art. 67.º As necessidades em termos de pessoal docente que não possam ser satisfeitas através da segunda parte do concurso previsto neste diploma sê-lo-ão de acordo com normas a estabelecer em despacho normativo do Ministro da Educação.
 
 ### CAPÍTULO XIV — Da contratação do pessoal docente não pertencente aos quadros
 
-###### Art. 68.º O contrato constitui a única forma de provimento dos docentes não pertencentes aos quadros dos ensinos preparatório, secundário e médio.
+Art. 68.º O contrato constitui a única forma de provimento dos docentes não pertencentes aos quadros dos ensinos preparatório, secundário e médio.
 
-###### Art. 69.º - 1 - Na assinatura do contrato, o Ministério da Educação será representado pelo director, pelo presidente do conselho directivo do respectivo estabelecimento de ensino ou por quem as suas vezes fizer.
+Art. 69.º - 1 - Na assinatura do contrato, o Ministério da Educação será representado pelo director, pelo presidente do conselho directivo do respectivo estabelecimento de ensino ou por quem as suas vezes fizer.
 
 2 - A assinatura do contrato corresponde, para todos os efeitos legais, à tomada de posse, dispensando-se as demais formalidades legais.
 
 3 - No acto da assinatura do contrato será inutilizada estampilha fiscal no valor correspondente ao imposto do selo devido pela posse.
 
-###### Art. 70.º - 1 - Os docentes que, tendo adquirido direito a colocação, não possam apresentar-se para assinar ou renovar, nos prazos legalmente estabelecidos, o correspondente contrato e iniciar funções poderão, por motivo de doença devidamente comprovada, beneficiar do disposto no § único do artigo 4.º do [Decreto-Lei n.º 34945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34945-1945-467010), de 27 de Setembro de 1945.
+Art. 70.º - 1 - Os docentes que, tendo adquirido direito a colocação, não possam apresentar-se para assinar ou renovar, nos prazos legalmente estabelecidos, o correspondente contrato e iniciar funções poderão, por motivo de doença devidamente comprovada, beneficiar do disposto no § único do artigo 4.º do [Decreto-Lei n.º 34945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34945-1945-467010), de 27 de Setembro de 1945.
 
 2 - Sem prejuízo do disposto no número anterior, considerar-se-ão como tendo entrado em exercício de funções no prazo estabelecido, para todos os efeitos legais, designadamente abono de vencimentos, os docentes com direito, nos termos do presente diploma, a renovar o contrato.
 
-###### Art. 71.º Para efeitos do disposto no artigo 69.º deste decreto-lei, o candidato deverá apresentar-se no respectivo estabelecimento de ensino munido dos impressos de contrato, das estampilhas fiscais exigidas por lei, bem como da declaração de incompatibilidade e do bilhete de identidade, o qual será devolvido após a assinatura do contrato.
+Art. 71.º Para efeitos do disposto no artigo 69.º deste decreto-lei, o candidato deverá apresentar-se no respectivo estabelecimento de ensino munido dos impressos de contrato, das estampilhas fiscais exigidas por lei, bem como da declaração de incompatibilidade e do bilhete de identidade, o qual será devolvido após a assinatura do contrato.
 
 ### CAPÍTULO XV — Da celebração do contrato e seus efeitos
 
-###### Art. 72.º - 1 - O contrato será celebrado num original e cinco cópias, com excepção dos casos referidos no número seguinte.
+Art. 72.º - 1 - O contrato será celebrado num original e cinco cópias, com excepção dos casos referidos no número seguinte.
 
 2 - São renovados os contratos dos docentes referidos no artigo 48.º do presente diploma.
 
 3 - A renovação dos contratos referidos no número anterior será feita em averbamento, por apostilha.
 
-###### Art. 73.º Os docentes sujeitos à celebração de contrato que não se encontrem abrangidos pelo estabelecido no artigo anterior celebrarão os respectivos contratos na data em que forem mandados apresentar nas escolas em que tiverem sido colocados.
+Art. 73.º Os docentes sujeitos à celebração de contrato que não se encontrem abrangidos pelo estabelecido no artigo anterior celebrarão os respectivos contratos na data em que forem mandados apresentar nas escolas em que tiverem sido colocados.
 
-###### Art. 74.º - 1 - No prazo de 30 dias, contados a partir da data da assinatura do contrato, os docentes têm de entregar nos respectivos estabelecimentos de ensino os seguintes documentos:
+Art. 74.º - 1 - No prazo de 30 dias, contados a partir da data da assinatura do contrato, os docentes têm de entregar nos respectivos estabelecimentos de ensino os seguintes documentos:
 
 a) Certidão de nascimento ou fotocópia autenticada do bilhete de identidade;
 
@@ -797,11 +920,11 @@ e) Documento comprovativo de ter dado cumprimento às leis do recrutamento milit
 
 4 - Completados os processos, os mesmos serão enviados à respectiva delegação da Direcção-Geral de Administração e Pessoal no prazo de dez dias, para efeitos de homologação.
 
-###### Art. 75.º - 1 - Para efeitos do disposto nos artigos anteriores, os processos individuais dos docentes que mudarem de escola devem ser transferidos, por solicitação do estabelecimento de ensino onde se encontram colocados, de modo que seja respeitado o prazo referido no n.º 1 do artigo 74.º deste decreto-lei.
+Art. 75.º - 1 - Para efeitos do disposto nos artigos anteriores, os processos individuais dos docentes que mudarem de escola devem ser transferidos, por solicitação do estabelecimento de ensino onde se encontram colocados, de modo que seja respeitado o prazo referido no n.º 1 do artigo 74.º deste decreto-lei.
 
 2 - Incorrem em ilícito disciplinar os funcionários que não derem cumprimento ao disposto no número anterior.
 
-###### Art. 76.º - 1 - O direito aos vencimentos adquire-se com a assinatura do contrato, salvo o disposto no n.º 2 do artigo 70.º deste decreto-lei.
+Art. 76.º - 1 - O direito aos vencimentos adquire-se com a assinatura do contrato, salvo o disposto no n.º 2 do artigo 70.º deste decreto-lei.
 
 2 - Cessam o exercício de funções e o direito aos respectivos vencimentos os docentes abrangidos por alguma das seguintes situações:
 
@@ -809,9 +932,9 @@ a) Se o docente não der cumprimento ao estabelecido no n.º 1 ou no n.º 2 do a
 
 b) Se o contrato não vier a ser homologado nos termos legalmente estabelecidos a partir da data em que a não homologação for comunicada ao interessado.
 
-###### Art. 77.º Consideram-se nulos e de nenhum efeito os contratos que não obedecerem ao estabelecido no presente diploma.
+Art. 77.º Consideram-se nulos e de nenhum efeito os contratos que não obedecerem ao estabelecido no presente diploma.
 
-###### Art. 78.º Homologado o contrato e depois de obtido o visto do Tribunal de Contas, os respectivos exemplares terão o seguinte destino:
+Art. 78.º Homologado o contrato e depois de obtido o visto do Tribunal de Contas, os respectivos exemplares terão o seguinte destino:
 
 a) O original, depois de devolvido pelo Tribunal de Contas, será arquivado no processo individual do docente, existente na delegação da Direcção-Geral de Administração e Pessoal;
 
@@ -823,15 +946,15 @@ d) As restantes serão enviadas à escola, sendo uma para o respectivo processo,
 
 ### CAPÍTULO XVI — Da vigência do contrato
 
-###### Art. 79.º Os contratos a estabelecer por força do artigo 68.º vigorarão até final do ano escolar a que a colocação respeita.
+Art. 79.º Os contratos a estabelecer por força do artigo 68.º vigorarão até final do ano escolar a que a colocação respeita.
 
-###### Art. 80.º - 1 - O contrato expira no termo do prazo, se não for renovado nos termos do artigo 72.º deste decreto-lei.
+Art. 80.º - 1 - O contrato expira no termo do prazo, se não for renovado nos termos do artigo 72.º deste decreto-lei.
 
 2 - Sempre que, durante o prazo de vigência do contrato, houver alterações das condições nele previstas, deverão as mesmas ser anotadas no respectivo contrato.
 
 3 - As alterações que se verificarem depois da homologação do contrato serão enviadas ao delegado da Direcção-Geral de Administração e Pessoal, que, após despacho de concordância, as remeterá ao estabelecimento de ensino e à Direcção-Geral de Administração e Pessoal, para conhecimento.
 
-###### Art. 81.º - 1 - O contrato previsto neste diploma pode ser denunciado por qualquer das partes, nas seguintes condições:
+Art. 81.º - 1 - O contrato previsto neste diploma pode ser denunciado por qualquer das partes, nas seguintes condições:
 
 a) Por parte do professor contratado, através de requerimento dirigido ao director-geral de Administração e Pessoal;
 
@@ -839,19 +962,19 @@ b) Por parte do Ministério da Educação, em consequência de processo discipli
 
 2 - No requerimento referido na alínea a) do número anterior, o professor indicará a data a partir da qual pretende a denúncia do contrato.
 
-###### Art. 82.º - 1 - O docente que tenha denunciado o contrato nos termos do artigo anterior não poderá prestar serviço durante esse ano escolar em qualquer estabelecimento de ensino oficial.
+Art. 82.º - 1 - O docente que tenha denunciado o contrato nos termos do artigo anterior não poderá prestar serviço durante esse ano escolar em qualquer estabelecimento de ensino oficial.
 
 2 - O disposto no número anterior aplica-se aos docentes que não se apresentarem, nos termos do artigo 73.º deste diploma, para celebrarem no prazo legal o respectivo contrato.
 
 3 - O estabelecido nos números anteriores poderá, por despacho ministerial, proferido caso a caso, ser excepcionado.
 
-###### Art. 83.º O contrato será firmado ou renovado, nos termos do artigo 72.º deste decreto-lei, em modelos próprios, a aprovar por portaria do Ministro da Educação, que constituem exclusivo da Imprensa Nacional-Casa da Moeda.
+Art. 83.º O contrato será firmado ou renovado, nos termos do artigo 72.º deste decreto-lei, em modelos próprios, a aprovar por portaria do Ministro da Educação, que constituem exclusivo da Imprensa Nacional-Casa da Moeda.
 
 ### CAPÍTULO XVII — Situações especiais de contrato
 
-###### Art. 84.º O presente diploma aplica-se aos contratos dos docentes a que se refere a alínea a) do n.º 1 do artigo 213.º do Decreto-Lei n.º 37029, de 25 de Agosto de 1948.
+Art. 84.º O presente diploma aplica-se aos contratos dos docentes a que se refere a alínea a) do n.º 1 do artigo 213.º do Decreto-Lei n.º 37029, de 25 de Agosto de 1948.
 
-###### Art. 85.º - 1 - Os contratos plurianuais caducam em qualquer das seguintes condições:
+Art. 85.º - 1 - Os contratos plurianuais caducam em qualquer das seguintes condições:
 
 a) Automaticamente, no caso de o docente obter direito a provimento em lugar de professor efectivo;
 
@@ -861,33 +984,33 @@ c) Por denúncia do docente, em qualquer altura do ano, nos termos do artigo 81.
 
 2 - Exceptuam-se ao disposto na alínea b) do número anterior os contratados plurianuais nos termos do n.º 2 do artigo 32.º deste diploma.
 
-###### Art. 86.º - 1 - Os docentes que suspenderem a relação de trabalho, por denúncia, em qualquer altura do ano, no concurso respeitante ao ano escolar seguinte não poderão beneficiar da situação de colocados pelo concurso imediatamente anterior.
+Art. 86.º - 1 - Os docentes que suspenderem a relação de trabalho, por denúncia, em qualquer altura do ano, no concurso respeitante ao ano escolar seguinte não poderão beneficiar da situação de colocados pelo concurso imediatamente anterior.
 
 2 - Os docentes a que se refere o número anterior que denunciem o contrato após apresentação de candidatura para o ano escolar seguinte serão excluídos do respectivo concurso.
 
 3 - O disposto no número anterior poderá não se aplicar aos casos em que o candidato requerer ao director-geral de Administração e Pessoal a sua integração na prioridade a que tem direito em resultado da denúncia se para a mesma obtiver o necessário deferimento.
 
-###### Art. 87.º - 1 - Os contratos plurianuais dos docentes profissionalizados serão renovados automaticamente desde que os mesmos concorram, anualmente, à primeira parte do concurso previsto neste diploma, a, pelo menos, quinze escolas com vagas declaradas no respectivo subgrupo, disciplina ou especialidade e não obtenham nela colocação.
+Art. 87.º - 1 - Os contratos plurianuais dos docentes profissionalizados serão renovados automaticamente desde que os mesmos concorram, anualmente, à primeira parte do concurso previsto neste diploma, a, pelo menos, quinze escolas com vagas declaradas no respectivo subgrupo, disciplina ou especialidade e não obtenham nela colocação.
 
 2 - Os professores referidos no número anterior graduam-se em conjunto com os candidatos que se inserem na segunda prioridade prevista no artigo 6.º deste diploma.
 
-###### Art. 88.º Em tudo o que não estiver previsto no presente diploma aplicar-se-á, aos contratos nele regulamentados, o estabelecido no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+Art. 88.º Em tudo o que não estiver previsto no presente diploma aplicar-se-á, aos contratos nele regulamentados, o estabelecido no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
 ### CAPÍTULO XVIII — Disposições finais
 
-###### Art. 89.º - 1 - É extinta a distinção entre vagas de educação física masculinas e femininas.
+Art. 89.º - 1 - É extinta a distinção entre vagas de educação física masculinas e femininas.
 
 2 - Em resultado do disposto no número anterior podem concorrer indistintamente às vagas de educação física candidatos do sexo masculino e candidatos do sexo feminino.
 
-###### Art. 90.º Para efeitos de progressão nas fases previstas no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, com a alteração introduzida pelo artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, é contado o tempo de serviço prestado por professores do quadro ou por professores profissionalizados não pertencentes ao quadro dos ensinos preparatório e ou secundário, em resultado de opção, por lugares do quadro dos serviços centrais do Ministério da Educação e que, posteriormente, por força do mecanismo de concurso, reingressarem na carreira docente.
+Art. 90.º Para efeitos de progressão nas fases previstas no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, com a alteração introduzida pelo artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, é contado o tempo de serviço prestado por professores do quadro ou por professores profissionalizados não pertencentes ao quadro dos ensinos preparatório e ou secundário, em resultado de opção, por lugares do quadro dos serviços centrais do Ministério da Educação e que, posteriormente, por força do mecanismo de concurso, reingressarem na carreira docente.
 
-###### Art. 91.º Ao preenchimento dos lugares do quadro previsto neste diploma, bem como à admissão de professores provisórios através da segunda parte do concurso a que se refere este decreto-lei, não são aplicáveis os artigos 11.º, 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+Art. 91.º Ao preenchimento dos lugares do quadro previsto neste diploma, bem como à admissão de professores provisórios através da segunda parte do concurso a que se refere este decreto-lei, não são aplicáveis os artigos 11.º, 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 92.º O concurso a realizar para o ano de 1988-1989 será aberto no prazo máximo de oito dias, contado a partir da entrada em vigor do presente diploma, caso não seja possível proceder à sua abertura no prazo referido no artigo 3.º
+Art. 92.º O concurso a realizar para o ano de 1988-1989 será aberto no prazo máximo de oito dias, contado a partir da entrada em vigor do presente diploma, caso não seja possível proceder à sua abertura no prazo referido no artigo 3.º
 
-###### Art. 93.º Os encargos resultantes do presente diploma serão suportados pelo orçamento do Ministério da Educação e pelas competentes rubricas «Vencimentos de pessoal» para as escolas preparatórias, preparatórias e secundárias e secundárias.
+Art. 93.º Os encargos resultantes do presente diploma serão suportados pelo orçamento do Ministério da Educação e pelas competentes rubricas «Vencimentos de pessoal» para as escolas preparatórias, preparatórias e secundárias e secundárias.
 
-###### Art. 94.º - 1 - É revogada toda a legislação em contrário, nomeadamente:
+Art. 94.º - 1 - É revogada toda a legislação em contrário, nomeadamente:
 
 a) O [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março;
 
@@ -905,22 +1028,22 @@ f) O [Decreto-Lei n.º 50-B/87](https://diariodarepublica.pt/dr/detalhe/decreto-
 
 3 - Aos contratos relativos ao ano lectivo de 1987-1988 continuam, até ao seu termo, a ser aplicáveis as disposições respectivas previstas na legislação vigente à data da entrada em vigor deste diploma, nomeadamente as constantes do [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
 
-###### Art. 95.º O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações a introduzir por diploma regional que o adapte à especificidade regional.
+Art. 95.º O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações a introduzir por diploma regional que o adapte à especificidade regional.
 
-###### Art. 96.º O presente diploma produz efeitos a partir do dia 1 de Janeiro de 1988.
+Art. 96.º O presente diploma produz efeitos a partir do dia 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o artigo 6.º do Decreto-Lei n.º 18/88, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01701/00020016.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01701/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01701/00020016.pdf)

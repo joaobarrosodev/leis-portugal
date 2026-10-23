@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01100/01120112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1988-283363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81e6d5fe901d990a75dcf9f22645e6a59ff079ff447cc075902b55abc5a53ad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a82578d082d2544c3e7e33c5d78a57b5fd8e87c677abc7e64de407b71eff4384
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dívida Pública
+- Poupança
+- Renda Vitalícia
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529778:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:54Z'
   warnings: []
   errors: []
 ---
@@ -101,20 +121,20 @@ Considerando que o actual limite máximo das rendas vitalícias anuais em uma ou
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É elevado para 5000000$00 o limite máximo de rendas vitalícias anuais em uma ou duas vidas fixado pelo artigo único do [Decreto-Lei n.º 48/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1976-506022), de 20 de Janeiro.
+Artigo 1.º É elevado para 5000000$00 o limite máximo de rendas vitalícias anuais em uma ou duas vidas fixado pelo artigo único do [Decreto-Lei n.º 48/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1976-506022), de 20 de Janeiro.
 
-###### Art. 2.º - 1 - É revogado o [Decreto-Lei n.º 48/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1976-506022), de 20 de Janeiro.
+Art. 2.º - 1 - É revogado o [Decreto-Lei n.º 48/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1976-506022), de 20 de Janeiro.
 
 2 - As referências feitas em diplomas anteriores ao limite das rendas vitalícias, constante do [Decreto-Lei n.º 48/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1976-506022), de 20 de Janeiro, consideram-se reportadas ao limite fixado no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Dezembro de 1987.**
+Promulgado em 28 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1987.**
+Referendado em 29 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

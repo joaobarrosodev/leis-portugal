@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15000/26022606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1987-420014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 711f97668e7f28b4a6d186578dc2381451d7a77b321e7a7eaf981a37f03029c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a159655bee52d44ed83c9b6c2de1f38f9f3761b5f0c6b21fbd78dbeac4a79b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato
+- Fiscalização
+- Proteção do Consumidor
+- Venda por Correspondencia
 relationships:
 - type: amended_by
   target: pt:dre:165020:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificação DR.IS [223]2ºSupl de 30/Set/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-09-30'
+- type: amended_by
+  target: pt:dre:659561:por
+  label: "Actualizado para 20000$00 o valor a que se referem o n.º 4 do artigo 3.º e 3 do artigo 10.º pela PORT.536/91.20.06.1991.MCT,\
+    \ DR.IS-B [139] de 20.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/536-1991-659561
+  date: '1991-06-20'
+- type: amended_by
+  target: pt:dre:563047:por
+  label: "Alterados os arts. 2º, 3º, 10º, 16º e 17º pelo DEC LEI.243/95.1995.09.13.MCT, DR.IS-A [212]\02]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1995-563047
+  date: '1995-09-13'
+- type: amended_by
+  target: pt:dre:679000:por
+  label: "Fixado em 10000$00 o valor a que se referem o n.º 4 do artigo 3.º e 3 do artigo 10.º pela PORT.1300/95.31.10.1995.MCT,\
+    \ DR.IS-B [252] de 31.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1300-1995-679000
+  date: '1995-10-31'
+- type: corrected_by
+  target: pt:dre:647300:por
+  label: Rectificado pela DECL.DD4323.10.09.1987.PCM, DR.IS [225]2ºSupl de 30.09.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-647300
+  date: '1987-09-10'
+- type: repealed_by
+  target: pt:dre:165020:por
+  label: "Revogado pelo DEC LEI.143/2001.2001.04.26.PCM, DR.IS-A [97] de 2001/ABR/26\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2001-165020
+  date: '2001-04-26'
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:32Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +342,12 @@ O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1987. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 17 de Junho de 1987.**
+Promulgado em 17 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1987.**
+Referendado em 23 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09200/15141519.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bffbeb9559430a88f455c540d2f93c6e622cd38a300da19ed32702e42517c0c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f199a57b060586d0315f4ee7df591fe8fb76f919e270a83c2a24c4e17114dca6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Prestações da Segurança Social
+- Protecção na Doença
+- Regime Geral da Segurança Social
+- Segurança Social
+- Subsídio de Doença
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:592342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557596:por
+  label: "Alterados os arts. 11.º, 12.º, 19.º, 22.º, 23.º, 24.º, 26.º, 27.º, 28.º, 30.º, 34.º, 35.º e 38.º e aditado o art.\
+    \ 27.º-A pelo DEC LEI.287/90.19.09.1990.MESS, DR.IS [217] de 19.09.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1990-557596
+  date: '1990-09-19'
+- type: amended_by
+  target: pt:dre:321720:por
+  label: "Alterados os arts. 13º, 22º e 31º e aditado um art. 32º-A, na redacção dada pelo Dec Lei 287/90 de 19-Set, pelo\
+    \ DEC LEI.165/99.1999.05.13.MTS,DR.IS-A [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1999-321720
+  date: '1999-05-13'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287463:por
+  label: Rectificado pela DECL.DD2737.30.06.1988.PCM, DR.IS [149]Supl de 30.06.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-287463
+  date: '1988-06-29'
+- type: corrected_by
+  target: pt:dre:579920:por
+  label: Rectificada a Declaração DD2737, de 30 de Junho, que rectifica o presente diploma, pela DECL.DD2869.30.07.1988.PCM,
+    DR.IS [175]2ºSupl de 30.07.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-579920
+  date: '1988-07-30'
+- type: repealed_by
+  target: pt:dre:592342:por
+  label: "Revogado o presente diploma, na redacção constante dos Dec Leis 287/90, de 19-Set e 165/99, de 13-Maio, pelo DEC\
+    \ LEI.28/2004.04.02.2004.MSST, DR.IS-A [29] de 04.02.2004, e consideradas todas as referências legais ao presente diploma\
+    \ como feitas ao citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2004-592342
+  date: '2004-02-04'
 article_structure:
   article_count: 41
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:26Z'
   warnings: []
   errors: []
 ---
@@ -386,12 +434,12 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 1988. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Abril de 1988.**
+Promulgado em 6 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1988.**
+Referendado em 8 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06200/10351036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e47bb6221797ba41a6425caf9573b3a4d3cad3cfdf8c43d0d3a2ff5b8dc50a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c87ef0fd4688f8bf8d396c267b37c218fc9db0e6ded4fd875673dfa6d5c776bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662751:por
+  label: "Alterado o art. 4.º da Lei 21-B/77 de 09-Abr DR.IS [83]Supl, na redacção dada pelo art. 4.º do presente diploma,\
+    \ pela LEI.2/88.1988.01.26.AR DR.IS [21]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1988-662751
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:287390:por
+  label: "Alterado o art. 4º da Lei 21-B/77, 09-Abr, na redacção dada pelo art. 4º do presente diploma, pelo DEC LEI.73/88.1988.03.09.MF,\
+    \ DR.IS [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1988-287390
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:617339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305827:por
+  label: Rectificado pela DECL.DD2284.1987.04.22.PCM, DR.IS [99]4ºSupl de 30/Abr/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-305827
+  date: '1987-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:09Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +134,9 @@ Nestes termos:
 
 No uso da autorização conferida pelos artigos 31.º, 57.º, alínea a), e 75.º, n.º 2, da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 9.º, 10.º, 39.º, 41.º e 64.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 9.º, 10.º, 39.º, 41.º e 64.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 1.º ...
 
@@ -132,7 +164,7 @@ No uso da autorização conferida pelos artigos 31.º, 57.º, alínea a), e 75.�
 
 § único. ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 1.º ...
 
@@ -154,7 +186,7 @@ No uso da autorização conferida pelos artigos 31.º, 57.º, alínea a), e 75.�
 
 § 2.º ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 1.º ...
 
@@ -180,9 +212,9 @@ No uso da autorização conferida pelos artigos 31.º, 57.º, alínea a), e 75.�
 
 12.º Os juros de depósitos a prazo constituídos pelas instituições de crédito no Banco de Portugal.
 
-###### Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 1000$00.
+Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 1000$00.
 
-###### Art. 41.º O imposto será entregue por meio de guia do modelo oficial, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:
+Art. 41.º O imposto será entregue por meio de guia do modelo oficial, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:
 
 a) ...
 
@@ -196,34 +228,34 @@ e) ...
 
 § único. ...
 
-###### Art. 64.º ...
+Art. 64.º ...
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 500$00.
 
-###### Art. 2.º É revogado o n.º 8.º do artigo 10.º do Código do Imposto de Capitais.
+Art. 2.º É revogado o n.º 8.º do artigo 10.º do Código do Imposto de Capitais.
 
-###### Art. 3.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º do Código do Imposto de Capitais não serão aplicáveis no ano de 1987.
+Art. 3.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º do Código do Imposto de Capitais não serão aplicáveis no ano de 1987.
 
-###### Art. 4.º O artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, passa a ter a seguinte redacção:
+Art. 4.º O artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 4.º É de 3,3% a taxa do imposto de capitais incidente sobre os juros de depósitos a prazo constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando produzidos por «Conta poupança emigrante», «Conta de emigrante em moeda estrangeira» e «Contas acessíveis a residentes», desde que, neste último caso, as contas tenham sido ou venham a ser eliminadas com fluxos monetários provenientes do exterior devidamente comprovados.
+Art. 4.º É de 3,3% a taxa do imposto de capitais incidente sobre os juros de depósitos a prazo constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando produzidos por «Conta poupança emigrante», «Conta de emigrante em moeda estrangeira» e «Contas acessíveis a residentes», desde que, neste último caso, as contas tenham sido ou venham a ser eliminadas com fluxos monetários provenientes do exterior devidamente comprovados.
 
-###### Art. 5.º Os juros de obrigações emitidas em 1987 de vida mínima igual ou superior a oito anos estão isentos de imposto de capitais.
+Art. 5.º Os juros de obrigações emitidas em 1987 de vida mínima igual ou superior a oito anos estão isentos de imposto de capitais.
 
-###### Art. 6.º Durante o ano de 1987, a taxa do imposto de capitais sobre juros de obrigações, com excepção dos títulos de dívidas públicas, é de 10%.
+Art. 6.º Durante o ano de 1987, a taxa do imposto de capitais sobre juros de obrigações, com excepção dos títulos de dívidas públicas, é de 10%.
 
-###### Art. 7.º As alterações introduzidas no n.º 3 do artigo 6.º, nos n.os 8.º e 10.º do artigo 10.º do Código do Imposto de Capitais e bem assim a alteração resultante da nova redacção dada ao artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, aplicam-se ao imposto de capitais, secção B, incidente sobre os rendimentos relativamente aos quais o acto que determina a obrigação da entrega do imposto ao Estado ocorra posteriormente à data da entrada em vigor do presente decreto-lei.
+Art. 7.º As alterações introduzidas no n.º 3 do artigo 6.º, nos n.os 8.º e 10.º do artigo 10.º do Código do Imposto de Capitais e bem assim a alteração resultante da nova redacção dada ao artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, aplicam-se ao imposto de capitais, secção B, incidente sobre os rendimentos relativamente aos quais o acto que determina a obrigação da entrega do imposto ao Estado ocorra posteriormente à data da entrada em vigor do presente decreto-lei.
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

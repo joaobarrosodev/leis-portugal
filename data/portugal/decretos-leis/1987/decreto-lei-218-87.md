@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12300/21412141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1987-421780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 236fb71ed60f3fce39a97eaee46066db22310e5d5c50a2f376f6858e47b59c18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d39dee0f7edfc407fe89fe4c8003bdbb07a6c7f244b8ca0319a681a81530368
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Madeira.região Autónoma
+- Porto Santo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:39Z'
   warnings: []
   errors: []
 ---
@@ -104,26 +132,26 @@ Nestes termos:
 
 Ouvido o Governo Regional da Madeira, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Transitam para o Estado-Maior da Força Aérea (EMFA) os processos em curso na Secretaria Regional do Equipamento Social (SRES), organizados na sequência das declarações de utilidade pública, com carácter de urgência, constantes das resoluções do Conselho do Governo Regional da Madeira de 8 de Agosto de 1985 e de 20 de Março de 1986, publicadas, respectivamente, no Diário da República, 2.ª série, n.os 214 e 84, de 17 de Setembro de 1985 e de 11 de Abril de 1986.
+Artigo 1.º - 1 - Transitam para o Estado-Maior da Força Aérea (EMFA) os processos em curso na Secretaria Regional do Equipamento Social (SRES), organizados na sequência das declarações de utilidade pública, com carácter de urgência, constantes das resoluções do Conselho do Governo Regional da Madeira de 8 de Agosto de 1985 e de 20 de Março de 1986, publicadas, respectivamente, no Diário da República, 2.ª série, n.os 214 e 84, de 17 de Setembro de 1985 e de 11 de Abril de 1986.
 
 2 - Nos processos referidos no número anterior, o EMFA assumirá todos os actos já praticados pela SRES.
 
-###### Art. 2.º Em todas as expropriações previstas no presente diploma poderá o EMFA usar da faculdade conferida pelo n.º 3 do artigo 42.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, na redacção que lhe foi introduzida pelo [Decreto-Lei n.º 173/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1978-297841), de 8 de Julho, independentemente do valor indemnizatório e de ter ou não havido posse administrativa.
+Art. 2.º Em todas as expropriações previstas no presente diploma poderá o EMFA usar da faculdade conferida pelo n.º 3 do artigo 42.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, na redacção que lhe foi introduzida pelo [Decreto-Lei n.º 173/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1978-297841), de 8 de Julho, independentemente do valor indemnizatório e de ter ou não havido posse administrativa.
 
-###### Art. 3.º As despesas com expropriações ou com o realojamento de famílias poderão ser feitas com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas.
+Art. 3.º As despesas com expropriações ou com o realojamento de famílias poderão ser feitas com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas.
 
-###### Art. 4.º O Governo Regional da Madeira, através dos competentes serviços da SRES, bem como o GARAM, prestarão, em matéria de expropriações, toda a colaboração e o apoio técnico que forem solicitados pelo EMFA.
+Art. 4.º O Governo Regional da Madeira, através dos competentes serviços da SRES, bem como o GARAM, prestarão, em matéria de expropriações, toda a colaboração e o apoio técnico que forem solicitados pelo EMFA.
 
-###### Art. 5.º Os encargos com as expropriações necessárias às obras promovidas pela NATO serão suportados por verbas especificamente destinadas a esse efeito e postas à disposição da Comissão de Infra-Estruturas da Organização do Tratado do Atlântico Norte (CEIOTAN).
+Art. 5.º Os encargos com as expropriações necessárias às obras promovidas pela NATO serão suportados por verbas especificamente destinadas a esse efeito e postas à disposição da Comissão de Infra-Estruturas da Organização do Tratado do Atlântico Norte (CEIOTAN).
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Lino Dias Miguel - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 13 de Maio de 1987.**
+Promulgado em 13 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

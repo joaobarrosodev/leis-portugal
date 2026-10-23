@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1987-666573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d7f3b69efaba56a5de86b2fbd2a3f22f5de7ad2d815c6ee38d9df3fc3dd7e61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34155b9b748b7682d80f7822df9a3755dc8df227ea7b219c5e7da30a2482a54d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conta Poupança-reformados
+- Contribuições e Impostos
+- Depósito Bancário
+- Imposto de Capitais
+- Instituição de Crédito
+- Isenção Fiscal
+- Reformado
+relationships:
+- type: cites
+  target: pt:dre:228836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:41Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +109,7 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 62.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 3.º do [Decreto-Lei n.º 138/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1986-228836), de 14 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 3.º do [Decreto-Lei n.º 138/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1986-228836), de 14 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Depositantes
 
@@ -116,16 +131,16 @@ No uso da autorização conferida pelo artigo 62.º da [Lei n.º 49/86](https://
 
 3 - Estão isentos de imposto de capitais os juros de depósitos a prazo produzidos por contas «poupança-reformados», na parte correspondente ao saldo até 1500000$00.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1987.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 17 de Março de 1987.**
+Promulgado em 17 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1987.**
+Referendado em 25 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

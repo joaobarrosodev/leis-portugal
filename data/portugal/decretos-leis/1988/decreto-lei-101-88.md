@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07200/12761285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4256fc3f72362aa8492767abfb0f98137768bf03a7edeef0c393b454fd10551e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd09a0117141e690ab3efd0a11b9bae3bdca4006dc813eda9a8196e1f3b4bb0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Estatuto
+- Portos
+- Regime Jurídico
+- Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:667362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234345:por
+  label: "Alterado o quadro de pessoal da Administração do Porto de Sines, a que se refere o artigo 4.º do Estatuto, pela\
+    \ PORT.4/89.03.01.1989.MFP, DR.IS [2] de 03.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1989-234345
+  date: '1989-01-03'
+- type: amended_by
+  target: pt:dre:618109:por
+  label: "Alterados os artigos 5.º, 8.º, 10.º, 33.º, 39.º, 51.º, 53.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 62.º e 64.º do\
+    \ Estatuto, pelo DEC LEI.316/91.20.08.1991.MOPTC, DR.IS-A [190]Supl de 20.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1991-618109
+  date: '1991-08-20'
+- type: amended_by
+  target: pt:dre:301632:por
+  label: "Alterado o artigo 11.º do Estatuto pelo DEC LEI.356/91.20.09.1991.MOPTC, DR.IS-A [217] de 20.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1991-301632
+  date: '1991-09-20'
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662887:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222399:por
+  label: Rectificado pela DECL.DD2654.31.05.1988.PCM, DR.IS [126]3ºSupl de 31.05.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-222399
+  date: '1988-05-20'
+- type: repealed_by
+  target: pt:dre:667362:por
+  label: "Revogado pelo DEC LEI.421/99.1999.10.21.MEPAT, DR.IIS [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/421-1999-667362
+  date: '1999-10-21'
 article_structure:
-  article_count: 84
+  article_count: 83
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:57Z'
   warnings: []
   errors: []
 ---
@@ -112,17 +176,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Pessoal das Administrações dos Portos (EPAP), cujo texto se publica em anexo ao presente decreto-lei e dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto do Pessoal das Administrações dos Portos (EPAP), cujo texto se publica em anexo ao presente decreto-lei e dele faz parte integrante.
 
-###### Art. 2.º - 1 - O EPAP aplica-se igualmente ao pessoal das juntas autónomas dos portos do continente.
+Art. 2.º - 1 - O EPAP aplica-se igualmente ao pessoal das juntas autónomas dos portos do continente.
 
 2 - As referências feitas no Estatuto às administrações dos portos, bem como aos seus órgãos, entendem-se como abrangendo também as juntas autónomas dos portos do continente, bem como os correspondentes órgãos.
 
-###### Art. 3.º - 1 - São revogadas todas as disposições, gerais, especiais ou excepcionais, que disponham em contrário do presente decreto-lei.
+Art. 3.º - 1 - São revogadas todas as disposições, gerais, especiais ou excepcionais, que disponham em contrário do presente decreto-lei.
 
 2 - São, nomeadamente, revogados, no que se refere aos organismos a que é aplicável o presente decreto-lei, mantendo-se em vigor para a Direcção-Geral de Portos, os Decretos-Leis n.os [247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho, [110-B/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-b-1980-372975), de 10 de Maio, e [51/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1985-327147), de 27 de Fevereiro, bem como o [Decreto Regulamentar n.º 20/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1982-607374), de 13 de Abril.
 
-###### Art. 4.º - 1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação, sem prejuízo do disposto nos números seguintes.
+Art. 4.º - 1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação, sem prejuízo do disposto nos números seguintes.
 
 2 - As tabelas salariais aprovadas ao abrigo do Estatuto poderão, nos termos nele estabelecidos, produzir efeitos retroactivos.
 
@@ -130,15 +194,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda.
 
-**Promulgado em 14 de Março de 1988.**
+Promulgado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto do Pessoal das Administrações dos Portos
 
@@ -292,7 +356,7 @@ Para satisfação de necessidades de natureza transitória, que não possam ser 
 
 ###### Artigo 16.º — Alteração da situação profissional
 
-**O ministro da tutela regulamentará, por portaria, o regime de alteração da situação profissional do pessoal das administrações dos portos, compreendendo:**
+O ministro da tutela regulamentará, por portaria, o regime de alteração da situação profissional do pessoal das administrações dos portos, compreendendo:
 
 a) A matéria relativa a carreiras profissionais, promoção, progressão e respectivos métodos de selecção;
 

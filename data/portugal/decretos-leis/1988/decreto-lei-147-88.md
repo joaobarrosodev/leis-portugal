@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1988-285369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3d59f6e9e13030de469cd605a126117c66c52f43d62f00dc12643037f8c214a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45c7271bb48069d0bf5017216861fdd78387db0f8135a6d9e1dfd4549e618377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto da Carreira Docente Universitária
+- Pessoal Docente
+- Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:488485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488485:por
+  label: "Alterado o art. 74.º do Estatuto da Carreira Docente Universitária, aprovado pelo Dec Lei 448/79, de 13-Nov, na\
+    \ redacção do presente diploma, pelo DEC LEI.205/2009.31.08.2009.MCTES, DR.IS [168] de 31.08.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2009-488485
+  date: '2009-08-31'
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663332:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:39Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +125,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e alterado pelo artigo 3.º do [Decreto-Lei n.º 145/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1987-662339), de 24 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e alterado pelo artigo 3.º do [Decreto-Lei n.º 145/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1987-662339), de 24 de Março, passa a ter a seguinte redacção:
 
-###### Art. 74.º - 1 - ...
+Art. 74.º - 1 - ...
 
 2 - ...
 
@@ -128,16 +155,16 @@ g) Primeiros-assistentes.
 
 7 - Os monitores perceberão uma gratificação mensal de montante igual a 40% do vencimento dos assistentes estagiários em regime de tempo integral.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1987.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 12 de Abril de 1988.**
+Promulgado em 12 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1988.**
+Referendado em 15 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

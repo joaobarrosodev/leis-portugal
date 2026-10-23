@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 17/1988, 1º Suplemento, Série I de 1988-01-21
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 248-(2) a 248-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01701/00020002.pdf
 entry_into_force_dates: []
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74536284ae173da80d746be0f44b8249db02d76b2c22d574a3b323116b7ebc96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1d117ff3669b5158c986e37d3660d49ee231c5faa79f15dddb6f846f91b5f3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Pessoal Docente
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:106861729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:02Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +114,22 @@ Considerando que importa definir, com o máximo rigor, o âmbito de aplicação 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 7.º e 13.º do [Decreto-Lei n.º 169/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1985-151527), de 20 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º e 13.º do [Decreto-Lei n.º 169/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1985-151527), de 20 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 7.º O direito à contagem de tempo de serviço de que trata o presente diploma não se extingue ainda que o pessoal por ele abrangido perca, ou já tenha perdido à data de entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, a qualidade de docente do ensino oficial, desde que tenha mantido o vínculo ao Estado em qualquer outra carreira da função pública, prestando nela serviço contável para efeitos de aposentação.
+Art. 7.º O direito à contagem de tempo de serviço de que trata o presente diploma não se extingue ainda que o pessoal por ele abrangido perca, ou já tenha perdido à data de entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, a qualidade de docente do ensino oficial, desde que tenha mantido o vínculo ao Estado em qualquer outra carreira da função pública, prestando nela serviço contável para efeitos de aposentação.
 
-###### Art. 13.º - 1 - O tempo de serviço prestado após a entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, só pode ser considerado para efeitos do disposto no presente diploma se a escola onde o serviço foi prestado tiver dado cumprimento ao disposto no n.º 2 do artigo 72.º daquele decreto-lei.
+Art. 13.º - 1 - O tempo de serviço prestado após a entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, só pode ser considerado para efeitos do disposto no presente diploma se a escola onde o serviço foi prestado tiver dado cumprimento ao disposto no n.º 2 do artigo 72.º daquele decreto-lei.
 
 2 - O disposto no número anterior só é aplicável às escolas cuja criação tenha sido homologada nos termos do artigo 26.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), ou nos termos do [Decreto n.º 37545](https://diariodarepublica.pt/dr/detalhe/decreto/37545-1949-265329), de 8 de Setembro de 1949.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 13 de Dezembro de 1987.**
+Promulgado em 13 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1987.**
+Referendado em 16 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

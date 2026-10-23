@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13400/22972299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1987-419074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be8a1a0af17412f9e702fa76461011d337385eb2546d33f9161c4d50a6c2617e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb1fbd8469f8c39fc2e601f0f80b9426b4c01c87eccfcf6e5d72154ae7a03f01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Turismo
+- Orgânica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:534586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificação DR.IS [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-08-31'
+- type: cites
+  target: pt:dre:383827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473713:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239641:por
+  label: Rectificado pela DECL.DD4367.03.07.1987.PCM, DR.IS [3360(5)] de 31.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-239641
+  date: '1987-07-03'
+- type: repealed_by
+  target: pt:dre:534586:por
+  label: "Revogado pelo DEC LEI.293/94.1994.11.16.MCT, DR.IS-A [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1994-534586
+  date: '1994-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:55Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +130,9 @@ Considerando que para tal se mostra necessário proceder à sua reestruturação
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Conselho Nacional de Turismo, adiante designado por Conselho, é um órgão de consulta que funciona junto do membro do Governo com tutela sobre o sector do turismo e regula-se pelo disposto no presente diploma.
+Artigo 1.º O Conselho Nacional de Turismo, adiante designado por Conselho, é um órgão de consulta que funciona junto do membro do Governo com tutela sobre o sector do turismo e regula-se pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - Ao Conselho compete pronunciar-se sobre todos os assuntos respeitantes ao sector do turismo que sejam submetidos à sua apreciação pelo seu presidente e, em especial:
+Art. 2.º - 1 - Ao Conselho compete pronunciar-se sobre todos os assuntos respeitantes ao sector do turismo que sejam submetidos à sua apreciação pelo seu presidente e, em especial:
 
 a) Dar parecer sobre os planos gerais de turismo e apresentar sugestões para o seu aperfeiçoamento, bem como sobre os planos de ordenamento turístico do território nacional;
 
@@ -114,21 +144,21 @@ d) Formular recomendações e propor medidas adequadas para o sector.
 
 2 - O Conselho poderá ainda, por iniciativa própria, analisar quaisquer questões relativas ao sector, elaborando os respectivos estudos e propondo as sugestões deles resultantes.
 
-###### Art. 3.º - 1 - O Conselho é presidido pelo membro do Governo com tutela sobre o turismo e terá um secretário por ele nomeado de entre os funcionários do grupo de pessoal técnico superior dos organismos ou serviços centrais de turismo e que será, para efeitos de representação, equiparado a director-geral.
+Art. 3.º - 1 - O Conselho é presidido pelo membro do Governo com tutela sobre o turismo e terá um secretário por ele nomeado de entre os funcionários do grupo de pessoal técnico superior dos organismos ou serviços centrais de turismo e que será, para efeitos de representação, equiparado a director-geral.
 
 2 - O Conselho terá como vogais os indicados no artigo seguinte.
 
-###### Art. 4.º - 1 - São vogais do Conselho:
+Art. 4.º - 1 - São vogais do Conselho:
 
 O director-geral do Turismo;
 
-**O presidente da comissão administrativa do Fundo de Turismo;**
+O presidente da comissão administrativa do Fundo de Turismo;
 
 O director do Instituto Nacional de Formação Turística;
 
 O inspector-geral de Jogos;
 
-**O presidente do Instituto de Promoção Turística;**
+O presidente do Instituto de Promoção Turística;
 
 O director-geral da Administração Autárquica;
 
@@ -140,7 +170,7 @@ O director-geral dos Recursos Naturais;
 
 O director-geral da Qualidade do Ambiente;
 
-**O presidente do Serviço Nacional de Parques, Reservas e Conservação da Natureza;**
+O presidente do Serviço Nacional de Parques, Reservas e Conservação da Natureza;
 
 Um representante do Ministério das Finanças;
 
@@ -158,13 +188,13 @@ Um representante do Governo Regional dos Açores;
 
 Um representante do Governo Regional da Madeira;
 
-**O presidente do Instituto Português do Património Cultural;**
+O presidente do Instituto Português do Património Cultural;
 
-**O presidente do Instituto do Investimento Estrangeiro;**
+O presidente do Instituto do Investimento Estrangeiro;
 
 Um representante do Banco de Portugal;
 
-**O presidente de cada uma das regiões de turismo;**
+O presidente de cada uma das regiões de turismo;
 
 Um representante das juntas de turismo;
 
@@ -194,7 +224,7 @@ Um representante do sindicato representativo de outras profissões turísticas;
 
 Um representante da Associação de Directores de Hotéis de Portugal;
 
-**O presidente do conselho de administração da ENATUR - Empresa Nacional de Turismo, E. P.;**
+O presidente do conselho de administração da ENATUR - Empresa Nacional de Turismo, E. P.;
 
 Um representante da TAP-AIR Portugal, E. P.;
 
@@ -212,7 +242,7 @@ Um representante da Associação Nacional de Municípios Portugueses.
 
 4 - Os vogais representantes dos órgãos locais de turismo serão por estes eleitos.
 
-###### Art. 5.º - 1 - O Conselho funciona em plenário ou por secções.
+Art. 5.º - 1 - O Conselho funciona em plenário ou por secções.
 
 2 - O plenário é constituído pelo presidente, pelo secretário-geral e pelos vogais do Conselho, podendo o presidente convidar outras entidades, públicas ou privadas, a participar activamente nos trabalhos, mas sem direito a voto.
 
@@ -230,7 +260,7 @@ Um representante da Associação Nacional de Municípios Portugueses.
 
 5 - Os vogais do Conselho, com excepção do director-geral do Turismo e dos representantes dos governos regionais, integrar-se-ão, em função da área da sua actividade, numa das secções, podendo, no entanto, fazer-se representar, quer nos trabalhos da sua secção, quer de outras, por substitutos, devidamente credenciados e previamente indicados ao secretário do Conselho.
 
-###### Art. 6.º Compete ao secretário:
+Art. 6.º Compete ao secretário:
 
 a) Coadjuvar o presidente no exercício das suas funções;
 
@@ -240,7 +270,7 @@ c) Organizar as reuniões em plenário do Conselho, dar apoio à sua realizaçã
 
 d) Dirigir o apoio administrativo do Conselho, assegurando o necessáro expediente.
 
-###### Art. 7.º - 1 - O Conselho reúne em plenário, ordinariamente, duas vezes por ano, a convocação do presidente, e extraordinariamente, sempre que por ele convocado, oficiosamente ou a solicitação de um terço dos vogais.
+Art. 7.º - 1 - O Conselho reúne em plenário, ordinariamente, duas vezes por ano, a convocação do presidente, e extraordinariamente, sempre que por ele convocado, oficiosamente ou a solicitação de um terço dos vogais.
 
 2 - As recomendações do Conselho são tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -248,42 +278,42 @@ d) Dirigir o apoio administrativo do Conselho, assegurando o necessáro expedien
 
 4 - Das reuniões do Conselho serão lavradas actas, das quais devem constar, resumidamente, o teor dos debates, as deliberações tomadas e eventuais declarações de voto, devendo ser assinadas pelo presidente e pelo secretário.
 
-###### Art. 8.º - 1 - As secções do Conselho deverão reunir separadamente todos os trimestres, a convocação dos respectivos presidentes, sem prejuízo de reuniões extraordinárias, cuja convocação se justifique.
+Art. 8.º - 1 - As secções do Conselho deverão reunir separadamente todos os trimestres, a convocação dos respectivos presidentes, sem prejuízo de reuniões extraordinárias, cuja convocação se justifique.
 
 2 - Das reuniões das secções serão lavradas actas, assinadas pelos membros presentes, que serão enviadas pelo respectivo presidente ao secretário do Conselho.
 
 3 - O funcionamento das secções será estabelecido no regimento do Conselho a que se refere o artigo 13.º do presente diploma.
 
-###### Art. 9.º O Conselho funciona, em plenário ou por secções, com qualquer número de membros.
+Art. 9.º O Conselho funciona, em plenário ou por secções, com qualquer número de membros.
 
-###### Art. 10.º - 1 - Quando a natureza das questões suscitadas o aconselhe, poderá o presidente designar relatores, a quem caberá elaborar os respectivos estudos e o projecto de deliberação do Conselho.
+Art. 10.º - 1 - Quando a natureza das questões suscitadas o aconselhe, poderá o presidente designar relatores, a quem caberá elaborar os respectivos estudos e o projecto de deliberação do Conselho.
 
 2 - Os relatores poderão ser designados de entre os vogais do Conselho ou de técnicos chamados a prestar-lhe assessoria.
 
-###### Art. 11.º - 1 - O Conselho será apoiado administrativamente pelo Gabinete do Secretário de Estado do Turismo, podendo, para o efeito, ser destacados funcionários dos serviços e organismos públicos do sector.
+Art. 11.º - 1 - O Conselho será apoiado administrativamente pelo Gabinete do Secretário de Estado do Turismo, podendo, para o efeito, ser destacados funcionários dos serviços e organismos públicos do sector.
 
 2 - As despesas inerentes à actividade e funcionamento do Conselho serão suportadas por verbas próprias inscritas no orçamento da secretaria-geral do departamento governamental com tutela sobre o sector do turismo.
 
 3 - As funções de membro do Conselho não serão remuneradas, podendo sê-lo, no entanto, quaisquer estudos ou tarefas específicas determinados pelo presidente e que excedam aquelas funções.
 
-###### Art. 12.º Os vogais do Conselho deverão ser designados, de harmonia com o disposto nos n.os 2 e 3 do artigo 4.º, no prazo máximo de 30 dias após a publicação do presente diploma.
+Art. 12.º Os vogais do Conselho deverão ser designados, de harmonia com o disposto nos n.os 2 e 3 do artigo 4.º, no prazo máximo de 30 dias após a publicação do presente diploma.
 
-###### Art. 13.º - 1 - O Conselho promoverá a elaboração do seu regimento interno no prazo máximo de 90 dias após a publicação do presente diploma.
+Art. 13.º - 1 - O Conselho promoverá a elaboração do seu regimento interno no prazo máximo de 90 dias após a publicação do presente diploma.
 
 2 - O regimento previsto no número anterior entrará em vigor depois de homologado e publicado no Diário da República.
 
 3 - Enquanto o regimento não entrar em vigor, competirá ao presidente estabelecer supletivamente as regras de funcionamento que se mostrem necessárias.
 
-###### Art. 14.º São revogados o [Decreto n.º 46/79](https://diariodarepublica.pt/dr/detalhe/decreto/46-1979-383827), de 5 de Junho, o [Decreto do Governo n.º 31/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1984-385390), de 5 de Julho, a [Portaria n.º 346/80](https://diariodarepublica.pt/dr/detalhe/portaria/346-1980-473713), de 23 de Junho, bem como o regimento publicado no Diário da República, 2.ª série, n.º 38, de 15 de Fevereiro de 1982.
+Art. 14.º São revogados o [Decreto n.º 46/79](https://diariodarepublica.pt/dr/detalhe/decreto/46-1979-383827), de 5 de Junho, o [Decreto do Governo n.º 31/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1984-385390), de 5 de Julho, a [Portaria n.º 346/80](https://diariodarepublica.pt/dr/detalhe/portaria/346-1980-473713), de 23 de Junho, bem como o regimento publicado no Diário da República, 2.ª série, n.º 38, de 15 de Fevereiro de 1982.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Maio de 1987.**
+Promulgado em 28 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1987.**
+Referendado em 30 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

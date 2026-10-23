@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/10/24200/37923793.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1987-496079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68b06841706aa39f71406b65544322d010483c3964ace4c2c170188d1562d3c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc255f3c5c3f7134597d65c0a6d012f656f59bd638f483dbf40981586c0d7b39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Patronal
+- Associação Sindical
+- Conselho Permanente da Concertação Social
+- Orgânica
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:192042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661126:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:553611:por
+  label: Rectificado pela DECL.DD4253.28.10.1987.PCM, DR.IS [249]Supl de 29.10.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-553611
+  date: '1987-10-28'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:32Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +128,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 5.º (alterado pelo [Decreto-Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1986-192042), de 16 de Janeiro), 6.º, 10.º, 13.º, 23.º, 25.º e 27.º do [Decreto-Lei n.º 74/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1984-661126), de 2 de Março, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º (alterado pelo [Decreto-Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1986-192042), de 16 de Janeiro), 6.º, 10.º, 13.º, 23.º, 25.º e 27.º do [Decreto-Lei n.º 74/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1984-661126), de 2 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — Composição
 
@@ -191,19 +222,19 @@ Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1987.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Outubro de 1987.**
+Promulgado em 9 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1987.**
+Referendado em 14 de Outubro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 2 do artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/10/24200/37923793.pdf))](https://files.diariodarepublica.pt/1s/1987/10/24200/37923793.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/10/24200/37923793.pdf)
 
 ## ANEXO II
 

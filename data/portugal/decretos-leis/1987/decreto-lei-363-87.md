@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1987-498542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 103e8f16b09502bc85d3d505d7ff188af63bf503089b4a81a715ba0581d01b4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76db39c807e3d7d06f79071ce34f743943ad0e69ec5bf24a40b96b53fedb9918
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capitania
+- Madeira.região Autónoma
+- Porto do Porto Santo
+- Portos
+relationships:
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:59Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +106,26 @@ Ouvidos os órgãos de governo da Região Autónoma da Madeira e em conformidade
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Capitania do Porto de Porto Santo e simultaneamente extinta a Delegação Marítima de Porto Santo, sendo a sua área de jurisdição a correspondente à da Delegação Marítima agora extinta.
+Artigo 1.º É criada a Capitania do Porto de Porto Santo e simultaneamente extinta a Delegação Marítima de Porto Santo, sendo a sua área de jurisdição a correspondente à da Delegação Marítima agora extinta.
 
-###### Art. 2.º Em consequência do disposto no artigo anterior, o quadro n.º 1 a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, é alterado no seguinte:
+Art. 2.º Em consequência do disposto no artigo anterior, o quadro n.º 1 a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, é alterado no seguinte:
 
 a) A inscrição relativa à Capitania do Porto do Funchal passa a conter as seguintes referências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/27400/41594159.pdf))](https://files.diariodarepublica.pt/1s/1987/11/27400/41594159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/27400/41594159.pdf)
 
 b) Entre as inscrições relativas à Capitania do Porto do Funchal e à Capitania de Ponta Delgada é introduzida a Capitania do Porto de Porto Santo, com as seguintes referências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/27400/41594159.pdf))](https://files.diariodarepublica.pt/1s/1987/11/27400/41594159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/27400/41594159.pdf)
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Lino Dias Miguel.
 
-**Promulgado em 18 de Novembro de 1987.**
+Promulgado em 18 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Novembro de 1987.**
+Referendado em 19 de Novembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12400/21562178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,226 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a55486c5e22277f2d877cf01c57816f8b759696c4af3cdccc660cb947c56913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e58ee2636b302a5249c85d03c1ae3334f3ace409e138456d6a5f76bc644a5b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Educação Pré-escolar
+- Educador de Infância
+- Ensino Preparatório
+- Ensino Primário
+- Estabelecimento de Ensino
+- Gestão de Recursos Humanos
+- Gestão Escolar
+- Pessoal não Docente
+- Quadro de Pessoal
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:3048048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:398839:por
+  label: "Aditados aos quadros de vinculação, os lugares constantes do mapa III anexo à PORT.136/88.29.02.1988.MF, DR.IS [49]Supl\
+    \ de 29.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-1988-398839
+  date: '1988-02-29'
+- type: amended_by
+  target: pt:dre:286300:por
+  label: "Aplicado à RAA pelo DLR.12/88/A.1988.04.05.ARA DR.IS [79], que adaptou a redacção dos seguintes arts: - Arts. 11,\
+    \ 6º, 7º, 12º - nº 2, 21º - nºs 2 e 3, 40º - nº 3, 42º - nºs 1 e 2, 45º - nºs 1 e 5 e 47º - nºs 1, 4, 5, 6 e 7.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1988-286300
+  date: '1988-04-05'
+- type: amended_by
+  target: pt:dre:620320:por
+  label: "Alterados os arts. 3.º, 5.º, 6.º, 7.º, 19.º, 23.º, 42.º e 50.º e revogado o art. 49.º (sem prejuízo das integrações\
+    \ entretanto operadas ao abrigo do disposto no respectivo n.º 2.), pelo DEC LEI.191/89.07.06.1989.ME, DR.IS [[130]] de\
+    \ 07.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1989-620320
+  date: '1989-06-07'
+- type: amended_by
+  target: pt:dre:332916:por
+  label: "Substituídos os quadros de afectação constantes dos anexos XXII a XXXIX, pela PORT.144/90.21.02.1990.MF, DR.IS [44]\
+    \ de 21.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-1990-332916
+  date: '1990-02-21'
+- type: amended_by
+  target: pt:dre:295437:por
+  label: "Adicionados lugares de pessoal não docente aos quadros de vinculação, pela PORT.760-A/90.28.08.1990.MF, DR.IS [198]\
+    \ de 28.08.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/760-a-1990-295437
+  date: '1990-08-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ANEXOS II A XIX PELA PORT 390/91 DE 08-MAIDR.IS-B [105]19920106 - ALTERADOS OS ANEXOS II, IV, XIV E
+    XV, PELA PORT 6/92 DR.IS-B [4] NA REDACÇÃO QUE LHES FOI DADA PELA PORT 390/91 DE 08-MAI DR.IS-B [105] BEM COMO DOS ANEXOS
+    XXII E XXXV, NA REDACÇÃO DADA PELO ANEXO A PORT 424/91 DR.IS-B [250]19920812 - AUMENTADOS OS QUADROS DE VINCULAÇÃO PELA
+    PORT 784/92 DE12-AGO DR.IS-B [185]19920901 - AUMENTADO O QUADRO DISTRITAL DE VINCULAÇÃO DE PORTALEGREDE ACORDO COM O MAPA
+    II ANEXO A PORT 846/92 DE 01-SET DR.IS-B [201]19920929 - AUMENTADOS OS QUADROS DISTRITAIS DE VINCULAÇÃO (PORTO EVILA REAL)
+    PELA PORT 946/92 DE 29-SET DR.IS-B [225] E LEGISLAÇÃOCOMPLEMENTAR19920930 - ALARGADOS OS QUADROS DISTRITAIS DE VINCULAÇÃO
+    (BRAGA E PORTO) PELA PORT 950/92 DE 30-SET DR.IS-B [226]19930513 - ALTERADOS OS QUADROS DISTRITAIS DE VINCULAÇÃO, ANEXOS
+    AOPRESENTE DIPLOMA, PELA PORT 518-A/93 DE 13-MAI DR.IS-B [11]SUPL19930726 - AUMENTADO O QUADRO DE PESSOAL CONSTANTE DO
+    ANEXO VII PELAPORT 695/93 DE 26-JUL DR.IS-B [173]19931023 - ALTERADO O QUADRO DE VINCULAÇÃO CONSTANTE DO ANEXO XIV, PELA
+    PORT 1060/93 DE 23-OUT DR.IS-B [249]19880229 - ADITADOS AOS QUADROS DE VINCULAÇÃO, OS LUGARES CONSTANTESDO MAPA III ANEXO
+    A PORT 136/88, DE 29-FEV DR.IS [49]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-08'
+- type: amended_by
+  target: pt:dre:283309:por
+  label: "Aumentados os quadros de vinculação referidos no presente diploma, pela PORT.784/92.12.08.1992.MF, DR.IS-B [185]\
+    \ de 12.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/784-1992-283309
+  date: '1992-08-12'
+- type: amended_by
+  target: pt:dre:240652:por
+  label: "Adicionados lugares ao quadro distrital de vinculação de Portalegre, pela PORT.846/92.01.09.1992.MF, DR.IS-B [201]\
+    \ de 01.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/846-1992-240652
+  date: '1992-09-01'
+- type: amended_by
+  target: pt:dre:233128:por
+  label: "Aumentados os quadros de vinculação referidos no presente diploma e legislação complementar, pela PORT.946/92.29.09.1992.MF,\
+    \ DR.IS-B [225] de 29.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/946-1992-233128
+  date: '1992-09-29'
+- type: amended_by
+  target: pt:dre:233077:por
+  label: "Alargados os quadros de vinculação referidos no presente diploma, pela PORT.950/92.30.09.1992.MF, DR.IS-B [226]\
+    \ de 30.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/950-1992-233077
+  date: '1992-09-30'
+- type: amended_by
+  target: pt:dre:230952:por
+  label: "Aumentados os quadros de vinculação referidos no presente diploma, pela PORT.706/94.03.08.1994.MF, DR.IS-B [178]\
+    \ de 03.08.1994, e mantidos em vigor os quadros de afectação a que se refere o artigo 3.º, na redacção do Decreto-Lei\
+    \ 191/89,de de 7 de Junho, com excepção do quadro de afectação publicado no mapa III, anexo ao citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/706-1994-230952
+  date: '1994-08-03'
+- type: amended_by
+  target: pt:dre:222641:por
+  label: "Aumentados os quadros de vinculação referidos no presente diploma, pela PORT.716/94.10.08.1994.MF, DR.IS-B [184]\
+    \ de 10.08.1994, e mantidos em vigor os quadros de afectação de pessoal não docente a que se refere o artigo 3.º, na redacção\
+    \ do Decreto-Lei 191/89, de 7 de Junho, com excepção dos quadros de afectação publicados no mapa III anexo ao citado diploma\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1994-222641
+  date: '1994-08-10'
+- type: amended_by
+  target: pt:dre:529978:por
+  label: "Substituídos os quadros de afectação de pessoal não docente a que se refere o artigo 3.º, na redacção do Decreto-Lei\
+    \ 191/89, de 7 de Junho, pelos constantes do mapa III da PORT.495/95.24.05.1995.MF, DR.IS-B [120] de 24.05.1995, e adicionados\
+    \ aos quadros de vinculação os lugares constantes do mapa II do mesmo diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-1995-529978
+  date: '1995-05-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS QUADROS DE VINCULAÇÃO DE PESSOAL NAO DOCENTE DOS ESTABELECIMENTOS DE ENSINO BASICO E SECUNDÁRIOAPROVADOS
+    PELO PRESENTE DIPLOMA, PELA PORT 1104/95 DE 09-SET DR.IS-B [209]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADICIONADO AO QUADRO DISTRITAL DE VINCULAÇÃO DE BRAGACONSTANTE DO ANEXO IV O MAPA II DA PORT 1201/95 DE 03-OUT DR.IS-B\
+    \ [229]19951002 - ALTERADO O QUADRO DE AFECTAÇÃO DE PESSOAL NAO DOCENTE DODISTRITO DE BRAGA (REFERIDO NO ART 3), NA REDACÇÃO\
+    \ DADA PELO DEC LEI191/89 DE 07-JUN (ANEXO XXIV), PELA PORT 1201/95 DE 03-OUT DR.IS-B [229]19951129 - ALTERADOS OS QUADROS\
+    \ DE VINCULAÇÃO DE PESSOAL NAO DOCENTE PELA PORT 1438/95 DE 29-NOV DR.IS-B [276]19880518 - ALTERADOS OS QUADROS DE VINCULAÇÃO\
+    \ DISTRITAIS DE PESSOALNAO DOCENTE, PELA PORT 314/88 DE 18-MAI DR.IS [115]19960828 - ADITADOS AOS QUADROS DE VINCULAÇÃO\
+    \ A QUE SE REFERE O PRESENTE DIPLOMA E LEGISLAÇÃO COMPLEMENTAR OS LUGARES DOPESSOAL NAO DOCENTE CONSTANTES NO MAPA III\
+    \ ANEXO A PORT 419/96 DE 28-AGO DR.IS-B [199]19960828 - SUBSTITUÍDOS OS QUADROS DE AFECTAÇÃO DE PESSOAL NAO DOCENTE A\
+    \ QUE SE REFERE O ART 3, NA REDACÇÃO CONSTANTE DO ART 1 DO DEC 191/89 DE 07-JUL, PELO MAPA IV ANEXO A PORT 419/96 DE 28-AGO\
+    \ DR.IS-B[199]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-02'
+- type: amended_by
+  target: pt:dre:529401:por
+  label: "Substituidos, pelos constantes do mapa III anexo à Port 560-A/97 de 25-Jul os quadros de afectação de pessoal não\
+    \ docente a que se refere o num 3 do presente diploma, na redacção dada pelo artº 1º do Dec Lei 191/89 de 07-Jun e adicionados\
+    \ os lugares constantes do mapa II aos quadros de vinculação a que se refere o mesmo diploma, pela PORT.560-A/97.1997.07.25.MF,\
+    \ DR.IS-B [170]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-a-1997-529401
+  date: '1997-07-25'
+- type: amended_by
+  target: pt:dre:438194:por
+  label: "Alterado o art. 27º pelo DEC LEI.245/98.1998.08.10.ME, DR.IS-A [183]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1998-438194
+  date: '1998-08-10'
+- type: amended_by
+  target: pt:dre:444697:por
+  label: "Substituídos pelo mapa III, anexo à Port 594/98, os quadros de afectação de pessoal não docente a que se refere\
+    \ o art. 3.º do presente diploma, na redacção dada pelo art. 1.º do Dec Lei 191/89 de 07-Jul e adicionados os lugares\
+    \ constantes do anexo II aos quadros de vinculação a que se refere o mesmo diploma, pela PORT.549/98.1998.08.19.PCM DR.IS-B\
+    \ [190]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/549-1998-444697
+  date: '1998-08-19'
+- type: amended_by
+  target: pt:dre:237586:por
+  label: "Aprovada a revisão dos quadros distritais de vinculação de pessoal não docente, relativa às carreiras e categorias\
+    \ de assistente de administração escolar, de auxiliar de acção educativa e de cozinheiro, para os funcionários com nomeação\
+    \ definitiva dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, criados pelo presente\
+    \ diploma, na redacção do Dec Lei 191/89 de 07-Mai, e cujos anexos foram alterados pelas Ports. 390/91 de 08-Mai, 424/91\
+    \ de 23-Mai, 6/92 de 06-Jan, 784/92 de 12-Ago, 846/92 de 01-Set, 946/92 de 29-Set, 950/92 de 30-Set, 224/93 de 25-Fev,\
+    \ 518-A/93 de 13-Mai, 587/93 de 11-Jun, 1060/93 de 23-Out, 706/94 de 03-Ago, 716/94 de 10-Ago, 495/95 de 24-Mai, 1104/95\
+    \ de 09-Set, 1201/95 de 03-Out, 1438/95 de 29-Nov, 419/96 de 28-Ago, 560-A/97 de 25-Jul, 1091/97 de 03-Nov, 549/98 de\
+    \ 19-Ago e 745/99 de 26-Ago pela PORT.601/2005.19.07.2005.ME, DR.IS-B [137] de 19.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2005-237586
+  date: '2005-07-19'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374460:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643091:por
+  label: "Revogado, sem prejuízo do disposto no nº 2 do art. 31º pelo DEC LEI.515/99.1999.11.24.ME, DR.IS-A [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/515-1999-643091
+  date: '1999-11-24'
+- type: repealed_by
+  target: pt:dre:502396:por
+  label: "Revogado, sem prejuízo do disposto no art. 53.º pelo DEC LEI.184/2004.29.07.2004.ME, DR.IS-A [177] de 29.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-2004-502396
+  date: '2004-07-29'
 article_structure:
   article_count: 54
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:44Z'
   warnings: []
   errors: []
 ---
@@ -642,21 +828,21 @@ O disposto no presente diploma, nomeadamente quanto ao ordenamento de carreiras,
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 13 de Maio de 1987.**
+Promulgado em 13 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do ANEXO I ao ANEXO XX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/12400/21562178.pdf))](https://files.diariodarepublica.pt/1s/1987/05/12400/21562178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/12400/21562178.pdf)
 
-## Anexo XXI a que se refere o n.º 1 do artigo 41.º do presente diploma
+Anexo XXI a que se refere o n.º 1 do artigo 41.º do presente diploma
 
 Técnico de acção educativa
 

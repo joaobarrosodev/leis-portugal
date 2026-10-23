@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00700/01040105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1987-599517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 570ec4b929de94405a6df8bf7a05582598692b0a5057ef5cb4f8c75cbbf2fa38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 817e683b6b6016d961b75889bd2ddc640a8b2d7f976d4c47314ff13f99cb2ac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial para a Emigração e Comunidades Portuguesas
+- Emigrante
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:575498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:575498:por
+  label: "Revogado pelo DEC LEI.218/90.03.07.1990.MNE, DR.IS [151] de 03.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1990-575498
+  date: '1990-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:25Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +105,11 @@ Considerando que a acção do Estado na definição e execução da política de
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada, no Ministério dos Negócios Estrangeiros, a Comissão Interministerial para a Emigração e Comunidades Portuguesas, adiante designada por Comissão.
+Artigo 1.º - 1 - É criada, no Ministério dos Negócios Estrangeiros, a Comissão Interministerial para a Emigração e Comunidades Portuguesas, adiante designada por Comissão.
 
 2 - A Comissão é um órgão de consulta do Governo para as questões conexas com a emigração e as comunidades portuguesas e estabelece a articulação entre as entidades públicas ou privadas que venha a ser julgada conveniente, como meio privilegiado de implementar as recomendações do Conselho das Comunidades Portuguesas.
 
-###### Art. 2.º Constituem atribuições da Comissão:
+Art. 2.º Constituem atribuições da Comissão:
 
 a) Contribuir para a definição de uma política global e integrada na área da emigração e do apoio às comunidades portuguesas no estrangeiro;
 
@@ -118,7 +127,7 @@ g) Dar parecer sobre os programas, projectos e intervenções na área de emigra
 
 h) Analisar por iniciativa própria quaisquer assuntos relativos à emigração e às comunidades portuguesas no estrangeiro.
 
-###### Art. 3.º - 1 - A Comissão é presidida pelo Ministro dos Negócios Estrangeiros, que pode delegar a competência no Secretário de Estado das Comunidades Portuguesas.
+Art. 3.º - 1 - A Comissão é presidida pelo Ministro dos Negócios Estrangeiros, que pode delegar a competência no Secretário de Estado das Comunidades Portuguesas.
 
 2 - Os membros do Governo titulares dos vários ministérios designam os necessários representantes dos departamentos por si tutelados, por forma que a Comissão seja composta por elementos cujas atribuições se situem nas seguintes áreas:
 
@@ -160,7 +169,7 @@ o) Comunicação social.
 
 7 - O secretário do Conselho das Comunidades Portuguesas é membro por inerência da Comissão, podendo fazer-se acompanhar por representantes desse Conselho quando a sua intervenção for julgada útil na qualidade de peritos.
 
-###### Art. 4.º - 1 - A Comissão reúne em plenário e por secções.
+Art. 4.º - 1 - A Comissão reúne em plenário e por secções.
 
 2 - A Comissão reúne em plenário duas vezes por ano e extraordinariamente sempre que convocada pelo presidente.
 
@@ -170,22 +179,22 @@ o) Comunicação social.
 
 5 - Sempre que as secções se reúnam para tratar de problemas relacionados com a educação, nelas tomarão assento obrigatório, para além dos representantes previstos na alínea h) do n.º 2 do artigo 3.º, dois representantes dos sectores que, no Ministério da Educação e Cultura, tenham sob a sua responsabilidade o ensino português no estrangeiro.
 
-###### Art. 5.º O exercício das funções de membro da Comissão não é remunerado.
+Art. 5.º O exercício das funções de membro da Comissão não é remunerado.
 
-###### Art. 6.º O Gabinete do Secretário de Estado das Comunidades Portuguesas assegura, durante as reuniões e nos seus intervalos, o necessário apoio de secretaria e expediente.
+Art. 6.º O Gabinete do Secretário de Estado das Comunidades Portuguesas assegura, durante as reuniões e nos seus intervalos, o necessário apoio de secretaria e expediente.
 
-###### Art. 7.º - 1 - O regimento interno da Comissão é aprovado por portaria do Ministro dos Negócios Estrangeiros, na sequência de parecer emitido sobre a matéria na primeira reunião da Comissão.
+Art. 7.º - 1 - O regimento interno da Comissão é aprovado por portaria do Ministro dos Negócios Estrangeiros, na sequência de parecer emitido sobre a matéria na primeira reunião da Comissão.
 
 2 - Para os efeitos da segunda parte do número anterior, o presidente da Comissão fará distribuir com a necessária antecedência por todos os membros o anteprojecto do diploma e designará o relator do parecer.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almieda - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Fernando Mira Amaral - Fernando Nunes Ferreira Real.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

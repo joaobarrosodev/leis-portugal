@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1987-662542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82435227f19f858a2fd558f142dd21af55fd4aea8a0dea0800df6ef1e6ae4662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74467f8fe46cf19c52b46f5a6d6cf8757b3297f37ae6a77520dced352c39c4f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Isenção Fiscal
+relationships:
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:56Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +100,15 @@ Assim:
 
 No uso da autorização conferida pelos artigos 29.º, 35.º, 44.º, n.º 6, e 57.º, alínea b), da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A regra 19.ª do § 3.º do artigo 19.º e o artigo 30.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Artigo 1.º A regra 19.ª do § 3.º do artigo 19.º e o artigo 30.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 3.º ...
 
 19.ª Na aquisição de habitação para a residência permanente do adquirente, havendo recurso ao crédito nos termos da legislação que estabeleça o regime de concessão de crédito à habitação, a sisa incidirá sobre o preço convencionado ou sobre o valor da avaliação efectuada pela instituição de crédito respectiva, se este for maior, não se aplicando o § 4.º deste artigo.
 
-###### Art. 30.º Para efeitos de sisa e do imposto sobre as sucessões e doações entender-se-á que o valor matricial dos bens ao tempo da transmissão é o produto por 20 ou 15 do rendimento colectável inscrito na matriz à data da liquidação, consoante se trate, respectivamente, de prédios rústicos ou urbanos.
+Art. 30.º Para efeitos de sisa e do imposto sobre as sucessões e doações entender-se-á que o valor matricial dos bens ao tempo da transmissão é o produto por 20 ou 15 do rendimento colectável inscrito na matriz à data da liquidação, consoante se trate, respectivamente, de prédios rústicos ou urbanos.
 
 § 1.º Quando os contribuintes se não conformem com o valor matricial resultante da aplicação do factor 15 ao rendimento colectável de prédios urbanos já inscritos na matriz, poderão requerer ao chefe da repartição de finanças a fixação do factor de capitalização.
 
@@ -118,26 +124,26 @@ Para o efeito, o requerimento deve ser apresentado no prazo estipulado no artigo
 
 Com fundamento em preterição de formalidades legais verificada no processo de fixação, poderá o contribuinte ou o representante da Fazenda Pública impugnar, sem efeito suspensivo, nos termos do Código de Processo das Contribuições e Impostos, a respectiva decisão, dentro do prazo de oito dias ou de um ano, respectivamente, contados da data da notificação ao contribuinte.
 
-###### Art. 2.º Ao artigo 183.º do mesmo Código é aditado o n.º 6.º, com a seguinte redacção:
+Art. 2.º Ao artigo 183.º do mesmo Código é aditado o n.º 6.º, com a seguinte redacção:
 
-###### Art. 183.º ...
+Art. 183.º ...
 
 6.º As obrigações convertíveis em acções.
 
-###### Art. 3.º Fica isenta de sisa durante o ano de 1987 a primeira transmissão de prédio ou fracção de prédio urbano destinado exclusivamente à habitação, desde que o valor sobre que o imposto incida não ultrapasse 10000 contos.
+Art. 3.º Fica isenta de sisa durante o ano de 1987 a primeira transmissão de prédio ou fracção de prédio urbano destinado exclusivamente à habitação, desde que o valor sobre que o imposto incida não ultrapasse 10000 contos.
 
-###### Art. 4.º Ficam isentas do imposto sobre as sucessões e doações por avença as obrigações, emitidas em 1987, de vida mínima igual ou superior a oito anos.
+Art. 4.º Ficam isentas do imposto sobre as sucessões e doações por avença as obrigações, emitidas em 1987, de vida mínima igual ou superior a oito anos.
 
-###### Art. 5.º É criado um adicional de 15%, cujo proveito reverterá integralmente para o Estado, incidente sobre o imposto sobre as sucessões e doações, relativo às transmissões operadas durante o ano de 1987.
+Art. 5.º É criado um adicional de 15%, cujo proveito reverterá integralmente para o Estado, incidente sobre o imposto sobre as sucessões e doações, relativo às transmissões operadas durante o ano de 1987.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

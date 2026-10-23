@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/26300/40094010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2099d9daf17c1ceea439da363328e65d68632f85175efbd89f8d44efff20d4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f571fe2c1cf3017e8e168fbedc358b452262576c99a6699a6c5c2f727a743166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- CTT
+- Definição de Competências
+- Empresa Pública
+- Preço
+- Serviço Postal
+- Taxa
+- Telefone
+- Telex
 relationships:
 - type: amended_by
   target: pt:dre:282155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 207/92, PUBLICADO NO DR.IS-A, 228, DE 921002.\0002.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:52Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +124,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma define o regime de fixação das tarifas e dos preços dos serviços prestados pelos operadores das comunicações de uso público.
+Artigo 1.º O presente diploma define o regime de fixação das tarifas e dos preços dos serviços prestados pelos operadores das comunicações de uso público.
 
-###### Art. 2.º - 1 - Por portaria conjunta dos Ministros responsáveis pelas áreas das finanças, da concorrência e preços e das comunicações serão aprovadas as seguintes taxas básicas:
+Art. 2.º - 1 - Por portaria conjunta dos Ministros responsáveis pelas áreas das finanças, da concorrência e preços e das comunicações serão aprovadas as seguintes taxas básicas:
 
 a) No serviço postal, o porte mínimo de uma carta ordinária;
 
@@ -127,11 +148,11 @@ b) As regras que, atendendo, entre outras características, às do tempo e zona 
 
 c) As taxas dos serviços internacionais de telecomunicações e as quotas-partes dos operadores nessas taxas que não constem de tratados, convenções, acordos ou normas de organismos internacionais pertinentes ou aí não estejam especificadas.
 
-###### Art. 3.º - 1 - Compete ao Ministro da tutela a fixação, por portaria, das taxas aplicáveis ao licenciamento de sistemas de telecomunicações.
+Art. 3.º - 1 - Compete ao Ministro da tutela a fixação, por portaria, das taxas aplicáveis ao licenciamento de sistemas de telecomunicações.
 
 2 - O valor das taxas respeitantes ao licenciamento de sistemas privativos de telecomunicações, abrangidos pelo exclusivo de exploração atribuído aos operadores de comunicações de uso público, será calculado tendo em conta o custo potencial de utilização de um sistema equivalente da rede pública.
 
-###### Art. 4.º - 1 - Serão fixados pelos operadores os demais preços necessários ao estabelecimento do sistema tarifário, bem como os relativos ao equipamento terminal, sem prejuízo do disposto nos números seguintes e no regime geral de preços.
+Art. 4.º - 1 - Serão fixados pelos operadores os demais preços necessários ao estabelecimento do sistema tarifário, bem como os relativos ao equipamento terminal, sem prejuízo do disposto nos números seguintes e no regime geral de preços.
 
 2 - Por despacho do Ministro da tutela serão definidas as regras que permitam às empresas operadoras, quando o julgarem conveniente e adequado, alterar as tarifas internacionais, na sequência de modificação da respectiva componente estrangeira ou de alteração do valor da moeda nacional em relação à moeda tipo utilizada nas convenções e acordos.
 
@@ -139,16 +160,16 @@ c) As taxas dos serviços internacionais de telecomunicações e as quotas-parte
 
 4 - Os operadores devem promover a publicação, obrigatoriamente no Diário da República, e proceder à publicitação dos seus preçários, contendo os preços dos diferentes serviços, qualquer que seja o seu regime de aprovação.
 
-###### Art. 5.º Ficam revogados o artigo 25.º, na parte em que dispõe sobre tarifas, e o artigo 35.º, ambos do anexo I do [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, o n.º 3 do artigo 14.º do anexo ao [Decreto-Lei n.º 48007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633), de 26 de Outubro de 1967, e outras disposições legais que contrariem o disposto no presente diploma.
+Art. 5.º Ficam revogados o artigo 25.º, na parte em que dispõe sobre tarifas, e o artigo 35.º, ambos do anexo I do [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, o n.º 3 do artigo 14.º do anexo ao [Decreto-Lei n.º 48007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633), de 26 de Outubro de 1967, e outras disposições legais que contrariem o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em Beja em 28 de Outubro de 1987.**
+Promulgado em Beja em 28 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Novembro de 1987.**
+Referendado em 6 de Novembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

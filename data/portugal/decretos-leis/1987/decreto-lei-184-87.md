@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1987-665895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e13675f9b2f59c131f0df603a975b92b5cc497b231a1b530dacd1a85f71e316
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bef1cf98c47a513376f5ffc5157cd78b76637d81ee97eac645d7e0ab33a4d697
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Sociedades Comerciais
+- Crime
+- Ilícito de MERA Ordenação Social
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:107773645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631865:por
+  label: "Alterado o art. 528.º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.328/95.09.12.1995.MJ, DR.IS-A [283] de 09.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1995-631865
+  date: '1995-12-09'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterados os arts. 509º, 510º, 513º, 514º, 518º, 522º, 523º, 526.º, 528.º e 533.º do Código das Sociedades Comerciais,
+    aprovado pelo Dec Lei 262/86 de 02-Set, na redacção e renumeração do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP,
+    DR.IS-A [63-Supl] de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 528º do Código das Sociedades Comerciais aprovado pelo Dec Lei 262/86 de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:107773645:por
+  label: Alterado o art. 528.º do Código das Sociedades Comerciais, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    89/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28, nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2017-107773645
+  date: '2017-07-28'
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449770:por
+  label: Rectificado o art. 1º do presente diploma (na parte que se refere à epígrafe do título VII e ao nº 3 do art. 524º
+    do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set) pela DECL.DD4402.23.07.1987.PCM, DR.IS [174]Supl
+    de 31.07.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-449770
+  date: '1987-07-23'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:06Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +172,7 @@ Será de assinalar que estas disposições, como as demais com análoga repercus
 
 No uso da autorização legislativa conferida pelo artigo 1.º da [Lei n.º 41/86](https://diariodarepublica.pt/dr/detalhe/lei/41-1986-221757), de 23 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É introduzido no Código das Sociedades Comerciais (CSC), aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, o seguinte articulado, que ficará a constituir o seu título VII:
+Artigo 1.º É introduzido no Código das Sociedades Comerciais (CSC), aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, o seguinte articulado, que ficará a constituir o seu título VII:
 
 ## TÍTULO VII — Disposições penais
 
@@ -298,22 +346,22 @@ O administrador ou director de sociedade que apuser, fizer apor, ou consentir qu
 
 2 - Aos ilícitos de mera ordenação social previstos neste Código é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social.
 
-###### Art. 2.º O actual título VII do CSC, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, passa a ter a designação «Título VIII», e os artigos 509.º a 524.º passam a ser, respectivamente, os artigos 530.º a 545.º
+Art. 2.º O actual título VII do CSC, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, passa a ter a designação «Título VIII», e os artigos 509.º a 524.º passam a ser, respectivamente, os artigos 530.º a 545.º
 
-###### Art. 3.º São revogados os artigos 35.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, na parte em que sejam incompatíveis com o disposto no artigo 528.º introduzido pelo presente diploma no CSC.
+Art. 3.º São revogados os artigos 35.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, na parte em que sejam incompatíveis com o disposto no artigo 528.º introduzido pelo presente diploma no CSC.
 
-###### Art. 4.º - 1 - As disposições penais dos artigos 509.º a 527.º, inclusive, do CSC, na redacção que agora lhes é dada, entram em vigor 30 dias após a publicação do presente diploma.
+Art. 4.º - 1 - As disposições penais dos artigos 509.º a 527.º, inclusive, do CSC, na redacção que agora lhes é dada, entram em vigor 30 dias após a publicação do presente diploma.
 
 2 - As disposições sobre ilícitos de mera ordenação social do artigo 528.º do CSC, na redacção que agora a este preceito é dada, entram em vigor um ano após a publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

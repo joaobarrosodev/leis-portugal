@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/17700/30233026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1987-417175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd2026b90b0970057c841c9d8e09d577c35ac17e17f0f58c16fbe22f08b164ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b39feaea930c277a4194deb1bc5319978d0b9628614513abc8b81898385a8406
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão Consultiva
+- Lota
+- Peixe
 relationships:
 - type: amended_by
   target: pt:dre:205493448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572646:por
+  label: "Alterado o artigo 1.º, pelo DEC LEI.237/90.1990.07.24.MAPA DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1990-572646
+  date: '1990-07-24'
+- type: amended_by
+  target: pt:dre:658904:por
+  label: "Alterado o artigo 14.º, pelo DEC LEI.218/91.17.06.1991.MAPA, DR.IS-A [136] de 17.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1991-658904
+  date: '1991-06-17'
+- type: amended_by
+  target: pt:dre:435239:por
+  label: "Alterada a redacção do art. 10º pelo DEC LEI.243/98.1998.08.07.MADRP, DR.IS-A [181]\081]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1998-435239
+  date: '1998-08-07'
+- type: amended_by
+  target: pt:dre:205493448:por
+  label: Consideradas, a partir de 01.01.202023, extintas as dívidas vencidas a 01.01.2023 decorrentes de pagamentos devidos
+    e não efetuados respeitantes a taxas e preços dos serviços prestados ou venda de bens exigidos ao abrigo dos n.ºs 1 e
+    2 do art. 9.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 27/2022/M - Diário da República n.º 251/2022,
+    Série I de 2022-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2022-205493448
+  date: '2022-12-30'
+- type: corrected_by
+  target: pt:dre:239635:por
+  label: Rectificado pela DECL.DD4377.17.08.1987.PCM, DR.IS [199]Supl de 31.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-239635
+  date: '1987-08-17'
+- type: repealed_by
+  target: pt:dre:553876:por
+  label: "Revogada a alínea a) do n.º 1 do artigo 4.º, pelo DEC LEI.246/2000.29.09.2000.MADRP, DR.IS-A [226] de 29.09.2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2000-553876
+  date: '2000-09-29'
+- type: repealed_by
+  target: pt:dre:547844:por
+  label: "Revogado a partir de 21.04.2005, com as alterações introduzidas pelos Dec Lei 281/88, de 12-Ago, 237/90, de 24-Jul,\
+    \ 218/91, de 17-Jun e 243/98, de 07-Ago, pelo DEC LEI.81/2005.20.04.2005.MAPF, DR.IS-A [77] de 20.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2005-547844
+  date: '2005-04-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:04Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +142,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A primeira venda de todo o pescado fresco será obrigatoriamente efectuada pelo sistema de leilão a realizar em lota, sem prejuízo do disposto no artigo 4.º
+Artigo 1.º A primeira venda de todo o pescado fresco será obrigatoriamente efectuada pelo sistema de leilão a realizar em lota, sem prejuízo do disposto no artigo 4.º
 
-###### Art. 2.º Para efeitos de aplicação do presente diploma, entende-se por:
+Art. 2.º Para efeitos de aplicação do presente diploma, entende-se por:
 
 a) Lota - infra-estrutura em terra implantada na área de um porto de pesca ou em zona ribeirinha na sua influência, que integre o local coberto ou descoberto, devidamente aprovado e licenciado para a realização das operações de recepção, leilão e entrega de pescado e outras operações que lhe são inerentes ou complementares, compreendendo a descarga, manipulação, conservação ou armazenagem;
 
@@ -108,7 +152,7 @@ b) Pescado fresco - os animais subaquáticos (crustáceos, moluscos, equinoderme
 
 c) Organizações de produtores - toda a associação constituída por iniciativa dos produtores com o objectivo de tomar as medidas apropriadas para assegurar o exercício racional das actividades da pesca e melhorar as condições de venda da sua produção, promovendo, nomeadamente, a aplicação de planos de captura, concentração da oferta e regularização dos preços e que seja oficialmente reconhecida nos termos da legislação comunitária aplicável.
 
-###### Art. 3.º - 1 - A «caldeirada», o «balde» ou o peixe atribuídos, nos termos dos instrumentos de regulamentação do trabalho, para alimentação do pescador ou para consumo próprio do armador, quando comercializados, sê-lo-ão obrigatoriamente em lota, pelo sistema referido no artigo 1.º
+Art. 3.º - 1 - A «caldeirada», o «balde» ou o peixe atribuídos, nos termos dos instrumentos de regulamentação do trabalho, para alimentação do pescador ou para consumo próprio do armador, quando comercializados, sê-lo-ão obrigatoriamente em lota, pelo sistema referido no artigo 1.º
 
 2 - O «quinhão» ou a «parte», quando atribuídos a título de retribuição em espécie, acessória à retribuição principal fixada em instrumento de regulamentação colectiva do trabalho, quando comercializados, ficam sujeitos à obrigação constante do número anterior.
 
@@ -116,7 +160,7 @@ c) Organizações de produtores - toda a associação constituída por iniciativ
 
 4 - O documento referido no número anterior indicará obrigatoriamente a quantidade de pescado a movimentar, a embarcação de proveniência e a que título foi atribuído, bem como a identificação do seu beneficiário.
 
-###### Art. 4.º - 1 - Ficam isentos do regime fixado no artigo 1.º:
+Art. 4.º - 1 - Ficam isentos do regime fixado no artigo 1.º:
 
 a) As capturas provenientes do exercício da pesca desportiva;
 
@@ -136,7 +180,7 @@ c) O pescado capturado por pessoas singulares ou colectivas, membros de organiza
 
 3 - As capturas realizadas para abastecimento da indústria de farinação e óleos poderão ser descarregadas na unidade fabril transformadora, sem prejuízo de a respectiva quantidade e valor serem obrigatoriamente comunicados, por escrito, à entidade que explore as lotas, nas instalações da lota mais próxima da unidade fabril.
 
-###### Art. 5.º - 1 - Serão estabelecidos por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e da Saúde:
+Art. 5.º - 1 - Serão estabelecidos por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e da Saúde:
 
 a) As condições técnicas e sanitárias, incluindo os requisitos relativos ao local de implantação, a que deverão obedecer a instalação e licenciamento das lotas;
 
@@ -152,7 +196,7 @@ b) Ao Instituto Português de Conservas e Pescado, no que se refere às condiç�
 
 4 - O licenciamento de novas lotas fica sujeito, sem prejuízo da satisfação das condições exigidas nos termos do n.º 1, à comprovação da sua necessidade, tendo em conta as estruturas já existentes e a necessidade de escoamento do produto.
 
-###### Art. 6.º - 1 - Será obrigatoriamente emitida guia de acompanhamento a todo o pescado fresco transmitido, entregue ou transaccionado em lota.
+Art. 6.º - 1 - Será obrigatoriamente emitida guia de acompanhamento a todo o pescado fresco transmitido, entregue ou transaccionado em lota.
 
 2 - Da guia de acompanhamento referida no número anterior constará:
 
@@ -166,13 +210,13 @@ d) Quantidade e preço;
 
 e) Data da operação.
 
-###### Art. 7.º - 1 - A intervenção no leilão referido no artigo 1.º é permitida aos produtores, organizações de produtores, armazenistas, exportadores, industriais, retalhistas, vendedores ambulantes e feirantes ou aos respectivos mandatários que exibam cartão de identificação válido.
+Art. 7.º - 1 - A intervenção no leilão referido no artigo 1.º é permitida aos produtores, organizações de produtores, armazenistas, exportadores, industriais, retalhistas, vendedores ambulantes e feirantes ou aos respectivos mandatários que exibam cartão de identificação válido.
 
 2 - O cartão de identificação será emitido pela entidade que explorar a lota contra a demonstração, por documento autêntico, da qualidade invocada do pretendente.
 
 3 - Poderão ainda intervir no leilão outras pessoas singulares ou colectivas, de forma permanente ou por períodos determinados, sempre que tal se justifique, por razões que se prendam, nomeadamente, com a localização da lota e com a especificidade da oferta do pescado ou da época do ano, competindo à entidade que explorar a lota submeter tais situações a autorização dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-###### Art. 8.º - 1 - O pescado fresco será obrigatoriamente entregue, transaccionado ou leiloado na lota correspondente ao porto de descarga.
+Art. 8.º - 1 - O pescado fresco será obrigatoriamente entregue, transaccionado ou leiloado na lota correspondente ao porto de descarga.
 
 2 - A transferência do pescado para lota diferente da correspondente ao porto de descarga, para efeitos de ali ser transaccionado ou leiloado, será autorizada pela entidade que explorar a lota, a solicitação do produtor, devidamente justificada.
 
@@ -180,7 +224,7 @@ e) Data da operação.
 
 4 - A guia de transferência será emitida em triplicado, sendo uma das cópias entregue na lota de destino, que a devolverá à lota de origem, após a consumação da entrega, transacção ou leilão.
 
-###### Art. 9.º - 1 - Para efeitos de aplicação do presente diploma, a entidade que explorar as lotas deverá assegurar:
+Art. 9.º - 1 - Para efeitos de aplicação do presente diploma, a entidade que explorar as lotas deverá assegurar:
 
 a) A regulação da descarga do pescado;
 
@@ -216,9 +260,9 @@ b) Fornecimentos e serviços de apoio à actividade de pesca.
 
 3 - Quando devidamente mandatada, a entidade que explorar a lota assegurará o controle do fornecimento de combustíveis destinados exclusivamente à pesca, emitindo os cartões de autorização de abastecimento, quando necessários.
 
-###### Art. 10.º Em cada porto de pesca a entidade que explorar a lota terá obrigatoriamente como órgão de apoio e consulta uma comissão consultiva, integrando produtores e compradores, cuja composição e funcionamento constarão de despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+Art. 10.º Em cada porto de pesca a entidade que explorar a lota terá obrigatoriamente como órgão de apoio e consulta uma comissão consultiva, integrando produtores e compradores, cuja composição e funcionamento constarão de despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-###### Art. 11.º - 1 - Os preços a pagar pela prestação dos serviços referidos nas alíneas a) e b) do n.º 1 do artigo 9.º serão homologados pelo Ministro da Agricultura, Pescas e Alimentação, ouvidas as organizações de produtores e as comissões consultivas.
+Art. 11.º - 1 - Os preços a pagar pela prestação dos serviços referidos nas alíneas a) e b) do n.º 1 do artigo 9.º serão homologados pelo Ministro da Agricultura, Pescas e Alimentação, ouvidas as organizações de produtores e as comissões consultivas.
 
 2 - Até à entrada em vigor do regulamento referido na alínea b) do n.º 1 do artigo 5.º, serão aplicáveis os regulamentos actualmente em vigor.
 
@@ -226,11 +270,11 @@ b) Fornecimentos e serviços de apoio à actividade de pesca.
 
 4 - Os serviços inerentes à primeira venda continuarão a ser prestados pela universalidade de pessoas e bens que actualmente os assegura.
 
-###### Art. 12.º - 1 - Constituem contra-ordenações os comportamentos como tal tipificados que infrinjam disposições do presente diploma e seus regulamentos.
+Art. 12.º - 1 - Constituem contra-ordenações os comportamentos como tal tipificados que infrinjam disposições do presente diploma e seus regulamentos.
 
 2 - A tentativa é punível nos termos legais.
 
-###### Art. 13.º Constituem contra-ordenações puníveis com coima de 5000$00 a 500000$00 as seguintes infracções:
+Art. 13.º Constituem contra-ordenações puníveis com coima de 5000$00 a 500000$00 as seguintes infracções:
 
 a) Transaccionar pescado fresco em primeira venda ou, por qualquer outra forma, movimentá-lo fora das lotas antes de ter sido sujeito à primeira venda em lota;
 
@@ -244,9 +288,9 @@ e) A movimentação do pescado fresco transmitido, entregue ou transaccionado em
 
 f) A transferência do pescado para lota diferente da correspondente ao porto de descarga, quando devidamente autorizada, sem se fazer acompanhar da guia de transferência exigida pelo n.º 3 do artigo 8.º
 
-###### Art. 14.º O produto das coimas aplicadas pelas contra-ordenações previstas neste diploma reverterá integralmente para o Estado.
+Art. 14.º O produto das coimas aplicadas pelas contra-ordenações previstas neste diploma reverterá integralmente para o Estado.
 
-###### Art. 15.º Em função da gravidade da contra-ordenação e da situação económica do agente, poderão ser aplicadas as seguintes sanções acessórias:
+Art. 15.º Em função da gravidade da contra-ordenação e da situação económica do agente, poderão ser aplicadas as seguintes sanções acessórias:
 
 a) Perda, a favor do Estado, do pescado objecto de transacção ou movimentação que preencha o tipo legal da contra-ordenação;
 
@@ -254,36 +298,36 @@ b) Interdição do exercício da pesca durante o prazo máximo de dois anos;
 
 c) Suspensão do direito à candidatura a subsídios a conceder pelo Estado Português pelo período máximo de dois anos.
 
-###### Art. 16.º - 1 - A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao inspector-geral das Pescas, salvo as que respeitem às alíneas e) e f) do artigo 13.º, que serão da competência da Comissão de Aplicação de Coimas, a que se refere o n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.
+Art. 16.º - 1 - A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao inspector-geral das Pescas, salvo as que respeitem às alíneas e) e f) do artigo 13.º, que serão da competência da Comissão de Aplicação de Coimas, a que se refere o n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.
 
 2 - A Inspecção-Geral das Pescas enviará cópias das decisões que proferir ao abrigo do n.º 1 ao Instituto Português de Conservas e Pescado.
 
-###### Art. 17.º - 1 - A investigação e a instrução dos processos pelas contra-ordenações previstas no presente diploma competem aos serviços dos Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, no âmbito das atribuições e competências que lhes estejam legalmente conferidas relativamente a inspecção, vigilância e polícia, os quais, uma vez instruídos, serão remetidos à entidade competente para a aplicação das sanções referidas no artigo 16.º
+Art. 17.º - 1 - A investigação e a instrução dos processos pelas contra-ordenações previstas no presente diploma competem aos serviços dos Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, no âmbito das atribuições e competências que lhes estejam legalmente conferidas relativamente a inspecção, vigilância e polícia, os quais, uma vez instruídos, serão remetidos à entidade competente para a aplicação das sanções referidas no artigo 16.º
 
 2 - Os autos de notícia dos agentes dos órgãos e serviços referidos no número anterior por infracções que tenham presenciado fazem fé em juízo, nos termos previstos na legislação processual penal.
 
-###### Art. 18.º - 1 - O recurso de impugnação das decisões da entidade competente para aplicar as sanções previstas neste diploma será interposto para o tribunal competente.
+Art. 18.º - 1 - O recurso de impugnação das decisões da entidade competente para aplicar as sanções previstas neste diploma será interposto para o tribunal competente.
 
 2 - O tribunal competente pedirá oficiosamente o cadastro dos recorrentes à Inspecção-Geral das Pescas antes da apreciação do recurso, se os autos ainda não o contiverem.
 
 3 - O tribunal enviará cópias das suas decisões à Inspecção-Geral das Pescas.
 
-###### Art. 19.º Em tudo quanto não estiver contemplado no presente diploma aplicar-se-á o regime geral das contra-ordenações, constante do Decreto-Lei n.º 433/82, de 27 de Outubro.
+Art. 19.º Em tudo quanto não estiver contemplado no presente diploma aplicar-se-á o regime geral das contra-ordenações, constante do Decreto-Lei n.º 433/82, de 27 de Outubro.
 
-###### Art. 20.º A aplicação do disposto no presente diploma às regiões autónomas será feita com as devidas adaptações.
+Art. 20.º A aplicação do disposto no presente diploma às regiões autónomas será feita com as devidas adaptações.
 
-###### Art. 21.º É revogado o Decreto-Lei n.º 147/79, de 24 de Maio.
+Art. 21.º É revogado o Decreto-Lei n.º 147/79, de 24 de Maio.
 
-###### Art. 22.º O presente diploma entra em vigor 30 dias após à data da sua publicação.
+Art. 22.º O presente diploma entra em vigor 30 dias após à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - Manuel Carlos Carvalho Fernandes - Jorge Manuel de Oliveira Godinho - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins - António Luís Mendes Baptista Pereira.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Julho de 1987.**
+Referendado em 24 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13700/23292345.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 169ad2586e63fb40a9d220dc21a9778dca46fcfb474a604a6891050a648254f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 156f9ecb5bd2ba19c5d02369dd5ff1fe988f6869f155cfcd847a0df16e855129
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Assembleia Distrital
+- Associação de Municípios
+- Autarquia Local
+- Câmara Municipal
+- Federação de Municípios
+- Gestão de Recursos Humanos
+- Junta de Freguesia
+- Reestruturação de Carreiras
+- Serviços Municipalizados
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239636:por
+  label: Rectificado pela DECL.DD4378.20.08.1987.PCM, DR.IS [199]Supl de 31.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-239636
+  date: '1987-08-20'
+- type: corrected_by
+  target: pt:dre:647312:por
+  label: Rectificado pela DECL.DD4333.23.09.1987.PCM, DR.IS [225]2ºSupl de 30.09.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-647312
+  date: '1987-09-23'
+- type: repealed_by
+  target: pt:dre:508452:por
+  label: "Revogado, a partir de 24.02.1991, o artigo 52.º, pelo DEC LEI.52/91.25.01.1991.MPLAT, DR.IS-A [21] de 25.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-1991-508452
+  date: '1991-01-25'
+- type: repealed_by
+  target: pt:dre:288869:por
+  label: "Revogados os artigos 41.º, 42.º, 44.º e 50.º, pelo DEC LEI.409/91.17.10.1991.MPLAT, DR.IS-A [239] de 17.10.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/409-1991-288869
+  date: '1991-10-17'
+- type: repealed_by
+  target: pt:dre:214240:por
+  label: "Revogados os arts. 7º, 13º, 19º, 24º, 31º, 34º, 36º, 37º, 39º, 47º e nº 2 do art. 48º pelo DEC LEI.412-A/98.1998.12.30.MEPAT,\
+    \ DR.IS-A [300]Supl\0]Supl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-a-1998-214240
+  date: '1998-12-30'
+- type: repealed_by
+  target: pt:dre:577708:por
+  label: "Revogado o art. 51º pelo DEC LEI.218/2000.2000.09.09.PCM,DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2000-577708
+  date: '2000-09-09'
+- type: repealed_by
+  target: pt:dre:319902:por
+  label: "Revogado o art. 60º pelo DEC LEI.35/2001.2001.02.08.MAOT,DR.IS-A [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2001-319902
+  date: '2001-02-08'
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 66
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:09Z'
   warnings: []
   errors: []
 ---
@@ -739,14 +849,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 26 de Maio de 1987.**
+Promulgado em 26 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Maio de 1987.**
+Referendado em 27 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/13700/23292345.pdf))](https://files.diariodarepublica.pt/1s/1987/06/13700/23292345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/13700/23292345.pdf)

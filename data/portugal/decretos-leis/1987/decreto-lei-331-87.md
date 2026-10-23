@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/09/22500/36783679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1987-495347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6464eceabd9f7172bc77c1267c16bc26cd79004edb5579508a28d4fbc3b581a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c11814c5cfb672d653c883c9aa643ac924c3d0e14aeee3e5918d8c1fa3e70fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Fundo de Compensação do Seguro de Colheitas
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:29Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +118,9 @@ Considerando, por outro lado, que a experiência colhida também aconselha a que
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 12.º e 13.º do [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 12.º e 13.º do [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - O montante a indemnizar será o correspondente ao valor da produção final, deduzido dos encargos inerentes às operações de cultura não efectuadas, tendo em conta o disposto no n.º 4 deste artigo.
 
@@ -108,7 +128,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Em caso de sinistro apenas serão indemnizáveis 80% dos prejuízos realmente sofridos.
 
-###### Art. 12.º O Fundo de Compensação do Seguro de Colheitas destina-se a:
+Art. 12.º O Fundo de Compensação do Seguro de Colheitas destina-se a:
 
 a) Compensar o pool do seguro de colheitas, em relação a todas as culturas cobertas, com excepção dos citrinos, pelo valor dos sinistros, líquidos das receitas de resseguro cedido, na parte em que excedam em cada ano civil 100% dos prémios simples processados nesse ano em relação àquelas culturas;
 
@@ -120,7 +140,7 @@ d) Suportar os encargos decorrentes da divulgação do seguro de colheitas;
 
 e) Suportar os encargos com estudos, nomeadamente de carácter técnico, acerca do seguro de colheitas.
 
-###### Art. 13.º - 1 - Constituem receitas do Fundo:
+Art. 13.º - 1 - Constituem receitas do Fundo:
 
 a) ...
 
@@ -138,20 +158,20 @@ e) ...
 
 4 - ...
 
-###### Art. 2.º Quando, relativamente à cultura de citrinos, o valor dos sinistros, líquido das receitas de resseguro cedido, não atinja, em cada ano civil, 65% dos prémios simples processados nesse mesmo ano em relação àquela cultura, reverterá a favor do Fundo de Compensação do Seguro de Colheitas e do pool do seguro de colheitas, em partes iguais, o montante resultante da aplicação aos prémios do valor percentual correspondente à diferença entre a percentagem do valor dos sinistros em relação aos prémios e a referida percentagem de 65%.
+Art. 2.º Quando, relativamente à cultura de citrinos, o valor dos sinistros, líquido das receitas de resseguro cedido, não atinja, em cada ano civil, 65% dos prémios simples processados nesse mesmo ano em relação àquela cultura, reverterá a favor do Fundo de Compensação do Seguro de Colheitas e do pool do seguro de colheitas, em partes iguais, o montante resultante da aplicação aos prémios do valor percentual correspondente à diferença entre a percentagem do valor dos sinistros em relação aos prémios e a referida percentagem de 65%.
 
-###### Art. 3.º São revogados os Decretos-Leis n.os [382/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1985-177052), de 30 de Setembro, e [92/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1984-661911), de 26 de Março.
+Art. 3.º São revogados os Decretos-Leis n.os [382/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1985-177052), de 30 de Setembro, e [92/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1984-661911), de 26 de Março.
 
-###### Art. 4.º O disposto no presente decreto-lei produz efeitos a partir do dia 1 de Janeiro de 1987.
+Art. 4.º O disposto no presente decreto-lei produz efeitos a partir do dia 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 18 de Setembro de 1987.**
+Promulgado em 18 de Setembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Setembro de 1987.**
+Referendado em 21 de Setembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

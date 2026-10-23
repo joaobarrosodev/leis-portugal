@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09900/18081811.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1987-665769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6c1d6cf957039436b34f9d840263f61729148ff160f7347d8e98ae20e7153f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10e411168fb20760d41c1ef9f73536e9f8fdb38e55fa01fb245fb055383f079e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento do Serviço Telefónico Público
+- Telefone
 relationships:
 - type: amended_by
   target: pt:dre:652774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:652774:por
+  label: "Totalmente revogado pelo DEC LEI.240/97.1997.09.18.MEPAT, DR.IS-A [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1997-652774
+  date: '1997-09-18'
+- type: cites
+  target: pt:dre:151702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679199:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:20Z'
   warnings: []
   errors: []
 ---
@@ -102,31 +153,33 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o regulamento que estabelece as condições gerais de prestação do serviço telefónico público, assegurado através da rede telefónica pública comutada, denominado Regulamento do Serviço Telefónico Público, publicado em anexo, constituindo parte integrante do presente diploma.
+Artigo 1.º É aprovado o regulamento que estabelece as condições gerais de prestação do serviço telefónico público, assegurado através da rede telefónica pública comutada, denominado Regulamento do Serviço Telefónico Público, publicado em anexo, constituindo parte integrante do presente diploma.
 
-###### Art. 2.º - 1 - Fica revogada toda a legislação existente, nomeadamente o regulamento telefónico nacional aprovado pelo [Decreto n.º 32253](https://diariodarepublica.pt/dr/detalhe/decreto/32253-1942-341432), de 10 de Setembro de 1942, com as alterações que lhe foram introduzidas pelo [Decreto n.º 33475](https://diariodarepublica.pt/dr/detalhe/decreto/33475-1943-255004), de 29 de Dezembro de 1943, [Decreto n.º 36413](https://diariodarepublica.pt/dr/detalhe/decreto/36413-1947-185165), de 12 de Julho de 1947, [Decreto n.º 36802](https://diariodarepublica.pt/dr/detalhe/decreto/36802-1948-151702), de 19 de Março de 1948, [Decreto n.º 37133](https://diariodarepublica.pt/dr/detalhe/decreto/37133-1948-368468), de 4 de Novembro de 1948, [Decreto n.º 39520](https://diariodarepublica.pt/dr/detalhe/decreto/39520-1954-216079), de 28 de Janeiro de 1954, [Decreto n.º 39831](https://diariodarepublica.pt/dr/detalhe/decreto/39831-1954-679199), de 27 de Setembro de 1954, [Decreto n.º 40773](https://diariodarepublica.pt/dr/detalhe/decreto/40773-1956-232567), de 8 de Setembro de 1956, [Decreto n.º 42295](https://diariodarepublica.pt/dr/detalhe/decreto/42295-1959-432603), de 2 de Junho de 1959, [Decreto n.º 46035](https://diariodarepublica.pt/dr/detalhe/decreto/46035-1964-536471), de 14 de Novembro de 1964, e [Portaria n.º 85/79](https://diariodarepublica.pt/dr/detalhe/portaria/85-1979-393616), de 17 de Fevereiro, em tudo aquilo que contrarie o preceituado no presente diploma.
+Art. 2.º - 1 - Fica revogada toda a legislação existente, nomeadamente o regulamento telefónico nacional aprovado pelo [Decreto n.º 32253](https://diariodarepublica.pt/dr/detalhe/decreto/32253-1942-341432), de 10 de Setembro de 1942, com as alterações que lhe foram introduzidas pelo [Decreto n.º 33475](https://diariodarepublica.pt/dr/detalhe/decreto/33475-1943-255004), de 29 de Dezembro de 1943, [Decreto n.º 36413](https://diariodarepublica.pt/dr/detalhe/decreto/36413-1947-185165), de 12 de Julho de 1947, [Decreto n.º 36802](https://diariodarepublica.pt/dr/detalhe/decreto/36802-1948-151702), de 19 de Março de 1948, [Decreto n.º 37133](https://diariodarepublica.pt/dr/detalhe/decreto/37133-1948-368468), de 4 de Novembro de 1948, [Decreto n.º 39520](https://diariodarepublica.pt/dr/detalhe/decreto/39520-1954-216079), de 28 de Janeiro de 1954, [Decreto n.º 39831](https://diariodarepublica.pt/dr/detalhe/decreto/39831-1954-679199), de 27 de Setembro de 1954, [Decreto n.º 40773](https://diariodarepublica.pt/dr/detalhe/decreto/40773-1956-232567), de 8 de Setembro de 1956, [Decreto n.º 42295](https://diariodarepublica.pt/dr/detalhe/decreto/42295-1959-432603), de 2 de Junho de 1959, [Decreto n.º 46035](https://diariodarepublica.pt/dr/detalhe/decreto/46035-1964-536471), de 14 de Novembro de 1964, e [Portaria n.º 85/79](https://diariodarepublica.pt/dr/detalhe/portaria/85-1979-393616), de 17 de Fevereiro, em tudo aquilo que contrarie o preceituado no presente diploma.
 
 2 - Às matérias previstas no Regulamento anexo cujo execução careça de regulamentação complementar aplicar-se-ão as disposições actualmente vigentes até à entrada em vigor das normas que as substituírem.
 
-###### Art. 3.º O presente diploma entra em vigor decorridos 60 dias a contar da data da sua publicação.
+Art. 3.º O presente diploma entra em vigor decorridos 60 dias a contar da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1987. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
-## Anexo ao Decreto-Lei n.º 199/87
+Anexo ao Decreto-Lei n.º 199/87
 
 Regulamento do Serviço Telefónico Público
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Conceito
 

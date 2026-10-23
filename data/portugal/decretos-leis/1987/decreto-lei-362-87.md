@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/27300/41204123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1987-499045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a99cf6403c5062037792931a9dd221db1448923fa831072bf3fc1cf4b07898bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d991982ea94d6f122c0cb2de6885dec957f952c5ae4a66c57c8138c6e6dfd5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Produtores
+- Ajuda Comunitária
+- CEE
+- Financiamento
+- Fruto
+- Ifadap
+- Mercado Agrícola
+- Política Agrícola Comum
+- Produto Hortícola
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:185721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:185721:por
+  label: "Revogado pelo DEC LEI.49/95.1995.03.15.MA, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1995-185721
+  date: '1995-03-15'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:57Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +160,7 @@ g) Balanço e conta de demonstração de resultados relativos aos três últimos
 
 ###### Artigo 5.º — Registo
 
-**O Ministro da Agricultura, Pescas e Alimentação organizará e manterá o registo das organizações de produtores reconhecidas nos termos do presente diploma.**
+O Ministro da Agricultura, Pescas e Alimentação organizará e manterá o registo das organizações de produtores reconhecidas nos termos do presente diploma.
 
 ###### Artigo 6.º — Regime de ajudas
 
@@ -201,17 +216,17 @@ Os artigos 1.º a 10.º do presente decreto-lei produzem efeitos na data do iní
 
 Visto e aprovado em Conselho de Ministro de 1 de Outubro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 12 de Novembro de 1987.**
+Promulgado em 12 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1987.**
+Referendado em 12 de Novembro de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/27300/41204123.pdf))](https://files.diariodarepublica.pt/1s/1987/11/27300/41204123.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/27300/41204123.pdf)
 
 ## ANEXO II
 

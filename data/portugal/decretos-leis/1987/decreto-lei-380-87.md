@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/28900/43364336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1987-498082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af80b1b5993b25f72a597a555de6fe1d9ef7c2b03c2af2a4827bfa8c71b6de78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20333498ba5c5570fd9947e22e8b9ca631fbd5396e9c6c08212a3548e05ed28e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Normal de Educadores de Infância
+- Escola Superior de Educação
+- Extinção de Serviços
+- Integração de Trabalhadores
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227190:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:14Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +114,15 @@ Considerando que desta transição não resulta mudança de verba orçamental po
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 3 do artigo 3.º e o n.º 2 do artigo 6.º do [Decreto-Lei n.º 101/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1986-227190), de 17 de Maio, passam a ter a seguinte redacção:
+Artigo único. O n.º 3 do artigo 3.º e o n.º 2 do artigo 6.º do [Decreto-Lei n.º 101/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1986-227190), de 17 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
 3 - A transição referida nos números anteriores far-se-á independentemente de quaisquer formalidades legais.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - A transição referida nos números anteriores far-se-á independentemente de quaisquer formalidades legais.
 
@@ -117,12 +134,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1987. - Aníbal António Cavaco Silva - Alberto José Nunes Correia Ralha.
 
-**Promulgado em 3 de Dezembro de 1987.**
+Promulgado em 3 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Dezembro de 1987.**
+Referendado em 7 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

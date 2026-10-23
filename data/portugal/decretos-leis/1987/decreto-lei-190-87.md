@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1987-665758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c199845777b293d27cd955de5afd358ebb0a47bc331e2ce1d414da4df85f1188
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b4142ddfec1592fa939a278da4f67b97ab048b0f00e566b8d9e9eb2d063151c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Desenvolvimento Industrial
+- Desenvolvimento Regional
+- Investigação Científica e Tecnológica
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:390812:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:12Z'
   warnings: []
   errors: []
 ---
@@ -93,26 +102,26 @@ Assim, ouvidos os Governos Regionais:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os processos de candidatura ao Sistema de Estímulos de Base Regional, criado pelo [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, e relativos a projectos a executar nas regiões autónomas deverão ser entregues nos departamentos competentes dos respectivos órgãos de governo próprio e por eles coordenados.
+Artigo 1.º Os processos de candidatura ao Sistema de Estímulos de Base Regional, criado pelo [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, e relativos a projectos a executar nas regiões autónomas deverão ser entregues nos departamentos competentes dos respectivos órgãos de governo próprio e por eles coordenados.
 
-###### Art. 2.º Concluída a análise e hierarquização dos projectos a nível regional, serão os mesmos enviados para a comissão de selecção adequada, referida no n.º 7 do artigo 10.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro.
+Art. 2.º Concluída a análise e hierarquização dos projectos a nível regional, serão os mesmos enviados para a comissão de selecção adequada, referida no n.º 7 do artigo 10.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro.
 
-###### Art. 3.º As comissões de selecção integrarão um representante de cada uma das Regiões Autónomas dos Açores e da Madeira.
+Art. 3.º As comissões de selecção integrarão um representante de cada uma das Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 4.º O processo de decisão e de liquidação dos estímulos concedidos será idêntico ao previsto para os projectos executados no continente.
+Art. 4.º O processo de decisão e de liquidação dos estímulos concedidos será idêntico ao previsto para os projectos executados no continente.
 
-###### Art. 5.º A correcção monetária anual a que se refere o artigo 20.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, terá por base a taxa de crescimento do índice de preços no consumidor (excluindo a habitação), publicado pelo serviço regional de estatística de cada região autónoma e nos moldes ali definidos.
+Art. 5.º A correcção monetária anual a que se refere o artigo 20.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, terá por base a taxa de crescimento do índice de preços no consumidor (excluindo a habitação), publicado pelo serviço regional de estatística de cada região autónoma e nos moldes ali definidos.
 
-###### Art. 6.º O presente decreto-lei produz efeitos a partir de 1 de Setembro de 1986.
+Art. 6.º O presente decreto-lei produz efeitos a partir de 1 de Setembro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim da Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Fernando Augusto dos Santos Martins - Luís Fernando Mira Amaral.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

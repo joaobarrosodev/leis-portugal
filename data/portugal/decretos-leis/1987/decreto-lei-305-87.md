@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/17800/30313038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1987-417182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 397378279ec2e96896aa0a7ce7f423cc876e79fbaa2f64d379cb9c6c52a0e724
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe843a4b2d917467935f5b8b72f975fe249275448da6d0ade66a45b1b94877ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração do Porto de Sines
+- Orgânica
+- Portos
+- Sines
 relationships:
 - type: amended_by
   target: pt:dre:223019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549447:por
+  label: Alterado o art. 3º do Estatuto pelo(a) Decreto-Lei n.º 379/89 - Diário da República n.º 248/1989, Série I de 1989-10-27
+    nos termos do art. 3.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1989-549447
+  date: '1989-10-27'
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DO EQUIPAMENTO SOCIAL PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0\
+    ]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantida em vigor a al c) do art 50º pelo Dec Lei.224-A/96. 1996.11.26.MJ - Aprova o Código das Custas Judiciais\
+    \ - DR.IS-A [274]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662887:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223019:por
+  label: "Revogado pelo DEC LEI.337/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/337-1998-223019
+  date: '1998-11-03'
 article_structure:
-  article_count: 54
+  article_count: 53
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:05Z'
   warnings: []
   errors: []
 ---
@@ -102,33 +156,33 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto Orgânico da Administração do Porto de Sines, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto Orgânico da Administração do Porto de Sines, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º - 1 - O pessoal provido no quadro transitório da Administração do Porto de Sines (APS), a que se refere o mapa I anexo ao [Decreto-Lei n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1987-662887), de 7 de Fevereiro, será integrado no quadro definitivo que posteriormente vier a ser aprovado.
+Art. 2.º - 1 - O pessoal provido no quadro transitório da Administração do Porto de Sines (APS), a que se refere o mapa I anexo ao [Decreto-Lei n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1987-662887), de 7 de Fevereiro, será integrado no quadro definitivo que posteriormente vier a ser aprovado.
 
 2 - Até à entrada em vigor do estatuto de pessoal a que se refere o artigo 42.º do citado Estatuto Orgânico, manter-se-á em vigor o regime hoje aplicável.
 
-###### Art. 3.º - 1 - Os membros da actual comissão instaladora manter-se-ão em funções até ao acto de posse dos novos órgãos previstos no Estatuto Orgânico, competindo-lhes assegurar o exercício das competências previstas no Estatuto para o conselho de administração.
+Art. 3.º - 1 - Os membros da actual comissão instaladora manter-se-ão em funções até ao acto de posse dos novos órgãos previstos no Estatuto Orgânico, competindo-lhes assegurar o exercício das competências previstas no Estatuto para o conselho de administração.
 
 2 - Manter-se-á igualmente em funções o pessoal designado para o exercício de cargos dirigentes, que ficará sujeito a confirmação pelo novo órgão de administração, a nomear no prazo de 180 dias a contar da data da entrada em vigor do estatuto de pessoal a que se refere o artigo 2.º, n.º 2.
 
-###### Art. 4.º A APS poderá manter durante o corrente ano a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo Estatuto Orgânico, relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
+Art. 4.º A APS poderá manter durante o corrente ano a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo Estatuto Orgânico, relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
 
-###### Art. 5.º O regime de instalação aplicável à APS nos termos do [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro, cessa na data da entrada em vigor do presente diploma.
+Art. 5.º O regime de instalação aplicável à APS nos termos do [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro, cessa na data da entrada em vigor do presente diploma.
 
-###### Art. 6.º É revogado o [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro.
+Art. 6.º É revogado o [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro.
 
-###### Art. 7.º O presente diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Manuel Carlos Carvalho Fernandes - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1987.**
+Referendado em 21 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -438,7 +492,7 @@ c) Obter de terceiros que tenham realizado operações por conta da APS as infor
 
 ###### Artigo 21.º — Assistência às reuniões do conselho de administração
 
-**O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.**
+O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.
 
 ###### Artigo 22.º — Funcionamento da comissão de fiscalização
 
@@ -802,7 +856,7 @@ Para efeitos das suas relações comerciais com a banca, a APS é livre na escol
 
 ###### Artigo 52.º — Autofinanciamento
 
-**O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APS, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.**
+O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APS, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.
 
 ###### Artigo 53.º — Tribunais competentes
 
@@ -810,4 +864,4 @@ Para efeitos das suas relações comerciais com a banca, a APS é livre na escol
 
 2 - São da competência dos tribunais administrativos os julgamentos dos recursos dos actos definitivos e executórios dos órgãos da APS sujeitos a um regime de direito público, bem como o julgamento das acções sobre validade, interpretação ou execução dos contratos administrativos por ela celebrados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/17800/30313038.pdf))](https://files.diariodarepublica.pt/1s/1987/08/17800/30313038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/17800/30313038.pdf)

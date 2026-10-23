@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06300/10461047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1987-662136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45155e5cba8019da568d702216c876a1e043f941f65b41cc00d3c77e3e648536
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862dc9325c24bb450a37661c6d0d70f437f2ce0bc75e31f76fff3708669e09fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:15Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +112,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 32.º, n.os 1, alíneas a) e c), e 3, bem como pelo artigo 65.º, n.º 2, da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 5.º, 7.º-B, 11.º, 21.º, 26.º e 37.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 5.º, 7.º-B, 11.º, 21.º, 26.º e 37.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -120,7 +132,7 @@ c) ...
 
 § 5.º O disposto no parágrafo anterior não se aplica quando se trate de pessoas singulares deslocadas no estrangeiro, ao abrigo de acordos de cooperação, a prestar serviço a entidades com residência ou sede efectiva no território do continente e arquipélagos dos Açores e da Madeira.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 a) ...
 
@@ -138,13 +150,13 @@ g) ...
 
 h) ...
 
-###### Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 385000$00.
+Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 385000$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 7.º-B ...
+Art. 7.º-B ...
 
 a) Tratando-se de actividades exercidas por conta de outrem ou de direitos de autor sobre obras intelectuais, o contribuinte e a entidade responsável pelo pagamento façam a necessária discriminação na declaração modelo n.º 5, quando haja lugar à sua apresentação, na relação modelo n.º 8, bem como no registo a que se refere o artigo 46.º;
 
@@ -152,7 +164,7 @@ b) ...
 
 § único. ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 a) ...
 
@@ -168,15 +180,15 @@ b) ...
 
 c) ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/06300/10461047.pdf))](https://files.diariodarepublica.pt/1s/1987/03/06300/10461047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/06300/10461047.pdf)
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 a) ...
 
@@ -194,9 +206,9 @@ c) ...
 
 § 5.º Para efeitos do disposto na alínea h) do artigo 3.º, deverão as entidades responsáveis pelo pagamento ou atribuição das indemnizações solicitar previamente à Direcção-Geral das Contribuições e Impostos a fixação dos respectivos montantes, contidos dentro dos limites tidos por razoáveis, que não constituam rendimentos sujeitos a imposto.
 
-###### Art. 37.º Não se procederá a qualquer liquidação, ainda que adicional, nem a anulação oficiosa quando os seus quantitativos forem inferiores a 1000$00 e 500$00, respectivamente.
+Art. 37.º Não se procederá a qualquer liquidação, ainda que adicional, nem a anulação oficiosa quando os seus quantitativos forem inferiores a 1000$00 e 500$00, respectivamente.
 
-###### Art. 2.º - 1 - As alterações introduzidas nos artigos 2.º, 3.º, 5.º e 21.º do Código do Imposto Profissional, nos termos do artigo 1.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1987 e seguintes.
+Art. 2.º - 1 - As alterações introduzidas nos artigos 2.º, 3.º, 5.º e 21.º do Código do Imposto Profissional, nos termos do artigo 1.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1987 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado nos termos dos artigos 26.º, 27.º, 27.º-A e 29.º do Código serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -204,12 +216,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

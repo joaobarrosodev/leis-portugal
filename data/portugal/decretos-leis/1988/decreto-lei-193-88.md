@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12500/23242326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1988-374375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51c128d2f73e67f9c46aaddd58f04162de58b8c61552a449f9c360639ca104b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e9d0e9e71866ee5c52db7c099aa2a0a8b95447416def08051b98baeb35c8046
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Brinde Publicitário
+- CEE
+- Controlo de Qualidade
+- Embalagem
+- Indústria da Cerâmica
+- Produto Alimentar
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:520838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:520838:por
+  label: "Revogado a partir de 09.05.2007 pelo DEC LEI.175/2007.08.05.2007.MADRP, DR.IS [88] de 08.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2007-520838
+  date: '2007-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:25Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +107,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Lei n.º 29/81, de 22 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os materiais e objectos que, na fase de produtos acabados, estão ou se destinam a estar em contacto com géneros alimentícios, incluindo a água destinada ao consumo humano, devem ser produzidos em conformidade com as boas regras de fabrico a fim de que, nas condições normais ou previsíveis do seu emprego, não cedam, aos géneros alimentícios, constituintes em quantidade susceptível de:
+Artigo 1.º Os materiais e objectos que, na fase de produtos acabados, estão ou se destinam a estar em contacto com géneros alimentícios, incluindo a água destinada ao consumo humano, devem ser produzidos em conformidade com as boas regras de fabrico a fim de que, nas condições normais ou previsíveis do seu emprego, não cedam, aos géneros alimentícios, constituintes em quantidade susceptível de:
 
 a) Apresentar um perigo para a saúde humana;
 
 b) Provocar uma modificação inaceitável da composição dos géneros alimentícios ou uma alteração das respectivas características organolépticas.
 
-###### Art. 2.º Não são incluídos no âmbito deste diploma:
+Art. 2.º Não são incluídos no âmbito deste diploma:
 
 a) Os materiais destinados a revestir certos géneros alimentícios, tais como queijos, produtos de salsicharia e frutos, susceptíveis de com eles poderem ser ingeridos;
 
@@ -108,7 +121,7 @@ b) Os objectos considerados como antiguidades;
 
 c) Os materiais e objectos utilizados em instalações fixas, públicas ou privadas, de distribuição de água.
 
-###### Art. 3.º Por portarias conjuntas dos Ministérios da Agricultura, Pescas e Alimentação, da Indústria e Energia e da Saúde, ouvido o Instituto Nacional de Defesa do Consumidor, podem ser estabelecidas as disposições específicas a que devem obedecer certos tipos de materiais e objectos, nomeadamente quanto a:
+Art. 3.º Por portarias conjuntas dos Ministérios da Agricultura, Pescas e Alimentação, da Indústria e Energia e da Saúde, ouvido o Instituto Nacional de Defesa do Consumidor, podem ser estabelecidas as disposições específicas a que devem obedecer certos tipos de materiais e objectos, nomeadamente quanto a:
 
 a) Lista de substâncias e matérias cujo emprego é autorizado com exclusão de todas as outras;
 
@@ -124,7 +137,7 @@ f) Prescrições visando proteger a saúde humana dos riscos eventuais de um con
 
 g) Regras relativas à verificação do cumprimento das disposições previstas nas alíneas anteriores, designadamente os métodos de colheita e preparação de amostras e os métodos analíticos.
 
-###### Art. 4.º - 1 - Sem prejuízo de excepções ou exigências estabelecidas em disposições específicas, os materiais e objectos que ainda não entraram em contacto com géneros alimentícios só podem ser comercializados com as seguintes indicações:
+Art. 4.º - 1 - Sem prejuízo de excepções ou exigências estabelecidas em disposições específicas, os materiais e objectos que ainda não entraram em contacto com géneros alimentícios só podem ser comercializados com as seguintes indicações:
 
 a) Menção «próprio para alimentos» e ou o símbolo reproduzido na figura 1 do anexo ao presente diploma, que dele faz parte integrante, e ou menção relativa ao uso a que o material ou objecto se destina especificamente, tal como máquina de café ou garrafa de vinho;
 
@@ -150,11 +163,11 @@ Nos próprios materiais ou objectos, ou nos rótulos, etiquetas ou embalagens.
 
 3 - Nos objectos clara e tradicionalmente destinados a entrar em contacto com géneros alimentícios, tais como utensílios de mesa e de cozinha, é dispensável a inclusão das indicações referidas na alínea a) do n.º 1.
 
-###### Art. 5.º - 1 - Sem prejuízo de outros preceitos aplicáveis, os objectos que pelo seu aspecto, forma ou características possam ser confundidos com os que se destinam a entrar em contacto com géneros alimentícios, nomeadamente a loiça decorativa, e que não se encontram de acordo com o disposto no artigo 1.º, devem ser acompanhados da frase «impróprio para alimentos» e ou símbolo indicado na figura 2 do anexo ao presente diploma.
+Art. 5.º - 1 - Sem prejuízo de outros preceitos aplicáveis, os objectos que pelo seu aspecto, forma ou características possam ser confundidos com os que se destinam a entrar em contacto com géneros alimentícios, nomeadamente a loiça decorativa, e que não se encontram de acordo com o disposto no artigo 1.º, devem ser acompanhados da frase «impróprio para alimentos» e ou símbolo indicado na figura 2 do anexo ao presente diploma.
 
 2 - As indicações mencionadas no número anterior devem ser colocadas pelo fabricante ou pelo importador sobre cada objecto, de forma indelével, claramente visível e legível e em língua portuguesa, se for o caso, ou em rótulos ou etiquetas que os acompanhem.
 
-###### Art. 6.º - 1 - Em matéria de prevenção, o controle dos materiais a que o presente diploma se refere compete:
+Art. 6.º - 1 - Em matéria de prevenção, o controle dos materiais a que o presente diploma se refere compete:
 
 a) Às delegações regionais do Ministério da Indústria e Energia, nos casos em que tais materiais não foram ainda lançados no mercado;
 
@@ -162,7 +175,7 @@ b) Ao Instituto da Qualidade Alimentar ou outras entidades por este reconhecidas
 
 2 - Sem prejuízo da competência das autoridades policiais e administrativas, compete especialmente à Direcção-Geral da Inspecção Económica a investigação e instrução dos processos por contra-ordenações previstas e punidas nos termos do n.º 1 do artigo seguinte.
 
-###### Art. 7.º - 1 - Constitui contra-ordenação punível com coima de 5000$00 a 200000$00:
+Art. 7.º - 1 - Constitui contra-ordenação punível com coima de 5000$00 a 200000$00:
 
 a) A infracção ao disposto no artigo 1.º;
 
@@ -180,9 +193,9 @@ d) O desrespeito pelas disposições específicas que, relativamente a certos ti
 
 5 - De todas as coimas aplicadas será dado conhecimento ao Instituto da Qualidade Alimentar.
 
-###### Art. 8.º O Instituto da Qualidade Alimentar acompanhará a aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar o cumprimento das obrigações decorrentes da adesão às Comunidades Europeias.
+Art. 8.º O Instituto da Qualidade Alimentar acompanhará a aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar o cumprimento das obrigações decorrentes da adesão às Comunidades Europeias.
 
-###### Art. 9.º - 1 - É revogado o Decreto-Lei n.º 143/76, de 19 de Fevereiro.
+Art. 9.º - 1 - É revogado o Decreto-Lei n.º 143/76, de 19 de Fevereiro.
 
 2 - São ainda revogadas as disposições relativas à obrigatoriedade de aprovação ou autorização, por determinadas entidades, de embalagens ou outros materiais destinados a entrar em contacto com géneros alimentícios, incluindo a água destinada ao consumo humano, designadamente:
 
@@ -198,22 +211,22 @@ e) O n.º 1 do artigo 10.º do Decreto-Lei n.º 58/85, de 11 de Março;
 
 f) O n.º 2 do n.º 9.º da Portaria n.º 473/87, de 4 de Junho.
 
-###### Art. 10.º - 1 - Enquanto não forem estabelecidas, conforme o previsto no artigo 3.º, novas disposições específicas aplicáveis aos utensílios de cerâmica vidrados ou decorados interiormente, aos de vidro decorado interiormente, aos de estanho ou de metal estanhado ou esmaltado interiormente, os respectivos fabricantes continuam obrigados a cumprir as normas portuguesas que fixem os teores máximos de elementos tóxicos extraíveis.
+Art. 10.º - 1 - Enquanto não forem estabelecidas, conforme o previsto no artigo 3.º, novas disposições específicas aplicáveis aos utensílios de cerâmica vidrados ou decorados interiormente, aos de vidro decorado interiormente, aos de estanho ou de metal estanhado ou esmaltado interiormente, os respectivos fabricantes continuam obrigados a cumprir as normas portuguesas que fixem os teores máximos de elementos tóxicos extraíveis.
 
 2 - A matéria relacionada com o engarrafamento de águas minerais e de mesa continua sujeita a legislação especial.
 
-###### Art. 11.º O disposto nos artigos 5.º e 6.º só é aplicável decorrido o prazo de 180 dias após a publicação deste diploma.
+Art. 11.º O disposto nos artigos 5.º e 6.º só é aplicável decorrido o prazo de 180 dias após a publicação deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12500/23242326.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12500/23242326.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12500/23242326.pdf)

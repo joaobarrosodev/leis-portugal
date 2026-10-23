@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01100/01830185.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1987-663517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fc515713b851a9cc51c778326b0eee14d1f38ec5e4cae06007a303eeb346ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e879ac5f3c1ce3e438f2a81931e23e9eb80c58c32ba894fb7593d9843802a53b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amianto
+- Embalagem
+- Etiquetagem
+- Normas de Segurança
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:226187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285315:por
+  label: Alterada a redacção dos arts. 1.º e 5.º pelo(a) Decreto-Lei n.º 138/88 - Diário da República n.º 94/1988, Série I
+    de 1988-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1988-285315
+  date: '1988-04-22'
+- type: amended_by
+  target: pt:dre:592337:por
+  label: "Alterados os art.s 5º (na redação do Dec Lei 138/88, de 22-abr) e 16º a 19º e revogado o art. 6º, pelo Dec Lei 138/88\
+    \ de 22-Abr, pelo DEC LEI.228/94.1994.09.13.MIE, DR.IS-A [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1994-592337
+  date: '1994-09-13'
+- type: repealed_by
+  target: pt:dre:226187:por
+  label: "Revogado, pelo DEC LEI.101/2005.23.06.2005.MEI, DR.IS-A [119] de 23.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2005-226187
+  date: '2005-06-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:40Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +123,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Objecto e âmbito
 
-###### Artigo 1.º O presente diploma tem como objecto a limitação da comercialização e da utilização do amianto e dos produtos que o contenham.
+Artigo 1.º O presente diploma tem como objecto a limitação da comercialização e da utilização do amianto e dos produtos que o contenham.
 
-###### Art. 2.º - 1 - O amianto e os produtos que o contenham só podem ser comercializados e utilizados observadas as condições estabelecidas no presente diploma.
+Art. 2.º - 1 - O amianto e os produtos que o contenham só podem ser comercializados e utilizados observadas as condições estabelecidas no presente diploma.
 
 2 - Exceptuam-se do disposto no número anterior a comercialização e a utilização do amianto e dos produtos que o contenham para fins de investigação, desenvolvimento ou análise.
 
-###### Art. 3.º O presente diploma não se aplica ao amianto e aos produtos que o contenham quando:
+Art. 3.º O presente diploma não se aplica ao amianto e aos produtos que o contenham quando:
 
 a) Em transporte por via ferroviária, rodoviária, fluvial, marítima ou aérea;
 
@@ -114,7 +137,7 @@ b) Em trânsito, e sujeitos a controle aduaneiro, desde que não se destinem a q
 
 ### CAPÍTULO II — Definições
 
-###### Art. 4.º Para efeitos do presente diploma entende-se por:
+Art. 4.º Para efeitos do presente diploma entende-se por:
 
 1) Amianto - qualquer dos seguintes silicatos fibrosos:
 
@@ -136,9 +159,9 @@ f) Tremolite (n.º CAS 77536-68-6);
 
 ### CAPÍTULO III — Restrições à comercialização e utilização
 
-###### Art. 5.º É proibida a comercialização e a utilização da crocidolite e dos produtos que a contenham, com a ressalva estabelecida nos artigos seguintes.
+Art. 5.º É proibida a comercialização e a utilização da crocidolite e dos produtos que a contenham, com a ressalva estabelecida nos artigos seguintes.
 
-###### Art. 6.º Os produtos contendo crocidolite, abrangidos pelo artigo anterior, podem:
+Art. 6.º Os produtos contendo crocidolite, abrangidos pelo artigo anterior, podem:
 
 1) Ser comercializados até 30 de Junho de 1988, desde que tenham sido produzidos antes de 1 de Janeiro de 1987;
 
@@ -152,11 +175,11 @@ b) Juntas, guarnições, empanques e compensadores flexíveis resistentes aos á
 
 c) Conversores binários.
 
-###### Art. 7.º Os produtos contendo amianto só podem ser comercializados e utilizados se a sua rotulagem estiver de acordo com o estabelecido nos artigos 8.º a 15.º, sem prejuízo do exposto nos artigos 5.º e 6.º
+Art. 7.º Os produtos contendo amianto só podem ser comercializados e utilizados se a sua rotulagem estiver de acordo com o estabelecido nos artigos 8.º a 15.º, sem prejuízo do exposto nos artigos 5.º e 6.º
 
 ### CAPÍTULO IV — Rotulagem
 
-###### Art. 8.º - 1 - Os produtos contendo amianto ou a sua embalagem têm de conter um rótulo com as seguintes características, de acordo com a figura constante do anexo ao presente diploma:
+Art. 8.º - 1 - Os produtos contendo amianto ou a sua embalagem têm de conter um rótulo com as seguintes características, de acordo com a figura constante do anexo ao presente diploma:
 
 a) Dimensões mínimas:
 
@@ -174,7 +197,7 @@ A parte inferior (h(índice 2) = 60% H) deve ter as frases tipos bem legíveis, 
 
 3 - Quando a rotulagem é feita por impressão directa sobre o produto, é suficiente o uso de uma única cor contrastante com a cor de fundo do respectivo produto.
 
-###### Art. 9.º O rótulo é colocado de acordo com as regras seguintes:
+Art. 9.º O rótulo é colocado de acordo com as regras seguintes:
 
 a) Em cada uma das mais pequenas unidades comercializadas;
 
@@ -182,7 +205,7 @@ b) Se um produto é formado por vários elementos à base de amianto, é suficie
 
 c) Pode ser dispensada a rotulagem de um elemento quando este apresenta dimensões demasiado reduzidas ou condicionamento inapropriado.
 
-###### Art. 10.º - 1 - O rótulo das embalagens dos produtos que contêm amianto tem de estar de acordo com o anexo ao presente diploma e conter obrigatoriamente, de modo legível e indelével, as seguintes indicações:
+Art. 10.º - 1 - O rótulo das embalagens dos produtos que contêm amianto tem de estar de acordo com o anexo ao presente diploma e conter obrigatoriamente, de modo legível e indelével, as seguintes indicações:
 
 a) O símbolo e a indicação de perigo;
 
@@ -198,11 +221,11 @@ b) Por um rótulo móvel, mas firmemente atado à embalagem;
 
 c) Por impressão directa sobre a embalagem.
 
-###### Art. 11.º - 1 - Os produtos contendo amianto envolvidos somente por uma embalagem plástica ou similar são considerados como produtos embalados e devem ser rotulados conforme o disposto no n.º 3 do artigo anterior.
+Art. 11.º - 1 - Os produtos contendo amianto envolvidos somente por uma embalagem plástica ou similar são considerados como produtos embalados e devem ser rotulados conforme o disposto no n.º 3 do artigo anterior.
 
 2 - Quando os produtos possam ser separados das embalagens e colocados no mercado não embalados, cada uma das unidades mais pequenas é acompanhada de qualquer forma de informação que contenha um rótulo de acordo com o n.º 1 do artigo anterior.
 
-###### Art. 12.º - 1 - A rotulagem dos produtos que contenham amianto e que não se apresentem embalados deve ser efectuada de acordo com as indicações referidas no n.º 1 do artigo 10.º, através de um dos seguintes modos:
+Art. 12.º - 1 - A rotulagem dos produtos que contenham amianto e que não se apresentem embalados deve ser efectuada de acordo com as indicações referidas no n.º 1 do artigo 10.º, através de um dos seguintes modos:
 
 a) Por um rótulo fixado solidamente sobre o produto que contém amianto;
 
@@ -212,7 +235,7 @@ c) Por impressão directa sobre o produto.
 
 2 - Quando nenhum dos processos de rotulagem descritos no n.º 1 possa ser correctamente aplicado, devido, nomeadamente, às dimensões reduzidas do produto ou a outras dificuldades de natureza técnica, a rotulagem deve ser efectuada através de qualquer forma de informação que contenha um rótulo de acordo com o n.º 1 do artigo 10.º
 
-###### Art. 13.º Sem prejuízo do disposto na legislação existente sobre segurança e higiene nos locais de trabalho, o rótulo dos produtos que possam ainda ser transformados ou trabalhados deve conter, além das indicações referidas no n.º 1 do artigo 10.º, os conselhos de segurança apropriados, nomeadamente:
+Art. 13.º Sem prejuízo do disposto na legislação existente sobre segurança e higiene nos locais de trabalho, o rótulo dos produtos que possam ainda ser transformados ou trabalhados deve conter, além das indicações referidas no n.º 1 do artigo 10.º, os conselhos de segurança apropriados, nomeadamente:
 
 a) Trabalhar, se possível, no exterior ou em local bem arejado;
 
@@ -224,42 +247,42 @@ d) Se possível, molhar o produto antes de o cortar ou de o brocar;
 
 e) Molhar a poeira, metê-la num recipiente bem fechado e eliminá-la obedecendo às respectivas condições de segurança.
 
-###### Art. 14.º A rotulagem de um produto destinado ao uso doméstico que possa, aquando da sua utilização, libertar fibras de amianto deve conter o conselho de segurança «Substituir em caso de deterioração».
+Art. 14.º A rotulagem de um produto destinado ao uso doméstico que possa, aquando da sua utilização, libertar fibras de amianto deve conter o conselho de segurança «Substituir em caso de deterioração».
 
-###### Art. 15.º Os produtos contendo amianto comercializados em Portugal têm obrigatoriamente de ter o seu rótulo escrito em língua portuguesa.
+Art. 15.º Os produtos contendo amianto comercializados em Portugal têm obrigatoriamente de ter o seu rótulo escrito em língua portuguesa.
 
 ### CAPÍTULO V — Fiscalização e sanções
 
-###### Art. 16.º A violação do disposto nos artigos 5.º e 7.º a 13.º do presente diploma constitui contra-ordenação punível com coima de 200000$00 a 1500000$00, quando se trate de pessoas singulares, e de 1000000$00 a 3000000$00, no caso de pessoas colectivas.
+Art. 16.º A violação do disposto nos artigos 5.º e 7.º a 13.º do presente diploma constitui contra-ordenação punível com coima de 200000$00 a 1500000$00, quando se trate de pessoas singulares, e de 1000000$00 a 3000000$00, no caso de pessoas colectivas.
 
-###### Art. 17.º - 1 - A aplicação das coimas previstas no artigo anterior compete ao director regional de ambiente e recursos naturais da comissão de coordenação regional da área da ocorrência da infracção.
+Art. 17.º - 1 - A aplicação das coimas previstas no artigo anterior compete ao director regional de ambiente e recursos naturais da comissão de coordenação regional da área da ocorrência da infracção.
 
 2 - Da importância cobrada, 50% constituirão receita da comissão de coordenação regional da área, consignada a programas na área do ambiente.
 
-###### Art. 18.º - 1 - Sem prejuízo das autoridades policiais e administrativas, compete especialmente à Direcção-Geral da Inspecção Económica (DGIE) a investigação e instrução dos processos por contra-ordenação previstos no presente diploma, findo o que os remeterá à entidade referida no n.º 1 do artigo anterior.
+Art. 18.º - 1 - Sem prejuízo das autoridades policiais e administrativas, compete especialmente à Direcção-Geral da Inspecção Económica (DGIE) a investigação e instrução dos processos por contra-ordenação previstos no presente diploma, findo o que os remeterá à entidade referida no n.º 1 do artigo anterior.
 
 2 - A DGIE comunicará à Direcção-Geral da Qualidade do Ambiente (DGQA) todas as infracções cometidas ao disposto no presente decreto-lei no prazo de 30 dias a contar da data de levantamento do auto.
 
-###### Art. 19.º Em tudo o mais que não se encontra previsto neste diploma aplica-se às contra-ordenações o regime geral, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
+Art. 19.º Em tudo o mais que não se encontra previsto neste diploma aplica-se às contra-ordenações o regime geral, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
 
-###### Art. 20.º O disposto nos artigos anteriores não prejudica o poder de as autoridades sanitárias tomarem, sem precedência de processo administrativo prévio, as medidas que entendam indispensáveis para prevenir situações susceptíveis de causar ou acentuar prejuízos graves à saúde das pessoas.
+Art. 20.º O disposto nos artigos anteriores não prejudica o poder de as autoridades sanitárias tomarem, sem precedência de processo administrativo prévio, as medidas que entendam indispensáveis para prevenir situações susceptíveis de causar ou acentuar prejuízos graves à saúde das pessoas.
 
-###### Art. 21.º A DGQA acompanhará a aplicação global do presente diploma, assegurando a ligação com as Comunidades Europeias e propondo as medidas necessárias à prossecução dos objectivos do presente diploma.
+Art. 21.º A DGQA acompanhará a aplicação global do presente diploma, assegurando a ligação com as Comunidades Europeias e propondo as medidas necessárias à prossecução dos objectivos do presente diploma.
 
 ### CAPÍTULO VI — Entrada em vigor
 
-###### Art. 22.º O presente diploma entra em vigor seis meses depois da data da sua publicação.
+Art. 22.º O presente diploma entra em vigor seis meses depois da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01100/01830185.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01100/01830185.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01100/01830185.pdf)

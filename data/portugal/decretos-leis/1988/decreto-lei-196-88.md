@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12600/23322333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1988-374254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28d1d8e805abf33f487be24879d90e81792cbe1c371fc7b87c2448597af8d430
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b51f4c13ece77cc1755b3b033a86ef3daace27878487fb6a5cc8f895cc387b7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Mineira
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:333160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogado pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele diploma e legislação
+    referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:27Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +111,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As explorações a céu aberto e as explorações subterrâneas, bem como as instalações de superfície, no âmbito da indústria extractiva, devem fazer-se preferencialmente em áreas de menor interesse paisagístico.
+Artigo 1.º - 1 - As explorações a céu aberto e as explorações subterrâneas, bem como as instalações de superfície, no âmbito da indústria extractiva, devem fazer-se preferencialmente em áreas de menor interesse paisagístico.
 
 2 - As explorações e instalações referidas ficam obrigadas à adopção de medidas correctivas, com o objectivo de melhorar o respectivo impacte ambiental, nos termos do presente diploma.
 
-###### Art. 2.º - 1 - As entidades concessionárias ou licenciadas que efectuem explorações substerrâneas ou a céu aberto dentro das povoações ou das suas áreas limítrofes ficam obrigadas a adoptar as seguintes medidas:
+Art. 2.º - 1 - As entidades concessionárias ou licenciadas que efectuem explorações substerrâneas ou a céu aberto dentro das povoações ou das suas áreas limítrofes ficam obrigadas a adoptar as seguintes medidas:
 
 a) Plantação de écrans arbóreos;
 
@@ -131,7 +139,7 @@ h) Reconstituição dos terrenos para utilização florestal, agrícola ou de la
 
 4 - As entidades que efectuem explorações subterrâneas ou a céu aberto fora das povoações ou das suas áreas limítrofe podem ficar sujeitas à adopção das medidas constantes do n.º 1, mediante decisão dos órgãos da Direcção-Geral de Geologia e Minas, ouvido o Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Art. 3.º - 1 - As entidades que procedam a instalações de superfície dentro das povoações ou das suas áreas limítrofes, nomeadamente de britagem, de escombreiras, de estaleiros, de lavarias e edifícios, ficam obrigadas à adopção das medidas enunciadas no artigo anterior, bem como:
+Art. 3.º - 1 - As entidades que procedam a instalações de superfície dentro das povoações ou das suas áreas limítrofes, nomeadamente de britagem, de escombreiras, de estaleiros, de lavarias e edifícios, ficam obrigadas à adopção das medidas enunciadas no artigo anterior, bem como:
 
 a) À construção de instalações que se adaptem o mais possível à paisagem;
 
@@ -141,7 +149,7 @@ b) À utilização de filtros para recolha de poeiras.
 
 3 - Às instalações de superfície situadas fora das povoações ou das suas áreas limítrofes é aplicável o disposto no n.º 4 do artigo 2.º
 
-###### Art. 4.º - 1 - Compete às entidades concedentes ou licenciadoras:
+Art. 4.º - 1 - Compete às entidades concedentes ou licenciadoras:
 
 a) Fixar uma distância mínima de protecção, bem como um nível máximo de decibéis que atingem o vizinho mais próximo, através da limitação na origem;
 
@@ -151,17 +159,17 @@ c) Adoptar as medidas necessárias à preservação de eventuais achados arqueol
 
 2 - As entidades concedentes de explorações subterrâneas de minas e licenciadoras de louseiras regulamentarão os abatimentos superficiais provocados por explosões subterrâneas.
 
-###### Art. 5.º Os agentes ou funcionárias da Administração Pública que no exercício das suas funções violem os deveres prescritos no presente diploma incorrem em sanção disciplinar, nos termos do respectivo estatuto disciplinar, sem prejuízo da responsabilidade civil ou criminal nos termos gerais.
+Art. 5.º Os agentes ou funcionárias da Administração Pública que no exercício das suas funções violem os deveres prescritos no presente diploma incorrem em sanção disciplinar, nos termos do respectivo estatuto disciplinar, sem prejuízo da responsabilidade civil ou criminal nos termos gerais.
 
-###### Art. 6.º - 1 - A inobservância do disposto nas alíneas b), c), d), e), g) e h) do n.º 1 e no n.º 2 do artigo 2.º pelas entidades que efectuem explorações subterrâneas ou a céu aberto fora das povoações ou das suas zonas limítrofes é punível com coima mínima de 1000000$00 e máxima de 3000000$00.
+Art. 6.º - 1 - A inobservância do disposto nas alíneas b), c), d), e), g) e h) do n.º 1 e no n.º 2 do artigo 2.º pelas entidades que efectuem explorações subterrâneas ou a céu aberto fora das povoações ou das suas zonas limítrofes é punível com coima mínima de 1000000$00 e máxima de 3000000$00.
 
 2 - A inobservância do disposto nas alíneas a) e f) do n.º 1 do artigo 2.º e do artigo 3.º pelas entidades referidas no número anterior é punível com calma mínima de 200000$00 e máxima de 900000$00.
 
-###### Art. 7.º O incumprimento das obrigações constantes dos artigos 2.º e 3.º por entidades concessionárias ou licenciadas que efectuem qualquer das explorações previstas no presente diploma, situadas dentro das povoações ou das zonas limítrofes, implica, conforme o caso, a rescisão do contrato, a caducidade da concessão ou a revogação da licença sem direito a qualquer indemnização.
+Art. 7.º O incumprimento das obrigações constantes dos artigos 2.º e 3.º por entidades concessionárias ou licenciadas que efectuem qualquer das explorações previstas no presente diploma, situadas dentro das povoações ou das zonas limítrofes, implica, conforme o caso, a rescisão do contrato, a caducidade da concessão ou a revogação da licença sem direito a qualquer indemnização.
 
-###### Art. 8.º O procedimento pelas contra-ordenações previstas no presente diploma é da responsabilidade dos serviços da Direcção-Geral de Geologia e Minas, competindo a aplicação das coimas ao director-geral.
+Art. 8.º O procedimento pelas contra-ordenações previstas no presente diploma é da responsabilidade dos serviços da Direcção-Geral de Geologia e Minas, competindo a aplicação das coimas ao director-geral.
 
-###### Art. 9.º - 1 - As entidades referidas no n.º 1 do artigo 2.º devem proceder à adopção das medidas correctivas por ele instituídas, no prazo máximo de 90 dias, contados a partir da entrada em vigor do presente diploma.
+Art. 9.º - 1 - As entidades referidas no n.º 1 do artigo 2.º devem proceder à adopção das medidas correctivas por ele instituídas, no prazo máximo de 90 dias, contados a partir da entrada em vigor do presente diploma.
 
 2 - Os serviços da Direcção-Geral de Geologia e Minas, no âmbito das atribuições de fiscalização que lhe estão cometidas, devem, findo o prazo referido no número anterior, averiguar das adaptações efectuadas.
 
@@ -171,12 +179,12 @@ c) Adoptar as medidas necessárias à preservação de eventuais achados arqueol
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

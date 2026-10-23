@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1987-421588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364344d7940bc633afc1aff6bc06fe3d0fa9c21c6552eb04f060cfdcde2b51af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ea18b4ae5353434940c787d1bc8f572e84bb747eeb0ad1ec96e2d57d223e18a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Saúde
+- Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:324150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609981:por
+  label: Alterado o anexo I a que se refere o art. 21.º do presente diploma pelo(a) Decreto-Lei n.º 177/89 - Diário da República
+    n.º 120/1989, Série I de 1989-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1989-609981
+  date: '1989-05-26'
+- type: cites
+  target: pt:dre:147383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:622338:por
+  label: Rectificado pela DECL.DD3634.1987.05.29.PCM, DR.IS [147]2ºSupl de 30.06.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-622338
+  date: '1987-05-29'
+- type: repealed_by
+  target: pt:dre:324150:por
+  label: "REVOGADO PELO DECRETO LEI 292/93 , DE 24 DE AGOSTO PUBLICADO NO DR.IS-A, 198, MANTENDO-SE EM VIGOR O QUADRO ANEXO,\
+    \ ATE A ENTRADA EM VIGOR DA PORTARIA PREVISTA NO NUMERO 1 DO ARTIGO 10 DO REFERIDO DIPLOMA.\0REFERIDO DIPLOMA."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1993-324150
+  date: '1993-08-24'
 article_structure:
   article_count: 35
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:31Z'
   warnings: []
   errors: []
 ---
@@ -628,21 +712,21 @@ Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicaç
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Abril de 1987.**
+Referendado em 30 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal da Secretaria-Geral do Ministério da Saúde
 
 (A que se refere o artigo 21.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf)
 
 ## ANEXO II — (A que se refere o n.º 4 do artigo 26.º)
 
@@ -670,4 +754,4 @@ b) Esclarecer e informar os utentes do Ministério relativamente aos pedidos que
 
 Pessoal afecto ao Gabinete de Instalações e Equipamentos de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11500/20332043.pdf)

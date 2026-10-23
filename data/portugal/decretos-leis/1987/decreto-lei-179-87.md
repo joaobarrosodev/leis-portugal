@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09100/16001600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a593f14fe42b0f6d96df5cb50b1fc4881ff405625ea574732e676604815fada2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8a10428d56226b912b8a16ba1fb265049ee85b30049e9d37f148b1509e0d898
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministro da Saúde
+- Orgânica
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600771:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:01Z'
   warnings: []
   errors: []
 ---
@@ -100,22 +120,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto de Genética Médica, criado pelo [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), de 1 de Outubro, na dependência da Direcção-Geral dos Hospitais, passa a depender directamente do Ministro da Saúde.
+Artigo 1.º O Instituto de Genética Médica, criado pelo [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), de 1 de Outubro, na dependência da Direcção-Geral dos Hospitais, passa a depender directamente do Ministro da Saúde.
 
-###### Art. 2.º O n.º 1 do artigo 8.º do [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), de 1 de Outubro, alterado pelos Decretos-Leis n.os [25/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1982-600771), de 30 de Janeiro, e [237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), de 8 de Junho, e o n.º 1 do artigo 9.º do referido [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), também alterado pelo [Decreto-Lei n.º 25/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1982-600771), passam a ter a seguinte redacção:
+Art. 2.º O n.º 1 do artigo 8.º do [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), de 1 de Outubro, alterado pelos Decretos-Leis n.os [25/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1982-600771), de 30 de Janeiro, e [237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), de 8 de Junho, e o n.º 1 do artigo 9.º do referido [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), também alterado pelo [Decreto-Lei n.º 25/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1982-600771), passam a ter a seguinte redacção:
 
-###### Art. 8.º - 1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o adjunto do director e o administrador ou quem desempenhe as suas funções.
+Art. 8.º - 1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o adjunto do director e o administrador ou quem desempenhe as suas funções.
 
-###### Art. 9.º - 1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro da Saúde.
+Art. 9.º - 1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro da Saúde.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

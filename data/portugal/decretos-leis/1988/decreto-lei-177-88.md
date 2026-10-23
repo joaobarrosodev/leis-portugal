@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11600/21122113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1988-374668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8016f9c9e7363b0af45494eb75b8277e0058945ad4faf97eb9d2ad58558db8b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 530d06e837e8eeb14b545f109259bfa30019f492b538a46a7cd4e5507b212924
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Formas de Provimento
+- Integração de Trabalhadores
+- Orgânica
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:621683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409536:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222403:por
+  label: Rectificado pela DECL.DD2666.1988.05.30.PCM, DR.IS [126]3ºSupl de 31/Mai/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-222403
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:621683:por
+  label: "Revogado pelo DEC LEI.286/92.1992.12.26.PCM, DR.IS-A [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1992-621683
+  date: '1992-12-26'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:12Z'
   warnings: []
   errors: []
 ---
@@ -196,16 +229,16 @@ São revogados o [Decreto-Lei n.º 726/76](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 6 de Maio de 1988.**
+Promulgado em 6 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1988.**
+Referendado em 10 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal da Auditoria Jurídica da Presidência do Conselho de Ministros, a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11600/21122113.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11600/21122113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11600/21122113.pdf)

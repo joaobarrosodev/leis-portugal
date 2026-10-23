@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1987-419035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 019744130323a347ef2684b204f5294e5337fd3a137ba742875eeb9d560e1506
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90a2de1d810642e94629843f9939ee2996453b8281e953f55aa9028de69e2440
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Lei Geral Tributária
+- Orgânica
+- Reforma Aduaneira
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:682986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterada a redacção dos arts. 99º, 101º e 104º (com a redacção que dada pelo presente diploma) e revogados os arts.\
+    \ 98º, 102º e 103º da Reforma Aduaneira, aprovada pelo Dec Lei 46311 de 27-Abr 1965, pelo DEC LEI.472/99.1999.11.08.MF,\
+    \ DR.IS-A [260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:04Z'
   warnings: []
   errors: []
 ---
@@ -99,33 +111,33 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 41.º, 73.º e 98.º a 104.º e o n.º 27.º do artigo 352.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 41.º, 73.º e 98.º a 104.º e o n.º 27.º do artigo 352.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 41.º Os processos sobre restituição de rendimentos cuja solução exceda a competência dos directores das alfândegas terão seguimento pela Direcção-Geral mediante informação dos mesmos.
+Art. 41.º Os processos sobre restituição de rendimentos cuja solução exceda a competência dos directores das alfândegas terão seguimento pela Direcção-Geral mediante informação dos mesmos.
 
-###### Art. 73.º ...
+Art. 73.º ...
 
 § 1.º ...
 
 § 2.º A 2.ª Secção tem a seu cargo as atribuições da conferência final.
 
-###### Art. 98.º A cobrança a posteriori de quaisquer imposições que não constituam recursos próprios ou direitos residuais regula-se pelas disposições da regulamentação comunitária em vigor, com as excepções constantes dos artigos seguintes.
+Art. 98.º A cobrança a posteriori de quaisquer imposições que não constituam recursos próprios ou direitos residuais regula-se pelas disposições da regulamentação comunitária em vigor, com as excepções constantes dos artigos seguintes.
 
 § único. A dispensa de cobrança a posteriori prevista no n.º 2 do artigo 5.º do Regulamento (CEE) n.º [1697/79](http://data.europa.eu/eli/reg/1979/1697/oj?locale=pt) não terá lugar relativamente às imposições referidas no corpo deste artigo.
 
-###### Art. 99.º Sempre que as autoridades aduaneiras verificarem que não foi possível determinar o montante das imposições a cobrar em consequência de um acto fraudulento, bem como quando verificarem que se encontra em dívida a totalidade das imposições fiscais internas, o prazo para a acção de cobrança é o previsto no artigo 27.º do Código de Processo das Contribuições e Impostos, aprovado pelo Decreto-Lei n.º 45005, de 27 de Abril de 1963.
+Art. 99.º Sempre que as autoridades aduaneiras verificarem que não foi possível determinar o montante das imposições a cobrar em consequência de um acto fraudulento, bem como quando verificarem que se encontra em dívida a totalidade das imposições fiscais internas, o prazo para a acção de cobrança é o previsto no artigo 27.º do Código de Processo das Contribuições e Impostos, aprovado pelo Decreto-Lei n.º 45005, de 27 de Abril de 1963.
 
-###### Art. 100.º As importâncias cobradas a menos pelas alfândegas serão pagas mediante o processamento de liquidação suplementar.
+Art. 100.º As importâncias cobradas a menos pelas alfândegas serão pagas mediante o processamento de liquidação suplementar.
 
-###### Art. 101.º O reembolso ou a dispensa de pagamento de quaisquer imposições que não constituam recursos próprios ou direitos residuais regula-se pelas disposições da regulamentação comunitária em vigor.
+Art. 101.º O reembolso ou a dispensa de pagamento de quaisquer imposições que não constituam recursos próprios ou direitos residuais regula-se pelas disposições da regulamentação comunitária em vigor.
 
-###### Art. 102.º O reembolso ou a dispensa de pagamento das importâncias de qualquer natureza que hajam sido cobradas ou liquidadas a mais terá lugar mediante o processamento de títulos de anulação ou, na sua impossibilidade, mediante autorizações de pagamento concedidas pela Direcção-Geral da Contabilidade Pública.
+Art. 102.º O reembolso ou a dispensa de pagamento das importâncias de qualquer natureza que hajam sido cobradas ou liquidadas a mais terá lugar mediante o processamento de títulos de anulação ou, na sua impossibilidade, mediante autorizações de pagamento concedidas pela Direcção-Geral da Contabilidade Pública.
 
-###### Art. 103.º Os títulos previstos no artigo anterior serão emitidos para a totalidade da dívida anulada e não são objecto de pagamento parcial.
+Art. 103.º Os títulos previstos no artigo anterior serão emitidos para a totalidade da dívida anulada e não são objecto de pagamento parcial.
 
-###### Art. 104.º No caso de dúvida entre as alfândegas e os donos das mercadorias ou seus representantes sobre as importâncias a cobrar, a reembolsar ou a dispensar de pagamento, será a mesma esclarecida pela Direcção-Geral das Alfândegas.
+Art. 104.º No caso de dúvida entre as alfândegas e os donos das mercadorias ou seus representantes sobre as importâncias a cobrar, a reembolsar ou a dispensar de pagamento, será a mesma esclarecida pela Direcção-Geral das Alfândegas.
 
-###### Art. 352.º ...
+Art. 352.º ...
 
 1.º ...
 
@@ -181,18 +193,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 27.º Autorizar, nos termos legais, o reembolso ou a dispensa de pagamento dos montantes cobrados ou liquidados a mais.
 
-###### Art. 2.º - 1 - São revogados os artigos 105.º e 106.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311.
+Art. 2.º - 1 - São revogados os artigos 105.º e 106.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311.
 
 2 - Fica revogado o Decreto-Lei n.º 45855, de 5 de Agosto de 1964.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Maio de 1987.**
+Promulgado em 26 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Maio de 1987.**
+Referendado em 27 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

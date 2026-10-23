@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db1c70d23c819533a0de800bad1914bcccc11b2d5ff53a05aa7dc4d2a5520b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33def5cd383972a70e8a9325c63394301e55f26827f81563ec7df56a102b2a80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Contribuições e Impostos
+- Deficiente
+- Embarcação de Recreio
+- Imposto Especial sobre Veículos
+- Isenção Fiscal
+- Política Fiscal
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:611535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 3 DA LEI 34/83 DE 21-OUT, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DEC LEI 154/89 DE 11-MAI\
+    \ DR.IS [108]\0.IS [108]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-05-11'
+- type: amended_by
+  target: pt:dre:611535:por
+  label: Alterado o art. 3.º da Lei 34/83 de 21-out, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 154/89
+    - Diário da República n.º 108/1989, Série I de 1989-05-11
+  source: null
+  date: '1989-05-11'
+- type: cites
+  target: pt:dre:441567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:42Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +126,9 @@ Nestes termos:
 
 Ao abrigo da autorização legislativa concedida pela alínea b) do artigo 41.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 3.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) ...
 
@@ -132,12 +160,12 @@ l) Os deficientes cujo grau de invalidez seja igual ou superior a 60%, nos termo
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 20 de Março de 1987.**
+Promulgado em 20 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1987.**
+Referendado em 25 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

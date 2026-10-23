@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1987-494847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d42889a99060ac9ca9755e68e1ace43b08393ec856ec37edf9469328dfc59421
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1637df5591e6331d6d1d7f7cef7da98d5c126e7c93e16e104e55027e28b42d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Diploma
+- Direito de Estabelecimento
+- Equivalência de Habilitações Literárias
+- Livre Prestação de Serviços
+- Médico
+- Trabalhador Comunitário
+- Tratado CEE
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282518:por
+  label: "Alterados os arts. 4.º e 5.º e revogado o nº 3 da al. a) do anexo I do presente diploma, na redacção do Dec Lei\
+    \ 35/92 de 14-Mar, pelo DEC LEI.186/93.22.05.1993.MS, DR.IS-A [119] de 22.05.1993\093\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1993-282518
+  date: '1993-05-22'
+- type: amended_by
+  target: pt:dre:508466:por
+  label: "Alterado o nº 2 do anexo II, na redacção conferida pelo Dec Lei 35/92 de 14-Mar, pelo DEC LEI.48/2000.2000.03.24.MS\
+    \ DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2000-508466
+  date: '2000-03-24'
+- type: amended_by
+  target: pt:dre:313612:por
+  label: "Alterado o nº 2 do anexo II pelo DEC LEI.18/2001.2001.01.27.MS,DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2001-313612
+  date: '2001-01-27'
+- type: amended_by
+  target: pt:dre:653500:por
+  label: "Alterado o nº 2 do art 3º e aditados os nºs 3 e 4, aditados os nºs 2 e 3 ao art 2º, o nº 5 ao art 5º, os nºs 3 e\
+    \ 4 ao art 11º e os nºs 1, 2 e 3 ao art 14º e substituídos os anexos I e II pelo DEC LEI.177/2003.2003.08.05.MS, DR.IS-A\
+    \ [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2003-653500
+  date: '2003-08-05'
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:24Z'
   warnings: []
   errors: []
 ---
@@ -219,15 +257,15 @@ As instituições e os serviços competentes para o desempenho das funções que
 
 Visto e aprovado em Conselho de Ministros de 31-7-87. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 13 de Agosto de 1987.**
+Promulgado em 13 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Agosto de 1987.**
+Referendado em 15 de Agosto de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 
@@ -235,13 +273,13 @@ Os diplomas, certificados e outros títulos referidos no artigo 2.º são os que
 
 a) Na Alemanha:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de exame de Estado de médico), emitido pelas autoridades competentes, e [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado comprovativo do cumprimento do período preparatório como assistente médico), na medida em que a legislação alemã prevê ainda tal período para completar a formação médica;
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de exame de Estado de médico), emitido pelas autoridades competentes, e [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado comprovativo do cumprimento do período preparatório como assistente médico), na medida em que a legislação alemã prevê ainda tal período para completar a formação médica;
 
 2) Os atestados das autoridades competentes da República Federal da Alemanha comprovativos da equivalência dos títulos de formação concedidos depois de 8 de Maio de 1945 pelas autoridades competentes da República Democrática Alemã aos títulos referidos no n.º 1);
 
-b) Na Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma legal de doutor em Medicina, Cirurgia e Partos), conferido pelas faculdades de Medicina das universidades ou pelo Júri Central ou júris de Estado do ensino universitário;
+b) Na Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma legal de doutor em Medicina, Cirurgia e Partos), conferido pelas faculdades de Medicina das universidades ou pelo Júri Central ou júris de Estado do ensino universitário;
 
-c) Na Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma legal de doutor em Medicina), conferido pela faculdade de Medicina de uma universidade, bem como [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de estágio), emitido pelas autoridades competentes dos serviços de saúde;
+c) Na Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma legal de doutor em Medicina), conferido pela faculdade de Medicina de uma universidade, bem como [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de estágio), emitido pelas autoridades competentes dos serviços de saúde;
 
 d) Em França:
 
@@ -251,17 +289,17 @@ d) Em França:
 
 e) Na Irlanda - «primary qualification» (certificado comprovativo de conhecimentos básicos), emitido na Irlanda após aprovação num exame de qualificação prestado perante júri competente e certificado relativo à experiência adquirida, emitido pelo mesmo júri, certificados esses que autorizam o registo na qualidade de «fully registered medical practitioner» (médico generalista);
 
-f) Na Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma de habilitação para o exercício da medicina e da cirurgia) emitido pela comissão de Exame de Estado;
+f) Na Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma de habilitação para o exercício da medicina e da cirurgia) emitido pela comissão de Exame de Estado;
 
 g) No Luxemburgo - «diplôme d'État de docteur en médecine, chirurgie et accouchements» (diploma de Estado de doutor em Medicina, Cirurgia e Partos), emitido pelo Júri de Exame de Estado, visado pelo Ministro da Educação Nacional e «certificat de stage» (certificado de estágio), visado pelo Ministro da Saúde Pública;
 
-h) Nos Países Baixos [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado universitário de médico);
+h) Nos Países Baixos [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado universitário de médico);
 
 i) No Reino Unido - «primary qualification» (certificado comprovativo de conhecimentos básicos), emitido no Reino Unido após a realização de exame de qualificação prestado perante júri competente, e certificado relativo à experiência, passado pelo mesmo júri certificados esses que autorizem o registo na qualidade de «fully registered medical practitioner» (médico generalista);
 
-j) Na Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de licenciado pela faculdade de Medicina), emitido por uma universidade, bem como o [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de formação prática), emitido pelo Ministério dos Serviços Sociais;
+j) Na Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de licenciado pela faculdade de Medicina), emitido por uma universidade, bem como o [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de formação prática), emitido pelo Ministério dos Serviços Sociais;
 
-k) Em Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de licenciado em Medicina e Cirurgia), emitido pelo Ministério da Educação e da Ciência;
+k) Em Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de licenciado em Medicina e Cirurgia), emitido pelo Ministério da Educação e da Ciência;
 
 l) Em Portugal - «carta de curso de licenciatura em Medicina», emitida por uma universidade, bem como o «diploma comprovativo da conclusão do internato geral», emitido pelas autoridades competentes do Ministério da Saúde.
 
@@ -269,11 +307,11 @@ l) Em Portugal - «carta de curso de licenciatura em Medicina», emitida por uma
 
 1 - Os diplomas, certificados e outros títulos referidos no artigo 3.º são os que, desde que emitidos pelas autoridades e organismos competentes a seguir se indicam:
 
-Na Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de especialização médica), emitido pela Câmara dos Médicos do respectivo Land;
+Na Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de especialização médica), emitido pela Câmara dos Médicos do respectivo Land;
 
-Na Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de agregação na qualidade de médico especialista), emitido pelo Ministro da Saúde Pública;
+Na Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de agregação na qualidade de médico especialista), emitido pelo Ministro da Saúde Pública;
 
-Na Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado conferindo o título de médico especialista), emitido pelas autoridades competentes dos serviços de saúde;
+Na Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado conferindo o título de médico especialista), emitido pelas autoridades competentes dos serviços de saúde;
 
 Em França:
 
@@ -285,17 +323,17 @@ Em França:
 
 Na Irlanda - «certificate of specialist doctor» (diploma de médico especialista), emitido pela autoridade competente habilitada para tal efeito pelo Ministro da Saúde Pública;
 
-Na Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma de médico especialista), concedido pelo reitor de uma universidade;
+Na Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (diploma de médico especialista), concedido pelo reitor de uma universidade;
 
 No Luxemburgo - «le certificat de médecin spécialiste» (certificado de médico especialista), emitido pelo Ministro da Saúde Pública, sob parecer do Colégio Médico;
 
-Nos Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de agregação e de inscrição no registo de especialistas), emitido pela comissão de registo de especialistas;
+Nos Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (certificado de agregação e de inscrição no registo de especialistas), emitido pela comissão de registo de especialistas;
 
 No Reino Unido - «certificate of completion of specialist training» (certificado de formação especializada), emitido pela autoridade competente habilitada para o efeito;
 
-Na Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de especialista em Medicina), emitido pelo Ministério dos Serviços Sociais;
+Na Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de especialista em Medicina), emitido pelo Ministério dos Serviços Sociais;
 
-Em Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de especialista), emitido pelo Ministério da Educação e da Ciência;
+Em Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf) (título de especialista), emitido pelo Ministério da Educação e da Ciência;
 
 Em Portugal - «grau de assistente», conferido pelas autoridades competentes do Ministério da Saúde, ou «título de especialista», emitido pela Ordem dos Médicos.
 
@@ -303,51 +341,51 @@ Em Portugal - «grau de assistente», conferido pelas autoridades competentes do
 
 Anatomia patológica:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - anatomie pathologique;
 
 Irlanda - morbid anatomy and histopathology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - anatomie pathologique;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - morbid anatomy and histopathology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha -[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha -[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - anatomia patológica;
 
 Anestesiologia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - anesthésie-réanimation;
 
 Irlanda - anaesthetics;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - anesthésie-réanimation;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - anaesthetics;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - anestesiologia;
 
@@ -355,13 +393,13 @@ Cardiologia:
 
 Bélgica - cardiologie/cardiologie;
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - cardiologie et médecine d'affections vasculaires;
 
 Irlanda - cardiology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - cardiologie et angiologie;
 
@@ -369,31 +407,31 @@ Países Baixos - cardiologie;
 
 Reino Unido - cardio-vascular diseases;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - cardiologia;
 
 Cirurgia cárdio-torácica:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - cirurgie thoracique;
 
 Irlanda - thoracic surgery;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - chirurgie thoracique;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - thoracic surgery;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Espanha - cirurgia torácica;
 
@@ -401,27 +439,27 @@ Portugal - cirurgia torácica;
 
 Cirurgia geral:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - chirurgie générale;
 
 Irlanda - general surgery;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - chirurgie générale;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - general surgery;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - cirurgia geral;
 
@@ -429,73 +467,73 @@ Cirurgia pediátrica:
 
 Irlanda - pediatric surgery;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - chirurgie pédiatrique;
 
 Reino Unido - paediatric surgery;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - cirurgia pediátrica;
 
 Cirurgia plástica:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - chirurgie plastique et reconstructive;
 
 Irlanda - plastic surgery;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - chirurgie plastique;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - plastic surgery;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - cirurgia plástica;
 
 Cirurgia vascular:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - chirurgie cardio-vasculaire;
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - cirurgia vascular;
 
 Dermatovenereologia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - dermato-vénéréologie;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - dermato-vénéréologie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - dermatovenereologia;
 
@@ -503,15 +541,15 @@ Endocrinologia:
 
 Irlanda - endocrinology and diabetes mellitus;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - endocrinologie;
 
 Reino Unido - endocrinology and diabetes mellitus;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - endocrinologia-nutrição;
 
@@ -519,81 +557,81 @@ Estomatologia:
 
 França - stomatologie;
 
-Itália -[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália -[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - stomatalogie;
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - estomatologia;
 
 Gastrenterologia:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - maladies de l'appareil digestif;
 
-Irlanda - gastroenterology;Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Irlanda - gastroenterology;Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - gastro-entérologie et maladies de la nutrition;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - gastroenterology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - gastrenterologia;
 
 Ginecologia-obstetrícia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - gynécologie-obstétrique;
 
 Irlanda - obstetrics and gynaecology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - gynécologie-obstétrique;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - obstetrics and gynaecology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - ginecologia e obstetrícia;
 
 Hematologia clínica:
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - hématologie biologique;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - hematalogia clínica;
 
 Imunoalergologia:
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - imunoalergologia;
 
@@ -601,43 +639,43 @@ Imuno-hemoterapia:
 
 Irlanda - haematology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - hématalogie;
 
 Reino Unido - haematalogy;
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - imuno-hemoterapia;
 
 Fisiatria:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - réeducation et réadaptation fonctionnelles;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - rééducation et réadaptation fonctionnelles;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - fisiatria;
 
 Medicina interna:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - médecine interne;
 
@@ -647,11 +685,11 @@ Itália - medicina interna;
 
 Luxemburgo - maladies internes;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - general medicine;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Espanha - medicina interna;
 
@@ -659,33 +697,33 @@ Portugal - medicina interna;
 
 Nefrologia:
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Irlanda - nephrology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - renal diseases;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - nefrologia;
 
 Neurocirurgia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - neurochirurgie;
 
 Irlanda - neurological surgery;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - neurochirurgie;
 
@@ -693,17 +731,17 @@ Países Baixos - neurochirurgie;
 
 Reino Unido - neurological surgery;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - neurocirurgia;
 
 Neurologia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - neurologie;
 
@@ -717,83 +755,83 @@ Países Baixos - neurologie;
 
 Reino Unido - neurology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - neurologia;
 
 Oftalmologia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - ophtalmologie;
 
 Irlanda - ophtalmology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - ophtalmologie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - ophtalmology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - oftalmologia;Ortopedia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - orthopédie;
 
 Irlanda - orthopedic surgery;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - orthopédie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - ortopaedic surgery;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - ortopedia;
 
 Otorrinolaringologia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - oto-rhino-laryngologie;
 
 Irlanda - otolaryongology;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - oto-rhino-laryngologie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - otolaryongology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Espanha - otorrinolaringologia;
 
@@ -801,23 +839,23 @@ Portugal - otorrinolaringologia;
 
 Patologia clínica:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - biologie médicale;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - patologia clínica;
 
 Pediatria:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - pédiatrie;
 
@@ -827,71 +865,71 @@ Itália - pediatria;
 
 Luxemburgo - pédiatrie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - paediatrics;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - pediatria;
 
 Pedopsiquiatria:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - pédo-psychiatrie;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - psychitrie infantile;
 
 Reino Unido - child and adolescent psychiatry;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - pedopsiquiatria;
 
 Pneumologia:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Bélgica - pneumologie/pneumologie;
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - pneumo-phtisiologie;
 
 Irlanda - respiratory medicine;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - pneumo-phtisiologie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - respiratory medicine;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - pneumologia;
 
 Psiquiatria:
 
-Alemanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Alemanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - psychiatrie;
 
 Irlanda - psychiatry;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Luxemburgo - psychiatrie;
 
@@ -899,9 +937,9 @@ Países Baixos - psychiatrie;
 
 Reino Unido - psychiatry;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - psiquiatria;
 
@@ -917,17 +955,17 @@ Luxemburgo - électroradiologie;
 
 Países Baixos - radiologie;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - radialogia;
 
 Radioterapia:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - radiothérapie;
 
@@ -939,17 +977,17 @@ Países Baixos - radiothérapie;
 
 Reino Unido - radiotherapy;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - radioterapia;
 
 Radiodiagnóstico:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - radiodiagnostic;
 
@@ -957,11 +995,11 @@ Irlanda - diagnostic radiology;
 
 Luxemburgo - radiodiagnostic;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - diagnostic radiology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Espanha - radiodiagnóstico;
 
@@ -969,7 +1007,7 @@ Portugal - radiodiagnóstico;
 
 Reumatologia:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 França - rhumatologie;
 
@@ -979,13 +1017,13 @@ Itália - reumatologia;
 
 Luxemburgo - rhumatologie;
 
-Países Baixos - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Países Baixos - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - rheumatology;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - reumatologia;
 
@@ -995,21 +1033,21 @@ Alemanha - Urologie;
 
 Bélgica - urologie;
 
-Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Espanha - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Espanha - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Portugal - urologia;
 
 Medicina tropical:
 
-Bélgica - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Bélgica - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
-Dinamarca - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Dinamarca - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Irlanda - tropical medicine;
 
-Itália - [([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
+Itália - [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20000/34423449.pdf);
 
 Reino Unido - tropical medicine;
 

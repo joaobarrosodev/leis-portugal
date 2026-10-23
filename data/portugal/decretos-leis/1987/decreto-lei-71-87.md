@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03500/05280534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1987-662933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d052c188ef9f98cd92098e7841cdd5fea5bafd1a9f92d04d717d34cd9ce01ebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfaf48cba2354b8e2e88f0e552b167f86dec2c39e298ce9269473a950ddb4199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Instituto Português do Livro
+- Instituto Português do Livro e da Leitura
+- Orgânica
+- Personalidade Jurídica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:410282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374245:por
+  label: "Aditado o art. 17º-A e alterado o art. 15º e o quadro de pessoal do IPLL, a que se refere o art. 23º do presente\
+    \ diploma, pelo DEC LEI.186/88.27.05.1988.PCM, DR.IS [123] de 27.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1988-374245
+  date: '1988-05-27'
+- type: cites
+  target: pt:dre:177444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogado pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:28Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +148,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto Português do Livro e da Leitura, abreviadamente designado por IPLL, é um organismo dotado de autonomia administrativa e personalidade jurídica, integrado no departamento governamental de superintendência na área da cultura, com o objectivo de definir e assegurar, a nível nacional, a coordenação e execução de uma política integrada do livro não escolar e da leitura pública.
+Artigo 1.º O Instituto Português do Livro e da Leitura, abreviadamente designado por IPLL, é um organismo dotado de autonomia administrativa e personalidade jurídica, integrado no departamento governamental de superintendência na área da cultura, com o objectivo de definir e assegurar, a nível nacional, a coordenação e execução de uma política integrada do livro não escolar e da leitura pública.
 
-###### Art. 2.º - 1 - O IPLL orientará a sua actividade conceptual e operativa visando garantir uma actuação coordenada nos domínios:
+Art. 2.º - 1 - O IPLL orientará a sua actividade conceptual e operativa visando garantir uma actuação coordenada nos domínios:
 
 a) Do livro, nomeadamente nos aspectos relativos à sua criação, edição e difusão;
 
@@ -115,7 +160,7 @@ b) Da leitura, particularmente nos aspectos relativos à rede nacional de leitur
 
 ### CAPÍTULO II — Órgãos e serviços e suas competências
 
-###### Art. 3.º - 1 - O IPLL compreende os seguintes órgãos:
+Art. 3.º - 1 - O IPLL compreende os seguintes órgãos:
 
 a) Presidente;
 
@@ -137,11 +182,11 @@ d) Divisão de Difusão (DD);
 
 e) Repartição Administrativa (RA).
 
-###### Art. 4.º - 1 - O presidente é o órgão de direcção e representação do IPLL e será coadjuvado no exercício das suas funções por um vice-presidente, o qual, para todos os efeitos legais, o substituirá nas suas faltas e impedimentos.
+Art. 4.º - 1 - O presidente é o órgão de direcção e representação do IPLL e será coadjuvado no exercício das suas funções por um vice-presidente, o qual, para todos os efeitos legais, o substituirá nas suas faltas e impedimentos.
 
 2 - Os cargos de presidente e de vice-presidente são equiparados, respectivamente, aos de director-geral e subdirector-geral.
 
-###### Art. 5.º - 1 - Compete ao presidente:
+Art. 5.º - 1 - Compete ao presidente:
 
 a) Exercer todas as competências inerentes aos poderes de direcção, orientação e disciplinar em relação aos serviços e funcionários do Instituto;
 
@@ -151,7 +196,7 @@ c) Exercer todas as demais competências que lhe forem delegadas ou cometidas po
 
 2 - O presidente poderá delegar no vice-presidente o exercício de parte das suas competências.
 
-###### Art. 6.º - 1 - O conselho consultivo é constituído pelo presidente do IPLL, que presidirá, e sete vogais a nomear por despacho do membro do Governo competente.
+Art. 6.º - 1 - O conselho consultivo é constituído pelo presidente do IPLL, que presidirá, e sete vogais a nomear por despacho do membro do Governo competente.
 
 2 - A nomeação referida será efectuada pelo período de um ano, renovável, até ao máximo de três anos.
 
@@ -161,21 +206,21 @@ c) Exercer todas as demais competências que lhe forem delegadas ou cometidas po
 
 5 - A participação nas reuniões do conselho consultivo confere o direito à percepção de senhas de presença, bem como o direito a ajudas de custo e transporte, a abonar nos termos da legislação em vigor.
 
-###### Art. 7.º Compete ao conselho consultivo apreciar e emitir parecer sobre o mérito e definição de prioridades dos programas e projectos apresentados ao IPLL ou da iniciativa deste.
+Art. 7.º Compete ao conselho consultivo apreciar e emitir parecer sobre o mérito e definição de prioridades dos programas e projectos apresentados ao IPLL ou da iniciativa deste.
 
-###### Art. 8.º - 1 - A comissão técnica é constituída, para além do presidente do IPLL, que presidirá, por vogais representantes das seguintes áreas governamentais, a designar pelos tittulares das pastas respectivas: Finanças, Plano, Transportes e Comunicações, Comunicação Social, Educação e Comércio.
+Art. 8.º - 1 - A comissão técnica é constituída, para além do presidente do IPLL, que presidirá, por vogais representantes das seguintes áreas governamentais, a designar pelos tittulares das pastas respectivas: Finanças, Plano, Transportes e Comunicações, Comunicação Social, Educação e Comércio.
 
 2 - A comissão reúne por convocação expressa do presidente, o qual detém voto de qualidade.
 
-###### Art. 9.º Compete à comissão técnica assegurar a articulação e a colaboração dos respectivos departamentos governamentais na definição e execução de medidas no âmbito específico das suas áreas de representação.
+Art. 9.º Compete à comissão técnica assegurar a articulação e a colaboração dos respectivos departamentos governamentais na definição e execução de medidas no âmbito específico das suas áreas de representação.
 
-###### Art. 10.º - 1 - O conselho administrativo é constituído pelo presidente do IPLL, que presidirá, pelo chefe da RA e por um representante da Direcção-Geral da Contabilidade Pública (DGCP).
+Art. 10.º - 1 - O conselho administrativo é constituído pelo presidente do IPLL, que presidirá, pelo chefe da RA e por um representante da Direcção-Geral da Contabilidade Pública (DGCP).
 
 2 - O conselho reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que o presidente o convocar.
 
 3 - Para o seu regular funcionamento o conselho será logisticamente apoiado pela RA.
 
-###### Art. 11.º Compete ao conselho administrativo:
+Art. 11.º Compete ao conselho administrativo:
 
 a) Aprovar o projecto de orçamento de funcionamento do IPLL e propor as alterações que se mostrarem necessárias;
 
@@ -195,9 +240,9 @@ h) Promover a requisição de fundos à DGCP por conta das dotações orçamenta
 
 i) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam presentes pelo presidente.
 
-###### Art. 12.º À DSP compete a concepção, planificação e desenvolvimento de programas e projectos intersectoriais, multidisciplinares e interdepartamentais inerentes à prossecução das atribuições do IPLL, actuando nas áreas de informação e apoio técnico e na de estudos e projectos.
+Art. 12.º À DSP compete a concepção, planificação e desenvolvimento de programas e projectos intersectoriais, multidisciplinares e interdepartamentais inerentes à prossecução das atribuições do IPLL, actuando nas áreas de informação e apoio técnico e na de estudos e projectos.
 
-###### Art. 13.º A actuação na área de informação e apoio técnico visa, nomeadamente:
+Art. 13.º A actuação na área de informação e apoio técnico visa, nomeadamente:
 
 a) Assegurar a ligação funcional com outros centros de informação, públicos ou privados, nacionais ou internacionais, no que respeita à recolha, tratamento, conservação e difusão da informação necessária ao funcionamento do IPLL;
 
@@ -213,7 +258,7 @@ f) Preparar os planos anuais e plurianuais do IPLL e acompanhar a respectiva exe
 
 g) Realizar estudos de apoio técnico, económico-financeiro e jurídico dos processos de decisão e coordenação interna.
 
-###### Art. 14.º - 1 - Na actuação na área de estudos e projectos, a DSP será funcionalmente integrada pelas equipas e meios afectos à prossecução dos objectivos indicados no artigo 12.º
+Art. 14.º - 1 - Na actuação na área de estudos e projectos, a DSP será funcionalmente integrada pelas equipas e meios afectos à prossecução dos objectivos indicados no artigo 12.º
 
 2 - Para concretização do disposto no número anterior, o presidente do IPLL poderá propor superiormente o convite a entidades nacionais ou estrangeiras para a realização de estudos ou para a coordenação ou integração das equipas de programa ou projecto.
 
@@ -223,9 +268,9 @@ g) Realizar estudos de apoio técnico, económico-financeiro e jurídico dos pro
 
 5 - Quando os programas referidos se concretizem em desempenho plurianual, integrando planos de médio ou longo prazo, será fornecida aos respectivos elementos a adequada formação em equipa.
 
-###### Art. 15.º A DSLP compreende as Divisões de Planeamento e Cooperação e de Desenvolvimento da Rede de Leitura Pública e compete-lhe assegurar a planificação e execução da política nacional de leitura pública, através, nomeadamente, da colaboração entre a administração central e autárquica.
+Art. 15.º A DSLP compreende as Divisões de Planeamento e Cooperação e de Desenvolvimento da Rede de Leitura Pública e compete-lhe assegurar a planificação e execução da política nacional de leitura pública, através, nomeadamente, da colaboração entre a administração central e autárquica.
 
-###### Art. 16.º Compete à Divisão de Planeamento e Cooperação:
+Art. 16.º Compete à Divisão de Planeamento e Cooperação:
 
 a) Desenvolver metodologias, nos planos técnico e normativo, que possibilitem a cooperação e o desenvolvimento coerente da rede de leitura pública;
 
@@ -243,7 +288,7 @@ g) Participar nos trabalhos dos organismos nacionais de normalização, em área
 
 h) Participar em acções de cooperação, a nível internacional, nacional e regional, que estimulem o aparecimento de novos públicos para leitura.
 
-###### Art. 17.º Compete à Divisão de Desenvolvimento da Rede de Leitura Pública:
+Art. 17.º Compete à Divisão de Desenvolvimento da Rede de Leitura Pública:
 
 a) Dar execução às medidas de política de leitura pública e responsabilizar-se pelo seu controle periódico;
 
@@ -255,7 +300,7 @@ d) Promover programas de formação e actualização do pessoal das bibliotecas 
 
 e) Incentivar a integração da cultura áudio-visual e promover a utilização gradual das novas tecnologias no tratamento e difusão da informação nas bibliotecas já referidas.
 
-###### Art. 18.º Compete à DACE:
+Art. 18.º Compete à DACE:
 
 a) Propor, coordenar e executar acções tendentes a apoiar e incentivar a actividade criadora de autores, investigadores, críticos e tradutores, nomeadamente através da concessão de bolsas e prémios;
 
@@ -271,7 +316,7 @@ f) Apoiar medidas que contribuam para o estabelecimento das bases de uma políti
 
 g) Colaborar na definição e promoção de medidas de apoio às empresas do sector, designadamente através de incentivos fiscais e financeiros.
 
-###### Art. 19.º Compete à DD:
+Art. 19.º Compete à DD:
 
 a) Apoiar e promover acções tendentes à difusão do livro e divulgação do autor português no País e no estrangeiro;
 
@@ -281,17 +326,17 @@ c) Contribuir para a melhoria da rede de distribuição do livro e, designadamen
 
 d) Promover, em colaboração com outras entidades, a exportação do livro português, nomeadamente para o Brasil, para os países africanos de língua oficial portuguesa e para os países com significativas comunidades portuguesas.
 
-###### Art. 20.º - 1 - A RA é o órgão de apoio do IPLL que assegura a gestão administrativa e financeira e compreende as secções de contabilidade, tesouraria e economato e a de expediente e pessoal.
+Art. 20.º - 1 - A RA é o órgão de apoio do IPLL que assegura a gestão administrativa e financeira e compreende as secções de contabilidade, tesouraria e economato e a de expediente e pessoal.
 
 2 - As secções referidas exercerão todas as competências que, sectorialmente, lhes são cometidas pelas disposições legais em vigor, considerando a especificidade do IPLL.
 
 ### CAPÍTULO III — Administração financeira e patrimonial
 
-###### Art. 21.º - 1 - A administração financeira do IPLL será feita de acordo com o plano anual de actividades e o Orçamento do Estado.
+Art. 21.º - 1 - A administração financeira do IPLL será feita de acordo com o plano anual de actividades e o Orçamento do Estado.
 
 2 - Sempre que se mostre necessário, poderão ser elaborados planos plurianuais de actividades e financeiros.
 
-###### Art. 22.º Constituem receitas do IPLL:
+Art. 22.º Constituem receitas do IPLL:
 
 a) As dotações que lhe sejam atribuídas no Orçamento do Estado;
 
@@ -309,9 +354,9 @@ g) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou 
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 23.º O IPLL dispõe do pessoal do quadro constante do anexo I ao presente diploma.
+Art. 23.º O IPLL dispõe do pessoal do quadro constante do anexo I ao presente diploma.
 
-###### Art. 24.º - 1 - O provimento do pessoal a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 24.º - 1 - O provimento do pessoal a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido, o funcionário:
 
@@ -329,15 +374,15 @@ a) No lugar de origem, quando à comissão se não seguir o provimento definitiv
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a mesma.
 
-###### Art. 25.º Sem prejuízo do disposto nos artigos seguintes, a gestão e administração do pessoal em serviço no IPLL far-se-á nos termos da legislação geral em vigor.
+Art. 25.º Sem prejuízo do disposto nos artigos seguintes, a gestão e administração do pessoal em serviço no IPLL far-se-á nos termos da legislação geral em vigor.
 
-###### Art. 26.º O lugar de chefe de repartição será provido de entre:
+Art. 26.º O lugar de chefe de repartição será provido de entre:
 
 a) Chefes de secção com um mínimo de três anos de bom e efectivo serviço na categoria;
 
 b) Indivíduos possuidores de curso superior e experiência adequada.
 
-###### Art. 27.º - 1 - A carreira de técnico-adjunto do livro integra-se no grupo de pessoal técnico-profissional, nível 4, e rege-se pela lei geral, sem prejuízo do disposto no número seguinte.
+Art. 27.º - 1 - A carreira de técnico-adjunto do livro integra-se no grupo de pessoal técnico-profissional, nível 4, e rege-se pela lei geral, sem prejuízo do disposto no número seguinte.
 
 2 - O ingresso na base da carreira será efectuado de entre indivíduos habilitados com curso de formação técnico-profissional, a fixar nos termos da lei geral, ou com experiência profissional adequada, a reconhecer igualmente nos termos legais em vigor.
 
@@ -345,15 +390,15 @@ b) Indivíduos possuidores de curso superior e experiência adequada.
 
 4 - A transição, em primeiro provimento subsequente à publicação deste diploma, para os lugares integrantes da carreira de técnico-adjunto do livro far-se-á nos termos do n.º 2 do artigo 30.º, considerando-se para o efeito o requisito habilitacional mínimo da posse do antigo 7.º ano liceal ou do actual 12.º ano de escolaridade.
 
-###### Art. 28.º - 1 - As carreiras de tradutor-correspondente-intérprete e de desenhador de artes gráficas desenvolvem-se nos termos da lei geral.
+Art. 28.º - 1 - As carreiras de tradutor-correspondente-intérprete e de desenhador de artes gráficas desenvolvem-se nos termos da lei geral.
 
 2 - O ingresso nas categorias de base das carreiras referidas será efectuado de entre indivíduos habilitados com curso técnico-profissional adequado a cada caso, a definir nos termos previstos no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 29.º - 1 - A carreira de operador de reprografia é considerada carreira horizontal e o seu desenvolvimento rege-se pelo disposto na lei geral.
+Art. 29.º - 1 - A carreira de operador de reprografia é considerada carreira horizontal e o seu desenvolvimento rege-se pelo disposto na lei geral.
 
 2 - O ingresso na base da carreira será efectuado de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 30.º - 1 - Os funcionários do quadro do IPL, o pessoal requisitado e destacado, bem como o restante pessoal não funcionário, nas condições referidas no número seguinte, que prestem serviço no IPL à data da publicação do presente diploma serão providos nos lugares do quadro do IPLL de acordo com as alíneas seguintes:
+Art. 30.º - 1 - Os funcionários do quadro do IPL, o pessoal requisitado e destacado, bem como o restante pessoal não funcionário, nas condições referidas no número seguinte, que prestem serviço no IPL à data da publicação do presente diploma serão providos nos lugares do quadro do IPLL de acordo com as alíneas seguintes:
 
 a) Para categoria idêntica à que já possuem;
 
@@ -371,33 +416,33 @@ c) Quando, relativamente ao pessoal não funcionário, se verificar a prestaçã
 
 4 - Nas situações previstas no número anterior será contado, para efeitos de progressão nas novas carreiras, todo o tempo de serviço prestado anteriormente em idêntico desempenho.
 
-###### Art. 31.º O disposto no artigo anterior não prejudica a hipótese da constituição de excedentes, aos quais se aplicará o regime previsto nos Decretos-Leis n.os [43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, e [87/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1985-325119), de 1 de Abril.
+Art. 31.º O disposto no artigo anterior não prejudica a hipótese da constituição de excedentes, aos quais se aplicará o regime previsto nos Decretos-Leis n.os [43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, e [87/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1985-325119), de 1 de Abril.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 32.º - 1 - Com a entrada em vigor do presente diploma cessam as comissões de serviço relativas aos cargos de dirigentes que vinham sendo desempenhadas no IPL.
+Art. 32.º - 1 - Com a entrada em vigor do presente diploma cessam as comissões de serviço relativas aos cargos de dirigentes que vinham sendo desempenhadas no IPL.
 
 2 - O disposto no número anterior reveste carácter de prevalência.
 
-###### Art. 33.º Consideram-se feitas ao IPLL todas as referências legais e contratuais ao IPL, agora extinto, assumindo aquele, em consequência, todos os direitos e obrigações do IPL.
+Art. 33.º Consideram-se feitas ao IPLL todas as referências legais e contratuais ao IPL, agora extinto, assumindo aquele, em consequência, todos os direitos e obrigações do IPL.
 
-###### Art. 34.º É extinto o IPL e revogada a respectiva legislação regulamentar.
+Art. 34.º É extinto o IPL e revogada a respectiva legislação regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 18 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 21 de Janeiro de 1987.**
+Promulgado em 21 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Janeiro de 1987.**
+Referendado em 27 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se refere o artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03500/05280534.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03500/05280534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03500/05280534.pdf)
 
 ## ANEXO II — Conteúdo funcional a que se refere o n.º 3 do artigo 27.º
 

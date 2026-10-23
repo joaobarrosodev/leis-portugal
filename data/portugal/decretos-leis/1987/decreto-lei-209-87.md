@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1987-421474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42026187bcd6b3c99baa17ca748e371baf63845c196ec1c19fe8e81c39258230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 386a63b761ea4cbea2b2bed8a54cf02ddfa3b4e2db6855decee91f25adea3188
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Pensões
+- Quadro de Pessoal
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RENOVADO PELO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 199, DE 31/8/87.\0/87.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:615243:por
+  label: "Prorrogado até 31.12.1989, com efeitos a 01.01.1989, o prazo do regime de instalação do Centro Nacional de Pensões\
+    \ (CNP), estabelecido no art. 1º pelo DEC LEI.125/89.14.04.1989.MESS, DR.IS [87] de 14.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1989-615243
+  date: '1989-04-14'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390381:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:30Z'
   warnings: []
   errors: []
 ---
@@ -126,45 +168,45 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É prorrogado o regime de instalação do Centro Nacional de Pensões (CNP) até 31 de Dezembro de 1988.
+Artigo 1.º É prorrogado o regime de instalação do Centro Nacional de Pensões (CNP) até 31 de Dezembro de 1988.
 
-###### Art. 2.º É aprovado o quadro provisório constante do anexo a este diploma, que dele faz parte integrante.
+Art. 2.º É aprovado o quadro provisório constante do anexo a este diploma, que dele faz parte integrante.
 
-###### Art. 3.º - 1 - O preenchimento dos lugares do quadro referido no artigo anterior será feito, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República, por despacho ministerial, de entre o pessoal do CNP ou que nele preste serviço a qualquer título.
+Art. 3.º - 1 - O preenchimento dos lugares do quadro referido no artigo anterior será feito, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República, por despacho ministerial, de entre o pessoal do CNP ou que nele preste serviço a qualquer título.
 
 2 - Nos casos em que tenham ocorrido alterações de categoria após o início do regime de instalação, os provimentos podem fazer-se nas actuais categorias, desde que tenha sido observado o requisito das habilitações literárias legais.
 
-###### Art. 4.º - 1 - O provimento dos lugares do quadro aprovado por este diploma far-se-á a título definitivo e de acordo com as normas em vigor na função pública.
+Art. 4.º - 1 - O provimento dos lugares do quadro aprovado por este diploma far-se-á a título definitivo e de acordo com as normas em vigor na função pública.
 
 2 - Ao provimento dos lugares de chefe de repartição, chefe de secção e encarregado de serviços gráficos, bem como ao das categorias das carreiras de microfilmagem, será aplicado, respectivamente, o disposto nos artigos 25.º, 26.º, 27.º, 28.º e 29.º do [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março.
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 29 de Abril de 1987.**
+Promulgado em 29 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Maio de 1987.**
+Referendado em 6 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro provisório do Centro Nacional de Pensões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
 
 Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
 
 Pessoal afecto ao Instituto de Gestão Financeira da Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
 
 Pessoal afecto Instituto de Gestão Financeira da Segurança Social abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
 
 Conteúdo funcional da categoria de desenhador de construção civil
 

@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1987-421455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6cb1fca589f136607267673c040ef3a14a729842430cf59a1fb09f3a8bab1a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66d1e815dc1002dc879a0e43b3708f87674a1d1589f17f2cff72c30201deae27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Pensões
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensões
 relationships:
 - type: amended_by
   target: pt:dre:639485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639485:por
+  label: "Alterado o artigo 13.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, na redacção dada pelo presente diploma, pelo\
+    \ DEC LEI.183/91.17.05.1991.MF, DR.IS-A [113] de 17.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1991-639485
+  date: '1991-05-17'
+- type: cites
+  target: pt:dre:311049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:25Z'
   warnings: []
   errors: []
 ---
@@ -105,24 +147,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados os Decretos-Leis n.os [410/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1974-474770) e [607/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/607-1974-472324), respectivamente de 5 de Setembro e 12 de Novembro.
+Artigo 1.º São revogados os Decretos-Leis n.os [410/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1974-474770) e [607/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/607-1974-472324), respectivamente de 5 de Setembro e 12 de Novembro.
 
-###### Art. 2.º O n.º 1 do artigo 13.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, alterado pelo [Decreto-Lei n.º 93/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1983-311049), de 17 de Fevereiro, passa a ter a seguinte redacção:
+Art. 2.º O n.º 1 do artigo 13.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, alterado pelo [Decreto-Lei n.º 93/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1983-311049), de 17 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 13.º — Acumulação de pensões e vencimentos
 
 1 - Os beneficiários das pensões de reforma extraordinária ou de invalidez concedidas nos termos deste diploma não são abrangidos pelo disposto nos artigos 67.º, 78.º e 79.º e na alínea b) do n.º 1 do artigo 82.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e nos artigos 23.º e 24.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, podendo, quando exercerem funções remuneradas, excepto ao serviço das Forças Armadas, acumular a totalidade daquelas pensões com a totalidade das remunerações dos cargos em que foram providos ou com as pensões cujo direito adquiriram pelo exercício do cargo em que foram providos.
 
-###### Art. 3.º É revogado o n.º 3 do artigo 13.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 93/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1983-311049), de 17 de Fevereiro.
+Art. 3.º É revogado o n.º 3 do artigo 13.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 93/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1983-311049), de 17 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Joaquim Maria Fernandes Marques.
 
-**Promulgado em 29 de Abril de 1987.**
+Promulgado em 29 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1987.**
+Referendado em 6 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

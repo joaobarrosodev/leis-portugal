@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12100/22322241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,148 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc576bccb800ead20ec512aa327d637be5f52c8860f2a7f7b961fd6643db68b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d309eb25a613399df10c36095fc7871e12f3dbd76abe672c61a901c1eae5061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Definição de Competências
+- Gratificação
+- Inspecção Geral de Jogos
+- Orgânica
+- Pessoal de Inspecção
+- Quadro de Pessoal
+- Regime de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:520987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611555:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal fixado pelo presente diploma pelo DEC LEI.159/89.12.05.1989.MCT,
+    DR.IS [109] de 12.05.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1989-611555
+  date: '1989-05-12'
+- type: amended_by
+  target: pt:dre:575136:por
+  label: "Alterados os arts. 11º, 18º e 35º pelo DEC LEI.191/90.08.06.1990.MCT, DR.IS [132] de 08.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1990-575136
+  date: '1990-06-08'
+- type: amended_by
+  target: pt:dre:572658:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.578/90.21.07.1990.MF, DR.IS [167] de 21.07.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-1990-572658
+  date: '1990-07-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 434/91 DE 27-MAI DR.IS-B [121]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-27'
+- type: amended_by
+  target: pt:dre:631251:por
+  label: Alterado o quadro de pessoal da Inspecção-Geral de Jogos, a que se refere o n.º 1 do art. 19.º do presente diploma,
+    pelo(a) Portaria n.º 434/91 - Diário da República n.º 121/1991, Série I-B de 1991-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/434-1991-631251
+  date: '1991-05-27'
+- type: amended_by
+  target: pt:dre:678993:por
+  label: Substituído o quadro de pessoal da Inspecção-Geral de Jogos, a que se refere o n.º 1 do art. 19.º, pelo(a) Portaria
+    n.º 1290/95 - Diário da República n.º 252/1995, Série I-B de 1995-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1290-1995-678993
+  date: '1995-10-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:301238:por
+  label: "Alterado o art. 35º pelo DEC LEI.124/2000.2000.07.05.ME,DR.IS-A [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2000-301238
+  date: '2000-07-05'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Turismo da Inspecção-Geral de Jogos (integrada no agora extinto Ministério\
+    \ da Economia), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrada no Ministério do Turismo a Inspecção-Geral de Jogos cuja orgânica foi aprovada pelo presente diploma e\
+    \ alterada pelo Dec Lei 124/2000 de 05-Jul, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
+- type: cites
+  target: pt:dre:146763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520987:por
+  label: "Revogado, a partir de 01.05.2007, e determinado que o Turismo de Portugal, I. P., suceda nos termos do n.º 1 do\
+    \ artigo 24.º, nas atribuições da Inspecção-Geral de Jogos, cuja orgânica foi aprovada pelo presente diploma, pelo DEC\
+    \ LEI.141/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2007-520987
+  date: '2007-04-27'
 article_structure:
-  article_count: 39
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 40
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:17Z'
   warnings: []
   errors: []
 ---
@@ -348,7 +456,9 @@ f) Organizar os ficheiros de legislação, ordens de serviço e instruções de 
 
 g) Executar os trabalhos de reprografia.
 
-###### Artigo 16.º — Secção de Contabilidade, Economato e Património
+###### Artigo 16.º
+
+#### Secção de Contabilidade, Economato e Património
 
 Constituem atribuições da RA, através da SCEP:
 
@@ -366,7 +476,9 @@ f) Gerir o parque de viaturas;
 
 g) Elaborar as propostas relativas à aquisição de material que se mostre necessário.
 
-###### Artigo 17.º — Secção de Conferência das Receitas dos Jogos e Estatística
+###### Artigo 17.º
+
+#### Secção de Conferência das Receitas dos Jogos e Estatística
 
 Constituem atribuições da RA, através da SCRJE:
 
@@ -384,7 +496,9 @@ A distribuição de tarefas, bem como a afectação do pessoal pelos diversos se
 
 ### CAPÍTULO III — Do pessoal
 
-#### SECÇÃO I — Artigo 19.º
+#### SECÇÃO I
+
+###### Artigo 19.º
 
 Quadro e competências do pessoal
 
@@ -596,16 +710,16 @@ São revogados o artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepubl
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Abril de 1988.**
+Promulgado em 26 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Maio de 1988.**
+Referendado em 11 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal da IGJ, anexo ao Decreto-Lei n.º 184/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12100/22322241.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12100/22322241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12100/22322241.pdf)

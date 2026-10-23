@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06300/10591060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1987-662138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ade56e94a12b34419c9e105acebefa47787ad59bafa988b2057f7b86dfe3fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64d73004bae7ce91a0a436619fa22a02c0f3af147a31dcfa499fda39f25fb283
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Equipamentos Educativos
+- Gabinete da Área de Sines
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:218293:por
+  label: Rectificado pela DECL.DD3041.1987.05.13.PCM, DR.IS [124]-2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218293
+  date: '1987-05-13'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:19Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +110,7 @@ Constatando-se ainda que interessa transferir para o Estado, visando a sua afect
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É transferida para o Estado, ficando sob gestão e administração da Direcção-Geral dos Equipamentos Educativos, a propriedade dos seguintes bens imóveis, livres de quaisquer ónus ou encargos:
+Artigo 1.º É transferida para o Estado, ficando sob gestão e administração da Direcção-Geral dos Equipamentos Educativos, a propriedade dos seguintes bens imóveis, livres de quaisquer ónus ou encargos:
 
 a) Lote de terreno com a área de 10565 m2, situado no Centro Urbano de Santo André, freguesia de Santo André, concelho de Santiago do Cacém, a confrontar por todos os lados com terrenos do domínio privado do Gabinete da Área de Sines (GAS), constituído por 1391 m2 do prédio inscrito na matriz cadastral rústica sob o artigo 1 da secção H, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 2381, a fl. 8 v.º do livro B-12, e 9174 m2 do prédio inscrito na matriz cadastral rústica sob o artigo 2 da secção G, descrito sob o n.º 1107, a fl. 10 v.º do livro B-9, com o valor de 36654$00;
 
@@ -113,16 +126,16 @@ f) Prédio urbano situado na Senhora do Monte, da vila, freguesia e concelho de 
 
 g) Parte construída de um imóvel destinado à instalação da Escola Secundária de Santo André, implantado no termo descrito na alínea d).
 
-###### Art. 2.º O disposto no artigo 1.º constituí título bastante da transferência para todos os efeitos legais, incluindo o de registo.
+Art. 2.º O disposto no artigo 1.º constituí título bastante da transferência para todos os efeitos legais, incluindo o de registo.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

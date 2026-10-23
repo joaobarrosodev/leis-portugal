@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/17500/30143015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1987-417183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e6f323b47cfa3920302f20f8e9d9961babe52a67a6678219689175cd6bb106e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae37cb1ec690fe6b1a5801142918febd01afced9a4bfeb03c3b76af076e7925
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Extinção de Serviços
+- Instituto de Gestão e Estruturação Fundiária
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:59Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +136,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Instituto de Gestão e Estruturação Fundiária, criado pelo artigo 42.º, em conjugação com a alínea f) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, adiante designado por IGEF, é extinto e entra em liquidação, nos termos deste diploma.
+Artigo 1.º - 1 - O Instituto de Gestão e Estruturação Fundiária, criado pelo artigo 42.º, em conjugação com a alínea f) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, adiante designado por IGEF, é extinto e entra em liquidação, nos termos deste diploma.
 
 2 - A extinção é progressiva e sem ruptura de funcionamento.
 
 3 - O IGEF mantém a sua personalidade jurídica e autonomia administrativa e financeira até à aprovação, por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, da conta final a apresentar pela comissão liquidatária.
 
-###### Art. 2.º - 1 - Por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, será nomeada uma comissão liquidatária, composta por um presidente e dois vogais, à qual competirá:
+Art. 2.º - 1 - Por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, será nomeada uma comissão liquidatária, composta por um presidente e dois vogais, à qual competirá:
 
 a) Assegurar a gestão corrente do IGEF;
 
@@ -118,9 +158,9 @@ d) Desempenhar outras competências que lhe sejam cometidas naquele despacho.
 
 4 - O saldo da conta final de liquidação é transferido para a Direcção-Geral do Tesouro (DGT).
 
-###### Art. 3.º As atribuições e competências do IGEF, bem como os direitos, nomeadamente os inerentes à cobrança de receitas, são transferidas por despacho normativo dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da tutela para os serviços ou organismos para que se opere essa transferência.
+Art. 3.º As atribuições e competências do IGEF, bem como os direitos, nomeadamente os inerentes à cobrança de receitas, são transferidas por despacho normativo dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da tutela para os serviços ou organismos para que se opere essa transferência.
 
-###### Art. 4.º - 1 - Transitam para o IFADAP:
+Art. 4.º - 1 - Transitam para o IFADAP:
 
 a) A gestão do património do Fundo de Melhoramentos Agrícolas (FMA), incluindo todos os seus direitos e obrigações, bem como os seus saldos de exploração anual e final;
 
@@ -128,11 +168,11 @@ b) A titularidade das garantias dos empréstimos que constituam a carteira de op
 
 2 - É conferida ao IFADAP legitimidade e capacidade judiciária para a cobrança das dívidas ao FMA, através de processo de execução fiscal.
 
-###### Art. 5.º- 1 - A dívida do FMA à DGT, consolidada por despacho do Secretário de Estado do Tesouro de 26 de Julho de 1979, será amortizada gradualmente, mediante a inscrição no Orçamento do Estado das dotações adequadas, que serão compensadas, pelo lado das receitas, por transferências do IFADAP correspondentes ao produto resultante do disposto no artigo anterior.
+Art. 5.º- 1 - A dívida do FMA à DGT, consolidada por despacho do Secretário de Estado do Tesouro de 26 de Julho de 1979, será amortizada gradualmente, mediante a inscrição no Orçamento do Estado das dotações adequadas, que serão compensadas, pelo lado das receitas, por transferências do IFADAP correspondentes ao produto resultante do disposto no artigo anterior.
 
 2 - Os avales e a responsabilidade pelo montante resultante do diferencial das taxas de juro respeitantes às operações transferidas para a Caixa Geral de Depósitos ao abrigo da resolução do Conselho de Ministros de 26 de Maio de 1976 são transferidos para a DGT.
 
-###### Art. 6.º - 1 - O património privativo do IGEF que não seja objecto de afectação específica é integrado no domínio privado do Estado, mediante auto a lavrar na Direcção-Geral do Património do Estado, em que se especifiquem os referidos bens, sendo a sua gestão cometida aos serviços e organismos que os Ministros das Finanças e da Agricultura, Pescas e Alimentação, por despacho, vierem a determinar.
+Art. 6.º - 1 - O património privativo do IGEF que não seja objecto de afectação específica é integrado no domínio privado do Estado, mediante auto a lavrar na Direcção-Geral do Património do Estado, em que se especifiquem os referidos bens, sendo a sua gestão cometida aos serviços e organismos que os Ministros das Finanças e da Agricultura, Pescas e Alimentação, por despacho, vierem a determinar.
 
 2 - O referido auto será título suficiente para efeitos do registo de imóveis a favor do Estado.
 
@@ -144,11 +184,11 @@ a) Gerir o património referido no número anterior;
 
 b) Propor, no prazo de 180 dias, as soluções legais adequadas à resolução definitiva dos problemas resultantes do regime jurídico específico por que se rege aquele património.
 
-###### Art. 7.º A gestão dos imóveis e os direitos e obrigações, contratuais ou não, de que é titular o IGEF e que não sejam objecto de afectação específica nos termos do presente diploma são transferidos para a Secretaria-Geral do Ministério da Agricultura, Pescas e Alimentação.
+Art. 7.º A gestão dos imóveis e os direitos e obrigações, contratuais ou não, de que é titular o IGEF e que não sejam objecto de afectação específica nos termos do presente diploma são transferidos para a Secretaria-Geral do Ministério da Agricultura, Pescas e Alimentação.
 
-###### Art. 8.º É fixado em 60 dias, a partir da entrada em vigor do presente diploma, sob pena de caducidade, o prazo em que os credores do IGEF, por fornecimento de bens ou prestação de serviços, poderão reclamar os seus créditos junto da comissão liquidatária.
+Art. 8.º É fixado em 60 dias, a partir da entrada em vigor do presente diploma, sob pena de caducidade, o prazo em que os credores do IGEF, por fornecimento de bens ou prestação de serviços, poderão reclamar os seus créditos junto da comissão liquidatária.
 
-###### Art. 9.º - 1 - Os lugares do quadro de pessoal do IGEF são extintos por despacho do Ministro da Agricultura, Pescas e Alimentação ou automaticamente, quando se verifique a transferência dos respectivos titulares.
+Art. 9.º - 1 - Os lugares do quadro de pessoal do IGEF são extintos por despacho do Ministro da Agricultura, Pescas e Alimentação ou automaticamente, quando se verifique a transferência dos respectivos titulares.
 
 2 - Os funcionários que se encontrem afectos aos serviços do IGEF cujas atribuições e competências sejam transferidas, nos termos do artigo 3.º, para outros serviços ou organismos e que se mostrem indispensáveis à prossecução das mesmas serão nestes integrados com a mesma categoria ou equivalente, mediante listas nominativas a aprovar por despacho dos Ministros da Agricultura, Pescas e Alimentação e da tutela, com observância do disposto no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
@@ -156,20 +196,20 @@ b) Propor, no prazo de 180 dias, as soluções legais adequadas à resolução d
 
 4 - Quando se mostre necessário, os quadros dos serviços ou organismos da Administração Pública a que se refere o n.º 2 podem ser alargados por portaria dos Ministros das Finanças e da Agricultura, Pescas e Alimentação ou da tutela.
 
-###### Art. 10.º Enquanto não forem efectuadas as competentes alterações orçamentais, os encargos resultantes da execução do presente diploma serão suportados, no corrente ano, pelo orçamento privativo do IGEF.
+Art. 10.º Enquanto não forem efectuadas as competentes alterações orçamentais, os encargos resultantes da execução do presente diploma serão suportados, no corrente ano, pelo orçamento privativo do IGEF.
 
-###### Art. 11.º A comissão liquidatária nomeada por resolução do Conselho de Ministros de 2 de Outubro de 1986 mantém-se em funções até à posse da comissão a que se refere o artigo 2.º do presente diploma.
+Art. 11.º A comissão liquidatária nomeada por resolução do Conselho de Ministros de 2 de Outubro de 1986 mantém-se em funções até à posse da comissão a que se refere o artigo 2.º do presente diploma.
 
-###### Art. 12.º É revogado o n.º 3 do artigo 20.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro.
+Art. 12.º É revogado o n.º 3 do artigo 20.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1987.**
+Referendado em 23 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

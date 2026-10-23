@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1987-666332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d26764297c3989342fcab0d923ef25120d40c12e23c76797e5e7b3e26cc89a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75fb0e091cd51fa2fc5a9e8834a3ab5ee5a60f9488b8b3dde95b21d0a47a5b7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+relationships:
+- type: cites
+  target: pt:dre:401315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654545:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:50Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +111,7 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 69.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - É mantido, relativamente aos rendimentos colectáveis respeitantes ao ano de 1986, o imposto extraordinário criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro, e regulamentado pelo [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho.
+Artigo único. - 1 - É mantido, relativamente aos rendimentos colectáveis respeitantes ao ano de 1986, o imposto extraordinário criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro, e regulamentado pelo [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho.
 
 2 - O imposto reger-se-á pelas disposições do artigo 33.º daquele decreto-lei, devendo considerar-se:
 
@@ -112,12 +129,12 @@ c) Alterados para 1986, 1987 e 1991, respectivamente, os anos de 1983, 1984 e 19
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/07700/13321333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1988-286350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8174c78234b8391d000187f7f6bbc28687d227f03df16b78a1cac95fa63409c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e39a8e54c179e4d2d8eb6c51b029a53438e3bdc826c1f91161e2eb1678dc9fe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Financeira do Estado
+- Classificação Económica das Despesas Públicas
+- Contabilidade Pública
+- Despesas Públicas
+- Política Orçamental
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284358:por
+  label: "Repristinado para efeitos da elabora&#231;&#227;o e execu&#231;&#227;o dos or&#231;amentos do Estado para os anos\
+    \ 2001 e 2002, pelo DEC LEI.26/2002.2002.02.14.MF, DR.IS-A [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2002-284358
+  date: '2002-02-14'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348532:por
+  label: Rectificado o mapa anexo pela DECL.DD2643.1988.05.10.PCM,DR.IS [108]Supl de 10/Mai/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-348532
+  date: '1988-05-10'
+- type: repealed_by
+  target: pt:dre:661766:por
+  label: "Revogado pelo DEC LEI.562/99.1999.12.21.MF DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/562-1999-661766
+  date: '1999-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:07Z'
   warnings: []
   errors: []
 ---
@@ -102,26 +141,26 @@ Considerando o disposto no n.º 3 do artigo 8.º da [Lei n.º 40/83](https://dia
 
 No uso da autorização conferida pelo artigo 14.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os códigos e rubricas de classificação económica das despesas públicas são os que constam do mapa anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º Os códigos e rubricas de classificação económica das despesas públicas são os que constam do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º Os códigos e rubricas da classificação económica a que se refere o artigo anterior aplicam-se ao Orçamento do Estado e aos orçamentos privativos dos fundos e serviços autónomos da administração central.
+Art. 2.º Os códigos e rubricas da classificação económica a que se refere o artigo anterior aplicam-se ao Orçamento do Estado e aos orçamentos privativos dos fundos e serviços autónomos da administração central.
 
-###### Art. 3.º Os códigos e rubricas de classificação económica das despesas públicas constantes do mapa anexo ao presente diploma apenas serão tidos em conta a partir da elaboração do Orçamento do Estado para o ano de 1989.
+Art. 3.º Os códigos e rubricas de classificação económica das despesas públicas constantes do mapa anexo ao presente diploma apenas serão tidos em conta a partir da elaboração do Orçamento do Estado para o ano de 1989.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 14 de Março de 1988.**
+Promulgado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo
 
 Classificação económica das despesas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/07700/13321333.pdf))](https://files.diariodarepublica.pt/1s/1988/04/07700/13321333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/07700/13321333.pdf)

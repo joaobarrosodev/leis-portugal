@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09300/15401545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1988-285293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64c877df74e0c4489df374c30802e3fc243275bfbbf15f73b34bec8c1bdac7ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb83cf33bdf170953d0aebfc037caf99b63ba7523ce61a8ee929e9d2a0c9f9b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Integração de Trabalhadores
+- Ministério do Comércio e Turismo
+- Orgânica
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:199846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612423:por
+  label: Alterado, no referente às carreiras de inspecção do grupo de pessoal técnico superior, o quadro de pessoal da Secretaria-Geral
+    do Ministério do Comércio e Turismo pelo DEC LEI.62/89.23.02.1989.MCT, DR.IS [45] de 23.02.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1989-612423
+  date: '1989-02-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 167/91 DR.IS-B [50]/
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 1160/91 DR.IS-B [259]9
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-11-11'
+- type: amended_by
+  target: pt:dre:331407:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.1160/91.11.11.1991.MF, DR.IS-B\
+    \ [259] de 11.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-1991-331407
+  date: '1991-11-11'
+- type: amended_by
+  target: pt:dre:158473:por
+  label: ALTERADO PELA PORT 96/92 DR.IS-B [41]5
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1992-158473
+  date: '1992-02-18'
+- type: amended_by
+  target: pt:dre:390019:por
+  label: AUMENTADO NO QUADRO DE PESSOAL ANEXO, UM LUGAR DA CARREIRA ADMINISTRATIVA, PELA PORT 664/93 DE 14-JUL DR.IS-B [163]D
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1993-390019
+  date: '1993-07-14'
+- type: amended_by
+  target: pt:dre:670711:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 326/93 DE 08-SET DR.IS-B [239]T
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/326-1993-670711
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Determinada a fusão, por integração no ora criado Ministério da Economia, com a sua congénere do Ministério da Indústria\
+    \ e Energia, da Secretaria-Geral do Ministério do Comércio e Turismo, regulamentada no presente diploma, pelo DEC LEI.296-A/95.17.11.1995.PCM,\
+    \ DR.IS-A [266-Supl] de 17.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:178299:por
+  label: "Alterado o quadro de pessoal pela PORT.630/96.1996.11.06.PCM, DR.IS-B [257]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-1996-178299
+  date: '1996-11-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 630/96 DE 06-NOV DR.IS-B [257]T\0 DR.IS-B [257]T"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-11-06'
+- type: amended_by
+  target: pt:dre:199846:por
+  label: "Extinta a Secretaria-Geral do MCT pelo DEC LEI.222/96.25.11.1996.MECO, DR.IS-A [273] de 25.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1996-199846
+  date: '1996-11-25'
+- type: amended_by
+  target: pt:dre:3619124:por
+  label: "Alterado o quadro de pessoal pela PORT.622/97(2ªSÉRIE).1997.08.05.PCM, MF E MECO DR.IIS [197] DE 27/AGO/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/622-1997-3619124
+  date: '1997-08-05'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:28Z'
   warnings: []
   errors: []
 ---
@@ -420,16 +514,16 @@ c) Os funcionários providos à data da entrada em vigor do presente diploma em 
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 30 de Março de 1988.**
+Promulgado em 30 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1988.**
+Referendado em 5 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva
 
 Mapa a que se refere o artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09300/15401545.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09300/15401545.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09300/15401545.pdf)

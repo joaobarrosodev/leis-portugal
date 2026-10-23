@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11100/20132014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1988-374841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e47c6e4469f5e6079ea56c7fca354b5ddea5074098758b403a9308e019d022ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4c4c8b3694740499ba9a838fdbdca45e53973072477e91bebf3cc2edddb1b9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Desalfândegamento
+- Direcção Geral das Alfândegas
+- Direito Comercial
+- Fabrico Industrial
+- Fraude
+- Instituto Nacional da Propriedade Industrial
+- Marca Registada
+- Mercadoria
+- Propriedade Industrial
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:180470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:180470:por
+  label: "Revogado pelo DEC LEI.20/99.1999.01.28.MF DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1999-180470
+  date: '1999-01-28'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:53Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +117,19 @@ Considerando ainda a necessidade de acautelar a responsabilidade dos serviços a
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para a aplicação do artigo 3.º do Regulamento (CEE) n.º [3842/86](https://data.europa.eu/eli/reg/1986/3842/oj?locale=pt) do Conselho, de 1 de Dezembro, compete à Direcção-Geral das Alfândegas receber e deliberar sobre o pedido apresentado pelo titular de uma marca de fabrico ou de comércio, no sentido de as autoridades aduaneiras suspenderem o desalfandegamento de mercadorias em contrafacção declaradas para a colocação em livre prática, quando o referido titular tiver razões fundadas para suspeitar de que está prevista a importação de tais mercadorias.
+Artigo 1.º - 1 - Para a aplicação do artigo 3.º do Regulamento (CEE) n.º [3842/86](https://data.europa.eu/eli/reg/1986/3842/oj?locale=pt) do Conselho, de 1 de Dezembro, compete à Direcção-Geral das Alfândegas receber e deliberar sobre o pedido apresentado pelo titular de uma marca de fabrico ou de comércio, no sentido de as autoridades aduaneiras suspenderem o desalfandegamento de mercadorias em contrafacção declaradas para a colocação em livre prática, quando o referido titular tiver razões fundadas para suspeitar de que está prevista a importação de tais mercadorias.
 
 2 - O Instituto Nacional da Propriedade Industrial prestará todo o apoio técnico relativo à propriedade industrial, sempre que o mesmo seja solicitado pela Direcção-Geral das Alfândegas.
 
-###### Art. 2.º A Direcção-Geral das Alfândegas pode exigir ao titular da marca, aquando da admissão do seu pedido, a constituição de uma garantia destinada a cobrir a responsabilidade deste último face ao importador, no caso de a suspensão do desalfandegamento não ter prosseguido devido a acto ou a omissão do titular da marca ou no caso de ser posteriormente estabelecido pela autoridade judicial que as mercadorias em causa não são mercadorias em contrafacção.
+Art. 2.º A Direcção-Geral das Alfândegas pode exigir ao titular da marca, aquando da admissão do seu pedido, a constituição de uma garantia destinada a cobrir a responsabilidade deste último face ao importador, no caso de a suspensão do desalfandegamento não ter prosseguido devido a acto ou a omissão do titular da marca ou no caso de ser posteriormente estabelecido pela autoridade judicial que as mercadorias em causa não são mercadorias em contrafacção.
 
-###### Art. 3.º A Direcção-Geral das Alfândegas pode igualmente exigir que o requerente suporte os encargos resultantes da suspensão do desalfandegamento das mercadorias ou decorrentes da instauração de uma acção judicial na qual o titular da marca não seja parte e que constitua uma garantia tendo em vista assegurar o pagamento desses encargos.
+Art. 3.º A Direcção-Geral das Alfândegas pode igualmente exigir que o requerente suporte os encargos resultantes da suspensão do desalfandegamento das mercadorias ou decorrentes da instauração de uma acção judicial na qual o titular da marca não seja parte e que constitua uma garantia tendo em vista assegurar o pagamento desses encargos.
 
-###### Art. 4.º A aceitação de um pedido apresentado nos termos do artigo 1.º não confere ao titular da marca direito a indemnização se as mercadorias em contrafacção escaparem ao controle de um estância aduaneira.
+Art. 4.º A aceitação de um pedido apresentado nos termos do artigo 1.º não confere ao titular da marca direito a indemnização se as mercadorias em contrafacção escaparem ao controle de um estância aduaneira.
 
-###### Art. 5.º Qualquer estância aduaneira que proceda à suspensão da autorização da saída de mercadorias que correspondam à descrição contida no pedido do titular da marca pode proceder à extracção de amostras em conformidade com as disposições do Decreto-Lei n.º 507/85, de 31 de Dezembro.
+Art. 5.º Qualquer estância aduaneira que proceda à suspensão da autorização da saída de mercadorias que correspondam à descrição contida no pedido do titular da marca pode proceder à extracção de amostras em conformidade com as disposições do Decreto-Lei n.º 507/85, de 31 de Dezembro.
 
-###### Art. 6.º É aditado ao artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, na redacção dada pelo Decreto-Lei n.º 242/84, de 16 de Julho, um n.º VIII), com a seguinte redacção:
+Art. 6.º É aditado ao artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, na redacção dada pelo Decreto-Lei n.º 242/84, de 16 de Julho, um n.º VIII), com a seguinte redacção:
 
 ###### Artigo 6.º
 
@@ -129,16 +145,16 @@ Válido por um mês ... 5000$00
 
 Cada mês ou fracção, além do primeiro ... 3000$00
 
-###### Art. 7.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+Art. 7.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 29 de Abril de 1988.**
+Promulgado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1987-420612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2d6c6df145793fb1b545a8c95c717be051b4c793d1023332a9710debd69442e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d081d93a1958c5516f0c59bde3058f20c9affa192441f11bb93f2a75189f2437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Portos
+- Segurança Marítima
+- Sinalização de Segurança
+- Temporal
+relationships:
+- type: cites
+  target: pt:dre:301015:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:44Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São definidos os sinais de aviso de temporal, para uso nos portos portugueses, com o seguinte significado:
+Artigo 1.º - 1 - São definidos os sinais de aviso de temporal, para uso nos portos portugueses, com o seguinte significado:
 
 Sinal 1 - Vento de força 8 ou superior começando no quadrante noroeste (N. W.);
 
@@ -118,7 +126,7 @@ Sinal 9 - Observada ou prevista ondulação de sueste (S. E.) com 2 m ou superio
 
 4 - O sinal 9 só poderá ser utilizado na costa sul do Algarve.
 
-###### Art. 2.º Os sinais indicados no artigo anterior terão, para uso diurno, a seguinte constituição:
+Art. 2.º Os sinais indicados no artigo anterior terão, para uso diurno, a seguinte constituição:
 
 Sinal 1 - Um balão cónico com o vértice para cima;
 
@@ -138,7 +146,7 @@ Sinal 8 - Duas bandeiras na mesma linha vertical de cor preta;
 
 Sinal 9 - Um balão cilíndrico.
 
-###### Art. 3.º No período nocturno a constituição dos sinais será a seguinte:
+Art. 3.º No período nocturno a constituição dos sinais será a seguinte:
 
 Sinal 1 - Duas luzes na mesma linha vertical de cor vermelha;
 
@@ -154,7 +162,7 @@ Sinal 6 - Duas luzes na mesma linha vertical, sendo a superior de cor branca e a
 
 Sinal 9 - Uma luz verde.
 
-###### Art. 4.º - 1 - Os balões e a armação em cruz utilizados devem ser de cor preta e ter as seguintes dimensões:
+Art. 4.º - 1 - Os balões e a armação em cruz utilizados devem ser de cor preta e ter as seguintes dimensões:
 
 a) O balão esférico deve ter um diâmetro não inferior a 0,6 m; o balão cónico deve ter um diâmetro de base não inferior a 0,6 m e uma altura igual ao seu diâmetro;
 
@@ -164,28 +172,28 @@ b) O balão cilíndrico deve ter um diâmetro não inferior a 0,6 m e uma altura
 
 3 - A colocação dos balões deve ser de tal forma que o balão inferior deverá ficar a uma altura do solo igual ou superior a 4 m.
 
-###### Art. 5.º - 1 - As luzes utilizadas devem ter um alcance de 1 milha, não devendo a distância entre elas ser inferior a 1,5 m.
+Art. 5.º - 1 - As luzes utilizadas devem ter um alcance de 1 milha, não devendo a distância entre elas ser inferior a 1,5 m.
 
 2 - A distância da luz inferior ao solo deverá ser igual ou superior a 4 m.
 
-###### Art. 6.º Os mastros de sinais deverão ser colocados por forma que os sinais sejam visíveis em toda a extensão das barras e respectivas aproximações.
+Art. 6.º Os mastros de sinais deverão ser colocados por forma que os sinais sejam visíveis em toda a extensão das barras e respectivas aproximações.
 
-###### Art. 7.º As capitanias dos portos e suas dependências são responsáveis pela activação dos sinais de aviso de temporal.
+Art. 7.º As capitanias dos portos e suas dependências são responsáveis pela activação dos sinais de aviso de temporal.
 
-###### Art. 8.º Compete ao Instituto Nacional de Meteorologia e Geofísica fornecer às capitanias dos portos as informações necessárias para cumprimento do estabelecido no artigo anterior.
+Art. 8.º Compete ao Instituto Nacional de Meteorologia e Geofísica fornecer às capitanias dos portos as informações necessárias para cumprimento do estabelecido no artigo anterior.
 
-###### Art. 9.º Fica revogado o [Decreto n.º 17174](https://diariodarepublica.pt/dr/detalhe/decreto/17174-1929-301015), de 1 de Agosto de 1929.
+Art. 9.º Fica revogado o [Decreto n.º 17174](https://diariodarepublica.pt/dr/detalhe/decreto/17174-1929-301015), de 1 de Agosto de 1929.
 
-###### Art. 10.º O presente diploma entra em vigor três meses após a data da sua publicação.
+Art. 10.º O presente diploma entra em vigor três meses após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Julho de 1987.**
+Promulgado em 9 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1987.**
+Referendado em 15 de Julho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11600/21142115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b5c468d2553a4d8422d45900174323873b583392f8d12c00a93e1869b53cec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c738c8e14a928f2f4dea6b30931d7783b30672886365fd87566870177fa48776
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Moeda
 relationships:
 - type: amended_by
   target: pt:dre:635850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521595:por
+  label: "Aditado o art. 13º, pelo DEC LEI.138/98.1998.05.16.MF DR.IS-A [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1998-521595
+  date: '1998-05-16'
+- type: cites
+  target: pt:dre:400030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635850:por
+  label: "Revogado o presente diploma, com as alterações introduzidas pelo art. 6º do Dec Lei 138/98 de 16-Mai, pelo DEC LEI.246/2007.26.06.2007.MFAP,\
+    \ DR.IS [121] de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2007-635850
+  date: '2007-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:25:12Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +127,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Constitui atribuição da Imprensa Nacional-Casa da Moeda, E. P. (INCM), a comercialização, nos mercados nacional e internacional, das moedas metálicas correntes ou comemorativas, adiante designadas por espécimes numismáticos com curso legal, bem como a produção e comercialização de espécimes numismáticos sem curso legal.
+Artigo 1.º Constitui atribuição da Imprensa Nacional-Casa da Moeda, E. P. (INCM), a comercialização, nos mercados nacional e internacional, das moedas metálicas correntes ou comemorativas, adiante designadas por espécimes numismáticos com curso legal, bem como a produção e comercialização de espécimes numismáticos sem curso legal.
 
-###### Art. 2.º Considera-se comercialização a transacção de moedas por preço diferente do correspondente valor facial.
+Art. 2.º Considera-se comercialização a transacção de moedas por preço diferente do correspondente valor facial.
 
-###### Art. 3.º - 1 - Consideram-se como espécimes numismáticos com curso legal as moedas que apresentem as seguintes qualidades de manufactura:
+Art. 3.º - 1 - Consideram-se como espécimes numismáticos com curso legal as moedas que apresentem as seguintes qualidades de manufactura:
 
 a) Espécimes «flor de cunho» (FDC) - moedas de cunhagem especial, sobre discos metálicos escolhidos e com recurso a cunhos novos, seleccionados pela qualidade de acabamento superficial nas primeiras séries de cunhagem;
 
@@ -118,31 +147,31 @@ b) Espécimes pied-fort - espécimes de cunhagem especial, sobre discos metálic
 
 3 - A cunhagem especial das moedas resulta da qualidade e tipo das ligas metálicas utilizadas, do seu peso ou do seu acabamento superficial, sendo normalmente apresentadas devidamente protegidas em embalagem autenticada pela marca da INCM.
 
-###### Art. 4.º - 1 - Os diplomas que autorizem a emissão de moedas metálicas correntes ou comemorativas devem fixar a quantidade máxima de exemplares das mesmas que serão objecto de cunhagem especial e identificar a sua qualidade de manufactura.
+Art. 4.º - 1 - Os diplomas que autorizem a emissão de moedas metálicas correntes ou comemorativas devem fixar a quantidade máxima de exemplares das mesmas que serão objecto de cunhagem especial e identificar a sua qualidade de manufactura.
 
 2 - Os diplomas que autorizem a cunhagem de espécimes numismáticos com curso legal, embora com alteração da liga metálica base, devem fixar a quantidade máxima, a liga metálica e as respectivas características intrínsecas.
 
-###### Art. 5.º - 1 - A INCM deverá facultar o acesso directo dos coleccionadores interessados na aquisição de espécimes numismáticos, designadamente pelo processo da inscrição devidamente publicitada.
+Art. 5.º - 1 - A INCM deverá facultar o acesso directo dos coleccionadores interessados na aquisição de espécimes numismáticos, designadamente pelo processo da inscrição devidamente publicitada.
 
 2 - Para efeitos da comercilização referida nos artigos 1.º e 2.º, a INCM pode estabelecer contratos com empresas e entidades nacionais e estrangeiras que se dediquem à distribuição e revenda de moedas para coleccionadores.
 
 3 - No mercado nacional, a INCM pode utilizar os canais de acesso ao público constituídos pelas instituições bancárias ou empresas com capacidade adequada, mediante acordo.
 
-###### Art. 6.º A INCM pode comercializar, no mercado nacional, colecções de moedas e outros espécimes numismáticos estrangeiros, designadamente aqueles que forem cunhados na própria INCM, segundo acordo que, para o efeito, estabeleça com as competentes entidades estrangeiras.
+Art. 6.º A INCM pode comercializar, no mercado nacional, colecções de moedas e outros espécimes numismáticos estrangeiros, designadamente aqueles que forem cunhados na própria INCM, segundo acordo que, para o efeito, estabeleça com as competentes entidades estrangeiras.
 
-###### Art. 7.º - 1 - A exportação de moeda com curso legal ou outros espécimes numismáticos, com ou sem curso legal, designadamente aqueles que contêm ouro ou outros metais preciosos, carece de prévia autorização do Banco de Portugal, devendo a INCM fornecer, para o efeito, os montantes, características e condicionalismos essenciais da exportação que se propõe efectuar, especificando os exemplares em cuja liga entram metais preciosos.
+Art. 7.º - 1 - A exportação de moeda com curso legal ou outros espécimes numismáticos, com ou sem curso legal, designadamente aqueles que contêm ouro ou outros metais preciosos, carece de prévia autorização do Banco de Portugal, devendo a INCM fornecer, para o efeito, os montantes, características e condicionalismos essenciais da exportação que se propõe efectuar, especificando os exemplares em cuja liga entram metais preciosos.
 
 2 - A autorização prevista no número anterior será bastante para que se considerem preenchidos os condicionalismos legais da operação de exportação.
 
 3 - A efectiva exportação, parcial ou global, a efectuar conforme as exigências do mercado, de moedas ou outros espécimes numismáticos referidos neste diploma será comunicada pela INCM ao Banco de Portugal, para efeitos de registo das existências em ouro ou dos metais preciosos que aquele Banco indicar.
 
-###### Art. 8.º A INCM fixará os preços de venda de espécimes numismáticos, com ou sem curso legal, destinados à comercialização nos mercados nacional e internacional, bem como os preços de venda de moedas metálicas não embaladas destinadas aos mercados de exportação.
+Art. 8.º A INCM fixará os preços de venda de espécimes numismáticos, com ou sem curso legal, destinados à comercialização nos mercados nacional e internacional, bem como os preços de venda de moedas metálicas não embaladas destinadas aos mercados de exportação.
 
-###### Art. 9.º - 1 - Os espécimes numismáticos com curso legal destinados à comercialização são distribuídos pela INCM à medida das necessidades comerciais dos mercados a que se destinam, devendo o correspondente valor facial dar entrada no Banco de Portugal, como caixa geral do Tesouro, mediante emissão pela Direcção-Geral do Tesouro de guias de operações de tesouraria sob a rubrica «Operações de amoedação».
+Art. 9.º - 1 - Os espécimes numismáticos com curso legal destinados à comercialização são distribuídos pela INCM à medida das necessidades comerciais dos mercados a que se destinam, devendo o correspondente valor facial dar entrada no Banco de Portugal, como caixa geral do Tesouro, mediante emissão pela Direcção-Geral do Tesouro de guias de operações de tesouraria sob a rubrica «Operações de amoedação».
 
 2 - As moedas metálicas não embaladas, correntes ou comemorativas, destinadas aos mercados de exportação serão adquiridas pela INCM ao Banco de Portugal pelo respectivo valor facial.
 
-###### Art. 10.º - 1 - Os custos totais de produção dos espécimes numismáticos sem curso legal, bem como dos espécimes numismáticos com curso legal em que haja alteração da liga metálica base, comercializados pela INCM, não serão incluídos na facturação desta ao Ministério das Finanças, constituindo encargo da INCM.
+Art. 10.º - 1 - Os custos totais de produção dos espécimes numismáticos sem curso legal, bem como dos espécimes numismáticos com curso legal em que haja alteração da liga metálica base, comercializados pela INCM, não serão incluídos na facturação desta ao Ministério das Finanças, constituindo encargo da INCM.
 
 2 - No caso de espécimes numismáticos com curso legal em que não haja alteração da liga metálica base, a INCM apenas facturará ao Ministério das Finanças os custos de produção, metal e custo de transformação, correspondentes ao fabrico das mesmas moedas em regime de cunhagem normal, aos preços acordados com a Direcção-Geral do Tesouro.
 
@@ -152,9 +181,9 @@ b) Espécimes pied-fort - espécimes de cunhagem especial, sobre discos metálic
 
 5 - O valor da percentagem referida no número anterior constitui receita do Estado e será entregue à Direcção-Geral do Tesouro, que, para o efeito, emitirá as correspondentes guias de operações de tesouraria sob a rubrica «Mais-valia de moedas comercializáveis».
 
-###### Art. 11.º Os resultados da comercialização de moedas metálicas e de espécimes numismáticos constituem receita própria da INCM, nos termos da alínea a) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 333/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1981-567461), de 7 de Dezembro.
+Art. 11.º Os resultados da comercialização de moedas metálicas e de espécimes numismáticos constituem receita própria da INCM, nos termos da alínea a) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 333/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1981-567461), de 7 de Dezembro.
 
-###### Art. 12.º À INCM, neste domínio, compete:
+Art. 12.º À INCM, neste domínio, compete:
 
 a) Planear a curto e médio prazo as emissões monetárias comemorativas, bem como propor as suas características técnicas, nos termos do capítulo III do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro;
 
@@ -162,16 +191,16 @@ b) Planear a emissão de espécimes numismáticos de moedas correntes e comemora
 
 c) Elaborar os elementos contabilísticos de controle destinados ao Ministério das Finanças.
 
-###### Art. 13.º São revogados os Decretos-Leis n.os [176/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1983-451037), de 3 de Maio, e [325/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1984-400030), de 9 de Outubro.
+Art. 13.º São revogados os Decretos-Leis n.os [176/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1983-451037), de 3 de Maio, e [325/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1984-400030), de 9 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 6 de Maio de 1988.**
+Promulgado em 6 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1988.**
+Referendado em 10 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

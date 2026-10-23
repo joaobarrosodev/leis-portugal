@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12200/21252127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1987-421661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07405ee8a6765c7ef6c5e60ae5cca86daeadba3402d354c1bc4db21cf501955f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 429aa0b31b4c9d144db2f7fcb313caf82bb3f7900bf15b02fa5e2652062c14c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão para a Segurança de Serviços e BENS de Consumo
+- Orgânica
+- Proteção do Consumidor
+- Saúde Pública
+- Segurança Pública
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "E TRANSFERIDA PARA O MINISTÉRIO DO AMBIENTE E RECURSOS NATURAIS A COMISSAO PARA A SEGURANÇA DE SERVIÇOS E BENS DE\
+    \ CONSUMO, PELO DECRETO LEI 187/93, PUBLICADO NO DR.IS-A, 120, DE 930524.\0DE 930524.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:574566:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:690177:por
+  label: "Revogado, salvo no que diz respeito ás prestações de serviço, pelo DEC LEI.311/95.1995.11.20.MARN, DR.IS-A [268],\
+    \ e extinta a Comissão para a Segurança dos Serviços e Bens de Consumo (referida nos art. 3º e seguintes) do mesmo diploma,\
+    \ mantendo-se contudo em funcionamento, com as competências previstas no presente diploma, até á constituição e entrada\
+    \ em funcionamento da comissão de segurança criada pelo citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1995-690177
+  date: '1995-11-20'
+- type: repealed_by
+  target: pt:dre:574566:por
+  label: "Revogado pelo DEC LEI.69/2005.17.03.2005.PCM, DR.IS-A [54] de 17.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2005-574566
+  date: '2005-03-17'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:36Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +194,7 @@ f) Apresentar, anualmente, ao Ministro do Plano e da Administração do Territó
 
 ###### Artigo 6.º — Participação em reuniões
 
-**O presidente da Comissão, quando julgar conveniente, poderá convidar a participar nas reuniões, a título de consultores técnicos e sem direito a voto, individualidades com especial competência nas matérias a tratar.**
+O presidente da Comissão, quando julgar conveniente, poderá convidar a participar nas reuniões, a título de consultores técnicos e sem direito a voto, individualidades com especial competência nas matérias a tratar.
 
 ###### Artigo 7.º — Apoio administrativo
 
@@ -209,12 +248,12 @@ O presente decreto-lei entrará em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 15 de Maio de 1987.**
+Promulgado em 15 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1987.**
+Referendado em 18 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

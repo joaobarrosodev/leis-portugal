@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07ba86f045399fac1f16580268c79d8ac7d06ceb9a656b3349b3b54fd10b504a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97ed396347ef0b7471d0752b41d8ac008897d1423b1e70671f5ee1c975180e80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- Aproximação das Legislações
+- Comissão de Alvarás de Empresas de Obras Públicas e Particulares
+- Construção Civil
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
+- Indústria da Construção
+- Licenciamento
+- Obras Particulares
+- Obras Públicas
+- Publicitação
+- Regime Jurídico
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:434784:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566065:por
+  label: "Suspenso até 31.12.1991 o disposto na al. b) do nº1 do art. 3º pelo DEC LEI.351/90.08.11.1990.MOPTC, DR.IS [258]\
+    \ de 08.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-1990-566065
+  date: '1990-11-08'
+- type: amended_by
+  target: pt:dre:190598:por
+  label: Alterado o art. 3º pelo DEC LEI.43/92.31.03.1992.MOPTC, DR.IS-A [76] de 31.03.1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1992-190598
+  date: '1992-03-31'
+- type: corrected_by
+  target: pt:dre:461043:por
+  label: Rectificado pela DECL.DD2616.1988.04.28.PCM,DR.IS [100]Supl de 30/Abr/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-461043
+  date: '1988-04-28'
+- type: repealed_by
+  target: pt:dre:152528:por
+  label: "Revogado pelo DEC LEI.61/99.1999.03.02.MEPAT, DR.IS-A [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1999-152528
+  date: '1999-03-02'
 article_structure:
   article_count: 65
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:56Z'
   warnings: []
   errors: []
 ---
@@ -1149,21 +1183,21 @@ s) A demais legislação que contrarie o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1988.**
+Referendado em 26 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Empreiteiros de obras públicas
 
 Quadro permanente mínimo - Qualificação mínima (Artigo 22.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
 
 1 - A direcção técnica das empresas titulares de alvará contendo exclusivamente autorizações de 1.ª categoria da classe 5 ou superior pode ser exercida indiferentemente por engenheiro civil ou arquitecto.
 
@@ -1181,7 +1215,7 @@ Quadro permanente mínimo - Qualificação mínima (Artigo 22.º)
 
 (Artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
 
 ## ANEXO III — Industriais da construção civil
 
@@ -1189,7 +1223,7 @@ Quadro permanente mínimo - Qualificação mínima
 
 (Artigo 36.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
 
 1 - A direcção técnica das empresas titulares de alvará com atorizações da classe 5 ou superior pode ser exercida indiferentemente por engenheiro civil ou arquitecto, com excepção das 15.ª, 17.ª e 18.ª subcategorias.
 
@@ -1201,7 +1235,7 @@ Quadro permanente mínimo - Qualificação mínima
 
 (Artigo 39.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
 
 ## ANEXO V
 
@@ -1213,10 +1247,10 @@ QUADRO I
 
 Empreiteiro de obras públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
 
 QUADRO II
 
 Industrial de construção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12351253.pdf)

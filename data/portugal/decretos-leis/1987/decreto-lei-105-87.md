@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05400/09490950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1987-662358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fda8d544cc18b4d6596b051d22f10668a836549c78c69ac48079c17ca3867c6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38b3c2e57a92085172b124e215ebb8963fe1f10a4d2a9ced364fc47667bf2dd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Regime de Precedências
+- Regime de Prescrição
 relationships:
 - type: amended_by
   target: pt:dre:219367:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580161:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219367:por
+  label: "Revogado pelo DEC LEI.170/96.1996.09.19.ME, DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1996-219367
+  date: '1996-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:53Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +183,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os estabelecimentos de ensino superior dependentes do Ministério da Educação e Cultura deverão, através dos seus órgãos próprios, designadamente os conselhos científicos e pedagógicos, proceder ao estudo:
+Artigo 1.º - 1 - Os estabelecimentos de ensino superior dependentes do Ministério da Educação e Cultura deverão, através dos seus órgãos próprios, designadamente os conselhos científicos e pedagógicos, proceder ao estudo:
 
 a) Do regime de prescrições a praticar relativamente ao direito à inscrição nos cursos neles ministrados;
 
@@ -151,24 +195,24 @@ c) Do efeito conjugado da aplicação dos regime referidos nas alíneas anterior
 
 3 - Na sequência dos estudos e propostas a que se referem os números anteriores, será estabelecida nova legislação sobre os regimes gerais de prescrições, precedências e transição de ano.
 
-###### Art. 2.º Independentemente do regime geral que venha a ser fixado, a tabela de precedências a aplicar num ano lectivo deverá:
+Art. 2.º Independentemente do regime geral que venha a ser fixado, a tabela de precedências a aplicar num ano lectivo deverá:
 
 a) Resultar de aprovação simultânea dos conselhos científico e pedagógico;
 
 b) Ser publicada na 2.ª série do Diário da República até 15 de Maio do ano lectivo anterior.
 
-###### Art. 3.º Mantém-se em vigor o regime estabelecido no [Decreto-Lei n.º 46481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46481-1965-292546), de 11 de Agosto de 1965.
+Art. 3.º Mantém-se em vigor o regime estabelecido no [Decreto-Lei n.º 46481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46481-1965-292546), de 11 de Agosto de 1965.
 
-###### Art. 4.º São expressamente revogados o n.º 1 do artigo 4.º, os artigos 5.º e 7.º do [Decreto-Lei n.º 213/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1986-218689), de 1 de Agosto, e o n.º 2 do artigo 2.º do [Decreto-Lei n.º 289/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1986-220127), de 8 de Setembro.
+Art. 4.º São expressamente revogados o n.º 1 do artigo 4.º, os artigos 5.º e 7.º do [Decreto-Lei n.º 213/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1986-218689), de 1 de Agosto, e o n.º 2 do artigo 2.º do [Decreto-Lei n.º 289/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1986-220127), de 8 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 5 de Fevereiro de 1987.**
+Promulgado em 5 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1987.**
+Referendado em 11 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

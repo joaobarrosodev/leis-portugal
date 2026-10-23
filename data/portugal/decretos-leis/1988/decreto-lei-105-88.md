@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1988-286319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65b49cab2a3d71de0db263e4658922a0bb20ffbde2bc3293eed2ae39928d66e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9a9182a7c79fb395d36bca411225e7a9fbca246f3ebeb43a1194951e89b8bff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Solos
+- Autarquia Local
+- Caixa Geral de Depósitos
+- Crédito Predial Português
+- Fundo de Apoio ao Investimento para a Habitação
+- Habitação
+- Montepio Geral
+relationships:
+- type: cites
+  target: pt:dre:531833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:02Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +106,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aditada ao n.º 3 do artigo 2.º do [Decreto-Lei n.º 6/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1984-531833), de 5 de Janeiro, uma alínea d), com a seguinte redacção:
+Artigo único. É aditada ao n.º 3 do artigo 2.º do [Decreto-Lei n.º 6/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1984-531833), de 5 de Janeiro, uma alínea d), com a seguinte redacção:
 
 3 - ...
 
@@ -109,12 +120,12 @@ d) À infra-estruturação de solos em áreas de construção clandestina recupe
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 14 de Março de 1988.**
+Promulgado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1988-285135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d93bd69f6e28e07eeb61ffd97131210dd470296062c526cad893a577d7e6416e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07d7199d1a9b1ab9c26edb3d17e75ab12765c8ddef1e4bf2a627f62c27c32ff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- Fundo de Pensões
+- Sociedade Gestora de Fundos de Pensões
+relationships:
+- type: cites
+  target: pt:dre:221483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:18Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +109,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - É o Banco de Portugal autorizado, em benefício do seu pessoal, a promover a constituição de uma sociedade gestora de um fundo de pensões e a nela participar como accionista fundador.
+Artigo único - 1 - É o Banco de Portugal autorizado, em benefício do seu pessoal, a promover a constituição de uma sociedade gestora de um fundo de pensões e a nela participar como accionista fundador.
 
 2 - A participação do Banco de Portugal no capital social da sociedade gestora deverá assegurar-lhe a maioria absoluta nas deliberações da respectiva assembleia geral.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 6 de Abril de 1988.**
+Promulgado em 6 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1988.**
+Referendado em 8 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

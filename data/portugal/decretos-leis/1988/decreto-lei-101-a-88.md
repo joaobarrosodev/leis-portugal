@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 72/1988, 1º Suplemento, Série I de 1988-03-26
   number: '72'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1286-(3) a 1286-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07201/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-1988-553465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14c731cf890a2a977d90c7024f8bbcc4a368081daf34e2570069df0baea8ee5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc31fdc6706bd4d5f4ba5369a911ad51a5572c50b50b911af97f68e45d2940c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Penal
 relationships:
 - type: amended_by
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566854:por
+  label: "Alterado o art. 132º do Código Penal aprovado pelo Dec Lei 400/82, de 23-Set, na redacção do presente diploma, revisto\
+    \ e republicado pelo Dec Lei 48/95, de 15-Mar, pela LEI.65/98.02.09.1998.AR, DR.IS-A [202] de 02.09.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1998-566854
+  date: '1998-09-02'
+- type: amended_by
+  target: pt:dre:568551:por
+  label: "Alterado o art. 386.º do Código Penal, aprovado pelo Dec Lei 400/82, de 23-Set, na redacção do presente diploma,\
+    \ pela LEI.108/2001.28.11.2001.AR, DR.IS-A [276] de 28.11.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/108-2001-568551
+  date: '2001-11-28'
+- type: amended_by
+  target: pt:dre:640142:por
+  label: "Alterados, a partir de 15.09.2007, os arts. 132.º, 144.º e 386.º, do Código Penal, aprovado pelo Dec Lei 400/82,\
+    \ de 23-Set, na redacção do presente diploma, pela LEI.59/2007.04.09.2007.AR, DR.IS [170] de 04.09.2007, que o republica\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2007-640142
+  date: '2007-09-04'
+- type: amended_by
+  target: pt:dre:344253:por
+  label: "Alterado, a partir de 01.03.2011, o art. 386.º do Código Penal , aprovado pelo Dec Lei 400/82, de 23-Set, na redacção\
+    \ do presente diploma, revisto e republicado pela Lei 59/2007, de 04-Set, pela LEI.32/2010.02.09.2010.AR, DR.IS [171]\
+    \ de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2010-344253
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:258498:por
+  label: "Alterado o art. 132.º, do Código Penal, aprovado pelo Dec Lei 400/82, de 23-set, na redação do presente diploma,\
+    \ pela LEI.19/2013.21.02.2013.AR, DR.IS [37] de 21.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2013-258498
+  date: '2013-02-21'
+- type: amended_by
+  target: pt:dre:56351550:por
+  label: Alterado o art. 132º do Código Penal aprovado pelo Dec Lei 400/82 de 23-set, na redação do presente diploma pelo(a)
+    Lei n.º 59/2014 - Diário da República n.º 163/2014, Série I de 2014-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2014-56351550
+  date: '2014-08-26'
+- type: amended_by
+  target: pt:dre:114913769:por
+  label: Alterado, a partir de 28.03.2018, o art. 132.º do Código Penal aprovado pelo presente diploma, na versão republicada
+    pela Lei 59/2007, de 04-set pelo(a) Lei n.º 16/2018 - Diário da República n.º 61/2018, Série I de 2018-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2018-114913769
+  date: '2018-03-27'
+- type: cites
+  target: pt:dre:631193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:185720:por
+  label: "Revogado pelo DEC LEI.48/95.1995.03.15.MJ, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1995-185720
+  date: '1995-03-15'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:57Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +168,7 @@ No uso da autorização conferida pela [Lei n.º 43/87](https://diariodarepublic
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. São alterados, pela forma abaixo indicada, os artigos 132.º, 144.º e 386.º do Código Penal:
+Artigo único. São alterados, pela forma abaixo indicada, os artigos 132.º, 144.º e 386.º do Código Penal:
 
 ###### Artigo 132.º — [...]
 
@@ -154,12 +208,12 @@ Se, no caso dos artigos 384.º e 385.º, a infracção for cometida com arma ou 
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 24 de Março de 1988.**
+Promulgado em 24 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1988.**
+Referendado em 25 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

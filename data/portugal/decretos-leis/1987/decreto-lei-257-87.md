@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1987-419630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c538d25184ba382f270960710c527c1d2912e4cc7a20d8acdcd834acc254422d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c15dd6492e5d2c6e3600eb40cabe8b9816fe91a66114665882cfee602c09e28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bebida Alcoólica
+- Comércio
+- Contra-ordenação
+- Controlo de Qualidade
+- Etiquetagem
+- TEOR Álcoolico
+relationships:
+- type: cites
+  target: pt:dre:178084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:17Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +134,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei define, estabelece as características e regula o acondicionamento e a rotulagem dos licores.
+Artigo 1.º O presente decreto-lei define, estabelece as características e regula o acondicionamento e a rotulagem dos licores.
 
-###### Art. 2.º Para efeitos do disposto no presente diploma, entende-se por «licor» a bebida espirituosa resultante da mistura de álcool etílico de origem agrícola e ou aguardente, água potável, açúcar e eventualmente outros géneros alimentícios, de sabor doce e aromatizada por maceração de substâncias vegetais ou pelo destilado das mesmas substâncias ou ainda por adição de aromatizantes.
+Art. 2.º Para efeitos do disposto no presente diploma, entende-se por «licor» a bebida espirituosa resultante da mistura de álcool etílico de origem agrícola e ou aguardente, água potável, açúcar e eventualmente outros géneros alimentícios, de sabor doce e aromatizada por maceração de substâncias vegetais ou pelo destilado das mesmas substâncias ou ainda por adição de aromatizantes.
 
-###### Art. 3.º No fabrico de licores, de harmonia com os princípios estabelecidos para aditivos alimentares na NP-1735, publicada pelo Instituto Português da Qualidade, nos termos do [Decreto-Lei n.º 165/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1983-311467), de 27 de Abril, são apenas permitidos os seguintes aditivos:
+Art. 3.º No fabrico de licores, de harmonia com os princípios estabelecidos para aditivos alimentares na NP-1735, publicada pelo Instituto Português da Qualidade, nos termos do [Decreto-Lei n.º 165/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1983-311467), de 27 de Abril, são apenas permitidos os seguintes aditivos:
 
 a) Aromatizantes naturais, seus equivalentes de síntese e aromatizantes artificiais, sem prejuízo do disposto no n.º 2 do artigo 7.º;
 
 b) Corantes orgânicos naturais e corantes orgânicos sintéticos, mencionados na NP-1735, bem como ouro em palhetas.
 
-###### Art. 4.º Os licores devem apresentar as seguintes características:
+Art. 4.º Os licores devem apresentar as seguintes características:
 
 a) Teor alcoólico, em volume, a 20ºC:
 
@@ -132,13 +166,13 @@ Nos outros licores - mín. 105 g/l;
 
 d) Ácido cianídrico - máx. 40 mg/l de álcool absoluto.
 
-###### Art. 5.º Para efeito de verificação das características dos licores, serão utilizados os respectivos métodos de análise estabelecidos em normas portuguesas, adoptando-se, na falta destas, os constantes da [Portaria n.º 985/82](https://diariodarepublica.pt/dr/detalhe/portaria/985-1982-376072), de 19 de Outubro, para análise de vinhos e aguardentes, quando aplicáveis.
+Art. 5.º Para efeito de verificação das características dos licores, serão utilizados os respectivos métodos de análise estabelecidos em normas portuguesas, adoptando-se, na falta destas, os constantes da [Portaria n.º 985/82](https://diariodarepublica.pt/dr/detalhe/portaria/985-1982-376072), de 19 de Outubro, para análise de vinhos e aguardentes, quando aplicáveis.
 
-###### Art. 6.º - 1 - Os licores só podem ser vendidos em recipientes de vidro ou outro material, inerte e impermeável em relação ao conteúdo e inócuo.
+Art. 6.º - 1 - Os licores só podem ser vendidos em recipientes de vidro ou outro material, inerte e impermeável em relação ao conteúdo e inócuo.
 
 2 - Não obstante o disposto no número anterior, os licores poderão ser vendidos avulso por motivos de interesses turístico ou segundo a tradição de determinadas regiões, espécies de licores e tipos de estabelecimentos, desde que previamente autorizado pelo Instituto de Qualidade Alimentar e pela AGA, que comunicarão à Direcção-Geral de Inspecção Económica.
 
-###### Art. 7.º - 1 - É aplicável à rotulagem dos licores o disposto nos Decretos-Leis n.os [89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, e [440/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1985-178084), de 24 de Outubro, a qual obedecerá também ao preceituado nos n.os 2, 3 e 4 deste artigo.
+Art. 7.º - 1 - É aplicável à rotulagem dos licores o disposto nos Decretos-Leis n.os [89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, e [440/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1985-178084), de 24 de Outubro, a qual obedecerá também ao preceituado nos n.os 2, 3 e 4 deste artigo.
 
 2 - A denominação de venda dos licores deverá ser uma das seguintes:
 
@@ -152,26 +186,26 @@ c) Em ambos os tipos de bebida referidos nas alíneas anteriores, à palavra «L
 
 4 - A indicação do teor alcoólico em volume a 20ºC é obrigatória, admitindo-se uma tolerância de 2% em volume a 20ºC, devendo constar no mesmo campo visual da denominação de venda e da quantidade líquida.
 
-###### Art. 8.º - 1 - A violação do disposto nos artigos 3.º, 4.º e 6.º constitui contra-ordenação punível nos termos do artigo 58.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, salvo se outra punição mais grave lhe couber.
+Art. 8.º - 1 - A violação do disposto nos artigos 3.º, 4.º e 6.º constitui contra-ordenação punível nos termos do artigo 58.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, salvo se outra punição mais grave lhe couber.
 
 2 - A violação do disposto no artigo 7.º constitui contra-ordenação punível nos termos da alínea c) do n.º 1 do artigo 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911).
 
-###### Art. 9.º Ficam revogados:
+Art. 9.º Ficam revogados:
 
 a) O [Decreto n.º 37/74](https://diariodarepublica.pt/dr/detalhe/decreto/37-1974-407374), de 8 de Fevereiro, no respeitante a licores;
 
 b) O [Decreto-Lei n.º 355/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1984-400591), de 30 de Outubro.
 
-###### Art. 10.º O presente diploma entra em vigor decorridos seis meses após a sua publicação.
+Art. 10.º O presente diploma entra em vigor decorridos seis meses após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1987. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 4 de Junho de 1987.**
+Promulgado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

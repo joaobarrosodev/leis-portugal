@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1987-662308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:18:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fce5b7fb33e4c1ab8d22f79e300d5881686e1e5a027302cd2dc1768a10a6bfe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c21aa6df31b93831230197bcaa1d2c38390b3017f2298cd57b541fe14496951
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio à Exportação
+- Exportação
+- ICEP
+- Incentivos à Exportação
+relationships:
+- type: cites
+  target: pt:dre:178104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:18:04Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Atenta a importância do vector exportação no desenvolvimento económico e, em
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As empresas exportadoras que se encontrem nas condições definidas no presente decreto-lei poderão beneficiar:
+Artigo 1.º - 1 - As empresas exportadoras que se encontrem nas condições definidas no presente decreto-lei poderão beneficiar:
 
 a) De termo de responsabilidade assumido pelo ICEP - Instituto do Comércio Externo de Portugal, substituto da fiança relativa à garantia dos direitos e demais imposições exigíveis para efeitos de desalfandegamento das mercadorias importadas ao abrigo dos regimes de importação temporária e aperfeiçoamento activo ou da descarga directa inerente a estes regimes;
 
@@ -98,7 +110,7 @@ b) De tratamento prioritário, por parte do ICEP, em matéria de assistência t�
 
 3 - É vedada a acumulação pela mesma empresa dos benefícios conferidos pelo presente diploma com outros do mesmo tipo concedidos pelo Estado a qualquer outro título.
 
-###### Art. 2.º - 1 - Os sectores elegíveis para efeitos do concessão destes benefícios são definidos por despacho do Ministro da Indústria e Comércio, tomando em consideração os seguintes factores:
+Art. 2.º - 1 - Os sectores elegíveis para efeitos do concessão destes benefícios são definidos por despacho do Ministro da Indústria e Comércio, tomando em consideração os seguintes factores:
 
 a) Valor acrescentado nacional;
 
@@ -110,7 +122,7 @@ d) Capacidade de resposta do sector à procura mundial.
 
 2 - Até à publicação do despacho ministerial referido no número anterior mantêm-se em vigor os sectores elegíveis para efeitos do [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104), de 23 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 127/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1986-226849), de 2 de Junho.
 
-###### Art. 3.º - 1 - Têm acesso aos benefícios referidos no artigo 1.º as empresas ou agrupamentos de empresas que exportem bens ou serviços referidos no artigo anterior, desde que possuam os seguintes requisitos:
+Art. 3.º - 1 - Têm acesso aos benefícios referidos no artigo 1.º as empresas ou agrupamentos de empresas que exportem bens ou serviços referidos no artigo anterior, desde que possuam os seguintes requisitos:
 
 a) Serem empresas que se dediquem à actividade produtora e exportadora que no ano anterior ao da concessão de benefícios tenham exportado, pelo menos, 40000 contos;
 
@@ -134,7 +146,7 @@ a) Não possuam as condições básicas de organização e gestão para o exerc�
 
 b) Sejam devedores ao Estado e à Segurança Social de quaisquer contribuições, impostos ou quotizações ou que o pagamento dos seus débitos não se encontre devidamente assegurado.
 
-###### Art. 4.º - 1 - As empresas interessadas na obtenção dos benefícios previstos no presente diploma apresentarão as suas propostas de candidatura ao ICEP, em formulário próprio fornecido por este Instituto.
+Art. 4.º - 1 - As empresas interessadas na obtenção dos benefícios previstos no presente diploma apresentarão as suas propostas de candidatura ao ICEP, em formulário próprio fornecido por este Instituto.
 
 2 - A organização e a análise dos processos de candidatura serão efectuadas pelo ICEP, que poderá solicitar elementos adicionais às empresas envolvidas e requerer às entidades competentes os pareceres necessários.
 
@@ -148,16 +160,16 @@ b) Sejam devedores ao Estado e à Segurança Social de quaisquer contribuições
 
 7 - O ICEP estabelecerá com os restantes departamentos competentes um esquema transitório para a não interrupção dos benefícios aduaneiros concedidos ao abrigo do [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104), de 23 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 127/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1986-226849), de 2 de Junho.
 
-###### Art. 5.º Os encargos resultantes da aplicação do presente diploma serão suportados por dotação a inscrever no orçamento do ICEP.
+Art. 5.º Os encargos resultantes da aplicação do presente diploma serão suportados por dotação a inscrever no orçamento do ICEP.
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Manuel Pêgo Todo-Bom.
 
-**Promulgado em 11 de Fevereiro de 1987.**
+Promulgado em 11 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1987.**
+Referendado em 18 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

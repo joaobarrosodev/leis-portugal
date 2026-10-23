@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/17900/30473051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1987-417052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b6dfb248c9b399407cb59494a3d71cae8bcaef3acf1d02ded4d5eeb9a433ff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6edc2669828f2fefe05a3fc943d6bb8f2cd27ec313c1b181d3f5b48abbc1f66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia das Lezírias
+- Empresa Pública
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498565:por
+  label: "Determinada a transferência, por delegação do Estado, dos fins, atribuições e património da ora extinta Fundação\
+    \ Alter Real para a Companhia das Lezírias, S.A. pelo DEC LEI.109/2013.01.08.2013.MAMAOT, DR.IS [147] de 01.08.2013, nos\
+    \ termos do disposto, respetivamente, no nº 2 do art. 3º e no art. 4º daquele diploma; e determinada, nos termos do disposto\
+    \ nº 5 do art. 5º do mesmo diploma, a sucessão daquela Companhia na posição contratual da FAR, relativamente aos trabalhadores\
+    \ desta com contrato individual de trabalho regulado pelo Código de Trabalho, que desempenhem funções nas áreas dos fins\
+    \ e atribuições transferidos nos termos do citado nº 2 do art. 3º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2013-498565
+  date: '2013-08-01'
+- type: cites
+  target: pt:dre:294727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:06Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +124,17 @@ Considerando o disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 29/84](htt
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto da Companhia das Lezírias, E. P., abreviadamente designada por CL-EP, anexo ao presente diploma, que substitui o aprovado pelo [Decreto-Lei n.º 123/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1978-294727), de 15 de Novembro.
+Artigo único. É aprovado o Estatuto da Companhia das Lezírias, E. P., abreviadamente designada por CL-EP, anexo ao presente diploma, que substitui o aprovado pelo [Decreto-Lei n.º 123/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1978-294727), de 15 de Novembro.
 
 Visto e aprovado em Conselho de Ministro de 9 de Abril de 1987. - Aníbal António Cavaco Silva. - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 21 de Julho de 1987.**
+Promulgado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1987.**
+Referendado em 23 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -528,4 +558,4 @@ A CL-EP fica sujeita à tributação directa e indirecta, nos termos legais, sal
 
 O pessoal da empresa fica sujeito, quanto às respectivas remunerações, à tributação que incide sobre as remunerações percebidas pelos trabalhadores das empresas privadas.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

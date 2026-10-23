@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4440-(201) a 4440-(202)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30002/02010202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1987-406111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 990caf541be340967d804f180979a1d0abf157f5ef5527ac284ea4f876922e6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a0be18268189cad6d896102b048ba2da23c3417e2853f47d030c049326fb476
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Ensino Básico
+- Ensino Secundário
+- Ensino Superior
+- Pessoal Docente
+- Requisição de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:411815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411815:por
+  label: Revogado pelo DEC LEI.139-A/90.28.04.1990.ME, DR.IS [98-Supl] de 28.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-1990-411815
+  date: '1990-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:41Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +124,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos de aplicação do artigo 25.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, no que respeita à colocação de docentes dos ensinos básico e secundário no ensino superior, considera-se este último como dependente de diferente departamento governamental.
+Artigo 1.º - 1 - Para efeitos de aplicação do artigo 25.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, no que respeita à colocação de docentes dos ensinos básico e secundário no ensino superior, considera-se este último como dependente de diferente departamento governamental.
 
 2 - A requisição referida no número anterior obedece aos seguintes requisitos:
 
@@ -115,20 +138,20 @@ d) Carece de visto do Tribunal de Contas e de publicação na 2.ª série do Di�
 
 e) Será feita pelo prazo de um ano escolar, sem prejuízo da sua prorrogação por períodos iguais, até ao limite de três, salvo casos excepcionais.
 
-###### Art. 2.º Para efeitos do estabelecido no artigo anterior o Ministro da Educação fixará critérios genéricos que orientem a colocação dos professores dos ensinos básico e secundário no ensino superior.
+Art. 2.º Para efeitos do estabelecido no artigo anterior o Ministro da Educação fixará critérios genéricos que orientem a colocação dos professores dos ensinos básico e secundário no ensino superior.
 
-###### Art. 3.º As requisições previstas no presente diploma serão feitas por urgente conveniência de serviço, nos termos e para os efeitos estabelecidos no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+Art. 3.º As requisições previstas no presente diploma serão feitas por urgente conveniência de serviço, nos termos e para os efeitos estabelecidos no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### Art. 4.º As requisições de docentes com efeitos para o ano escolar de 1987-1988 ficam sujeitas ao regime instituído pelo presente diploma.
+Art. 4.º As requisições de docentes com efeitos para o ano escolar de 1987-1988 ficam sujeitas ao regime instituído pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 13 de Dezembro de 1987.**
+Promulgado em 13 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1987.**
+Referendado em 16 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

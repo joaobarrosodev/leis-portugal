@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1987, 1º Suplemento, Série I de 1987-12-29
   number: '298'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4424-(6) a 4424-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29801/00060010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-b-1987-670072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6696548fcc15ebab0afa240b67f7e9f605ccb3f97fd55d3b34c7b03eb04bf60d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d33ad450092efa1ab1db4fc84d65b90cfe23b6697a6e2acd96747dd77a0ce36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso ao Direito
+- Ajuda Judicial
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:315338:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231536:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma do nº 2 do art. 7º, na parte em que veda\
+    \ o apoio judiciário, na forma de patrocínio judiciário, aos estrangeiros e apátridas que pretendem impugnar contenciosamente\
+    \ o acto administrativo que lhes denegou asilo, pelo AC.962/96.1996.07.11.TCS, DR.IS-A [239] de 15.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/962-1996-231536
+  date: '1996-07-11'
+- type: amended_by
+  target: pt:dre:241230:por
+  label: "Alterados os arts. 7º, 17º, 20º, 24º, 26º e 39º pela LEI.46/96.1996.09.03.AR, DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-1996-241230
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantidos em vigor o art 40º e o n.º 2 do art 53º, pelo Dec-Lei.224-A/96.1996.11.26.MJ DR.IS-A [274]2ºSupl \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: cites
+  target: pt:dre:142569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315338:por
+  label: "Revogado pela LEI.30-E/2000.2000.12.20.AR DR.IS-A [292]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-e-2000-315338
+  date: '2000-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:22Z'
   warnings: []
   errors: []
 ---
@@ -108,27 +141,27 @@ Acesso ao direito e aos tribunais
 
 ### CAPÍTULO I — Concepção e objectivos
 
-###### Artigo 1.º - 1 - O sistema de acesso ao direito e aos tribunais destina-se a promover que a ninguém seja dificultado ou impedido, em razão da sua condição social ou cultural, ou por insuficiência de meios económicos, de conhecer, fazer valer ou defender os seus direitos.
+Artigo 1.º - 1 - O sistema de acesso ao direito e aos tribunais destina-se a promover que a ninguém seja dificultado ou impedido, em razão da sua condição social ou cultural, ou por insuficiência de meios económicos, de conhecer, fazer valer ou defender os seus direitos.
 
 2 - Para concretizar os objectivos referidos no número anterior desenvolver-se-ão acções e mecanismos sistematizados de informação jurídica e de protecção jurídica.
 
-###### Art. 2.º O acesso ao direito e aos tribunais constitui uma responsabilidade conjunta do Estado e das instituições representativas das profissões forenses, através de dispositivos de cooperação.
+Art. 2.º O acesso ao direito e aos tribunais constitui uma responsabilidade conjunta do Estado e das instituições representativas das profissões forenses, através de dispositivos de cooperação.
 
-###### Art. 3.º - 1 - O Estado garante uma adequada remuneração aos profissionais forenses que intervierem no sistema de acesso ao direito e aos tribunais.
+Art. 3.º - 1 - O Estado garante uma adequada remuneração aos profissionais forenses que intervierem no sistema de acesso ao direito e aos tribunais.
 
 2 - O sistema de acesso ao direito e aos tribunais funcionará por forma que os serviços prestados aos seus utentes sejam qualificados e eficazes.
 
 ### CAPÍTULO II — Informação jurídica
 
-###### Art. 4.º Incumbe especialmente ao Governo realizar, de modo permanente e planeado, acções tendentes a tornar conhecido o direito e o ordenamento legal, através de publicações e de outras formas de comunicação, em termos de proporcionar um melhor exercício dos direitos e o cumprimento dos deveres legalmente estabelecidos.
+Art. 4.º Incumbe especialmente ao Governo realizar, de modo permanente e planeado, acções tendentes a tornar conhecido o direito e o ordenamento legal, através de publicações e de outras formas de comunicação, em termos de proporcionar um melhor exercício dos direitos e o cumprimento dos deveres legalmente estabelecidos.
 
-###### Art. 5.º No âmbito das acções referidas no artigo anterior serão gradualmente criados serviços de acolhimento nos tribunais e serviços judiciários.
+Art. 5.º No âmbito das acções referidas no artigo anterior serão gradualmente criados serviços de acolhimento nos tribunais e serviços judiciários.
 
 ### CAPÍTULO III — Protecção jurídica
 
-###### Art. 6.º A protecção jurídica reveste as modalidades de consulta jurídica e de apoio judiciário.
+Art. 6.º A protecção jurídica reveste as modalidades de consulta jurídica e de apoio judiciário.
 
-###### Art. 7.º - 1 - Têm direito a protecção jurídica, nos termos da presente lei, as pessoas singulares que demonstrem não dispor de meios económicos bastantes para suportar os honorários dos profissionais forenses, devidos por efeito da prestação dos seus serviços, e para custear, total ou parcialmente, os encargos normais de uma causa judicial.
+Art. 7.º - 1 - Têm direito a protecção jurídica, nos termos da presente lei, as pessoas singulares que demonstrem não dispor de meios económicos bastantes para suportar os honorários dos profissionais forenses, devidos por efeito da prestação dos seus serviços, e para custear, total ou parcialmente, os encargos normais de uma causa judicial.
 
 2 - Os estrangeiros e os apátridas que residam habitualmente em Portugal gozam do direito a protecção jurídica.
 
@@ -136,37 +169,37 @@ Acesso ao direito e aos tribunais
 
 4 - As pessoas colectivas e sociedades têm direito a apoio judiciário, quando façam a prova a que alude o n.º 1.
 
-###### Art. 8.º A protecção jurídica é concedida para questões ou causas judiciais concretas ou susceptíveis de concretização em que o utente tenha um interesse próprio e que versem sobre direitos directamente lesados ou ameaçados de lesão.
+Art. 8.º A protecção jurídica é concedida para questões ou causas judiciais concretas ou susceptíveis de concretização em que o utente tenha um interesse próprio e que versem sobre direitos directamente lesados ou ameaçados de lesão.
 
-###### Art. 9.º Lei própria regulará os esquemas destinados à tutela dos interesses colectivos ou difusos e dos direitos só indirecta ou reflexamente lesados ou ameaçados de lesão.
+Art. 9.º Lei própria regulará os esquemas destinados à tutela dos interesses colectivos ou difusos e dos direitos só indirecta ou reflexamente lesados ou ameaçados de lesão.
 
-###### Art. 10.º É vedado aos advogados, advogados estagiários e solicitadores que prestem serviços de protecção jurídica em qualquer das suas modalidades auferir, com base neles, remuneração diversa da que tiverem direito nos termos da presente lei.
+Art. 10.º É vedado aos advogados, advogados estagiários e solicitadores que prestem serviços de protecção jurídica em qualquer das suas modalidades auferir, com base neles, remuneração diversa da que tiverem direito nos termos da presente lei.
 
 ### CAPÍTULO IV — Consulta jurídica
 
-###### Art. 11.º - 1 - Em cooperação com a Ordem dos Advogados, o Ministério da Justiça instalará e assegurará o funcionamento de gabinetes de consulta jurídica, com vista à gradual cobertura territorial do País.
+Art. 11.º - 1 - Em cooperação com a Ordem dos Advogados, o Ministério da Justiça instalará e assegurará o funcionamento de gabinetes de consulta jurídica, com vista à gradual cobertura territorial do País.
 
 2 - Os gabinetes de consulta jurídica referidos no número anterior poderão abranger a prestação de serviços por solicitadores, em moldes a convencionar com a respectiva Câmara, ouvida a Ordem dos Advogados.
 
-###### Art. 12.º Os serviços forenses prestados nos gabinetes de consulta jurídica são remunerados nos termos estabelecidos em convénios de cooperação, a celebrar entre o Ministério da Justiça e a Ordem dos Advogados ou, quando for caso disso, com a Câmara dos Solicitadores.
+Art. 12.º Os serviços forenses prestados nos gabinetes de consulta jurídica são remunerados nos termos estabelecidos em convénios de cooperação, a celebrar entre o Ministério da Justiça e a Ordem dos Advogados ou, quando for caso disso, com a Câmara dos Solicitadores.
 
-###### Art. 13.º - 1 - A consulta jurídica pode compreender a realização de diligências extrajudiciais ou comportar mecanismos informais de conciliação, conforme constar dos regulamentos dos respectivos gabinetes.
+Art. 13.º - 1 - A consulta jurídica pode compreender a realização de diligências extrajudiciais ou comportar mecanismos informais de conciliação, conforme constar dos regulamentos dos respectivos gabinetes.
 
 2 - Cabe ao Ministro da Justiça homologar por portaria os regulamentos previstos no número anterior.
 
-###### Art. 14.º Os serviços forenses prestados nos gabinetes de consulta jurídica podem ficar sujeitos, nos termos estabelecidos nos regulamentos referidos no artigo anterior, a uma taxa de inscrição, que reverterá para o Cofre Geral dos Tribunais.
+Art. 14.º Os serviços forenses prestados nos gabinetes de consulta jurídica podem ficar sujeitos, nos termos estabelecidos nos regulamentos referidos no artigo anterior, a uma taxa de inscrição, que reverterá para o Cofre Geral dos Tribunais.
 
 ### CAPÍTULO V — Apoio judiciário
 
-###### Art. 15.º - 1 - O apoio judiciário compreende a dispensa, total ou parcial, de preparos e do pagamento de custas, ou o seu diferimento, assim como do pagamento dos serviços do advogado ou solicitador.
+Art. 15.º - 1 - O apoio judiciário compreende a dispensa, total ou parcial, de preparos e do pagamento de custas, ou o seu diferimento, assim como do pagamento dos serviços do advogado ou solicitador.
 
 2 - A dispensa de pagamento, pelo utente, dos serviços do advogado ou solicitador deve ser expressamente requerida.
 
-###### Art. 16.º - 1 - O regime de apoio judiciário aplica-se em todos os tribunais, qualquer que seja a forma do processo.
+Art. 16.º - 1 - O regime de apoio judiciário aplica-se em todos os tribunais, qualquer que seja a forma do processo.
 
 2 - O regime de apoio judiciário aplica-se também, com as devidas adaptações, aos processos das contra-ordenações.
 
-###### Art. 17.º - 1 - O apoio judiciário é independente da posição processual que o requerente ocupe na causa e do facto de ter sido já concedido à parte contrária.
+Art. 17.º - 1 - O apoio judiciário é independente da posição processual que o requerente ocupe na causa e do facto de ter sido já concedido à parte contrária.
 
 2 - O apoio judiciário pode ser requerido em qualquer estado da causa, mantém-se para efeitos de recurso, qualquer que seja a decisão sobre o mérito da causa, e é extensivo a todos os processos que sigam por apenso àquele em que essa concessão se verificar.
 
@@ -174,7 +207,7 @@ Acesso ao direito e aos tribunais
 
 4 - No caso de o processo ser desapensado por decisão com trânsito em julgado, o apoio concedido manter-se-á, juntando-se oficiosamente ao processo desapensado certidão da decisão que o concedeu, sem prejuízo do disposto na parte final do número anterior.
 
-###### Art. 18.º - 1 - O apoio judiciário pode ser requerido:
+Art. 18.º - 1 - O apoio judiciário pode ser requerido:
 
 a) Pelo interessado na sua concessão;
 
@@ -186,9 +219,9 @@ d) Por patrono para esse efeito nomeado pela Ordem dos Advogados ou pela Câmara
 
 2 - Às pessoas referidas nas alíneas c) e d) do número anterior incumbe também, em princípio, o patrocínio da causa para que foi requerido o apoio judiciário.
 
-###### Art. 19.º A prova da insuficiência económica do requerente pode ser feita por qualquer meio idóneo.
+Art. 19.º A prova da insuficiência económica do requerente pode ser feita por qualquer meio idóneo.
 
-###### Art. 20.º - 1 - Para além do disposto em legislação especial, goza da presunção de insuficiência económica:
+Art. 20.º - 1 - Para além do disposto em legislação especial, goza da presunção de insuficiência económica:
 
 a) Quem estiver a receber alimentos por necessidade económica;
 
@@ -204,13 +237,13 @@ f) Os titulares de direito a indemnização por acidente de viação.
 
 2 - Deixa de constituir presunção de insuficiência económica o facto de o requerente fruir, além dos referidos na alínea c) do número anterior, outros rendimentos próprios ou de pessoas a seu cargo que, no conjunto, ultrapassem montante equivalente ao triplo do salário mínimo nacional.
 
-###### Art. 21.º A concessão do apoio judiciário compete ao juiz da causa para a qual é solicitada, constituindo um incidente do respectivo processo e admitindo oposição da parte contrária.
+Art. 21.º A concessão do apoio judiciário compete ao juiz da causa para a qual é solicitada, constituindo um incidente do respectivo processo e admitindo oposição da parte contrária.
 
-###### Art. 22.º - 1 - O pedido de apoio judiciário para a dispensa, total ou parcial, de preparos e de pagamento de custas deve ser formulado nos articulados da acção a que se destina ou em requerimento autónomo, quando for posterior aos articulados ou a causa os não admita.
+Art. 22.º - 1 - O pedido de apoio judiciário para a dispensa, total ou parcial, de preparos e de pagamento de custas deve ser formulado nos articulados da acção a que se destina ou em requerimento autónomo, quando for posterior aos articulados ou a causa os não admita.
 
 2 - O pedido de concessão de patrocínio judiciário é formulado em simples requerimento no qual se identifique a causa a que respeita.
 
-###### Art. 23.º - 1 - O requerente deve alegar sumariamente os factos e as razões de direito que interessam ao pedido, oferecendo logo todas as provas.
+Art. 23.º - 1 - O requerente deve alegar sumariamente os factos e as razões de direito que interessam ao pedido, oferecendo logo todas as provas.
 
 2 - Na petição o requerente mencionará os rendimentos e remunerações que recebe, os seus encargos pessoais e de família e as contribuições e impostos que paga, salvo caso de presunção previsto no artigo 20.º
 
@@ -220,7 +253,7 @@ f) Os titulares de direito a indemnização por acidente de viação.
 
 5 - Os documentos destinados a instruir o pedido de apoio judiciário devem referir expressamente o fim a que se destinam.
 
-###### Art. 24.º - 1 - O pedido de apoio judiciário importa:
+Art. 24.º - 1 - O pedido de apoio judiciário importa:
 
 a) A não exigência imediata de quaisquer preparos;
 
@@ -230,9 +263,9 @@ b) A suspensão da instância, se for formulado em articulado que não admita re
 
 3 - Em processo penal não se suspende a instância havendo arguidos presos.
 
-###### Art. 25.º O requerimento referido no n.º 2 do artigo 22.º e o processado subsequente, quando anteriores à propositura da causa, devem ser apensados ao processo principal.
+Art. 25.º O requerimento referido no n.º 2 do artigo 22.º e o processado subsequente, quando anteriores à propositura da causa, devem ser apensados ao processo principal.
 
-###### Art. 26.º - 1 - Formulado o pedido de apoio judiciário, o juiz profere logo despacho liminar.
+Art. 26.º - 1 - Formulado o pedido de apoio judiciário, o juiz profere logo despacho liminar.
 
 2 - O pedido de apoio judiciário deve ser liminarmente indeferido quando for evidente que a pretensão do requerente ao apoio judiciário, ou na causa para que este é pedido, não pode proceder.
 
@@ -244,15 +277,15 @@ b) A suspensão da instância, se for formulado em articulado que não admita re
 
 6 - No pedido de nomeação prévia de patrono não há lugar a citação ou notificação.
 
-###### Art. 27.º - 1 - A contestação é deduzida no articulado seguinte ao do pedido; não o havendo, sê-lo-á em articulado próprio, no prazo de cinco dias.
+Art. 27.º - 1 - A contestação é deduzida no articulado seguinte ao do pedido; não o havendo, sê-lo-á em articulado próprio, no prazo de cinco dias.
 
 2 - Com a contestação são oferecidas todas as provas.
 
-###### Art. 28.º Se não for o requerente, o Ministério Público terá vista do processo, a fim de se pronunciar sobre o pedido de apoio judiciário.
+Art. 28.º Se não for o requerente, o Ministério Público terá vista do processo, a fim de se pronunciar sobre o pedido de apoio judiciário.
 
-###### Art. 29.º O juiz ordenará as diligências que lhe pareçam indispensáveis para decidir o incidente de apoio judiciário.
+Art. 29.º O juiz ordenará as diligências que lhe pareçam indispensáveis para decidir o incidente de apoio judiciário.
 
-###### Art. 30.º O apoio judiciário não pode ser concedido:
+Art. 30.º O apoio judiciário não pode ser concedido:
 
 a) Às pessoas que não reúnam as condições legais para o requerer;
 
@@ -260,7 +293,7 @@ b) Às pessoas a respeito das quais haja fundada suspeita de que alienaram ou on
 
 c) Aos cessionários do direito ou objecto controvertido, ainda que a cessão seja anterior ao litígio, quando tenha havido fraude.
 
-###### Art. 31.º - 1 - A decisão deve ser proferida no prazo de oito dias.
+Art. 31.º - 1 - A decisão deve ser proferida no prazo de oito dias.
 
 2 - A decisão que conceder o apoio judiciário especificará se este tem carácter total ou parcial.
 
@@ -268,21 +301,21 @@ c) Aos cessionários do direito ou objecto controvertido, ainda que a cessão se
 
 4 - Se o apoio judiciário for negado, é notificado o requerente para efectuar os preparos e demais pagamentos de que tenha sido dispensado, no prazo e sob a cominação constantes da legislação de custas, bem como, sendo caso disso, para, no prazo que o juiz fixar, constituir patrono que o represente.
 
-###### Art. 32.º - 1 - Concedido o patrocínio, e quando não se verificar a indicação pelo requerente, nos termos do artigo 52.º, o juiz da causa solicita a nomeação de um advogado e de um solicitador, ou só de um advogado ou só de um solicitador, consoante as necessidades do pleito.
+Art. 32.º - 1 - Concedido o patrocínio, e quando não se verificar a indicação pelo requerente, nos termos do artigo 52.º, o juiz da causa solicita a nomeação de um advogado e de um solicitador, ou só de um advogado ou só de um solicitador, consoante as necessidades do pleito.
 
 2 - A nomeação é solicitada pelo juiz da causa ao conselho distrital da Ordem dos Advogados ou à secção da Câmara dos Solicitadores territorialmente competentes e por estes comunicada ao tribunal no prazo de cinco dias.
 
 3 - Na falta ou impedimento de advogados, o patrocínio também pode ser exercido por advogado estagiário, mesmo para além da sua competência própria.
 
-###### Art. 33.º A decisão de nomeação do patrono é notificada a este e ao interessado, com menção expressa, quanto a este, do nome e escritório do patrono, bem como do dever de lhe dar colaboração.
+Art. 33.º A decisão de nomeação do patrono é notificada a este e ao interessado, com menção expressa, quanto a este, do nome e escritório do patrono, bem como do dever de lhe dar colaboração.
 
-###### Art. 34.º - 1 - O patrono nomeado antes da propositura da acção deve intentá-la nos 30 dias seguintes à notificação da nomeação e, se o não fizer, justificará o facto.
+Art. 34.º - 1 - O patrono nomeado antes da propositura da acção deve intentá-la nos 30 dias seguintes à notificação da nomeação e, se o não fizer, justificará o facto.
 
 2 - Quando não for apresentada justificação, ou esta for julgada improcedente, o juiz dará conhecimento, conforme o caso, à Ordem dos Advogados ou à Câmara dos Solicitadores, para nova nomeação nos termos do artigo 32.º e para apreciação de eventual responsabilidade disciplinar.
 
 3 - A acção considera-se proposta na data em que foi apresentado o pedido de nomeação de patrono.
 
-###### Art. 35.º - 1 - O patrono nomeado pode pedir escusa, mediante requerimento ao juiz da causa e juntando envelope fechado, dirigido ao presidente do conselho distrital da Ordem ou ao presidente da secção da Câmara dos Solicitadores, no qual se contenha a alegação dos motivos da escusa.
+Art. 35.º - 1 - O patrono nomeado pode pedir escusa, mediante requerimento ao juiz da causa e juntando envelope fechado, dirigido ao presidente do conselho distrital da Ordem ou ao presidente da secção da Câmara dos Solicitadores, no qual se contenha a alegação dos motivos da escusa.
 
 2 - Remetido o envelope pelo tribunal à Ordem dos Advogados ou à Câmara dos Solicitadores, estas deliberam sobre o pedido de escusa no prazo de cinco dias.
 
@@ -290,11 +323,11 @@ c) Aos cessionários do direito ou objecto controvertido, ainda que a cessão se
 
 4 - O disposto nos números precedentes aplica-se aos casos de escusa por circunstâncias supervenientes.
 
-###### Art. 36.º - 1 - O patrono nomeado pode requerer a sua substituição para diligência deprecada a outra comarca, indicando logo o seu substituto ou pedindo ao juiz que solicite à Ordem dos Advogados ou à Câmara dos Solicitadores que proceda à nomeação.
+Art. 36.º - 1 - O patrono nomeado pode requerer a sua substituição para diligência deprecada a outra comarca, indicando logo o seu substituto ou pedindo ao juiz que solicite à Ordem dos Advogados ou à Câmara dos Solicitadores que proceda à nomeação.
 
 2 - O requerimento pode ser formulado em qualquer dos tribunais.
 
-###### Art. 37.º - 1 - O apoio judiciário é retirado:
+Art. 37.º - 1 - O apoio judiciário é retirado:
 
 a) Se o requerente adquirir meios suficientes para poder dispensá-lo;
 
@@ -312,31 +345,31 @@ e) Se, em acção de alimentos provisórios, for atribuída ao requerente uma qu
 
 4 - O requerente do apoio judiciário é sempre ouvido.
 
-###### Art. 38.º O apoio judiciário caduca pelo falecimento da pessoa singular ou pela extinção ou dissolução da pessoa colectiva a quem foi concedido, salvo se os sucessores na lide, ao deduzirem a sua habilitação, o requererem e lhes for deferido.
+Art. 38.º O apoio judiciário caduca pelo falecimento da pessoa singular ou pela extinção ou dissolução da pessoa colectiva a quem foi concedido, salvo se os sucessores na lide, ao deduzirem a sua habilitação, o requererem e lhes for deferido.
 
-###### Art. 39.º Das decisões proferidas sobre apoio judiciário cabe sempre agravo, independentemente do valor, com efeito suspensivo, quando o recurso for interposto pelo requerente, e com efeito meramente devolutivo nos demais casos.
+Art. 39.º Das decisões proferidas sobre apoio judiciário cabe sempre agravo, independentemente do valor, com efeito suspensivo, quando o recurso for interposto pelo requerente, e com efeito meramente devolutivo nos demais casos.
 
-###### Art. 40.º As custas do incidente do apoio judiciário ficam a cargo da parte vencida; não haverá, porém, custas se for concedido sem contestação.
+Art. 40.º As custas do incidente do apoio judiciário ficam a cargo da parte vencida; não haverá, porém, custas se for concedido sem contestação.
 
-###### Art. 41.º As competências neste diploma cometidas ao juiz da causa são, nos tribunais superiores, desempenhadas pelo relator.
+Art. 41.º As competências neste diploma cometidas ao juiz da causa são, nos tribunais superiores, desempenhadas pelo relator.
 
 ### CAPÍTULO VI — Disposições especiais sobre processo penal
 
-###### Art. 42.º A nomeação do defensor ao arguido e a dispensa de patrocínio, substituição e remuneração são feitas nos termos do Código de Processo Penal e em conformidade com os artigos seguintes.
+Art. 42.º A nomeação do defensor ao arguido e a dispensa de patrocínio, substituição e remuneração são feitas nos termos do Código de Processo Penal e em conformidade com os artigos seguintes.
 
-###### Art. 43.º - 1 - A autoridade judiciária a quem incumbir a nomeação solicita ao conselho distrital da Ordem dos Advogados territorialmente competente a indicação de advogado ou advogado estagiário para a nomeação de defensor, podendo, se assim o entender, restringir a sua solicitação à indicação de advogado.
+Art. 43.º - 1 - A autoridade judiciária a quem incumbir a nomeação solicita ao conselho distrital da Ordem dos Advogados territorialmente competente a indicação de advogado ou advogado estagiário para a nomeação de defensor, podendo, se assim o entender, restringir a sua solicitação à indicação de advogado.
 
 2 - O conselho distrital da Ordem dos Advogados procede à indicação no prazo de cinco dias.
 
 3 - Na falta atempada de indicação, pode a autoridade judiciária proceder à nomeação do defensor segundo o seu critério.
 
-###### Art. 44.º - 1 - Para a assistência ao primeiro interrogatório de arguido detido ou para a audiência em processo sumário ou outras diligências urgentes previstas no Código de Processo Penal, a nomeação recai em defensor escolhido independentemente da indicação prevista no artigo anterior.
+Art. 44.º - 1 - Para a assistência ao primeiro interrogatório de arguido detido ou para a audiência em processo sumário ou outras diligências urgentes previstas no Código de Processo Penal, a nomeação recai em defensor escolhido independentemente da indicação prevista no artigo anterior.
 
 2 - A Ordem dos Advogados pode, para os efeitos da nomeação prevista no número anterior, organizar escalas de presenças de advogados ou advogados estagiários, comunicando-as aos tribunais.
 
 3 - No caso previsto no número anterior, a nomeação deve recair em defensor que, constando das escalas, se encontre presente.
 
-###### Art. 45.º - 1 - Quando o advogado ou advogado estagiário nomeado defensor pedir dispensa de patrocínio invocando fundamento que considere justo, o tribunal ouvirá a Ordem dos Advogados e, ouvida esta, decidirá.
+Art. 45.º - 1 - Quando o advogado ou advogado estagiário nomeado defensor pedir dispensa de patrocínio invocando fundamento que considere justo, o tribunal ouvirá a Ordem dos Advogados e, ouvida esta, decidirá.
 
 2 - Enquanto não for substituído, o defensor nomeado para um acto mantém-se para os actos subsequentes do processo.
 
@@ -344,11 +377,11 @@ e) Se, em acção de alimentos provisórios, for atribuída ao requerente uma qu
 
 4 - Verificada a hipótese prevista no número anterior, o tribunal pode, em caso de urgência, nomear outro defensor, até que a Ordem dos Advogados se pronuncie.
 
-###### Art. 46.º - 1 - Cessa a nomeação do defensor sempre que o arguido constitua mandatário.
+Art. 46.º - 1 - Cessa a nomeação do defensor sempre que o arguido constitua mandatário.
 
 2 - O advogado ou advogado estagiário nomeado defensor não pode aceitar mandato do mesmo arguido.
 
-###### Art. 47.º - 1 - O pagamento dos honorários atribuídos ao defensor, nos termos e no quantitativo a fixar pelo tribunal, dentro dos limites constantes das tabelas aprovadas pelo Ministro da Justiça, é feito pelo tribunal.
+Art. 47.º - 1 - O pagamento dos honorários atribuídos ao defensor, nos termos e no quantitativo a fixar pelo tribunal, dentro dos limites constantes das tabelas aprovadas pelo Ministro da Justiça, é feito pelo tribunal.
 
 2 - O reembolso das despesas feitas pelo defensor é igualmente feito pelo tribunal.
 
@@ -356,11 +389,11 @@ e) Se, em acção de alimentos provisórios, for atribuída ao requerente uma qu
 
 ### CAPÍTULO VII — Disposições gerais
 
-###### Art. 48.º - 1 - Os advogados, os advogados estagiários e os solicitadores têm direito, em qualquer caso de apoio judiciário, a receber honorários pelos serviços prestados, assim como a ser reembolsados das despesas realizadas que devidamente comprovem.
+Art. 48.º - 1 - Os advogados, os advogados estagiários e os solicitadores têm direito, em qualquer caso de apoio judiciário, a receber honorários pelos serviços prestados, assim como a ser reembolsados das despesas realizadas que devidamente comprovem.
 
 2 - O pagamento dos honorários e o reembolso das despesas pelos serviços prestados nos termos do artigo 44.º não aguardam o termo do processo.
 
-###### Art. 49.º - 1 - Os honorários dos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário constam de tabelas propostas pela Ordem dos Advogados e pela Câmara dos Solicitadores e aprovadas pelo Ministro da Justiça.
+Art. 49.º - 1 - Os honorários dos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário constam de tabelas propostas pela Ordem dos Advogados e pela Câmara dos Solicitadores e aprovadas pelo Ministro da Justiça.
 
 2 - Nas tabelas a que se refere o número anterior prever-se-á um mínimo e um máximo dos honorários a atribuir pelo juiz.
 
@@ -368,21 +401,21 @@ e) Se, em acção de alimentos provisórios, for atribuída ao requerente uma qu
 
 4 - As tabelas são anualmente revistas.
 
-###### Art. 50.º É, como regra, atendível a indicação pelo requerente do pedido de apoio judiciário de advogado, advogado estagiário ou solicitador, quando estes declarem aceitar a prestação dos serviços requeridos.
+Art. 50.º É, como regra, atendível a indicação pelo requerente do pedido de apoio judiciário de advogado, advogado estagiário ou solicitador, quando estes declarem aceitar a prestação dos serviços requeridos.
 
-###### Art. 51.º A indicação não é atendida quando houver fortes indícios de que é solicitada para processo em curso para o qual o requerente tenha patrocínio, oficioso ou não, ou de que, sem ter havido alterações substanciais de factos ou de lei, sobre a questão haja já sido consultado algum advogado, advogado estagiário ou solicitador.
+Art. 51.º A indicação não é atendida quando houver fortes indícios de que é solicitada para processo em curso para o qual o requerente tenha patrocínio, oficioso ou não, ou de que, sem ter havido alterações substanciais de factos ou de lei, sobre a questão haja já sido consultado algum advogado, advogado estagiário ou solicitador.
 
-###### Art. 52.º - 1 - O utente do apoio judiciário pode, em qualquer processo, requerer a substituição do patrono nomeado, fundamentando o seu pedido.
+Art. 52.º - 1 - O utente do apoio judiciário pode, em qualquer processo, requerer a substituição do patrono nomeado, fundamentando o seu pedido.
 
 2 - Na hipótese prevista no número anterior o tribunal decide livremente, ouvida a Ordem dos Advogados ou a Câmara dos Solicitadores.
 
 3 - Deferido o pedido de substituição, aplicam-se, com as devidas adaptações, os termos dos artigos 32.º e seguintes.
 
-###### Art. 53.º - 1 - Estão isentos de impostos, emolumentos e taxas os articulados, requerimentos, certidões e quaisquer outros documentos, incluindo actos notariais e de registo, para fins de apoio judiciário.
+Art. 53.º - 1 - Estão isentos de impostos, emolumentos e taxas os articulados, requerimentos, certidões e quaisquer outros documentos, incluindo actos notariais e de registo, para fins de apoio judiciário.
 
 2 - No incidente processual de apoio judiciário não são devidos preparos.
 
-###### Art. 54.º - 1 - Caso se verifique que o requerente do apoio judiciário possuía à data do pedido ou que adquiriu no decurso da causa ou após esta finda meios suficientes para pagar os honorários, despesas, custas, imposto, emolumentos, taxas e quaisquer outros encargos de cujo pagamento haja sido declarado isento, é instaurada acção para cobrança das respectivas importâncias.
+Art. 54.º - 1 - Caso se verifique que o requerente do apoio judiciário possuía à data do pedido ou que adquiriu no decurso da causa ou após esta finda meios suficientes para pagar os honorários, despesas, custas, imposto, emolumentos, taxas e quaisquer outros encargos de cujo pagamento haja sido declarado isento, é instaurada acção para cobrança das respectivas importâncias.
 
 2 - A acção a que se refere o número anterior segue sempre a forma sumaríssima.
 
@@ -392,24 +425,24 @@ e) Se, em acção de alimentos provisórios, for atribuída ao requerente uma qu
 
 5 - O disposto nos números anteriores não é aplicável quando em virtude da causa venha a ser fixada ao requerente indemnização para o ressarcir de danos ocorridos.
 
-###### Art. 55.º O disposto no artigo anterior aplica-se, com as necessárias adaptações, aos serviços prestados no âmbito da consulta jurídica nos termos do presente decreto-lei.
+Art. 55.º O disposto no artigo anterior aplica-se, com as necessárias adaptações, aos serviços prestados no âmbito da consulta jurídica nos termos do presente decreto-lei.
 
 ### CAPÍTULO VIII — Disposições finais
 
-###### Art. 56.º O Governo publicará, no prazo de 90 dias, um decreto-lei regulamentando o sistema de apoio judiciário e o seu regime financeiro, integrado no Cofre Geral dos Tribunais.
+Art. 56.º O Governo publicará, no prazo de 90 dias, um decreto-lei regulamentando o sistema de apoio judiciário e o seu regime financeiro, integrado no Cofre Geral dos Tribunais.
 
-###### Art. 57.º São revogadas a [Lei n.º 7/70](https://diariodarepublica.pt/dr/detalhe/lei/7-1970-142569), de 9 de Junho, e o Decreto-Lei n.º 562/70, de 18 de Novembro.
+Art. 57.º São revogadas a [Lei n.º 7/70](https://diariodarepublica.pt/dr/detalhe/lei/7-1970-142569), de 9 de Junho, e o Decreto-Lei n.º 562/70, de 18 de Novembro.
 
-###### Art. 58.º O presente decreto-lei entra em vigor 30 dias após a publicação do decreto-lei a que se refere o artigo 56.º
+Art. 58.º O presente decreto-lei entra em vigor 30 dias após a publicação do decreto-lei a que se refere o artigo 56.º
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 29 de Dezembro de 1987.**
+Promulgado em 29 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1987.**
+Referendado em 29 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

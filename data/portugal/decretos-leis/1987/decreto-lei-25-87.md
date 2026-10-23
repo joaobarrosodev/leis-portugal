@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01000/01720173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1987-663513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ec3abeaba486c6056925ba42fa5b1500facf7f8477afc4387f379391a2a7072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bf017de165c0f8adfe8c312febdeecc64783fc6c1d48f645d3debe2b49b86ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português do Património Cultural
+- Património Cultural
+- Pessoal Técnico de Conservação e Restauro
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:321289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321289:por
+  label: "Revogado o Dec Lei 245/80 de 22-Jul, com a redacção do presente diploma, pelo DEC LEI.55/2001.2001.02.15.MC DR.IS-A\
+    \ [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2001-321289
+  date: '2001-02-15'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:09Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +117,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados o artigo 6.º e o n.º 3 dos artigos 9.º, 10.º, 11.º, 17.º, 18.º e 19.º do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
+Artigo 1.º São revogados o artigo 6.º e o n.º 3 dos artigos 9.º, 10.º, 11.º, 17.º, 18.º e 19.º do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
 
-###### Art. 2.º Os artigos 12.º, 15.º, 20.º e 22.º, n.º 2, do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 12.º, 15.º, 20.º e 22.º, n.º 2, do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 12.º — Estágio, provimento e progressão na carreira
 
@@ -147,12 +161,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

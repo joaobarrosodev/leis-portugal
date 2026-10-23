@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14700/25072507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1987-419460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f9bed720ff04ee6ffffc848fd5b1c5f48085b90eff7d51712d805e3c9bc81e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbc4fe14530dfdc97e2a75f89c4908982981fabb8838595e35cd31e617e16203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conta Poupança-emigrante
+- Emigrante
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:297188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569902:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:24Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +112,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 11.º, 13.º e 14.º do [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902), de 14 de Junho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 11.º, 13.º e 14.º do [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902), de 14 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - Os emigrantes ou equiparados podem também abrir qualquer conta, expressa em escudos, nas demais condições das contas de residentes. Nestes casos, é igualmente necessária a comprovação, perante a instituição de crédito respectiva, de que o interessado é emigrante ou equiparado, ou deixou de o ser há menos de seis meses, dependendo também dessa comprovação, a fazer anualmente, as renovações da mesma conta.
-
-2 - ...
-
-###### Art. 13.º - 1 - As contas poupança-emigrante e as contas em moeda estrangeira reguladas neste diploma podem ser contituladas apenas pelo cônjuge do emigrante ou do equiparado e pelos filhos residentes em Portugal.
+Art. 11.º - 1 - Os emigrantes ou equiparados podem também abrir qualquer conta, expressa em escudos, nas demais condições das contas de residentes. Nestes casos, é igualmente necessária a comprovação, perante a instituição de crédito respectiva, de que o interessado é emigrante ou equiparado, ou deixou de o ser há menos de seis meses, dependendo também dessa comprovação, a fazer anualmente, as renovações da mesma conta.
 
 2 - ...
 
-###### Art. 14.º - 1 - ...
+Art. 13.º - 1 - As contas poupança-emigrante e as contas em moeda estrangeira reguladas neste diploma podem ser contituladas apenas pelo cônjuge do emigrante ou do equiparado e pelos filhos residentes em Portugal.
+
+2 - ...
+
+Art. 14.º - 1 - ...
 
 2 - Existindo já na mesma instituição de crédito prova da qualidade de emigrante ou equiparado, produzida há menos de seis meses, dispensa-se o cumprimento do que estabelecem os artigos 4.º, n.º 2, 7.º, n.º 1, 10.º, n.º 2, e 11.º, n.º 1.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 4 de Junho de 1987.**
+Promulgado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

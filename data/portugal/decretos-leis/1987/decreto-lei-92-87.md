@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1987-662744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03d4fbe8be60e06ec98ba98059a50e71ff274ed3080cf7a2fc1eb6661b18761e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace834ed6f09ebb6d8cd0118956ad432cdc90c7c7e285a75087383bb9b9af5f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- Forças Armadas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:47Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +94,20 @@ Considerando que as praças do QP e equiparadas, bem como os militares em servi�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os oficiais e sargentos dos três ramos das Forças Armadas dos quadros permanentes, bem como os que se encontram em regime de contrato ou de prorrogação do período normal de serviço militar obrigatório, quando na efectividade de serviço, têm direito à comparticipação do Estado nas despesas com o fardamento.
+Artigo 1.º - 1 - Os oficiais e sargentos dos três ramos das Forças Armadas dos quadros permanentes, bem como os que se encontram em regime de contrato ou de prorrogação do período normal de serviço militar obrigatório, quando na efectividade de serviço, têm direito à comparticipação do Estado nas despesas com o fardamento.
 
 2 - Até 31 de Janeiro de cada ano será fixado, por despacho conjunto dos Ministros da Defesa Nacional e das Finanças, sob proposta do Conselho de Chefes de Estado-Maior, o encargo do Estado, em termos de percentagem sobre o custo dos artigos de fardamento, o qual será suportado pelo orçamento do respectivo ramo.
 
-###### Art. 2.º Por despacho do Ministro da Defesa Nacional, sob proposta do Conselho de Chefes de Estado-Maior, serão fixadas as tabelas dos artigos de fardamento constantes dos regulamentos dos uniformes dos ramos, com a indicação das quantidades e prazos mínimos de duração, com vista à sua renovação nos termos deste diploma.
+Art. 2.º Por despacho do Ministro da Defesa Nacional, sob proposta do Conselho de Chefes de Estado-Maior, serão fixadas as tabelas dos artigos de fardamento constantes dos regulamentos dos uniformes dos ramos, com a indicação das quantidades e prazos mínimos de duração, com vista à sua renovação nos termos deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 8 de, Janeiro de 1987.- Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 12 de Fevereiro de 1987.**
+Promulgado em 12 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1987.**
+Referendado em 18 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

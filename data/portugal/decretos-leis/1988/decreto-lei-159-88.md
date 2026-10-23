@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11100/20122013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1988-374845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79ab43fd0a37a4358adba3d01890e742a52894f162f4ab2b3aa650c0b035a656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af9321aa64585c9d0eaec8426fe36ab287587bc484552c26ca8cf98a2e4e79e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jogos Olímpicos
+- Moeda Comemorativa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:24:52Z'
   warnings: []
   errors: []
 ---
@@ -97,34 +112,34 @@ Ouvido o Banco de Portugal, e com o respectivo acordo, nos termos do n.º 2 do a
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa alusiva à participação portuguesa nos Jogos Olímpicos de Seul (1988), com o valor facial de 250$00.
+Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa alusiva à participação portuguesa nos Jogos Olímpicos de Seul (1988), com o valor facial de 250$00.
 
 2 - A moeda referida no número anterior será cunhada em liga de cupro-níquel 75/25, com 37 mm de diâmetro, 23 g de peso e bordo serrilhado, com uma tolerância de mais ou menos 1,5% no título e no peso.
 
-###### Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, o escudo das armas nacionais sobreposto a uma estilização dos anéis olímpicos, tendo por baixo o valor facial, «250 Esc», e, nas orlas laterais, a legenda «República Portuguesa».
+Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, o escudo das armas nacionais sobreposto a uma estilização dos anéis olímpicos, tendo por baixo o valor facial, «250 Esc», e, nas orlas laterais, a legenda «República Portuguesa».
 
 2 - A gravura do reverso apresenta no centro do campo um grupo de seis corredores na linha de chegada, na orla superior a legenda «XXIV Jogos Olímpicos» e na orla inferior a legenda «Seul 1988».
 
-###### Art. 3.º O limite da emissão desta moeda comemorativa é fixado em 237500000$00.
+Art. 3.º O limite da emissão desta moeda comemorativa é fixado em 237500000$00.
 
-###### Art. 4.º - 1 - Dentro do limite estabelecido no número anterior, a Imprensa Nacional-Casa da Moeda E. P., é autorizada a cunhar até 70000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC) e até 30000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados a comercialização, nos termos da lei.
+Art. 4.º - 1 - Dentro do limite estabelecido no número anterior, a Imprensa Nacional-Casa da Moeda E. P., é autorizada a cunhar até 70000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC) e até 30000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados a comercialização, nos termos da lei.
 
 2 - Os espécimes numismáticos de prata referidos no número anterior serão cunhados em liga de prata 925/1000, com o diâmetro de 37 mm, peso de 28 g e bordo serrilhado, sendo as tolerâncias no peso e na liga de mais ou menos 5(por mil).
 
-###### Art. 5.º 20% dos lucros desta amoedação são postos pelo Ministério das Finanças à disposição do Comité Olímpico Português, para fazer face aos encargos da preparação da equipa olímpica nacional, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
+Art. 5.º 20% dos lucros desta amoedação são postos pelo Ministério das Finanças à disposição do Comité Olímpico Português, para fazer face aos encargos da preparação da equipa olímpica nacional, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
 
-###### Art. 6.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 6.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 7.º A moeda cunhada ao abrigo deste diploma tem curso legal, mas ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 2500$00 nesta moeda.
+Art. 7.º A moeda cunhada ao abrigo deste diploma tem curso legal, mas ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 2500$00 nesta moeda.
 
 Visto e aprovado em Conselho de Ministros de 7 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 29 de Abril de 1988.**
+Promulgado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

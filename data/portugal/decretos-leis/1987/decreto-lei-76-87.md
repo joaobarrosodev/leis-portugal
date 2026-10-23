@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03700/05910595.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1987-662906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68bb4c9c72ba4a5467f75dbbc2e56b4844b6f7ad6d5446bf5ed9d29bbda347d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37b6cb9b517d65bf0d0ff471a78a3645cb863e561506ff89f1eb5a7302a00894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Contra-ordenação
+- Direcção Geral da Pecuária
+- Doença Animal
+- Etiquetagem
+- Fiscalização
+- Importação
+- Legislação Veterinária
+- Licenciamento
+- Medicamento
+- Medicina Veterinária
+- Multa
+- Normas de Segurança
+- Produto Farmacêutico
+- Produto Veterinário
+- Regulamento
+- Vacinação
 relationships:
 - type: amended_by
   target: pt:dre:534655:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534655:por
+  label: "Revogado pelo DEC LEI.289/94.1994.11.14.MA DR.IS-A [263], com efeitos reportados à data da entrada em vigor da portaria\
+    \ referida no seu art. 2º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1994-534655
+  date: '1994-11-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:32Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +123,23 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Fabrico, Importação, Comercialização e Utilização de Produtos Biológicos para Uso Veterinário, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Fabrico, Importação, Comercialização e Utilização de Produtos Biológicos para Uso Veterinário, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º São revogados os Decretos n.os 20292, de 8 de Setembro de 1931, e 20884, de 13 de Fevereiro de 1932.
+Art. 2.º São revogados os Decretos n.os 20292, de 8 de Setembro de 1931, e 20884, de 13 de Fevereiro de 1932.
 
-###### Art. 3.º Este diploma entra em vigor 180 dias após a sua publicação.
+Art. 3.º Este diploma entra em vigor 180 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1986. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 21 de Janeiro de 1987.**
+Promulgado em 21 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Janeiro de 1987.**
+Referendado em 27 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Fabrico, Importação, Comercialização e Utilização de Produtos Biológicos para Uso Veterinário
 
@@ -120,7 +147,7 @@ Regulamento de Fabrico, Importação, Comercialização e Utilização de Produt
 
 Objectivos e definiçõesArtigo 1.º O presente Regulamento estabelece as normas a que devem obedecer o fabrico, importação, comercialização e utilização dos produtos biológicos para uso veterinário.
 
-###### Art. 2.º - 1 - Os produtos biológicos para uso veterinário destinam-se à profilaxia, tratamento e diagnóstico das doenças infecciosas e infecto-contagiosas dos animais.
+Art. 2.º - 1 - Os produtos biológicos para uso veterinário destinam-se à profilaxia, tratamento e diagnóstico das doenças infecciosas e infecto-contagiosas dos animais.
 
 2 - Para efeitos deste Regulamento, estabelecem-se as seguintes definições:
 
@@ -134,9 +161,9 @@ d) Alérgenos para uso veterinário - são preparações que contêm substância
 
 ### CAPÍTULO II — Laboratórios produtores de produtos biológicos para uso veterinário
 
-###### Art. 3.º Depende de licença passada pela Direcção-Geral da Pecuária (DGP) a instalação de laboratórios de preparação de produtos biológicos para uso veterinário.
+Art. 3.º Depende de licença passada pela Direcção-Geral da Pecuária (DGP) a instalação de laboratórios de preparação de produtos biológicos para uso veterinário.
 
-###### Art. 4.º O requerimento a solicitar a referida licença deve ser acompanhado dos seguintes documentos:
+Art. 4.º O requerimento a solicitar a referida licença deve ser acompanhado dos seguintes documentos:
 
 a) Certidão do registo da firma ou denominação particular na conservatória do registo comercial e de quem a obriga;
 
@@ -148,13 +175,13 @@ d) Indicação do médico veterinário responsável pela direcção técnica;
 
 e) Listagem dos produtos a elaborar e respectivas tecnologias de produção, de acordo com as normas estabelecidas no artigo 20.º do presente Regulamento.
 
-###### Art. 5.º - 1 - A licença será concedida após vistoria e aprovação das instalações, devendo ser renovada anualmente mediante requerimento a apresentar na DGP até ao dia 30 de Novembro do ano anterior àquele a que respeitar.
+Art. 5.º - 1 - A licença será concedida após vistoria e aprovação das instalações, devendo ser renovada anualmente mediante requerimento a apresentar na DGP até ao dia 30 de Novembro do ano anterior àquele a que respeitar.
 
 2 - A violação do disposto no artigo 3.º e no número anterior constitui contra-ordenação, punível com coima de 100000$00 a 10000000$00.
 
 3 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a interdição do exercício da actividade, pelo período não superior a dois anos, e a apreensão dos produtos preparados ou armazenados.
 
-###### Art. 6.º - 1 - A licença referida nos artigos anteriores só é válida para o fabrico e laboração dos produtos autorizados.
+Art. 6.º - 1 - A licença referida nos artigos anteriores só é válida para o fabrico e laboração dos produtos autorizados.
 
 2 - Qualquer outro produto só poderá ser fabricado, mediante prévia autorização a solicitar à DGP, de acordo com o estabelecido nos artigos 19.º e 20.º deste Regulamento.
 
@@ -162,13 +189,13 @@ e) Listagem dos produtos a elaborar e respectivas tecnologias de produção, de 
 
 4 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a interdição do exercício da actividade, pelo período não superior a dois anos, e a apreensão dos produtos preparados ou armazenados.
 
-###### Art. 7.º - 1 - É autorizada a instalação conjunta de laboratórios de produtos biológicos e de análises, desde que estes últimos constituam secção independente da zona de produção, por forma a não oferecer riscos para esta.
+Art. 7.º - 1 - É autorizada a instalação conjunta de laboratórios de produtos biológicos e de análises, desde que estes últimos constituam secção independente da zona de produção, por forma a não oferecer riscos para esta.
 
 2 - A violação do disposto no artigo 3.º e no número anterior constitui contra-ordenação, punível com coima de 100000$00 a 10000000$00.
 
 3 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a interdição do exercício da actividade pelo período não superior a um ano.
 
-###### Art. 8.º - 1 - Os laboratórios de preparação de produtos biológicos para uso veterinário ou os laboratórios de análises não poderão funcionar sem a direcção técnica de um médico veterinário.
+Art. 8.º - 1 - Os laboratórios de preparação de produtos biológicos para uso veterinário ou os laboratórios de análises não poderão funcionar sem a direcção técnica de um médico veterinário.
 
 2 - A interrupção de funções do director técnico será comunicada à DGP no prazo máximo de três dias.
 
@@ -178,19 +205,19 @@ e) Listagem dos produtos a elaborar e respectivas tecnologias de produção, de 
 
 5 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a interdição do exercício da actividade pelo período não superior a um ano.
 
-###### Art. 9.º Compete à DGP a fiscalização técnica dos laboratórios licenciados.
+Art. 9.º Compete à DGP a fiscalização técnica dos laboratórios licenciados.
 
-###### Art. 10.º A DGP, no uso das atribuições que lhe são conferidas pelo artigo anterior, poderá:
+Art. 10.º A DGP, no uso das atribuições que lhe são conferidas pelo artigo anterior, poderá:
 
 a) Acompanhar, por peritos do Laboratório Nacional de Investigação Veterinária (LNIV), todas as operações de preparação, controle de qualidade, embalagem, rotulagem, armazenamento e expedição dos produtos;
 
 b) Suspender a preparação de qualquer produto quando fundadamente suspeito de desvio do protocolo técnico aprovado, de preparação imperfeita ou de comprovada ineficácia.
 
-###### Art. 11.º O director-geral da Pecuária poderá, sempre que julgar conveniente, mandar proceder a vistorias extraordinárias para o efeito de:
+Art. 11.º O director-geral da Pecuária poderá, sempre que julgar conveniente, mandar proceder a vistorias extraordinárias para o efeito de:
 
 a) Saber se foram introduzidas alterações nas instalações sem a necessária autorização;b) Conhecer o estado de conservação e de utilização das instalações e, ainda, as condições de funcionamento do laboratório.
 
-###### Art. 12.º Visto o parecer emitido pelos peritos encarregados das vistorias, poderá o director-geral da Pecuária suspender, até que seja reposta a normalidade, o funcionamento dos laboratórios a que se refere este diploma, sempre que:
+Art. 12.º Visto o parecer emitido pelos peritos encarregados das vistorias, poderá o director-geral da Pecuária suspender, até que seja reposta a normalidade, o funcionamento dos laboratórios a que se refere este diploma, sempre que:
 
 a) As respectivas instalações ou protocolos de trabalho tenham sido indevidamente alterados;
 
@@ -198,7 +225,7 @@ b) O estado de conservação das instalações torne necessária a execução de
 
 ### CAPÍTULO III — Dos estabelecimentos importadores de produtos biológicos para uso veterinário e requisitos da sua comercialização
 
-###### Art. 13.º - 1 - A importação de produtos biológicos para uso veterinário só é permitida às pessoas singulares ou colectivas que disponham de licença passada pela DGP.
+Art. 13.º - 1 - A importação de produtos biológicos para uso veterinário só é permitida às pessoas singulares ou colectivas que disponham de licença passada pela DGP.
 
 2 - O requerimento solicitando a referida licença deve ser acompanhado dos seguintes documentos:
 
@@ -216,7 +243,7 @@ d) Documento comprovativo de que o laboratório ou laboratórios que representa 
 
 5 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a interdição do exercício da actividade, pelo período não superior a dois anos, e a apreensão dos produtos preparados ou armazenados.
 
-###### Art. 14.º - 1 - Os estabelecimentos importadores de produtos biológicos para uso veterinário não poderão funcionar sem a direcção técnica de um médico veterinário.
+Art. 14.º - 1 - Os estabelecimentos importadores de produtos biológicos para uso veterinário não poderão funcionar sem a direcção técnica de um médico veterinário.
 
 2 - A interrupção de funções do director técnico será comunicada à DGP no prazo máximo de três dias.
 
@@ -226,27 +253,27 @@ d) Documento comprovativo de que o laboratório ou laboratórios que representa 
 
 5 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a interdição do exercício da actividade pelo período não superior a um ano.
 
-###### Art. 15.º Compete à DGP a fiscalização técnica dos estabelecimentos importadores licenciados.
+Art. 15.º Compete à DGP a fiscalização técnica dos estabelecimentos importadores licenciados.
 
-###### Art. 16.º A DGP, no uso das atribuições que lhe são conferidas pelo artigo anterior, poderá:
+Art. 16.º A DGP, no uso das atribuições que lhe são conferidas pelo artigo anterior, poderá:
 
 a) Acompanhar, por peritos do LNIV, todas as operações relacionadas com a embalagem, rotulagem, armazenamento e expedição dos produtos importados;
 
 b) Suspender a comercialização de qualquer produto quando fundadamente suspeito de desvio do protocolo técnico aprovado, de preparação imperfeita ou de comprovada ineficácia.
 
-###### Art. 17.º O director-geral da Pecuária poderá, sempre que julgar conveniente, mandar proceder a vistorias extraordinárias para o efeito de:
+Art. 17.º O director-geral da Pecuária poderá, sempre que julgar conveniente, mandar proceder a vistorias extraordinárias para o efeito de:
 
 a) Saber se foram introduzidas alterações nas instalações sem a necessária autorização;
 
 b) Conhecer o estado de conservação e de utilização das instalações e, ainda, as condições de funcionamento do estabelecimento importador.
 
-###### Art. 18.º Visto o parecer emitido pelos peritos encarregados das vistorias, poderá o director-geral da Pecuária suspender, até que seja reposta a normalidade, o funcionamento dos estabelecimentos importadores a que se refere este diploma, sempre que:
+Art. 18.º Visto o parecer emitido pelos peritos encarregados das vistorias, poderá o director-geral da Pecuária suspender, até que seja reposta a normalidade, o funcionamento dos estabelecimentos importadores a que se refere este diploma, sempre que:
 
 a) As respectivas instalações ou protocolos de trabalho tenham sido indevidamente alterados;
 
 b) O estado de conservação das instalações torne necessário a execução de obras cuja realização seja incompatível com a adequada actividade do estabelecimento.
 
-###### Art. 19.º - 1 - Os produtos biológicos para uso veterinário produzidos no País ou importados carecem de autorização da DGP para serem comercializados ou utilizados no território continental português.
+Art. 19.º - 1 - Os produtos biológicos para uso veterinário produzidos no País ou importados carecem de autorização da DGP para serem comercializados ou utilizados no território continental português.
 
 2 - A autorização de comercialização ou utilização tem a validade de cinco anos, renovável, por iguais períodos de tempo, a pedido da entidade responsável pela produção ou importação.
 
@@ -262,7 +289,7 @@ b) Nome do produto e fim a que se destina.
 
 6 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos e a interdição do exercício da actividade pelo período não superior a dois anos, relativamente à produção ou importação dos referidos produtos.
 
-###### Art. 20.º O pedido a que se refere o artigo anterior será acompanhado de processo donde constem as informações e documentos seguintes:
+Art. 20.º O pedido a que se refere o artigo anterior será acompanhado de processo donde constem as informações e documentos seguintes:
 
 a) Memória descritiva escrita na língua de origem, com tradução autenticada para português no caso de produtos importados, assinada pelo director técnico do laboratório produtor e que contenha:
 
@@ -286,27 +313,27 @@ d) Projecto dos textos em língua portuguesa, destinados a acompanhar aqueles pr
 
 e) Certificado do contraste oficial no país de origem, no caso de produtos importados, do qual constem as provas realizadas e os seus resultados.
 
-###### Art. 21.º Nas importações seguintes de um produto já autorizado, basta fazer acompanhar o pedido de importação do documento referido na alínea e) do artigo anterior, o qual deve reportar-se ao lote que se pretende importar.
+Art. 21.º Nas importações seguintes de um produto já autorizado, basta fazer acompanhar o pedido de importação do documento referido na alínea e) do artigo anterior, o qual deve reportar-se ao lote que se pretende importar.
 
-###### Art. 22.º Em relação à produção nacional, para os lotes seguintes de um produto já autorizado, basta fazer acompanhar o pedido de contraste do protocolo referido na alínea b) do artigo 20.º
+Art. 22.º Em relação à produção nacional, para os lotes seguintes de um produto já autorizado, basta fazer acompanhar o pedido de contraste do protocolo referido na alínea b) do artigo 20.º
 
-###### Art. 23.º O director-geral da Pecuária decidirá, no prazo de 90 dias, acerca da autorização de comercialização ou utilização referida no n.º 4 do artigo 19.º e só depois da decisão favorável ficará autorizada a importação ou a produção nacional com carácter industrial do produto em causa.
+Art. 23.º O director-geral da Pecuária decidirá, no prazo de 90 dias, acerca da autorização de comercialização ou utilização referida no n.º 4 do artigo 19.º e só depois da decisão favorável ficará autorizada a importação ou a produção nacional com carácter industrial do produto em causa.
 
-###### Art. 24.º No caso de indeferimento, caberá recurso para o Ministro da Agricultura, Pescas e Alimentação, a interpor no prazo de 30 dias a contar da data em que o interessado dele tomar conhecimento.
+Art. 24.º No caso de indeferimento, caberá recurso para o Ministro da Agricultura, Pescas e Alimentação, a interpor no prazo de 30 dias a contar da data em que o interessado dele tomar conhecimento.
 
-###### Art. 25.º O director-geral da Pecuária poderá autorizar a comercialização ou utilização, caso a caso, da produção ou importação de produtos biológicos para aplicação em regime experimental.
+Art. 25.º O director-geral da Pecuária poderá autorizar a comercialização ou utilização, caso a caso, da produção ou importação de produtos biológicos para aplicação em regime experimental.
 
 ### CAPÍTULO IV — Contraste de produtos biológicos para uso veterinário
 
-###### Art. 26.º - 1 - Os produtos biológicos para uso veterinário não poderão ser aplicados ou expostos a venda sem prévia aprovação por contraste ou autorização de uso e venda pela DGP.
+Art. 26.º - 1 - Os produtos biológicos para uso veterinário não poderão ser aplicados ou expostos a venda sem prévia aprovação por contraste ou autorização de uso e venda pela DGP.
 
 2 - A violação do disposto no número anterior constitui contra ordenação, punível com coima de 100000$00 a 10000000$00.
 
 3 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos e a interdição do exercício da actividade, por período não superior a dois anos, relativamente à produção ou importação dos referidos produtos.
 
-###### Art. 27.º Compete ao LNIV a execução das provas científicas de contraste, cujos encargos correrão por conta dos interessados segundo a tabela em vigor, a qual é susceptível de actualização por despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta do director-geral da Pecuária.
+Art. 27.º Compete ao LNIV a execução das provas científicas de contraste, cujos encargos correrão por conta dos interessados segundo a tabela em vigor, a qual é susceptível de actualização por despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta do director-geral da Pecuária.
 
-###### Art. 28.º - 1 - O contraste, para efeitos deste Regulamento, consiste na realização de provas para apreciação das qualidades especificamente necessárias do produto.
+Art. 28.º - 1 - O contraste, para efeitos deste Regulamento, consiste na realização de provas para apreciação das qualidades especificamente necessárias do produto.
 
 2 - O contraste diz unicamente respeito ao lote de fabrico sobre o qual incidirem as provas.
 
@@ -314,7 +341,7 @@ e) Certificado do contraste oficial no país de origem, no caso de produtos impo
 
 4 - Nos casos em que a Farmacopeia Europeia seja omissa, adaptar-se-ão técnicas de reconhecido valor científico e internacionalmente aceites.
 
-###### Art. 29.º - 1 - O contraste será solicitado, para cada lote do produto preparado em Portugal ou importado, ao director do LNIV, indicando o nome, endereço e número de licença do produtor ou do importador, a designação ou marca comercial do produto e o fim a que se destina, a identificação do lote e as datas de preparação e de prescrição.
+Art. 29.º - 1 - O contraste será solicitado, para cada lote do produto preparado em Portugal ou importado, ao director do LNIV, indicando o nome, endereço e número de licença do produtor ou do importador, a designação ou marca comercial do produto e o fim a que se destina, a identificação do lote e as datas de preparação e de prescrição.
 
 2 - O pedido a que se refere o número anterior será acompanhado dos documentos referidos nos artigos 20.º, 21.º ou 22.º deste Regulamento, consoante o caso.
 
@@ -322,9 +349,9 @@ e) Certificado do contraste oficial no país de origem, no caso de produtos impo
 
 4 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos e a interdição do exercício da actividade por período não superior a dois anos, relativamente à produção ou importação dos referidos produtos.
 
-###### Art. 30.º Recebido o pedido de contraste, o director do LNIV mandará proceder à colheita das amostras necessárias às provas de contraste e à identificação e selagem do lote a contrastar, do qual o interessado ficará constituído fiel depositário.
+Art. 30.º Recebido o pedido de contraste, o director do LNIV mandará proceder à colheita das amostras necessárias às provas de contraste e à identificação e selagem do lote a contrastar, do qual o interessado ficará constituído fiel depositário.
 
-###### Art. 31.º - 1 - Concluídas as provas de contraste, o lote contrastado será passível das seguintes decisões:
+Art. 31.º - 1 - Concluídas as provas de contraste, o lote contrastado será passível das seguintes decisões:
 
 a) Aprovação;
 
@@ -342,11 +369,11 @@ b) No caso de produtos importados, a inutilização poderá ser substituída pel
 
 5 - Caso o produto indicado no número anterior não seja beneficiado ou devolvido, será inutilizado nas condições indicadas para os produtos reprovados.
 
-###### Art. 32.º - 1 - Do resultado do contraste poderá o interessado recorrer para o director-geral da Pecuária, por meio de requerimento, no prazo de cinco dias úteis a contar da data do conhecimento desse resultado.
+Art. 32.º - 1 - Do resultado do contraste poderá o interessado recorrer para o director-geral da Pecuária, por meio de requerimento, no prazo de cinco dias úteis a contar da data do conhecimento desse resultado.
 
 2 - O recurso terá sempre efeito suspensivo e dará lugar à repetição das provas de contraste.
 
-###### Art. 33.º - 1 - O contraste é improcedente para todos os efeitos quando se verifique:
+Art. 33.º - 1 - O contraste é improcedente para todos os efeitos quando se verifique:
 
 a) Falta de homogeneidade do lote;
 
@@ -362,17 +389,17 @@ d) Quando o período de validade atribuído ao produto for excedido.
 
 4 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos e a interdição do exercício da actividade por período não superior a dois anos, relativamente à produção ou importação dos referidos produtos.
 
-###### Art. 34.º Os produtos biológicos para uso veterinário só poderão ser vendidos mediante receita ou requisição de médico veterinário.
+Art. 34.º Os produtos biológicos para uso veterinário só poderão ser vendidos mediante receita ou requisição de médico veterinário.
 
 ### CAPÍTULO V — Rotulagem e conservação de produtos biológicos para uso veterinário
 
-###### Art. 35.º Para efeitos do disposto no presente Regulamento, considera-se que a embalagem contém o recipiente e este contém directamente o produto.
+Art. 35.º Para efeitos do disposto no presente Regulamento, considera-se que a embalagem contém o recipiente e este contém directamente o produto.
 
-###### Art. 36.º O recipiente deverá ser concebido de modo a proteger devidamente o produto a que se destina, sem lhe alterar as qualidades, e ser constituído por materiais que não se deteriorem nas condições normais de conservação do produto.
+Art. 36.º O recipiente deverá ser concebido de modo a proteger devidamente o produto a que se destina, sem lhe alterar as qualidades, e ser constituído por materiais que não se deteriorem nas condições normais de conservação do produto.
 
-###### Art. 37.º A marca de contraste ou de autorização de venda será aposta no recipiente, excepto quando se trate de produtos cujo recipiente o não permita, sendo então a marca de contraste ou de autorização aposta na embalagem.
+Art. 37.º A marca de contraste ou de autorização de venda será aposta no recipiente, excepto quando se trate de produtos cujo recipiente o não permita, sendo então a marca de contraste ou de autorização aposta na embalagem.
 
-###### Art. 38.º - 1 - Os produtos biológicos para uso veterinário importados deverão ser contidos nos recipientes definitivos de utilização, podendo, no entanto, ser autorizada a importação em recipientes maiores, desde que a distribuição nos recipientes definitivos seja efectuada em laboratórios autorizados e sob controle do LNIV.
+Art. 38.º - 1 - Os produtos biológicos para uso veterinário importados deverão ser contidos nos recipientes definitivos de utilização, podendo, no entanto, ser autorizada a importação em recipientes maiores, desde que a distribuição nos recipientes definitivos seja efectuada em laboratórios autorizados e sob controle do LNIV.
 
 2 - Os recipientes e as embalagens serão rotulados.
 
@@ -398,7 +425,7 @@ h) As indicações «Para uso veterinários» e «Só pode vender-se mediante re
 
 5 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos em infracção e a interdição do exercício da actividade, relativamente à venda desses produtos, até à reposição das condições exigidas por lei, que não poderá exceder o período de dois anos.
 
-###### Art. 39.º - 1 - Os rótulos das embalagens e os textos inclusos, igualmente escritos em português, deverão conter ainda as seguintes informações, além das indicações mencionadas no artigo anterior:
+Art. 39.º - 1 - Os rótulos das embalagens e os textos inclusos, igualmente escritos em português, deverão conter ainda as seguintes informações, além das indicações mencionadas no artigo anterior:
 
 a) Nome e quantidade de qualquer componente antimicrobiano ou outras substâncias adicionadas ao produto;
 
@@ -420,13 +447,13 @@ h) Nome ou composição e quantidade de diluente a adicionar e também a mençã
 
 3 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos em infracção e a interdição do exercício da actividade, relativamente à venda desses produtos, até à reposição das condições exigidas por lei, que não poderá exceder o período de dois anos.
 
-###### Art. 40.º - 1 - No caso de o produto não apresentar embalagem, o rótulo do recipiente deve conter não só as indicações referidas no n.º 3 do artigo 38.º como as indicações do artigo 39.º
+Art. 40.º - 1 - No caso de o produto não apresentar embalagem, o rótulo do recipiente deve conter não só as indicações referidas no n.º 3 do artigo 38.º como as indicações do artigo 39.º
 
 2 - A violação do disposto no número anterior constitui contra-ordenação, punível com coima de 100000$00 a 10000000$00.
 
 3 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos em infracção e a interdição do exercício da actividade, relativamente à venda desses produtos, até à reposição das condições exigidas por lei, que não poderá exceder o período de dois anos.
 
-###### Art. 41.º - 1 - A conservação de produtos biológicos deve fazer-se em lugares secos, ao abrigo da congelação, no caso de preparações líquidas, mantendo-se a temperaturas entre 2ºC e 8ºC, salvo condições de maior exigência, a indicar pelo respectivo laboratório.
+Art. 41.º - 1 - A conservação de produtos biológicos deve fazer-se em lugares secos, ao abrigo da congelação, no caso de preparações líquidas, mantendo-se a temperaturas entre 2ºC e 8ºC, salvo condições de maior exigência, a indicar pelo respectivo laboratório.
 
 2 - Os produtos liofilizados podem ser congelados.
 
@@ -438,7 +465,7 @@ h) Nome ou composição e quantidade de diluente a adicionar e também a mençã
 
 6 - Para além do disposto no número anterior, poderá ser aplicada como sanção acessória a apreensão dos produtos e a interdição do exercício da actividade, por período não superior a dois anos, relativamente à produção ou importação dos referidos produtos.
 
-###### Art. 42.º - 1 - Fica proibida a entrada no País, sem autorização do LNIV, de estirpes microbianas do foro veterinário, seja qual for o fim a que se destinem.
+Art. 42.º - 1 - Fica proibida a entrada no País, sem autorização do LNIV, de estirpes microbianas do foro veterinário, seja qual for o fim a que se destinem.
 
 2 - A violação do disposto no número anterior constitui contra-ordenação, punível com coima de 100000$00 a 10000000$00.
 
@@ -446,14 +473,14 @@ h) Nome ou composição e quantidade de diluente a adicionar e também a mençã
 
 ### CAPÍTULO VI — Fiscalização e processamento das contra-ordenações
 
-###### Art. 43.º As competências para fiscalização e o processamento das contra-ordenações cabem à DGP.
+Art. 43.º As competências para fiscalização e o processamento das contra-ordenações cabem à DGP.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 44.º O produto das receitas provenientes da aplicação do presente diploma reverte para o Estado.
+Art. 44.º O produto das receitas provenientes da aplicação do presente diploma reverte para o Estado.
 
-###### Art. 45.º Em tudo o que se não encontrar expressamente previsto no presente diploma é aplicável o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+Art. 45.º Em tudo o que se não encontrar expressamente previsto no presente diploma é aplicável o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 46.º Relativamente aos produtos já existentes no mercado, mas dos quais não tenham sido apresentados em devido tempo os documentos exigidos no artigo 20.º deste Regulamento, a DGP notificará nesse sentido o respectivo produtor ou importador, sendo-lhe concedido um prazo de 120 dias para a sua apresentação.
+Art. 46.º Relativamente aos produtos já existentes no mercado, mas dos quais não tenham sido apresentados em devido tempo os documentos exigidos no artigo 20.º deste Regulamento, a DGP notificará nesse sentido o respectivo produtor ou importador, sendo-lhe concedido um prazo de 120 dias para a sua apresentação.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

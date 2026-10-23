@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1987-419983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2084a493238868e6a2b1ebd69051f73da7dd216e3bd965a030e2fc2999a15a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05de3b2ddc49b600f76cb27af7b21038aff0f6382b49a3e7ef66f38fb1f9123c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arbitragem
+- Jurisdição de Arbitragem
+- Lisboa
+- Ministro da Agricultura Pescas e Alimentação
+- Representante do Estado
+- Tribunal Administrativo
+- Tribunal Administrativo de Círculo
+relationships:
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:35Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +126,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Nos termos do n.º 4 do artigo 1.º da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto, fica o Ministro da Agricultura, Pescas e Alimentação, em representação do Estado, autorizado a celebrar uma convenção de arbitragem com a Casa Agrícola Santos Jorge, S. A., pela qual se submete a tribunal arbitral o litígio pendente nos actos que correm, sob o n.º 5357, no Tribunal Administrativo do Círculo de Lisboa.
+Artigo único. Nos termos do n.º 4 do artigo 1.º da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto, fica o Ministro da Agricultura, Pescas e Alimentação, em representação do Estado, autorizado a celebrar uma convenção de arbitragem com a Casa Agrícola Santos Jorge, S. A., pela qual se submete a tribunal arbitral o litígio pendente nos actos que correm, sob o n.º 5357, no Tribunal Administrativo do Círculo de Lisboa.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 22 de Junho de 1987.**
+Promulgado em 22 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1987.**
+Referendado em 24 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

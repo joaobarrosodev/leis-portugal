@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01600/02690272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1987-663361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbf4388ce8291418f073baf65d9834d93bea83161ef9d49dbac0b21d290bac3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07651160fa3d6a44c22bdf74f4dbc4617df01aa3693a7346a4c0734cf5eea457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fretamento
+- Marinha Mercante
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:471166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613936:por
+  label: "Alterados os artigos 1.º, 2.º, 3.º, 4.º, 9.º e 10.º, pelo DEC LEI.86/89.23.03.1989.MOPTC, DR.IS [69] de 23.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1989-613936
+  date: '1989-03-23'
+- type: amended_by
+  target: pt:dre:332391:por
+  label: "Alterados os arts. 8º e 10º pelo DEC LEI.68/90.01.03.1990.MOPTC, DR.IS [50] de 01.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1990-332391
+  date: '1990-03-01'
+- type: cites
+  target: pt:dre:250829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673850:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471166:por
+  label: Revogado pelo DEC LEI.123/91.21.03.1991.MOPTC, DR.IS-A [67] de 21.03.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1991-471166
+  date: '1991-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:37Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +151,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Regime de preferência
 
-###### Artigo 1.º - 1 - A importação, por via marítima, de mercadorias essenciais para o abastecimento do País deve ser efectuada, num mínimo de 75% da respectiva tonelagem, em navios de bandeira portuguesa, ainda que afretados em casco nu com opção de compra, ou, na sua falta, em navios afretados por armadores nacionais, desde que em condições de frete ajustadas às vigentes no mercado internacional de fretes.
+Artigo 1.º - 1 - A importação, por via marítima, de mercadorias essenciais para o abastecimento do País deve ser efectuada, num mínimo de 75% da respectiva tonelagem, em navios de bandeira portuguesa, ainda que afretados em casco nu com opção de compra, ou, na sua falta, em navios afretados por armadores nacionais, desde que em condições de frete ajustadas às vigentes no mercado internacional de fretes.
 
 2 - A percentagem referida no n.º 1 reporta-se sempre à tonelagem importada anualmente por cada carregador.
 
@@ -128,11 +163,11 @@ a) Se o navio proposto for de bandeira portuguesa, o frete oferecido não exceda
 
 b) Se o navio proposto não for de bandeira portuguesa, as condições de frete não excedam as do mercado internacional.
 
-###### Art. 2.º - 1 - Considera-se liberado o transporte marítimo de 25% da tonelagem das mercadorias essenciais ao abastecimento do País importadas por cada carregador, quantidade calculada por referência à tonelagem anteriormente transportada nos termos do estipulado nos n.os 1 e 2 do artigo anterior.
+Art. 2.º - 1 - Considera-se liberado o transporte marítimo de 25% da tonelagem das mercadorias essenciais ao abastecimento do País importadas por cada carregador, quantidade calculada por referência à tonelagem anteriormente transportada nos termos do estipulado nos n.os 1 e 2 do artigo anterior.
 
 2 - Quando entre carregadores e armadores nacionais sejam celebrados, com conhecimento da Direcção-Geral da Marinha de Comércio (DGMC), contratos de transporte marítimo de mercadorias por período superior a dois anos, a percentagem liberada nos termos do número anterior será aumentada em quantidade correspondente à quinta parte das mercadorias abrangidas por cada um dos contratos.
 
-###### Art. 3.º Quando a mercadoria a transportar for essencial ao abastecimento do País e não estiver liberada nos termos do disposto no artigo 2.º, considera-se liberada em qualquer das seguintes situações:
+Art. 3.º Quando a mercadoria a transportar for essencial ao abastecimento do País e não estiver liberada nos termos do disposto no artigo 2.º, considera-se liberada em qualquer das seguintes situações:
 
 a) Se até três dias úteis após a consulta aos armadores estes não apresentarem quaisquer propostas ou propuserem condições de frete não ajustadas às vigentes no mercado internacional de fretes;
 
@@ -142,7 +177,7 @@ c) Quando o carregador pretenda transportar, acondicionadas e em pequena quantid
 
 d) Quando o armador não cumpra, por qualquer forma, as condições do contrato que firmou com o carregador para o transporte da mercadoria em causa.
 
-###### Art. 4.º - 1 - Os carregadores devem, relativamente às cargas liberadas nos termos dos artigos 2.º e 3.º, informar imediatamente a DGMC:
+Art. 4.º - 1 - Os carregadores devem, relativamente às cargas liberadas nos termos dos artigos 2.º e 3.º, informar imediatamente a DGMC:
 
 a) Das razões que determinaram a não utilização de navio de bandeira portuguesa ou afretado por armador nacional;
 
@@ -158,31 +193,31 @@ b) À Direcção-Geral das Alfândegas que o desalfandegamento das mercadorias e
 
 4 - Se se verificar que uma mercadoria não foi transportada em navio de bandeira portuguesa ou afretado por armador nacional, com violação das regras estabelecidas nos artigos 2.º e 3.º, pode ser recusado o desalfandegamento dessa mercadoria, a solicitação da DGMC, sem prejuízo da aplicação das sanções previstas no artigo 10.º
 
-###### Art. 5.º Os ministros responsáveis pelas áreas da alimentação, da indústria, do comércio e da marinha de comércio podem, por despacho conjunto, determinar a liberação do transporte de produtos essenciais sempre que estiver em causa o aprovisionamento normal do País.
+Art. 5.º Os ministros responsáveis pelas áreas da alimentação, da indústria, do comércio e da marinha de comércio podem, por despacho conjunto, determinar a liberação do transporte de produtos essenciais sempre que estiver em causa o aprovisionamento normal do País.
 
-###### Art. 6.º Para efeitos do disposto neste capítulo, a todos os armadores nacionais deve ser conferida pelos carregadores igualdade de tratamento.
+Art. 6.º Para efeitos do disposto neste capítulo, a todos os armadores nacionais deve ser conferida pelos carregadores igualdade de tratamento.
 
 ### CAPÍTULO II — Reserva de tráfego entre portos nacionais
 
-###### Art. 7.º - 1 - O tráfego marítimo de passageiros e mercadorias entre portos nacionais é reservado a navios de bandeira portuguesa.
+Art. 7.º - 1 - O tráfego marítimo de passageiros e mercadorias entre portos nacionais é reservado a navios de bandeira portuguesa.
 
 2 - A regra definida no número anterior pode ser afastada, desde que se observe no mercado uma insuficiência de oferta.
 
 3 - Compete ao ministro responsável pela marinha de comércio fixar em portaria os termos em que a derrogação prevista no número anterior se exerce.
 
-###### Art. 8.º - 1 - Até 31 de Dezembro de 1989 o tráfego entre portos do continente e das regiões autónomas e entre portos destas continua a ser explorado apenas pelos armadores que efectuem serviços regulares entre aqueles portos.
+Art. 8.º - 1 - Até 31 de Dezembro de 1989 o tráfego entre portos do continente e das regiões autónomas e entre portos destas continua a ser explorado apenas pelos armadores que efectuem serviços regulares entre aqueles portos.
 
 2 - Após a data prevista no n.º 1, sempre que o abastecimento das regiões autónomas exija o estabelecimento de linhas regulares entre portos do continente e destas regiões e entre portos das mesmas, praticando preços de transporte inferiores aos exigíveis pela cobertura dos respectivos custos de exploração, o Estado deve realizar concurso público para adjudicação desse transporte, no âmbito do qual sejam determinadas as condições que pretende que se observem nesse tráfego e as correspondentes indemnizações compensatórias dos prejuízos previsíveis em consequência do cumprimento dos fretes fixados.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 9.º - 1 - O respeito pelo cumprimento do disposto no presente diploma é verificado pela DGMC, a quem devem ser prestadas todas as informações que a mesma solicite para o efeito.
+Art. 9.º - 1 - O respeito pelo cumprimento do disposto no presente diploma é verificado pela DGMC, a quem devem ser prestadas todas as informações que a mesma solicite para o efeito.
 
 2 - Os carregadores devem, em Janeiro e Julho de cada ano, indicar àquela Direcção-Geral o volume total das mercadorias que importaram por via marítima durante o semestre anterior, o valor dos respectivos fretes e, bem assim, a quantidade das que, de entre aquelas, foram transportadas em navios de bandeira portuguesa ou afretados por armadores nacionais.
 
 3 - A DGMC: deve recolher as informações necessárias, tanto dos armadores como dos carregadores, de modo a determinar anualmente os custos resultantes da aplicação deste diploma.
 
-###### Art. 10.º - 1 - Quem importar ou transportar por via marítima mercadorias essenciais ao abastecimento do País em violação do disposto nos artigos 1.º, 2.º e 3.º e, bem assim, quem infringir o disposto nos artigos 4.º, n.º 1, 7.º, n.º 1, e 8.º, n.º 1, pratica contra-ordenação sancionável com coima de 300000$00 a 3000000$00.
+Art. 10.º - 1 - Quem importar ou transportar por via marítima mercadorias essenciais ao abastecimento do País em violação do disposto nos artigos 1.º, 2.º e 3.º e, bem assim, quem infringir o disposto nos artigos 4.º, n.º 1, 7.º, n.º 1, e 8.º, n.º 1, pratica contra-ordenação sancionável com coima de 300000$00 a 3000000$00.
 
 2 - A violação do dever de informação previsto no artigo 9.º constitui contra-ordenação sancionável com coima de 100000$00 a 300000$00.
 
@@ -196,20 +231,20 @@ b) Que o infractor, se for armador, não beneficie, durante um período entre tr
 
 5 - Em tudo o que não está regulado neste artigo é aplicável o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273).
 
-###### Art. 11.º Mantêm-se em vigor as disposições existentes sobre o transporte marítimo de combustíveis líquidos no domínio do abastecimento do País.
+Art. 11.º Mantêm-se em vigor as disposições existentes sobre o transporte marítimo de combustíveis líquidos no domínio do abastecimento do País.
 
-###### Art. 12.º São revogados o [Decreto-Lei n.º 218/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1972-673850), de 27 de Junho, e o [Decreto-Lei n.º 75-U/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-u-1977-509054), de 28 de Fevereiro, bem como toda a legislação complementar.
+Art. 12.º São revogados o [Decreto-Lei n.º 218/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1972-673850), de 27 de Junho, e o [Decreto-Lei n.º 75-U/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-u-1977-509054), de 28 de Fevereiro, bem como toda a legislação complementar.
 
-###### Art. 13.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987, devendo até esta data ser publicadas as portarias previstas no n.º 3 e na alínea a) do n.º 4 do artigo 1.º
+Art. 13.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987, devendo até esta data ser publicadas as portarias previstas no n.º 3 e na alínea a) do n.º 4 do artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

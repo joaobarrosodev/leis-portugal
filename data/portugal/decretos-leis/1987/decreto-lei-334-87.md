@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/10/23100/37313731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1987-496342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5635b53f4e6c3941e6e725772519193110b82b0d93fb06f48174edccd0eacd3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 947079874a30ff6bfa35dc3422bcdfc86503418aa6628fa4b698076d8a918246
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Instituição
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684205:por
+  label: "Sugeitada a superintendência conjunta do Ministro da Saúde e do Ministro da Ciência e do Ensino Superior, a tutela\
+    \ do Instituto de Genética Médica Doutor Jacinto de Magalhães, criado pelo Dec Lei 431/80, de 01-Out DR.IS [227] com a\
+    \ alteração de denominação introduzida pelo presente diploma, pelo DEC LEI.119/2003.2003.06.17.PCM DR.IS-A [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2003-684205
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta o Instituto criado pelo Dec Lei 431/80, de 01-Out, e alterada a denominação\
+    \ pelo presente diploma, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a definição das linhas\
+    \ de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação\
+    \ e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208-Supl] de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada que a competência relativa à definição das orientações estratégicas do Instituto, criado no Dec Lei\
+    \ 431/80, de 01-Out, e alterada a denominação no presente diploma, seja exercida pelo Ministro da Saúde em articulação\
+    \ com o Ministro da Ciência, Tecnologia e Ensino Superior, bem como o acompanhamento da sua execução, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: cites
+  target: pt:dre:461606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:32Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +131,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O Instituto de Genética Médica, instituído pelo [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), de 1 de Outubro, passa a designar-se Instituto de Genética Médica Doutor Jacinto de Magalhães.
+Artigo único. O Instituto de Genética Médica, instituído pelo [Decreto-Lei n.º 431/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1980-461606), de 1 de Outubro, passa a designar-se Instituto de Genética Médica Doutor Jacinto de Magalhães.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1987. - Aníbal António Cavaco Silva - Eduardo Silva Teixeira de Melo - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 25 de Setembro de 1987.**
+Promulgado em 25 de Setembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1987.**
+Referendado em 30 de Setembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

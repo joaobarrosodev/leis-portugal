@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02600/03980399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1987-663314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f51a26deda2f3621b47dc089e0728ac2a8651007fa77a8392787eb595d8a48f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d4c7a3c9c2b74dc7c15cb8d1b08e465917948d734f9fa919a35b50e04ad739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Propriedade Industrial
+- Instituto Nacional da Propriedade Industrial
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:443705:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:14Z'
   warnings: []
   errors: []
 ---
@@ -94,29 +106,29 @@ Considerando, por outro lado, a necessidade de aumentar a eficácia e eficiênci
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A tabela a que se refere o artigo 1.º do [Decreto-Lei n.º 408/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1983-443705), de 21 de Novembro, é substituída pela anexa ao presente diploma, a qual passa a constituir a tabela n.º 6 a que se refere o artigo 255.º do CPI.
+Artigo 1.º A tabela a que se refere o artigo 1.º do [Decreto-Lei n.º 408/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1983-443705), de 21 de Novembro, é substituída pela anexa ao presente diploma, a qual passa a constituir a tabela n.º 6 a que se refere o artigo 255.º do CPI.
 
-###### Art. 2.º Aos funcionários e dirigentes do INPI são abonados prémios de produtividade em função do trabalho desenvolvido, não podendo o seu montante exceder 30% do respectivo vencimento ilíquido.
+Art. 2.º Aos funcionários e dirigentes do INPI são abonados prémios de produtividade em função do trabalho desenvolvido, não podendo o seu montante exceder 30% do respectivo vencimento ilíquido.
 
-###### Art. 3.º Os prémios de produtividade terão natureza individual, devendo a sua atribuição, pelo conselho administrativo do INPI, ser precedida, caso a caso, de avaliação de optimização de resultados, de redução de custos e de prazos de trabalhos executados e do aperfeiçoamento de actividades.
+Art. 3.º Os prémios de produtividade terão natureza individual, devendo a sua atribuição, pelo conselho administrativo do INPI, ser precedida, caso a caso, de avaliação de optimização de resultados, de redução de custos e de prazos de trabalhos executados e do aperfeiçoamento de actividades.
 
-###### Art. 4.º Só os dias de efectivo serviço de cada funcionário serão considerados para efeito de atribuição de prémios de produtividade.
+Art. 4.º Só os dias de efectivo serviço de cada funcionário serão considerados para efeito de atribuição de prémios de produtividade.
 
-###### Art. 5.º Para efeitos do artigo anterior, consideram-se equiparadas a efectivo serviço a licença para férias e as faltas dadas por motivo de nojo, casamento e maternidade.
+Art. 5.º Para efeitos do artigo anterior, consideram-se equiparadas a efectivo serviço a licença para férias e as faltas dadas por motivo de nojo, casamento e maternidade.
 
-###### Art. 6.º Os encargos decorrentes da atribuição dos prémios de produtividade serão suportados inteiramente pelo montante das taxas recebidas pelo INPI a título de entrada de requerimentos.
+Art. 6.º Os encargos decorrentes da atribuição dos prémios de produtividade serão suportados inteiramente pelo montante das taxas recebidas pelo INPI a título de entrada de requerimentos.
 
 Visto e aprovado em Conselho de Ministros de 18 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 15 de Janeiro de 1987.**
+Promulgado em 15 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Janeiro de 1987.**
+Referendado em 21 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TABELA N.º 6
 

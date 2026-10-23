@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1987-665768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70af052a6ab5719713102d98e0fe7293897d4c0e78f944ca916e809772b9fd19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d7318fefc89c0f3502ecbbd530232a9ee438f03ef71f62b27631e4d9090904
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Fósforos
+- Importação
+- IVA
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:620353:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620353:por
+  label: Alterado o art. 1.º do Dec Lei 346/85, de 23-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 195/89
+    - Diário da República n.º 133/1989, Série I de 1989-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1989-620353
+  date: '1989-06-12'
+- type: cites
+  target: pt:dre:181018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627236:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:622336:por
+  label: Rectificado pela DECL.DD3630.1987.06.29.PCM, DR.IS [147]2ºSupl de 30.06.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-622336
+  date: '1987-06-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:16Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +123,18 @@ Impõe-se, assim, proceder à alteração da norma que estabelece o critério de
 
 Assim, no uso da autorização legislativa conferida pelo artigo 39.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 346/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1985-181018), de 23 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 346/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1985-181018), de 23 de Agosto, passa a ter a seguinte redacção:
 
-###### Artigo 1.º Nas transmissões de tabacos manufacturados e fósforos o imposto sobre o valor acrescentado, IVA, é devido à saída do local de produção pelos respectivos produtores ou, no caso de importação, pelos importadores com base no preço de venda ao público.
+Artigo 1.º Nas transmissões de tabacos manufacturados e fósforos o imposto sobre o valor acrescentado, IVA, é devido à saída do local de produção pelos respectivos produtores ou, no caso de importação, pelos importadores com base no preço de venda ao público.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

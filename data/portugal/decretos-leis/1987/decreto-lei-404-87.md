@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1987, 3º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4440-(216) a 4440-(219)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30003/02160219.pdf
 entry_into_force_dates: []
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1987-406128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 044649277b6fbb95914cf944aab1f26b08fde44ec6c671922b37b3c6b722d2dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b1ad0c995134caecfe6a196e85b6ec7c4de3635352557a82f141ac17196f977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IVA
 relationships:
 - type: amended_by
   target: pt:dre:75774119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620353:por
+  label: Alterados os arts. 13.º, 14.º e 15.º do Código do IVA aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente
+    diploma pelo(a) Decreto-Lei n.º 195/89 - Diário da República n.º 133/1989, Série I de 1989-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1989-620353
+  date: '1989-06-12'
+- type: amended_by
+  target: pt:dre:574957:por
+  label: "Dada nova redacção ao art. 13º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, alterado pelo presente\
+    \ diploma, pelo DEC LEI.198/90.19.06.1990.MF, DR.IS [139] de 19.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1990-574957
+  date: '1990-06-19'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 13.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:226204:por
+  label: "Alterados os arts. 13º e 15º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com as alterações constantes\
+    \ do presente diploma, pela LEI.22-A/2007.29.06.2007.AR, DR.IS [124-Supl] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-a-2007-226204
+  date: '2007-06-29'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 13º, 14º, 15º e 17º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo DEC\
+    \ LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 15.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ revisto e republicado pelos Dec Lei 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl]\
+    \ de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:343581:por
+  label: "Alterado o art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008, de 20-Jun, pela LEI.22/2010.23.08.2010.AR, DR.IS [163] de 23.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2010-343581
+  date: '2010-08-23'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterados, a partir de 01.01.2011, os arts. 13º e 14º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:75774119:por
+  label: Alterado, a partir de 01.01.2017, o art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, na redação
+    do presente diploma, alterado, renumerado e republicado pelo Dec Lei 102/2008 de 20-jun pelo(a) Lei n.º 36/2016 - Diário
+    da República n.º 223/2016, Série I de 2016-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2016-75774119
+  date: '2016-11-21'
+- type: corrected_by
+  target: pt:dre:186766:por
+  label: Rectificado pela DECL.DD2076.1988.01.28.PCM,DR.IS [25]Supl de 30/Jan/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-186766
+  date: '1988-01-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:44Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +169,11 @@ Assim:
 
 O Governo, no uso da autorização legislativa conferida pela alínea b) do n.º 1 do artigo 38.º da Lei n.º 49/86, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º Os artigos 13.º, 14.º, 15.º e 17.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 202/87, de 16 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º, 14.º, 15.º e 17.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 202/87, de 16 de Maio, passam a ter a seguinte redacção:
 
 #### SECÇÃO II — Isenções na importação
 
-###### Art. 13.º - 1 - Estão isentas do imposto:
+Art. 13.º - 1 - Estão isentas do imposto:
 
 a) As importações definidas de bens cuja transmissão no território nacional seja isenta do imposto;
 
@@ -196,7 +265,7 @@ b) Combustíveis e carburantes que não sejam os contidos nos depósitos normais
 
 #### SECÇÃO III — [...]
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 a) ...
 
@@ -242,7 +311,7 @@ t) ...
 
 4 - ...
 
-###### Art. 15.º - 1 - Estão isentas do imposto as operações abaixo indicadas, desde que os bens a que se referem não se destinem a utilização definitiva ou consumo final, enquanto se mantiverem nos respectivos regimes aduaneiros:
+Art. 15.º - 1 - Estão isentas do imposto as operações abaixo indicadas, desde que os bens a que se referem não se destinem a utilização definitiva ou consumo final, enquanto se mantiverem nos respectivos regimes aduaneiros:
 
 a) As importações de bens:
 
@@ -260,7 +329,7 @@ d) As transmissões de bens que, quando importados, beneficiem das isenções pr
 
 2 - ...
 
-###### Art. 17.º - 1 - ...
+Art. 17.º - 1 - ...
 
 2 - ...
 
@@ -272,16 +341,16 @@ d) As transmissões de bens que, quando importados, beneficiem das isenções pr
 
 6 - Nos casos de reimportação, não isenta de imposto, de bens exportados temporariamente e que no estrangeiro tenham sido objecto de trabalhos de reparação, transformação ou complemento de fabrico, o valor tributável será o que corresponder à operação efectuada no estrangeiro, determinado de harmonia com o disposto no n.º 1 do presente artigo.
 
-###### Art. 2.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1988.
+Art. 2.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

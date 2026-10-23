@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00200/00190024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,131 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1987-599716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aecc3338fcb4248d76faa1049f17661e486dea1f9c8916ea0a73b5bed1fcaf7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f70fe6c1546dba043afdbc7168cf36a31e440adfdb1cf7e47b694b8cc7651352
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Conselho Nacional de Educação
+- Conselho Superior do Desporto
+- Direção Geral do Ensino Superior
+- Direcção Geral de Administração e Pessoal
+- Direcção Geral de Apoio e Extensão Educativa
+- Direcção Geral dos Desportos
+- Direcção Geral dos Equipamentos Educativos
+- Direcção Regional de Educação
+- Gabinete de Estudos e Planeamento
+- Gabinete de Gestão Financeira
+- Inspecção Geral do Ensino
+- Instituto de Apoio Sócio-Educativo
+- Instituto de Cultura e Língua Portuguesa
+- Instituto de Inovação Educacional
+- Instituto de Investigação Científica e Tropical
+- Instituto de Tecnologia Educativa
+- Instituto Nacional de Fomento do Desporto
+- Instituto Nacional de Investigação Científica
+- Instituto Português de Oncologia de Francisco Gentil
+- Ministério da Educação e Cultura
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662570:por
+  label: "Alterado o nº 2 do art. 11º, e substituído o mapa anexo ao presente diploma, pelo DEC LEI.80/87.19.02.1987.MEC,\
+    \ DR.IS [42] de 19.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1987-662570
+  date: '1987-02-19'
+- type: amended_by
+  target: pt:dre:619294:por
+  label: "Determinado que o Instituto de Investigação Científica Tropical (IICT) transite para o Ministério do Planeamento\
+    \ e da Administração do Território, e alterado o art. 4º pelo DEC LEI.249/89.08.08.1989.MPLAT, DR.IS [181] de 08.08.1989,\
+    \ de acordo com o art. 1º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1989-619294
+  date: '1989-08-08'
+- type: amended_by
+  target: pt:dre:487696:por
+  label: "Extinto o Instituto de Apoio Sócio-Educativo a que se refere a al. e) do nº 1 do art. 3º pelo DEC LEI.82/91.19.02.1991.ME,\
+    \ DR.IS-A [41] de 19.02.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1991-487696
+  date: '1991-02-19'
+- type: amended_by
+  target: pt:dre:484419:por
+  label: Alterada para Direcção-Geral dos Ensinos Básico e Secundário a designação da Direcção-Geral do Ensino Básico e Secundário
+    pelo DEC LEI.95/91.26.02.1991.ME, DR.IS-A [47] de 26.02.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1991-484419
+  date: '1991-02-26'
+- type: amended_by
+  target: pt:dre:674184:por
+  label: "Passada a denominar-se Inspecção-Geral de Educação, a Inspecção-Geral de Ensino, a que se refere o art. 15º, pelo\
+    \ DEC LEI.304/91.16.08.1991.ME, DR.IS-A [187] de 16.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1991-674184
+  date: '1991-08-16'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinto, sendo objecto de fusão, com o Conselho Nacional contra a Violência no Desporto, e o Conselho Nacional Antidopagem,\
+    \ - o Conselho Superior do Desporto, criado no presente diploma, e integradas as suas competências no Conselho Nacional\
+    \ do Desporto, junto do Instituto do Desporto de Portugal, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006,\
+    \ nos termos dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:297237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310790:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420041:por
+  label: "Revogado o art. 5.º pela LEI.31/87.1987.07.09.AR DR.IS [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-1987-420041
+  date: '1987-07-09'
+- type: repealed_by
+  target: pt:dre:549429:por
+  label: "Revogados os artigos 19.º e 20.º pelo DEC LEI.369/89.23.10.1989.ME, DR.IS [244] de 23.10.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1989-549429
+  date: '1989-10-23'
+- type: repealed_by
+  target: pt:dre:665342:por
+  label: "Revogado pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993, e extinta a Direcção-Geral dos Ensinos Básico\
+    \ e Secundário, Direcção-Geral do Ensino Superior, Auditoria Jurídica, Gabinete de Estudos e Planeamento e o Gabinete\
+    \ de Gestão Financeira, inseridos na Orgânica aprovada no presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
+- type: repealed_by
+  target: pt:dre:665351:por
+  label: "Revogado o artigo 6.º pelo DEC LEI.145/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1993-665351
+  date: '1993-04-26'
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:59Z'
   warnings: []
   errors: []
 ---
@@ -395,16 +486,16 @@ Até à efectivação das convenientes alterações orçamentais e mediante desp
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 12 de Dezembro de 1986.**
+Promulgado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1986.**
+Referendado em 16 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo ao Decreto-Lei n.º 3/87, de 3 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/00200/00190024.pdf))](https://files.diariodarepublica.pt/1s/1987/01/00200/00190024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/00200/00190024.pdf)

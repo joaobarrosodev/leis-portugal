@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/19900/33543355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1987-418035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:21:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ec65575069a78302fe642ffb7f5cb68e894f05ee9930ffe455b8440406440a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdec4e99caf497c27be13de07797acb03345b1e3525ad63001a17557c7b0b13b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Capitais
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:21:22Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +118,13 @@ Assim:
 
 No uso da autorização conferida pelo artigo 44.º, n.º 4, da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os rendimentos ou ganhos derivados de operações de reporte a que se refere o artigo 477.º do Código Comercial, qualquer que seja a designação ou forma desses rendimentos ou ganhos, auferidos por pessoas singulares ou colectivas, estão sujeitos a imposto de capitais, secção B, nos termos do n.º 7.º do artigo 6.º do Código do Imposto de Capitais e constituem proveitos da entidade que os auferir para efeitos da determinação da matéria colectável sujeita a contribuição industrial nos termos do n.º 4.º do artigo 23.º do Código da Contribuição Industrial.
+Artigo 1.º - 1 - Os rendimentos ou ganhos derivados de operações de reporte a que se refere o artigo 477.º do Código Comercial, qualquer que seja a designação ou forma desses rendimentos ou ganhos, auferidos por pessoas singulares ou colectivas, estão sujeitos a imposto de capitais, secção B, nos termos do n.º 7.º do artigo 6.º do Código do Imposto de Capitais e constituem proveitos da entidade que os auferir para efeitos da determinação da matéria colectável sujeita a contribuição industrial nos termos do n.º 4.º do artigo 23.º do Código da Contribuição Industrial.
 
 2 - O disposto no número anterior abrange quaisquer operações de reporte independentemente da natureza dos títulos reportados, sejam obrigações, acções, bilhetes do Tesouro, certificados de depósito, títulos de participação ou outros.
 
-###### Art. 2.º O n.º 7.º do artigo 6.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
+Art. 2.º O n.º 7.º do artigo 6.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 1.º ...
 
@@ -119,22 +132,22 @@ No uso da autorização conferida pelo artigo 44.º, n.º 4, da [Lei n.º 49/86]
 
 ...
 
-###### Art. 3.º - 1 - Presume-se a existência de reporte sempre que uma instituição de crédito proceda à compra de bilhetes do Tesouro até ao 15.º dia após a sua venda.
+Art. 3.º - 1 - Presume-se a existência de reporte sempre que uma instituição de crédito proceda à compra de bilhetes do Tesouro até ao 15.º dia após a sua venda.
 
 2 - A amortização do título é equiparada à compra para efeito do disposto no número anterior.
 
-###### Art. 4.º Ficam sujeitos ao regime fiscal estabelecido no artigo 1.º os rendimentos derivados de quaisquer contratos através dos quais se obtenham as mesmas vantagens económicas que poderiam ser alcançadas mediante a celebração de um contrato de mútuo, ainda que tais rendimentos revistam a forma de indemnização ou de cláusula penal.
+Art. 4.º Ficam sujeitos ao regime fiscal estabelecido no artigo 1.º os rendimentos derivados de quaisquer contratos através dos quais se obtenham as mesmas vantagens económicas que poderiam ser alcançadas mediante a celebração de um contrato de mútuo, ainda que tais rendimentos revistam a forma de indemnização ou de cláusula penal.
 
-###### Art. 5.º O presente decreto-lei produz efeitos desde a entrada em vigor da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, salvo quanto ao disposto nos artigos 3.º e 4.º
+Art. 5.º O presente decreto-lei produz efeitos desde a entrada em vigor da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, salvo quanto ao disposto nos artigos 3.º e 4.º
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 16 de Agosto de 1987.**
+Promulgado em 16 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Agosto de 1987.**
+Referendado em 18 de Agosto de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

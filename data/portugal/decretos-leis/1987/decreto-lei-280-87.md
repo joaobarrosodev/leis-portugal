@@ -46,40 +46,166 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1987-420068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9b148187be2f54761d1eb76e0401cd0eabc445a9394ec9bbe5318fa68302d2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1111b542871ae49b945d871ceb5f43fa0306245c13d8fcb5ea4ffe3196c15c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Sociedades Comerciais
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:66443115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644322:por
+  label: "Alterado o art. 360º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.229-B/88.04.07.1988.MF, DR.IS [152-Supl] de 04.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-b-1988-644322
+  date: '1988-07-04'
+- type: amended_by
+  target: pt:dre:649958:por
+  label: "Alterado o art. 414.º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.238/91.02.07.1991.MF, DR.IS-A [149] de 02.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1991-649958
+  date: '1991-07-02'
+- type: amended_by
+  target: pt:dre:221357:por
+  label: "Alterado o art. 66º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.225/92.21.10.1992.MJ, DR.IS-A [243] de 21.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-1992-221357
+  date: '1992-10-21'
+- type: amended_by
+  target: pt:dre:631865:por
+  label: "Alterado o art. 289.º do Código das Sociedades Comerciais aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.328/95.1995.12.09.MJ DR.IS-A [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1995-631865
+  date: '1995-12-09'
+- type: amended_by
+  target: pt:dre:492203:por
+  label: "Alterados os art.s 63º, 219º, 250º, 414º e 416º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86,\
+    \ de 02-Set, na redacção do presente diploma, pelo DEC LEI.257/96.31.12.1996.MJ, DR.IS-A [302] de 31.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1996-492203
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:223195:por
+  label: "Alterados os art.s 219º, 250º, 352º e 384º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86 de\
+    \ 02-Set, na redacção do presente diploma, pelo DEC LEI.343/98.06.11.1998.MF, DR.IS-A [257] de 06.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:682983:por
+  label: "Alterado o n.º 4 do art. 328.º e o n.º 1 do art. 371.º do Código das Sociedades Comerciais, aprovado pelo Dec Lei\
+    \ 262/86, de 02-Set, na redacção do presente diploma, pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
+- type: amended_by
+  target: pt:dre:631838:por
+  label: "Alterados os arts. 202º, 219º e 277º do Código das Sociedades Comerciais, na redacção do presente diploma, pelo\
+    \ DEC LEI.237/2001.30.08.2001.MJ, DR.IS-A [201] de 30.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2001-631838
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:223430:por
+  label: "Alterado o art. 66º do Código das Sociedades Comerciais, na redacção do presente diploma, pelo DEC LEI.88/2004.20.04.2004.MF,\
+    \ DR.IS-A [93] de 20.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2004-223430
+  date: '2004-04-20'
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterado o art. 66.º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterado, a partir de 30.03.2006, o art. 348º do Código das Sociedades Comerciais aprovado pelo Dec Lei 262/86 de\
+    \ 03-Nov, com a redacção conferida pelo presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterados os arts. 36º, 63º, 89º, 93º, 142º, 202º, 219º, 277.º, 285º, 288.º, 289º, 294º, 297º, 352º, 358º, 370º,
+    371º, 375º, 384.º, 405º, 414º, 415º, 416º, 425º, 464º e 488º do Código das Sociedades Comerciais, aprovado pelo Dec Lei
+    262/86 de 02-Set, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterados, a partir de 24.05.2010, os art.s 277º e 384º do Código das Sociedades Comerciais, aprovado pelo Dec Lei\
+    \ 262/86, de 02-Set, na redacção do presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:279421:por
+  label: "Alterados, a partir de 06.04.2011, os arts. 202º e 219º do Código das Sociedades Comerciais, aprovado pelo Dec Lei\
+    \ 262/86, de 02-Set, na redacção do presente diploma, pelo DEC LEI.33/2011.07.03.2011.PCM, DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2011-279421
+  date: '2011-03-07'
+- type: amended_by
+  target: pt:dre:66443115:por
+  label: Alterados a partir de 2015-03-02 os arts. 348.º, 358.º, 360.º, 370.º e 371.º do Código das Sociedades Comerciais
+    aprovado pelo Dec Lei 262/86, de 02-set, na redação do presente diploma, pelo(a) Decreto-Lei n.º 26/2015 - Diário da República
+    n.º 26/2015, Série I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2015-66443115
+  date: '2015-02-06'
+- type: cites
+  target: pt:dre:157029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286089:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239625:por
+  label: Rectificados os §§ 3º e 10º do nº 3 do preâmbulo e o art.1º - na parte referente ao nº 5 do art. 305º do Código das
+    Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 22-Set, pela DECL.DD4364.12.08.1987.PCM, DR.IS [199-Supl] de 31.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-239625
+  date: '1987-08-12'
 article_structure:
-  article_count: 51
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 50
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:41Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +262,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 16.º, 36.º, 59.º, 63.º, 66.º, 69.º, 89.º, 90.º, 93.º, 126.º, 142.º, 191.º, 192.º, 193.º, 202.º, 217.º, 219.º, 247.º, 248.º, 250.º, 260.º, 277.º, 285.º, 288.º, 289.º, 294.º, 297.º, 304.º, 305.º, 317.º, 322.º, 328.º, 348.º, 350.º, 352.º, 358.º, 360.º, 370.º, 371.º, 375.º, 384.º, 387.º, 405.º, 409.º, 414.º, 415.º, 416.º, 425.º, 464.º e 488.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 22 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 16.º, 36.º, 59.º, 63.º, 66.º, 69.º, 89.º, 90.º, 93.º, 126.º, 142.º, 191.º, 192.º, 193.º, 202.º, 217.º, 219.º, 247.º, 248.º, 250.º, 260.º, 277.º, 285.º, 288.º, 289.º, 294.º, 297.º, 304.º, 305.º, 317.º, 322.º, 328.º, 348.º, 350.º, 352.º, 358.º, 360.º, 370.º, 371.º, 375.º, 384.º, 387.º, 405.º, 409.º, 414.º, 415.º, 416.º, 425.º, 464.º e 488.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 22 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 16.º — Vantagens, indemnizações e retribuições
 
@@ -504,7 +630,9 @@ e) O número de acções incorporadas no título e o seu valor nominal global.
 
 8 - Os documentos comprovativos da subscrição de acções não constituem, por si só títulos provisórios, não lhes sendo aplicáveis os preceitos para estes previstos.
 
-###### Artigo 305.º — Livro de registo de acções
+###### Artigo 305.º
+
+## Livro de registo de acções
 
 1 - ...
 
@@ -814,7 +942,7 @@ e) ...
 
 3 - ...
 
-###### Art. 2.º É rectificado do seguinte modo o preâmbulo do [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro:
+Art. 2.º É rectificado do seguinte modo o preâmbulo do [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro:
 
 No n.º 7, onde se lê «142.º, n.º 1, alínea b)» deve ler-se «142.º, n.º 1, alínea a)»;
 
@@ -822,13 +950,13 @@ No n.º 7, onde se lê «modificativa deste» deve ler-se «modificativa deste (
 
 No n.º 20, onde se lê «11 de Março de 1901» deve ler-se «11 de Abril de 1901».
 
-###### Art. 3.º São rectificadas as seguintes inexactidões constantes do n.º 1 do artigo 3.º do [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro:
+Art. 3.º São rectificadas as seguintes inexactidões constantes do n.º 1 do artigo 3.º do [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro:
 
 Onde se lê «O Decreto-Lei n.º 49831» deve ler-se «O [Decreto-Lei n.º 49381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49381-1969-215705)»;
 
 Onde se lê «[Decreto-Lei n.º 398/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1977-285932)» deve ler-se «[Decreto-Lei n.º 389/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1977-286089)».
 
-###### Art. 4.º São rectificadas as seguintes inexactidões constantes do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro:
+Art. 4.º São rectificadas as seguintes inexactidões constantes do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro:
 
 1) Artigo 9.º, n.º 3: onde se lê «a não ser que esta» deve ler-se «a não ser que este»;
 
@@ -974,18 +1102,18 @@ Onde se lê «[Decreto-Lei n.º 398/77](https://diariodarepublica.pt/dr/detalhe/
 
 72) Artigo 524.º: onde se lê «Instituto de Gestão de Segurança Social», deve ler-se «Instituto de Gestão Financeira da Segurança Social»;
 
-###### Art. 5.º Relativamente a sociedades por quotas constituídas antes de 1 de Novembro de 1986, o prazo de dois anos referido no artigo 262.º, n.º 2, do Código das Sociedades Comerciais conta-se a partir de 1 de Janeiro de 1987.
+Art. 5.º Relativamente a sociedades por quotas constituídas antes de 1 de Novembro de 1986, o prazo de dois anos referido no artigo 262.º, n.º 2, do Código das Sociedades Comerciais conta-se a partir de 1 de Janeiro de 1987.
 
-###### Art. 6.º Depois de publicado o decreto-lei que, no uso da autorização legislativa conferida pelo artigo 1.º da [Lei n.º 41/86](https://diariodarepublica.pt/dr/detalhe/lei/41-1986-221757), de 23 de Setembro, introduzirá no Código das Sociedades Comerciais as disposições respeitantes ao ilícito penal e ao ilícito de mera ordenação social, às quais passarão a corresponder os novos artigos 509.º a 529.º, as referências feitas no presente diploma, no [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, e no Código das Sociedades Comerciais aos actuais artigos 509.º a 529.º passam a considerar-se feitas aos artigos 530.º a 545.º, respectivamente.
+Art. 6.º Depois de publicado o decreto-lei que, no uso da autorização legislativa conferida pelo artigo 1.º da [Lei n.º 41/86](https://diariodarepublica.pt/dr/detalhe/lei/41-1986-221757), de 23 de Setembro, introduzirá no Código das Sociedades Comerciais as disposições respeitantes ao ilícito penal e ao ilícito de mera ordenação social, às quais passarão a corresponder os novos artigos 509.º a 529.º, as referências feitas no presente diploma, no [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, e no Código das Sociedades Comerciais aos actuais artigos 509.º a 529.º passam a considerar-se feitas aos artigos 530.º a 545.º, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 11 de Junho de 1987.**
+Promulgado em 11 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Junho de 1987.**
+Referendado em 14 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

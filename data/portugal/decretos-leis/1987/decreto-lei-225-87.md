@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1987-421642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1bb7909eaf6ea6a2424840ef211d84d958e6f21359a93a4f501245f99a908c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db259cc3e478c32b9976dc2934cd0a51c1bf0fecebd555edc8923abfb1ea70c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Desemprego
+- Ministério do Emprego e da Segurança Social
+- Mobilidade de Pessoal
+- Política de Emprego
+- Subsídio de Deslocação
+- Subsídio de Residência
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148780:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogado a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:19:46Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +195,7 @@ O Ministério do Trabalho e Segurança Social promoverá a divulgação das opor
 
 ###### Artigo 10.º — Encargos orçamentais
 
-**O Ministro das Finanças e o Ministro do Trabalho e Segurança Social providenciarão a cobertura orçamental dos encargos decorrentes deste diploma.**
+O Ministro das Finanças e o Ministro do Trabalho e Segurança Social providenciarão a cobertura orçamental dos encargos decorrentes deste diploma.
 
 ###### Artigo 11.º — Regiões autónomas
 
@@ -187,12 +203,12 @@ O presente decreto-lei poderá ser aplicado nas Regiões Autónomas dos Açores 
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Luís Filipe da Conceição Pereira.
 
-**Promulgado em 5 de Maio de 1987.**
+Promulgado em 5 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Maio de 1987.**
+Referendado em 6 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

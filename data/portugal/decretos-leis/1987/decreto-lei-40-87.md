@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02200/03330337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1987-663331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:22:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1b8561d516ab5a289de38eea747ba914d1fa6f82f6d98f4dcb72f1d6b80534a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fd0a3049d5f1807d37991560aadf6ba4f57895e43dabcf76d54706cec469e7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Propriedade Industrial
+- Macau
+- Marca
+- Patente
+- Propriedade Industrial
 relationships:
 - type: amended_by
   target: pt:dre:139270:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:192654:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218281:por
+  label: Rectificado pela DECL.DD3051.1987.05.06.PCM, DR.IS [124]2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218281
+  date: '1987-05-06'
+- type: repealed_by
+  target: pt:dre:139270:por
+  label: "Revogado pelo DEC LEI.16/95.1995.01.24.MIE, DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1995-139270
+  date: '1995-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:22:39Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 8.º, 14.º, n.os 4.º e 5.º e § único, 15.º, n.º 2.º, § 1.º, alíneas d), e) e g), e § 4.º, 19.º, § único, 35.º, 36.º, 45.º, 54.º, n.º 2.º e § 1.º, 72.º, 73.º, 76.º, n.os 5.º e 6.º e § 1.º, 80.º, 97.º, 98.º, 99.º, 100.º, 101.º, 119.º, §§ 2.º, 3.º e 4.º, 175.º, 180.º, § 2.º, 183.º, 199.º, 257.º, alíneas a), b) e c) do n.º 2.º, 266.º, § 4.º, 268.º, 276.º e 286.º do Código da Propriedade Industrial, aprovado pelo [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 8.º, 14.º, n.os 4.º e 5.º e § único, 15.º, n.º 2.º, § 1.º, alíneas d), e) e g), e § 4.º, 19.º, § único, 35.º, 36.º, 45.º, 54.º, n.º 2.º e § 1.º, 72.º, 73.º, 76.º, n.os 5.º e 6.º e § 1.º, 80.º, 97.º, 98.º, 99.º, 100.º, 101.º, 119.º, §§ 2.º, 3.º e 4.º, 175.º, 180.º, § 2.º, 183.º, 199.º, 257.º, alíneas a), b) e c) do n.º 2.º, 266.º, § 4.º, 268.º, 276.º e 286.º do Código da Propriedade Industrial, aprovado pelo [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940, passam a ter a seguinte redacção:
 
-###### Art. 6.º A concessão de patente implica mera presunção jurídica de novidade, realidade e merecimento do invento.
+Art. 6.º A concessão de patente implica mera presunção jurídica de novidade, realidade e merecimento do invento.
 
 § 1.º A patente de um processo de fabrico de um produto novo faz presumir, até prova em contrário, que a fabricação por terceiro do mesmo produto foi efectuada pelo processo patenteado.
 
@@ -116,7 +135,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 9.º Na produção de prova em contrário e no arbitramento cautelar devem ser considerados os interesses legítimos do presumível infractor, para efeitos de protecção de segredos comerciais e de fabrico.
 
-###### Art. 8.º A concessão da patente dá o direito exclusivo de explorar o invento em qualquer parte do território português e de aí produzir ou fabricar os objectos que constituem o dito invento, ou em que este se manifeste, com a obrigação de o fazer de modo efectivo e em harmonia com as necessidades da economia nacional.
+Art. 8.º A concessão da patente dá o direito exclusivo de explorar o invento em qualquer parte do território português e de aí produzir ou fabricar os objectos que constituem o dito invento, ou em que este se manifeste, com a obrigação de o fazer de modo efectivo e em harmonia com as necessidades da economia nacional.
 
 § 1.º O âmbito do direito exclusivo de explorar o invento é determinado pelo conteúdo das reivindicações, não podendo a descrição e os desenhos servir para interpretar as reivindicações.
 
@@ -124,7 +143,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 1.º ...
 
@@ -138,7 +157,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § único. As expressões de fantasia empregadas para designar o invento não constituem objecto de reivindicação, mas poderão registar-se como marca.
 
-###### Art. 15.º Ao requerimento deverão juntar-se, em duplicado, os documentos seguintes:
+Art. 15.º Ao requerimento deverão juntar-se, em duplicado, os documentos seguintes:
 
 1.º ...
 
@@ -206,23 +225,23 @@ g) ...
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § único. Publicado o resumo, qualquer pessoa poderá requerer cópia das reivindicações do correspondente pedido de patente.
 
 ...
 
-###### Art. 35.º O proprietário de patente de invenção que não tenha pago as taxas devidas no prazo legal tem o direito de renovar a patente durante o período de seis meses, com o pagamento de todas as taxas em dívida, acrescidas do adicional de 50%, sob pena de caducidade.
+Art. 35.º O proprietário de patente de invenção que não tenha pago as taxas devidas no prazo legal tem o direito de renovar a patente durante o período de seis meses, com o pagamento de todas as taxas em dívida, acrescidas do adicional de 50%, sob pena de caducidade.
 
-###### Art. 36.º O proprietário de patente caducada por falta de pagamento de taxas tem o direito de revalidar o respectivo título se o requerer durante o período de um ano a contar da data de publicação do aviso de caducidade no Boletim da Propriedade Industrial, desde que não ofenda os direitos de terceiros e satisfaça o triplo de todas as taxas em dívida.
-
-...
-
-###### Art. 45.º O depósito de modelos de utilidade, modelos industriais e desenhos industriais produz efeitos, a contar da data da sua concessão, durante o período de um ano, indefinidamente renovável.
+Art. 36.º O proprietário de patente caducada por falta de pagamento de taxas tem o direito de revalidar o respectivo título se o requerer durante o período de um ano a contar da data de publicação do aviso de caducidade no Boletim da Propriedade Industrial, desde que não ofenda os direitos de terceiros e satisfaça o triplo de todas as taxas em dívida.
 
 ...
 
-###### Art. 54.º ...
+Art. 45.º O depósito de modelos de utilidade, modelos industriais e desenhos industriais produz efeitos, a contar da data da sua concessão, durante o período de um ano, indefinidamente renovável.
+
+...
+
+Art. 54.º ...
 
 1.º ...
 
@@ -236,13 +255,13 @@ g) ...
 
 ...
 
-###### Art. 72.º O proprietário do depósito do modelo ou desenho que não tenha pago as taxas devidas no prazo legal poderá obter a renovação do seu título no período de seis meses, com o pagamento de todas as taxas em dívida, acrescidas do adicional de 50%.
+Art. 72.º O proprietário do depósito do modelo ou desenho que não tenha pago as taxas devidas no prazo legal poderá obter a renovação do seu título no período de seis meses, com o pagamento de todas as taxas em dívida, acrescidas do adicional de 50%.
 
-###### Art. 73.º Pode ainda ser requerida a revalidação de um título de depósito de modelo de utilidade, modelo industrial e desenho industrial, dentro do prazo de um ano a contar da publicação no Boletim da Propriedade Industrial, do termo da sua duração, com o pagamento do triplo de todas as taxas em dívida, se a outrem não estiver concedido o seu uso, provando o requerente que justa causa o impediu de apresentar o pedido de renovação dentro do prazo legal.
+Art. 73.º Pode ainda ser requerida a revalidação de um título de depósito de modelo de utilidade, modelo industrial e desenho industrial, dentro do prazo de um ano a contar da publicação no Boletim da Propriedade Industrial, do termo da sua duração, com o pagamento do triplo de todas as taxas em dívida, se a outrem não estiver concedido o seu uso, provando o requerente que justa causa o impediu de apresentar o pedido de renovação dentro do prazo legal.
 
 ...
 
-###### Art. 76.º O direito de usar marcas compete a quem tiver legítimo interesse, e em especial:
+Art. 76.º O direito de usar marcas compete a quem tiver legítimo interesse, e em especial:
 
 1.º ...
 
@@ -264,13 +283,13 @@ g) ...
 
 ...
 
-###### Art. 80.º Durante a vigência do registo o proprietário da marca tem o direito de lhe adicionar a designação «Marca Registada», ou as iniciais «M. R.», ou ainda simplesmente a inicial [([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/02200/03330337.pdf))](https://files.diariodarepublica.pt/1s/1987/01/02200/03330337.pdf).
+Art. 80.º Durante a vigência do registo o proprietário da marca tem o direito de lhe adicionar a designação «Marca Registada», ou as iniciais «M. R.», ou ainda simplesmente a inicial [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02200/03330337.pdf).
 
 ...
 
 ##### SUBSECÇÃO II — Protecção em Macau
 
-###### Art. 97.º No território de Macau, compete aos serviços de economia receber a documentação relativa à protecção de direitos referentes a marcas e promover as diligências necessárias para os tornar efectivos em Macau.
+Art. 97.º No território de Macau, compete aos serviços de economia receber a documentação relativa à protecção de direitos referentes a marcas e promover as diligências necessárias para os tornar efectivos em Macau.
 
 § 1.º Os actos e termos de processo junto dos serviços de economia de Macau só podem ser promovidos:
 
@@ -282,13 +301,13 @@ b) Pelo próprio interessado ou titular do direito.
 
 § 3.º Se forem violadas as regras do mandato previstas neste artigo, o representado será notificado directamente para cumprir as formalidades legais exigidas, no prazo improrrogável de 30 dias, sem perda das propriedades a que tenha direito, aplicando-se, não sendo cumprida a notificação, o disposto nos §§ 3.º e 4.º do artigo 185.º deste Código.
 
-###### Art. 98.º Os pedidos de registo de marcas para Macau poderão ser apresentados no Instituto Nacional da Propriedade Industrial ou nos serviços de economia de Macau, que os transmitirá ao Instituto.
+Art. 98.º Os pedidos de registo de marcas para Macau poderão ser apresentados no Instituto Nacional da Propriedade Industrial ou nos serviços de economia de Macau, que os transmitirá ao Instituto.
 
 § 1.º O disposto neste artigo aplica-se a quaisquer requerimentos relativos a marcas previstos neste Código.
 
 § 2.º Os serviços de economia de Macau anotarão em todos os requerimentos que receberem a data e a hora da respectiva apresentação.
 
-###### Art. 99.º Os pedidos de registo de marcas para Macau serão publicados separadamente no Boletim da Propriedade Industrial, seguindo-se-lhes as formalidades legais previstas neste Código para o registo das marcas nacionais.
+Art. 99.º Os pedidos de registo de marcas para Macau serão publicados separadamente no Boletim da Propriedade Industrial, seguindo-se-lhes as formalidades legais previstas neste Código para o registo das marcas nacionais.
 
 § 1.º Os serviços de economia de Macau farão publicar no Boletim Oficial de Macau os pedidos de registo de marcas relativas ao território, bem como todos os avisos que entenderem necessários.
 
@@ -302,13 +321,13 @@ b) Pelo próprio interessado ou titular do direito.
 
 § 6.º As taxas devidas pelos actos relativos a cada requerimento serão arrecadadas pelos serviços onde forem apresentados.
 
-###### Art. 100.º Os titulares de registos de marcas válidos em Portugal que não tenham promovido atempadamente a confirmação dos mesmos registos poderão, com a devida justificação, requerer a extensão a Macau dos mesmos registos, mediante o pagamento do triplo da taxa de confirmação.
+Art. 100.º Os titulares de registos de marcas válidos em Portugal que não tenham promovido atempadamente a confirmação dos mesmos registos poderão, com a devida justificação, requerer a extensão a Macau dos mesmos registos, mediante o pagamento do triplo da taxa de confirmação.
 
 § 1.º A requerimento do interessado, qualquer pedido de registo da marca pendente pode ser tornado extensivo a Macau.
 
 § 2.º Concedido o registo para Portugal, a extensão a Macau poderá ser requerida mediante o pagamento do triplo da taxa.
 
-###### Art. 101.º Relativamente às marcas cujo registo seja exclusivamente requerido para Macau, quando o exame efectuado pelo Instituto Nacional da Propriedade Industrial revelar semelhança com marca anterior, com o registo pedido ou concedido apenas para Portugal e que, no entender do examinador, poderá justificar a recusa do registo, será o respectivo titular ou requerente notificado para, querendo, requerer a extensão a Macau do seu próprio registo ou pedido no prazo de 90 dias, podendo no mesmo prazo apresentar reclamação.
+Art. 101.º Relativamente às marcas cujo registo seja exclusivamente requerido para Macau, quando o exame efectuado pelo Instituto Nacional da Propriedade Industrial revelar semelhança com marca anterior, com o registo pedido ou concedido apenas para Portugal e que, no entender do examinador, poderá justificar a recusa do registo, será o respectivo titular ou requerente notificado para, querendo, requerer a extensão a Macau do seu próprio registo ou pedido no prazo de 90 dias, podendo no mesmo prazo apresentar reclamação.
 
 § 1.º O registo ou pedido anterior só poderá ser considerado fundamento de recusa se a notificação tiver sido satisfeita.
 
@@ -316,7 +335,7 @@ b) Pelo próprio interessado ou titular do direito.
 
 ...
 
-###### Art. 119.º ...
+Art. 119.º ...
 
 § 1.º ...
 
@@ -328,13 +347,13 @@ b) Pelo próprio interessado ou titular do direito.
 
 ...
 
-###### Art. 175.º Se antes da publicação do aviso do pedido no Boletim da Propriedade Industrial se tiverem verificado quaisquer irregularidades, o requerente será desde logo notificado do resultado da verificação, a fim de que possa regularizar o pedido.
+Art. 175.º Se antes da publicação do aviso do pedido no Boletim da Propriedade Industrial se tiverem verificado quaisquer irregularidades, o requerente será desde logo notificado do resultado da verificação, a fim de que possa regularizar o pedido.
 
 § único. Se o pedido não for regularizado pelo requerente antes de decorridos quinze meses contados a partir da data da prioridade reivindicada, ou três meses a contar da data do pedido, se não tiver sido reivindicado o direito de prioridade, a notificação será feita no Boletim da Propriedade Industrial, a fim de que não sejam suscitadas reclamações fundadas nessas irregularidades.
 
 ...
 
-###### Art. 180.º ...
+Art. 180.º ...
 
 § 1.º ...
 
@@ -342,19 +361,19 @@ b) Pelo próprio interessado ou titular do direito.
 
 ...
 
-###### Art. 183.º A vistoria pode também partir da iniciativa do Instituto Nacional da Propriedade Industrial no caso de se verificar que ela é indispensável ao perfeito esclarecimento do processo.
+Art. 183.º A vistoria pode também partir da iniciativa do Instituto Nacional da Propriedade Industrial no caso de se verificar que ela é indispensável ao perfeito esclarecimento do processo.
 
 § único. ...
 
 ...
 
-###### Art. 199.º Com excepção da procuração, que será sempre especial e identificando o processo a que se refere e será sempre junta a cada um dos processos em que o requerente for representado pelo mesmo procurador, os documentos destinados a instruir os pedidos poderão ser juntos a um deles e referidos nos outros, mas, no caso de recurso, a parte que o interpôs é obrigada a completar à sua custa, por meio de certidões, o processo em que tais documentos tenham sido referidos.
+Art. 199.º Com excepção da procuração, que será sempre especial e identificando o processo a que se refere e será sempre junta a cada um dos processos em que o requerente for representado pelo mesmo procurador, os documentos destinados a instruir os pedidos poderão ser juntos a um deles e referidos nos outros, mas, no caso de recurso, a parte que o interpôs é obrigada a completar à sua custa, por meio de certidões, o processo em que tais documentos tenham sido referidos.
 
 § único ...
 
 ...
 
-###### Art. 257.º - 1.º ...
+Art. 257.º - 1.º ...
 
 2.º ...
 
@@ -368,7 +387,7 @@ c) As de registo de nome ou de insígnia, no último ano do respectivo prazo.
 
 ...
 
-###### Art. 266.º ...
+Art. 266.º ...
 
 § 1.º ...
 
@@ -384,11 +403,11 @@ c) As de registo de nome ou de insígnia, no último ano do respectivo prazo.
 
 § 7.º ...
 
-###### Art. 268.º Dentro dos oito dias seguintes ao da publicação de que trata a disposição antecedente o júri, constituído pelo director do Instituto Nacional da Propriedade Industrial e por dois directores de serviços do mesmo Instituto nomeados pelo director, procederá ao exame dos documentos oferecidos pelos candidatos e à sua classificação.
+Art. 268.º Dentro dos oito dias seguintes ao da publicação de que trata a disposição antecedente o júri, constituído pelo director do Instituto Nacional da Propriedade Industrial e por dois directores de serviços do mesmo Instituto nomeados pelo director, procederá ao exame dos documentos oferecidos pelos candidatos e à sua classificação.
 
 ...
 
-###### Art. 276.º O agente oficial pode ter um adjunto que o substitua e por cujos actos será civil e disciplinarmente responsável.
+Art. 276.º O agente oficial pode ter um adjunto que o substitua e por cujos actos será civil e disciplinarmente responsável.
 
 § 1.º O adjunto de agente oficial deverá em todo o caso ser cidadão português e gozar de boa reputação.
 
@@ -396,17 +415,17 @@ c) As de registo de nome ou de insígnia, no último ano do respectivo prazo.
 
 ...
 
-###### Art. 286.º O Boletim da Propriedade Industrial será publicado mensalmente, como apêndice ao Diário da República.
+Art. 286.º O Boletim da Propriedade Industrial será publicado mensalmente, como apêndice ao Diário da República.
 
 § 1.º Os serviços deverão providenciar no sentido de a publicação se fazer em data tão regular e próxima do fim do mês a que o número respeita quanto possível.
 
 § 2.º Havendo reivindicação de propriedade, os pedidos de patente de invenção de depósito de modelo de utilidade, de modelo industrial ou de desenho industrial não serão publicados no Boletim da Propriedade Industrial antes de decorridos dezoito meses a contar da data das respectivas prioridades, salvo pedido expresso do requerente para que a publicação tenha lugar em data anterior.
 
-###### Art. 2.º Pelo presente diploma são revogados os §§ 1.º e 2.º do artigo 8.º, §§ 1.º e 2.º do artigo 19.º, § 1.º do artigo 21.º, § único do artigo 181.º e §§ 3.º e 4.º do artigo 276.º, passando os §§ 2.º e 3.º do artigo 21.º a §§ 1.º e 2.º, todos do Código da Propriedade Industrial.
+Art. 2.º Pelo presente diploma são revogados os §§ 1.º e 2.º do artigo 8.º, §§ 1.º e 2.º do artigo 19.º, § 1.º do artigo 21.º, § único do artigo 181.º e §§ 3.º e 4.º do artigo 276.º, passando os §§ 2.º e 3.º do artigo 21.º a §§ 1.º e 2.º, todos do Código da Propriedade Industrial.
 
-###### Art. 3.º As referências feitas no Código da Propriedade Industrial ao proposto de agente oficial da propriedade industrial entendem-se como feitas ao adjunto do mesmo agente oficial.
+Art. 3.º As referências feitas no Código da Propriedade Industrial ao proposto de agente oficial da propriedade industrial entendem-se como feitas ao adjunto do mesmo agente oficial.
 
-###### Art. 4.º Estabelecem-se as seguintes regras transitórias para a protecção de marcas em Macau:
+Art. 4.º Estabelecem-se as seguintes regras transitórias para a protecção de marcas em Macau:
 
 a) Qualquer marca cujo registo esteja em vigor em Portugal ou que venha a ser concedido durante o período a que se refere o número seguinte terá assegurada a protecção em Macau, desde que se proceda à confirmação do registo;
 
@@ -422,12 +441,12 @@ Para ser publicado no Boletim Oficial de Macau.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

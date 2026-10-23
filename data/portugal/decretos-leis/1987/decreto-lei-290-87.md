@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/17200/29502950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1987-417252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3b63a9f35dfc98a42f09d90716eb3e1a2ea44ac8a0cb88e71ca7dd607e630ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97533c8f4e97c4492e3d5804b0a8c220a94bf178b615937ea2af45f505165f1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Comercial
+- Banco de Investimento
+- Fundos Consignados
+- Instituições Parabancárias
+- Mercado de Capitais
+- Sociedade de Capital de Risco
 relationships:
 - type: amended_by
   target: pt:dre:639487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:210827:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO-LEI NUMERO 187/91, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SERIE-A, NUMERO 113, DE 17/9/91.\0\
+    /9/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:639487:por
+  label: "Revogado o Dec Lei 427/86, de 29-Dez, na redacção do presente diploma, pelo DEC LEI.187/91.17.05.1991.MF, DR.IS-A\
+    \ [113] de 17.05.1991, sem prejuízo do disposto no nº 2 do seu art. 10º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-1991-639487
+  date: '1991-05-17'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:51Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +118,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 6.º do [Decreto-Lei n.º 427/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1986-210827), de 29 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 6.º do [Decreto-Lei n.º 427/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1986-210827), de 29 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 6.º — Remuneração e outros direitos
 
@@ -107,12 +128,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 17 de Julho de 1987.**
+Promulgado em 17 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1987.**
+Referendado em 21 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

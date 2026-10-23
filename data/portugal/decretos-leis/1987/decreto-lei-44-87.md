@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02300/03520352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1987-663288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b8fbc6213ec2e7fa7a3e971aa8ea7ed62e0b8b5822d7e3004d59def82c73127
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e815d6915ac17c97962cdc74ff1c06225739ba8c63b6df6b7e2c478f3a9499dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Gestão Escolar
+- Reitor
 relationships:
 - type: amended_by
   target: pt:dre:219367:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219367:por
+  label: "Revogado pelo DEC LEI.170/96.1996.09.19.ME, DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1996-219367
+  date: '1996-09-19'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:23:01Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +110,26 @@ Considerando que a ausência ou impedimento do reitor por período prolongado po
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sempre que o reitor de uma instituição universitária se encontre ausente, por falta ou impedimento, por período superior a 120 dias, considerar-se-á este na situação de impedimento temporário prolongado.
+Artigo 1.º Sempre que o reitor de uma instituição universitária se encontre ausente, por falta ou impedimento, por período superior a 120 dias, considerar-se-á este na situação de impedimento temporário prolongado.
 
-###### Art. 2.º - 1 - O impedimento referido no artigo anterior determina a obrigatoriedade de reunido do senado universitário, o qual fundadamente deliberará sobre se o mencionado impedimento do reitor determinou ou está na iminência de determinar a existência de obstáculos insuperáveis ao normal funcionamento da instituição.
+Art. 2.º - 1 - O impedimento referido no artigo anterior determina a obrigatoriedade de reunido do senado universitário, o qual fundadamente deliberará sobre se o mencionado impedimento do reitor determinou ou está na iminência de determinar a existência de obstáculos insuperáveis ao normal funcionamento da instituição.
 
 2 - Se a deliberação do senado universitário declarar que a subsistência do impedimento temporário prolongado do reitor envolve a produção das consequências referidas no número anterior, considera-se, independentemente de quaisquer outras formalidades legais, como findo o mandato do reitor e vago o correspondente cargo.
 
 3 - A declaração a que se refere o número anterior implica a abertura, nos termos legais e estatutários aplicáveis, do processo conducente à eleição de novo reitor.
 
-###### Art. 3.º Nas universidades em que não houver senado universitário, a competência referida no artigo 2.º deste diploma é exercida pelos órgãos constituídos, em cada universidade, ao abrigo do disposto no artigo 61.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
+Art. 3.º Nas universidades em que não houver senado universitário, a competência referida no artigo 2.º deste diploma é exercida pelos órgãos constituídos, em cada universidade, ao abrigo do disposto no artigo 61.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
 
-###### Artigo 4.º O presente diploma não se aplica às universidades em regime de instalação.
+Artigo 4.º O presente diploma não se aplica às universidades em regime de instalação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

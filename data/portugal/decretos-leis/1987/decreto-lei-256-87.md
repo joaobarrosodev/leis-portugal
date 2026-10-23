@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14200/24062406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1987-419660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b8ef848a26442075d3ef13c81607e2bc46aa3a8b54304b38643d83129db108d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1684f09a3f849bbde0c89028f0e63fc7eee17f8ab47e22147942af92487f1738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
+- Serviço Doméstico
+- Trabalhador do Serviço Doméstico
 relationships:
 - type: amended_by
   target: pt:dre:612243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442304:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 64/89, DE 25 DE FEVEREIRO, PUBLICADO NO DR.IS, 47.\0 47."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:612243:por
+  label: Revogado, a partir de 01.05.1989, pelo(a) Decreto-Lei n.º 64/89 - Diário da República n.º 47/1989, Série I de 1989-02-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1989-612243
+  date: '1989-02-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:20:15Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +120,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A falta de entrega, nos prazos regulamentares, das folhas-guias de pagamento, previstas no artigo 14.º do [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho, por parte dos contribuintes do pessoal de serviço doméstico deixa de estar sujeita ao pagamento de coima.
+Artigo 1.º - 1 - A falta de entrega, nos prazos regulamentares, das folhas-guias de pagamento, previstas no artigo 14.º do [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho, por parte dos contribuintes do pessoal de serviço doméstico deixa de estar sujeita ao pagamento de coima.
 
 2 - A entrega das folhas-guias fora dos prazos regulamentares fica sujeita a pagamento de juros de mora, de acordo com as disposições legais em vigor.
 
-###### Art. 2.º O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as adaptações que vierem a revelar-se necessárias.
+Art. 2.º O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as adaptações que vierem a revelar-se necessárias.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Junho de 1987.**
+Promulgado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
