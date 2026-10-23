@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 37/1998, 1º Suplemento, Série I-B de 1998-02-13
   number: '37'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 576-(2) a 576-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/10-a/1998/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-a-1998-297399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c46e5210e346a856e9ba4e344f57568614c5a19479b412ac96b90c5633a33dbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a7139c25a509e7a5b7dcb13b6860ee0933fda6568e35ba55b56e07215ba3bf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Desenvolvimento Industrial
-- Política Industrial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Industrial
+- Empresa
+- Financiamento
+- IAPMEI
 - Indústria
 - Modernização Industrial
-- Regime de Apoio
 - Pedip II
-- IAPMEI
+- Política Industrial
+- Projeto de Investimento
+- Regime de Apoio
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -83,6 +83,16 @@ relationships:
   target: pt:dre:667565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235100:por
+  label: "Alterado o art. 12.º pelo DN.71/98.1998.09.16.MECO DR.IS-B [238] DE 15/OUT/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/71-1998-235100
+  date: '1998-09-16'
+- type: amended_by
+  target: pt:dre:181383:por
+  label: "Alterado o nº 1 do art. 2.º e o art. 6.º pelo DN.3/99.1998.12.15.MECO DR.IS-B [21] DE 26/JAN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-1999-181383
+  date: '1998-12-15'
 - type: cites
   target: eli:http://data.dre.pt/
   label: null
@@ -123,16 +133,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:197918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644891:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139455:por
+  label: "Rectificada pela DECL-RECT.7-L/98.1998.03.26.PCM DR.IS-B [76]4ºSUPL DE 31/MAR/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-l-1998-139455
+  date: '1998-03-26'
+- type: corrected_by
+  target: pt:dre:235757:por
+  label: "Rectificado pela DECL-RECT.19-M/98.1998.10.30.PCM,DR.IS-B [252]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-m-1998-235757
+  date: '1998-10-30'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:50Z'
   warnings: []
   errors: []
 ---
@@ -427,7 +495,7 @@ c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 
 
 2 - Em função do grau de realização das metas associadas ao subcritério B(índice 1), a percentagem de base do incentivo correspondente ao subsídio a fundo perdido referida no n.º 1.º do anexo B ao presente diploma e que dele faz parte integrante poderá ser ajustada de acordo com o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
 
 3 - A realização das metas em grau inferior a 70% poderá acarretar a anulação total do incentivo atribuído.
 
@@ -473,7 +541,7 @@ Critério B - Impacte do projecto na competitividade da empresa.
 
 Os critérios atrás referidos são quantificados num intervalo de valores compreendidos entre 0 e 100, nos termos dos números seguintes, sendo a valia industrial (VI) determinada pela soma ponderada das pontuações parcelares obtidas para cada um dos critérios:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
 
 A valia industrial de um projecto será obtida pela aplicação da fórmula:
 
@@ -547,7 +615,7 @@ Relação entre o valor do investimento em activo fixo e o do imobilizado líqui
 
 de acordo com o seguinte quadro:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
 
 O parâmetro B(índice 1.2) - Produtividade económica do projecto avalia o impacte do investimento no produto, tendo em consideração o grau de transformação da actividade desenvolvida.
 
@@ -559,7 +627,7 @@ Relação entre o acréscimo do VAB, como definido no indicador anterior, e o in
 
 de acordo com o seguinte quadro:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)](https://files.diariodarepublica.pt/1s/1998/02/037b01/00020011.pdf)
 
 O «ano cruzeiro» a considerar nos indicadores I(índice 3) e I(índice 4) não poderá ultrapassar o segundo exercício completo, após a conclusão do investimento.
 

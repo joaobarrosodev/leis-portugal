@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/685-1985-177419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a414003adf9a471896c7a27097ead5f3a8f0852da2eb27c34a68cf7837ffbb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae50d7209838cdf4f2096a48f8bc9a4349b21dc167088899c5d3967d056106f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Médica
+- Direcção Geral dos Serviços Tutelares de Menores
+- Médico
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:49Z'
   warnings: []
   errors: []
 ---
@@ -113,12 +137,12 @@ b) Tempo parcial.
 
 Ministérios da Justiça e da Saúde.
 
-**Assinada em 26 de Agosto de 1985.**
+Assinada em 26 de Agosto de 1985.
 
-**O Ministro da Justiça, Mário Ferreira Bastos Raposo. - O Ministro da Saúde, António Manuel Maldonado Gonelha.**
+O Ministro da Justiça, Mário Ferreira Bastos Raposo. - O Ministro da Saúde, António Manuel Maldonado Gonelha.
 
 MAPA I
 
 Pessoal médico da DGSTM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/21200/29542954.pdf))](https://files.diariodarepublica.pt/1s/1985/09/21200/29542954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/21200/29542954.pdf)

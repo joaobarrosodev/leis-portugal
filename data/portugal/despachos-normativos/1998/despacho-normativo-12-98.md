@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/047b00/07660774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/12/1998/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1998-211235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2615fc9328b1535e7dd175a575f53f32b4ec4b2f31939f46d6aa29adcc27035e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 708d6a65bdd07b73a86bdc9fe8db3b1275815e7b7ebaad3ad7f8e0535c3fb792
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lares
-- Terceira Idade
-- Equipamento Social
 - Ação Social
+- Equipamento Social
+- Lares
 - Licenciamento
 - Segurança Social
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:553657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431250:por
+  label: "Prorrogado, por mais 180 dias o prazo referido no nº 1 da norma XIX das Normas aprovadas pelo presente diploma,\
+    \ pelo DN.52/98.1998.06.26.MTS, DR.IS-B [177] de 03/Ago/1998\098\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/52-1998-431250
+  date: '1998-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133-a/1997/05/30/p/dre
   label: null
@@ -84,16 +90,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/156/1992/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/156/1992/07/29/p/dre
+- type: cites
+  target: pt:dre:158178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619287:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1700636:por
+  label: "Revogado o nº 2.3 da ficha 7, \"Área de quartos\", do anexo I pelo DN.3/2011.16.02.2011.SESS-MTSSO, DR.IIS [33]\
+    \ de 16.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2011-1700636
+  date: '2011-02-16'
+- type: repealed_by
+  target: pt:dre:553657:por
+  label: "Revogado pela PORT.67/2012.21.03.2012.MSSSOC, DR.IS [58] de 21.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-2012-553657
+  date: '2012-03-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:55Z'
   warnings: []
   errors: []
 ---

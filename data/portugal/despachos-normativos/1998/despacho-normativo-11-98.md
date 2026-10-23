@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11/1998/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1998-209776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07293c0c1315884a3df170c591fc2c2d5a2164d068ed77e6d2408ee09386c8d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a22e5507cdd7cb017c9abe70c7f2d028a60e52b993989e9af148582015fefd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,72 @@ reuse:
 subjects:
 - Autonomia Universitária
 - Ensino Oficial
-- Estatuto
 - Ensino Superior
+- Estatuto
 - Universidade do Minho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/83/1995/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/83/1995/12/26/p/dre
+- type: cites
+  target: pt:dre:197080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3352088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642917:por
+  label: null
+  source: null
 article_structure:
-  article_count: 87
+  article_count: 77
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:51Z'
   warnings: []
   errors: []
 ---
@@ -121,13 +169,13 @@ h) O administrador dos Serviços de Acção Social;
 
 ...
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - O reitor é coadjuvado por vice-reitores, no máximo de quatro, nos quais pode delegar ou subdelegar parte das suas competências.
 
 ...
 
-###### Artigo 22.º
+Artigo 22.º
 
 ...
 
@@ -137,7 +185,7 @@ i) O administrador dos Serviços de Acção Social;
 
 ...
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - Constituem o plenário do conselho académico:
 
@@ -169,7 +217,7 @@ n) Representantes dos estudantes, em número igual ao do número de escolas.
 
 2 - O professor referido na alínea i) do número anterior será um dos vice-presidentes.
 
-###### Artigo 33.º
+Artigo 33.º
 
 ...
 
@@ -179,13 +227,13 @@ d) Quatro docentes da Universidade, designados pelo reitor mediante proposta do 
 
 ...
 
-###### Artigo 35.º
+Artigo 35.º
 
 1 - O conselho cultural integra uma comissão permanente, constituída pelo presidente, pelos responsáveis das unidades culturais da Universidade e por dois dos docentes referidos na alínea d) do artigo 33.º, escolhidos pelo conselho.
 
 ...
 
-###### Artigo 61.º
+Artigo 61.º
 
 1 - Existem na Universidade as seguintes escolas:
 
@@ -205,11 +253,11 @@ g) Instituto de Letras e Ciências Humanas.
 
 2 - A criação de novas escolas, designadamente por reestruturação, pressuporá, como dimensão mínima, a existência de 12 docentes com o grau de doutor, para um corpo docente não inferior a 36 elementos a tempo inteiro.
 
-###### Artigo 62.º
+Artigo 62.º
 
 O Departamento Autónomo de Direito, criado na dependência directa do reitor e com regulamento especial de funcionamento aprovado pelo senado universitário, constituir-se-á como escola quando cumprir os requisitos estabelecidos no n.º 2 do artigo anterior.
 
-###### Artigo 68.º
+Artigo 68.º
 
 1 - São serviços da Universidade:
 
@@ -235,11 +283,11 @@ j) Os Serviços Técnicos.
 
 ...
 
-###### Artigo 70.º
+Artigo 70.º
 
 A assistência à comunidade universitária é assegurada pelos Serviços de Acção Social, que constituem uma unidade orgânica da Universidade, dotada de autonomia administrativa e financeira, e se regem por legislação própria.
 
-###### Artigo 75.º
+Artigo 75.º
 
 ...
 
